@@ -40,7 +40,7 @@ EXCEL_IN = "category_formatted.xlsx"
 CATEGORY_COLUMN = "Formatted_Category"
 SEARCH_URL_TEMPLATE = "https://www.ravelry.com/patterns/search#craft=knitting&availability=free&pc={placeholder}&view=captioned_thumbs"
 
-HTML_OUT_DIR = "html_patterns"
+HTML_OUT_DIR = "downloaded_patterns"
 EXCEL_OUT = "patterns_data.xlsx"
 
 # Selenium / crawling params
