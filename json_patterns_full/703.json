@@ -4,9 +4,12 @@
   "category": "Hat → Pixie",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "19, 22in/48.25, 55.75 cm",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Manos del Uruguay Wool Clasica"
+    "Manos del Uruguay Wool Clasica",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -30,17 +33,17 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/bundles/free-patterns-331",
-    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/comments",
-    "https://www.ravelry.com/patterns/library/petiola-2",
     "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/report",
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point",
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/yarns",
     "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/people",
+    "https://www.ravelry.com/patterns/library/feuille",
     "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/editors",
     "https://www.ravelry.com/patterns/library/quynn",
-    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/yarns",
-    "https://www.ravelry.com/patterns/sources/woolly-wormhead",
+    "https://www.ravelry.com/patterns/library/petiola-2",
     "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/threads",
-    "https://www.ravelry.com/patterns/library/feuille",
-    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point"
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/comments",
+    "https://www.ravelry.com/patterns/sources/woolly-wormhead"
   ],
   "name": "Ravelry: A Hat To Make A Point pattern by Woolly Wormhead"
 }

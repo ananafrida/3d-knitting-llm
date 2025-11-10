@@ -7,6 +7,9 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Shibui Knits Nest",
     "DK (11 wpi) ?"
@@ -26,18 +29,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/report",
-    "https://www.ravelry.com/patterns/library/little-triangle-scarf-no1",
-    "https://www.ravelry.com/patterns/library/brioche-hat-no-2",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/editors",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/posts",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/comments",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/threads",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/people",
-    "https://www.ravelry.com/patterns/sources/placemarker",
     "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/yarns",
+    "https://www.ravelry.com/patterns/sources/placemarker",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/editors",
+    "https://www.ravelry.com/patterns/library/brioche-hat-no-2",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/threads",
+    "https://www.ravelry.com/patterns/library/little-triangle-scarf-no1",
     "https://www.ravelry.com/patterns/library/bandana-cowl-no-2",
-    "https://www.ravelry.com/patterns/sources/cleo-malones-ravelry-store"
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/posts",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/people",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/comments",
+    "https://www.ravelry.com/patterns/sources/cleo-malones-ravelry-store",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/report"
   ]
 }

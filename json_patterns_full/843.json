@@ -4,9 +4,12 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "One size (Instructions for adjusting length)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Annabel Williams Devon 4ply",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Annabel Williams Devon 4ply"
   ],
   "attributes": [
     "adult",
@@ -28,17 +31,17 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/severnside-mitts",
     "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8",
     "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/editors",
-    "https://www.ravelry.com/patterns/library/sally-vest",
-    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/people",
-    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/report",
     "https://www.ravelry.com/patterns/sources/annabel-williams",
-    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/comments",
     "https://www.ravelry.com/patterns/sources/annabel-williams-ravelry-store",
-    "https://www.ravelry.com/patterns/library/meadow-scarf-5",
-    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/yarns"
+    "https://www.ravelry.com/patterns/library/sally-vest",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/yarns",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/people",
+    "https://www.ravelry.com/patterns/library/severnside-mitts",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/comments",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/report",
+    "https://www.ravelry.com/patterns/library/meadow-scarf-5"
   ],
   "name": "Ravelry: Daisy Chain Scarf pattern by Annabel Williams"
 }

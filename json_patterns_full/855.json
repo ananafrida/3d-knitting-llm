@@ -3,6 +3,27 @@
   "craft": "Knitting",
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Garnstudio DROPS Flora"
@@ -27,20 +48,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/report",
-    "https://www.ravelry.com/patterns/library/183-28-everyday-choice",
     "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/comments",
-    "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/editors",
+    "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/report",
+    "https://www.ravelry.com/patterns/library/190-37-sjana",
     "https://www.ravelry.com/patterns/sources/drops-253",
     "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/204-13-a-snowman-set-hat",
-    "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/edit",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.garnstudio.com/pattern.php?id=11872&cid=19",
-    "https://www.ravelry.com/patterns/library/190-37-sjana",
     "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/people",
-    "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/yarns"
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/edit",
+    "https://www.ravelry.com/patterns/library/204-13-a-snowman-set-hat",
+    "https://www.ravelry.com/patterns/periodicals/drops",
+    "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/editors",
+    "https://www.ravelry.com/patterns/library/183-28-everyday-choice",
+    "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf/yarns",
+    "https://www.garnstudio.com/pattern.php?id=11872&cid=19"
   ],
   "name": "Ravelry: 253-33 Fern Valley Scarf pattern by DROPS design"
 }

@@ -7,9 +7,21 @@
   "category": "Tops → Tee",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Svarta Fåret Stina"
+    "Svarta Fåret Stina",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -25,17 +37,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/astoria---cardigan",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/toscana---t-shirt/comments",
     "https://www.ravelry.com/patterns/library/toscana---t-shirt/yarns",
     "https://www.ravelry.com/patterns/library/toscana---t-shirt/report",
-    "https://www.ravelry.com/patterns/library/toscana---t-shirt/editors",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-city-spring-ss2025",
-    "https://www.ravelry.com/patterns/library/toscana---t-shirt/people",
+    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
     "https://www.ravelry.com/patterns/library/astoria---sweater",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt",
+    "https://www.ravelry.com/patterns/library/astoria---cardigan",
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt/people",
     "https://www.ravelry.com/patterns/library/hven---top",
-    "https://www.ravelry.com/patterns/library/toscana---t-shirt"
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt/editors",
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt/comments",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-city-spring-ss2025"
   ]
 }

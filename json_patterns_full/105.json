@@ -4,9 +4,12 @@
   "category": "Blocks",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "4-1/2 in. (11.5 cm) square",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Lion Brand LB Collection Superwash Merino",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Lion Brand LB Collection Superwash Merino"
   ],
   "attributes": [
     "chart",
@@ -23,19 +26,19 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/yarns",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/report",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks",
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/edit",
     "https://www.ravelry.com/patterns/library/babycakes-blocks/comments",
-    "https://www.ravelry.com/patterns/library/miss-mousie",
+    "https://www.ravelry.com/patterns/library/babycakes-blocks/report",
+    "https://www.ravelry.com/patterns/library/babycakes-blocks/yarns",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://www.ravelry.com/patterns/library/babycakes-blocks/people",
+    "https://www.ravelry.com/patterns/library/babycakes-blocks/edit",
+    "http://www.lionbrand.com/patterns/90506AD.html",
     "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
     "https://www.ravelry.com/patterns/library/babycakes-blocks/editors",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/people",
+    "https://www.ravelry.com/patterns/library/miss-mousie",
     "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "http://www.lionbrand.com/patterns/90506AD.html",
-    "https://www.ravelry.com/patterns/library/folklore-cardigan-4"
+    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
+    "https://www.ravelry.com/patterns/library/babycakes-blocks"
   ],
   "name": "Ravelry: Babycakes Blocks pattern by Lion Brand Yarn"
 }

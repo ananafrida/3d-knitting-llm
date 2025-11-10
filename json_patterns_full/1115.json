@@ -4,6 +4,22 @@
   "category": "Tops → Tee",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "XS (S, M, L, XL, 2XL)",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Spanish",
+    "Swedish",
+    "...and 11 other languages show hide other languages",
+    "...and 11 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "yarn held together",
     "Hobbii Friends Kid Silk"
@@ -25,18 +41,18 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/copenhagen-slipover",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/yarns",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/editors",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/posts",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/report",
     "https://www.ravelry.com/patterns/library/summer-lotus",
-    "https://www.ravelry.com/patterns/library/bobbie-13",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/edit",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/people",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/comments",
     "https://www.ravelry.com/patterns/sources/hobbii-website",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt"
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/people",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/posts",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/edit",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/comments",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/report",
+    "https://www.ravelry.com/patterns/library/copenhagen-slipover",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/editors",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt",
+    "https://www.ravelry.com/patterns/library/bobbie-13",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/yarns"
   ],
   "name": "Ravelry: Berry T-Shirt pattern by Maria Sølvtofte"
 }

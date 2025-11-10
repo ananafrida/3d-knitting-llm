@@ -4,9 +4,30 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "XS - S - M - L - XL - XXL - XXXL",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Garnstudio DROPS Alaska"
+    "Garnstudio DROPS Alaska",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -38,20 +59,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/yarns",
-    "https://www.garnstudio.com/pattern.php?id=12439&cid=19",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
     "https://www.ravelry.com/patterns/library/262-21-caramel-haze-sweater",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/editors",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/report",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/edit",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/people",
     "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/comments",
+    "https://www.garnstudio.com/pattern.php?id=12439&cid=19",
+    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/people",
     "https://www.ravelry.com/patterns/sources/drops-260",
-    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan"
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/edit",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/editors",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/report",
+    "https://www.ravelry.com/patterns/periodicals/drops",
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan/yarns"
   ],
   "name": "Ravelry: 260-3 Ireland Magic Cardigan pattern by DROPS design"
 }

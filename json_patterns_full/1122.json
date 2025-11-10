@@ -6,6 +6,11 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "sizes_available": "Fingering 4 3/4\"; DK/Sport 5 1/4\"; Worsted 6\"",
+  "languages": [
+    "English",
+    "Italian",
+    "Additional languages which are not in the download: Danish"
+  ],
   "suggested_yarn": [
     "",
     "Any gauge - designed for any gauge ?"
@@ -23,17 +28,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/nurse-mates",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/nurse-mates/people",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
-    "https://www.ravelry.com/patterns/library/nurse-mates/posts",
-    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
-    "https://www.ravelry.com/patterns/library/nurse-mates/comments",
+    "https://www.ravelry.com/patterns/library/nurse-mates/report",
     "https://www.ravelry.com/patterns/library/nurse-mates/editors",
     "https://www.ravelry.com/patterns/library/nurse-mates/yarns",
-    "https://www.ravelry.com/patterns/library/nurse-mates/report",
+    "https://www.ravelry.com/patterns/library/nurse-mates/people",
+    "https://www.ravelry.com/patterns/library/nurse-mates/posts",
+    "https://www.ravelry.com/patterns/library/nurse-mates",
+    "https://www.ravelry.com/patterns/library/nurse-mates/threads",
     "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
-    "https://www.ravelry.com/patterns/library/nurse-mates/threads"
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+    "https://www.ravelry.com/patterns/library/nurse-mates/comments",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store"
   ]
 }

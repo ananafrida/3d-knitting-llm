@@ -7,9 +7,12 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "0–3 mo, 3–6 mo, 6–12 mo, 1–3 yr, 3–5 yr, 6–10 yr, Teen/Adult S, Adult M, Adult L.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Knit Picks Swish Worsted"
+    "Knit Picks Swish Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -27,20 +30,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/editors",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/yarns",
-    "https://www.ravelry.com/patterns/sources/marly-birds-ravelry-store",
     "https://www.ravelry.com/patterns/library/prism-path-swoncho",
-    "https://www.ravelry.com/patterns/library/twilight-trails-2",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/people",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/threads",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/editors",
     "https://www.ravelry.com/patterns/sources/marly-bird-etsy-store",
-    "https://marlybird.com/blog/pixel-pop-knit-hat-free-pattern/",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/comments",
-    "https://www.ravelry.com/patterns/sources/marly-birds-website",
+    "https://www.ravelry.com/patterns/library/twilight-trails-2",
     "https://www.ravelry.com/patterns/library/the-archer-2",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/report",
     "https://www.ravelry.com/patterns/sources/marly-bird-house",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/report"
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/people",
+    "https://www.ravelry.com/patterns/sources/marly-birds-website",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/yarns",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/threads",
+    "https://www.ravelry.com/patterns/sources/marly-birds-ravelry-store",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/comments",
+    "https://marlybird.com/blog/pixel-pop-knit-hat-free-pattern/"
   ]
 }

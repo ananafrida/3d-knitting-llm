@@ -7,6 +7,10 @@
   "category": "Containers",
   "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
   "sizes_available": "25\" around by 14\" tall",
+  "languages": [
+    "Dutch",
+    "English"
+  ],
   "suggested_yarn": [
     "Super Bulky (5-6 wpi) ?",
     "Bernat Baby Blanket (Polyester)"
@@ -27,17 +31,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/yip-yips-knit/posts",
+    "https://www.ravelry.com/patterns/library/yip-yips-knit",
+    "https://www.ravelry.com/patterns/library/yip-yips-knit/report",
+    "https://www.ravelry.com/patterns/sources/carissa-brownings-ravelry-store",
     "https://www.ravelry.com/patterns/library/yip-yips-knit/threads",
     "https://www.ravelry.com/patterns/library/preemie-hats-for-charity",
-    "https://www.ravelry.com/patterns/library/yip-yips-knit/editors",
     "https://www.ravelry.com/patterns/library/yip-yips-knit/comments",
-    "https://www.ravelry.com/patterns/library/pride--progress-cowl-knit",
+    "https://www.ravelry.com/patterns/library/yip-yips-knit/editors",
     "https://www.ravelry.com/patterns/library/yip-yips-knit/people",
-    "https://www.ravelry.com/patterns/library/yip-yips-knit/report",
     "https://www.ravelry.com/patterns/library/yip-yips-crochet",
-    "https://www.ravelry.com/patterns/sources/carissa-brownings-ravelry-store",
     "https://www.ravelry.com/patterns/library/yip-yips-knit/yarns",
-    "https://www.ravelry.com/patterns/library/yip-yips-knit/posts",
-    "https://www.ravelry.com/patterns/library/yip-yips-knit"
+    "https://www.ravelry.com/patterns/library/pride--progress-cowl-knit"
   ]
 }

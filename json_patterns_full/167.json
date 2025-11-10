@@ -7,6 +7,10 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "Any size",
+  "languages": [
+    "English",
+    "Swedish"
+  ],
   "suggested_yarn": [
     "Sport (12 wpi) ?",
     "Höner och Eir Nutiden"
@@ -22,15 +26,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/krakvicker/comments",
     "https://www.ravelry.com/patterns/library/krakvicker/report",
-    "https://www.ravelry.com/patterns/library/krakvicker/people",
-    "https://www.ravelry.com/patterns/library/morkulla",
-    "https://www.ravelry.com/patterns/library/vildapel-shawl",
+    "https://www.ravelry.com/patterns/library/krakvicker/yarns",
+    "https://www.ravelry.com/patterns/library/krakvicker/comments",
     "https://www.ravelry.com/patterns/library/krakvicker/editors",
+    "https://www.ravelry.com/patterns/library/vildapel-shawl",
+    "https://www.ravelry.com/patterns/library/gnejs-shawl",
     "https://www.ravelry.com/patterns/sources/frida-oskaps-ravelry-store",
     "https://www.ravelry.com/patterns/library/krakvicker",
-    "https://www.ravelry.com/patterns/library/gnejs-shawl",
-    "https://www.ravelry.com/patterns/library/krakvicker/yarns"
+    "https://www.ravelry.com/patterns/library/morkulla",
+    "https://www.ravelry.com/patterns/library/krakvicker/people"
   ]
 }

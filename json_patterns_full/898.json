@@ -4,9 +4,12 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Purl Soho Cashmere Merino Bloom",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Purl Soho Cashmere Merino Bloom"
   ],
   "attributes": [
     "in-the-round",
@@ -20,17 +23,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/editors",
     "https://www.ravelry.com/patterns/library/keyhole-scarf-33",
-    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/yarns",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/threads",
+    "https://www.ravelry.com/patterns/library/coziest-cowl",
     "https://www.ravelry.com/patterns/library/loop--tuck-scarf",
     "https://www.ravelry.com/patterns/library/porto-blanket",
-    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/people",
     "https://www.ravelry.com/patterns/library/keyhole-scarf-33/report",
-    "https://www.ravelry.com/patterns/library/coziest-cowl",
-    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/editors",
-    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/threads",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/comments",
     "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/comments"
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/yarns",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/people"
   ],
   "name": "Ravelry: Keyhole Scarf pattern by Purl Soho"
 }

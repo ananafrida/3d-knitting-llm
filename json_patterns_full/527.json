@@ -7,6 +7,9 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "sizing table - 3 single sizes (2 of which can be doubled) - yarn weights from sock to worsted, giving you lots of options.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Malabrigo Yarn Rios",
     "Worsted (9 wpi) ?"
@@ -24,18 +27,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/just-knit-it---2012",
-    "https://www.ravelry.com/patterns/library/just-try-it/editors",
-    "https://www.ravelry.com/patterns/library/just-try-it/report",
-    "https://www.ravelry.com/bundles/freebie-patterns",
-    "https://www.ravelry.com/patterns/library/one-night-hat",
-    "https://www.ravelry.com/patterns/library/just-try-it/posts",
-    "https://www.ravelry.com/patterns/library/just-try-it/threads",
-    "https://www.ravelry.com/patterns/library/just-try-it",
     "https://www.ravelry.com/patterns/sources/stitchnerd-designs",
-    "https://www.ravelry.com/patterns/library/just-try-it/yarns",
-    "https://www.ravelry.com/patterns/library/just-try-it/comments",
+    "https://www.ravelry.com/patterns/library/one-night-hat",
+    "https://www.ravelry.com/patterns/library/just-knit-it---2012",
+    "https://www.ravelry.com/patterns/library/just-try-it/posts",
+    "https://www.ravelry.com/bundles/freebie-patterns",
+    "https://www.ravelry.com/patterns/library/just-try-it/threads",
     "https://www.ravelry.com/patterns/library/just-try-it/people",
-    "https://www.ravelry.com/patterns/library/the-long-and-winding-row"
+    "https://www.ravelry.com/patterns/library/just-try-it",
+    "https://www.ravelry.com/patterns/library/just-try-it/yarns",
+    "https://www.ravelry.com/patterns/library/just-try-it/report",
+    "https://www.ravelry.com/patterns/library/just-try-it/comments",
+    "https://www.ravelry.com/patterns/library/the-long-and-winding-row",
+    "https://www.ravelry.com/patterns/library/just-try-it/editors"
   ]
 }

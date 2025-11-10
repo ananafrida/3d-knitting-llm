@@ -7,9 +7,12 @@
   "category": "Ball",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Plymouth Yarn Encore D.K."
+    "Plymouth Yarn Encore D.K.",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -27,16 +30,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/above-the-fold",
-    "https://www.ravelry.com/patterns/library/death-star-3/yarns",
-    "https://www.ravelry.com/patterns/library/death-star-3/report",
-    "https://www.ravelry.com/patterns/library/death-star-3/threads",
-    "https://www.ravelry.com/patterns/library/joggle-2",
-    "https://www.ravelry.com/patterns/library/death-star-3/comments",
-    "https://www.ravelry.com/patterns/library/twinkle-twinkle-little-shawl",
-    "https://www.ravelry.com/patterns/library/death-star-3/people",
     "https://www.ravelry.com/patterns/library/death-star-3",
+    "https://www.ravelry.com/patterns/library/death-star-3/people",
+    "https://www.ravelry.com/patterns/library/death-star-3/yarns",
     "https://www.ravelry.com/patterns/sources/carissa-brownings-ravelry-store",
-    "https://www.ravelry.com/patterns/library/death-star-3/editors"
+    "https://www.ravelry.com/patterns/library/death-star-3/comments",
+    "https://www.ravelry.com/patterns/library/joggle-2",
+    "https://www.ravelry.com/patterns/library/death-star-3/threads",
+    "https://www.ravelry.com/patterns/library/death-star-3/editors",
+    "https://www.ravelry.com/patterns/library/twinkle-twinkle-little-shawl",
+    "https://www.ravelry.com/patterns/library/death-star-3/report",
+    "https://www.ravelry.com/patterns/library/above-the-fold"
   ]
 }

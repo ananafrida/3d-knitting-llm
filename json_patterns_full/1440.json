@@ -7,9 +7,13 @@
   "category": "Decorative → Hanging Ornament",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "S",
+  "languages": [
+    "English",
+    "Russian"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Karisma"
+    "Garnstudio DROPS Karisma",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "written-pattern"
@@ -18,16 +22,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/normandie-tee",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/comments",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/people",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
-    "https://www.ravelry.com/patterns/sources/ekaterina-vorobevas-ravelry-store",
     "https://www.ravelry.com/patterns/library/christmas-candle-ornament/editors",
-    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament",
-    "https://www.ravelry.com/patterns/library/sweet-home-sweater-3",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/threads",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/comments",
     "https://www.ravelry.com/patterns/library/christmas-candle-ornament/yarns",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/report"
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/people",
+    "https://www.ravelry.com/patterns/library/sweet-home-sweater-3",
+    "https://www.ravelry.com/patterns/sources/ekaterina-vorobevas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/normandie-tee",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/threads",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/report",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
+    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament"
   ]
 }

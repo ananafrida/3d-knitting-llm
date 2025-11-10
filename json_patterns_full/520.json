@@ -7,9 +7,13 @@
   "category": "Neck / Torso → Cowl Neck / Torso → Other",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "One size/Talla única: Shoulder width/Ancho de hombros: 36 cm [14\"] // Length/largo: 25 cm [10\"]",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "My Knitted Closet The finest Suri"
+    "My Knitted Closet The finest Suri",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -35,17 +39,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/editors",
-    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/threads",
     "https://www.ravelry.com/patterns/library/merendera-neckwarmer/yarns",
-    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/report",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/editors",
     "https://www.ravelry.com/patterns/library/maehwa-tee",
-    "https://www.ravelry.com/patterns/library/merendera-neckwarmer",
-    "https://www.ravelry.com/patterns/library/madreselva-hat",
-    "https://www.ravelry.com/patterns/library/paseos-de-mayo",
-    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/people",
-    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/comments",
     "https://www.ravelry.com/patterns/sources/my-knitted-closet",
-    "https://www.ravelry.com/patterns/sources/trizas-y-trazos---cecilia-garcia-rodrigo"
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/threads",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/people",
+    "https://www.ravelry.com/patterns/library/madreselva-hat",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/report",
+    "https://www.ravelry.com/patterns/sources/trizas-y-trazos---cecilia-garcia-rodrigo",
+    "https://www.ravelry.com/patterns/library/paseos-de-mayo",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/comments",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer"
   ]
 }

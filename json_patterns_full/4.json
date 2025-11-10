@@ -5,9 +5,13 @@
   "designer": "Janina Böttger",
   "craft": "Knitting",
   "category": "Afghan block",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
-    "Rohrspatz & Wollmeise Sockenwolle 80/20 Twin",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Rohrspatz & Wollmeise Sockenwolle 80/20 Twin"
   ],
   "attributes": [
     "other-colorwork",
@@ -21,17 +25,17 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/posts",
-    "https://www.ravelry.com/patterns/library/kraft-tanken-patches",
-    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/people",
-    "https://www.ravelry.com/patterns/library/brilthor---beaded-slouch-hat",
-    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/comments",
-    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/threads",
-    "https://www.ravelry.com/patterns/library/brilthor---perlenstulpen",
-    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/editors",
-    "https://www.ravelry.com/patterns/sources/janina-bottgers-ravelry-downloads",
-    "https://www.ravelry.com/patterns/library/just-autumn-cowl",
     "https://www.ravelry.com/patterns/library/kraft-tanken-patches/report",
-    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/yarns"
+    "https://www.ravelry.com/patterns/library/brilthor---beaded-slouch-hat",
+    "https://www.ravelry.com/patterns/library/brilthor---perlenstulpen",
+    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/comments",
+    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/yarns",
+    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/editors",
+    "https://www.ravelry.com/patterns/library/just-autumn-cowl",
+    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/threads",
+    "https://www.ravelry.com/patterns/sources/janina-bottgers-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/kraft-tanken-patches",
+    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/posts",
+    "https://www.ravelry.com/patterns/library/kraft-tanken-patches/people"
   ]
 }

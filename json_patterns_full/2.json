@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Afghan block",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "Norwegian"
+  ],
   "suggested_yarn": [
     "Knittersbox Tykk Merinoull",
     "DK (11 wpi) ?"
@@ -17,13 +20,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/hulder-hildes-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ugle-lappen",
-    "https://www.ravelry.com/patterns/library/sjakk-den-lappen",
-    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/report",
     "https://www.ravelry.com/patterns/library/sjakk-den-lappen/people",
+    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/report",
+    "https://www.ravelry.com/patterns/library/ugle-lappen",
+    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/comments",
     "https://www.ravelry.com/patterns/library/sjakk-den-lappen/yarns",
+    "https://www.ravelry.com/patterns/sources/hulder-hildes-ravelry-store",
     "https://www.ravelry.com/patterns/library/sjakk-den-lappen/editors",
-    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/comments"
+    "https://www.ravelry.com/patterns/library/sjakk-den-lappen"
   ]
 }

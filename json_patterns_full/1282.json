@@ -6,6 +6,10 @@
   "craft": "Knitting",
   "category": "Softies → Animal",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English",
+    "Hungarian"
+  ],
   "suggested_yarn": [
     "DK (11 wpi) ?"
   ],
@@ -17,21 +21,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/beans-the-cat/yarns",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/threads",
     "https://www.ravelry.com/patterns/sources/halloween-knits/patterns",
-    "https://www.ravelry.com/patterns/library/pickles-the-cat",
     "http://www.naturalsuburbia.com/2012/06/cat-knitting-pattern-and-tutorial.html",
-    "https://www.ravelry.com/patterns/sources/natural-suburbia",
     "https://www.ravelry.com/patterns/library/seamus-the-owl",
+    "https://www.ravelry.com/patterns/sources/natural-suburbia",
     "https://www.ravelry.com/patterns/library/beans-the-cat/editors",
-    "https://www.ravelry.com/patterns/library/beans-the-cat/posts",
-    "https://www.ravelry.com/patterns/sources/halloween-knits",
-    "https://www.ravelry.com/patterns/library/beans-the-cat",
-    "https://www.ravelry.com/patterns/library/easter-rabbit-egg-cozy",
-    "https://www.ravelry.com/patterns/sources/mamma4earth-on-ravelry",
-    "https://www.ravelry.com/patterns/library/beans-the-cat/comments",
     "https://www.ravelry.com/patterns/library/beans-the-cat/report",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/yarns",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/comments",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/posts",
+    "https://www.ravelry.com/patterns/library/pickles-the-cat",
+    "https://www.ravelry.com/patterns/library/easter-rabbit-egg-cozy",
+    "https://www.ravelry.com/patterns/library/beans-the-cat",
     "https://www.ravelry.com/patterns/library/beans-the-cat/people",
-    "https://www.ravelry.com/patterns/library/beans-the-cat/threads"
+    "https://www.ravelry.com/patterns/sources/mamma4earth-on-ravelry",
+    "https://www.ravelry.com/patterns/sources/halloween-knits"
   ]
 }

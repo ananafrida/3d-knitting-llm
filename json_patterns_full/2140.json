@@ -4,9 +4,30 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "S/M - L/XL",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Garnstudio DROPS Baby Merino",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Baby Merino"
   ],
   "attributes": [
     "adult",
@@ -27,20 +48,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.garnstudio.com/pattern.php?id=12410&cid=19",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
+    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/yarns",
+    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/editors",
     "https://www.ravelry.com/patterns/sources/drops-261",
+    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat",
+    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/comments",
+    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
+    "https://www.garnstudio.com/pattern.php?id=12410&cid=19",
     "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/people",
     "https://www.ravelry.com/patterns/sources/drops-design",
     "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/report",
-    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/edit",
+    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/people",
     "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/comments",
-    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat",
-    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/editors",
-    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
-    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/yarns"
+    "https://www.ravelry.com/patterns/library/261-29-berry-blaze-hat/edit",
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater"
   ],
   "name": "Ravelry: 261-29 Berry Blaze Hat pattern by DROPS design"
 }

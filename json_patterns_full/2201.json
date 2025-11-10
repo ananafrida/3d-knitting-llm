@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Costume",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Worsted (9 wpi) ?"
   ],
@@ -16,17 +19,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/crown-of-faith/yarns",
-    "https://www.ravelry.com/patterns/sources/feebeeglee",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/edit",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/editors",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/people",
     "https://www.ravelry.com/patterns/library/crown-of-faith",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/comments",
-    "https://web.archive.org/web/20110216081655/http://phoebe.gleeson.us/2005/07/12/knitting_updates_crown_pattern",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/report",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/editors",
+    "https://www.ravelry.com/patterns/sources/feebeeglee",
     "https://www.ravelry.com/patterns/library/crown-of-faith/threads",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine"
+    "https://web.archive.org/web/20110216081655/http://phoebe.gleeson.us/2005/07/12/knitting_updates_crown_pattern",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/comments",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/report",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/edit",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/people",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/yarns"
   ],
   "name": "Ravelry: Crown of Faith pattern by feebeeglee"
 }

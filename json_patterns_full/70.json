@@ -7,6 +7,9 @@
   "category": "Afghan block",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "squares measure 12 x 12 cm",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Stylecraft Special Double Knit",
     "DK (11 wpi) ?"
@@ -18,16 +21,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares",
     "https://www.ravelry.com/patterns/library/fairy-dust-mosaic",
-    "https://www.ravelry.com/patterns/sources/rosina-crochets",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/yarns",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/threads",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/comments",
-    "https://www.ravelry.com/patterns/library/waterside-mosaic",
-    "https://www.ravelry.com/patterns/library/boo-halloween-mosaic",
     "https://www.ravelry.com/patterns/library/easy-c2c-squares/editors",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/people",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/report"
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/report",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/comments",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares",
+    "https://www.ravelry.com/patterns/library/boo-halloween-mosaic",
+    "https://www.ravelry.com/patterns/library/waterside-mosaic",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/yarns",
+    "https://www.ravelry.com/patterns/sources/rosina-crochets",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/threads",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/people"
   ]
 }

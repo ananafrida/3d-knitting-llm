@@ -7,6 +7,10 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "Newborn, 3 months, 6-9 months, 12-18 months, 2-3 years, 4 years",
+  "languages": [
+    "Danish",
+    "English"
+  ],
   "suggested_yarn": [
     "Cascade Yarns ® Ultra Pima",
     "DK (11 wpi) ?"
@@ -27,18 +31,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tiny-tot-2",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/posts",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/threads",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/people",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/yarns",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/editors",
-    "https://www.ravelry.com/patterns/library/rosebud-29",
     "https://www.ravelry.com/patterns/sources/the-noble-thread",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/report",
-    "https://www.ravelry.com/patterns/library/clementine-15",
+    "https://www.ravelry.com/patterns/library/french-macaroon-2/comments",
+    "https://www.ravelry.com/patterns/library/french-macaroon-2/people",
     "https://www.ravelry.com/patterns/library/fairy-glen-socks",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/comments"
+    "https://www.ravelry.com/patterns/library/french-macaroon-2/yarns",
+    "https://www.ravelry.com/patterns/library/clementine-15",
+    "https://www.ravelry.com/patterns/library/french-macaroon-2/report",
+    "https://www.ravelry.com/patterns/library/rosebud-29",
+    "https://www.ravelry.com/patterns/library/french-macaroon-2",
+    "https://www.ravelry.com/patterns/library/french-macaroon-2/posts",
+    "https://www.ravelry.com/patterns/library/tiny-tot-2",
+    "https://www.ravelry.com/patterns/library/french-macaroon-2/editors",
+    "https://www.ravelry.com/patterns/library/french-macaroon-2/threads"
   ]
 }

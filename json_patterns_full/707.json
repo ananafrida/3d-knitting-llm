@@ -7,6 +7,9 @@
   "category": "Hat → Pixie",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "Newborn, 3-6 months",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -22,13 +25,13 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/kristin-carrolls-ravelry-store",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/yarns",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/editors",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/threads",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/report",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/people",
     "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/comments"
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/comments",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/report",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/yarns",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/people",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/threads",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/editors",
+    "https://www.ravelry.com/patterns/sources/kristin-carrolls-ravelry-store"
   ]
 }

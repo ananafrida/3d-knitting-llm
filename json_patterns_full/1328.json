@@ -6,9 +6,15 @@
   "craft": "Knitting",
   "category": "Softies → Other",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Plymouth Yarn Galway Worsted"
+    "Plymouth Yarn Galway Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -22,17 +28,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/malacable-hat",
-    "https://www.ravelry.com/patterns/library/little-hearts",
-    "https://www.ravelry.com/patterns/library/little-hearts/yarns",
-    "https://www.ravelry.com/patterns/library/little-hearts/threads",
-    "https://www.ravelry.com/patterns/library/little-hearts/report",
-    "https://www.ravelry.com/patterns/library/little-hearts/editors",
-    "https://www.ravelry.com/patterns/sources/stitching-n-knitting",
-    "https://www.ravelry.com/patterns/library/little-hearts/comments",
     "https://www.ravelry.com/patterns/library/toasty-twist-socks",
     "https://www.ravelry.com/patterns/library/knit-a-rat",
     "https://www.ravelry.com/patterns/library/little-hearts/posts",
-    "https://www.ravelry.com/patterns/library/little-hearts/people"
+    "https://www.ravelry.com/patterns/library/little-hearts/editors",
+    "https://www.ravelry.com/patterns/sources/stitching-n-knitting",
+    "https://www.ravelry.com/patterns/library/malacable-hat",
+    "https://www.ravelry.com/patterns/library/little-hearts/people",
+    "https://www.ravelry.com/patterns/library/little-hearts/comments",
+    "https://www.ravelry.com/patterns/library/little-hearts/report",
+    "https://www.ravelry.com/patterns/library/little-hearts/threads",
+    "https://www.ravelry.com/patterns/library/little-hearts",
+    "https://www.ravelry.com/patterns/library/little-hearts/yarns"
   ]
 }

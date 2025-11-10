@@ -7,6 +7,9 @@
   "category": "Containers",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Lion Brand Re-Tweed",
     "Aran (8 wpi) ?"
@@ -23,17 +26,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/comments",
-    "https://www.ravelry.com/patterns/sources/two-of-wands",
+    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets",
+    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/yarns",
+    "https://www.ravelry.com/patterns/library/alsace-tea-towel",
     "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/editors",
     "https://www.ravelry.com/patterns/library/falling-waters-duster",
-    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/report",
     "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
-    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/yarns",
     "https://www.ravelry.com/patterns/library/bistro-kitchen-cloth",
-    "https://www.ravelry.com/patterns/library/alsace-tea-towel",
+    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/comments",
+    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/threads",
+    "https://www.ravelry.com/patterns/sources/two-of-wands",
     "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/people",
-    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets",
-    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/threads"
+    "https://www.ravelry.com/patterns/library/knit-slouchy-hanging-baskets/report"
   ]
 }

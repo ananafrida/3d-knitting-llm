@@ -7,6 +7,13 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "0-3 months, 6-12 months",
+  "languages": [
+    "English",
+    "Additional languages which are not in the download: Finnish, French, Greek, Italian, Polish, Portuguese, Slovak",
+    "...and 8 other languages show hide other languages",
+    "...and 8 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "Aran (8 wpi) ?",
     "Mission Falls 1824 Wool"
@@ -25,19 +32,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby--child-sophisticate",
-    "https://www.ravelry.com/patterns/library/margot-4",
-    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/posts",
-    "https://www.ravelry.com/patterns/sources/stockinette",
-    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/editors",
     "https://www.ravelry.com/patterns/library/baby-sophisticate-2/report",
-    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/threads",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/yarns",
     "https://www.ravelry.com/patterns/library/baby-sophisticate-2/people",
-    "http://mylifeandyarns.blogspot.gr/p/translated-patterns.html",
-    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/comments",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/posts",
     "http://www.ravelry.com/patterns/library/baby--child-sophisticate",
-    "https://www.ravelry.com/patterns/library/sophisticate-2",
+    "http://mylifeandyarns.blogspot.gr/p/translated-patterns.html",
     "https://www.ravelry.com/patterns/library/baby-sophisticate-2",
-    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/yarns"
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/editors",
+    "https://www.ravelry.com/patterns/library/baby--child-sophisticate",
+    "https://www.ravelry.com/patterns/library/sophisticate-2",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/threads",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/comments",
+    "https://www.ravelry.com/patterns/library/margot-4",
+    "https://www.ravelry.com/patterns/sources/stockinette"
   ]
 }

@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Ball Pet → Toys",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -26,16 +29,16 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/indoor-flyer",
+    "https://www.ravelry.com/patterns/library/twisted-monkey-tv-socks",
     "https://www.ravelry.com/patterns/library/basic-flat-knit-sock",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/people",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/yarns",
-    "https://www.ravelry.com/patterns/library/out-of-yarn",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/posts",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/editors",
     "https://www.ravelry.com/patterns/library/out-of-yarn/threads",
     "https://www.ravelry.com/patterns/sources/audreys-patterns",
-    "https://www.ravelry.com/patterns/library/twisted-monkey-tv-socks",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/posts",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/yarns",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/comments",
     "https://www.ravelry.com/patterns/library/out-of-yarn/report",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/comments"
+    "https://www.ravelry.com/patterns/library/out-of-yarn/people",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/editors",
+    "https://www.ravelry.com/patterns/library/out-of-yarn"
   ]
 }

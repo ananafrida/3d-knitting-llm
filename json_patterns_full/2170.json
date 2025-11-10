@@ -7,9 +7,12 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "Adult (approx 52cm head circumference)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "WOOLganic Organic Merino 8 ply DK"
+    "WOOLganic Organic Merino 8 ply DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -26,16 +29,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ribbed-beanie-43/posts",
-    "https://www.ravelry.com/patterns/library/ribbed-beanie-43/editors",
-    "https://www.ravelry.com/patterns/library/tip-top-tank-3",
     "https://www.ravelry.com/patterns/sources/maker-maker-store",
-    "https://www.ravelry.com/patterns/library/ribbed-beanie-43/people",
     "https://www.ravelry.com/patterns/library/ribbed-beanie-43/comments",
-    "https://www.ravelry.com/patterns/library/ribbed-beanie-43/yarns",
-    "https://www.ravelry.com/patterns/library/basic-beanie-46",
     "https://www.ravelry.com/patterns/library/ribbed-beanie-43/report",
+    "https://www.ravelry.com/patterns/library/basic-beanie-46",
     "https://www.ravelry.com/patterns/library/ribbed-beanie-43",
-    "https://www.ravelry.com/patterns/library/see-my-vest---chunky"
+    "https://www.ravelry.com/patterns/library/ribbed-beanie-43/editors",
+    "https://www.ravelry.com/patterns/library/ribbed-beanie-43/yarns",
+    "https://www.ravelry.com/patterns/library/ribbed-beanie-43/posts",
+    "https://www.ravelry.com/patterns/library/ribbed-beanie-43/people",
+    "https://www.ravelry.com/patterns/library/see-my-vest---chunky",
+    "https://www.ravelry.com/patterns/library/tip-top-tank-3"
   ]
 }

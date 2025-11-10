@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Animal",
   "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Sport (12 wpi) ?",
     "Garnstudio DROPS Safran"
@@ -24,17 +27,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/threads",
-    "https://www.ravelry.com/patterns/library/pandastic-beast",
-    "https://www.ravelry.com/patterns/library/maximilion-a-wild-cat",
-    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/people",
-    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/report",
-    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/posts",
-    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/yarns",
     "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig",
     "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/editors",
-    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/comments",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/threads",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/yarns",
     "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant",
-    "https://www.ravelry.com/patterns/sources/svitlana-kondratovas-ravelry-store"
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/report",
+    "https://www.ravelry.com/patterns/library/maximilion-a-wild-cat",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/comments",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/posts",
+    "https://www.ravelry.com/patterns/sources/svitlana-kondratovas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/people",
+    "https://www.ravelry.com/patterns/library/pandastic-beast"
   ]
 }

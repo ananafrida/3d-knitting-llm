@@ -2,6 +2,9 @@
   "pattern_page": "https://www.ravelry.com/patterns/library/heart---charity-version",
   "craft": "Knitting",
   "category": "Softies → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -16,16 +19,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/heart---charity-version/yarns",
-    "https://www.ravelry.com/patterns/library/heart---charity-version",
-    "https://www.ravelry.com/patterns/library/heart---charity-version/report",
-    "https://www.ravelry.com/patterns/library/no-sew-heart",
-    "https://www.ravelry.com/patterns/library/heart-108",
-    "https://www.ravelry.com/patterns/library/little-orange-monster-man",
-    "https://www.ravelry.com/patterns/library/slip-of-the-stitch-socks",
     "https://www.ravelry.com/patterns/library/heart---charity-version/people",
-    "https://www.ravelry.com/patterns/sources/scrappystickyinkymess",
     "https://www.ravelry.com/patterns/library/heart---charity-version/comments",
-    "https://www.ravelry.com/patterns/library/heart---charity-version/editors"
+    "https://www.ravelry.com/patterns/library/no-sew-heart",
+    "https://www.ravelry.com/patterns/library/slip-of-the-stitch-socks",
+    "https://www.ravelry.com/patterns/library/heart-108",
+    "https://www.ravelry.com/patterns/library/heart---charity-version",
+    "https://www.ravelry.com/patterns/sources/scrappystickyinkymess",
+    "https://www.ravelry.com/patterns/library/heart---charity-version/editors",
+    "https://www.ravelry.com/patterns/library/heart---charity-version/report",
+    "https://www.ravelry.com/patterns/library/little-orange-monster-man"
   ],
   "name": "Ravelry: Heart - Charity Version pattern by Mary Anne Walters"
 }

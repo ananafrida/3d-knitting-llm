@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -17,18 +20,18 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/travelling-gnome/threads",
+    "https://www.ravelry.com/patterns/library/travelling-gnome",
+    "https://www.ravelry.com/patterns/library/travelling-gnome/yarns",
+    "https://www.ravelry.com/patterns/library/travelling-gnome/editors",
+    "https://www.ravelry.com/patterns/library/travelling-gnome/posts",
+    "https://www.ravelry.com/patterns/library/travelling-gnome/report",
+    "https://www.ravelry.com/patterns/sources/knitted-toy-box",
     "https://www.ravelry.com/patterns/library/travelling-gnome/people",
     "https://www.ravelry.com/patterns/library/travelling-gnome/comments",
-    "https://www.ravelry.com/patterns/library/travelling-gnome",
-    "https://www.ravelry.com/patterns/library/the-golden-snitch-3",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/editors",
-    "https://www.ravelry.com/patterns/library/harry-hedgehog",
     "https://www.ravelry.com/patterns/library/boo-7",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/report",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/threads",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/yarns",
-    "https://www.ravelry.com/patterns/sources/knitted-toy-box",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/posts"
+    "https://www.ravelry.com/patterns/library/harry-hedgehog",
+    "https://www.ravelry.com/patterns/library/the-golden-snitch-3"
   ],
   "name": "Ravelry: Travelling Gnome pattern by Raynor Gellatly"
 }

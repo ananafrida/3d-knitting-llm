@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Applique / Embellishment",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Yarn scraps in Aran, DK, sock, mohair"
   ],
@@ -18,16 +21,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/editors",
-    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/yarns",
-    "https://www.ravelry.com/patterns/library/garter-stitch-leaf",
-    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/report",
-    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/comments",
-    "https://www.ravelry.com/patterns/library/leaf-lace-washcloth",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/threads",
     "https://www.ravelry.com/patterns/library/willow",
-    "https://www.ravelry.com/patterns/sources/jan-eatons-ravelry-downloads",
     "https://www.ravelry.com/patterns/library/tricolor-square",
     "https://www.ravelry.com/patterns/library/garter-stitch-leaf/people",
-    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/threads"
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/editors",
+    "https://www.ravelry.com/patterns/library/leaf-lace-washcloth",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/comments",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf",
+    "https://www.ravelry.com/patterns/sources/jan-eatons-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/report",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/yarns"
   ]
 }

@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Jamieson's of Shetland Shetland Spindrift"
+    "Jamieson's of Shetland Shetland Spindrift",
+    "yarn held together"
   ],
   "attributes": [
     "chevron",
@@ -23,17 +26,17 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/gulf-of-mexico/comments",
-    "https://www.ravelry.com/patterns/library/gulf-of-mexico/posts",
-    "https://www.ravelry.com/patterns/library/gulf-of-mexico/people",
-    "https://www.ravelry.com/patterns/sources/knit-lab",
-    "https://www.ravelry.com/patterns/library/gulf-of-mexico/editors",
-    "https://www.ravelry.com/patterns/library/pomegranate-brioche",
-    "https://www.ravelry.com/patterns/library/seascape-stole",
-    "https://www.ravelry.com/patterns/library/gulf-of-mexico/report",
-    "https://www.ravelry.com/patterns/library/fabulous-feathers",
-    "https://www.ravelry.com/patterns/sources/kieranfoley",
+    "https://www.ravelry.com/patterns/library/gulf-of-mexico/threads",
     "https://www.ravelry.com/patterns/library/gulf-of-mexico",
-    "https://www.ravelry.com/patterns/library/gulf-of-mexico/yarns",
-    "https://www.ravelry.com/patterns/library/gulf-of-mexico/threads"
+    "https://www.ravelry.com/patterns/library/pomegranate-brioche",
+    "https://www.ravelry.com/patterns/sources/knit-lab",
+    "https://www.ravelry.com/patterns/library/seascape-stole",
+    "https://www.ravelry.com/patterns/library/gulf-of-mexico/editors",
+    "https://www.ravelry.com/patterns/library/gulf-of-mexico/posts",
+    "https://www.ravelry.com/patterns/sources/kieranfoley",
+    "https://www.ravelry.com/patterns/library/fabulous-feathers",
+    "https://www.ravelry.com/patterns/library/gulf-of-mexico/people",
+    "https://www.ravelry.com/patterns/library/gulf-of-mexico/report",
+    "https://www.ravelry.com/patterns/library/gulf-of-mexico/yarns"
   ]
 }

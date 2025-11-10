@@ -7,9 +7,12 @@
   "category": "Softies → Doll",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "full, pocket",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Noro Kureyon（くれよん）"
+    "Noro Kureyon（くれよん）",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -21,17 +24,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/venus-de-merino",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/yarns",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/report",
-    "https://www.ravelry.com/patterns/library/dice-bag-of-doom",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/comments",
     "https://www.ravelry.com/patterns/library/venus-de-merino/posts",
-    "https://www.ravelry.com/patterns/library/bad-hair-day-kerchief",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/people",
-    "https://www.ravelry.com/patterns/library/itsy-bitsy-spider-2",
+    "https://www.ravelry.com/patterns/library/venus-de-merino",
+    "https://www.ravelry.com/patterns/library/dice-bag-of-doom",
     "https://www.ravelry.com/patterns/library/venus-de-merino/editors",
+    "https://www.ravelry.com/patterns/library/venus-de-merino/threads",
+    "https://www.ravelry.com/patterns/library/bad-hair-day-kerchief",
+    "https://www.ravelry.com/patterns/library/venus-de-merino/report",
+    "https://www.ravelry.com/patterns/library/venus-de-merino/comments",
+    "https://www.ravelry.com/patterns/library/itsy-bitsy-spider-2",
     "https://www.ravelry.com/patterns/sources/darktwist",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/threads"
+    "https://www.ravelry.com/patterns/library/venus-de-merino/yarns",
+    "https://www.ravelry.com/patterns/library/venus-de-merino/people"
   ]
 }

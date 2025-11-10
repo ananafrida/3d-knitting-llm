@@ -7,9 +7,20 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "26 x 38 cm",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 6 other languages show hide other languages",
+    "...and 6 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Svarta Fåret Ulrika Natur"
+    "Svarta Fåret Ulrika Natur",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -24,18 +35,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/arsta---project-bag/threads",
-    "https://www.ravelry.com/patterns/library/arsta---project-bag/editors",
-    "https://www.ravelry.com/patterns/library/arsta---project-bag/yarns",
-    "https://www.ravelry.com/patterns/library/arsta---project-bag/report",
-    "https://www.ravelry.com/patterns/library/estrid-9",
     "https://www.ravelry.com/patterns/library/arsta---project-bag/comments",
-    "https://www.ravelry.com/patterns/library/kerstin-6",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-holiday-gifts",
     "https://www.ravelry.com/patterns/periodicals/svarta-faret",
+    "https://www.ravelry.com/patterns/library/arsta---project-bag/editors",
+    "https://www.ravelry.com/patterns/library/arsta---project-bag/threads",
+    "https://www.ravelry.com/patterns/library/arsta---project-bag/people",
+    "https://www.ravelry.com/patterns/library/kerstin-6",
     "https://www.ravelry.com/patterns/library/arsta---project-bag",
     "https://www.ravelry.com/patterns/library/hedvig-13",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-holiday-gifts",
+    "https://www.ravelry.com/patterns/library/arsta---project-bag/report",
     "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
-    "https://www.ravelry.com/patterns/library/arsta---project-bag/people"
+    "https://www.ravelry.com/patterns/library/arsta---project-bag/yarns",
+    "https://www.ravelry.com/patterns/library/estrid-9"
   ]
 }

@@ -5,6 +5,9 @@
   "designer": "Patricia Wake",
   "craft": "Knitting",
   "category": "Pet → Toys",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Any gauge - designed for any gauge ?"
   ],
@@ -18,15 +21,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/halloween-shadows",
+    "https://www.ravelry.com/patterns/sources/patricia-wakes-ravelry-store",
     "https://www.ravelry.com/patterns/library/frost-flowers-lined-hat",
     "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/report",
-    "https://www.ravelry.com/patterns/library/frost-flowers-hand-muff",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/people",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/yarns",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/editors",
     "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/comments",
     "https://www.ravelry.com/patterns/library/mouse-cat-toy-4",
-    "https://www.ravelry.com/patterns/sources/patricia-wakes-ravelry-store"
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/people",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/editors",
+    "https://www.ravelry.com/patterns/library/frost-flowers-hand-muff",
+    "https://www.ravelry.com/patterns/library/halloween-shadows",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/yarns"
   ]
 }

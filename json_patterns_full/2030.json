@@ -4,9 +4,12 @@
   "category": "Components → Other",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "sizes_available": "64 (72) st",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "West Yorkshire Spinners Signature 4 ply Self Striping or Patterning",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "West Yorkshire Spinners Signature 4 ply Self Striping or Patterning"
   ],
   "attributes": [
     "pattern-recipe",
@@ -17,19 +20,19 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/people",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/report",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/yarns",
+    "https://www.liftbridgeyarns.com/pages/download-free-sock-tube-tutorials",
     "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/comments",
     "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/editors",
-    "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-signature-4-ply-self-striping-or-patterning",
-    "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-signature-4-ply-self-striping-or-patterning/projects",
     "https://www.ravelry.com/patterns/sources/lift-bridge-yarns",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes",
+    "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-signature-4-ply-self-striping-or-patterning",
     "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-signature-4-ply-self-striping-or-patterning/stashes",
+    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/people",
+    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/report",
+    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/threads",
+    "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-signature-4-ply-self-striping-or-patterning/projects",
+    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/yarns",
     "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/edit",
-    "https://www.liftbridgeyarns.com/pages/download-free-sock-tube-tutorials",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/threads"
+    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes"
   ],
   "name": "Ravelry: Making Socks from Sock Tubes pattern by Lift Bridge Yarns"
 }

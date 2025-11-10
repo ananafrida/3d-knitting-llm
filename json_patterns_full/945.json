@@ -5,6 +5,10 @@
   "designer": "Cita Steinmeier",
   "craft": "Knitting",
   "category": "Ball",
+  "languages": [
+    "Danish",
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -19,15 +23,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/people",
-    "https://www.ravelry.com/patterns/library/from-heart-to-heart-socks",
-    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/yarns",
-    "https://www.ravelry.com/patterns/library/7-wise-santas",
-    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/report",
-    "https://www.ravelry.com/patterns/library/practice-invisible-stranding",
-    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/comments",
-    "https://www.ravelry.com/patterns/sources/citas-sockkerier",
     "https://www.ravelry.com/patterns/library/practice-invisible-stranding/editors",
-    "https://www.ravelry.com/patterns/library/hyrde-sokker"
+    "https://www.ravelry.com/patterns/library/7-wise-santas",
+    "https://www.ravelry.com/patterns/sources/citas-sockkerier",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/comments",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/report",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/people",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding",
+    "https://www.ravelry.com/patterns/library/hyrde-sokker",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/yarns",
+    "https://www.ravelry.com/patterns/library/from-heart-to-heart-socks"
   ]
 }

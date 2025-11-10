@@ -7,9 +7,13 @@
   "category": "Decorative → Hanging Ornament",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "4.5 and 6 cm, 1 3/4 and 2 3/8 inches.",
+  "languages": [
+    "English",
+    "Norwegian"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Rauma Babygarn"
+    "Rauma Babygarn",
+    "yarn held together"
   ],
   "attributes": [
     "in-the-round",
@@ -19,16 +23,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/base-for-decoration",
+    "https://www.ravelry.com/patterns/library/acorns-16",
     "https://www.ravelry.com/patterns/sources/eva-klosters-ravelry-store",
     "https://www.ravelry.com/patterns/library/little-stars-7/editors",
-    "https://www.ravelry.com/patterns/library/little-stars-7/comments",
-    "https://www.ravelry.com/patterns/library/little-stars-7/threads",
     "https://www.ravelry.com/patterns/library/little-stars-7/people",
-    "https://www.ravelry.com/patterns/library/little-stars-7/report",
-    "https://www.ravelry.com/patterns/library/little-stars-7/yarns",
     "https://www.ravelry.com/patterns/library/little-stars-7",
-    "https://www.ravelry.com/patterns/library/acorns-16",
+    "https://www.ravelry.com/patterns/library/base-for-decoration",
+    "https://www.ravelry.com/patterns/library/little-stars-7/threads",
+    "https://www.ravelry.com/patterns/library/little-stars-7/report",
+    "https://www.ravelry.com/patterns/library/little-stars-7/comments",
+    "https://www.ravelry.com/patterns/library/little-stars-7/yarns",
     "https://www.ravelry.com/patterns/library/smock-ball"
   ]
 }

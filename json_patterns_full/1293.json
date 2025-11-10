@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Softies → Animal",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Plymouth Yarn Encore D.K."
+    "Plymouth Yarn Encore D.K.",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -19,13 +22,13 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/five-inch-bear-in-the-round/comments",
+    "https://www.ravelry.com/patterns/library/five-inch-bear-in-the-round/yarns",
     "https://www.ravelry.com/patterns/library/five-inch-bear-in-the-round/people",
-    "https://www.ravelry.com/patterns/library/seven-inch-bear-in-the-round",
     "https://www.ravelry.com/patterns/library/five-inch-bear-in-the-round",
     "https://www.ravelry.com/patterns/library/five-inch-bear-in-the-round/editors",
-    "https://www.ravelry.com/patterns/library/five-inch-bear-in-the-round/yarns",
     "https://www.ravelry.com/patterns/sources/katherine-fischer-and-judy-homs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/five-inch-bear-in-the-round/comments",
+    "https://www.ravelry.com/patterns/library/seven-inch-bear-in-the-round",
     "https://www.ravelry.com/patterns/library/five-inch-bear-in-the-round/report"
   ]
 }

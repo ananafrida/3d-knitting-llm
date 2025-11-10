@@ -2,6 +2,9 @@
   "pattern_page": "https://www.ravelry.com/patterns/library/klein-bottle",
   "craft": "Knitting",
   "category": "Decorative → Other Toys and Hobbies → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -17,17 +20,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/y-x-i-skinny-scarves",
-    "https://www.ravelry.com/patterns/library/klein-bottle/yarns",
-    "https://www.ravelry.com/patterns/library/possibly-stashbusting-handspun-stripehead",
-    "https://www.ravelry.com/patterns/sources/sarah-maries-mathematical-knitting-pages",
     "https://www.ravelry.com/patterns/library/klein-bottle",
-    "https://www.ravelry.com/patterns/library/klein-bottle/editors",
-    "https://www.ravelry.com/patterns/library/klein-bottle/people",
-    "https://www.ravelry.com/patterns/library/torus-knots-and-links",
-    "https://www.ravelry.com/patterns/library/klein-bottle/comments",
     "https://www.ravelry.com/patterns/library/klein-bottle/report",
-    "https://www.ravelry.com/patterns/library/klein-bottle/threads"
+    "https://www.ravelry.com/patterns/library/klein-bottle/threads",
+    "https://www.ravelry.com/patterns/library/klein-bottle/yarns",
+    "https://www.ravelry.com/patterns/library/torus-knots-and-links",
+    "https://www.ravelry.com/patterns/library/y-x-i-skinny-scarves",
+    "https://www.ravelry.com/patterns/sources/sarah-maries-mathematical-knitting-pages",
+    "https://www.ravelry.com/patterns/library/klein-bottle/comments",
+    "https://www.ravelry.com/patterns/library/klein-bottle/people",
+    "https://www.ravelry.com/patterns/library/klein-bottle/editors",
+    "https://www.ravelry.com/patterns/library/possibly-stashbusting-handspun-stripehead"
   ],
   "name": "Ravelry: Klein bottle pattern by sarah-marie belcastro"
 }

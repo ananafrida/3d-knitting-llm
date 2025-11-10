@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Decorative → Doily Applique / Embellishment",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Plassard Gagnante"
+    "Plassard Gagnante",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "lace",
@@ -22,15 +25,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/whorlpool",
-    "https://www.ravelry.com/patterns/library/haft-knot/editors",
-    "https://www.ravelry.com/patterns/library/haft-knot",
     "https://www.ravelry.com/patterns/library/haft-knot/people",
     "https://www.ravelry.com/patterns/library/snowdrops-rug",
     "https://www.ravelry.com/patterns/library/haft-knot/comments",
-    "https://www.ravelry.com/patterns/library/haft-knot/report",
-    "https://www.ravelry.com/patterns/library/haft-knot/yarns",
+    "https://www.ravelry.com/patterns/sources/elyse-yeagers-ravelry-store",
     "https://www.ravelry.com/patterns/library/knitted-sampler-knot",
-    "https://www.ravelry.com/patterns/sources/elyse-yeagers-ravelry-store"
+    "https://www.ravelry.com/patterns/library/haft-knot/report",
+    "https://www.ravelry.com/patterns/library/whorlpool",
+    "https://www.ravelry.com/patterns/library/haft-knot",
+    "https://www.ravelry.com/patterns/library/haft-knot/yarns",
+    "https://www.ravelry.com/patterns/library/haft-knot/editors"
   ]
 }

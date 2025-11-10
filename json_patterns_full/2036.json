@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Light Fingering ?",
     "Polka Dot Creek Classic Sock"
@@ -20,16 +23,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/report",
-    "https://www.ravelry.com/patterns/library/ice-cream-socks-4",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/editors",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/yarns",
     "https://www.ravelry.com/patterns/library/cozy-memories-blanket-2",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/comments",
     "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/people",
     "https://www.ravelry.com/patterns/sources/polka-dot-creek-on-ravelry",
+    "https://www.ravelry.com/patterns/library/ice-cream-socks-4",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe",
     "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/threads",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/yarns",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/comments",
-    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-6"
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-6",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/report",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/editors"
   ]
 }

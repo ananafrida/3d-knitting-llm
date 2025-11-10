@@ -7,6 +7,9 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "31 (33.25, 36, 38.5, 41.25, 45.25) [48, 52, 56, 60, 64]\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Bulky (7 wpi) ?",
     "Tanis Fiber Arts PureWash Chunky"
@@ -30,17 +33,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/city-limits-2",
     "https://www.ravelry.com/patterns/library/camaro-2",
+    "https://www.ravelry.com/patterns/library/metropolis-3/report",
+    "https://www.ravelry.com/patterns/library/rock-it-tee",
+    "https://www.ravelry.com/patterns/library/metropolis-3/posts",
+    "https://www.ravelry.com/patterns/library/metropolis-3/yarns",
     "https://www.ravelry.com/patterns/library/metropolis-3",
     "https://www.ravelry.com/patterns/library/metropolis-3/threads",
-    "https://www.ravelry.com/patterns/library/rock-it-tee",
-    "https://www.ravelry.com/patterns/library/metropolis-3/people",
-    "https://www.ravelry.com/patterns/library/metropolis-3/comments",
-    "https://www.ravelry.com/patterns/library/metropolis-3/yarns",
+    "https://www.ravelry.com/patterns/sources/tanis-fiber-arts",
     "https://www.ravelry.com/patterns/library/metropolis-3/editors",
-    "https://www.ravelry.com/patterns/library/metropolis-3/report",
-    "https://www.ravelry.com/patterns/library/city-limits-2",
-    "https://www.ravelry.com/patterns/library/metropolis-3/posts",
-    "https://www.ravelry.com/patterns/sources/tanis-fiber-arts"
+    "https://www.ravelry.com/patterns/library/metropolis-3/people",
+    "https://www.ravelry.com/patterns/library/metropolis-3/comments"
   ]
 }

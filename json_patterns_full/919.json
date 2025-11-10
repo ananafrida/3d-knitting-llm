@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Garnstudio DROPS Fabel",
-    "Any gauge - designed for any gauge ?"
+    "Any gauge - designed for any gauge ?",
+    "Garnstudio DROPS Fabel"
   ],
   "attributes": [
     "chart",
@@ -23,13 +26,13 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bescarfed-scarf/threads",
-    "https://www.ravelry.com/patterns/library/bescarfed-scarf",
+    "https://www.ravelry.com/patterns/library/bescarfed-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/bescarfed-scarf/people",
     "https://www.ravelry.com/patterns/library/bescarfed-scarf/report",
+    "https://www.ravelry.com/patterns/library/bescarfed-scarf",
     "https://www.ravelry.com/patterns/library/bescarfed-scarf/comments",
     "https://www.ravelry.com/patterns/sources/marina-morozovas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/bescarfed-scarf/people",
     "https://www.ravelry.com/patterns/library/bescarfed-scarf/editors",
-    "https://www.ravelry.com/patterns/library/bescarfed-scarf/yarns"
+    "https://www.ravelry.com/patterns/library/bescarfed-scarf/threads"
   ]
 }

@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -22,17 +25,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "http://www.ravelry.com/patterns/library/the-beekeepers-quilt",
-    "https://www.ravelry.com/patterns/library/irish-hiking-hat---improved",
     "https://www.ravelry.com/patterns/library/macaron-mitts",
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/people",
     "https://www.ravelry.com/patterns/library/macaron",
-    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/editors",
-    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha",
     "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/yarns",
+    "https://www.ravelry.com/patterns/library/irish-hiking-hat---improved",
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/report",
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/editors",
+    "http://www.ravelry.com/patterns/library/the-beekeepers-quilt",
     "https://www.ravelry.com/patterns/sources/bitchin-knit-blog",
     "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/threads",
     "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/comments",
-    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/people",
-    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/report"
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha"
   ]
 }

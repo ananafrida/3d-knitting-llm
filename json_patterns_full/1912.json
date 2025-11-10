@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Applique / Embellishment",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -26,17 +29,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/teapot-turtleneck",
-    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/people",
-    "https://www.ravelry.com/patterns/library/baby-converse-3",
     "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/comments",
     "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/report",
-    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy",
-    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/editors",
-    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/yarns",
-    "https://www.ravelry.com/patterns/library/poppies-5-versions",
-    "https://www.ravelry.com/patterns/sources/loopysue-designs",
     "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/threads",
+    "https://www.ravelry.com/patterns/library/baby-converse-3",
+    "https://www.ravelry.com/patterns/sources/loopysue-designs",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/yarns",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/people",
+    "https://www.ravelry.com/patterns/library/poppies-5-versions",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy",
+    "https://www.ravelry.com/patterns/library/teapot-turtleneck",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/editors",
     "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/posts"
   ]
 }

@@ -7,6 +7,9 @@
   "category": "Costume",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "Large (Adult/Teen), Small (Toddler/Child)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -30,15 +33,15 @@
   ],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/people",
-    "https://www.ravelry.com/patterns/sources/kathryn-andrews-ravelry-store",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown",
     "https://www.ravelry.com/patterns/library/elegant-knit-crown/comments",
     "https://www.ravelry.com/patterns/library/elegant-knit-crown/posts",
     "https://www.ravelry.com/patterns/library/elegant-knit-crown/threads",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/report",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/editors",
     "https://www.ravelry.com/patterns/library/elegant-knit-crown/yarns",
-    "https://www.ravelry.com/patterns/library/mountain-range-hat"
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/report",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/people",
+    "https://www.ravelry.com/patterns/library/mountain-range-hat",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown",
+    "https://www.ravelry.com/patterns/sources/kathryn-andrews-ravelry-store",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/editors"
   ]
 }

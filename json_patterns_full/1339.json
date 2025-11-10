@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Softies → Other",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -18,18 +21,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "http://auntieemsstudio.blogspot.com/2014/04/easter-egg-pattern.html",
-    "https://www.ravelry.com/patterns/library/easter-eggs-24/yarns",
-    "https://www.ravelry.com/patterns/library/easter-eggs-24/editors",
+    "https://www.ravelry.com/patterns/sources/emily-kintigh-designs",
     "https://www.ravelry.com/patterns/library/trail-head-mitts",
+    "https://www.ravelry.com/patterns/library/easter-eggs-24/editors",
     "https://www.ravelry.com/patterns/library/easter-eggs-24/threads",
+    "https://www.ravelry.com/patterns/library/little-mishka",
     "https://www.ravelry.com/patterns/library/easter-eggs-24/comments",
     "https://www.ravelry.com/patterns/library/easter-eggs-24",
-    "https://www.ravelry.com/patterns/library/easter-eggs-24/report",
-    "https://www.ravelry.com/patterns/sources/emily-kintigh-designs",
-    "https://www.ravelry.com/patterns/library/little-mishka",
+    "https://www.ravelry.com/patterns/library/cottage-kitchen-towel",
+    "https://www.ravelry.com/patterns/library/easter-eggs-24/yarns",
     "https://www.ravelry.com/patterns/library/easter-eggs-24/people",
-    "https://www.ravelry.com/patterns/library/cottage-kitchen-towel"
+    "http://auntieemsstudio.blogspot.com/2014/04/easter-egg-pattern.html",
+    "https://www.ravelry.com/patterns/library/easter-eggs-24/report"
   ],
   "name": "Ravelry: Easter Eggs pattern by Emily Kintigh"
 }

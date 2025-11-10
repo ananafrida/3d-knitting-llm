@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Decorative → Hanging Ornament",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Berroco Vintage® DK"
+    "Berroco Vintage® DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "3-dimensional"
@@ -17,12 +20,12 @@
   "techniques": [],
   "shape": "cone",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments",
+    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/comments",
     "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/yarns",
     "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/editors",
-    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments",
     "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/people",
     "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/report",
-    "https://www.ravelry.com/patterns/sources/jackie-parkers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/comments"
+    "https://www.ravelry.com/patterns/sources/jackie-parkers-ravelry-store"
   ]
 }

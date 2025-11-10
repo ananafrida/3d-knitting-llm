@@ -5,6 +5,10 @@
   "designer": "Brigitte L-R",
   "craft": "Knitting",
   "category": "Components → Other",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -19,15 +23,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/sources/brigitte-l-r",
     "https://www.ravelry.com/patterns/library/parfum-dautomne",
+    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem",
+    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem/yarns",
+    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem/comments",
+    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem/editors",
+    "https://www.ravelry.com/patterns/library/only-2-skeins",
     "https://www.ravelry.com/patterns/library/christie-4",
     "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem/report",
-    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem/editors",
-    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem/yarns",
-    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem",
-    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem/comments",
-    "https://www.ravelry.com/patterns/sources/brigitte-l-r",
-    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem/people",
-    "https://www.ravelry.com/patterns/library/only-2-skeins"
+    "https://www.ravelry.com/patterns/library/ourlet-sans-couture---seamless-hem/people"
   ]
 }

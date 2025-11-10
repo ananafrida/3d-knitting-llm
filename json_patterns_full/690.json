@@ -7,9 +7,12 @@
   "category": "Hat → Pixie",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "0-3 months/6 months",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Cascade Yarns ® Fixation Solid"
+    "Cascade Yarns ® Fixation Solid",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -26,15 +29,15 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/sources/amazing-threads-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/people",
-    "https://www.ravelry.com/patterns/library/magic-beanstalk-cowl",
-    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/comments",
-    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/threads",
-    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2",
     "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/report",
-    "https://www.ravelry.com/patterns/library/crescent-waves",
+    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/editors",
+    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/comments",
     "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/yarns",
+    "https://www.ravelry.com/patterns/library/magic-beanstalk-cowl",
+    "https://www.ravelry.com/patterns/library/crescent-waves",
     "https://www.ravelry.com/patterns/library/seuss-a-frabical",
-    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/editors"
+    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/people",
+    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2/threads",
+    "https://www.ravelry.com/patterns/library/fixation-baby-hat-2"
   ]
 }

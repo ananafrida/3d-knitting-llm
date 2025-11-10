@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "DK (11 wpi) ?",
     "Sirdar Bonus DK Extra Value"
@@ -18,21 +21,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/santa-and-mrs-claus-santa-145",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/editors",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/report",
     "http://www.jeangreenhowe.com/patterns.html",
     "https://www.ravelry.com/patterns/library/toybox-snowman/edit",
-    "https://www.ravelry.com/patterns/library/toybox-snowman",
-    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/threads",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/people",
-    "https://www.ravelry.com/patterns/library/dainty-dollies",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/yarns",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/posts",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/comments",
     "https://www.ravelry.com/patterns/periodicals/jean-greenhowe",
-    "https://www.ravelry.com/patterns/library/santa-9-2"
+    "https://www.ravelry.com/patterns/library/santa-and-mrs-claus-santa-145",
+    "https://www.ravelry.com/patterns/library/santa-9-2",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/comments",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/editors",
+    "https://www.ravelry.com/patterns/library/toybox-snowman",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/yarns",
+    "https://www.ravelry.com/patterns/library/dainty-dollies",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/people",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/threads",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/posts",
+    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/report"
   ],
   "name": "Ravelry: Toybox Snowman pattern by Jean Greenhowe"
 }

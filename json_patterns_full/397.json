@@ -7,6 +7,9 @@
   "category": "Coat / Jacket",
   "needle_size": "15.0 mm, US 19",
   "sizes_available": "XS (S, M, L, XL) (2XL, 3XL, 4XL, 5XL)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Lion Brand Shaggy Chic"
   ],
@@ -31,16 +34,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/two-of-wands",
-    "https://www.ravelry.com/patterns/library/hayworth-cropped-coat/people",
-    "https://www.ravelry.com/patterns/library/ballerina-wrap-top",
-    "https://www.ravelry.com/patterns/library/hayworth-cropped-coat",
-    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover",
     "https://www.ravelry.com/patterns/library/hayworth-cropped-coat/report",
-    "https://www.ravelry.com/patterns/library/hayworth-cropped-coat/yarns",
-    "https://www.ravelry.com/patterns/library/hayworth-cropped-coat/editors",
+    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
+    "https://www.ravelry.com/patterns/library/hayworth-cropped-coat",
     "https://www.ravelry.com/patterns/library/lucent-sweater",
+    "https://www.ravelry.com/patterns/library/ballerina-wrap-top",
+    "https://www.ravelry.com/patterns/library/hayworth-cropped-coat/yarns",
     "https://www.ravelry.com/patterns/library/hayworth-cropped-coat/comments",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover"
+    "https://www.ravelry.com/patterns/library/hayworth-cropped-coat/people",
+    "https://www.ravelry.com/patterns/sources/two-of-wands",
+    "https://www.ravelry.com/patterns/library/hayworth-cropped-coat/editors"
   ]
 }

@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Softies → Other",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "madelinetosh Unicorn Tails",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "madelinetosh Unicorn Tails"
   ],
   "attributes": [
     "3-dimensional",
@@ -32,14 +35,14 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/yahahaha/people",
-    "https://www.ravelry.com/patterns/sources/whims",
-    "https://www.ravelry.com/patterns/library/yahahaha/editors",
     "https://www.ravelry.com/patterns/library/yahahaha/threads",
+    "https://www.ravelry.com/patterns/library/yahahaha/editors",
     "https://www.ravelry.com/patterns/library/yahahaha",
     "https://www.ravelry.com/patterns/library/yahahaha/comments",
+    "https://www.ravelry.com/patterns/library/yahahaha/people",
+    "https://www.ravelry.com/patterns/sources/whims",
     "https://www.ravelry.com/patterns/library/dusty-trails-2",
-    "https://www.ravelry.com/patterns/library/yahahaha/yarns",
-    "https://www.ravelry.com/patterns/library/yahahaha/report"
+    "https://www.ravelry.com/patterns/library/yahahaha/report",
+    "https://www.ravelry.com/patterns/library/yahahaha/yarns"
   ]
 }

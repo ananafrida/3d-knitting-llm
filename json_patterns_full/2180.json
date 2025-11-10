@@ -7,6 +7,9 @@
   "category": "Costume",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Caron Simply Soft",
     "Aran (8 wpi) ?"
@@ -23,12 +26,12 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/orville-peck-mask/yarns",
+    "https://www.ravelry.com/patterns/library/orville-peck-mask",
     "https://www.ravelry.com/patterns/library/orville-peck-mask/comments",
-    "https://www.ravelry.com/patterns/library/orville-peck-mask/report",
+    "https://www.ravelry.com/patterns/library/orville-peck-mask/people",
     "https://www.ravelry.com/patterns/sources/mackenzie-sanfords-ravelry-store",
     "https://www.ravelry.com/patterns/library/orville-peck-mask/editors",
-    "https://www.ravelry.com/patterns/library/orville-peck-mask/people",
-    "https://www.ravelry.com/patterns/library/orville-peck-mask",
-    "https://www.ravelry.com/patterns/library/orville-peck-mask/yarns"
+    "https://www.ravelry.com/patterns/library/orville-peck-mask/report"
   ]
 }

@@ -4,9 +4,30 @@
   "category": "Softies → Doll",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "Height: 36 cm / 14 1/4''",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Garnstudio DROPS Baby Merino",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Baby Merino"
   ],
   "attributes": [
     "in-the-round",
@@ -21,22 +42,22 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/165-23-mariuska-jumper",
-    "https://www.ravelry.com/patterns/library/0-1625-merry-village",
     "https://www.ravelry.com/patterns/library/0-861-julius/comments",
+    "https://www.ravelry.com/patterns/library/0-861-julius/editors",
     "https://www.ravelry.com/patterns/library/0-861-julius/people",
-    "https://www.ravelry.com/patterns/library/0-1548-christmas-mice",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/0-861-julius/yarns",
-    "https://www.ravelry.com/patterns/sources/drops-christmas-workshop",
     "https://www.ravelry.com/patterns/periodicals/drops-christmas-calendar",
-    "https://www.ravelry.com/patterns/library/0-861-julius/edit",
     "https://www.ravelry.com/patterns/library/0-861-julius",
     "https://www.ravelry.com/patterns/library/0-861-julius/threads",
-    "https://www.ravelry.com/patterns/library/0-861-julius/editors",
     "https://www.ravelry.com/patterns/library/0-861-julius/report",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2012",
+    "https://www.ravelry.com/patterns/library/0-1548-christmas-mice",
+    "https://www.ravelry.com/patterns/library/0-861-julius/yarns",
     "http://www.garnstudio.com/pattern.php?id=5909&cid=17",
-    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2012"
+    "https://www.ravelry.com/patterns/library/0-1625-merry-village",
+    "https://www.ravelry.com/patterns/sources/drops-christmas-workshop",
+    "https://www.ravelry.com/patterns/library/165-23-mariuska-jumper",
+    "https://www.ravelry.com/patterns/library/0-861-julius/edit"
   ],
   "name": "Ravelry: 0-861 Julius pattern by DROPS design"
 }

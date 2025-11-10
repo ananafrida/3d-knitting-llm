@@ -3,9 +3,30 @@
   "craft": "Knitting",
   "category": "Decorative → Hanging Ornament",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Garnstudio DROPS Lima",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Garnstudio DROPS Lima"
   ],
   "attributes": [
     "bottom-up",
@@ -24,21 +45,21 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/edit",
-    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/editors",
-    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/yarns",
-    "https://www.garnstudio.com/pattern.php?id=11655&cid=19",
-    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days",
-    "https://www.ravelry.com/patterns/library/197-3-b-old-mill-hat",
-    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2023",
-    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/threads",
-    "https://www.ravelry.com/patterns/library/192-66-pomegranate-punch",
-    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/comments",
-    "https://www.ravelry.com/patterns/sources/drops-design",
     "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/report",
+    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2023",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/comments",
     "https://www.ravelry.com/patterns/periodicals/drops-christmas-calendar",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/threads",
+    "https://www.garnstudio.com/pattern.php?id=11655&cid=19",
     "https://www.ravelry.com/patterns/library/0-547-sweet-chick-shoulder-wrap",
-    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/people"
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/yarns",
+    "https://www.ravelry.com/patterns/library/197-3-b-old-mill-hat",
+    "https://www.ravelry.com/patterns/library/192-66-pomegranate-punch",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/editors",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/people",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/edit"
   ],
   "name": "Ravelry: 0-1607 Jolly Holly Days pattern by DROPS design"
 }

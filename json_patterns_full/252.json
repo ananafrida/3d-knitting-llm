@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK / Sport ?",
-    "Galler Yarns Pashmina"
+    "Galler Yarns Pashmina",
+    "DK / Sport ?"
   ],
   "attributes": [
     "beads",
@@ -20,19 +23,19 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/best-friend",
-    "https://www.ravelry.com/patterns/library/best-friend/threads",
-    "https://www.ravelry.com/patterns/sources/knitty-winter-2005",
-    "https://www.ravelry.com/patterns/library/best-friend/editors",
-    "https://www.ravelry.com/patterns/library/best-friend/report",
-    "https://www.ravelry.com/patterns/library/best-friend/people",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/best-friend/yarns",
-    "https://www.ravelry.com/patterns/library/best-friend/posts",
-    "https://www.ravelry.com/patterns/library/best-friend/comments",
-    "https://www.ravelry.com/patterns/library/wild-stripes",
     "https://www.ravelry.com/patterns/library/cocktail-monkey-bag",
-    "https://www.ravelry.com/patterns/library/oomingmacks"
+    "https://www.ravelry.com/patterns/library/wild-stripes",
+    "https://www.ravelry.com/patterns/library/best-friend/threads",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/best-friend/posts",
+    "https://www.ravelry.com/patterns/library/best-friend/editors",
+    "https://www.ravelry.com/patterns/library/best-friend",
+    "https://www.ravelry.com/patterns/library/best-friend/people",
+    "https://www.ravelry.com/patterns/library/best-friend/yarns",
+    "https://www.ravelry.com/patterns/library/oomingmacks",
+    "https://www.ravelry.com/patterns/library/best-friend/comments",
+    "https://www.ravelry.com/patterns/library/best-friend/report",
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2005"
   ],
   "name": "Ravelry: Best Friend pattern by Kristin Goedert"
 }

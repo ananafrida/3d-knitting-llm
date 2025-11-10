@@ -7,9 +7,21 @@
   "category": "Tops → Tee",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Svarta Fåret Cecilia"
+    "Svarta Fåret Cecilia",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -30,15 +42,15 @@
   "download_links": [
     "https://www.ravelry.com/patterns/library/hallevik---blouse/report",
     "https://www.ravelry.com/patterns/library/hallevik---blouse",
-    "https://www.ravelry.com/patterns/library/hallevik---blouse/yarns",
-    "https://www.ravelry.com/patterns/library/hallevik---skirt",
-    "https://www.ravelry.com/patterns/library/hallevik---blouse/people",
-    "https://www.ravelry.com/patterns/library/nomad-jacket-3",
-    "https://www.ravelry.com/patterns/library/hallevik---blouse/comments",
     "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/shady-bucket-hat",
+    "https://www.ravelry.com/patterns/library/nomad-jacket-3",
     "https://www.ravelry.com/patterns/library/hallevik---blouse/editors",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-summer-breeze-ss2024",
+    "https://www.ravelry.com/patterns/library/hallevik---blouse/comments",
+    "https://www.ravelry.com/patterns/library/hallevik---blouse/people",
+    "https://www.ravelry.com/patterns/library/hallevik---skirt",
+    "https://www.ravelry.com/patterns/library/shady-bucket-hat",
     "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-summer-breeze-ss2024"
+    "https://www.ravelry.com/patterns/library/hallevik---blouse/yarns"
   ]
 }

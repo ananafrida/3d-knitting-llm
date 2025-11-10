@@ -4,9 +4,12 @@
   "category": "Blanket → Throw Blanket → Baby Blanket",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Crib (Throw)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Purl Soho Santolina"
+    "Purl Soho Santolina",
+    "yarn held together"
   ],
   "attributes": [
     "bottom-up",
@@ -23,17 +26,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/droplet-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/secret-fish-shawl",
-    "https://www.ravelry.com/patterns/library/stormy-sky-shawl",
-    "https://lifeiscozy.com/patterns",
-    "https://www.ravelry.com/patterns/library/filoli-cowl",
-    "https://www.ravelry.com/patterns/library/droplet-blanket/comments",
-    "https://www.ravelry.com/patterns/library/droplet-blanket",
+    "https://www.ravelry.com/patterns/library/droplet-blanket/report",
     "https://www.ravelry.com/patterns/library/droplet-blanket/editors",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/droplet-blanket",
     "https://www.ravelry.com/patterns/library/droplet-blanket/people",
-    "https://www.ravelry.com/patterns/library/droplet-blanket/report"
+    "https://lifeiscozy.com/patterns",
+    "https://www.ravelry.com/patterns/library/stormy-sky-shawl",
+    "https://www.ravelry.com/patterns/library/secret-fish-shawl",
+    "https://www.ravelry.com/patterns/library/filoli-cowl",
+    "https://www.ravelry.com/patterns/library/droplet-blanket/yarns",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/droplet-blanket/comments"
   ],
   "name": "Ravelry: Droplet Blanket pattern by Ksenia Naidyon"
 }

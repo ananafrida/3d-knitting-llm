@@ -7,9 +7,12 @@
   "category": "Bag → Purse / Handbag Bag → Messenger",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "Big, Small, Made-to-size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Garnstudio DROPS Belle"
+    "Garnstudio DROPS Belle",
+    "yarn held together"
   ],
   "attributes": [
     "captioned-video",
@@ -24,16 +27,16 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag---crochet",
+    "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag/report",
+    "https://www.ravelry.com/patterns/library/mesh-scrap-yarn-bottle-holder",
+    "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag/people",
     "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag/yarns",
     "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag/editors",
     "https://www.ravelry.com/patterns/library/panama-vest",
-    "https://www.ravelry.com/patterns/library/mesh-scrap-yarn-bottle-holder",
+    "https://www.ravelry.com/patterns/sources/neneedle-designs-ravelry-store",
     "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag/threads",
     "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag/comments",
     "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag",
-    "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag/report",
-    "https://www.ravelry.com/patterns/sources/neneedle-designs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag/people"
+    "https://www.ravelry.com/patterns/library/archer-scrap-yarn-bag---crochet"
   ]
 }

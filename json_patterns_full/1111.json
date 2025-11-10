@@ -7,6 +7,18 @@
   "category": "Tops → Tee",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "6-12 mon (1-2) 2-4 (4-6) 6-8 years",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "Järbo Colin",
     "Sport (12 wpi) ?"
@@ -27,17 +39,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ang---top/editors",
-    "https://www.ravelry.com/patterns/library/ang---top/yarns",
     "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-23-midsommar-3",
-    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ang---top/report",
+    "https://www.ravelry.com/patterns/library/ang---top",
     "https://www.ravelry.com/patterns/library/ang---top/comments",
+    "https://www.ravelry.com/patterns/library/ang---shorts",
+    "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-23-midsommar-3/patterns",
     "https://www.ravelry.com/patterns/library/arg---cardigan",
     "https://www.ravelry.com/patterns/library/malm---cardigan",
+    "https://www.ravelry.com/patterns/library/ang---top/yarns",
+    "https://www.ravelry.com/patterns/library/ang---top/report",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
     "https://www.ravelry.com/patterns/library/ang---top/people",
-    "https://www.ravelry.com/patterns/library/ang---shorts",
-    "https://www.ravelry.com/patterns/library/ang---top",
-    "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-23-midsommar-3/patterns"
+    "https://www.ravelry.com/patterns/library/ang---top/editors"
   ]
 }

@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Decorative → Other",
   "sizes_available": "From 1 to 4.5 inches depending on yarn choice",
+  "languages": [
+    "English"
+  ],
   "attributes": [
     "in-the-round",
     "worked-flat"
@@ -14,15 +17,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners",
-    "https://www.ravelry.com/patterns/library/always-be-brave-shawl---the-sock-edit",
     "https://www.ravelry.com/patterns/library/briza-hat",
-    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners/yarns",
-    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners/editors",
     "https://www.ravelry.com/patterns/library/pumpkins-for-beginners/report",
-    "https://www.ravelry.com/patterns/library/dreams-unfolding",
-    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners/people",
+    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners",
     "https://www.ravelry.com/patterns/sources/helen-kennedy-designs",
-    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners/comments"
+    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners/comments",
+    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners/people",
+    "https://www.ravelry.com/patterns/library/always-be-brave-shawl---the-sock-edit",
+    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners/editors",
+    "https://www.ravelry.com/patterns/library/dreams-unfolding",
+    "https://www.ravelry.com/patterns/library/pumpkins-for-beginners/yarns"
   ]
 }

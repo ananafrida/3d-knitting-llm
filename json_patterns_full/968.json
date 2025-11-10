@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Ball",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -16,15 +19,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mitred-football/editors",
-    "https://www.ravelry.com/patterns/library/mitred-football/threads",
-    "https://www.ravelry.com/patterns/library/mitred-football/people",
-    "https://www.ravelry.com/patterns/library/rainbow-circular-afghan",
-    "https://www.ravelry.com/patterns/library/mitred-football/yarns",
     "https://www.ravelry.com/patterns/library/mitred-football/report",
-    "https://www.ravelry.com/patterns/library/mitred-football/comments",
+    "https://www.ravelry.com/patterns/library/mitred-football/threads",
     "https://www.ravelry.com/patterns/sources/creativegal42",
-    "https://www.ravelry.com/patterns/library/mitred-football"
+    "https://www.ravelry.com/patterns/library/mitred-football/people",
+    "https://www.ravelry.com/patterns/library/mitred-football",
+    "https://www.ravelry.com/patterns/library/mitred-football/yarns",
+    "https://www.ravelry.com/patterns/library/rainbow-circular-afghan",
+    "https://www.ravelry.com/patterns/library/mitred-football/editors",
+    "https://www.ravelry.com/patterns/library/mitred-football/comments"
   ],
   "name": "Ravelry: Mitred Football pattern by Sarah McDonald"
 }

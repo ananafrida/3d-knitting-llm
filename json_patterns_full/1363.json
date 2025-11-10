@@ -4,9 +4,12 @@
   "category": "Softies → Other",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "approx.38cm/15inches",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "3-dimensional",
@@ -21,17 +24,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/polushkabunny-website",
+    "https://www.ravelry.com/patterns/library/grinch-15/report",
+    "https://www.ravelry.com/patterns/library/large-monkey-2",
+    "https://www.ravelry.com/patterns/library/grinch-15/yarns",
     "https://www.ravelry.com/patterns/library/baby-duck-806",
     "https://www.ravelry.com/patterns/library/grinch-15",
-    "https://www.ravelry.com/patterns/library/grinch-15/report",
-    "https://www.ravelry.com/patterns/library/grinch-15/people",
-    "https://www.ravelry.com/patterns/library/grinch-15/threads",
-    "https://www.ravelry.com/patterns/library/grinch-15/comments",
-    "https://www.ravelry.com/patterns/library/large-monkey-2",
-    "https://www.ravelry.com/patterns/library/goose-toy",
     "https://www.ravelry.com/patterns/library/grinch-15/editors",
-    "https://www.ravelry.com/patterns/library/grinch-15/yarns"
+    "https://www.ravelry.com/patterns/library/goose-toy",
+    "https://www.ravelry.com/patterns/library/grinch-15/comments",
+    "https://www.ravelry.com/patterns/library/grinch-15/people",
+    "https://www.ravelry.com/patterns/sources/polushkabunny-website",
+    "https://www.ravelry.com/patterns/library/grinch-15/threads"
   ],
   "name": "Ravelry: Grinch pattern by Maria Ermolova"
 }

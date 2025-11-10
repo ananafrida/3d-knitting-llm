@@ -7,9 +7,12 @@
   "category": "Blanket → Throw Blanket → Baby Blanket",
   "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
   "sizes_available": "Six Sizes: Baby, Small, Medium, Large, XL & XXL (see dimensions below)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Plymouth Yarn Encore Mega"
+    "Plymouth Yarn Encore Mega",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
     "one-piece",
@@ -23,17 +26,17 @@
   "techniques": [],
   "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/meadow-lane",
     "https://www.ravelry.com/patterns/library/the-boulevard-blanket/people",
-    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/yarns",
     "https://www.ravelry.com/patterns/library/the-boulevard-blanket",
+    "https://www.ravelry.com/patterns/library/making-plans",
+    "https://www.ravelry.com/patterns/sources/fifty-four-ten-studio",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/comments",
     "https://www.ravelry.com/patterns/library/the-boulevard-blanket/threads",
     "https://www.ravelry.com/patterns/library/the-boulevard-blanket/editors",
-    "https://www.ravelry.com/patterns/sources/fifty-four-ten-studio",
-    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/posts",
-    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/comments",
     "https://www.ravelry.com/patterns/library/on-the-porch",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/yarns",
     "https://www.ravelry.com/patterns/library/the-boulevard-blanket/report",
-    "https://www.ravelry.com/patterns/library/making-plans"
+    "https://www.ravelry.com/patterns/library/meadow-lane",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/posts"
   ]
 }

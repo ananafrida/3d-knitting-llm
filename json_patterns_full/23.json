@@ -7,9 +7,12 @@
   "category": "Afghan block",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "One size fits all",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Knit Picks Brava Bulky"
+    "Knit Picks Brava Bulky",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -26,13 +29,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/report",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square",
+    "https://www.ravelry.com/patterns/sources/jodie-morgans-ravelry-store",
     "https://www.ravelry.com/patterns/library/mini-christmas-bauble-2",
     "https://www.ravelry.com/patterns/library/garter-blanket-square/yarns",
+    "https://www.ravelry.com/patterns/library/garter-blanket-square/report",
+    "https://www.ravelry.com/patterns/library/garter-blanket-square",
     "https://www.ravelry.com/patterns/library/garter-blanket-square/comments",
     "https://www.ravelry.com/patterns/library/garter-blanket-square/editors",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/people",
-    "https://www.ravelry.com/patterns/sources/jodie-morgans-ravelry-store"
+    "https://www.ravelry.com/patterns/library/garter-blanket-square/people"
   ]
 }

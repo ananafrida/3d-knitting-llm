@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Softies → Other",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Bernat Blanket"
+    "Bernat Blanket",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
     "icord",
@@ -23,16 +26,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/balloon-dog-11",
-    "https://www.ravelry.com/patterns/library/pattern-block-blanket",
-    "https://www.ravelry.com/patterns/library/balloon-dog-11/yarns",
-    "https://www.ravelry.com/patterns/sources/kun-yins-ravelry-store",
     "https://kunyinknits.wordpress.com/2023/05/31/balloon-dog-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/august-baby-blanket-2",
+    "https://www.ravelry.com/patterns/library/pattern-block-blanket",
     "https://www.ravelry.com/patterns/library/balloon-dog-11/editors",
-    "https://www.ravelry.com/patterns/library/balloon-dog-11/report",
-    "https://www.ravelry.com/patterns/library/yin-yang-scarf-4",
+    "https://www.ravelry.com/patterns/library/august-baby-blanket-2",
     "https://www.ravelry.com/patterns/library/balloon-dog-11/comments",
     "https://www.ravelry.com/patterns/sources/kun-yin-knits",
-    "https://www.ravelry.com/patterns/library/balloon-dog-11/people"
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/report",
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/people",
+    "https://www.ravelry.com/patterns/library/yin-yang-scarf-4",
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/yarns",
+    "https://www.ravelry.com/patterns/sources/kun-yins-ravelry-store"
   ]
 }

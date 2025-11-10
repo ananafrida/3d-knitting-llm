@@ -4,9 +4,12 @@
   "category": "Hat → Pixie",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "6/12 mos, 18/24 mos, 4 yrs",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Bernat Softee Baby, Solids & Marls"
+    "Bernat Softee Baby, Solids & Marls",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -22,19 +25,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/report",
-    "https://www.ravelry.com/patterns/library/star-blanket-6",
     "https://www.ravelry.com/patterns/library/pebble-stitch-throw",
-    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/people",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/threads",
+    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
+    "https://www.ravelry.com/patterns/library/garter-stitch-corner-to-corner-blanket",
     "https://www.ravelry.com/patterns/library/little-gnome-hat-4/edit",
     "https://www.ravelry.com/patterns/library/little-gnome-hat-4/yarns",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
     "https://www.ravelry.com/patterns/library/little-gnome-hat-4/editors",
-    "https://www.ravelry.com/patterns/library/garter-stitch-corner-to-corner-blanket",
+    "https://www.ravelry.com/patterns/library/star-blanket-6",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/people",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
     "https://www.ravelry.com/patterns/library/little-gnome-hat-4/comments",
-    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/threads",
-    "https://www.ravelry.com/patterns/library/little-gnome-hat-4"
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/report"
   ],
   "name": "Ravelry: Little Gnome Hat pattern by Bernat Design Studio"
 }

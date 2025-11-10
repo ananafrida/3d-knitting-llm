@@ -5,6 +5,9 @@
   "designer": "Uli Feiler",
   "craft": "Knitting",
   "category": "Components → Other",
+  "languages": [
+    "German"
+  ],
   "suggested_yarn": [
     "",
     "Any gauge - designed for any gauge ?"
@@ -18,13 +21,13 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/editors",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/yarns",
     "https://www.ravelry.com/patterns/sources/uli-feilers-ravelry-store",
     "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/threads",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/yarns",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/people",
     "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/comments",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/report",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/people"
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/editors",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/report"
   ]
 }

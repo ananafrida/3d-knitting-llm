@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "sizes_available": "Fingering 4 3/4\"; DK/Sport 5 1/4\"; Worsted 6\"",
+  "languages": [
+    "English"
+  ],
   "attributes": [
     "bottom-up",
     "chart",
@@ -19,16 +22,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/flower-girls",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/flower-girls/threads",
+    "https://www.ravelry.com/patterns/library/flower-girls/yarns",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
     "https://www.ravelry.com/patterns/library/flower-girls/editors",
+    "https://www.ravelry.com/patterns/library/flower-girls/report",
     "https://www.ravelry.com/patterns/library/jungle-buddies-2",
     "https://www.ravelry.com/patterns/library/flower-girls/people",
-    "https://www.ravelry.com/patterns/library/flower-girls/report",
-    "https://www.ravelry.com/patterns/library/flower-girls/threads",
     "https://www.ravelry.com/patterns/library/flower-girls/comments",
-    "https://www.ravelry.com/patterns/library/flower-girls/yarns",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls"
+    "https://www.ravelry.com/patterns/library/flower-girls",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store"
   ]
 }

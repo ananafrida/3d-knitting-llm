@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -19,18 +22,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib",
-    "https://www.ravelry.com/patterns/library/little-skipping-friends",
-    "http://flutterbypatch.blogspot.co.uk/2015/05/free-pattern-baby-in-basket-crib.html",
-    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/people",
-    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/yarns",
-    "https://www.ravelry.com/patterns/sources/flutterby-patch",
     "https://www.ravelry.com/patterns/library/jenny-and-the-jolly-dollies",
-    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/report",
+    "http://flutterbypatch.blogspot.co.uk/2015/05/free-pattern-baby-in-basket-crib.html",
+    "https://www.ravelry.com/patterns/sources/flutterby-patch",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/editors",
     "https://www.ravelry.com/patterns/library/jolly-dolly-bags",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/report",
     "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/comments",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/people",
     "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/threads",
-    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/editors"
+    "https://www.ravelry.com/patterns/library/little-skipping-friends",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/yarns"
   ],
   "name": "Ravelry: Baby in a Basket Crib pattern by Wendy Phillips"
 }

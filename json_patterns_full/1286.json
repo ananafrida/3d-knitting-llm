@@ -7,9 +7,12 @@
   "category": "Softies → Animal",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Hayfield Bonus DK"
+    "Hayfield Bonus DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -25,17 +28,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/small-sausage-dog/posts",
-    "https://www.ravelry.com/patterns/library/autumn-acorns-and-oak-leaves",
-    "https://www.ravelry.com/bundles/free-patterns-500",
-    "https://www.ravelry.com/patterns/library/small-sausage-dog/yarns",
-    "https://www.ravelry.com/patterns/library/little-apple",
     "https://www.ravelry.com/patterns/library/small-sausage-dog/editors",
+    "https://www.ravelry.com/patterns/library/little-apple",
     "https://www.ravelry.com/patterns/library/small-sausage-dog",
-    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
-    "https://www.ravelry.com/patterns/library/small-sausage-dog/threads",
-    "https://www.ravelry.com/patterns/library/small-sausage-dog/report",
+    "https://www.ravelry.com/patterns/library/autumn-acorns-and-oak-leaves",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/yarns",
     "https://www.ravelry.com/patterns/library/small-sausage-dog/comments",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/threads",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/report",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/posts",
     "https://www.ravelry.com/patterns/library/rainbow-35",
     "https://www.ravelry.com/patterns/library/small-sausage-dog/people"
   ]

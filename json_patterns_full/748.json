@@ -7,9 +7,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "XS-S-M-L-XL-XXL-XXXL",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Merino Extra Fine"
+    "Garnstudio DROPS Merino Extra Fine",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -25,14 +28,14 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/her-alpaca-dream-jumper",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo/editors",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo/comments",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo",
-    "https://www.ravelry.com/patterns/sources/aurora-amandines-ravelry-store",
-    "https://www.ravelry.com/patterns/library/aestra-merino-polo",
     "https://www.ravelry.com/patterns/library/eyra-merino-polo/people",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper",
+    "https://www.ravelry.com/patterns/library/eyra-merino-polo",
+    "https://www.ravelry.com/patterns/library/eyra-merino-polo/comments",
+    "https://www.ravelry.com/patterns/library/eyra-merino-polo/editors",
+    "https://www.ravelry.com/patterns/library/aestra-merino-polo",
     "https://www.ravelry.com/patterns/library/eyra-merino-polo/yarns",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo/report"
+    "https://www.ravelry.com/patterns/library/hildra-wool-jumper",
+    "https://www.ravelry.com/patterns/library/eyra-merino-polo/report",
+    "https://www.ravelry.com/patterns/sources/aurora-amandines-ravelry-store"
   ]
 }

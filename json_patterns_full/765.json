@@ -7,9 +7,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "41.25 (44.75, 46.75, 51.5) (54, 55.25, 57.25) (61.5, 65.75, 72)\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Sonder Yarn Co. Halo"
+    "Sonder Yarn Co. Halo",
+    "yarn held together"
   ],
   "attributes": [
     "circular-yoke",
@@ -24,16 +27,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/la-rentree/threads",
     "https://www.ravelry.com/patterns/library/la-rentree/comments",
-    "https://www.ravelry.com/patterns/sources/sonder-yarn-co-2",
     "https://www.ravelry.com/patterns/library/la-rentree/editors",
-    "https://www.ravelry.com/patterns/library/la-rentree/report",
     "https://www.ravelry.com/patterns/library/bobbles-optional",
     "https://www.ravelry.com/patterns/library/la-rentree/yarns",
-    "https://www.ravelry.com/patterns/library/la-rentree",
     "https://www.ravelry.com/patterns/library/la-rentree/people",
-    "https://www.ravelry.com/patterns/library/hold-the-line-2",
-    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan"
+    "https://www.ravelry.com/patterns/library/la-rentree/report",
+    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan",
+    "https://www.ravelry.com/patterns/sources/sonder-yarn-co-2",
+    "https://www.ravelry.com/patterns/library/la-rentree",
+    "https://www.ravelry.com/patterns/library/la-rentree/threads",
+    "https://www.ravelry.com/patterns/library/hold-the-line-2"
   ]
 }

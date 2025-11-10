@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Plymouth Yarn Tweed",
-    "Aran / Worsted ?"
+    "Aran / Worsted ?",
+    "Plymouth Yarn Tweed"
   ],
   "attributes": [
     "other-colorwork",
@@ -18,19 +21,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/twiggy-tweed",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/yarns",
-    "https://www.ravelry.com/patterns/sources/knitty-fall-2006",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/people",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/report",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/editors",
     "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/threads",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/comments",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/yarns",
     "https://www.ravelry.com/patterns/library/tweedy-mittens",
-    "https://www.ravelry.com/patterns/library/potluck-wool-mittenettes",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/threads",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/report",
     "https://www.ravelry.com/patterns/library/karaoke-cable-scarf",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/posts"
+    "https://www.ravelry.com/patterns/sources/knitty-fall-2006",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/editors",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/posts",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/comments",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/people",
+    "https://www.ravelry.com/patterns/library/potluck-wool-mittenettes"
   ],
   "name": "Ravelry: Twiggy Tweed pattern by Melissa \"Missa\" Hills"
 }

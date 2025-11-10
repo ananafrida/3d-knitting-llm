@@ -4,9 +4,12 @@
   "category": "Blanket → Baby Blanket",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "30 x 30 in. (76x 76 cm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lion Brand Mandala"
+    "Lion Brand Mandala",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "modular",
@@ -19,18 +22,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit",
-    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/comments",
-    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/report",
-    "https://www.ravelry.com/patterns/library/more-than-one-direction",
-    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/editors",
-    "http://www.lionbrand.com/patterns/meadowland-baby-afghan-l80080.html",
+    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/yarns",
+    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/people",
     "https://www.ravelry.com/patterns/library/multidirectional-cap-sleeve-top",
     "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/people",
+    "http://www.lionbrand.com/patterns/meadowland-baby-afghan-l80080.html",
+    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit",
+    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/comments",
     "https://www.ravelry.com/patterns/library/winter-night-mitts",
     "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/yarns"
+    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/report",
+    "https://www.ravelry.com/patterns/library/meadowland-baby-afghan-knit/editors",
+    "https://www.ravelry.com/patterns/library/more-than-one-direction"
   ],
   "name": "Ravelry: Meadowland Baby Afghan (Knit) pattern by Irina Poludnenko"
 }

@@ -3,9 +3,30 @@
   "craft": "Knitting",
   "category": "Decorative → Hanging Ornament",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Alpaca"
+    "Garnstudio DROPS Alpaca",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -23,21 +44,21 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/0-1625-merry-village",
+    "https://www.ravelry.com/patterns/library/0-1625-merry-village/comments",
+    "https://www.ravelry.com/patterns/library/0-1625-merry-village/editors",
+    "https://www.ravelry.com/patterns/library/193-23-deep-breath",
+    "https://www.ravelry.com/patterns/library/0-1625-merry-village/people",
+    "https://www.ravelry.com/patterns/periodicals/drops-christmas-calendar",
+    "https://www.ravelry.com/patterns/library/0-1625-merry-village/report",
     "https://www.ravelry.com/patterns/library/0-1609-christmas-woods",
     "https://www.ravelry.com/patterns/library/0-1630-peppermint-joy",
+    "https://www.ravelry.com/patterns/library/0-1625-merry-village/posts",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.garnstudio.com/pattern.php?id=12049&cid=19",
+    "https://www.ravelry.com/patterns/library/0-1625-merry-village",
     "https://www.ravelry.com/patterns/library/0-1625-merry-village/yarns",
     "https://www.ravelry.com/patterns/library/0-1625-merry-village/edit",
-    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2024",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/0-1625-merry-village/report",
-    "https://www.ravelry.com/patterns/library/0-1625-merry-village/comments",
-    "https://www.ravelry.com/patterns/periodicals/drops-christmas-calendar",
-    "https://www.ravelry.com/patterns/library/0-1625-merry-village/people",
-    "https://www.ravelry.com/patterns/library/0-1625-merry-village/posts",
-    "https://www.ravelry.com/patterns/library/193-23-deep-breath",
-    "https://www.garnstudio.com/pattern.php?id=12049&cid=19",
-    "https://www.ravelry.com/patterns/library/0-1625-merry-village/editors"
+    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2024"
   ],
   "name": "Ravelry: 0-1625 Merry Village pattern by DROPS design"
 }

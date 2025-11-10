@@ -7,6 +7,18 @@
   "category": "Sweater → Cardigan",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "Järbo Järbo 2 tr Ull / Svensk Ull 2 tr",
     "Sport (12 wpi) ?"
@@ -29,16 +41,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/julvanten-2024",
-    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/people",
-    "https://www.ravelry.com/patterns/library/sommarkoftan-2025",
-    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/posts",
-    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
-    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/comments",
     "https://www.ravelry.com/patterns/library/julvanten-2023",
-    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/editors",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/posts",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/people",
     "https://www.ravelry.com/patterns/library/sommarkoftan-2023",
     "https://www.ravelry.com/patterns/library/sommarkoftan-2025/yarns",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/comments",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/editors",
+    "https://www.ravelry.com/patterns/library/julvanten-2024",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
     "https://www.ravelry.com/patterns/library/sommarkoftan-2025/report"
   ]
 }

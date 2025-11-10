@@ -6,6 +6,12 @@
   "craft": "Knitting",
   "category": "Sweater → Pullover",
   "sizes_available": "all sizes",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Hungarian"
+  ],
   "suggested_yarn": [
     "",
     "Any gauge - designed for any gauge ?"
@@ -32,17 +38,17 @@
   "shape": "cylinder",
   "download_links": [
     "https://www.ravelry.com/patterns/sources/goodie-bag--wollfest-hamburg",
+    "https://www.ravelry.com/patterns/library/roundabout-12",
+    "https://www.ravelry.com/patterns/library/raglano/report",
+    "https://www.ravelry.com/patterns/sources/nicolor-designs",
+    "https://www.ravelry.com/patterns/library/raglano/posts",
+    "https://www.ravelry.com/patterns/library/raglano/yarns",
+    "https://www.ravelry.com/patterns/library/raglano/editors",
+    "https://www.ravelry.com/patterns/library/raglano/people",
     "https://www.ravelry.com/patterns/library/raglano",
     "https://www.ravelry.com/patterns/library/raglano/comments",
-    "https://www.ravelry.com/patterns/library/raglano/posts",
-    "https://www.ravelry.com/patterns/library/raglano/report",
-    "https://www.ravelry.com/patterns/library/roundabout-12",
-    "https://www.ravelry.com/patterns/library/raglano/yarns",
-    "https://www.ravelry.com/patterns/sources/nicolor-designs",
-    "https://www.ravelry.com/patterns/library/raglano/people",
+    "https://www.ravelry.com/patterns/library/comodo",
     "https://www.ravelry.com/patterns/library/raglano/threads",
-    "https://www.ravelry.com/patterns/library/raglano/editors",
-    "https://www.ravelry.com/patterns/library/strandtreppe",
-    "https://www.ravelry.com/patterns/library/comodo"
+    "https://www.ravelry.com/patterns/library/strandtreppe"
   ]
 }

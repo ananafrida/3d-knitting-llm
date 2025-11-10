@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Brown Sheep Lamb's Pride Worsted"
+    "Brown Sheep Lamb's Pride Worsted",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -24,19 +27,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/posts",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/threads",
-    "https://www.ravelry.com/patterns/sources/knitty-fall-2006",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/report",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/editors",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/the-balloon-bag",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/comments",
-    "https://www.ravelry.com/patterns/library/mitered-squares-felted-tote-and-flap-bag",
     "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/yarns",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing",
+    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/threads",
+    "https://www.ravelry.com/patterns/library/the-balloon-bag",
+    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/editors",
     "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/people",
-    "https://www.ravelry.com/patterns/library/starburst-felted-beret-and-classic-felted-beret"
+    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/report",
+    "https://www.ravelry.com/patterns/library/starburst-felted-beret-and-classic-felted-beret",
+    "https://www.ravelry.com/patterns/sources/knitty-fall-2006",
+    "https://www.ravelry.com/patterns/library/mitered-squares-felted-tote-and-flap-bag",
+    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/posts",
+    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/comments"
   ],
   "name": "Ravelry: Little Slip Of A Thing pattern by Diane Sutliff"
 }

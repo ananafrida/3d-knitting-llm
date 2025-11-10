@@ -7,6 +7,9 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "22.5 (28.25)” circumference",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Murky Depths Targhee Worsted",
     "Worsted (9 wpi) ?"
@@ -28,15 +31,15 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/elbrook-cowl/report",
-    "https://www.ravelry.com/patterns/library/elbrook-cowl/comments",
     "https://www.ravelry.com/patterns/library/elbrook-cowl/editors",
-    "https://www.ravelry.com/patterns/library/light-academia",
-    "https://www.ravelry.com/patterns/library/elbrook-cowl",
-    "https://www.ravelry.com/patterns/library/dark-academia",
     "https://www.ravelry.com/patterns/library/elbrook-cowl/people",
     "https://www.ravelry.com/patterns/library/elbrook-hat",
+    "https://www.ravelry.com/patterns/library/elbrook-cowl",
+    "https://www.ravelry.com/patterns/library/elbrook-cowl/comments",
+    "https://www.ravelry.com/patterns/library/elbrook-cowl/report",
+    "https://www.ravelry.com/patterns/library/elbrook-cowl/yarns",
     "https://www.ravelry.com/patterns/sources/river-road-knits",
-    "https://www.ravelry.com/patterns/library/elbrook-cowl/yarns"
+    "https://www.ravelry.com/patterns/library/dark-academia",
+    "https://www.ravelry.com/patterns/library/light-academia"
   ]
 }

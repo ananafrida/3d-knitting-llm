@@ -7,9 +7,12 @@
   "category": "Applique / Embellishment",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "NA",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Koigu Premium Merino (KPM)",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Koigu Premium Merino (KPM)"
   ],
   "attributes": [
     "one-piece",
@@ -23,14 +26,14 @@
   "shape": "cube",
   "download_links": [
     "https://www.ravelry.com/patterns/library/falling-leaves-ii-afghan",
-    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf",
     "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/people",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
-    "https://www.ravelry.com/patterns/library/apple-leaf-edging",
-    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/editors",
-    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/yarns",
-    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
     "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/comments",
-    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/report"
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/report",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/yarns",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/editors",
+    "https://www.ravelry.com/patterns/library/apple-leaf-edging",
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
+    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf"
   ]
 }

@@ -5,6 +5,9 @@
   "designer": "Anne Hanson",
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Brown Sheep Nature Spun",
     "Worsted (9 wpi) ?"
@@ -18,17 +21,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/glasstower",
-    "https://www.ravelry.com/patterns/library/slouch-bag/yarns",
-    "https://www.ravelry.com/patterns/library/slouch-bag/threads",
-    "https://www.ravelry.com/patterns/library/slouch-bag/people",
-    "https://www.ravelry.com/patterns/library/slouch-bag/editors",
     "https://www.ravelry.com/patterns/library/slouch-bag/posts",
+    "https://www.ravelry.com/patterns/library/glasstower",
+    "https://www.ravelry.com/patterns/library/slouch-bag/people",
     "https://www.ravelry.com/patterns/library/slouch-bag/comments",
-    "https://www.ravelry.com/patterns/library/slouch-bag/report",
     "https://www.ravelry.com/patterns/library/chatwal",
+    "https://www.ravelry.com/patterns/library/slouch-bag/report",
+    "https://www.ravelry.com/patterns/library/slouch-bag/yarns",
     "https://www.ravelry.com/patterns/library/slouch-bag",
-    "https://www.ravelry.com/patterns/library/birches-5",
-    "https://www.ravelry.com/patterns/sources/knitspot-website"
+    "https://www.ravelry.com/patterns/library/slouch-bag/threads",
+    "https://www.ravelry.com/patterns/sources/knitspot-website",
+    "https://www.ravelry.com/patterns/library/slouch-bag/editors",
+    "https://www.ravelry.com/patterns/library/birches-5"
   ]
 }

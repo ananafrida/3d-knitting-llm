@@ -7,9 +7,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Reynolds Lite-Lopi"
+    "Reynolds Lite-Lopi",
+    "yarn held together"
   ],
   "attributes": [
     "felted",
@@ -20,15 +23,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/canteen-bag/comments",
-    "https://www.ravelry.com/patterns/library/canteen-bag/report",
-    "https://www.ravelry.com/patterns/library/canteen-bag",
-    "https://www.ravelry.com/patterns/library/canteen-bag/editors",
-    "https://www.ravelry.com/patterns/library/canteen-bag/threads",
-    "https://www.ravelry.com/patterns/periodicals/interweave-knits",
     "https://www.ravelry.com/patterns/sources/rachel-battaglia-nissen",
-    "https://www.ravelry.com/patterns/library/canteen-bag/people",
     "https://www.ravelry.com/patterns/library/canteen-bag/yarns",
+    "https://www.ravelry.com/patterns/library/canteen-bag/comments",
+    "https://www.ravelry.com/patterns/periodicals/interweave-knits",
+    "https://www.ravelry.com/patterns/library/canteen-bag/people",
+    "https://www.ravelry.com/patterns/library/canteen-bag/threads",
+    "https://www.ravelry.com/patterns/library/canteen-bag/editors",
+    "https://www.ravelry.com/patterns/library/canteen-bag",
+    "https://www.ravelry.com/patterns/library/canteen-bag/report",
     "https://www.ravelry.com/patterns/sources/interweave-knits-fall-2005"
   ]
 }

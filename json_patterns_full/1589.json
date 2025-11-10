@@ -6,6 +6,10 @@
   "craft": "Knitting",
   "category": "Decorative → Other",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Zwerger Garn Opal 4-fach | 4-ply"
@@ -19,13 +23,13 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/sources/kikos-designs",
     "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/threads",
-    "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/yarns",
-    "https://www.ravelry.com/patterns/library/glitzerspiralkugel",
     "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/people",
+    "https://www.ravelry.com/patterns/library/glitzerspiralkugel",
     "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/comments",
     "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/editors",
-    "https://www.ravelry.com/patterns/sources/kikos-designs",
+    "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/yarns",
     "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/report",
     "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg"
   ]

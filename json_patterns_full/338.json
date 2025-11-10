@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Pet → Toys",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Brown Sheep Nature Spun Sport",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Brown Sheep Nature Spun Sport"
   ],
   "attributes": [
     "bobble-or-popcorn",
@@ -18,17 +21,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/felted-mouse/edit",
-    "https://www.ravelry.com/patterns/library/felted-mouse/comments",
-    "https://www.ravelry.com/patterns/library/felted-mouse/editors",
-    "https://www.ravelry.com/patterns/sources/knitting-on-the-net",
     "http://www.knittingonthenet.com/patterns/petsmouse.htm",
-    "https://www.ravelry.com/patterns/library/felted-mouse/posts",
-    "https://www.ravelry.com/patterns/library/felted-mouse/threads",
-    "https://www.ravelry.com/patterns/library/felted-mouse/people",
     "https://www.ravelry.com/patterns/library/felted-mouse/report",
+    "https://www.ravelry.com/patterns/library/felted-mouse/people",
     "https://www.ravelry.com/patterns/library/felted-mouse",
-    "https://www.ravelry.com/patterns/library/felted-mouse/yarns"
+    "https://www.ravelry.com/patterns/library/felted-mouse/comments",
+    "https://www.ravelry.com/patterns/sources/knitting-on-the-net",
+    "https://www.ravelry.com/patterns/library/felted-mouse/posts",
+    "https://www.ravelry.com/patterns/library/felted-mouse/editors",
+    "https://www.ravelry.com/patterns/library/felted-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/felted-mouse/threads",
+    "https://www.ravelry.com/patterns/library/felted-mouse/edit"
   ],
   "name": "Ravelry: Felted Mouse pattern by Jo Chandler"
 }

@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Red Heart Super Saver (solids)"
+    "Red Heart Super Saver (solids)",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "buttoned",
@@ -20,15 +23,15 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/comments",
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/report",
     "https://www.ravelry.com/patterns/library/seamless-baby-booties-3",
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/people",
-    "https://www.ravelry.com/patterns/sources/crafty-braams-ravelry-store",
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy",
-    "https://www.ravelry.com/patterns/library/toy-shoes",
+    "https://www.ravelry.com/patterns/library/halloween-party-2",
     "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/yarns",
     "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/editors",
-    "https://www.ravelry.com/patterns/library/halloween-party-2"
+    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/report",
+    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/people",
+    "https://www.ravelry.com/patterns/sources/crafty-braams-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/comments",
+    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy",
+    "https://www.ravelry.com/patterns/library/toy-shoes"
   ]
 }

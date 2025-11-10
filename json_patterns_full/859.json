@@ -7,9 +7,21 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "15 x 85 cm",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Järbo Alpacka Silke"
+    "Järbo Alpacka Silke",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -25,16 +37,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bamsen---softie",
-    "https://www.ravelry.com/patterns/library/rals---scarf",
-    "https://www.ravelry.com/patterns/library/rals---scarf/yarns",
-    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
     "https://www.ravelry.com/patterns/sources/jarbo-jarnvag",
     "https://www.ravelry.com/patterns/library/rals---hat",
-    "https://www.ravelry.com/patterns/library/rals---scarf/editors",
     "https://www.ravelry.com/patterns/library/marstrand---sockor",
+    "https://www.ravelry.com/patterns/library/rals---scarf",
+    "https://www.ravelry.com/patterns/library/rals---scarf/yarns",
     "https://www.ravelry.com/patterns/library/rals---scarf/comments",
     "https://www.ravelry.com/patterns/library/rals---scarf/people",
-    "https://www.ravelry.com/patterns/library/rals---scarf/report"
+    "https://www.ravelry.com/patterns/library/rals---scarf/editors",
+    "https://www.ravelry.com/patterns/library/bamsen---softie",
+    "https://www.ravelry.com/patterns/library/rals---scarf/report",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store"
   ]
 }

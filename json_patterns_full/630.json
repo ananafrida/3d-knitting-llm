@@ -7,6 +7,10 @@
   "category": "Blanket → Baby Blanket",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "70 cm x 70 cm",
+  "languages": [
+    "English",
+    "Hungarian"
+  ],
   "suggested_yarn": [
     "Scheepjes Catona",
     "Sport (12 wpi) ?"
@@ -22,15 +26,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/purls-by-palma",
-    "https://www.ravelry.com/patterns/library/blanket-for-martin/comments",
-    "https://www.ravelry.com/patterns/library/blanket-for-martin/editors",
-    "https://www.ravelry.com/patterns/library/justenough-shawl",
-    "https://www.ravelry.com/patterns/library/blanket-for-lilla",
-    "https://www.ravelry.com/patterns/library/blanket-for-martin",
-    "https://www.ravelry.com/patterns/library/blanket-for-martin/people",
     "https://www.ravelry.com/patterns/library/blanket-for-martin/yarns",
+    "https://www.ravelry.com/patterns/library/blanket-for-lilla",
+    "https://www.ravelry.com/patterns/library/justenough-shawl",
+    "https://www.ravelry.com/patterns/library/blanket-for-martin",
+    "https://www.ravelry.com/patterns/library/blanket-for-martin/threads",
+    "https://www.ravelry.com/patterns/library/blanket-for-martin/editors",
     "https://www.ravelry.com/patterns/library/blanket-for-martin/report",
-    "https://www.ravelry.com/patterns/library/blanket-for-martin/threads"
+    "https://www.ravelry.com/patterns/library/blanket-for-martin/comments",
+    "https://www.ravelry.com/patterns/library/blanket-for-martin/people",
+    "https://www.ravelry.com/patterns/sources/purls-by-palma"
   ]
 }

@@ -4,9 +4,14 @@
   "category": "Softies → Other",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "one size, length from head to toes 28 cm",
+  "languages": [
+    "English",
+    "Finnish",
+    "Swedish"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Novita Moomin x Muumitalo Moominhouse"
+    "Novita Moomin x Muumitalo Moominhouse",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "icord",
@@ -20,21 +25,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/moomin-troll-softie/threads",
-    "https://www.ravelry.com/patterns/library/sara-top-2",
-    "https://www.ravelry.com/patterns/library/moomin-troll-softie/edit",
-    "https://novita.com/en/patterns/moomintroll-softie-novita-muumit",
-    "https://www.ravelry.com/patterns/library/moomin-troll-softie/people",
-    "https://www.ravelry.com/patterns/library/moomin-troll-softie/editors",
-    "https://www.ravelry.com/patterns/library/moomin-troll-softie",
-    "https://www.ravelry.com/patterns/sources/novita-knits-website",
-    "https://www.ravelry.com/patterns/library/moomin-troll-softie/yarns",
-    "https://www.ravelry.com/patterns/sources/novita-kesa-2-2019",
-    "https://www.ravelry.com/patterns/library/avanto-hat",
-    "https://www.ravelry.com/patterns/library/moomin-troll-softie/report",
     "https://www.ravelry.com/patterns/library/moomin-troll-softie/comments",
+    "https://www.ravelry.com/patterns/library/avanto-hat",
+    "https://www.ravelry.com/patterns/library/moomin-troll-softie/edit",
+    "https://www.ravelry.com/patterns/library/moomin-troll-softie/people",
+    "https://www.ravelry.com/patterns/sources/novita-knits-website",
+    "https://www.ravelry.com/patterns/library/moomin-troll-softie/report",
+    "https://www.ravelry.com/patterns/library/moomin-troll-softie/editors",
     "https://www.ravelry.com/patterns/library/feelgood-trousers",
-    "https://www.ravelry.com/patterns/periodicals/novita"
+    "https://www.ravelry.com/patterns/sources/novita-kesa-2-2019",
+    "https://www.ravelry.com/patterns/library/sara-top-2",
+    "https://www.ravelry.com/patterns/library/moomin-troll-softie",
+    "https://novita.com/en/patterns/moomintroll-softie-novita-muumit",
+    "https://www.ravelry.com/patterns/library/moomin-troll-softie/threads",
+    "https://www.ravelry.com/patterns/periodicals/novita",
+    "https://www.ravelry.com/patterns/library/moomin-troll-softie/yarns"
   ],
   "name": "Ravelry: Moomin Troll Softie pattern by Novita"
 }

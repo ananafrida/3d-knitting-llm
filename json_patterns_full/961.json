@@ -4,6 +4,9 @@
   "category": "Ball",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "Slightly smaller than a regulation soccer ball",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -20,17 +23,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/soccer-ball/editors",
-    "https://www.ravelry.com/patterns/library/soccer-ball/threads",
     "https://www.ravelry.com/patterns/library/soccer-ball/people",
-    "https://www.ravelry.com/patterns/library/soccer-ball/comments",
     "https://www.ravelry.com/patterns/library/soccer-ball/report",
+    "http://needles.guzzlingcakes.com/downloads/Needle_Exchange_Soccer_Ball_Pattern.pdf",
+    "https://www.ravelry.com/patterns/library/soccer-ball/comments",
     "http://needles.guzzlingcakes.com/2006/06/11/world-cup-soccer-ball-knitting-pattern/",
+    "https://www.ravelry.com/patterns/library/soccer-ball/yarns",
+    "https://www.ravelry.com/patterns/library/soccer-ball/editors",
     "https://www.ravelry.com/patterns/library/soccer-ball",
     "https://www.ravelry.com/patterns/sources/needle-exchange",
-    "https://www.ravelry.com/patterns/library/soccer-ball/edit",
-    "http://needles.guzzlingcakes.com/downloads/Needle_Exchange_Soccer_Ball_Pattern.pdf",
-    "https://www.ravelry.com/patterns/library/soccer-ball/yarns"
+    "https://www.ravelry.com/patterns/library/soccer-ball/threads",
+    "https://www.ravelry.com/patterns/library/soccer-ball/edit"
   ],
   "name": "Ravelry: Soccer Ball pattern by Evester"
 }

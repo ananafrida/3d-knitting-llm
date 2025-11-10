@@ -7,9 +7,12 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "1 size: to fit a newborn babe, approximately 3-4kg (7-9lb) in weight, with a chest circumference of 37.5cm.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Malabrigo Yarn Sock"
+    "Malabrigo Yarn Sock",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -36,20 +39,20 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae/editors",
-    "http://www.ravelry.com/patterns/library/baby-vertebrae",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae/comments",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae",
-    "http://www.ravelry.com/patterns/library/kiddy-vertebrae",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae/posts",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae/report",
-    "https://www.ravelry.com/patterns/library/baby-vertebrae",
     "https://www.ravelry.com/patterns/library/newborn-vertebrae/people",
-    "https://www.ravelry.com/patterns/sources/pekapeka-design-studio",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae/posts",
     "https://www.ravelry.com/patterns/library/newborn-vertebrae/yarns",
+    "https://www.ravelry.com/patterns/library/baby-vertebrae",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae",
     "https://www.ravelry.com/patterns/library/newborn-vertebrae/threads",
+    "https://www.ravelry.com/patterns/library/mama-vertebrae",
+    "http://www.ravelry.com/patterns/library/kiddy-vertebrae",
     "http://www.ravelry.com/patterns/library/mama-vertebrae",
-    "https://www.ravelry.com/patterns/library/mama-vertebrae"
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae/report",
+    "http://www.ravelry.com/patterns/library/baby-vertebrae",
+    "https://www.ravelry.com/patterns/sources/pekapeka-design-studio",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae/editors",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae/comments"
   ]
 }

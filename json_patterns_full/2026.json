@@ -7,9 +7,13 @@
   "category": "Components → Other",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "37-45, 5-12",
+  "languages": [
+    "English",
+    "Additional languages which are not in the download: Universal"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Garnstudio DROPS Big Fabel"
+    "Garnstudio DROPS Big Fabel",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -29,15 +33,15 @@
   ],
   "shape": "cylinder",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/quickolino",
+    "https://www.ravelry.com/patterns/library/quickolino/comments",
     "https://www.ravelry.com/patterns/library/meschugge",
-    "https://www.ravelry.com/patterns/sources/tuna---s-ravelry-store",
+    "https://www.ravelry.com/patterns/library/quickolino/yarns",
+    "https://www.ravelry.com/patterns/library/quickolino/people",
     "https://www.ravelry.com/patterns/library/quickolino/report",
     "https://www.ravelry.com/patterns/library/tomma",
-    "https://www.ravelry.com/patterns/library/quickolino/editors",
     "https://www.ravelry.com/patterns/library/ducky-anita",
-    "https://www.ravelry.com/patterns/library/quickolino",
-    "https://www.ravelry.com/patterns/library/quickolino/people",
-    "https://www.ravelry.com/patterns/library/quickolino/comments",
-    "https://www.ravelry.com/patterns/library/quickolino/yarns"
+    "https://www.ravelry.com/patterns/sources/tuna---s-ravelry-store",
+    "https://www.ravelry.com/patterns/library/quickolino/editors"
   ]
 }

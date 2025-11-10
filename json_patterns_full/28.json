@@ -7,9 +7,12 @@
   "category": "Afghan block",
   "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Lion Brand Hue + Me"
+    "Lion Brand Hue + Me",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "Intarsia",
@@ -24,19 +27,19 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/two-of-wands",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/report",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/comments",
-    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/threads",
-    "https://www.ravelry.com/patterns/sources/zodiac-icons-blanket-kal",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-sagittarius-square",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-aries-square",
-    "https://www.ravelry.com/patterns/sources/zodiac-icons-blanket",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/people",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/yarns",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/threads",
+    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
+    "https://www.ravelry.com/patterns/sources/zodiac-icons-blanket-kal",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/editors"
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-sagittarius-square",
+    "https://www.ravelry.com/patterns/sources/zodiac-icons-blanket",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/yarns",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-aries-square",
+    "https://www.ravelry.com/patterns/sources/two-of-wands",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/editors",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square/comments"
   ]
 }

@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Applique / Embellishment",
   "sizes_available": "any size, dependent on yarn and needles",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "any yarn"
   ],
@@ -22,17 +25,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/linus-elf-hooded-hat-scarf",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/people",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/threads",
     "https://www.ravelry.com/patterns/library/amulet-bag-for-your-treasure",
-    "https://www.ravelry.com/patterns/sources/stash-enhancement",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/report",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn",
-    "https://www.ravelry.com/patterns/library/finbar-classic-bear",
+    "https://www.ravelry.com/patterns/library/linus-elf-hooded-hat-scarf",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/posts",
     "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/yarns",
     "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/editors",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/posts",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/report",
+    "https://www.ravelry.com/patterns/sources/stash-enhancement",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/people",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/threads",
+    "https://www.ravelry.com/patterns/library/finbar-classic-bear",
     "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/comments"
   ]
 }

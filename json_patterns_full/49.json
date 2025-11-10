@@ -7,9 +7,12 @@
   "category": "Afghan block",
   "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
   "sizes_available": "Onesize",
+  "languages": [
+    "Norwegian"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Vartofta Ullgarn"
+    "Vartofta Ullgarn",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "square"
@@ -19,15 +22,15 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/sources/gunn-iren-gunvorsdatter-simensens-ravelry-store",
-    "https://www.ravelry.com/patterns/library/lappestafetten/yarns",
-    "https://www.ravelry.com/patterns/library/lappestafetten/editors",
-    "https://www.ravelry.com/patterns/library/varstrikk-ved-fjorden",
     "https://www.ravelry.com/patterns/library/lappestafetten/comments",
-    "https://www.ravelry.com/patterns/library/girlandersjal",
-    "https://www.ravelry.com/patterns/library/lappestafetten",
-    "https://www.ravelry.com/patterns/library/lappestafetten/threads",
-    "https://www.ravelry.com/patterns/library/lappestafetten/report",
     "https://www.ravelry.com/patterns/library/lappestafetten/people",
-    "https://www.ravelry.com/patterns/library/kita-skjerf"
+    "https://www.ravelry.com/patterns/library/lappestafetten/report",
+    "https://www.ravelry.com/patterns/library/lappestafetten/threads",
+    "https://www.ravelry.com/patterns/library/kita-skjerf",
+    "https://www.ravelry.com/patterns/library/lappestafetten/yarns",
+    "https://www.ravelry.com/patterns/library/lappestafetten",
+    "https://www.ravelry.com/patterns/library/lappestafetten/editors",
+    "https://www.ravelry.com/patterns/library/girlandersjal",
+    "https://www.ravelry.com/patterns/library/varstrikk-ved-fjorden"
   ]
 }

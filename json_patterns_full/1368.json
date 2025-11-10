@@ -7,6 +7,9 @@
   "category": "Softies → Other",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -23,17 +26,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sack-o-suds",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/report",
-    "https://www.ravelry.com/patterns/library/the-thirty-minute-headband",
     "https://www.ravelry.com/patterns/library/the-f-bomb/yarns",
+    "https://www.ravelry.com/patterns/library/the-f-bomb/report",
+    "https://www.ravelry.com/patterns/library/the-f-bomb/editors",
+    "https://www.ravelry.com/patterns/library/the-f-bomb/posts",
+    "https://www.ravelry.com/patterns/library/the-f-bomb",
+    "https://www.ravelry.com/patterns/library/sack-o-suds",
+    "https://www.ravelry.com/patterns/library/the-f-bomb/threads",
+    "https://www.ravelry.com/patterns/library/simple-eyelet-dishcloth",
+    "https://www.ravelry.com/patterns/library/the-thirty-minute-headband",
     "https://www.ravelry.com/patterns/library/the-f-bomb/people",
     "https://www.ravelry.com/patterns/sources/kusala-knitworks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/simple-eyelet-dishcloth",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/editors",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/threads",
-    "https://www.ravelry.com/patterns/library/the-f-bomb",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/comments",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/posts"
+    "https://www.ravelry.com/patterns/library/the-f-bomb/comments"
   ]
 }

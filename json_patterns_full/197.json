@@ -4,9 +4,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "7 x 7 in. (18 x 18 cm), excluding handles",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Lion Brand Fun Fur Solid"
+    "Lion Brand Fun Fur Solid",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "female",
@@ -21,20 +24,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fun-bag/comments",
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.ravelry.com/patterns/library/fun-bag",
-    "https://www.ravelry.com/patterns/library/fun-bag/threads",
     "https://www.ravelry.com/patterns/library/fun-bag/editors",
-    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
-    "https://www.ravelry.com/patterns/library/diagonal-eyelet-baby-blanket-2",
-    "https://www.lionbrand.com/products/knitting-pattern-fun-bag-1?variant=32419960553565",
+    "https://www.ravelry.com/patterns/library/fun-bag",
     "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
     "https://www.ravelry.com/patterns/library/fun-bag/yarns",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://www.ravelry.com/patterns/library/fun-bag/threads",
+    "https://www.ravelry.com/patterns/library/fun-bag/comments",
     "https://www.ravelry.com/patterns/library/fun-bag/report",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.lionbrand.com/products/knitting-pattern-fun-bag-1?variant=32419960553565",
+    "https://www.ravelry.com/patterns/library/diagonal-eyelet-baby-blanket-2",
     "https://www.ravelry.com/patterns/library/fun-bag/edit",
-    "https://www.ravelry.com/patterns/library/fun-bag/people"
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.ravelry.com/patterns/library/fun-bag/people",
+    "https://www.ravelry.com/patterns/library/folklore-cardigan-4"
   ],
   "name": "Ravelry: Fun Bag pattern by Lion Brand Yarn"
 }

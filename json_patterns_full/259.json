@@ -5,6 +5,9 @@
   "designer": "Eva McDonald",
   "craft": "Knitting",
   "category": "Pet → Toys",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -21,16 +24,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tiny-chook/editors",
-    "https://www.ravelry.com/patterns/library/cupcake-2",
+    "https://www.ravelry.com/patterns/library/tiny-chook/report",
+    "https://www.ravelry.com/patterns/library/tiny-chook/yarns",
     "https://www.ravelry.com/patterns/library/tiny-chook",
+    "https://www.ravelry.com/patterns/library/tiny-chook/editors",
+    "https://www.ravelry.com/patterns/library/tiny-chook/people",
+    "https://www.ravelry.com/patterns/library/tiny-chook/threads",
+    "https://www.ravelry.com/patterns/library/alien-facehugger-bag-charm",
+    "https://www.ravelry.com/patterns/library/cupcake-2",
     "https://www.ravelry.com/patterns/sources/eva-mcdonalds-ravelry-store",
     "https://www.ravelry.com/patterns/library/beginner-baby-yoda",
-    "https://www.ravelry.com/patterns/library/tiny-chook/comments",
-    "https://www.ravelry.com/patterns/library/tiny-chook/yarns",
-    "https://www.ravelry.com/patterns/library/alien-facehugger-bag-charm",
-    "https://www.ravelry.com/patterns/library/tiny-chook/threads",
-    "https://www.ravelry.com/patterns/library/tiny-chook/people",
-    "https://www.ravelry.com/patterns/library/tiny-chook/report"
+    "https://www.ravelry.com/patterns/library/tiny-chook/comments"
   ]
 }

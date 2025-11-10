@@ -7,9 +7,12 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "Child (Adult S/M, Adult L, Adult XL)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Yarn Hero Fiber Arts Merge Worsted"
+    "Yarn Hero Fiber Arts Merge Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -24,15 +27,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bewind-hat/yarns",
-    "https://www.ravelry.com/patterns/library/bewind-hat",
+    "https://www.ravelry.com/patterns/library/gridster-cowl-2",
     "https://www.ravelry.com/patterns/library/bewind-hat/comments",
-    "https://www.ravelry.com/patterns/library/bewind-hat/editors",
-    "https://www.ravelry.com/patterns/library/bewind-hat/threads",
-    "https://www.ravelry.com/patterns/sources/yarn-hero-fiber-arts",
     "https://www.ravelry.com/patterns/library/bewind-hat/report",
     "https://www.ravelry.com/patterns/library/bewind-hat/people",
-    "https://www.ravelry.com/patterns/library/gridster-cowl-2",
-    "https://www.ravelry.com/patterns/library/forward-march"
+    "https://www.ravelry.com/patterns/library/bewind-hat",
+    "https://www.ravelry.com/patterns/library/forward-march",
+    "https://www.ravelry.com/patterns/sources/yarn-hero-fiber-arts",
+    "https://www.ravelry.com/patterns/library/bewind-hat/threads",
+    "https://www.ravelry.com/patterns/library/bewind-hat/yarns",
+    "https://www.ravelry.com/patterns/library/bewind-hat/editors"
   ]
 }

@@ -4,6 +4,9 @@
   "category": "Toys and Hobbies → Other",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "Taille Unique",
+  "languages": [
+    "French"
+  ],
   "suggested_yarn": [
     "Bulky (7 wpi) ?",
     "Phildar Phil Partner 6"
@@ -16,13 +19,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/doudou-carre/editors",
-    "https://www.ravelry.com/patterns/library/doudou-carre/people",
-    "https://www.ravelry.com/patterns/sources/blog-de-laudemoizelle",
     "https://www.ravelry.com/patterns/library/petite-couverture-bebe",
-    "https://www.ravelry.com/patterns/library/doudou-carre/yarns",
-    "https://www.ravelry.com/patterns/library/doudou-carre/report",
+    "https://www.ravelry.com/patterns/sources/blog-de-laudemoizelle",
     "https://www.ravelry.com/patterns/library/doudou-carre",
+    "https://www.ravelry.com/patterns/library/doudou-carre/editors",
+    "https://www.ravelry.com/patterns/library/doudou-carre/yarns",
+    "https://www.ravelry.com/patterns/library/doudou-carre/people",
+    "https://www.ravelry.com/patterns/library/doudou-carre/report",
     "https://www.ravelry.com/patterns/library/doudou-carre/comments"
   ],
   "name": "Ravelry: Doudou Carré pattern by Lau Demoizelle"

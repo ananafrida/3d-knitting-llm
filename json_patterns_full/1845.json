@@ -7,6 +7,9 @@
   "category": "Containers",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "Small, Medium, Large.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Sublime Yarns Extra Fine Merino Wool DK",
     "DK (11 wpi) ?"
@@ -21,16 +24,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitti-politi",
-    "https://www.ravelry.com/patterns/library/pyramid-pods/report",
-    "https://www.ravelry.com/patterns/library/point-5-hand-felted-trinket-box",
     "https://www.ravelry.com/patterns/library/pyramid-pods/editors",
-    "https://www.ravelry.com/patterns/library/pyramid-pods/threads",
-    "https://www.ravelry.com/patterns/library/pyramid-pods/people",
-    "https://www.ravelry.com/patterns/library/the-little-friar",
+    "https://www.ravelry.com/patterns/library/point-5-hand-felted-trinket-box",
     "https://www.ravelry.com/patterns/library/mini-waffle-duffle",
     "https://www.ravelry.com/patterns/library/pyramid-pods",
+    "https://www.ravelry.com/patterns/library/pyramid-pods/report",
+    "https://www.ravelry.com/patterns/library/pyramid-pods/comments",
+    "https://www.ravelry.com/patterns/library/the-little-friar",
+    "https://www.ravelry.com/patterns/library/pyramid-pods/threads",
+    "https://www.ravelry.com/patterns/sources/knitti-politi",
     "https://www.ravelry.com/patterns/library/pyramid-pods/yarns",
-    "https://www.ravelry.com/patterns/library/pyramid-pods/comments"
+    "https://www.ravelry.com/patterns/library/pyramid-pods/people"
   ]
 }

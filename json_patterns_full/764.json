@@ -7,6 +7,9 @@
   "category": "Sweater → Pullover",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "XS-XXXL",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Trysil Garn Superwash Ullgarn",
     "DK (11 wpi) ?"
@@ -24,15 +27,15 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/her-alpaca-dream-jumper",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo",
-    "https://www.ravelry.com/patterns/sources/aurora-amandines-ravelry-store",
-    "https://www.ravelry.com/patterns/library/aestra-merino-polo",
     "https://www.ravelry.com/patterns/library/hildra-wool-jumper/report",
+    "https://www.ravelry.com/patterns/library/her-alpaca-dream-jumper",
+    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/yarns",
+    "https://www.ravelry.com/patterns/library/eyra-merino-polo",
+    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/comments",
+    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/editors",
+    "https://www.ravelry.com/patterns/library/aestra-merino-polo",
     "https://www.ravelry.com/patterns/library/hildra-wool-jumper",
     "https://www.ravelry.com/patterns/library/hildra-wool-jumper/people",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/yarns",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/editors",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/comments"
+    "https://www.ravelry.com/patterns/sources/aurora-amandines-ravelry-store"
   ]
 }

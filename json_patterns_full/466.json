@@ -7,9 +7,13 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "Talla única",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Rico Design Creative Melange Chunky"
+    "Rico Design Creative Melange Chunky",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -29,17 +33,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/80s-retro-2",
-    "https://www.ravelry.com/patterns/library/pumarada",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/yarns",
-    "https://www.ravelry.com/patterns/library/andecha",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/report",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/people",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/comments",
-    "https://www.ravelry.com/patterns/sources/belen-fernandezs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/threads",
     "https://www.ravelry.com/patterns/library/cuello-principiante/editors",
+    "https://www.ravelry.com/patterns/library/andecha",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/people",
+    "https://www.ravelry.com/patterns/library/cuello-principiante",
+    "https://www.ravelry.com/patterns/library/pumarada",
+    "https://www.ravelry.com/patterns/library/80s-retro-2",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/report",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/comments",
     "https://www.ravelry.com/patterns/library/cuello-principiante/posts",
-    "https://www.ravelry.com/patterns/library/cuello-principiante"
+    "https://www.ravelry.com/patterns/library/cuello-principiante/threads",
+    "https://www.ravelry.com/patterns/sources/belen-fernandezs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/yarns"
   ]
 }

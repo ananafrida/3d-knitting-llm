@@ -4,9 +4,12 @@
   "category": "Tops → Tee",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "XS [S, M, L, XL] [2XL, 3XL, 4XL, 5XL]",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Hedgehog Fibres Oh So Fine Soufflé"
+    "Hedgehog Fibres Oh So Fine Soufflé",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -20,17 +23,17 @@
   "shape": "cylinder",
   "download_links": [
     "https://www.ravelry.com/patterns/library/souffle-tee/people",
-    "https://www.ravelry.com/patterns/library/souffle-tee/editors",
-    "https://www.ravelry.com/patterns/library/souffle-tee/yarns",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/souffle-tee",
-    "https://www.ravelry.com/patterns/library/le-pouf-2",
-    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
     "https://www.ravelry.com/patterns/library/souffle-tee",
     "https://www.ravelry.com/patterns/library/souffle-tee/comments",
-    "https://www.ravelry.com/patterns/library/souffle-tee/report",
     "https://www.ravelry.com/patterns/library/souffle-tee/threads",
-    "https://www.ravelry.com/patterns/library/tweedy-junior"
+    "https://shop.hedgehogfibres.com/collections/patterns/products/souffle-tee",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/souffle-tee/editors",
+    "https://www.ravelry.com/patterns/library/souffle-tee/yarns",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/tweedy-junior",
+    "https://www.ravelry.com/patterns/library/souffle-tee/report",
+    "https://www.ravelry.com/patterns/library/le-pouf-2"
   ],
   "name": "Ravelry: Soufflé Tee pattern by Beata Jezek"
 }

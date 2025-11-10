@@ -7,9 +7,12 @@
   "category": "Blocks",
   "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
   "sizes_available": "3\" square",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Patons North America Classic Wool Merino"
+    "Patons North America Classic Wool Merino",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "cube-shaped",
@@ -24,18 +27,18 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/jess-knit-climb-java",
-    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/posts",
-    "https://www.ravelry.com/patterns/sources/jessica-sant-designs",
     "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/editors",
-    "https://www.ravelry.com/patterns/library/rosehip-hat",
-    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/people",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/posts",
     "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/yarns",
+    "https://www.ravelry.com/patterns/sources/jess-knit-climb-java",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/report",
     "https://www.ravelry.com/patterns/library/braided-cable-hat-2",
+    "https://www.ravelry.com/patterns/sources/jessica-sant-designs",
     "https://www.ravelry.com/patterns/library/felted-alphabet-blocks",
-    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/threads",
     "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/comments",
-    "https://www.ravelry.com/patterns/library/vw-hat",
-    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/report"
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/people",
+    "https://www.ravelry.com/patterns/library/rosehip-hat",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/threads",
+    "https://www.ravelry.com/patterns/library/vw-hat"
   ]
 }

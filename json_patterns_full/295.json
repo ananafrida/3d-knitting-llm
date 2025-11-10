@@ -4,9 +4,12 @@
   "category": "Softies → Animal Pet → Toys",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "5\" (10cm) exclusive of tail",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Lion Brand Fun Fur Solid"
+    "Lion Brand Fun Fur Solid",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -20,22 +23,22 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/report",
-    "https://cdn.accentuate.io/4679148732509/12378270040157/bk4k-0506006-ka-v1592901571076.pdf",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/yarns",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit",
-    "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/edit",
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://cdn.accentuate.io/4679146602589/12378270040157/knit-pattern-catnip-mouse-knit-bk4k-0506003-k-v1594845591330.pdf",
-    "https://www.ravelry.com/patterns/library/case-for-eye-glasses-with-cord",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/threads",
-    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/editors",
     "https://www.ravelry.com/patterns/library/catnip-mouse-knit/people",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue",
     "https://www.ravelry.com/patterns/library/catnip-mouse-knit/comments",
-    "https://www.ravelry.com/patterns/library/folklore-cardigan-4"
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/report",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/edit",
+    "https://www.ravelry.com/patterns/library/case-for-eye-glasses-with-cord",
+    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/threads",
+    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/yarns",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/editors",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit",
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://cdn.accentuate.io/4679146602589/12378270040157/knit-pattern-catnip-mouse-knit-bk4k-0506003-k-v1594845591330.pdf",
+    "https://cdn.accentuate.io/4679148732509/12378270040157/bk4k-0506006-ka-v1592901571076.pdf"
   ],
   "name": "Ravelry: Catnip Mouse (knit) pattern by Lion Brand Yarn"
 }

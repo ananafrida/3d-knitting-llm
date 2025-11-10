@@ -4,9 +4,30 @@
   "category": "Coat / Jacket",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "S – M – L – XL – XXL – XXXL",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Garnstudio DROPS Andes"
+    "Garnstudio DROPS Andes",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -37,20 +58,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/people",
-    "https://www.ravelry.com/patterns/sources/drops-254",
-    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/comments",
-    "https://www.garnstudio.com/pattern.php?id=11859&cid=19",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/sources/drops-design",
     "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/report",
+    "https://www.ravelry.com/patterns/sources/drops-254",
     "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan",
-    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/edit",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/147-2-kristin",
-    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/yarns",
     "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
-    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/editors"
+    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/editors",
+    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/comments",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
+    "https://www.ravelry.com/patterns/periodicals/drops",
+    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/people",
+    "https://www.garnstudio.com/pattern.php?id=11859&cid=19",
+    "https://www.ravelry.com/patterns/library/254-42-changing-seasons-cardigan/edit",
+    "https://www.ravelry.com/patterns/library/147-2-kristin"
   ],
   "name": "Ravelry: 254-42 Changing Seasons Cardigan pattern by DROPS design"
 }

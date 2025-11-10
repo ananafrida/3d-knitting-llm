@@ -7,6 +7,9 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -26,19 +29,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/curious-handmade-website",
-    "https://www.ravelry.com/patterns/library/forage-shawl",
-    "https://www.ravelry.com/patterns/library/oddments-cowl",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/report",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/editors",
     "https://www.ravelry.com/patterns/sources/curious-countdown-advent-knits",
     "https://www.ravelry.com/patterns/sources/curious-countdown-advent-knits/patterns",
-    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/report",
-    "https://www.ravelry.com/bundles/patterns-for-advent-sets-miniskeins-and-scraps",
-    "https://www.ravelry.com/patterns/library/noelle-scarflet",
+    "https://www.ravelry.com/patterns/library/oddments-cowl",
     "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/people",
-    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl",
-    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/yarns",
+    "https://www.ravelry.com/bundles/patterns-for-advent-sets-miniskeins-and-scraps",
     "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/threads",
-    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/editors",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/forage-shawl",
+    "https://www.ravelry.com/patterns/library/noelle-scarflet",
+    "https://www.ravelry.com/patterns/sources/curious-handmade-website",
     "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/comments"
   ]
 }

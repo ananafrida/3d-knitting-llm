@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Applique / Embellishment",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -14,21 +17,21 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knit-flower/comments",
-    "https://www.ravelry.com/patterns/library/knit-flower/report",
-    "https://www.ravelry.com/patterns/sources/head-huggers",
-    "https://web.archive.org/web/20190703205523/http://www.headhuggers.org/patterns/flower02k.htm",
-    "https://www.ravelry.com/patterns/library/knit-flower",
-    "https://www.ravelry.com/patterns/library/crochet-bunting-2",
-    "https://www.ravelry.com/patterns/library/knit-flower/edit",
-    "https://www.ravelry.com/patterns/library/the-no-hair-day-hairy-chemo-cap",
-    "https://www.ravelry.com/patterns/library/knit-flower/yarns",
-    "https://www.ravelry.com/patterns/library/knit-flower/editors",
-    "https://www.ravelry.com/patterns/library/rolled-brim-chemo-cap",
-    "https://www.ravelry.com/patterns/library/knit-flower/threads",
     "https://www.ravelry.com/patterns/library/knit-flower/people",
     "https://www.ravelry.com/patterns/library/knit-flower/posts",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine"
+    "https://www.ravelry.com/patterns/library/knit-flower/threads",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/knit-flower/report",
+    "https://www.ravelry.com/patterns/library/knit-flower/edit",
+    "https://web.archive.org/web/20190703205523/http://www.headhuggers.org/patterns/flower02k.htm",
+    "https://www.ravelry.com/patterns/sources/head-huggers",
+    "https://www.ravelry.com/patterns/library/crochet-bunting-2",
+    "https://www.ravelry.com/patterns/library/knit-flower",
+    "https://www.ravelry.com/patterns/library/rolled-brim-chemo-cap",
+    "https://www.ravelry.com/patterns/library/knit-flower/comments",
+    "https://www.ravelry.com/patterns/library/the-no-hair-day-hairy-chemo-cap",
+    "https://www.ravelry.com/patterns/library/knit-flower/editors",
+    "https://www.ravelry.com/patterns/library/knit-flower/yarns"
   ],
   "name": "Ravelry: Knit Flower pattern by Sue W. Thompson"
 }

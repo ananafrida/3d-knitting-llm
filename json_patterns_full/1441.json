@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Decorative → Hanging Ornament",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -24,17 +27,17 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/comments",
-    "https://www.ravelry.com/patterns/sources/greens-and-jeans",
-    "https://www.ravelry.com/patterns/sources/emily-lewis-google-docs",
     "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/edit",
-    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/editors",
-    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/threads",
     "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/report",
+    "https://www.ravelry.com/patterns/sources/emily-lewis-google-docs",
     "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables",
-    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/yarns",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/threads",
     "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/posts",
-    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/people"
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/people",
+    "https://www.ravelry.com/patterns/sources/greens-and-jeans",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/comments",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/yarns",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/editors"
   ],
   "name": "Ravelry: Mini Sweater Ornament with Cables pattern by Emily Lewis"
 }

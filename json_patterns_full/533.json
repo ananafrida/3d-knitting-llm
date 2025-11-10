@@ -7,6 +7,9 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "Cat - large man",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Lady Dye Yarns SW Merino DK",
     "DK (11 wpi) ?"
@@ -21,18 +24,18 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/empower-people/report",
-    "https://www.ravelry.com/patterns/sources/casapinka",
-    "https://www.ravelry.com/patterns/library/the-sharon-show",
-    "https://www.ravelry.com/patterns/library/empower-people/comments",
     "https://www.ravelry.com/patterns/library/empower-people/yarns",
-    "https://www.ravelry.com/patterns/library/empower-people/people",
-    "https://www.ravelry.com/patterns/library/empower-people/threads",
-    "https://www.ravelry.com/patterns/library/empower-people/editors",
-    "https://www.ravelry.com/patterns/library/empower-people-2",
-    "https://www.ravelry.com/patterns/library/hug-shot",
-    "https://www.ravelry.com/patterns/library/breathe-and-hope",
     "https://www.ravelry.com/patterns/library/empower-people/posts",
-    "https://www.ravelry.com/patterns/library/empower-people"
+    "https://www.ravelry.com/patterns/library/empower-people/people",
+    "https://www.ravelry.com/patterns/library/empower-people/editors",
+    "https://www.ravelry.com/patterns/library/the-sharon-show",
+    "https://www.ravelry.com/patterns/library/empower-people/report",
+    "https://www.ravelry.com/patterns/library/breathe-and-hope",
+    "https://www.ravelry.com/patterns/library/empower-people",
+    "https://www.ravelry.com/patterns/library/empower-people/threads",
+    "https://www.ravelry.com/patterns/library/empower-people/comments",
+    "https://www.ravelry.com/patterns/sources/casapinka",
+    "https://www.ravelry.com/patterns/library/empower-people-2",
+    "https://www.ravelry.com/patterns/library/hug-shot"
   ]
 }

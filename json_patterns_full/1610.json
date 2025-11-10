@@ -4,9 +4,12 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Newborn (6–12 Months, 12–18 Months, 18–24 Months)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Purl Soho Cotton Chirp DK Minis"
+    "Purl Soho Cotton Chirp DK Minis",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -21,17 +24,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/people",
-    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/threads",
-    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/report",
-    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/editors",
-    "https://www.ravelry.com/patterns/library/tin-ceiling-washcloth--hand-towel",
-    "https://www.ravelry.com/patterns/library/warmest-regards",
-    "https://www.ravelry.com/patterns/library/fingerpaint-pullover",
     "https://www.ravelry.com/patterns/library/growing-garden-cardigan/comments",
     "https://www.ravelry.com/patterns/library/growing-garden-cardigan",
+    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/report",
+    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/people",
+    "https://www.ravelry.com/patterns/library/fingerpaint-pullover",
+    "https://www.ravelry.com/patterns/library/tin-ceiling-washcloth--hand-towel",
+    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/threads",
+    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/warmest-regards",
     "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/yarns"
+    "https://www.ravelry.com/patterns/library/growing-garden-cardigan/editors"
   ],
   "name": "Ravelry: Growing Garden Cardigan pattern by Sandi Rosner"
 }

@@ -4,9 +4,12 @@
   "category": "Coat / Jacket",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "0-3 months (3-6 mo., 6-9 mo., 9-12 mo., 12-24 mo.)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Debbie Bliss Cashmerino Aran"
+    "Debbie Bliss Cashmerino Aran",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -30,23 +33,23 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/editors",
-    "https://www.ravelry.com/patterns/sources/special-knits-22-gorgeous-handknits-for-babies-and-toddlers",
-    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket",
-    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/threads",
-    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/comments",
-    "https://www.ravelry.com/patterns/sources/knitting-magazine-036-april-2007",
-    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/posts",
-    "https://www.ravelry.com/patterns/library/baby-shrug",
-    "https://www.ravelry.com/patterns/library/bear-necessities-set",
-    "http://web.archive.org/web/20090326042934/http://www.allaboutyou.com/?module=uploads&func=download&fileId=52681",
-    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/report",
-    "https://www.ravelry.com/patterns/library/spanish-dress",
-    "https://www.ravelry.com/patterns/periodicals/debbie-bliss",
-    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/people",
     "https://www.ravelry.com/patterns/sources/prima-july-2005",
     "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
     "https://www.ravelry.com/patterns/sources/all-about-you-website",
+    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/report",
+    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket",
+    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/threads",
+    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/posts",
+    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/editors",
+    "https://www.ravelry.com/patterns/library/spanish-dress",
+    "https://www.ravelry.com/patterns/sources/special-knits-22-gorgeous-handknits-for-babies-and-toddlers",
+    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/comments",
+    "https://www.ravelry.com/patterns/sources/knitting-magazine-036-april-2007",
+    "https://www.ravelry.com/patterns/library/baby-shrug",
+    "https://www.ravelry.com/patterns/library/bear-necessities-set",
+    "http://web.archive.org/web/20090326042934/http://www.allaboutyou.com/?module=uploads&func=download&fileId=52681",
+    "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/people",
+    "https://www.ravelry.com/patterns/periodicals/debbie-bliss",
     "https://www.ravelry.com/patterns/library/ribbed-baby-jacket/yarns"
   ],
   "name": "Ravelry: Ribbed Baby Jacket pattern by Debbie Bliss"

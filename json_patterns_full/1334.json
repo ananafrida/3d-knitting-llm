@@ -7,6 +7,9 @@
   "category": "Softies → Other",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "Height: Approximately 3.5”/ 9cm, or desired size.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Patons North America Classic Wool Worsted",
     "Worsted (9 wpi) ?"
@@ -23,16 +26,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-hobbit-hole",
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day/threads",
     "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day/comments",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day/report",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day/people",
-    "https://www.ravelry.com/patterns/library/scandinavian-christmas-dolls",
+    "https://www.ravelry.com/patterns/library/mini-hobbit-hole",
     "https://www.ravelry.com/patterns/library/gnome-shearing-day",
     "https://www.ravelry.com/patterns/library/gnome-shearing-day/editors",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day/threads",
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day/report",
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day/comments",
     "https://www.ravelry.com/patterns/library/mother-fall--spring-children",
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day/people",
+    "https://www.ravelry.com/patterns/library/scandinavian-christmas-dolls",
     "https://www.ravelry.com/patterns/library/gnome-shearing-day/yarns"
   ]
 }

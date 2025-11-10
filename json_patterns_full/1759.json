@@ -7,9 +7,12 @@
   "category": "Toys and Hobbies → Other",
   "needle_size": "7.5 mm",
   "sizes_available": "35 cm x 1 m unstretched",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Bernat Handicrafter Cotton Solids"
+    "Bernat Handicrafter Cotton Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "eyelets",
@@ -23,14 +26,14 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bath-toy-hammock/people",
-    "https://www.ravelry.com/patterns/library/pomegranate-bucket-hat",
-    "https://www.ravelry.com/patterns/library/bath-toy-hammock/editors",
+    "https://www.ravelry.com/patterns/library/bath-toy-hammock",
     "https://www.ravelry.com/patterns/library/bath-toy-hammock/report",
     "https://www.ravelry.com/patterns/sources/sarah-k-designs",
     "https://www.ravelry.com/patterns/library/bath-toy-hammock/comments",
-    "https://www.ravelry.com/patterns/library/bath-toy-hammock",
     "https://www.ravelry.com/patterns/library/uhura-3",
-    "https://www.ravelry.com/patterns/library/bath-toy-hammock/yarns"
+    "https://www.ravelry.com/patterns/library/bath-toy-hammock/yarns",
+    "https://www.ravelry.com/patterns/library/bath-toy-hammock/editors",
+    "https://www.ravelry.com/patterns/library/bath-toy-hammock/people",
+    "https://www.ravelry.com/patterns/library/pomegranate-bucket-hat"
   ]
 }

@@ -7,9 +7,12 @@
   "category": "Pet → Toys",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Lion Brand Fishermen's Wool"
+    "Lion Brand Fishermen's Wool",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -20,17 +23,17 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/simple-cat-toy/posts",
-    "https://www.ravelry.com/patterns/library/simple-cat-toy/people",
-    "https://www.ravelry.com/patterns/library/amazing-granny-afghan",
-    "https://www.ravelry.com/patterns/library/simple-cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/simple-cat-toy/yarns",
-    "https://www.ravelry.com/patterns/library/simple-cat-toy/comments",
-    "https://www.ravelry.com/patterns/library/simple-cat-toy/report",
-    "https://www.ravelry.com/patterns/library/seaside-cardigan-2",
     "https://www.ravelry.com/patterns/sources/executiveknitters-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/seaside-cardigan-2",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/report",
     "https://www.ravelry.com/patterns/library/clara-vest",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/posts",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/comments",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/editors",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy",
     "https://www.ravelry.com/patterns/library/simple-cat-toy/threads",
-    "https://www.ravelry.com/patterns/library/simple-cat-toy"
+    "https://www.ravelry.com/patterns/library/amazing-granny-afghan",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/people",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/yarns"
   ]
 }

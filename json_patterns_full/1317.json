@@ -7,6 +7,10 @@
   "category": "Softies → Other",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "The finished heart is approximately 6.5cm high x 6.5cm wide.",
+  "languages": [
+    "Dutch",
+    "English"
+  ],
   "suggested_yarn": [
     "Deramores Studio Anti-Pilling DK",
     "DK (11 wpi) ?"
@@ -26,18 +30,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hearts-28/yarns",
-    "https://www.ravelry.com/bundles/free-patterns-500",
-    "https://www.ravelry.com/patterns/library/hearts-28/comments",
-    "https://www.ravelry.com/patterns/library/hearts-28/editors",
-    "https://www.ravelry.com/patterns/library/hearts-28/threads",
-    "https://www.ravelry.com/patterns/library/hearts-28/report",
-    "https://www.ravelry.com/patterns/library/hearts-28/posts",
-    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
-    "https://www.ravelry.com/patterns/library/hearts-28",
-    "https://www.ravelry.com/patterns/library/hearts-28/people",
-    "https://www.ravelry.com/patterns/library/starfish-24",
     "https://www.ravelry.com/patterns/library/mini-mittens-13",
-    "https://www.ravelry.com/patterns/library/rainbow-35"
+    "https://www.ravelry.com/patterns/library/starfish-24",
+    "https://www.ravelry.com/patterns/library/hearts-28/comments",
+    "https://www.ravelry.com/patterns/library/hearts-28",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/hearts-28/posts",
+    "https://www.ravelry.com/patterns/library/hearts-28/people",
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/patterns/library/hearts-28/report",
+    "https://www.ravelry.com/patterns/library/rainbow-35",
+    "https://www.ravelry.com/patterns/library/hearts-28/threads",
+    "https://www.ravelry.com/patterns/library/hearts-28/editors",
+    "https://www.ravelry.com/patterns/library/hearts-28/yarns"
   ]
 }

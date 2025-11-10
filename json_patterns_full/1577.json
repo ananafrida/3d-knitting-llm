@@ -7,9 +7,12 @@
   "category": "Decorative → Other",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Small, Medium and Large",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® 220 Superwash®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® 220 Superwash®"
   ],
   "attributes": [
     "in-the-round",
@@ -24,16 +27,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pumpkin-party-3",
-    "https://www.ravelry.com/patterns/library/mill-mountain-hat",
-    "https://www.ravelry.com/patterns/sources/tinker-creek-handknits-on-ravelry-3",
-    "https://www.ravelry.com/patterns/library/anas-spring-cowl",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-3/report",
     "https://www.ravelry.com/patterns/library/pumpkin-party-3/threads",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-3/people",
+    "https://www.ravelry.com/patterns/library/the-white-stag",
+    "https://www.ravelry.com/patterns/library/pumpkin-party-3/report",
+    "https://www.ravelry.com/patterns/library/mill-mountain-hat",
     "https://www.ravelry.com/patterns/library/pumpkin-party-3/editors",
     "https://www.ravelry.com/patterns/library/pumpkin-party-3/comments",
-    "https://www.ravelry.com/patterns/library/the-white-stag",
+    "https://www.ravelry.com/patterns/sources/tinker-creek-handknits-on-ravelry-3",
+    "https://www.ravelry.com/patterns/library/pumpkin-party-3",
+    "https://www.ravelry.com/patterns/library/pumpkin-party-3/people",
+    "https://www.ravelry.com/patterns/library/anas-spring-cowl",
     "https://www.ravelry.com/patterns/library/pumpkin-party-3/yarns"
   ]
 }

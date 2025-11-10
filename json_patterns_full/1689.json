@@ -7,9 +7,21 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "50/56 (62/68) 74/80 (86/92) cl",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Svarta Fåret Merino",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Svarta Fåret Merino"
   ],
   "attributes": [
     "baby",
@@ -30,17 +42,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/yarns",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/editors",
-    "https://www.ravelry.com/patterns/library/callisto---baby-bonnet",
-    "https://www.ravelry.com/patterns/library/hailey---baby-socks",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/people",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/comments",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-knit-for-babies",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
     "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/report",
-    "https://www.ravelry.com/patterns/library/arkiv---vest"
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/comments",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/editors",
+    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/people",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-knit-for-babies",
+    "https://www.ravelry.com/patterns/library/callisto---baby-bonnet",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/hailey---baby-socks",
+    "https://www.ravelry.com/patterns/library/arkiv---vest",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store"
   ]
 }

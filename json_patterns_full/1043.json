@@ -7,6 +7,9 @@
   "category": "Tops → Tee",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "1 (2, 3, 4, 5) (6, 7, 8, 9)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?"
   ],
@@ -27,15 +30,15 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee/people",
-    "https://www.ravelry.com/patterns/sources/jocelyn-ngs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/spring-beam-top",
-    "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee",
-    "https://www.ravelry.com/patterns/library/kikka-cardigan",
     "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee/editors",
-    "https://www.ravelry.com/patterns/library/flemish-vest",
-    "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee/yarns",
+    "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee/comments",
     "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee/report",
-    "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee/comments"
+    "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee/people",
+    "https://www.ravelry.com/patterns/library/spring-beam-top",
+    "https://www.ravelry.com/patterns/sources/jocelyn-ngs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee",
+    "https://www.ravelry.com/patterns/library/diy-design-it-yourself-raglan-tee/yarns",
+    "https://www.ravelry.com/patterns/library/flemish-vest",
+    "https://www.ravelry.com/patterns/library/kikka-cardigan"
   ]
 }

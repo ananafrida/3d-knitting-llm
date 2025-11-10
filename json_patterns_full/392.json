@@ -4,9 +4,30 @@
   "category": "Coat / Jacket",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "S/M - L/XL - XXL/XXXL",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Garnstudio DROPS Lima",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Garnstudio DROPS Lima"
   ],
   "attributes": [
     "adult",
@@ -28,22 +49,22 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/143-1-celtica/people",
-    "https://www.ravelry.com/patterns/library/0-850-rambling-man",
-    "https://www.ravelry.com/patterns/library/143-1-celtica/yarns",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/comments",
     "https://www.ravelry.com/patterns/library/169-1-romantic-twist",
-    "https://www.ravelry.com/patterns/library/143-1-celtica/edit",
-    "https://www.ravelry.com/patterns/library/143-1-celtica/posts",
-    "https://www.ravelry.com/patterns/library/143-1-celtica/threads",
     "https://www.ravelry.com/patterns/library/143-1-celtica/editors",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/sources/drops-143",
-    "https://www.ravelry.com/patterns/library/143-1-celtica/report",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/149-1-tanja",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/posts",
     "http://www.garnstudio.com/lang/us/pattern.php?id=5692&lang=us",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/threads",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/yarns",
+    "https://www.ravelry.com/patterns/periodicals/drops",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/report",
+    "https://www.ravelry.com/patterns/library/149-1-tanja",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/edit",
+    "https://www.ravelry.com/patterns/library/0-850-rambling-man",
     "https://www.ravelry.com/patterns/library/143-1-celtica",
-    "https://www.ravelry.com/patterns/library/143-1-celtica/comments"
+    "https://www.ravelry.com/patterns/sources/drops-143",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/people"
   ],
   "name": "Ravelry: 143-1 Celtica pattern by DROPS design"
 }

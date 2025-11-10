@@ -7,6 +7,9 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Adult",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "yarn held together"
@@ -22,15 +25,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/losy-hat/edit",
-    "https://www.ravelry.com/patterns/library/losy-hat/yarns",
     "https://www.ravelry.com/patterns/library/losy-hat",
+    "https://www.ravelry.com/patterns/library/losy-hat/people",
+    "https://www.ravelry.com/patterns/sources/fabric-works",
+    "https://www.ravelry.com/patterns/library/losy-hat/comments",
+    "https://www.ravelry.com/patterns/library/losy-hat/report",
     "https://www.ravelry.com/patterns/library/losy-hat/posts",
     "https://www.ravelry.com/patterns/library/losy-hat/threads",
-    "https://www.ravelry.com/patterns/library/losy-hat/people",
-    "https://www.ravelry.com/patterns/library/losy-hat/report",
     "https://www.ravelry.com/patterns/library/losy-hat/editors",
-    "https://www.ravelry.com/patterns/sources/fabric-works",
-    "https://www.ravelry.com/patterns/library/losy-hat/comments"
+    "https://www.ravelry.com/patterns/library/losy-hat/edit",
+    "https://www.ravelry.com/patterns/library/losy-hat/yarns"
   ]
 }

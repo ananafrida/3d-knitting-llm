@@ -7,6 +7,10 @@
   "category": "Softies → Animal Pet → Toys",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -20,18 +24,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.classicsongbird.ca/blog/free-knitting-pattern-little-knit-fish",
-    "https://www.ravelry.com/patterns/sources/classical-songbird-designs-blog",
-    "https://www.ravelry.com/patterns/sources/classical-songbird-designs",
-    "https://www.ravelry.com/patterns/library/little-knit-fish-2/posts",
     "https://www.ravelry.com/patterns/library/little-knit-fish-2/people",
-    "https://www.ravelry.com/patterns/library/antique-books",
-    "https://www.ravelry.com/patterns/library/wintery-woods",
+    "https://www.ravelry.com/patterns/library/little-knit-fish-2",
+    "https://www.ravelry.com/patterns/library/little-knit-fish-2/posts",
+    "https://www.ravelry.com/patterns/sources/classical-songbird-designs",
     "https://www.ravelry.com/patterns/library/plaited-clouds",
     "https://www.ravelry.com/patterns/library/little-knit-fish-2/editors",
+    "https://www.ravelry.com/patterns/library/antique-books",
     "https://www.ravelry.com/patterns/library/little-knit-fish-2/report",
     "https://www.ravelry.com/patterns/library/little-knit-fish-2/comments",
+    "https://www.ravelry.com/patterns/library/wintery-woods",
+    "https://www.classicsongbird.ca/blog/free-knitting-pattern-little-knit-fish",
     "https://www.ravelry.com/patterns/library/little-knit-fish-2/yarns",
-    "https://www.ravelry.com/patterns/library/little-knit-fish-2"
+    "https://www.ravelry.com/patterns/sources/classical-songbird-designs-blog"
   ]
 }

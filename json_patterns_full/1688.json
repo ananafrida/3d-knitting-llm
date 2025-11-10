@@ -7,9 +7,12 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "sizes_available": "Sizes: 1 (2, 3, 4)[5, 6]",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Premier Yarns Everyday Worsted Solids, Marls & Heathers",
-    "Aran (8 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Premier Yarns Everyday Worsted Solids, Marls & Heathers"
   ],
   "attributes": [
     "adult",
@@ -32,16 +35,16 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/craggy-shore",
-    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/yarns",
-    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/editors",
-    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/people",
-    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/report",
-    "https://www.ravelry.com/patterns/library/huckleberry-2",
+    "https://www.ravelry.com/patterns/sources/the-blue-mouse",
+    "https://www.ravelry.com/patterns/library/vanilla-socks-7",
     "https://www.ravelry.com/patterns/library/beginner-cardigan-2",
     "https://www.ravelry.com/patterns/library/beginner-cardigan-2/comments",
+    "https://www.ravelry.com/patterns/library/craggy-shore",
+    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/editors",
+    "https://www.ravelry.com/patterns/library/huckleberry-2",
+    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/report",
     "https://www.ravelry.com/patterns/library/beginner-cardigan-2/threads",
-    "https://www.ravelry.com/patterns/library/vanilla-socks-7",
-    "https://www.ravelry.com/patterns/sources/the-blue-mouse"
+    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/people",
+    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/yarns"
   ]
 }

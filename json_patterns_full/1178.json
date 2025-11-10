@@ -7,9 +7,12 @@
   "category": "Softies → Doll",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "12 cm tall",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Sirdar Snuggly DK"
+    "Sirdar Snuggly DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "amigurumi",
@@ -22,15 +25,15 @@
   "shape": "softie",
   "download_links": [
     "https://www.ravelry.com/patterns/library/halloweenies-2/comments",
+    "https://www.ravelry.com/patterns/library/halloweenies-2/editors",
+    "https://www.ravelry.com/patterns/library/halloweenies-2",
+    "https://www.ravelry.com/patterns/library/santa-claus-46",
+    "https://www.ravelry.com/patterns/library/halloweenies-2/yarns",
     "https://www.ravelry.com/patterns/library/halloweenies-2/threads",
-    "https://www.ravelry.com/patterns/library/betsy-the-winged-unicorn",
     "https://www.ravelry.com/patterns/library/desmond-the-donkey",
     "https://www.ravelry.com/patterns/library/halloweenies-2/report",
-    "https://www.ravelry.com/patterns/sources/cillas-purls-ravelry-store",
-    "https://www.ravelry.com/patterns/library/halloweenies-2/editors",
-    "https://www.ravelry.com/patterns/library/halloweenies-2/yarns",
-    "https://www.ravelry.com/patterns/library/santa-claus-46",
-    "https://www.ravelry.com/patterns/library/halloweenies-2",
-    "https://www.ravelry.com/patterns/library/halloweenies-2/people"
+    "https://www.ravelry.com/patterns/library/betsy-the-winged-unicorn",
+    "https://www.ravelry.com/patterns/library/halloweenies-2/people",
+    "https://www.ravelry.com/patterns/sources/cillas-purls-ravelry-store"
   ]
 }

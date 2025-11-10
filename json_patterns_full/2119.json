@@ -4,6 +4,9 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "Average Adult",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Herrschners Worsted",
     "Worsted (9 wpi) ?"
@@ -17,20 +20,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/twilight-trails-2",
-    "https://www.ravelry.com/patterns/library/twilight-trails-2/report",
-    "https://www.ravelry.com/patterns/library/moonlit-path-2",
-    "https://www.ravelry.com/patterns/sources/marly-bird-etsy-store",
-    "https://www.ravelry.com/patterns/library/twilight-trails-2/comments",
-    "https://www.ravelry.com/patterns/library/twilight-trails-2/threads",
-    "https://www.ravelry.com/patterns/library/twilight-trails-2/people",
-    "https://www.ravelry.com/patterns/sources/marly-birds-website",
     "https://www.ravelry.com/patterns/library/twilight-trails-2/yarns",
     "https://www.ravelry.com/patterns/library/twilight-trails-2/editors",
+    "https://marlybird.com/blog/twilight-trails-knit-mosaic-hat-pattern-a-stylish-textured-design/",
+    "https://www.ravelry.com/patterns/library/twilight-trails-2/people",
+    "https://www.ravelry.com/patterns/library/twilight-trails-2",
+    "https://www.ravelry.com/patterns/sources/marly-bird-etsy-store",
     "https://www.ravelry.com/patterns/library/the-archer-2",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat",
+    "https://www.ravelry.com/patterns/library/twilight-trails-2/report",
+    "https://www.ravelry.com/patterns/library/twilight-trails-2/comments",
     "https://www.ravelry.com/patterns/sources/marly-bird-house",
-    "https://marlybird.com/blog/twilight-trails-knit-mosaic-hat-pattern-a-stylish-textured-design/"
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat",
+    "https://www.ravelry.com/patterns/sources/marly-birds-website",
+    "https://www.ravelry.com/patterns/library/moonlit-path-2",
+    "https://www.ravelry.com/patterns/library/twilight-trails-2/threads"
   ],
   "name": "Ravelry: Twilight Trails pattern by Marly Bird"
 }

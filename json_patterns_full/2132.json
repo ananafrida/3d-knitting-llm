@@ -4,6 +4,27 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "S/M - M/L - L/XL",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "yarn held together",
     "Garnstudio DROPS Brushed Alpaca Silk"
@@ -23,21 +44,21 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
+    "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat/report",
     "https://www.ravelry.com/patterns/sources/drops-261",
-    "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat/comments",
-    "https://www.garnstudio.com/pattern.php?id=12404&cid=19",
     "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat/yarns",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat/edit",
+    "https://www.garnstudio.com/pattern.php?id=12404&cid=19",
+    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
+    "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat/comments",
+    "https://www.ravelry.com/patterns/library/261-47-olso-chill-wrist-warmers",
     "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat/people",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
     "https://www.ravelry.com/patterns/sources/drops-design",
     "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/261-47-olso-chill-wrist-warmers",
+    "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat",
     "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat/editors",
-    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
-    "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat/report"
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
+    "https://www.ravelry.com/patterns/library/261-47-oslo-chill-hat/edit"
   ],
   "name": "Ravelry: 261-47 Oslo Chill Hat pattern by DROPS design"
 }

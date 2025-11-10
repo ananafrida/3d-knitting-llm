@@ -7,6 +7,9 @@
   "category": "Hat → Pixie",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "Adult sizes M & L",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Super Bulky (5-6 wpi) ?"
@@ -23,17 +26,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jester-hat/posts",
-    "https://www.ravelry.com/patterns/library/scrappy-toque",
-    "https://www.ravelry.com/patterns/library/jester-hat/editors",
-    "https://www.ravelry.com/patterns/library/jester-hat/comments",
-    "https://www.ravelry.com/patterns/library/scrappy-tube-scarf",
-    "https://www.ravelry.com/patterns/library/easy-pussy-hat",
     "https://www.ravelry.com/patterns/library/jester-hat/people",
-    "https://www.ravelry.com/patterns/library/jester-hat",
-    "https://www.ravelry.com/patterns/library/jester-hat/threads",
+    "https://www.ravelry.com/patterns/library/easy-pussy-hat",
+    "https://www.ravelry.com/patterns/library/scrappy-tube-scarf",
     "https://www.ravelry.com/patterns/library/jester-hat/yarns",
+    "https://www.ravelry.com/patterns/library/jester-hat/comments",
+    "https://www.ravelry.com/patterns/library/jester-hat/threads",
+    "https://www.ravelry.com/patterns/library/scrappy-toque",
+    "https://www.ravelry.com/patterns/library/jester-hat",
     "https://www.ravelry.com/patterns/library/jester-hat/report",
+    "https://www.ravelry.com/patterns/library/jester-hat/posts",
+    "https://www.ravelry.com/patterns/library/jester-hat/editors",
     "https://www.ravelry.com/patterns/sources/sweater-studio-2"
   ]
 }

@@ -7,6 +7,10 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "sizes_available": "XS-S-M-L-XL",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "La Droguerie Kid Mohair",
     "Bulky (7 wpi) ?"
@@ -25,16 +29,16 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/coco-vest-2/report",
-    "https://www.ravelry.com/patterns/library/john-lemon",
-    "https://www.ravelry.com/patterns/library/coco-vest-2/yarns",
-    "https://www.ravelry.com/patterns/library/coco-slipover",
-    "https://www.ravelry.com/patterns/sources/marie-briavals-ravelry-store",
-    "https://www.ravelry.com/patterns/library/coco-vest-2",
-    "https://www.ravelry.com/patterns/library/coco-vest-2/editors",
     "https://www.ravelry.com/patterns/sources/cocomarieknit",
-    "https://www.ravelry.com/patterns/library/coco-vest-2/comments",
+    "https://www.ravelry.com/patterns/library/coco-vest-2/yarns",
+    "https://www.ravelry.com/patterns/sources/marie-briavals-ravelry-store",
+    "https://www.ravelry.com/patterns/library/coco-vest-2/report",
+    "https://www.ravelry.com/patterns/library/coco-slipover",
     "https://www.ravelry.com/patterns/library/blouse-ines",
-    "https://www.ravelry.com/patterns/library/coco-vest-2/people"
+    "https://www.ravelry.com/patterns/library/john-lemon",
+    "https://www.ravelry.com/patterns/library/coco-vest-2/people",
+    "https://www.ravelry.com/patterns/library/coco-vest-2",
+    "https://www.ravelry.com/patterns/library/coco-vest-2/comments",
+    "https://www.ravelry.com/patterns/library/coco-vest-2/editors"
   ]
 }

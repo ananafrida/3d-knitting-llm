@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Decorative → Hanging Ornament",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "West Wool Tandem",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "West Wool Tandem"
   ],
   "attributes": [
     "in-the-round",
@@ -18,19 +21,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/people",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/yarns",
+    "https://www.ravelry.com/patterns/sources/malia-mae",
+    "https://www.ravelry.com/patterns/sources/stephen--penelope",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/threads",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/report",
     "https://www.ravelry.com/patterns/library/tiny-kerchiefs",
     "https://www.ravelry.com/patterns/library/i-can-knit-myself-flowers",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/people",
-    "https://www.ravelry.com/patterns/library/keating-blanket",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters",
-    "https://www.ravelry.com/patterns/sources/stephen--penelope",
-    "https://www.ravelry.com/bundles/free-patterns-869",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/comments",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/threads",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/editors",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/yarns",
     "https://www.ravelry.com/patterns/library/tiny-sweaters/posts",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/report",
-    "https://www.ravelry.com/patterns/sources/malia-mae"
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/comments",
+    "https://www.ravelry.com/bundles/free-patterns-869",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/editors",
+    "https://www.ravelry.com/patterns/library/keating-blanket"
   ]
 }

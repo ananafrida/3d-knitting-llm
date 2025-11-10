@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Blocks",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Lion Brand Homespun Baby"
+    "Lion Brand Homespun Baby",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "worked-flat",
@@ -18,17 +21,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/people",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/yarns",
     "https://www.ravelry.com/patterns/library/gradient-blanket",
-    "https://www.ravelry.com/patterns/library/interlocking-key-chains",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/posts",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/editors",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/threads",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/report",
-    "https://www.ravelry.com/patterns/sources/sara-marks-ravelry-store",
     "https://www.ravelry.com/patterns/library/zs-baby-blocks/comments",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/report",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks",
+    "https://www.ravelry.com/patterns/sources/sara-marks-ravelry-store",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/threads",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/yarns",
+    "https://www.ravelry.com/patterns/library/interlocking-key-chains",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/posts",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/people",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/editors",
     "https://www.ravelry.com/patterns/library/wavy-gravy-scarf"
   ]
 }

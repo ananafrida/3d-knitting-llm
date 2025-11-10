@@ -7,6 +7,9 @@
   "category": "Blanket → Baby Blanket",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "22\" square (easily adapted to use up your yarn)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Miss Babs Yowza Mini",
     "DK (11 wpi) ?"
@@ -20,16 +23,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/helen-cosgrove-davies-ravelry-store",
-    "https://www.ravelry.com/patterns/library/magic-number-blanket/editors",
-    "https://www.ravelry.com/patterns/library/magic-number-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/magic-number-blanket/threads",
-    "https://www.ravelry.com/patterns/library/universal-truth",
-    "https://www.ravelry.com/patterns/library/magic-number-blanket/report",
-    "https://www.ravelry.com/patterns/library/magic-number-blanket/comments",
-    "https://www.ravelry.com/patterns/library/magic-number-blanket/people",
     "https://www.ravelry.com/patterns/library/elevate-the-ordinary",
     "https://www.ravelry.com/patterns/library/daisy-bell",
-    "https://www.ravelry.com/patterns/library/magic-number-blanket"
+    "https://www.ravelry.com/patterns/library/magic-number-blanket/threads",
+    "https://www.ravelry.com/patterns/library/magic-number-blanket/editors",
+    "https://www.ravelry.com/patterns/library/magic-number-blanket/people",
+    "https://www.ravelry.com/patterns/sources/helen-cosgrove-davies-ravelry-store",
+    "https://www.ravelry.com/patterns/library/universal-truth",
+    "https://www.ravelry.com/patterns/library/magic-number-blanket",
+    "https://www.ravelry.com/patterns/library/magic-number-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/magic-number-blanket/comments",
+    "https://www.ravelry.com/patterns/library/magic-number-blanket/report"
   ]
 }

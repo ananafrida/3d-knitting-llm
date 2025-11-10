@@ -4,9 +4,12 @@
   "category": "Costume",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "6-12 mo, 2y, 4y, 6y, 8y",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Tahki Yarns Cotton Classic"
+    "Tahki Yarns Cotton Classic",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -22,19 +25,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/comments",
-    "https://www.ravelry.com/patterns/library/renaissance-man-tunic",
-    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/editors",
-    "https://www.ravelry.com/patterns/library/mrs-weasleys-bag-of-stitch-witchery",
-    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/posts",
     "http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470262680,descCd-DOWNLOAD.html",
-    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/people",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/posts",
     "https://www.ravelry.com/patterns/sources/fairy-tale-knits-32-projects-to-knit-happily-ever-after",
-    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/report",
-    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/threads",
     "https://www.ravelry.com/patterns/library/jester-sweater-and-hat",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/threads",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/editors",
+    "https://www.ravelry.com/patterns/library/renaissance-man-tunic",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/people",
+    "https://www.ravelry.com/patterns/library/princess-crown",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/report",
+    "https://www.ravelry.com/patterns/library/mrs-weasleys-bag-of-stitch-witchery",
     "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/yarns",
-    "https://www.ravelry.com/patterns/library/princess-crown"
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/comments"
   ],
   "name": "Ravelry: Jester Sweater and Hat pattern by Alison Stewart-Guinee"
 }

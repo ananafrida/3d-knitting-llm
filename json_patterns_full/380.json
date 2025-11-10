@@ -7,6 +7,9 @@
   "category": "Coat / Jacket Hat → Beanie, Toque",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "Child's (4,5),(5,6)& (7,8),Adults S,M,L,XL",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Worsted (9 wpi) ?",
     "Knit Picks Wool of the Andes Worsted"
@@ -40,17 +43,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/web-spinner",
+    "https://www.ravelry.com/patterns/library/daddy--me-poor-boy-caps",
     "https://www.ravelry.com/patterns/library/web-spinner/posts",
     "https://www.ravelry.com/patterns/library/gods-eye-blanket",
-    "https://www.ravelry.com/patterns/library/web-spinner",
+    "https://www.ravelry.com/patterns/library/web-spinner/yarns",
     "https://www.ravelry.com/patterns/library/web-spinner/people",
     "https://www.ravelry.com/patterns/library/web-spinner/comments",
     "https://www.ravelry.com/patterns/library/web-spinner/report",
-    "https://www.ravelry.com/patterns/library/web-spinner/threads",
-    "https://www.ravelry.com/patterns/sources/designs-by-fully-woolly",
     "https://www.ravelry.com/patterns/library/just-like-daddy",
-    "https://www.ravelry.com/patterns/library/daddy--me-poor-boy-caps",
-    "https://www.ravelry.com/patterns/library/web-spinner/yarns",
+    "https://www.ravelry.com/patterns/sources/designs-by-fully-woolly",
+    "https://www.ravelry.com/patterns/library/web-spinner/threads",
     "https://www.ravelry.com/patterns/library/web-spinner/editors"
   ]
 }

@@ -3,9 +3,13 @@
   "craft": "Knitting",
   "category": "Blocks",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "Dutch",
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Scheepjes Colour Crafter"
+    "Scheepjes Colour Crafter",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "chart",
@@ -18,17 +22,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/dummy-comforter",
-    "https://www.ravelry.com/patterns/sources/pretty-little-things-issue-02---toys---klein-maar-fijn-editie-02---speelgoed/patterns",
+    "https://www.ravelry.com/patterns/library/build-your-name-blocks/report",
     "https://www.ravelry.com/patterns/library/build-your-name-blocks/yarns",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/edit",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/comments",
-    "https://www.ravelry.com/patterns/sources/pretty-little-things-issue-02---toys---klein-maar-fijn-editie-02---speelgoed",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/editors",
+    "https://www.ravelry.com/patterns/sources/pretty-little-things-issue-02---toys---klein-maar-fijn-editie-02---speelgoed/patterns",
+    "https://www.ravelry.com/patterns/library/dummy-comforter",
     "https://www.ravelry.com/patterns/library/build-your-name-blocks",
-    "https://www.ravelry.com/patterns/periodicals/pretty-little-things---klein-maar-fijn",
+    "https://www.ravelry.com/patterns/library/build-your-name-blocks/comments",
     "https://www.ravelry.com/patterns/library/build-your-name-blocks/people",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/report"
+    "https://www.ravelry.com/patterns/sources/pretty-little-things-issue-02---toys---klein-maar-fijn-editie-02---speelgoed",
+    "https://www.ravelry.com/patterns/library/build-your-name-blocks/edit",
+    "https://www.ravelry.com/patterns/library/build-your-name-blocks/editors",
+    "https://www.ravelry.com/patterns/periodicals/pretty-little-things---klein-maar-fijn"
   ],
   "name": "Ravelry: Build Your Name Blocks pattern by Michelle Oonincx"
 }

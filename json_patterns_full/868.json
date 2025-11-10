@@ -7,6 +7,10 @@
   "category": "Neck / Torso → Scarf Neck / Torso → Shawl / Wrap",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "One Size (Adjustable)",
+  "languages": [
+    "English",
+    "Additional languages which are not in the download: Danish"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Stitch Noir Gradient 30 Sock Set"
@@ -32,16 +36,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl/editors",
-    "https://www.ravelry.com/patterns/library/urban-aran-mitts",
-    "https://www.ravelry.com/patterns/library/fleur-de-lis-16",
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl/threads",
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl/yarns",
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl",
     "https://www.ravelry.com/patterns/library/fading-guernsey-cowl",
     "https://www.ravelry.com/patterns/library/texture--twist-shawl/report",
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl/people",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl",
+    "https://www.ravelry.com/patterns/library/fleur-de-lis-16",
+    "https://www.ravelry.com/patterns/library/urban-aran-mitts",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/comments",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/yarns",
     "https://www.ravelry.com/patterns/sources/robbie-laughlins-ravelry-store",
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl/comments"
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/threads",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/editors",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/people"
   ]
 }

@@ -7,6 +7,9 @@
   "category": "Softies → Animal",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "Approx. 18cm/ 7in tall from top of head to sole of paws",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Cardiff Cashmere Classic"
@@ -24,20 +27,20 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/eeyore-20",
-    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/editors",
-    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/report",
-    "https://www.ravelry.com/patterns/library/kanga-kangaroo",
-    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/threads",
-    "https://www.ravelry.com/patterns/library/wol-the-owl",
-    "https://www.ravelry.com/patterns/library/roo-from-winnie-the-pooh",
-    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/yarns",
-    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tigger-18",
     "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/comments",
-    "https://www.ravelry.com/patterns/library/piglet-doll-2",
-    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/editors",
+    "https://www.ravelry.com/patterns/library/roo-from-winnie-the-pooh",
     "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/people",
+    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/threads",
+    "https://www.ravelry.com/patterns/library/piglet-doll-2",
+    "https://www.ravelry.com/patterns/library/tigger-18",
+    "https://www.ravelry.com/patterns/library/eeyore-20",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/yarns",
+    "https://www.ravelry.com/patterns/library/kanga-kangaroo",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/report",
+    "https://www.ravelry.com/patterns/library/wol-the-owl",
     "https://www.ravelry.com/patterns/library/pooh-bear-4"
   ]
 }

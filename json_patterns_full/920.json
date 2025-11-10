@@ -4,6 +4,9 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "Small (Large)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Purl Soho Echo Cashmere",
     "Fingering (14 wpi) ?"
@@ -19,16 +22,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/simplicity-scarf-8/report",
-    "https://www.ravelry.com/patterns/library/simplicity-scarf-8/yarns",
     "https://www.ravelry.com/patterns/library/simplicity-scarf-8/people",
-    "https://www.ravelry.com/patterns/library/simplicity-scarf-8/editors",
-    "https://www.ravelry.com/patterns/library/simplicity-scarf-8/comments",
     "https://www.ravelry.com/patterns/library/simplicity-scarf-8",
-    "https://www.ravelry.com/patterns/library/warm--fuzzy-kerchief",
+    "https://www.ravelry.com/patterns/library/simplicity-scarf-8/comments",
     "https://www.ravelry.com/patterns/library/magnolia-ascot",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/meadow-breeze-scarf--shawl"
+    "https://www.ravelry.com/patterns/library/simplicity-scarf-8/report",
+    "https://www.ravelry.com/patterns/library/simplicity-scarf-8/editors",
+    "https://www.ravelry.com/patterns/library/warm--fuzzy-kerchief",
+    "https://www.ravelry.com/patterns/library/simplicity-scarf-8/yarns",
+    "https://www.ravelry.com/patterns/library/meadow-breeze-scarf--shawl",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
   ],
   "name": "Ravelry: Simplicity Scarf pattern by Purl Soho"
 }

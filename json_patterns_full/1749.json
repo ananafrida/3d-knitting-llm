@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Sport (12 wpi) ?"
@@ -24,12 +27,12 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes",
-    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/people",
-    "https://www.ravelry.com/patterns/sources/jennifer-tricaricos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/comments",
     "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/report",
     "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/threads",
+    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/people",
+    "https://www.ravelry.com/patterns/sources/jennifer-tricaricos-ravelry-store",
     "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/editors",
+    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/comments",
     "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/yarns"
   ]
 }

@@ -5,6 +5,9 @@
   "designer": "Salem Does Yarn",
   "craft": "Knitting",
   "category": "Softies → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Any gauge - designed for any gauge ?"
   ],
@@ -16,14 +19,14 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/salem-does-yarns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/threads",
-    "https://www.ravelry.com/patterns/library/no-sew-octopus-6",
-    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/people",
     "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/editors",
-    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5",
-    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/yarns",
+    "https://www.ravelry.com/patterns/library/no-sew-octopus-6",
     "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/comments",
-    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/report"
+    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/people",
+    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5",
+    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/threads",
+    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/report",
+    "https://www.ravelry.com/patterns/sources/salem-does-yarns-ravelry-store",
+    "https://www.ravelry.com/patterns/library/emotional-support-pickle-5/yarns"
   ]
 }

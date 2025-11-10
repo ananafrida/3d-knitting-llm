@@ -7,6 +7,10 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "128 cm – 50 ½\" circumference (adjustable) 23 cm – 9\" width",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "Knitting for Olive Merino",
     "Light Fingering ?"
@@ -25,16 +29,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/ithaca-3/report",
-    "https://www.ravelry.com/patterns/library/ceramic",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
     "https://www.ravelry.com/patterns/library/ithaca-3/editors",
+    "https://www.ravelry.com/patterns/library/ithaca-3/comments",
+    "https://www.ravelry.com/patterns/library/ithaca-3/yarns",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
     "https://www.ravelry.com/patterns/library/ithaca-3/posts",
     "https://www.ravelry.com/patterns/library/ithaca-3/threads",
-    "https://www.ravelry.com/patterns/library/ithaca-3",
-    "https://www.ravelry.com/patterns/library/sypha",
     "https://www.ravelry.com/patterns/library/ithaca-3/people",
-    "https://www.ravelry.com/patterns/library/ithaca-3/comments",
     "https://www.ravelry.com/patterns/library/dedale",
-    "https://www.ravelry.com/patterns/library/ithaca-3/yarns"
+    "https://www.ravelry.com/patterns/library/ceramic",
+    "https://www.ravelry.com/patterns/library/ithaca-3",
+    "https://www.ravelry.com/patterns/library/sypha"
   ]
 }

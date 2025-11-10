@@ -7,6 +7,9 @@
   "category": "Afghan block",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "NA",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Aunt Lydia's Classic 10 Crochet Thread",
     "Thread ?"
@@ -20,15 +23,15 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii",
     "https://www.ravelry.com/patterns/library/weldons-branch-block",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/comments",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
-    "https://www.ravelry.com/patterns/library/flat-leaf-on-garter-stitch",
     "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/people",
     "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/editors",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/yarns",
     "https://www.ravelry.com/patterns/library/priscillas-vine-afghan-strip",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/report"
+    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/yarns",
+    "https://www.ravelry.com/patterns/library/flat-leaf-on-garter-stitch",
+    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/report",
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
+    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii",
+    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/comments"
   ]
 }

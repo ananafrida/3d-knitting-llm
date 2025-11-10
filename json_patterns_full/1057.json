@@ -7,9 +7,12 @@
   "category": "Tops → Tee",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "XS, S, M, L, XL, 2XL, 3XL, 4XL",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lion Brand Comfy Cotton Blend"
+    "Lion Brand Comfy Cotton Blend",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -35,17 +38,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/two-of-wands",
-    "https://www.ravelry.com/patterns/library/summer-league-cutoff/people",
-    "https://www.ravelry.com/patterns/library/deco-tank-2",
-    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
-    "https://www.ravelry.com/patterns/library/opal-tank",
     "https://www.ravelry.com/patterns/library/summer-league-cutoff/editors",
-    "https://www.ravelry.com/patterns/library/summer-league-cutoff/report",
-    "https://www.ravelry.com/patterns/library/summer-league-cutoff/threads",
     "https://www.ravelry.com/patterns/library/summer-league-cutoff/yarns",
     "https://www.ravelry.com/patterns/library/summer-league-cutoff",
+    "https://www.ravelry.com/patterns/library/le-bateau-sweater",
+    "https://www.ravelry.com/patterns/library/summer-league-cutoff/people",
+    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
+    "https://www.ravelry.com/patterns/library/deco-tank-2",
+    "https://www.ravelry.com/patterns/library/summer-league-cutoff/report",
+    "https://www.ravelry.com/patterns/library/summer-league-cutoff/threads",
     "https://www.ravelry.com/patterns/library/summer-league-cutoff/comments",
-    "https://www.ravelry.com/patterns/library/le-bateau-sweater"
+    "https://www.ravelry.com/patterns/sources/two-of-wands",
+    "https://www.ravelry.com/patterns/library/opal-tank"
   ]
 }

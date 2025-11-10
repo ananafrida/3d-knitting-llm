@@ -7,9 +7,21 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "98/104 (110/116) 122/128 (134/140) 146/152 cl XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Svarta Fåret Merino",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Svarta Fåret Merino"
   ],
   "attributes": [
     "adult",
@@ -31,16 +43,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/vallingby---sweater",
     "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/konfekt---cardigan/editors",
-    "https://www.ravelry.com/patterns/library/konfekt---cardigan",
-    "https://www.ravelry.com/patterns/library/rapallo---tights",
-    "https://www.ravelry.com/patterns/library/konfekt---cardigan/report",
-    "https://www.ravelry.com/patterns/library/konfekt---cardigan/people",
     "https://www.ravelry.com/patterns/library/konfekt---cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan/report",
     "https://www.ravelry.com/patterns/library/timmer---socks",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
-    "https://www.ravelry.com/patterns/library/konfekt---cardigan/comments"
+    "https://www.ravelry.com/patterns/library/rapallo---tights",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan/comments",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan/editors",
+    "https://www.ravelry.com/patterns/library/vallingby---sweater",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan/people",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store"
   ]
 }

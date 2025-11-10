@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Containers",
   "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Paintbox Yarns Recycled T-shirt"
+    "Paintbox Yarns Recycled T-shirt",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -19,12 +22,12 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket",
     "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/editors",
+    "https://www.ravelry.com/patterns/sources/alice-quartermans-ravelry-store",
     "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/report",
     "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/yarns",
-    "https://www.ravelry.com/patterns/sources/alice-quartermans-ravelry-store",
-    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/comments",
-    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/people"
+    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket",
+    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/people",
+    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/comments"
   ]
 }

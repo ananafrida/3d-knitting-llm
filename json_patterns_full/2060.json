@@ -2,6 +2,9 @@
   "pattern_page": "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking",
   "craft": "Knitting",
   "category": "Components → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Any gauge - designed for any gauge ?"
@@ -21,19 +24,19 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/trove",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/edit",
+    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/editors",
+    "https://www.ravelry.com/patterns/library/cable-knitting",
     "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/people",
     "https://www.ravelry.com/patterns/sources/australian-town-and-country-journal-saturday-9-december-1899",
-    "https://www.ravelry.com/patterns/periodicals/australian-town-and-country-journal",
-    "https://www.ravelry.com/patterns/library/cable-knitting",
-    "https://www.ravelry.com/patterns/library/wave-rose-and-strawberry-lace",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/editors",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking",
     "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/yarns",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/report",
+    "https://www.ravelry.com/patterns/sources/trove",
+    "https://www.ravelry.com/patterns/library/crochet-shawl-9",
     "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/comments",
-    "https://www.ravelry.com/patterns/library/crochet-shawl-9"
+    "https://www.ravelry.com/patterns/periodicals/australian-town-and-country-journal",
+    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/report",
+    "https://www.ravelry.com/patterns/library/wave-rose-and-strawberry-lace",
+    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/edit",
+    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking"
   ],
   "name": "Ravelry: Fancy Top for a Lady's Stocking pattern by Australian Town and Country Journal"
 }

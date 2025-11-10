@@ -2,6 +2,9 @@
   "pattern_page": "https://www.ravelry.com/patterns/library/gnome-baby-with-vest",
   "craft": "Knitting",
   "category": "Softies → Doll",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -15,20 +18,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/tonya-gunns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/people",
-    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/posts",
-    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/editors",
-    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/comments",
-    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest",
-    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/report",
-    "https://www.ravelry.com/patterns/library/simple-bunny",
-    "https://www.ravelry.com/patterns/library/the-belfast-basic-baby-cardigan",
-    "https://www.ravelry.com/patterns/library/mountain-bear-family",
-    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/edit",
-    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/threads",
     "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/yarns"
+    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/posts",
+    "https://www.ravelry.com/patterns/library/the-belfast-basic-baby-cardigan",
+    "https://www.ravelry.com/patterns/sources/tonya-gunns-ravelry-store",
+    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/edit",
+    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/people",
+    "https://www.ravelry.com/patterns/library/mountain-bear-family",
+    "https://www.ravelry.com/patterns/library/simple-bunny",
+    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/yarns",
+    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/comments",
+    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/threads",
+    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/editors",
+    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest",
+    "https://www.ravelry.com/patterns/library/gnome-baby-with-vest/report"
   ],
   "name": "Ravelry: Gnome Baby with Vest pattern by TonyaGunn"
 }

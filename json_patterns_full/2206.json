@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Costume",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Worsted (9 wpi) ?",
     "Red Heart Super Saver (solids)"
@@ -21,17 +24,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/editors",
-    "https://www.ravelry.com/patterns/library/baubles",
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/posts",
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/threads",
-    "https://www.ravelry.com/patterns/library/knit-yo-yo-tutorial",
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch",
     "https://www.ravelry.com/patterns/library/scurvy-eye-patch/yarns",
+    "https://www.ravelry.com/patterns/library/baubles",
     "https://www.ravelry.com/patterns/sources/herbivore-knits",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/report",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch",
     "https://www.ravelry.com/patterns/library/scurvy-eye-patch/people",
     "https://www.ravelry.com/patterns/library/old-school-hanging-towel",
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/report",
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/comments"
+    "https://www.ravelry.com/patterns/library/knit-yo-yo-tutorial",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/editors",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/comments",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/threads",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/posts"
   ]
 }

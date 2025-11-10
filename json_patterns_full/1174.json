@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Stylecraft Special Double Knit",
     "DK (11 wpi) ?"
@@ -22,15 +25,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/watchlings/report",
+    "https://www.ravelry.com/patterns/library/waveform-hat",
     "https://www.ravelry.com/patterns/library/watchlings/comments",
-    "https://www.ravelry.com/patterns/library/skipping-along-hat",
-    "https://www.ravelry.com/patterns/library/watchlings/yarns",
     "https://www.ravelry.com/patterns/library/watchlings/threads",
-    "https://www.ravelry.com/patterns/library/watchlings/people",
-    "https://www.ravelry.com/patterns/sources/hazel-wadesons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/watchlings",
     "https://www.ravelry.com/patterns/library/watchlings/editors",
-    "https://www.ravelry.com/patterns/library/waveform-hat"
+    "https://www.ravelry.com/patterns/library/watchlings/yarns",
+    "https://www.ravelry.com/patterns/library/watchlings",
+    "https://www.ravelry.com/patterns/library/skipping-along-hat",
+    "https://www.ravelry.com/patterns/sources/hazel-wadesons-ravelry-store",
+    "https://www.ravelry.com/patterns/library/watchlings/people",
+    "https://www.ravelry.com/patterns/library/watchlings/report"
   ]
 }

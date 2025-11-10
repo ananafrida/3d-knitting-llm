@@ -7,9 +7,13 @@
   "category": "Sweater → Pullover Tops → Tee",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "Finished Bust Circ : 85 (95 / 105 / 115 / 125), 135 (145 / 155 / 165 / 175) cm – 33 ½ (37 ½ / 41 ¼ / 45 ¼ / 49 ¼), 53 ¼ (57 / 61 / 65 / 68 ¾)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
-    "Knitting for Olive Cotton Merino",
-    "Light Fingering ?"
+    "Light Fingering ?",
+    "Knitting for Olive Cotton Merino"
   ],
   "attributes": [
     "adult",
@@ -40,16 +44,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/aconite-2/comments",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/aconite-2/editors",
-    "https://www.ravelry.com/patterns/library/aconite-2/report",
-    "https://www.ravelry.com/patterns/library/mireine-socks",
     "https://www.ravelry.com/patterns/library/telesto",
-    "https://www.ravelry.com/patterns/library/marbre",
     "https://www.ravelry.com/patterns/library/aconite-2",
+    "https://www.ravelry.com/patterns/library/aconite-2/comments",
+    "https://www.ravelry.com/patterns/library/aconite-2/threads",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
     "https://www.ravelry.com/patterns/library/aconite-2/yarns",
-    "https://www.ravelry.com/patterns/library/aconite-2/people",
-    "https://www.ravelry.com/patterns/library/aconite-2/threads"
+    "https://www.ravelry.com/patterns/library/aconite-2/editors",
+    "https://www.ravelry.com/patterns/library/mireine-socks",
+    "https://www.ravelry.com/patterns/library/marbre",
+    "https://www.ravelry.com/patterns/library/aconite-2/report",
+    "https://www.ravelry.com/patterns/library/aconite-2/people"
   ]
 }

@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "sizes_available": "Fingering 4 3/4\"; DK/Sport 5 1/4\"; Worsted 6\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Any gauge - designed for any gauge ?"
   ],
@@ -23,16 +26,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/flower-girls",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends",
-    "https://www.ravelry.com/patterns/library/fairisle-friends/editors",
-    "https://www.ravelry.com/patterns/library/fairisle-friends/report",
-    "https://www.ravelry.com/patterns/library/fairisle-friends/threads",
     "https://www.ravelry.com/patterns/library/fairisle-friends/yarns",
     "https://www.ravelry.com/patterns/library/fairisle-friends",
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends",
     "https://www.ravelry.com/patterns/library/fairisle-friends/people",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/fairisle-friends/editors",
+    "https://www.ravelry.com/patterns/library/fairisle-friends/threads",
+    "https://www.ravelry.com/patterns/library/flower-girls",
+    "https://www.ravelry.com/patterns/library/fairisle-friends/report",
     "https://www.ravelry.com/patterns/library/fairisle-friends/comments",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls"
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store"
   ]
 }

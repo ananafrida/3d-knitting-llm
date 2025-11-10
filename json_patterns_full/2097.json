@@ -7,9 +7,12 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Baby, Child, Adult SM, Adult L",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "adult",
@@ -31,22 +34,22 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/pacific-knits/patterns",
-    "https://www.ravelry.com/bundles/app-patterns",
-    "https://www.ravelry.com/patterns/library/barley-worsted",
-    "https://www.ravelry.com/patterns/library/antler-toque/threads",
-    "https://www.ravelry.com/patterns/library/antler-toque/posts",
-    "https://www.ravelry.com/patterns/library/antler-toque/people",
-    "https://www.ravelry.com/patterns/library/antler-toque/yarns",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
-    "https://www.ravelry.com/patterns/library/flax-worsted",
-    "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens",
-    "https://www.ravelry.com/patterns/library/antler-toque/report",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/antler-toque",
+    "https://www.ravelry.com/patterns/library/antler-toque/comments",
     "https://www.ravelry.com/patterns/sources/pacific-knits",
+    "https://www.ravelry.com/patterns/library/flax-worsted",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
+    "https://www.ravelry.com/patterns/library/antler-toque/yarns",
+    "https://www.ravelry.com/bundles/app-patterns",
+    "https://www.ravelry.com/patterns/library/antler-toque/threads",
+    "https://www.ravelry.com/patterns/library/antler-toque",
+    "https://www.ravelry.com/patterns/library/antler-toque/report",
+    "https://www.ravelry.com/patterns/library/antler-toque/people",
+    "https://www.ravelry.com/patterns/library/barley-worsted",
+    "https://www.ravelry.com/patterns/library/antler-toque/posts",
+    "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens",
     "http://tincanknits.com/pattern-PK-antlerhat.html",
-    "https://www.ravelry.com/patterns/library/antler-toque/editors",
-    "https://www.ravelry.com/patterns/library/antler-toque/comments"
+    "https://www.ravelry.com/patterns/sources/pacific-knits/patterns",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/antler-toque/editors"
   ]
 }

@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "7.0 mm",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Garnmanufaktur Donegal Tweed Farbverlauf"
+    "Garnmanufaktur Donegal Tweed Farbverlauf",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "one-piece",
@@ -19,16 +22,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/report",
     "https://www.ravelry.com/patterns/library/silk-rope-summer-cowl",
-    "https://www.ravelry.com/patterns/library/progress-pride-wristband",
-    "https://www.ravelry.com/patterns/sources/makers-mercantile",
     "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/comments",
     "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/editors",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/yarns",
-    "https://www.makersmercantile.com/shop/c/p/Simple-Ribbed-Pattern---free-pdf-pattern-download-x59384104.htm",
     "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/people",
-    "https://www.ravelry.com/patterns/library/fall-harvest-3"
+    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7",
+    "https://www.makersmercantile.com/shop/c/p/Simple-Ribbed-Pattern---free-pdf-pattern-download-x59384104.htm",
+    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/report",
+    "https://www.ravelry.com/patterns/library/fall-harvest-3",
+    "https://www.ravelry.com/patterns/sources/makers-mercantile",
+    "https://www.ravelry.com/patterns/library/progress-pride-wristband",
+    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/yarns"
   ]
 }

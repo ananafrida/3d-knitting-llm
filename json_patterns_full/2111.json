@@ -7,9 +7,21 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "1 - 3 (see notes for detailed size information)",
+  "languages": [
+    "Danish",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Rosa Pomar Brusca",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Rosa Pomar Brusca"
   ],
   "attributes": [
     "adult",
@@ -27,17 +39,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jelka/report",
     "https://www.ravelry.com/patterns/library/leni-5",
+    "https://www.ravelry.com/patterns/library/emmi-4",
     "https://www.ravelry.com/patterns/library/jelka/people",
-    "https://www.ravelry.com/patterns/library/jelka/editors",
-    "https://www.ravelry.com/patterns/library/jelka/posts",
-    "https://www.ravelry.com/patterns/library/frau-keli",
+    "https://www.ravelry.com/patterns/library/jelka/report",
     "https://www.ravelry.com/patterns/library/jelka",
-    "https://www.ravelry.com/patterns/sources/isabell-kraemers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/jelka/comments",
     "https://www.ravelry.com/patterns/library/jelka/yarns",
+    "https://www.ravelry.com/patterns/library/jelka/editors",
+    "https://www.ravelry.com/patterns/sources/isabell-kraemers-ravelry-store",
     "https://www.ravelry.com/patterns/library/jelka/threads",
-    "https://www.ravelry.com/patterns/library/emmi-4"
+    "https://www.ravelry.com/patterns/library/jelka/posts",
+    "https://www.ravelry.com/patterns/library/jelka/comments",
+    "https://www.ravelry.com/patterns/library/frau-keli"
   ]
 }

@@ -7,6 +7,10 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "To fit age (6 mo, 12 mo, 18 mo) 2 yrs, 4 yrs, 6 yrs (8 yrs, 10 yrs, 12 yrs)",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "La Fée Fil Mérinos SW Fingering",
     "Fingering (14 wpi) ?"
@@ -29,17 +33,17 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sugar-bush",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/yarns",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/posts",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/threads",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/editors",
-    "https://www.ravelry.com/patterns/library/alocasia",
-    "https://www.ravelry.com/patterns/library/kentia",
     "https://www.ravelry.com/patterns/sources/marie-amelie-designs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/threads",
+    "https://www.ravelry.com/patterns/library/kentia",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids",
     "https://www.ravelry.com/patterns/library/sugar-bush-kids/comments",
     "https://www.ravelry.com/patterns/library/sugar-bush-kids/report",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/people"
+    "https://www.ravelry.com/patterns/library/alocasia",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/people",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/yarns",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/posts",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/editors",
+    "https://www.ravelry.com/patterns/library/sugar-bush"
   ]
 }

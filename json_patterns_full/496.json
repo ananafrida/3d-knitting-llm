@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "The Lamb & Kid Mho Mho"
+    "The Lamb & Kid Mho Mho",
+    "yarn held together"
   ],
   "attributes": [
     "adult",
@@ -27,17 +30,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sunday-shrug-3",
-    "https://www.ravelry.com/patterns/library/saturday-shrug-2/report",
-    "https://www.ravelry.com/patterns/library/soho-square",
-    "https://www.ravelry.com/patterns/library/saturday-shrug-2/comments",
-    "https://www.ravelry.com/patterns/library/saturday-shrug-2/yarns",
-    "https://www.ravelry.com/patterns/library/saturday-shrug-2/posts",
+    "https://www.ravelry.com/patterns/library/saturday-shrug-2/people",
     "https://www.ravelry.com/patterns/library/saturday-shrug-2",
-    "https://www.ravelry.com/patterns/library/saturday-shrug-2/threads",
-    "https://www.ravelry.com/patterns/library/saturday-shrug-2/editors",
     "https://www.ravelry.com/patterns/sources/jackie-roses-ravelry-store",
     "https://www.ravelry.com/patterns/library/friday-shrug",
-    "https://www.ravelry.com/patterns/library/saturday-shrug-2/people"
+    "https://www.ravelry.com/patterns/library/saturday-shrug-2/report",
+    "https://www.ravelry.com/patterns/library/saturday-shrug-2/posts",
+    "https://www.ravelry.com/patterns/library/saturday-shrug-2/threads",
+    "https://www.ravelry.com/patterns/library/saturday-shrug-2/comments",
+    "https://www.ravelry.com/patterns/library/saturday-shrug-2/editors",
+    "https://www.ravelry.com/patterns/library/saturday-shrug-2/yarns",
+    "https://www.ravelry.com/patterns/library/soho-square",
+    "https://www.ravelry.com/patterns/library/sunday-shrug-3"
   ]
 }

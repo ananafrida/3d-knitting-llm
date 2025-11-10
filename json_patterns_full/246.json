@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Noro Kureyon（くれよん）"
+    "Noro Kureyon（くれよん）",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "digital-audio",
@@ -21,21 +24,21 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/moss-stitch-diamonds-baby-blanket",
-    "https://www.ravelry.com/patterns/library/felt-ruffle-bag/threads",
-    "https://www.ravelry.com/patterns/library/felt-ruffle-bag/comments",
     "https://www.ravelry.com/patterns/library/felt-ruffle-bag/yarns",
     "https://www.ravelry.com/patterns/library/felt-ruffle-bag/edit",
-    "https://www.ravelry.com/patterns/library/teddy-bear-baby-blanket",
+    "https://www.ravelry.com/patterns/library/felt-ruffle-bag/comments",
+    "https://www.ravelry.com/patterns/periodicals/one-skein-wonders",
     "http://www.knittingonthenet.com/patterns/bagfeltnororuffle.htm",
+    "https://www.ravelry.com/patterns/library/felt-ruffle-bag/report",
     "https://www.ravelry.com/patterns/library/moon-and-stars-baby-blanket",
+    "https://www.ravelry.com/patterns/library/felt-ruffle-bag/editors",
     "https://www.ravelry.com/patterns/library/felt-ruffle-bag/people",
     "https://www.ravelry.com/patterns/sources/knitting-on-the-net",
-    "https://www.ravelry.com/patterns/periodicals/one-skein-wonders",
-    "https://www.ravelry.com/patterns/library/felt-ruffle-bag/editors",
-    "https://www.ravelry.com/patterns/library/felt-ruffle-bag/report",
+    "https://www.ravelry.com/patterns/library/felt-ruffle-bag/threads",
+    "https://www.ravelry.com/patterns/library/moss-stitch-diamonds-baby-blanket",
     "https://www.ravelry.com/patterns/sources/101-designer-one-skein-wonders",
-    "https://www.ravelry.com/patterns/library/felt-ruffle-bag"
+    "https://www.ravelry.com/patterns/library/felt-ruffle-bag",
+    "https://www.ravelry.com/patterns/library/teddy-bear-baby-blanket"
   ],
   "name": "Ravelry: Felt Ruffle Bag pattern by Barbara Breiter"
 }

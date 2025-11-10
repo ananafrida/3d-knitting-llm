@@ -4,6 +4,9 @@
   "category": "Blanket → Baby Blanket",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "30\"x32\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Orange Flower Yarn DK 250",
     "DK (11 wpi) ?"
@@ -21,19 +24,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-cowl",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket",
+    "https://www.ravelry.com/patterns/sources/orange-flower-yarn",
+    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/yarns",
     "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/posts",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/comments",
-    "https://www.orangefloweryarn.com/free-patterns-1",
+    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/editors",
     "https://www.ravelry.com/patterns/library/duotone-cowl",
     "https://www.ravelry.com/patterns/library/the-age-of-brass-and-steam-kerchief",
-    "https://www.ravelry.com/patterns/sources/orange-flower-yarn",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/yarns"
+    "https://www.ravelry.com/patterns/library/simple-ribbed-cowl",
+    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/report",
+    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket",
+    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/people",
+    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/comments",
+    "https://www.orangefloweryarn.com/free-patterns-1",
+    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/posts"
   ],
   "name": "Ravelry: Garter Rib Baby Blanket pattern by Orange Flower Yarn"
 }

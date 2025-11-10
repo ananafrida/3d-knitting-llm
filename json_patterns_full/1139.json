@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Softies → Doll Decorative → Other",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Garnstudio DROPS Baby Merino",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Baby Merino"
   ],
   "attributes": [
     "doll-size",
@@ -17,16 +20,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6/yarns",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6/report",
-    "https://www.ravelry.com/patterns/library/pinchy-the-crab",
-    "https://www.ravelry.com/patterns/library/bear-toy-3",
-    "https://www.moumouknits.com/post/how-to-knit-a-spooky-halloween-ghost-for-your-decor-a-step-by-step-knitting-pattern-tutorial",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6/people",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6/editors",
     "https://www.ravelry.com/patterns/library/spooky-ghost-6/comments",
+    "https://www.moumouknits.com/post/how-to-knit-a-spooky-halloween-ghost-for-your-decor-a-step-by-step-knitting-pattern-tutorial",
+    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs",
+    "https://www.ravelry.com/patterns/library/bear-toy-3",
+    "https://www.ravelry.com/patterns/library/spooky-ghost-6/yarns",
+    "https://www.ravelry.com/patterns/library/pinchy-the-crab",
+    "https://www.ravelry.com/patterns/library/spooky-ghost-6/editors",
+    "https://www.ravelry.com/patterns/library/spooky-ghost-6/report",
+    "https://www.ravelry.com/patterns/library/spooky-ghost-6/people",
+    "https://www.ravelry.com/patterns/library/spooky-ghost-6",
     "https://www.ravelry.com/patterns/sources/mou-mou-knits"
   ],
   "name": "Ravelry: Spooky Ghost pattern by Mou Mou Knits"

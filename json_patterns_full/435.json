@@ -7,9 +7,12 @@
   "category": "Sweater → Cardigan Coat / Jacket",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "sizes_available": "newborn/15\" - 6y/25\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "100purewool Merino Worsted 3 ply",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "100purewool Merino Worsted 3 ply"
   ],
   "attributes": [
     "baby",
@@ -37,15 +40,15 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/brooklynn-jacket/people",
-    "https://www.ravelry.com/patterns/library/brooklynn-jacket/comments",
-    "https://www.ravelry.com/patterns/library/little-miss-jorja",
     "https://www.ravelry.com/patterns/library/brooklynn-jacket/editors",
     "https://www.ravelry.com/patterns/library/butterfly-slouchie",
-    "https://www.ravelry.com/patterns/library/brooklynn-jacket/report",
-    "https://www.ravelry.com/patterns/library/brooklynn-jacket",
-    "https://www.ravelry.com/patterns/sources/flame-lily-designs",
-    "https://www.ravelry.com/patterns/library/transition",
     "https://www.ravelry.com/patterns/library/brooklynn-jacket/yarns",
-    "https://www.ravelry.com/patterns/library/brooklynn-jacket/threads"
+    "https://www.ravelry.com/patterns/sources/flame-lily-designs",
+    "https://www.ravelry.com/patterns/library/brooklynn-jacket/threads",
+    "https://www.ravelry.com/patterns/library/little-miss-jorja",
+    "https://www.ravelry.com/patterns/library/brooklynn-jacket",
+    "https://www.ravelry.com/patterns/library/brooklynn-jacket/report",
+    "https://www.ravelry.com/patterns/library/brooklynn-jacket/comments",
+    "https://www.ravelry.com/patterns/library/transition"
   ]
 }

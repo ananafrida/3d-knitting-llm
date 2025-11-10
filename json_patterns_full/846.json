@@ -4,9 +4,12 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "8 ½ inches wide x 64 (80) inches long",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Purl Soho Worsted Twist"
+    "Purl Soho Worsted Twist",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "rectangle",
@@ -18,18 +21,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/comments",
-    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/people",
-    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/editors",
-    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
-    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/yarns",
-    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf",
     "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/threads",
-    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/report",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/mistake-rib-scarf-11",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/editors",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/comments",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
     "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/posts",
-    "https://www.ravelry.com/patterns/library/mistake-rib-scarf-11"
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/people",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/report",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
   ],
   "name": "Ravelry: No-Purl Ribbed Scarf pattern by Purl Soho"
 }

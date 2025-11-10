@@ -7,6 +7,9 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -24,13 +27,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/editors",
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/threads",
-    "https://www.ravelry.com/patterns/sources/blue-heron-design-onts-ravelry-store",
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/report",
     "https://www.ravelry.com/patterns/library/nottawasaga-buff/yarns",
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff",
     "https://www.ravelry.com/patterns/library/nottawasaga-buff/people",
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/comments"
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/threads",
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/report",
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/comments",
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/editors",
+    "https://www.ravelry.com/patterns/sources/blue-heron-design-onts-ravelry-store",
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff"
   ]
 }

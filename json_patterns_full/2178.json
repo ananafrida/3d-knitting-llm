@@ -7,6 +7,9 @@
   "category": "Costume",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "Small, Medium, Large",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Indigodragonfly MerGoat Worsted",
     "Worsted (9 wpi) ?"
@@ -24,14 +27,14 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-very-regal-crown/comments",
-    "https://www.ravelry.com/patterns/library/a-very-regal-crown/posts",
-    "https://www.ravelry.com/patterns/library/a-very-regal-crown/people",
     "https://www.ravelry.com/patterns/library/a-very-regal-crown/yarns",
+    "https://www.ravelry.com/patterns/library/a-very-regal-crown",
     "https://www.ravelry.com/patterns/library/a-very-regal-crown/report",
-    "https://www.ravelry.com/patterns/library/a-very-regal-crown/threads",
-    "https://www.ravelry.com/patterns/sources/kayleigh-lb-patterns",
     "https://www.ravelry.com/patterns/library/a-very-regal-crown/editors",
-    "https://www.ravelry.com/patterns/library/a-very-regal-crown"
+    "https://www.ravelry.com/patterns/library/a-very-regal-crown/comments",
+    "https://www.ravelry.com/patterns/sources/kayleigh-lb-patterns",
+    "https://www.ravelry.com/patterns/library/a-very-regal-crown/people",
+    "https://www.ravelry.com/patterns/library/a-very-regal-crown/threads",
+    "https://www.ravelry.com/patterns/library/a-very-regal-crown/posts"
   ]
 }

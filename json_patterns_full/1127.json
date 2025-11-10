@@ -7,6 +7,9 @@
   "category": "Softies → Doll",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Worsted (9 wpi) ?",
     "Lion Brand Wool Ease Thick & Quick"
@@ -18,17 +21,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-yoda-5/posts",
-    "https://www.ravelry.com/patterns/library/baby-yoda-5/threads",
-    "https://www.ravelry.com/patterns/library/character-pattern",
     "https://www.ravelry.com/patterns/library/every-bunny-has-a-story",
-    "https://www.ravelry.com/patterns/library/baby-yoda-5/editors",
     "https://www.ravelry.com/patterns/library/baby-yoda-5/report",
-    "https://www.ravelry.com/patterns/library/baby-yoda-5",
-    "https://www.ravelry.com/patterns/library/baby-yoda-5/yarns",
-    "https://www.ravelry.com/patterns/library/baby-yoda-5/comments",
-    "https://www.ravelry.com/patterns/library/character",
+    "https://www.ravelry.com/patterns/library/baby-yoda-5/people",
+    "https://www.ravelry.com/patterns/library/baby-yoda-5/posts",
     "https://www.ravelry.com/patterns/sources/kim-konens-ravelry-store",
-    "https://www.ravelry.com/patterns/library/baby-yoda-5/people"
+    "https://www.ravelry.com/patterns/library/character",
+    "https://www.ravelry.com/patterns/library/baby-yoda-5",
+    "https://www.ravelry.com/patterns/library/baby-yoda-5/comments",
+    "https://www.ravelry.com/patterns/library/baby-yoda-5/threads",
+    "https://www.ravelry.com/patterns/library/baby-yoda-5/editors",
+    "https://www.ravelry.com/patterns/library/character-pattern",
+    "https://www.ravelry.com/patterns/library/baby-yoda-5/yarns"
   ]
 }

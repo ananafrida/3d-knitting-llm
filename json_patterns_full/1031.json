@@ -7,6 +7,10 @@
   "category": "Tops → Tee",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "Finished bust circ : 92 (100 / 107 / 115 / 123 / 130), 138 (146 / 153 / 161 / 167 / 177) cm – 36 ¼ (39 ¼ / 42 ¼ / 45 ¼ / 48 ½ / 51 ¼), 54 ¼ (57 ½ / 60 ¼ / 63 ½ / 65 ¾ / 69 ¾)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "meadowyarn windle | fingering"
@@ -35,17 +39,17 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/telesto",
+    "https://www.ravelry.com/patterns/library/oread",
+    "https://www.ravelry.com/patterns/library/pleione-3/posts",
+    "https://www.ravelry.com/patterns/library/pleione-3",
+    "https://www.ravelry.com/patterns/library/pleione-3/yarns",
+    "https://www.ravelry.com/patterns/library/pleione-3/threads",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
     "https://www.ravelry.com/patterns/library/pleione-3/comments",
     "https://www.ravelry.com/patterns/library/pleione-3/report",
+    "https://www.ravelry.com/patterns/library/junie",
     "https://www.ravelry.com/patterns/library/pleione-3/editors",
-    "https://www.ravelry.com/patterns/library/pleione-3/posts",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/telesto",
-    "https://www.ravelry.com/patterns/library/pleione-3/yarns",
-    "https://www.ravelry.com/patterns/library/pleione-3/people",
-    "https://www.ravelry.com/patterns/library/pleione-3",
-    "https://www.ravelry.com/patterns/library/oread",
-    "https://www.ravelry.com/patterns/library/pleione-3/threads",
-    "https://www.ravelry.com/patterns/library/junie"
+    "https://www.ravelry.com/patterns/library/pleione-3/people"
   ]
 }

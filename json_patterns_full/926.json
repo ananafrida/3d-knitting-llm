@@ -7,6 +7,9 @@
   "category": "Softies → Animal Ball",
   "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
   "sizes_available": "non applicable",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Garnstudio DROPS Fabel"
@@ -24,16 +27,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus/report",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus/editors",
-    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store",
     "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus/comments",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus/yarns",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog",
     "https://www.ravelry.com/patterns/library/froggybug-spherical-egg",
+    "https://www.ravelry.com/patterns/library/froggybug-snail",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus/report",
     "https://www.ravelry.com/patterns/library/froggybug-6-mini-xmas-jumpers",
     "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus/people",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus/yarns",
-    "https://www.ravelry.com/patterns/library/froggybug-snail"
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-octopus/editors",
+    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store"
   ]
 }

@@ -7,6 +7,18 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "3-4kg birthweight (7-9lb)",
+  "languages": [
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Additional languages which are not in the download: Danish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "madelinetosh Tosh DK",
     "DK (11 wpi) ?"
@@ -28,18 +40,18 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan/editors",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan/posts",
     "http://www.ravelry.com/patterns/library/beyond-puerperium",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan/comments",
-    "https://www.ravelry.com/patterns/library/baby-vertebrae",
-    "https://www.ravelry.com/patterns/sources/pekapeka-design-studio",
     "https://www.ravelry.com/patterns/library/puerperium-cardigan/threads",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/editors",
+    "https://www.ravelry.com/patterns/library/baby-vertebrae",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae",
     "https://www.ravelry.com/patterns/library/beyond-puerperium",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/report",
     "https://www.ravelry.com/patterns/library/puerperium-cardigan/people",
     "https://www.ravelry.com/patterns/library/puerperium-cardigan/yarns",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan/report"
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan",
+    "https://www.ravelry.com/patterns/sources/pekapeka-design-studio",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/comments",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/posts"
   ]
 }

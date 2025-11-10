@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Ball",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -18,18 +21,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/edit",
-    "https://www.ravelry.com/patterns/library/easy-elf-slipper",
-    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/people",
-    "https://www.ravelry.com/patterns/library/three-kin-drop-stitch-lace-baby-blanket",
-    "https://www.ravelry.com/patterns/sources/knitting--crochet--suite101",
-    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball",
-    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/comments",
-    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/editors",
-    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/yarns",
     "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball",
     "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/report",
-    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/threads"
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/editors",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/comments",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/edit",
+    "https://www.ravelry.com/patterns/library/three-kin-drop-stitch-lace-baby-blanket",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/yarns",
+    "https://www.ravelry.com/patterns/library/easy-elf-slipper",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/threads",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/people",
+    "https://www.ravelry.com/patterns/sources/knitting--crochet--suite101"
   ],
   "name": "Ravelry: Knit A Crystal Ball pattern by Elizabeth Yetter"
 }

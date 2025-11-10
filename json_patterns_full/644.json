@@ -7,9 +7,12 @@
   "category": "Hat → Beanie, Toque Hat → Pixie",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "sizes_available": "One size fits preemie to three months.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Wool2dye4 Cash Sock MCN"
+    "Wool2dye4 Cash Sock MCN",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -30,17 +33,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/yarns",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap",
-    "https://www.ravelry.com/patterns/library/rachael-ellen-beret",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/threads",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/editors",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/posts",
-    "https://www.ravelry.com/patterns/library/rain-on-the-prairie",
-    "https://www.ravelry.com/patterns/sources/ravenous-knits",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/comments",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/report",
     "https://www.ravelry.com/patterns/library/yukimi",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/people"
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/report",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/threads",
+    "https://www.ravelry.com/patterns/sources/ravenous-knits",
+    "https://www.ravelry.com/patterns/library/rain-on-the-prairie",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/posts",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/yarns",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/comments",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/editors",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/people",
+    "https://www.ravelry.com/patterns/library/rachael-ellen-beret"
   ]
 }

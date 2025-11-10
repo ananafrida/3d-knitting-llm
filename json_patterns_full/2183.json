@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Other Headwear → Eye mask Costume",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -22,20 +25,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/crafting-jen",
-    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/edit",
-    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/yarns",
-    "https://www.ravelry.com/patterns/library/a-felted-eye-patch",
-    "https://web.archive.org/web/20120816202602/http://www.folkcatart.com/PDF/Eyepatch.pdf",
-    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/posts",
-    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/threads",
-    "https://www.ravelry.com/patterns/library/knit-felted-catnip-mice",
-    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/report",
     "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/comments",
-    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/editors",
+    "https://www.ravelry.com/patterns/library/freedom-mitts",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/edit",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/posts",
     "https://www.ravelry.com/patterns/library/a-felted-eye-patch/people",
-    "https://www.ravelry.com/patterns/library/freedom-mitts"
+    "https://web.archive.org/web/20120816202602/http://www.folkcatart.com/PDF/Eyepatch.pdf",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/editors",
+    "https://www.ravelry.com/patterns/library/knit-felted-catnip-mice",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/threads",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/report",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/comments",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/yarns",
+    "https://www.ravelry.com/patterns/sources/crafting-jen"
   ],
   "name": "Ravelry: A Felted Eye Patch pattern by Jen Kubeck"
 }

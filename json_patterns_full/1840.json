@@ -7,9 +7,12 @@
   "category": "Containers",
   "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
   "sizes_available": "Small & Large",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Blue Sky Fibers Woolstok Worsted"
+    "Blue Sky Fibers Woolstok Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "felted",
@@ -20,20 +23,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/fall-festival-mini-pumpkins",
+    "https://www.ravelry.com/patterns/library/hilton-head-cowl",
     "https://www.ravelry.com/patterns/library/cottage-grove-cowl-2",
     "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
-    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/yarns",
-    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/comments",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/hilton-head-cowl",
     "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/edit",
-    "https://www.ravelry.com/patterns/library/fall-festival-mini-pumpkins",
-    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls",
-    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/threads",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
-    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/editors",
+    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/comments",
     "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/people",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/yarns",
     "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
+    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/editors",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
+    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/threads",
+    "https://www.ravelry.com/patterns/library/fairmont-felted-bowls",
     "https://www.ravelry.com/patterns/library/fairmont-felted-bowls/report"
   ]
 }

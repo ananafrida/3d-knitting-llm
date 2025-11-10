@@ -4,6 +4,9 @@
   "category": "Afghan block",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "22 cm x 22 cm (8.5 inches x 8.5 inches)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -16,18 +19,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/alphabet-squares-3/comments",
-    "https://www.ravelry.com/patterns/library/skull-square",
-    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
     "https://www.ravelry.com/patterns/library/alphabet-squares-3/people",
-    "https://www.ravelry.com/patterns/library/alphabet-squares-3",
-    "https://www.ravelry.com/patterns/library/alphabet-squares-3/report",
-    "https://daisyandstorm.com/2019/03/23/free-alphabet-dishcloth-or-afghan-squares-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/moon-square",
     "https://www.ravelry.com/patterns/library/acorn-square",
-    "https://www.ravelry.com/patterns/library/alphabet-squares-3/threads",
+    "https://www.ravelry.com/patterns/library/alphabet-squares-3/yarns",
+    "https://www.ravelry.com/patterns/library/alphabet-squares-3",
     "https://www.ravelry.com/patterns/library/alphabet-squares-3/editors",
-    "https://www.ravelry.com/patterns/library/alphabet-squares-3/yarns"
+    "https://daisyandstorm.com/2019/03/23/free-alphabet-dishcloth-or-afghan-squares-knitting-pattern/",
+    "https://www.ravelry.com/patterns/library/alphabet-squares-3/threads",
+    "https://www.ravelry.com/patterns/library/alphabet-squares-3/report",
+    "https://www.ravelry.com/patterns/library/skull-square",
+    "https://www.ravelry.com/patterns/library/moon-square",
+    "https://www.ravelry.com/patterns/library/alphabet-squares-3/comments",
+    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website"
   ],
   "name": "Ravelry: Alphabet Squares pattern by Daisy and Storm"
 }

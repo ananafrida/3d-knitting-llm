@@ -7,9 +7,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "10x11\" (24.5 x 28 cm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Wool and the Gang Ra-Ra Raffia",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Wool and the Gang Ra-Ra Raffia"
   ],
   "attributes": [
     "seamed",
@@ -20,15 +23,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-perfect-tea-towel",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/comments",
-    "https://www.ravelry.com/patterns/library/i-cord-workout-headband",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/editors",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/people",
-    "https://www.ravelry.com/patterns/sources/elise-lopezs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-knit-snowman-ornament",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/report",
+    "https://www.ravelry.com/patterns/library/sack-de-coeur",
     "https://www.ravelry.com/patterns/library/sack-de-coeur/yarns",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur"
+    "https://www.ravelry.com/patterns/library/mini-knit-snowman-ornament",
+    "https://www.ravelry.com/patterns/library/sack-de-coeur/comments",
+    "https://www.ravelry.com/patterns/library/sack-de-coeur/editors",
+    "https://www.ravelry.com/patterns/library/the-perfect-tea-towel",
+    "https://www.ravelry.com/patterns/sources/elise-lopezs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/i-cord-workout-headband",
+    "https://www.ravelry.com/patterns/library/sack-de-coeur/people",
+    "https://www.ravelry.com/patterns/library/sack-de-coeur/report"
   ]
 }

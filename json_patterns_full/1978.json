@@ -5,6 +5,9 @@
   "designer": "Daniela Mühlbauer",
   "craft": "Knitting",
   "category": "Applique / Embellishment",
+  "languages": [
+    "German"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -16,16 +19,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fritze-merz/editors",
-    "https://www.ravelry.com/patterns/sources/daniela-muhlbauers-ravelry-store",
     "https://www.ravelry.com/patterns/library/malabar-cowl",
+    "https://www.ravelry.com/patterns/sources/daniela-muhlbauers-ravelry-store",
     "https://www.ravelry.com/patterns/library/fritze-merz/threads",
-    "https://www.ravelry.com/patterns/library/fritze-merz",
-    "https://www.ravelry.com/patterns/library/goldberg",
-    "https://www.ravelry.com/patterns/library/fritze-merz/people",
-    "https://www.ravelry.com/patterns/library/fritze-merz/report",
-    "https://www.ravelry.com/patterns/library/tennissocken",
     "https://www.ravelry.com/patterns/library/fritze-merz/comments",
-    "https://www.ravelry.com/patterns/library/fritze-merz/yarns"
+    "https://www.ravelry.com/patterns/library/tennissocken",
+    "https://www.ravelry.com/patterns/library/fritze-merz/people",
+    "https://www.ravelry.com/patterns/library/fritze-merz/yarns",
+    "https://www.ravelry.com/patterns/library/fritze-merz",
+    "https://www.ravelry.com/patterns/library/fritze-merz/report",
+    "https://www.ravelry.com/patterns/library/fritze-merz/editors",
+    "https://www.ravelry.com/patterns/library/goldberg"
   ]
 }

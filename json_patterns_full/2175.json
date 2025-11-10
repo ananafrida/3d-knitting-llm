@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Costume",
   "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "King Cole Big Value Super Chunky Solid",
-    "Super Bulky (5-6 wpi) ?"
+    "Super Bulky (5-6 wpi) ?",
+    "King Cole Big Value Super Chunky Solid"
   ],
   "attributes": [
     "hood",
@@ -19,14 +22,14 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark",
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/report",
+    "https://www.ravelry.com/patterns/library/basic-woven-scarf",
     "https://www.ravelry.com/patterns/library/icelandic-not-a-tote-handbag",
     "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/yarns",
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/people",
+    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/editors",
     "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/comments",
-    "https://www.ravelry.com/patterns/sources/jane-anders-ravelry-store",
-    "https://www.ravelry.com/patterns/library/basic-woven-scarf",
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/editors"
+    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/people",
+    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark",
+    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/report",
+    "https://www.ravelry.com/patterns/sources/jane-anders-ravelry-store"
   ]
 }

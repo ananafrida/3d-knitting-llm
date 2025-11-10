@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Pet → Toys",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -21,17 +24,17 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fishies-5/comments",
-    "https://www.ravelry.com/patterns/library/fishies-5/report",
     "https://www.ravelry.com/patterns/library/fishies-5/yarns",
-    "https://www.ravelry.com/patterns/library/fishies-5",
-    "https://www.ravelry.com/patterns/library/fishies-5/editors",
-    "https://www.ravelry.com/patterns/library/love-hearts",
-    "https://www.ravelry.com/patterns/library/fishies-5/threads",
     "https://www.ravelry.com/patterns/library/fishies-5/posts",
+    "https://www.ravelry.com/patterns/library/love-hearts",
+    "https://www.ravelry.com/patterns/library/fishies-5/editors",
     "https://www.ravelry.com/patterns/sources/jackie-z-knits",
+    "https://www.ravelry.com/patterns/library/fishies-5/report",
+    "https://www.ravelry.com/patterns/library/fishies-5",
+    "https://www.ravelry.com/patterns/library/fishies-5/threads",
+    "https://www.ravelry.com/patterns/library/little-trinket-bag",
     "https://www.ravelry.com/patterns/library/pitter-patter-socks",
     "https://www.ravelry.com/patterns/library/fishies-5/people",
-    "https://www.ravelry.com/patterns/library/little-trinket-bag"
+    "https://www.ravelry.com/patterns/library/fishies-5/comments"
   ]
 }

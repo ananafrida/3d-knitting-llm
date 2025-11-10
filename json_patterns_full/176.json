@@ -7,9 +7,20 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "18 x 13 cm",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 6 other languages show hide other languages",
+    "...and 6 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Svarta Fåret Tencel Blow"
+    "Svarta Fåret Tencel Blow",
+    "yarn held together"
   ],
   "attributes": [
     "bottom-up",
@@ -21,16 +32,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/rebbelino",
-    "https://www.ravelry.com/patterns/library/astra---purse/report",
+    "https://www.ravelry.com/patterns/library/yyteri---cardigan",
     "https://www.ravelry.com/patterns/library/astra---purse/comments",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/astra---purse/people",
     "https://www.ravelry.com/patterns/library/astra---purse/editors",
-    "https://www.ravelry.com/patterns/library/astra---purse/yarns",
-    "https://www.ravelry.com/patterns/library/astra---purse",
+    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
     "https://www.ravelry.com/patterns/library/fleurir-shopper",
+    "https://www.ravelry.com/patterns/library/astra---purse/people",
+    "https://www.ravelry.com/patterns/library/astra---purse/report",
+    "https://www.ravelry.com/patterns/library/astra---purse",
     "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
-    "https://www.ravelry.com/patterns/library/yyteri---cardigan"
+    "https://www.ravelry.com/patterns/library/astra---purse/yarns",
+    "https://www.ravelry.com/patterns/library/rebbelino"
   ]
 }

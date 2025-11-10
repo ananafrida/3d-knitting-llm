@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "sizes_available": "Varies",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -18,17 +21,17 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/toes-by-terry/editors",
-    "https://www.ravelry.com/patterns/library/nightwing",
-    "https://www.ravelry.com/patterns/library/lanterns-light",
-    "https://www.ravelry.com/patterns/library/toes-by-terry/comments",
-    "https://www.ravelry.com/patterns/library/toes-by-terry/people",
     "https://www.ravelry.com/patterns/library/toes-by-terry/yarns",
+    "https://www.ravelry.com/patterns/library/lanterns-light",
+    "https://www.ravelry.com/patterns/library/toes-by-terry",
+    "https://www.ravelry.com/patterns/library/toes-by-terry/people",
+    "https://www.ravelry.com/patterns/library/toes-by-terry/comments",
+    "https://www.ravelry.com/patterns/library/toes-by-terry/editors",
     "https://www.ravelry.com/patterns/library/toes-by-terry/threads",
     "https://www.ravelry.com/patterns/library/toes-by-terry/report",
-    "https://www.ravelry.com/patterns/library/toes-by-terry",
-    "https://www.ravelry.com/patterns/library/toes-by-terry/posts",
     "https://www.ravelry.com/patterns/library/the-space-between",
-    "https://www.ravelry.com/patterns/sources/terry-schmidts-ravelry-store"
+    "https://www.ravelry.com/patterns/sources/terry-schmidts-ravelry-store",
+    "https://www.ravelry.com/patterns/library/toes-by-terry/posts",
+    "https://www.ravelry.com/patterns/library/nightwing"
   ]
 }

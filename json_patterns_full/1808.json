@@ -4,9 +4,12 @@
   "category": "Containers",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "sizes_available": "extra small, Small, Medium, Large",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Lion Brand Lion Wool Solids"
+    "Lion Brand Lion Wool Solids",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "circle-shaped",
@@ -19,17 +22,17 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/people",
-    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/report",
-    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/threads",
-    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4",
-    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/edit",
-    "https://www.ravelry.com/patterns/sources/alice-thelma-blog",
     "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/comments",
-    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/editors",
-    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/yarns",
-    "https://web.archive.org/web/20120104123707/http:/www.heavydutydesign.com/alicethelma/2009/03/free-pattern-felted-nesting-bowls/",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
     "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/posts",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine"
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/threads",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/edit",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/yarns",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/report",
+    "https://web.archive.org/web/20120104123707/http:/www.heavydutydesign.com/alicethelma/2009/03/free-pattern-felted-nesting-bowls/",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/editors",
+    "https://www.ravelry.com/patterns/sources/alice-thelma-blog"
   ],
   "name": "Ravelry: Felted Nesting Bowls pattern by Alice Thelma"
 }

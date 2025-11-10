@@ -4,6 +4,9 @@
   "category": "Softies → Doll",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "6in (15cm) tall",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -19,20 +22,20 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/skateboarder/yarns",
-    "https://www.ravelry.com/patterns/library/skateboarder/people",
-    "https://undergroundcrafter.com/2020/02/20/skateboarder-doll-knitting-pattern-by-sarah-keen/",
-    "https://www.ravelry.com/patterns/sources/underground-crafter-3",
-    "https://www.ravelry.com/patterns/library/blue-whale-13",
-    "https://www.ravelry.com/patterns/library/skateboarder/editors",
-    "https://www.ravelry.com/patterns/library/skateboarder/threads",
-    "https://www.ravelry.com/patterns/library/skateboarder/comments",
-    "https://www.ravelry.com/patterns/library/skateboarder/report",
     "https://www.ravelry.com/patterns/library/monkey-8",
-    "https://www.ravelry.com/patterns/library/skateboarder",
+    "https://www.ravelry.com/patterns/library/skateboarder/comments",
+    "https://www.ravelry.com/patterns/library/skateboarder/yarns",
+    "https://www.ravelry.com/patterns/sources/underground-crafter-3",
+    "https://undergroundcrafter.com/2020/02/20/skateboarder-doll-knitting-pattern-by-sarah-keen/",
+    "https://www.ravelry.com/patterns/library/skateboarder/people",
     "https://www.ravelry.com/patterns/library/skateboarder/edit",
     "https://www.ravelry.com/patterns/sources/50-knitted-dolls",
-    "https://www.ravelry.com/patterns/library/elephant-13"
+    "https://www.ravelry.com/patterns/library/skateboarder",
+    "https://www.ravelry.com/patterns/library/skateboarder/editors",
+    "https://www.ravelry.com/patterns/library/elephant-13",
+    "https://www.ravelry.com/patterns/library/skateboarder/threads",
+    "https://www.ravelry.com/patterns/library/skateboarder/report",
+    "https://www.ravelry.com/patterns/library/blue-whale-13"
   ],
   "name": "Ravelry: Skateboarder pattern by Sarah Keen"
 }

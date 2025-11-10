@@ -7,9 +7,12 @@
   "category": "Softies → Animal Ball",
   "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
   "sizes_available": "non applicable",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Garnstudio DROPS Fabel",
-    "Any gauge - designed for any gauge ?"
+    "Any gauge - designed for any gauge ?",
+    "Garnstudio DROPS Fabel"
   ],
   "attributes": [
     "3-dimensional",
@@ -29,13 +32,13 @@
   "download_links": [
     "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/report",
     "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/comments",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/people",
-    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/yarns",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-crab",
-    "https://www.ravelry.com/patterns/library/froggybug-6-mini-xmas-jumpers",
     "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/people",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-crab",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/yarns",
+    "https://www.ravelry.com/patterns/library/froggybug-valentine-jumpers",
+    "https://www.ravelry.com/patterns/library/froggybug-6-mini-xmas-jumpers",
     "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/editors",
-    "https://www.ravelry.com/patterns/library/froggybug-valentine-jumpers"
+    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store"
   ]
 }

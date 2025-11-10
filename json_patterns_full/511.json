@@ -4,6 +4,9 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "DK (11 wpi) ?",
     "Purl Soho Nigh DK"
@@ -20,17 +23,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/near--dear-cowl/people",
-    "https://www.ravelry.com/patterns/library/near--dear-cowl/threads",
-    "https://www.ravelry.com/patterns/library/near--dear-cowl/comments",
-    "https://www.ravelry.com/patterns/library/tendril-cowl-2",
-    "https://www.ravelry.com/patterns/library/near--dear-cowl",
-    "https://www.ravelry.com/patterns/library/near--dear-cowl/yarns",
     "https://www.ravelry.com/patterns/library/near--dear-cowl/report",
-    "https://www.ravelry.com/patterns/library/luster-cowl",
+    "https://www.ravelry.com/patterns/library/near--dear-cowl/threads",
+    "https://www.ravelry.com/patterns/library/near--dear-cowl/editors",
+    "https://www.ravelry.com/patterns/library/tendril-cowl-2",
     "https://www.ravelry.com/patterns/library/coziest-cowl",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/near--dear-cowl/editors"
+    "https://www.ravelry.com/patterns/library/near--dear-cowl/comments",
+    "https://www.ravelry.com/patterns/library/near--dear-cowl/people",
+    "https://www.ravelry.com/patterns/library/near--dear-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/near--dear-cowl",
+    "https://www.ravelry.com/patterns/library/luster-cowl",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
   ],
   "name": "Ravelry: Near + Dear Cowl pattern by Purl Soho"
 }

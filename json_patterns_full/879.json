@@ -7,9 +7,15 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "uni",
+  "languages": [
+    "Dutch",
+    "English",
+    "French",
+    "German"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Heathland Knits BFL DK"
+    "Heathland Knits BFL DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "icord-edging",
@@ -26,17 +32,17 @@
   ],
   "shape": "cylinder",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/skinny-ninny-mk",
+    "https://www.ravelry.com/patterns/library/the-simple-thing/threads",
+    "https://www.ravelry.com/patterns/library/fingering-yarn-cozy",
+    "https://www.ravelry.com/patterns/sources/melina-brells-ravelry-store",
+    "https://www.ravelry.com/patterns/library/the-simple-thing/comments",
+    "https://www.ravelry.com/patterns/library/the-simple-thing/report",
+    "https://www.ravelry.com/patterns/library/the-simple-thing",
+    "https://www.ravelry.com/patterns/library/the-simple-thing/people",
     "https://www.ravelry.com/patterns/library/the-simple-thing/editors",
     "https://www.ravelry.com/patterns/library/the-simple-thing/posts",
-    "https://www.ravelry.com/patterns/library/spiral-yarn-cozy-2",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/report",
-    "https://www.ravelry.com/patterns/sources/melina-brells-ravelry-store",
-    "https://www.ravelry.com/patterns/library/the-simple-thing",
-    "https://www.ravelry.com/patterns/library/fingering-yarn-cozy",
-    "https://www.ravelry.com/patterns/library/skinny-ninny-mk",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/people",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/comments",
     "https://www.ravelry.com/patterns/library/the-simple-thing/yarns",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/threads"
+    "https://www.ravelry.com/patterns/library/spiral-yarn-cozy-2"
   ]
 }

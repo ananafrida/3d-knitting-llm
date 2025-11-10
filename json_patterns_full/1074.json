@@ -7,6 +7,10 @@
   "category": "Tops → Tee",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "Finished bust circumference : 92 (105 / 118 / 131 / 145 / 158 / 172) cm - 36 ¼ (41 ¼ / 46 ½ / 51 ½ / 57 / 62 ¼ / 67 ¾)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "BC Garn Bio Balance GOTS"
@@ -32,16 +36,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/xyris/editors",
-    "https://www.ravelry.com/patterns/library/liserne",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/xyris/people",
-    "https://www.ravelry.com/patterns/library/xyris/yarns",
-    "https://www.ravelry.com/patterns/library/xyris/comments",
-    "https://www.ravelry.com/patterns/library/telesto",
-    "https://www.ravelry.com/patterns/library/oread",
     "https://www.ravelry.com/patterns/library/xyris",
+    "https://www.ravelry.com/patterns/library/telesto",
+    "https://www.ravelry.com/patterns/library/xyris/editors",
+    "https://www.ravelry.com/patterns/library/xyris/report",
+    "https://www.ravelry.com/patterns/library/oread",
+    "https://www.ravelry.com/patterns/library/xyris/people",
+    "https://www.ravelry.com/patterns/library/xyris/comments",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/liserne",
     "https://www.ravelry.com/patterns/library/xyris/threads",
-    "https://www.ravelry.com/patterns/library/xyris/report"
+    "https://www.ravelry.com/patterns/library/xyris/yarns"
   ]
 }

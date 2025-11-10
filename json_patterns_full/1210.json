@@ -5,6 +5,9 @@
   "designer": "baygirlknits designs",
   "craft": "Knitting",
   "category": "Softies → Doll",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Any worsted weight"
   ],
@@ -18,16 +21,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/snowpeeps/comments",
     "https://www.ravelry.com/patterns/library/snowpeeps/report",
-    "https://www.ravelry.com/patterns/library/snowpeeps/yarns",
-    "https://www.ravelry.com/patterns/sources/baygirlknits",
-    "https://www.ravelry.com/patterns/library/snowpeeps/editors",
-    "https://www.ravelry.com/patterns/library/anns-market-bag",
-    "https://www.ravelry.com/patterns/library/susans-star",
-    "https://www.ravelry.com/patterns/library/easy-beginner-socks",
     "https://www.ravelry.com/patterns/library/snowpeeps",
+    "https://www.ravelry.com/patterns/library/snowpeeps/editors",
+    "https://www.ravelry.com/patterns/library/snowpeeps/comments",
+    "https://www.ravelry.com/patterns/sources/baygirlknits",
+    "https://www.ravelry.com/patterns/library/easy-beginner-socks",
+    "https://www.ravelry.com/patterns/library/anns-market-bag",
     "https://www.ravelry.com/patterns/library/snowpeeps/people",
+    "https://www.ravelry.com/patterns/library/snowpeeps/yarns",
+    "https://www.ravelry.com/patterns/library/susans-star",
     "https://www.ravelry.com/patterns/library/snowpeeps/threads"
   ]
 }

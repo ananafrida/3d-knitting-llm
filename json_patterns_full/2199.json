@@ -7,9 +7,12 @@
   "category": "Costume",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "2T",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Yarn Bee Luscious"
+    "Yarn Bee Luscious",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "hood",
@@ -24,17 +27,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/posts",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/editors",
-    "https://www.ravelry.com/patterns/library/fair-and-square-baby-blanket",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/comments",
     "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/yarns",
+    "https://www.ravelry.com/patterns/library/fair-and-square-baby-blanket",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/report",
+    "https://www.ravelry.com/patterns/sources/hatticustricks",
+    "https://www.ravelry.com/patterns/library/toddlers-cast-cover-ii",
     "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/people",
     "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/threads",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/report",
     "https://www.ravelry.com/patterns/library/beginners-lucky-pouch",
-    "https://www.ravelry.com/patterns/library/toddlers-cast-cover-ii",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/comments",
-    "https://www.ravelry.com/patterns/sources/hatticustricks"
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/posts",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/threads",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/editors"
   ]
 }

@@ -7,9 +7,13 @@
   "category": "Tops → Tee",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Blue Heron Rayon Metallic 88/12"
+    "Blue Heron Rayon Metallic 88/12",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -38,18 +42,18 @@
   ],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/people",
-    "https://www.ravelry.com/patterns/library/fishtails-tank-top",
-    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top",
+    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/threads",
     "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/yarns",
+    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/report",
+    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/editors",
+    "http://www.ravelry.com/patterns/library/sierras-lacy-tunic",
+    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/comments",
+    "https://www.ravelry.com/patterns/library/plaited-cropped-vest",
+    "https://www.ravelry.com/patterns/library/katherine-hat",
     "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/posts",
     "https://www.ravelry.com/patterns/sources/ekatearcher",
-    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/comments",
-    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/editors",
-    "https://www.ravelry.com/patterns/library/katherine-hat",
-    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/threads",
-    "http://www.ravelry.com/patterns/library/sierras-lacy-tunic",
-    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/report",
-    "https://www.ravelry.com/patterns/library/plaited-cropped-vest"
+    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top",
+    "https://www.ravelry.com/patterns/library/cancun-boxy-lace-top/people",
+    "https://www.ravelry.com/patterns/library/fishtails-tank-top"
   ]
 }

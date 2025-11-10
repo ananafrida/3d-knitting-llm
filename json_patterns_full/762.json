@@ -7,6 +7,10 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Finished Bust Circ : 96 (108 / 120 / 132 / 144), (156 / 168 / 180 / 192) cm – 37 ¾ (42 ½ / 47 ¼ / 52 / 56 ¾), (61 ½ / 66 ¼ / 70 ¾ / 75 ½)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "DK (11 wpi) ?",
     "Wooliette Laine & Co Wooliette Cybele DK"
@@ -39,16 +43,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/halda",
-    "https://www.ravelry.com/patterns/library/ponni/comments",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ponni/people",
-    "https://www.ravelry.com/patterns/library/ponni/editors",
-    "https://www.ravelry.com/patterns/library/ponni/report",
-    "https://www.ravelry.com/patterns/library/ori",
-    "https://www.ravelry.com/patterns/library/marbre",
     "https://www.ravelry.com/patterns/library/ponni",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ponni/comments",
+    "https://www.ravelry.com/patterns/library/ponni/editors",
     "https://www.ravelry.com/patterns/library/ponni/yarns",
-    "https://www.ravelry.com/patterns/library/ponni/threads"
+    "https://www.ravelry.com/patterns/library/ponni/threads",
+    "https://www.ravelry.com/patterns/library/marbre",
+    "https://www.ravelry.com/patterns/library/ponni/report",
+    "https://www.ravelry.com/patterns/library/halda",
+    "https://www.ravelry.com/patterns/library/ponni/people",
+    "https://www.ravelry.com/patterns/library/ori"
   ]
 }

@@ -6,6 +6,10 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "languages": [
+    "English",
+    "Additional languages which are not in the download: Danish"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -20,17 +24,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/comments",
-    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/report",
-    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
-    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/yarns",
     "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/people",
-    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/threads",
-    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
     "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/posts",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/comments",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/threads",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
     "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/editors",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls"
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/yarns",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/report",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store"
   ]
 }

@@ -4,6 +4,9 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "190cm x 37cm (75 inches x 15 inches)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Hedgehog Fibres Merino DK",
     "DK (11 wpi) ?"
@@ -23,19 +26,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/born-slippy/threads",
     "https://www.ravelry.com/patterns/library/electric-sheep",
     "https://www.ravelry.com/patterns/library/born-slippy/editors",
-    "https://www.ravelry.com/patterns/library/born-slippy/report",
-    "https://www.ravelry.com/patterns/library/born-slippy/posts",
-    "https://www.ravelry.com/patterns/library/born-slippy",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/born-slippy",
-    "https://www.ravelry.com/patterns/library/turtle-pouf",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
-    "https://www.ravelry.com/patterns/library/born-slippy/yarns",
     "https://www.ravelry.com/patterns/library/born-slippy/people",
+    "https://www.ravelry.com/patterns/library/born-slippy/yarns",
+    "https://www.ravelry.com/patterns/library/born-slippy/threads",
+    "https://www.ravelry.com/patterns/library/born-slippy/report",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/born-slippy",
+    "https://www.ravelry.com/patterns/library/born-slippy/comments",
+    "https://www.ravelry.com/patterns/library/born-slippy/posts",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/born-slippy",
     "https://www.ravelry.com/patterns/library/april-scarf-4",
-    "https://www.ravelry.com/patterns/library/born-slippy/comments"
+    "https://www.ravelry.com/patterns/library/turtle-pouf"
   ],
   "name": "Ravelry: Born Slippy pattern by Beata Jezek"
 }

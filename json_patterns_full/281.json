@@ -7,9 +7,12 @@
   "category": "Pet → Toys",
   "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
   "sizes_available": "One size, about 17\" long",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lily (Spinrite) Sugar'n Cream Ombres"
+    "Lily (Spinrite) Sugar'n Cream Ombres",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -21,18 +24,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/yarns",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/editors",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/people",
-    "https://www.ravelry.com/patterns/sources/oat-couture-yf003",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/comments",
-    "https://www.ravelry.com/patterns/library/pinwheel-afghan-solid",
-    "https://www.ravelry.com/patterns/library/oregon-vest-2",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/threads",
-    "https://www.ravelry.com/patterns/periodicals/oat-couture-patterns",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/report",
     "https://www.ravelry.com/patterns/library/prairie-blanket",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/comments",
+    "https://www.ravelry.com/patterns/sources/oat-couture-yf003",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/editors",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/yarns",
+    "https://www.ravelry.com/patterns/sources/oat-couture-on-ravelry",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/people",
     "https://www.ravelry.com/patterns/library/tossortug-to-knit",
-    "https://www.ravelry.com/patterns/sources/oat-couture-on-ravelry"
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/threads",
+    "https://www.ravelry.com/patterns/library/oregon-vest-2",
+    "https://www.ravelry.com/patterns/library/pinwheel-afghan-solid",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/report",
+    "https://www.ravelry.com/patterns/periodicals/oat-couture-patterns"
   ]
 }

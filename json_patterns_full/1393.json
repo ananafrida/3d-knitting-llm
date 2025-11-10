@@ -6,6 +6,10 @@
   "craft": "Knitting",
   "category": "Softies → Other",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -17,17 +21,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/posts",
-    "https://www.ravelry.com/patterns/library/baby-trumpet-sniffer",
     "https://www.ravelry.com/patterns/library/trumpet-sniffer/people",
+    "https://www.ravelry.com/patterns/library/baby-trumpet-sniffer",
+    "https://www.ravelry.com/patterns/library/cablecoaster-peekaboo",
+    "https://www.ravelry.com/patterns/sources/schneggart-designs",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/yarns",
     "https://www.ravelry.com/patterns/library/rollercoastertriangle",
     "https://www.ravelry.com/patterns/library/trumpet-sniffer",
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/report",
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/comments",
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/yarns",
     "https://www.ravelry.com/patterns/library/trumpet-sniffer/editors",
-    "https://www.ravelry.com/patterns/sources/schneggart-designs",
-    "https://www.ravelry.com/patterns/library/cablecoaster-peekaboo",
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/threads"
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/report",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/threads",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/posts",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/comments"
   ]
 }

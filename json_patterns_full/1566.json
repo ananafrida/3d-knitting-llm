@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Decorative → Other",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Light Fingering ?",
     "Cape May Fiber ™ Sock"
@@ -22,16 +25,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/threads",
-    "https://www.ravelry.com/patterns/library/beachycomber",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/report",
-    "https://www.ravelry.com/patterns/library/tangled-lines-2",
     "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/people",
+    "https://www.ravelry.com/patterns/library/beachycomber",
     "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/yarns",
-    "https://www.ravelry.com/patterns/library/cavanaugh-hat",
+    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/editors",
+    "https://www.ravelry.com/patterns/library/tangled-lines-2",
     "https://www.ravelry.com/patterns/library/mini-skein-pumpkin",
-    "https://www.ravelry.com/patterns/sources/vanessa-ewing-knits-2",
+    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/report",
     "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/comments",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/editors"
+    "https://www.ravelry.com/patterns/sources/vanessa-ewing-knits-2",
+    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/threads",
+    "https://www.ravelry.com/patterns/library/cavanaugh-hat"
   ]
 }

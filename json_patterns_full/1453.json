@@ -6,9 +6,13 @@
   "craft": "Knitting",
   "category": "Decorative → Hanging Ornament",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English",
+    "Finnish"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Novita 7 Veljestä"
+    "Novita 7 Veljestä",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "one-piece",
@@ -25,15 +29,15 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/halloween-flag-bunting/comments",
-    "https://www.ravelry.com/patterns/library/halloween-flag-bunting/yarns",
-    "https://www.ravelry.com/patterns/library/halloween-flag-bunting/editors",
-    "https://www.ravelry.com/patterns/sources/piia-kaarnikkas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/inkivaari-cowl",
-    "https://www.ravelry.com/patterns/library/sydankapy-shawl",
-    "https://www.ravelry.com/patterns/library/halloween-flag-bunting/report",
     "https://www.ravelry.com/patterns/library/vaahtis",
+    "https://www.ravelry.com/patterns/library/halloween-flag-bunting",
+    "https://www.ravelry.com/patterns/library/halloween-flag-bunting/report",
     "https://www.ravelry.com/patterns/library/halloween-flag-bunting/people",
-    "https://www.ravelry.com/patterns/library/halloween-flag-bunting"
+    "https://www.ravelry.com/patterns/library/halloween-flag-bunting/editors",
+    "https://www.ravelry.com/patterns/library/sydankapy-shawl",
+    "https://www.ravelry.com/patterns/library/halloween-flag-bunting/yarns",
+    "https://www.ravelry.com/patterns/library/inkivaari-cowl",
+    "https://www.ravelry.com/patterns/sources/piia-kaarnikkas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/halloween-flag-bunting/comments"
   ]
 }

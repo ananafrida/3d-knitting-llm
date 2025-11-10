@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Decorative → Other",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Briggs & Little Heritage 2 Ply"
+    "Briggs & Little Heritage 2 Ply",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -19,16 +22,16 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/canada-pride-set",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/edit",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/editors",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/report",
+    "https://www.ravelry.com/patterns/library/pumpkins-31",
     "https://www.ravelry.com/patterns/library/pumpkins-31/yarns",
     "https://www.ravelry.com/patterns/library/pumpkins-31/people",
-    "https://www.ravelry.com/patterns/library/town--country-socks",
-    "https://www.ravelry.com/patterns/sources/briggs--little-ravelry-store",
     "https://www.ravelry.com/patterns/library/felted-hat-and-mittens-set",
+    "https://www.ravelry.com/patterns/library/pumpkins-31/editors",
     "https://www.ravelry.com/patterns/library/pumpkins-31/comments",
+    "https://www.ravelry.com/patterns/library/town--country-socks",
     "https://www.ravelry.com/patterns/periodicals/briggs--little",
-    "https://www.ravelry.com/patterns/library/pumpkins-31"
+    "https://www.ravelry.com/patterns/sources/briggs--little-ravelry-store",
+    "https://www.ravelry.com/patterns/library/pumpkins-31/edit",
+    "https://www.ravelry.com/patterns/library/pumpkins-31/report"
   ]
 }

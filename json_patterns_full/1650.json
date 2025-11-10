@@ -4,6 +4,9 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "M, L, XL",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "DK (11 wpi) ?",
     "Utopia Crafts Re-Cotton"
@@ -31,14 +34,14 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/report",
-    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/editors",
+    "https://utopiacrafts.co.uk/products/the-solstice-cardigan-pattern",
+    "https://www.ravelry.com/patterns/sources/utopia-crafts",
     "https://www.ravelry.com/patterns/library/the-solstice-cardigan/people",
     "https://www.ravelry.com/patterns/library/the-solstice-cardigan/comments",
-    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/editors",
     "https://www.ravelry.com/patterns/library/the-solstice-cardigan",
-    "https://utopiacrafts.co.uk/products/the-solstice-cardigan-pattern",
-    "https://www.ravelry.com/patterns/sources/utopia-crafts"
+    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/report"
   ],
   "name": "Ravelry: The Solstice Cardigan pattern by Utopia Crafts"
 }

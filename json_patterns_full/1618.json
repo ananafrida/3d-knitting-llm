@@ -7,9 +7,12 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "3 mo (6 mo, 12 mo, 18 mo)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "baby",
@@ -30,19 +33,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/posts",
-    "http://www.ravelry.com/patterns/library/wonder-years-toddler-child-cardigan",
-    "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan",
-    "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/people",
-    "https://www.ravelry.com/patterns/library/coffee-bean-cardigan",
-    "https://www.ravelry.com/patterns/library/ramona-cardigan",
     "https://www.ravelry.com/patterns/library/wonder-years-toddler-child-cardigan",
-    "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/report",
     "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/comments",
     "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/editors",
+    "http://www.ravelry.com/patterns/library/wonder-years-toddler-child-cardigan",
+    "https://www.ravelry.com/patterns/library/coffee-bean-cardigan",
     "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/yarns",
+    "https://www.ravelry.com/patterns/sources/elizabeth-smith-knits",
     "https://www.ravelry.com/patterns/library/ice-maker",
+    "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/posts",
+    "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan",
+    "https://www.ravelry.com/patterns/library/ramona-cardigan",
+    "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/report",
     "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/threads",
-    "https://www.ravelry.com/patterns/sources/elizabeth-smith-knits"
+    "https://www.ravelry.com/patterns/library/little-coffee-bean-cardigan/people"
   ]
 }

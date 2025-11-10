@@ -5,6 +5,9 @@
   "designer": "Frankie Brown",
   "craft": "Knitting",
   "category": "Ball",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -19,16 +22,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/berry-balls/editors",
-    "https://www.ravelry.com/patterns/library/berry-balls",
-    "https://www.ravelry.com/patterns/library/berry-balls/threads",
     "https://www.ravelry.com/patterns/library/berry-balls/comments",
-    "https://www.ravelry.com/patterns/library/berry-balls/yarns",
-    "https://www.ravelry.com/patterns/library/berry-balls/report",
     "https://www.ravelry.com/patterns/library/ten-stitch-hat",
+    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
+    "https://www.ravelry.com/patterns/library/berry-balls/threads",
+    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
+    "https://www.ravelry.com/patterns/library/berry-balls",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/berry-balls/yarns",
+    "https://www.ravelry.com/patterns/library/berry-balls/editors",
     "https://www.ravelry.com/patterns/library/berry-balls/people",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff"
+    "https://www.ravelry.com/patterns/library/berry-balls/report"
   ]
 }

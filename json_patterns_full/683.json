@@ -7,9 +7,12 @@
   "category": "Hat → Pixie",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "12 to 24 months",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Classic Elite Yarns Lush"
+    "Classic Elite Yarns Lush",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -23,20 +26,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/beauty-shawl",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/report",
-    "https://www.ravelry.com/patterns/sources/gina-house-website",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/posts",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/threads",
+    "https://www.ravelry.com/patterns/library/glitzel",
+    "https://www.ravelry.com/patterns/sources/sleepy-eyes-knits-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/people",
     "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/comments",
     "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/yarns",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat",
     "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/editors",
-    "https://www.ravelry.com/patterns/sources/sleepy-eyes-knits-ravelry-store",
-    "http://ginahouse.net/knitting/freepatterns",
-    "http://www.ravelry.com/patterns/sources/sleepy-eyes-knits-dreamscape",
     "https://www.ravelry.com/patterns/library/queens-mirror-shawl",
-    "https://www.ravelry.com/patterns/library/glitzel",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/people"
+    "http://www.ravelry.com/patterns/sources/sleepy-eyes-knits-dreamscape",
+    "https://www.ravelry.com/patterns/library/beauty-shawl",
+    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/report",
+    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat",
+    "http://ginahouse.net/knitting/freepatterns",
+    "https://www.ravelry.com/patterns/sources/gina-house-website",
+    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/threads",
+    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/posts"
   ]
 }

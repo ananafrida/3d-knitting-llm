@@ -7,9 +7,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "XS, S, M, L, XL, 2XL, 3XL, 4XL",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Lion Brand Hue + Me"
+    "Lion Brand Hue + Me",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -33,17 +36,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/two-of-wands",
-    "https://www.ravelry.com/patterns/library/magic-hour-sweater",
-    "https://www.ravelry.com/patterns/library/clubhouse-raglan-hoodie",
-    "https://www.ravelry.com/patterns/library/winter-league-pullover/people",
     "https://www.ravelry.com/patterns/library/winter-league-pullover/yarns",
-    "https://www.ravelry.com/patterns/library/winter-league-pullover/editors",
     "https://www.ravelry.com/patterns/library/winter-league-pullover/threads",
-    "https://www.ravelry.com/patterns/library/winter-league-pullover/comments",
-    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
+    "https://www.ravelry.com/patterns/library/winter-league-pullover/people",
     "https://www.ravelry.com/patterns/library/winter-league-pullover/report",
+    "https://www.ravelry.com/patterns/library/clubhouse-raglan-hoodie",
+    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
     "https://www.ravelry.com/patterns/library/easton-striped-pullover",
+    "https://www.ravelry.com/patterns/library/magic-hour-sweater",
+    "https://www.ravelry.com/patterns/library/winter-league-pullover/editors",
+    "https://www.ravelry.com/patterns/sources/two-of-wands",
+    "https://www.ravelry.com/patterns/library/winter-league-pullover/comments",
     "https://www.ravelry.com/patterns/library/winter-league-pullover"
   ]
 }

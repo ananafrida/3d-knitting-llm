@@ -7,6 +7,10 @@
   "category": "Hat → Pixie",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "Newborn to 6 year old",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
     "Rauwerk Merino DK",
     "Sport (12 wpi) ?"
@@ -29,17 +33,17 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/tapestry-12",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/people",
-    "https://www.ravelry.com/patterns/sources/the-mothering-journey-magazine-2017-herbst",
-    "https://www.ravelry.com/patterns/sources/yarnchix-zine-a5-issue-2",
-    "https://www.ravelry.com/patterns/sources/the-slow-wolfs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/threads",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/comments",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/editors",
-    "https://www.ravelry.com/patterns/library/come-on-home",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat",
     "https://www.ravelry.com/patterns/library/isobel-bonnet",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/threads",
+    "https://www.ravelry.com/patterns/sources/the-slow-wolfs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/comments",
+    "https://www.ravelry.com/patterns/library/come-on-home",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/editors",
+    "https://www.ravelry.com/patterns/sources/the-mothering-journey-magazine-2017-herbst",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat",
     "https://www.ravelry.com/patterns/library/campanula-childrens-hat/report",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/yarns"
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/yarns",
+    "https://www.ravelry.com/patterns/sources/yarnchix-zine-a5-issue-2",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/people"
   ]
 }

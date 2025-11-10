@@ -7,6 +7,9 @@
   "category": "Ball",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "Approx. 6 ½” long, depending on type of yarn, needles used, and personal tension.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Lion Brand Vanna's Choice",
     "Worsted (9 wpi) ?"
@@ -21,18 +24,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lil-football/threads",
-    "https://www.ravelry.com/patterns/library/baby-football-shoes",
-    "https://www.ravelry.com/patterns/library/wee-elephant",
-    "https://www.ravelry.com/patterns/sources/rainebo-designs",
     "https://www.ravelry.com/patterns/library/lil-football/report",
-    "https://www.ravelry.com/patterns/library/puppy-love-23",
-    "https://www.ravelry.com/patterns/library/lil-football/comments",
-    "https://www.ravelry.com/patterns/library/lil-football",
-    "https://www.ravelry.com/patterns/library/lil-football/people",
     "http://www.craftsy.com/pattern/knitting/clothing/knit-baby-football-shoes/127327",
+    "https://www.ravelry.com/patterns/library/lil-football",
+    "https://www.ravelry.com/patterns/library/lil-football/threads",
+    "https://www.ravelry.com/patterns/library/lil-football/people",
     "https://www.ravelry.com/patterns/library/lil-football/yarns",
+    "https://www.ravelry.com/patterns/library/puppy-love-23",
+    "https://www.ravelry.com/patterns/library/wee-elephant",
+    "https://www.ravelry.com/patterns/library/lil-football/editors",
+    "https://www.ravelry.com/patterns/library/baby-football-shoes",
     "https://www.ravelry.com/patterns/library/lil-football/posts",
-    "https://www.ravelry.com/patterns/library/lil-football/editors"
+    "https://www.ravelry.com/patterns/sources/rainebo-designs",
+    "https://www.ravelry.com/patterns/library/lil-football/comments"
   ]
 }

@@ -7,9 +7,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "A (B, C, D) (E, F, G)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Garnstudio DROPS Nepal"
+    "Garnstudio DROPS Nepal",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "female",
@@ -24,17 +27,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater",
-    "https://www.ravelry.com/patterns/library/petal-drop-socks",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/threads",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/yarns",
-    "https://www.ravelry.com/patterns/library/step-by-step-cardigan",
-    "https://www.ravelry.com/patterns/library/mixed-rib-cami",
     "https://www.ravelry.com/patterns/sources/florence-millers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/yarns",
+    "https://www.ravelry.com/patterns/library/mixed-rib-cami",
+    "https://www.ravelry.com/patterns/library/petal-drop-socks",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/editors",
     "https://www.ravelry.com/patterns/library/step-by-step-sweater/posts",
     "https://www.ravelry.com/patterns/library/step-by-step-sweater/comments",
     "https://www.ravelry.com/patterns/library/step-by-step-sweater/report",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/editors",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/people"
+    "https://www.ravelry.com/patterns/library/step-by-step-cardigan",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/threads",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/people",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater"
   ]
 }

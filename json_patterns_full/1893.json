@@ -5,6 +5,9 @@
   "designer": "Laura Guenzel",
   "craft": "Knitting",
   "category": "Applique / Embellishment",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Any gauge - designed for any gauge ?"
@@ -17,14 +20,14 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/unicorn-wings/editors",
+    "https://www.ravelry.com/patterns/library/unicorn-wings/people",
+    "https://www.ravelry.com/patterns/library/unicorn-wings/comments",
     "https://www.ravelry.com/patterns/library/unicorn-wings/yarns",
     "https://www.ravelry.com/patterns/library/unicorn-wings/report",
+    "https://www.ravelry.com/patterns/library/unicorn-wings/threads",
     "https://www.ravelry.com/patterns/sources/laura-guenzels-ravelry-store",
     "https://www.ravelry.com/patterns/library/unicorn-wings",
-    "https://www.ravelry.com/patterns/library/unicorn-wings/editors",
-    "https://www.ravelry.com/patterns/library/unicorn-wings/threads",
-    "https://www.ravelry.com/patterns/library/unicorn-wings/people",
-    "https://www.ravelry.com/patterns/library/nilla-the-unicorn",
-    "https://www.ravelry.com/patterns/library/unicorn-wings/comments"
+    "https://www.ravelry.com/patterns/library/nilla-the-unicorn"
   ]
 }

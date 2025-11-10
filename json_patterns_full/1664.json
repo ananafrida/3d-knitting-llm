@@ -4,9 +4,12 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "0-6 months",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Yarn Bee Bamboo-tiful",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Yarn Bee Bamboo-tiful"
   ],
   "attributes": [
     "baby",
@@ -17,16 +20,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/comments",
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/yarns",
-    "https://www.ravelry.com/patterns/library/classic-crochet-teddy-bear",
-    "https://www.ravelry.com/patterns/library/sweet-ruffle-cardigan",
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/report",
-    "https://www.ravelry.com/patterns/sources/knit-paint-sew",
-    "https://www.ravelry.com/patterns/library/hooded-baby-teddy-bear-sweater",
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/people",
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/editors",
     "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan",
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/editors"
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/report",
+    "https://www.ravelry.com/patterns/library/sweet-ruffle-cardigan",
+    "https://www.ravelry.com/patterns/sources/knit-paint-sew",
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/comments",
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/people",
+    "https://www.ravelry.com/patterns/library/hooded-baby-teddy-bear-sweater",
+    "https://www.ravelry.com/patterns/library/classic-crochet-teddy-bear"
   ],
   "name": "Ravelry: Button stitch baby cardigan pattern by Knit Paint Sew"
 }

@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Animal",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -21,16 +24,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/jg-millers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/hat-43-fish-adult-size",
-    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/editors",
-    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/comments",
     "https://www.ravelry.com/patterns/library/hat-18-scrap-happy",
-    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie",
     "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/threads",
+    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/people",
+    "https://www.ravelry.com/patterns/library/hat-43-fish-adult-size",
     "https://www.ravelry.com/patterns/library/poinsettias-on-parade",
-    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/report",
     "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/yarns",
-    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/people"
+    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/comments",
+    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie",
+    "https://www.ravelry.com/patterns/sources/jg-millers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/report",
+    "https://www.ravelry.com/patterns/library/duck-ahoy-duckie/editors"
   ]
 }

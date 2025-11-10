@@ -4,9 +4,12 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "Once-Around (Twice-Around)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Purl Soho Note"
+    "Purl Soho Note",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -21,15 +24,15 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/timberline-cowl-2",
-    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4",
     "https://www.ravelry.com/patterns/library/timberline-cowl-2/editors",
+    "https://www.ravelry.com/patterns/library/timberline-cowl-2/comments",
     "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
     "https://www.ravelry.com/patterns/library/timberline-cowl-2/yarns",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
+    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4",
     "https://www.ravelry.com/patterns/library/timberline-cowl-2/report",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
     "https://www.ravelry.com/patterns/library/timberline-cowl-2/people",
-    "https://www.ravelry.com/patterns/library/timberline-cowl-2/comments"
+    "https://www.ravelry.com/patterns/sources/purl-soho"
   ],
   "name": "Ravelry: Timberline Cowl pattern by Purl Soho"
 }

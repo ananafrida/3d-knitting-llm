@@ -4,9 +4,30 @@
   "category": "Sweater → Cardigan Coat / Jacket",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "S - M - L - XL - XXL - XXXL",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Garnstudio DROPS Alaska"
+    "Garnstudio DROPS Alaska",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -26,21 +47,21 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "http://www.garnstudio.com/lang/us/pattern.php?id=5306&lang=us",
-    "https://www.ravelry.com/patterns/sources/drops-135",
+    "https://www.ravelry.com/patterns/library/135-21-cedric/yarns",
+    "https://www.ravelry.com/patterns/library/135-21-cedric",
     "https://www.ravelry.com/patterns/library/135-21-cedric/edit",
     "https://www.ravelry.com/patterns/library/156-32-autumn-grace",
-    "https://www.ravelry.com/patterns/library/151-6-orchid-bloom",
-    "https://www.ravelry.com/patterns/library/135-21-cedric",
     "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/library/135-21-cedric/editors",
     "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/135-21-cedric/report",
     "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/135-21-cedric/yarns",
-    "https://www.ravelry.com/patterns/library/135-21-cedric/comments",
     "https://www.ravelry.com/patterns/library/135-21-cedric/people",
-    "https://www.ravelry.com/patterns/library/135-21-cedric/threads"
+    "https://www.ravelry.com/patterns/library/135-21-cedric/comments",
+    "https://www.ravelry.com/patterns/library/151-6-orchid-bloom",
+    "https://www.ravelry.com/patterns/library/135-21-cedric/editors",
+    "https://www.ravelry.com/patterns/library/135-21-cedric/report",
+    "http://www.garnstudio.com/lang/us/pattern.php?id=5306&lang=us",
+    "https://www.ravelry.com/patterns/library/135-21-cedric/threads",
+    "https://www.ravelry.com/patterns/sources/drops-135"
   ],
   "name": "Ravelry: 135-21 Cedric pattern by DROPS design"
 }

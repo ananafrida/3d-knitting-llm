@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -17,17 +20,17 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitting-crochetty",
-    "https://www.ravelry.com/patterns/library/building-blocks-throw",
-    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/report",
     "https://www.ravelry.com/patterns/library/granny-square-sweater",
     "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/people",
     "https://www.ravelry.com/patterns/library/gull-wing-socks-2",
-    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks",
     "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/threads",
-    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/comments",
+    "https://www.ravelry.com/patterns/library/building-blocks-throw",
     "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/yarns",
-    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/editors"
+    "https://www.ravelry.com/patterns/sources/knitting-crochetty",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/report",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/comments",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/editors",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks"
   ],
   "name": "Ravelry: Veronica's Basic Toe for Toe-up Socks pattern by Veronica Lacaille (VeeKnits)"
 }

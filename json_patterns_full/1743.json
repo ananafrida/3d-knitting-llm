@@ -6,9 +6,14 @@
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
   "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "languages": [
+    "Danish",
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
-    "Rohrspatz & Wollmeise Pure 100% Merino Superwash",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Rohrspatz & Wollmeise Pure 100% Merino Superwash"
   ],
   "attributes": [
     "one-piece",
@@ -19,17 +24,17 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knubbelchen-minis/yarns",
-    "https://www.ravelry.com/patterns/library/knubbelchen-minis/report",
-    "https://www.ravelry.com/patterns/library/knubbelchen-minis/threads",
     "https://www.ravelry.com/patterns/library/knubbelchen-minis/comments",
     "https://www.ravelry.com/patterns/library/knubbelchen-minis/editors",
-    "https://www.ravelry.com/patterns/library/diagonales",
-    "https://www.ravelry.com/patterns/library/jeanels",
     "https://www.ravelry.com/patterns/library/knubbelchen-minis",
-    "https://www.ravelry.com/patterns/sources/alpaka-seides-ravelry-store",
     "https://www.ravelry.com/patterns/library/achat-2",
+    "https://www.ravelry.com/patterns/library/jeanels",
+    "https://www.ravelry.com/patterns/library/diagonales",
+    "https://www.ravelry.com/patterns/sources/alpaka-seides-ravelry-store",
     "https://www.ravelry.com/patterns/library/knubbelchen-minis/people",
-    "https://www.ravelry.com/patterns/library/knubbelchen-minis/posts"
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/posts",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/yarns",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/threads",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/report"
   ]
 }

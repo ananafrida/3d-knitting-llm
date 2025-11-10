@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Hat → Beanie, Toque",
   "sizes_available": "0-3 Months, 3-12 Months, 1-2 Years, 4-12 Years, Teen/Women, Men",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Loops & Threads Impeccable Tweed"
+    "Loops & Threads Impeccable Tweed",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -24,19 +27,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/fox--pine-stitches",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/threads",
-    "https://www.ravelry.com/patterns/library/santa-cap-christmas-hat",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/posts",
     "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/editors",
-    "https://www.ravelry.com/patterns/sources/fox--pine-stitches-website",
-    "https://www.ravelry.com/patterns/library/bear-hat-ears-toque-baby",
+    "https://www.ravelry.com/patterns/library/santa-cap-christmas-hat",
     "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/people",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/yarns",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/report",
+    "https://www.ravelry.com/patterns/sources/fox--pine-stitches",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/comments",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/posts",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/threads",
+    "https://www.ravelry.com/patterns/sources/fox--pine-stitches-website",
     "https://www.foxandpinestitches.com/bear-ears-worsted-weight-hat-free-knitting-pattern/",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/yarns",
     "https://www.ravelry.com/patterns/library/wooly-bear-ears-hat",
     "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/comments"
+    "https://www.ravelry.com/patterns/library/bear-hat-ears-toque-baby",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/report"
   ]
 }

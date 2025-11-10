@@ -7,6 +7,9 @@
   "category": "Components → Other",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "nb, sm, med, large, xl",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -26,14 +29,14 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/longie-doubler/threads",
-    "https://www.ravelry.com/patterns/library/fairy-links-hoody",
-    "https://www.ravelry.com/patterns/library/longie-doubler/comments",
     "https://www.ravelry.com/patterns/library/longie-doubler/yarns",
-    "https://www.ravelry.com/patterns/library/longie-doubler/people",
+    "https://www.ravelry.com/patterns/library/longie-doubler/comments",
     "https://www.ravelry.com/patterns/sources/tenilias-ravelry-downloads",
     "https://www.ravelry.com/patterns/library/longie-doubler/report",
-    "https://www.ravelry.com/patterns/library/longie-doubler",
-    "https://www.ravelry.com/patterns/library/longie-doubler/editors"
+    "https://www.ravelry.com/patterns/library/longie-doubler/people",
+    "https://www.ravelry.com/patterns/library/fairy-links-hoody",
+    "https://www.ravelry.com/patterns/library/longie-doubler/editors",
+    "https://www.ravelry.com/patterns/library/longie-doubler/threads",
+    "https://www.ravelry.com/patterns/library/longie-doubler"
   ]
 }

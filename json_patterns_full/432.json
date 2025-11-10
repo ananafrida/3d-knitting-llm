@@ -7,9 +7,13 @@
   "category": "Coat / Jacket",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "12 (18, 24) months",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Knit Picks Comfy"
+    "Knit Picks Comfy",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "chart",
@@ -26,18 +30,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/people",
-    "https://www.ravelry.com/patterns/sources/tricksy-knitter",
-    "https://www.ravelry.com/patterns/sources/tricksy-knitter-website",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/yarns",
-    "https://www.ravelry.com/patterns/library/leafy-washcloth",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/report",
-    "https://www.ravelry.com/patterns/library/tiny-pants",
-    "https://www.ravelry.com/patterns/library/botanical-cowl",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie",
     "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/editors",
     "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/comments",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/people",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie",
+    "https://www.ravelry.com/patterns/library/botanical-cowl",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/report",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/posts",
+    "https://www.ravelry.com/patterns/library/leafy-washcloth",
+    "https://www.ravelry.com/patterns/sources/tricksy-knitter",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/yarns",
     "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/threads",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/posts"
+    "https://www.ravelry.com/patterns/library/tiny-pants",
+    "https://www.ravelry.com/patterns/sources/tricksy-knitter-website"
   ]
 }

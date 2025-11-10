@@ -7,6 +7,9 @@
   "category": "Containers",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "8\" x 8\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Berroco Macro",
     "Jumbo (0-4 wpi) ?"
@@ -20,16 +23,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/quick-bulky-mitten",
-    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/comments",
-    "https://www.ravelry.com/patterns/library/its-just-a-crochet-basket",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/yarns",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/editors",
-    "https://www.ravelry.com/patterns/library/versa-cowl",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/people",
     "https://www.ravelry.com/patterns/library/lollygag",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/report"
+    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/editors",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/report",
+    "https://www.ravelry.com/patterns/library/quick-bulky-mitten",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/people",
+    "https://www.ravelry.com/patterns/library/its-just-a-crochet-basket",
+    "https://www.ravelry.com/patterns/library/versa-cowl",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/comments",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/yarns"
   ]
 }

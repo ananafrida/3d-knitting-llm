@@ -4,9 +4,12 @@
   "category": "Hat → Beanie, Toque Costume",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Adult",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Fios Pingouin Super Cable"
+    "Fios Pingouin Super Cable",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -21,18 +24,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/threads",
-    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat",
     "https://www.ravelry.com/patterns/library/gosling-hat",
-    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/editors",
-    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/yarns",
-    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/people",
-    "https://www.ravelry.com/patterns/sources/knitting-and",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat",
     "https://www.ravelry.com/patterns/library/jayne-hat-2",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/report",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/threads",
+    "https://www.ravelry.com/patterns/sources/knitting-and",
     "http://www.knitting-and.com/knitting/patterns/hats/pumpkin-hat.htm",
     "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/posts",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/editors",
     "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/comments",
-    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/report"
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/people",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/yarns"
   ],
   "name": "Ravelry: Adult Size Pumpkin Hat pattern by Maggie Burns"
 }

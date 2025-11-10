@@ -7,6 +7,9 @@
   "category": "Ball",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "sizes_available": "2 1/4\" sphere",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Lion Brand Bonbons (Metallic)"
@@ -23,16 +26,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/report",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/threads",
-    "https://www.ravelry.com/patterns/library/st-augustine-socks",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/comments",
     "https://www.ravelry.com/patterns/library/ribbon-candy-ornaments",
-    "https://www.ravelry.com/patterns/library/fuchsia-flounce-socks",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/editors",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/people",
+    "https://www.ravelry.com/patterns/library/st-augustine-socks",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/threads",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/comments",
     "https://www.ravelry.com/patterns/library/swirl-ball-mystery/yarns",
-    "https://www.ravelry.com/patterns/sources/holiday-mystery-gifts-yahoo-group"
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/people",
+    "https://www.ravelry.com/patterns/library/fuchsia-flounce-socks",
+    "https://www.ravelry.com/patterns/sources/holiday-mystery-gifts-yahoo-group",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/editors",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/report"
   ]
 }

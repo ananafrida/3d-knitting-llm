@@ -7,6 +7,9 @@
   "category": "Blocks",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Worsted (9 wpi) ?",
     "Lion Brand Cotton-Ease 50/50"
@@ -23,16 +26,16 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table",
-    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/report",
-    "https://www.ravelry.com/patterns/library/compass-rose-4",
-    "https://www.ravelry.com/patterns/sources/spotted-dog",
-    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/yarns",
-    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/comments",
-    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/editors",
-    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/people",
-    "https://www.ravelry.com/patterns/library/spring-semester",
     "https://www.ravelry.com/patterns/library/fall-semester",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/comments",
+    "https://www.ravelry.com/patterns/library/spring-semester",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/people",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/report",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/yarns",
+    "https://www.ravelry.com/patterns/sources/spotted-dog",
+    "https://www.ravelry.com/patterns/library/compass-rose-4",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/editors",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table",
     "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/threads"
   ]
 }

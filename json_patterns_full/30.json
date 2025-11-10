@@ -7,9 +7,12 @@
   "category": "Afghan block",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "12\" square",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Lion Brand Vanna's Choice"
+    "Lion Brand Vanna's Choice",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -20,17 +23,17 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/editors",
+    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/report",
+    "https://www.ravelry.com/patterns/sources/designs-by-muggins",
+    "https://www.ravelry.com/patterns/library/muggs-monkey-coffee-cup-cosy-warmer-protector",
+    "https://www.ravelry.com/patterns/library/9-lucky-4-leaf-afghan-block",
+    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/yarns",
+    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/threads",
     "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/posts",
     "https://www.ravelry.com/patterns/library/jojo-dahlia-9-knit-afghan-block-square",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/report",
-    "https://www.ravelry.com/patterns/library/muggs-monkey-coffee-cup-cosy-warmer-protector",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/people",
+    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/editors",
+    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/comments",
     "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/yarns",
-    "https://www.ravelry.com/patterns/sources/designs-by-muggins",
-    "https://www.ravelry.com/patterns/library/9-lucky-4-leaf-afghan-block",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/threads",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/comments"
+    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/people"
   ]
 }

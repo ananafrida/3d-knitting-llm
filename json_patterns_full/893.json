@@ -7,6 +7,10 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English",
+    "Additional languages which are not in the download: Danish"
+  ],
   "suggested_yarn": [
     "ONION Knit No. 4 Organic Wool + Nettles",
     "DK (11 wpi) ?"
@@ -22,12 +26,12 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/infinity-scarf-92",
-    "https://www.ravelry.com/patterns/library/infinity-scarf-92/editors",
-    "https://www.ravelry.com/patterns/sources/kreativiteket",
-    "https://www.ravelry.com/patterns/library/gecko-scarf-2",
     "https://www.ravelry.com/patterns/library/infinity-scarf-92/comments",
-    "https://www.ravelry.com/patterns/library/infinity-scarf-92/yarns",
+    "https://www.ravelry.com/patterns/library/infinity-scarf-92/people",
+    "https://www.ravelry.com/patterns/library/infinity-scarf-92/editors",
+    "https://www.ravelry.com/patterns/library/gecko-scarf-2",
+    "https://www.ravelry.com/patterns/sources/kreativiteket",
     "https://www.ravelry.com/patterns/library/infinity-scarf-92/report",
-    "https://www.ravelry.com/patterns/library/infinity-scarf-92/people"
+    "https://www.ravelry.com/patterns/library/infinity-scarf-92/yarns"
   ]
 }

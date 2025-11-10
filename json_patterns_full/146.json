@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Blocks",
   "sizes_available": "my version is 13x13x13 cm (5x5x5 inches)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -26,16 +29,16 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/andrea-trooperschafs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/people",
-    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises",
-    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/editors",
-    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/comments",
-    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/yarns",
-    "https://www.ravelry.com/patterns/library/sea-shepherd-logo-chart",
-    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/report",
-    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/threads",
     "https://www.ravelry.com/patterns/library/nerd-herd-logo-chart",
-    "https://www.ravelry.com/patterns/library/alien-pillow-weyland-yutani"
+    "https://www.ravelry.com/patterns/library/sea-shepherd-logo-chart",
+    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/threads",
+    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/report",
+    "https://www.ravelry.com/patterns/library/alien-pillow-weyland-yutani",
+    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/editors",
+    "https://www.ravelry.com/patterns/sources/andrea-trooperschafs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/yarns",
+    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/comments",
+    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises",
+    "https://www.ravelry.com/patterns/library/roll-the-dice---movie-franchises/people"
   ]
 }

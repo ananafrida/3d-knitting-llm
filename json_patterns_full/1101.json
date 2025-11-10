@@ -7,6 +7,10 @@
   "category": "Tops → Tee",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Finished bust circumference : 86 (98 / 110 / 122 / 134 / 146 / 158 / 170 / 182 / 194) cm - 33 ¾ (38 ½ / 43 ¼ / 48 / 52 ¾ / 57 ½ / 62 ¼ / 67 / 71 ¾ / 76 ¼)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "Adriafil Cheope",
     "DK (11 wpi) ?"
@@ -37,16 +41,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/zinnie/report",
-    "https://www.ravelry.com/patterns/library/zinnie",
-    "https://www.ravelry.com/patterns/library/zinnie/yarns",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/zinnie/threads",
-    "https://www.ravelry.com/patterns/library/telluric",
     "https://www.ravelry.com/patterns/library/marella-2",
-    "https://www.ravelry.com/patterns/library/cervion",
-    "https://www.ravelry.com/patterns/library/zinnie/editors",
+    "https://www.ravelry.com/patterns/library/telluric",
     "https://www.ravelry.com/patterns/library/zinnie/people",
-    "https://www.ravelry.com/patterns/library/zinnie/comments"
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/zinnie/comments",
+    "https://www.ravelry.com/patterns/library/zinnie/report",
+    "https://www.ravelry.com/patterns/library/zinnie/editors",
+    "https://www.ravelry.com/patterns/library/zinnie/yarns",
+    "https://www.ravelry.com/patterns/library/zinnie/threads",
+    "https://www.ravelry.com/patterns/library/cervion",
+    "https://www.ravelry.com/patterns/library/zinnie"
   ]
 }

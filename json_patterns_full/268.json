@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Pet → Toys",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Brown Sheep Lamb's Pride Worsted"
+    "Brown Sheep Lamb's Pride Worsted",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "felted",
@@ -19,19 +22,19 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/quack-duck-toy/editors",
-    "https://www.ravelry.com/patterns/library/quack-duck-toy/people",
-    "https://www.ravelry.com/patterns/library/storm-cloud-shawlette",
     "https://www.ravelry.com/patterns/library/quack-duck-toy/yarns",
-    "http://evergreenknits.blogspot.com/2008/10/quack-pattern.html",
-    "https://www.ravelry.com/patterns/library/quack-duck-toy/report",
+    "https://www.ravelry.com/patterns/library/quack-duck-toy/people",
+    "https://www.ravelry.com/patterns/library/quack-duck-toy/editors",
     "https://www.ravelry.com/patterns/library/sprout-blanket",
-    "https://www.ravelry.com/patterns/sources/ever-green-knits-blog",
     "https://www.ravelry.com/patterns/library/quack-duck-toy/comments",
-    "https://www.ravelry.com/patterns/library/quack-duck-toy/threads",
+    "https://www.ravelry.com/patterns/library/quack-duck-toy/report",
+    "https://www.ravelry.com/patterns/library/cambridge-watchcap",
+    "https://www.ravelry.com/patterns/library/storm-cloud-shawlette",
     "https://www.ravelry.com/patterns/library/quack-duck-toy/posts",
     "https://www.ravelry.com/patterns/library/quack-duck-toy",
-    "https://www.ravelry.com/patterns/library/cambridge-watchcap"
+    "http://evergreenknits.blogspot.com/2008/10/quack-pattern.html",
+    "https://www.ravelry.com/patterns/sources/ever-green-knits-blog",
+    "https://www.ravelry.com/patterns/library/quack-duck-toy/threads"
   ],
   "name": "Ravelry: Quack Duck Toy pattern by Hanna Breetz"
 }

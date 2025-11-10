@@ -5,6 +5,9 @@
   "designer": "Holly Terrell",
   "craft": "Knitting",
   "category": "Afghan block",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Any gauge - designed for any gauge ?"
   ],
@@ -22,16 +25,16 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/sources/corvidae-designs",
-    "https://www.ravelry.com/patterns/library/spira-mitts",
-    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/threads",
     "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square",
-    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/posts",
     "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/yarns",
-    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/editors",
-    "https://www.ravelry.com/patterns/library/bamboo-field-mitts",
+    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/threads",
     "https://www.ravelry.com/patterns/library/swan-maiden-mitts",
     "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/people",
-    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/comments",
-    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/report"
+    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/posts",
+    "https://www.ravelry.com/patterns/library/bamboo-field-mitts",
+    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/editors",
+    "https://www.ravelry.com/patterns/library/spira-mitts",
+    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/report",
+    "https://www.ravelry.com/patterns/library/any-size-any-yarn-garter-square/comments"
   ]
 }

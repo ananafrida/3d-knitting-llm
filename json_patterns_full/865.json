@@ -7,6 +7,9 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "Finished measurements: 67\" x 14\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Alexandra the Art of Yarn Dark Side of the Moon"
@@ -20,17 +23,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/k1love1-ravelry-store-2",
-    "https://www.ravelry.com/patterns/library/the-bright-side",
     "https://www.ravelry.com/patterns/library/k1fade1",
-    "https://www.ravelry.com/patterns/library/the-bright-side/comments",
     "https://www.ravelry.com/patterns/library/the-bright-side/posts",
-    "https://www.ravelry.com/patterns/library/the-bright-side/people",
-    "https://www.ravelry.com/patterns/library/happy-medium",
-    "https://www.ravelry.com/patterns/library/june-skies",
-    "https://www.ravelry.com/patterns/library/the-bright-side/report",
+    "https://www.ravelry.com/patterns/sources/k1love1-ravelry-store-2",
+    "https://www.ravelry.com/patterns/library/the-bright-side/comments",
     "https://www.ravelry.com/patterns/library/the-bright-side/editors",
+    "https://www.ravelry.com/patterns/library/the-bright-side/report",
+    "https://www.ravelry.com/patterns/library/happy-medium",
+    "https://www.ravelry.com/patterns/library/the-bright-side/people",
+    "https://www.ravelry.com/patterns/library/june-skies",
     "https://www.ravelry.com/patterns/library/the-bright-side/yarns",
+    "https://www.ravelry.com/patterns/library/the-bright-side",
     "https://www.ravelry.com/patterns/library/the-bright-side/threads"
   ]
 }

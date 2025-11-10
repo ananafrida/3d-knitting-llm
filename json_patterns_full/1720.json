@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
   "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Caron Simply Soft",
     "Aran (8 wpi) ?"
@@ -24,13 +27,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cable-round-the-brim",
-    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/yarns",
     "https://www.ravelry.com/patterns/library/multi-pack-band-aid/report",
-    "https://www.ravelry.com/patterns/sources/brandi-dixons-ravelry-store",
+    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/yarns",
+    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/editors",
     "https://www.ravelry.com/patterns/library/multi-pack-band-aid/people",
+    "https://www.ravelry.com/patterns/library/cable-round-the-brim",
     "https://www.ravelry.com/patterns/library/multi-pack-band-aid",
     "https://www.ravelry.com/patterns/library/multi-pack-band-aid/comments",
-    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/editors"
+    "https://www.ravelry.com/patterns/sources/brandi-dixons-ravelry-store"
   ]
 }

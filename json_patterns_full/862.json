@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "One Size 95\" wide x 14\" deep",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Mirasol Yarn Chusku"
+    "Mirasol Yarn Chusku",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "cables",
@@ -21,15 +24,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/editors",
-    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/comments",
-    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
-    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/report",
-    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era",
     "https://www.ravelry.com/patterns/library/its-just-a-crochet-basket",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/edit",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era",
     "https://www.ravelry.com/patterns/library/just-keep-swimming-cowl-2",
-    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/yarns",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/editors",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/report",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/comments",
     "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/people",
-    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/edit"
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/yarns",
+    "https://www.ravelry.com/patterns/sources/darn-knit-anyway"
   ]
 }

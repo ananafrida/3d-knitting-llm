@@ -7,6 +7,9 @@
   "category": "Tops → Tee",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "35.5” to 50” chest",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "yarn held together"
@@ -28,16 +31,16 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/alberta-sunshine/threads",
-    "https://www.ravelry.com/patterns/library/alberta-sunshine/comments",
-    "https://www.ravelry.com/patterns/library/cirrus-mitts-2",
-    "https://www.ravelry.com/patterns/sources/sandra-buzzas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/alberta-sunshine",
-    "https://www.ravelry.com/patterns/library/alberta-summer",
-    "https://www.ravelry.com/patterns/library/alberta-sunshine/editors",
-    "https://www.ravelry.com/patterns/library/alberta-vacation",
-    "https://www.ravelry.com/patterns/library/alberta-sunshine/yarns",
     "https://www.ravelry.com/patterns/library/alberta-sunshine/report",
-    "https://www.ravelry.com/patterns/library/alberta-sunshine/people"
+    "https://www.ravelry.com/patterns/library/alberta-vacation",
+    "https://www.ravelry.com/patterns/library/alberta-sunshine/threads",
+    "https://www.ravelry.com/patterns/library/alberta-summer",
+    "https://www.ravelry.com/patterns/library/cirrus-mitts-2",
+    "https://www.ravelry.com/patterns/library/alberta-sunshine/comments",
+    "https://www.ravelry.com/patterns/library/alberta-sunshine/yarns",
+    "https://www.ravelry.com/patterns/library/alberta-sunshine/people",
+    "https://www.ravelry.com/patterns/sources/sandra-buzzas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/alberta-sunshine/editors",
+    "https://www.ravelry.com/patterns/library/alberta-sunshine"
   ]
 }

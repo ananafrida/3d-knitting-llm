@@ -7,9 +7,12 @@
   "category": "Decorative → Other",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lily (Spinrite) Sugar'n Cream Crafter's Cotton Make it Quick Solids"
+    "Lily (Spinrite) Sugar'n Cream Crafter's Cotton Make it Quick Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -24,16 +27,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/threads",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/editors",
-    "https://www.ravelry.com/patterns/sources/sara-kiesels-ravelry-store",
-    "https://www.ravelry.com/patterns/library/faux-bow-hairband",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin",
     "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/report",
-    "https://www.ravelry.com/patterns/library/socks-machina-socks",
     "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/comments",
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/editors",
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/threads",
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin",
+    "https://www.ravelry.com/patterns/library/socks-machina-socks",
     "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/people",
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/yarns",
+    "https://www.ravelry.com/patterns/library/faux-bow-hairband",
     "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/posts",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/yarns"
+    "https://www.ravelry.com/patterns/sources/sara-kiesels-ravelry-store"
   ]
 }

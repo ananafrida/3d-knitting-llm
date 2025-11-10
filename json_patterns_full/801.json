@@ -7,9 +7,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "XS (S, M, L, XL, 2XL, 3XL, 4XL)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lion Brand LB Collection Cotton Jeans"
+    "Lion Brand LB Collection Cotton Jeans",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -32,18 +35,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/two-of-wands",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/threads",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/posts",
     "https://www.ravelry.com/patterns/library/clubhouse-raglan-hoodie",
     "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/editors",
-    "https://www.ravelry.com/patterns/library/streamline-tank",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/yarns",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/report",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/comments",
     "https://www.ravelry.com/patterns/library/winter-league-pullover",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/posts",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover",
+    "https://www.ravelry.com/patterns/library/streamline-tank",
     "https://www.ravelry.com/patterns/library/autumn-league-pullover/people",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/comments"
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/report",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/editors",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/yarns",
+    "https://www.ravelry.com/patterns/sources/two-of-wands",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/threads"
   ]
 }

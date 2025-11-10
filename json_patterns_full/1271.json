@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Softies → Animal",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Cascade Yarns ® Sunseeker®"
+    "Cascade Yarns ® Sunseeker®",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -26,16 +29,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/posts",
-    "https://www.ravelry.com/patterns/library/colorshift-shawlette---kerchief",
-    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/yarns",
-    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/editors",
-    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/comments",
     "https://www.ravelry.com/patterns/library/lavender-socks-2",
-    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/threads",
-    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/people",
+    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/posts",
+    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/comments",
+    "https://www.ravelry.com/patterns/library/colorshift-shawlette---kerchief",
     "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/report",
     "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp",
+    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/yarns",
+    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/people",
+    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/threads",
+    "https://www.ravelry.com/patterns/library/laprawnda-the-shrimp/editors",
     "https://www.ravelry.com/patterns/sources/ashley-dorian-medwigs-ravelry-store"
   ]
 }

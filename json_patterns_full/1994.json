@@ -3,6 +3,10 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "sizes_available": "Shoe size EU 17-49/ UK 3 JNR - 13,5",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Woolly Hugs Year Socks"
@@ -22,17 +26,17 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/krawatte---knitted-tie-strickkult",
+    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/yarns",
     "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel",
-    "https://www.ravelry.com/patterns/library/babysocken--baby-socks",
-    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/editors",
+    "https://www.ravelry.com/patterns/sources/addi-website",
+    "https://www.ravelry.com/patterns/library/doppelmutze--double-layer-beanie-on-addiexpress",
+    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/report",
     "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/people",
     "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/comments",
-    "https://www.ravelry.com/patterns/library/doppelmutze--double-layer-beanie-on-addiexpress",
     "https://www.ravelry.com/patterns/sources/addi2go-app",
-    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/report",
-    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/yarns",
-    "https://www.ravelry.com/patterns/sources/addi-website"
+    "https://www.ravelry.com/patterns/library/babysocken--baby-socks",
+    "https://www.ravelry.com/patterns/library/krawatte---knitted-tie-strickkult",
+    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/editors"
   ],
   "name": "Ravelry: addi Zunahmeferse/ fleegle heel pattern by addi by Selter"
 }

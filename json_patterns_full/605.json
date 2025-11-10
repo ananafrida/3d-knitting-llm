@@ -4,9 +4,12 @@
   "category": "Blanket → Baby Blanket",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "25 inches wide x 32 inches long",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Purl Soho Serif"
+    "Purl Soho Serif",
+    "yarn held together"
   ],
   "attributes": [
     "bottom-up",
@@ -22,16 +25,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-serif",
-    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-serif/people",
     "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-serif/comments",
+    "https://www.ravelry.com/patterns/library/simply-the-best-cardigan-for-babies--toddlers",
     "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-serif/yarns",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-serif/report",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-serif",
     "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-serif/editors",
     "https://www.ravelry.com/patterns/library/softest-cotton-washcloth--bath-mat",
-    "https://www.ravelry.com/patterns/library/simply-the-best-cardigan-for-babies--toddlers",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-serif/people",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-serif/report"
+    "https://www.ravelry.com/patterns/sources/purl-soho"
   ],
   "name": "Ravelry: Chevron Baby Blanket in Serif pattern by Purl Soho"
 }

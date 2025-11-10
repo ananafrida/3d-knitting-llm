@@ -7,9 +7,12 @@
   "category": "Toys and Hobbies → Other",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Dina's Home of Crafts Mohair"
+    "Dina's Home of Crafts Mohair",
+    "yarn held together"
   ],
   "attributes": [
     "icord",
@@ -22,15 +25,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/heather-and-hops-on-ko-fi",
-    "https://www.ravelry.com/patterns/sources/katt-weavers-ravelry-store",
     "https://www.ravelry.com/patterns/library/knitted-roller-skate-toe-guards/report",
+    "https://www.ravelry.com/patterns/library/knitted-roller-skate-toe-guards/people",
+    "https://www.ravelry.com/patterns/sources/heather-and-hops-on-ko-fi",
     "https://www.ravelry.com/patterns/library/sithean-tabard",
     "https://www.ravelry.com/patterns/library/brackenside-pines-jumper",
-    "https://www.ravelry.com/patterns/library/knitted-roller-skate-toe-guards/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-roller-skate-toe-guards",
+    "https://www.ravelry.com/patterns/sources/katt-weavers-ravelry-store",
     "https://www.ravelry.com/patterns/library/knitted-roller-skate-toe-guards/comments",
-    "https://www.ravelry.com/patterns/library/knitted-roller-skate-toe-guards/people",
+    "https://www.ravelry.com/patterns/library/knitted-roller-skate-toe-guards",
+    "https://www.ravelry.com/patterns/library/knitted-roller-skate-toe-guards/yarns",
     "https://www.ravelry.com/patterns/library/hairst-scarf-and-cowl",
     "https://www.ravelry.com/patterns/library/knitted-roller-skate-toe-guards/editors"
   ]

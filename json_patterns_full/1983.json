@@ -4,6 +4,10 @@
   "category": "Components → Other",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "60/64/68/72 M/sts",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?"
   ],
@@ -16,16 +20,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/eifelsterns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/schleudersternspitze",
     "https://www.ravelry.com/patterns/library/schleudersternspitze/comments",
-    "https://www.ravelry.com/patterns/library/schleudersternspitze/people",
-    "https://www.ravelry.com/patterns/library/kleeblatt-glucksbringer",
-    "https://www.ravelry.com/patterns/library/zopf-an-zopf-mal-anders",
+    "https://www.ravelry.com/patterns/library/schleudersternspitze",
     "https://www.ravelry.com/patterns/library/schleudersternspitze/editors",
     "https://www.ravelry.com/patterns/library/schleudersternspitze/report",
-    "https://www.ravelry.com/patterns/library/schleudersternspitze/yarns",
-    "https://www.ravelry.com/patterns/library/beerige-reste"
+    "https://www.ravelry.com/patterns/library/kleeblatt-glucksbringer",
+    "https://www.ravelry.com/patterns/library/beerige-reste",
+    "https://www.ravelry.com/patterns/library/schleudersternspitze/people",
+    "https://www.ravelry.com/patterns/library/zopf-an-zopf-mal-anders",
+    "https://www.ravelry.com/patterns/sources/eifelsterns-ravelry-store",
+    "https://www.ravelry.com/patterns/library/schleudersternspitze/yarns"
   ],
   "name": "Ravelry: Schleudersternspitze pattern by Heike kreativ"
 }

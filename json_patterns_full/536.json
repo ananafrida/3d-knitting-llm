@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "One size but easy to adjust",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Filcolana Arwetta"
+    "Filcolana Arwetta",
+    "yarn held together"
   ],
   "attributes": [
     "eyelets",
@@ -20,16 +23,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/an-italian-bandana",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/comments",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/report",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/editors",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/people",
-    "https://www.ravelry.com/patterns/library/an-italian-winter-shawl",
+    "https://www.ravelry.com/patterns/library/an-italian-summer-scarf",
     "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/threads",
     "https://www.ravelry.com/patterns/sources/an-italian-knitters-ravelry-store",
-    "https://www.ravelry.com/patterns/library/an-italian-summer-scarf"
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/threads",
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/comments",
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/editors",
+    "https://www.ravelry.com/patterns/library/an-italian-winter-shawl",
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/report",
+    "https://www.ravelry.com/patterns/library/an-italian-bandana",
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/people"
   ]
 }

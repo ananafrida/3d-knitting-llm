@@ -4,9 +4,12 @@
   "category": "Softies → Animal",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Garnstudio DROPS Baby Merino",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Baby Merino"
   ],
   "attributes": [
     "3-dimensional",
@@ -19,17 +22,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs/yarns",
-    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs/people",
-    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs/editors",
     "https://www.ravelry.com/patterns/library/rabbits--easter-eggs",
+    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs/yarns",
     "https://www.ravelry.com/patterns/library/rabbits--easter-eggs/comments",
-    "https://www.ravelry.com/patterns/library/lobster-toy",
+    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs/people",
     "https://www.ravelry.com/patterns/library/rabbits--easter-eggs/report",
-    "https://www.moumouknits.com/post/free-easy-knitting-pattern-cute-rabbits-easter-eggs-for-beginners",
-    "https://www.ravelry.com/patterns/library/bear-toy-3",
     "https://www.ravelry.com/patterns/library/pinchy-the-crab",
-    "https://www.ravelry.com/patterns/sources/mou-mou-knits"
+    "https://www.ravelry.com/patterns/library/bear-toy-3",
+    "https://www.ravelry.com/patterns/sources/mou-mou-knits",
+    "https://www.ravelry.com/patterns/library/lobster-toy",
+    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs/editors",
+    "https://www.moumouknits.com/post/free-easy-knitting-pattern-cute-rabbits-easter-eggs-for-beginners"
   ],
   "name": "Ravelry: Rabbits & Easter Eggs pattern by Mou Mou Knits"
 }

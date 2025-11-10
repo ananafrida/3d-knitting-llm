@@ -7,9 +7,12 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "infant, with mods for toddler & child",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Brown Sheep Cotton Fleece"
+    "Brown Sheep Cotton Fleece",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -33,16 +36,16 @@
   ],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/report",
     "https://www.ravelry.com/patterns/library/berry-baby-hat/threads",
     "https://www.ravelry.com/patterns/library/berry-baby-hat/yarns",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/people",
-    "https://www.ravelry.com/patterns/library/scrubby-buddy-soap-holder",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/comments",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/report",
-    "https://www.ravelry.com/patterns/sources/randomstitches-2",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/posts",
     "https://www.ravelry.com/patterns/library/my-outie-hat",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/editors",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat"
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/posts",
+    "https://www.ravelry.com/patterns/library/scrubby-buddy-soap-holder",
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/people",
+    "https://www.ravelry.com/patterns/library/berry-baby-hat",
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/comments",
+    "https://www.ravelry.com/patterns/sources/randomstitches-2",
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/editors"
   ]
 }

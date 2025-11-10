@@ -4,6 +4,9 @@
   "category": "Costume Hat → Other",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "3-9 months",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -20,19 +23,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/viking-hat/yarns",
+    "https://www.ravelry.com/patterns/library/viking-hat/comments",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/viking-hat/people",
+    "https://www.ravelry.com/patterns/sources/chile-con-yarne",
+    "https://www.ravelry.com/patterns/library/viking-hat/edit",
     "https://www.ravelry.com/patterns/library/viking-hat/posts",
     "https://www.ravelry.com/patterns/library/viking-hat/editors",
-    "https://www.ravelry.com/patterns/library/viking-hat/people",
-    "https://www.ravelry.com/patterns/library/viking-hat",
-    "https://www.ravelry.com/patterns/library/pineapple-hat",
-    "https://www.ravelry.com/patterns/sources/chile-con-yarne",
-    "https://www.ravelry.com/patterns/library/viking-hat/threads",
-    "https://www.ravelry.com/patterns/library/viking-hat/comments",
-    "https://www.ravelry.com/patterns/library/viking-hat/report",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
     "https://www.ravelry.com/patterns/library/gingers-hat",
-    "https://www.ravelry.com/patterns/library/viking-hat/edit",
+    "https://www.ravelry.com/patterns/library/pineapple-hat",
+    "https://www.ravelry.com/patterns/library/viking-hat/yarns",
+    "https://www.ravelry.com/patterns/library/viking-hat/threads",
+    "https://www.ravelry.com/patterns/library/viking-hat/report",
+    "https://www.ravelry.com/patterns/library/viking-hat",
     "https://www.ravelry.com/patterns/library/cupcake-hat-38"
   ],
   "name": "Ravelry: Viking Hat pattern by Becky Veverka"

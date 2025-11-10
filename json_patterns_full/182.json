@@ -5,9 +5,12 @@
   "designer": "Anne Hanson",
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "felted",
@@ -19,16 +22,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/bare-naked-wools",
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/editors",
-    "https://www.ravelry.com/patterns/library/box-top-smock",
-    "https://www.ravelry.com/patterns/sources/knitspot-ravelry-shop",
-    "https://www.ravelry.com/patterns/library/summershine-top",
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag",
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/report",
     "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/comments",
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/people",
     "https://www.ravelry.com/patterns/library/rust-belt-river-vest",
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/yarns"
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag",
+    "https://www.ravelry.com/patterns/library/box-top-smock",
+    "https://www.ravelry.com/patterns/library/summershine-top",
+    "https://www.ravelry.com/patterns/sources/bare-naked-wools",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/report",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/yarns",
+    "https://www.ravelry.com/patterns/sources/knitspot-ravelry-shop",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/people",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/editors"
   ]
 }

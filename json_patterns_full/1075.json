@@ -7,6 +7,10 @@
   "category": "Tops → Tee",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "Finished Bust Circ : 78 (85 / 93 / 102 / 112), 122 (131 / 142 / 151 / 162) cm – 30 ¾ (33 ½ / 36 ½ / 40 ¼ / 44), 48 (51 ½ / 56 / 59 ½ / 63 ¾)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "Schachenmayr Catania Solids",
     "Sport (12 wpi) ?"
@@ -38,16 +42,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hermeline/report",
-    "https://www.ravelry.com/patterns/library/hermeline/editors",
-    "https://www.ravelry.com/patterns/library/sophorine",
-    "https://www.ravelry.com/patterns/library/hermeline",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
     "https://www.ravelry.com/patterns/library/hermeline/yarns",
     "https://www.ravelry.com/patterns/library/telesto",
-    "https://www.ravelry.com/patterns/library/oread",
+    "https://www.ravelry.com/patterns/library/hermeline",
     "https://www.ravelry.com/patterns/library/hermeline/comments",
+    "https://www.ravelry.com/patterns/library/oread",
+    "https://www.ravelry.com/patterns/library/hermeline/report",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sophorine",
+    "https://www.ravelry.com/patterns/library/hermeline/people",
     "https://www.ravelry.com/patterns/library/hermeline/threads",
-    "https://www.ravelry.com/patterns/library/hermeline/people"
+    "https://www.ravelry.com/patterns/library/hermeline/editors"
   ]
 }

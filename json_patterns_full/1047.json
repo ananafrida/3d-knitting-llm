@@ -7,6 +7,9 @@
   "category": "Tops → Tee",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "1, 2, 3 (4, 5, 6) [7, 8, 9] = Garment bust circumferences of 79, 89, 99 (109, 119, 130) [140, 150, 160] cm or 31, 35, 39 (43, 47, 51) [55, 59, 63] inches",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Worsted (9 wpi) ?",
     "Oh Folks Co Cloud Cotton"
@@ -35,17 +38,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jellyfish-cami",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top/comments",
     "https://www.knittygrittysg.com/my-patterns/picnic-folks-top",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top/yarns",
-    "https://www.ravelry.com/patterns/library/moonlight-vest",
+    "https://www.ravelry.com/patterns/library/jellyfish-cami",
     "https://www.ravelry.com/patterns/library/picnic-folks-top/threads",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top/report",
-    "https://www.ravelry.com/patterns/library/aiyu-tee",
-    "https://www.ravelry.com/patterns/sources/knittygrittysg",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/comments",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/yarns",
     "https://www.ravelry.com/patterns/library/picnic-folks-top/editors",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top/people"
+    "https://www.ravelry.com/patterns/sources/knittygrittysg",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/people",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/report",
+    "https://www.ravelry.com/patterns/library/moonlight-vest",
+    "https://www.ravelry.com/patterns/library/aiyu-tee",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top"
   ]
 }

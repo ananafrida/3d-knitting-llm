@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Costume Hat → Other",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Malabrigo Yarn Worsted",
     "yarn held together"
@@ -19,19 +22,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/comments",
     "https://www.ravelry.com/patterns/library/almost-fingerless-gloves",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/posts",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/people",
     "https://www.ravelry.com/patterns/library/mutant-bunny-hat/yarns",
     "https://www.ravelry.com/patterns/library/mutant-bunny-hat",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/people",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/editors",
-    "http://fiberfiend6891.wordpress.com/free-patterns/mutant-bunny-hat/",
-    "https://www.ravelry.com/patterns/library/rachels-knitting-olympics-poncho",
     "https://www.ravelry.com/patterns/library/mutant-bunny-hat/threads",
-    "https://www.ravelry.com/patterns/library/celtic-socks-2",
+    "https://www.ravelry.com/patterns/library/rachels-knitting-olympics-poncho",
+    "http://fiberfiend6891.wordpress.com/free-patterns/mutant-bunny-hat/",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/comments",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/editors",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/report",
     "https://www.ravelry.com/patterns/sources/rachels-ramblings-fiberfiend6891",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/report"
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/posts",
+    "https://www.ravelry.com/patterns/library/celtic-socks-2"
   ],
   "name": "Ravelry: Mutant Bunny Hat pattern by Rachel Kurchin"
 }

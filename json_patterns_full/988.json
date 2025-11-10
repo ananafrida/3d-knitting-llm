@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Ball",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lily (Spinrite) Sugar'n Cream Solids"
+    "Lily (Spinrite) Sugar'n Cream Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -15,16 +18,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/proton-stream-convergence",
+    "https://www.ravelry.com/patterns/library/four-cables-slouch",
     "http://diagnosisknitter.wordpress.com/2011/07/10/im-so-lazy-heres-a-hacky-sack-pattern/",
     "https://www.ravelry.com/patterns/library/pea-pod-snuggle-sack",
-    "https://www.ravelry.com/patterns/library/proton-stream-convergence",
     "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/people",
-    "https://www.ravelry.com/patterns/sources/diagnosis-knitter",
+    "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/editors",
     "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/report",
     "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/comments",
-    "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/editors",
-    "https://www.ravelry.com/patterns/library/four-cables-slouch",
     "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/threads",
+    "https://www.ravelry.com/patterns/sources/diagnosis-knitter",
     "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/yarns",
     "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack"
   ],

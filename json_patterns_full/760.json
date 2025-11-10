@@ -7,9 +7,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "35.5 (39, 42.5, 46, 50, 53.5, 58, 61.5, 64)\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Spincycle Yarns Dyed in the Wool"
+    "Spincycle Yarns Dyed in the Wool",
+    "yarn held together"
   ],
   "attributes": [
     "3-4-sleeve",
@@ -23,17 +26,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/laura-pullover-4/editors",
-    "https://www.ravelry.com/patterns/library/laura-pullover-4/threads",
     "https://www.ravelry.com/patterns/library/fancy-6",
-    "https://www.ravelry.com/patterns/library/laura-pullover-4/people",
-    "https://www.ravelry.com/patterns/library/laura-pullover-4/comments",
-    "https://www.ravelry.com/patterns/library/varsity-sweater-5",
-    "https://www.ravelry.com/patterns/library/laura-pullover-4/report",
     "https://www.ravelry.com/patterns/library/laura-pullover-4",
+    "https://www.ravelry.com/patterns/library/laura-pullover-4/report",
     "https://www.ravelry.com/patterns/sources/the-lamb--kid",
     "https://www.ravelry.com/patterns/library/sherbet-bandana",
+    "https://www.ravelry.com/patterns/library/laura-pullover-4/comments",
+    "https://www.ravelry.com/patterns/library/laura-pullover-4/people",
+    "https://www.ravelry.com/patterns/library/laura-pullover-4/yarns",
     "https://www.ravelry.com/patterns/sources/the-lamb--kid-designs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/laura-pullover-4/yarns"
+    "https://www.ravelry.com/patterns/library/varsity-sweater-5",
+    "https://www.ravelry.com/patterns/library/laura-pullover-4/threads",
+    "https://www.ravelry.com/patterns/library/laura-pullover-4/editors"
   ]
 }

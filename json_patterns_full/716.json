@@ -7,6 +7,9 @@
   "category": "Hat → Pixie",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "S (M, L)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Malabrigo Yarn Rios",
     "Worsted (9 wpi) ?"
@@ -29,20 +32,20 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hesh/people",
-    "https://www.ravelry.com/patterns/library/hesh/posts",
     "https://www.ravelry.com/patterns/library/hesh/comments",
-    "https://www.ravelry.com/patterns/library/hesh/report",
-    "https://www.ravelry.com/patterns/library/gestrikt",
-    "https://www.ravelry.com/patterns/library/tiny-kerchiefs",
-    "https://www.ravelry.com/patterns/library/hesh/yarns",
     "https://www.ravelry.com/patterns/library/hesh/editors",
-    "https://www.ravelry.com/patterns/sources/westknits-on-ravelry",
-    "https://www.ravelry.com/bundles/free-patterns-869",
-    "https://www.ravelry.com/patterns/library/hesh/threads",
-    "https://www.ravelry.com/patterns/sources/westknits-choreokal-stretch-it",
-    "https://www.ravelry.com/patterns/library/lyr",
+    "https://www.ravelry.com/patterns/library/hesh/posts",
     "https://www.ravelry.com/patterns/sources/malia-mae",
-    "https://www.ravelry.com/patterns/library/hesh"
+    "https://www.ravelry.com/patterns/sources/westknits-on-ravelry",
+    "https://www.ravelry.com/patterns/library/hesh",
+    "https://www.ravelry.com/patterns/library/hesh/people",
+    "https://www.ravelry.com/patterns/library/hesh/threads",
+    "https://www.ravelry.com/patterns/library/hesh/yarns",
+    "https://www.ravelry.com/patterns/library/gestrikt",
+    "https://www.ravelry.com/patterns/library/hesh/report",
+    "https://www.ravelry.com/patterns/library/lyr",
+    "https://www.ravelry.com/bundles/free-patterns-869",
+    "https://www.ravelry.com/patterns/sources/westknits-choreokal-stretch-it",
+    "https://www.ravelry.com/patterns/library/tiny-kerchiefs"
   ]
 }

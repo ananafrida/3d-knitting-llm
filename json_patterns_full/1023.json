@@ -7,9 +7,12 @@
   "category": "Tops → Tee",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "XS, (S, M, L, XL), (2X, 3X, 4X, 5X)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lion Brand Coboo"
+    "Lion Brand Coboo",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -41,18 +44,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/originally-lovely-ravelry-store",
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/threads",
-    "https://www.ravelry.com/patterns/library/simple-summer-tank-3",
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/editors",
+    "https://www.ravelry.com/patterns/sources/originally-lovely",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/report",
+    "https://www.originallylovely.com/blogs/knitting/perfect-knit-tshirt-knitting-pattern",
     "https://www.ravelry.com/patterns/library/brioche-ribbed-hat",
     "https://www.ravelry.com/patterns/library/perfect-crochet-t-shirt",
-    "https://www.ravelry.com/patterns/sources/originally-lovely",
-    "https://www.originallylovely.com/blogs/knitting/perfect-knit-tshirt-knitting-pattern",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/yarns",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/editors",
     "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/people",
     "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/comments",
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/report",
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/yarns",
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt"
+    "https://www.ravelry.com/patterns/library/simple-summer-tank-3",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/threads",
+    "https://www.ravelry.com/patterns/sources/originally-lovely-ravelry-store"
   ]
 }

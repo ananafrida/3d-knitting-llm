@@ -4,9 +4,12 @@
   "category": "Ball Blocks",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Moda Vera Marvel 8ply Plain"
+    "Moda Vera Marvel 8ply Plain",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "cube-shaped",
@@ -19,17 +22,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/comments",
     "https://www.ravelry.com/patterns/library/the-mau",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/people",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/editors",
     "https://www.ravelry.com/patterns/library/colour-cube--balls/report",
     "https://www.ravelry.com/patterns/library/garter-be-kidding-me",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/editors",
-    "https://www.ravelry.com/patterns/sources/knitkatpaddywhack",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/yarns",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls",
     "https://www.ravelry.com/patterns/library/colour-cube--balls/threads",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/people",
-    "https://www.ravelry.com/patterns/library/angelfish-beanie"
+    "https://www.ravelry.com/patterns/library/angelfish-beanie",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/comments",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/yarns",
+    "https://www.ravelry.com/patterns/sources/knitkatpaddywhack"
   ],
   "name": "Ravelry: Colour Cube + Balls pattern by Katherine Young"
 }

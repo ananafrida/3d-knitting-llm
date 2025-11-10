@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -19,13 +22,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/interlace-bag/comments",
-    "https://www.ravelry.com/patterns/library/interlace-bag/report",
-    "https://www.ravelry.com/patterns/library/interlace-bag/yarns",
-    "https://www.ravelry.com/patterns/library/interlace-bag/threads",
-    "https://www.ravelry.com/patterns/library/interlace-bag",
     "https://www.ravelry.com/patterns/library/interlace-bag/people",
-    "https://www.ravelry.com/patterns/sources/h-huggys-ravelry-store",
-    "https://www.ravelry.com/patterns/library/interlace-bag/editors"
+    "https://www.ravelry.com/patterns/library/interlace-bag",
+    "https://www.ravelry.com/patterns/library/interlace-bag/threads",
+    "https://www.ravelry.com/patterns/library/interlace-bag/yarns",
+    "https://www.ravelry.com/patterns/library/interlace-bag/comments",
+    "https://www.ravelry.com/patterns/library/interlace-bag/editors",
+    "https://www.ravelry.com/patterns/library/interlace-bag/report",
+    "https://www.ravelry.com/patterns/sources/h-huggys-ravelry-store"
   ]
 }

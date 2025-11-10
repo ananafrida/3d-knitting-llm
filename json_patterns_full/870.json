@@ -7,6 +7,10 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
     "Lamana Como",
     "Lace ?"
@@ -19,14 +23,14 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/lasse-hat",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/yarns",
-    "https://www.ravelry.com/patterns/sources/paulam-ravelry-store",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/comments",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/report",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/editors",
     "https://www.ravelry.com/patterns/library/clara-cardigan-4",
+    "https://www.ravelry.com/patterns/library/easypeasy-scarf/report",
+    "https://www.ravelry.com/patterns/library/easypeasy-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/easypeasy-scarf/comments",
+    "https://www.ravelry.com/patterns/library/easypeasy-scarf/editors",
     "https://www.ravelry.com/patterns/library/basic--favourite-mittens",
+    "https://www.ravelry.com/patterns/sources/paulam-ravelry-store",
+    "https://www.ravelry.com/patterns/library/easypeasy-scarf",
     "https://www.ravelry.com/patterns/library/easypeasy-scarf/people"
   ]
 }

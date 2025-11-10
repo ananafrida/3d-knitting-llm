@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "sizes_available": "S, M, L",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -18,18 +21,18 @@
   "techniques": [],
   "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/the-purl-bug",
+    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/report",
     "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/posts",
-    "https://www.ravelry.com/patterns/library/exceedingly-vanilla-socks",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/threads",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/comments",
     "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/editors",
     "https://www.ravelry.com/patterns/library/super-simple-sock-shawl",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/report",
+    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/comments",
+    "https://www.ravelry.com/patterns/sources/the-purl-bug",
+    "https://www.ravelry.com/patterns/library/exceedingly-vanilla-socks",
     "https://www.ravelry.com/patterns/library/head-sock",
     "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/yarns",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/people"
+    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks",
+    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/people",
+    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/threads"
   ],
   "name": "Ravelry: Heel tab for short socks pattern by Amanda Steck"
 }

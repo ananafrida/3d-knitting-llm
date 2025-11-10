@@ -7,6 +7,10 @@
   "category": "Toys and Hobbies → Other",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "Tiny rug / Big carpet (final measures: width x length 6,5 x 10 cm / 11,5 x 15 cm)",
+  "languages": [
+    "Czech",
+    "English"
+  ],
   "suggested_yarn": [
     "Sandnes Garn Peer Gynt",
     "DK (11 wpi) ?"
@@ -23,15 +27,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/maileg-christmas-hat",
-    "https://www.ravelry.com/patterns/library/maileg-basic-sweater",
-    "https://www.ravelry.com/patterns/sources/jana-stavjanovas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-carpet",
-    "https://www.ravelry.com/patterns/library/mini-carpet/people",
     "https://www.ravelry.com/patterns/library/mini-carpet/comments",
-    "https://www.ravelry.com/patterns/library/maileg-mouse-winter-set",
-    "https://www.ravelry.com/patterns/library/mini-carpet/yarns",
     "https://www.ravelry.com/patterns/library/mini-carpet/editors",
-    "https://www.ravelry.com/patterns/library/mini-carpet/report"
+    "https://www.ravelry.com/patterns/sources/jana-stavjanovas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/maileg-basic-sweater",
+    "https://www.ravelry.com/patterns/library/mini-carpet/yarns",
+    "https://www.ravelry.com/patterns/library/mini-carpet",
+    "https://www.ravelry.com/patterns/library/maileg-christmas-hat",
+    "https://www.ravelry.com/patterns/library/mini-carpet/report",
+    "https://www.ravelry.com/patterns/library/maileg-mouse-winter-set",
+    "https://www.ravelry.com/patterns/library/mini-carpet/people"
   ]
 }

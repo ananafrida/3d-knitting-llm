@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Containers",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "languages": [
+    "Norwegian"
+  ],
   "suggested_yarn": [
     "Sandnes Garn Fritidsgarn",
     "Bulky (7 wpi) ?"
@@ -22,20 +25,20 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/people",
-    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/posts",
-    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/threads",
-    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/editors",
-    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/report",
-    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/comments",
-    "https://www.ravelry.com/patterns/sources/sandnes-kit-60",
-    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose",
-    "https://www.ravelry.com/patterns/sources/sandnes-garn-website",
-    "https://www.ravelry.com/patterns/sources/skd-yarns",
-    "https://www.ravelry.com/patterns/sources/sandnes-tema-19-toving",
-    "https://www.ravelry.com/patterns/periodicals/sandnes-garn",
-    "https://www.ravelry.com/patterns/library/19-03-ntteliten",
     "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/yarns",
-    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/edit"
+    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/threads",
+    "https://www.ravelry.com/patterns/sources/sandnes-kit-60",
+    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/edit",
+    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose",
+    "https://www.ravelry.com/patterns/sources/skd-yarns",
+    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/report",
+    "https://www.ravelry.com/patterns/periodicals/sandnes-garn",
+    "https://www.ravelry.com/patterns/sources/sandnes-tema-19-toving",
+    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/people",
+    "https://www.ravelry.com/patterns/library/19-03-ntteliten",
+    "https://www.ravelry.com/patterns/sources/sandnes-garn-website",
+    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/posts",
+    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/comments",
+    "https://www.ravelry.com/patterns/library/tema19-04-hne-til-vinpose/editors"
   ]
 }

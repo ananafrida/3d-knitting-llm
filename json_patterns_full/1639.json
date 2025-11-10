@@ -7,9 +7,21 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Svarta Fåret Ulrika Natur"
+    "Svarta Fåret Ulrika Natur",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -32,18 +44,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/detroit---cardigan/report",
-    "https://www.ravelry.com/patterns/library/detroit---cardigan/threads",
-    "https://www.ravelry.com/patterns/library/alicante---top",
-    "https://www.ravelry.com/patterns/library/detroit---cardigan/comments",
     "https://www.ravelry.com/patterns/library/detroit---cardigan",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/detroit---cardigan/editors",
-    "https://www.ravelry.com/patterns/library/detroit---slipover",
     "https://www.ravelry.com/patterns/library/detroit---cardigan/people",
+    "https://www.ravelry.com/patterns/library/detroit---cardigan/comments",
+    "https://www.ravelry.com/patterns/library/cambridge---vest",
+    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
+    "https://www.ravelry.com/patterns/library/alicante---top",
+    "https://www.ravelry.com/patterns/library/detroit---cardigan/editors",
     "https://www.ravelry.com/patterns/library/detroit---cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/detroit---cardigan/report",
+    "https://www.ravelry.com/patterns/library/detroit---slipover",
+    "https://www.ravelry.com/patterns/library/detroit---cardigan/threads",
     "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-city-spring-ss2025",
-    "https://www.ravelry.com/patterns/library/cambridge---vest"
+    "https://www.ravelry.com/patterns/sources/svarta-faret-city-spring-ss2025"
   ]
 }

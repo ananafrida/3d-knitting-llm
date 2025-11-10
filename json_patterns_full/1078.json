@@ -7,9 +7,13 @@
   "category": "Tops → Tee",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "Finished bust circumference (90, 100) 110, 120 (130, 140) cm [(35½, 39¼) 43¼, 47¼ (51¼, 55)″]",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
-    "madelinetosh Euro Sock",
-    "Light Fingering ?"
+    "Light Fingering ?",
+    "madelinetosh Euro Sock"
   ],
   "attributes": [
     "adult",
@@ -25,17 +29,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/kentia/yarns",
-    "https://www.ravelry.com/patterns/library/kentia/editors",
-    "https://www.ravelry.com/patterns/library/kentia/comments",
-    "https://www.ravelry.com/patterns/library/kentia",
-    "https://www.ravelry.com/patterns/library/alocasia",
+    "https://www.ravelry.com/patterns/library/kentia/report",
     "https://www.ravelry.com/patterns/sources/marie-amelie-designs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/zsa-zsa-4",
+    "https://www.ravelry.com/patterns/library/kentia",
+    "https://www.ravelry.com/patterns/library/kentia/posts",
+    "https://www.ravelry.com/patterns/library/kentia/editors",
     "https://www.ravelry.com/patterns/library/kentia/people",
     "https://www.ravelry.com/patterns/library/kentia/threads",
-    "https://www.ravelry.com/patterns/library/kentia/report",
-    "https://www.ravelry.com/patterns/library/kentia/posts",
-    "https://www.ravelry.com/patterns/library/cercis-3"
+    "https://www.ravelry.com/patterns/library/alocasia",
+    "https://www.ravelry.com/patterns/library/kentia/yarns",
+    "https://www.ravelry.com/patterns/library/kentia/comments",
+    "https://www.ravelry.com/patterns/library/cercis-3",
+    "https://www.ravelry.com/patterns/library/zsa-zsa-4"
   ]
 }

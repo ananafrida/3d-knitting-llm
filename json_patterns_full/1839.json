@@ -4,6 +4,9 @@
   "category": "Containers",
   "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
   "sizes_available": "Two sizes - medium and small",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Super Bulky (5-6 wpi) ?"
   ],
@@ -14,17 +17,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/a-box-of-twine",
     "https://www.ravelry.com/patterns/library/chunky-storage-basket-2/people",
-    "https://www.ravelry.com/patterns/library/chunky-storage-basket-2/report",
-    "https://www.ravelry.com/patterns/library/heart-51",
     "https://www.ravelry.com/patterns/library/chunky-storage-basket-2/yarns",
-    "https://www.ravelry.com/patterns/library/paris-grey-boot-cuffs",
-    "https://www.ravelry.com/patterns/library/chunky-storage-basket-2",
     "https://www.ravelry.com/patterns/library/chunky-storage-basket-2/comments",
     "https://www.ravelry.com/patterns/library/chunky-storage-basket-2/threads",
+    "https://www.ravelry.com/patterns/sources/a-box-of-twine",
+    "https://www.ravelry.com/patterns/library/paris-grey-boot-cuffs",
+    "https://www.ravelry.com/patterns/library/summer-mesh-sweater-3",
     "https://www.ravelry.com/patterns/library/chunky-storage-basket-2/editors",
-    "https://www.ravelry.com/patterns/library/summer-mesh-sweater-3"
+    "https://www.ravelry.com/patterns/library/chunky-storage-basket-2",
+    "https://www.ravelry.com/patterns/library/chunky-storage-basket-2/report",
+    "https://www.ravelry.com/patterns/library/heart-51"
   ],
   "name": "Ravelry: Chunky Storage Basket pattern by Susan Frick"
 }

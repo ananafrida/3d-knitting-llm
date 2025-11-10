@@ -4,6 +4,16 @@
   "category": "Sweater → Cardigan",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "3 months (6 months) 1year (2years)",
+  "languages": [
+    "Danish",
+    "English",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 5 other languages show hide other languages",
+    "...and 5 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "Filcolana Anina",
     "Light Fingering ?"
@@ -26,18 +36,18 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/arni-6",
-    "https://www.ravelry.com/patterns/library/lille-crispin/yarns",
-    "https://www.ravelry.com/patterns/library/dinard-2",
-    "https://www.ravelry.com/patterns/library/lille-crispin/report",
-    "https://www.ravelry.com/patterns/library/lille-crispin/people",
-    "https://www.ravelry.com/patterns/sources/into-the-circus---filcolana-ss22",
+    "https://www.ravelry.com/patterns/library/lille-crispin/editors",
     "https://www.ravelry.com/patterns/library/lille-crispin/comments",
+    "https://www.ravelry.com/patterns/library/arni-6",
+    "https://www.ravelry.com/patterns/library/dinard-2",
     "https://www.ravelry.com/patterns/library/lille-crispin/threads",
-    "https://www.ravelry.com/patterns/library/lille-crispin",
     "https://www.ravelry.com/patterns/library/thorsminde",
+    "https://www.ravelry.com/patterns/library/lille-crispin/people",
+    "https://www.ravelry.com/patterns/library/lille-crispin/yarns",
+    "https://www.ravelry.com/patterns/sources/into-the-circus---filcolana-ss22",
+    "https://www.ravelry.com/patterns/library/lille-crispin/report",
     "https://www.ravelry.com/patterns/sources/filcolana",
-    "https://www.ravelry.com/patterns/library/lille-crispin/editors"
+    "https://www.ravelry.com/patterns/library/lille-crispin"
   ],
   "name": "Ravelry: Lille Crispin pattern by Rachel Søgaard"
 }

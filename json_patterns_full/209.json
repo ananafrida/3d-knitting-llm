@@ -7,9 +7,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "OS",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Malabrigo Yarn Silky Merino"
+    "Malabrigo Yarn Silky Merino",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "buttonholes",
@@ -23,12 +26,12 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag",
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/report",
     "https://www.ravelry.com/patterns/library/the-gallivanter-bag/yarns",
     "https://www.ravelry.com/patterns/library/the-gallivanter-bag/editors",
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/comments",
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag",
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/people",
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/report",
     "https://www.ravelry.com/patterns/sources/anna-kwon",
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/people"
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/comments"
   ]
 }

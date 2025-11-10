@@ -7,9 +7,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "1, 2, (3, 4), 5, 6",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "adult",
@@ -25,13 +28,13 @@
   ],
   "shape": "cube",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/town-square-sweater/editors",
     "https://www.ravelry.com/patterns/library/town-square-sweater/comments",
     "https://www.ravelry.com/patterns/library/town-square-sweater/report",
+    "https://www.ravelry.com/patterns/library/town-square-sweater/people",
+    "https://www.ravelry.com/patterns/library/town-square-sweater/threads",
     "https://www.ravelry.com/patterns/library/town-square-sweater/yarns",
     "https://www.ravelry.com/patterns/sources/postcard-knits-ravelry-store",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/editors",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/threads",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/people",
     "https://www.ravelry.com/patterns/library/town-square-sweater"
   ]
 }

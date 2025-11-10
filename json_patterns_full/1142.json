@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Patons North America Astra (Solids)"
+    "Patons North America Astra (Solids)",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "seamed",
@@ -17,21 +20,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/rainbow-babies/edit",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/editors",
-    "https://www.ravelry.com/patterns/library/mirabelle-the-mermaid",
-    "https://www.ravelry.com/patterns/library/toybox-snowman",
-    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/posts",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/threads",
-    "https://www.ravelry.com/patterns/library/dainty-dollies",
-    "https://www.ravelry.com/patterns/library/rainbow-babies",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/yarns",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/people",
     "https://www.ravelry.com/patterns/library/rainbow-babies/report",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/comments",
+    "https://www.ravelry.com/patterns/periodicals/jean-greenhowe",
+    "https://www.ravelry.com/patterns/library/mirabelle-the-mermaid",
+    "https://www.ravelry.com/patterns/library/rainbow-babies/threads",
+    "https://www.ravelry.com/patterns/library/rainbow-babies/posts",
+    "https://www.ravelry.com/patterns/library/rainbow-babies",
     "http://jeangreenhowe.com/patterns.html",
-    "https://www.ravelry.com/patterns/periodicals/jean-greenhowe"
+    "https://www.ravelry.com/patterns/library/toybox-snowman",
+    "https://www.ravelry.com/patterns/library/rainbow-babies/yarns",
+    "https://www.ravelry.com/patterns/library/dainty-dollies",
+    "https://www.ravelry.com/patterns/library/rainbow-babies/editors",
+    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website",
+    "https://www.ravelry.com/patterns/library/rainbow-babies/people",
+    "https://www.ravelry.com/patterns/library/rainbow-babies/edit",
+    "https://www.ravelry.com/patterns/library/rainbow-babies/comments"
   ],
   "name": "Ravelry: Rainbow Babies pattern by Jean Greenhowe"
 }

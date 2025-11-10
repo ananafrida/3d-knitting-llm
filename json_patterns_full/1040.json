@@ -7,9 +7,13 @@
   "category": "Tops → Tee",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "1 (2, 3, 4, 5) [6, 7, 8, 9, 10] Finished bust circumference: 97 (106.5, 116, 122, 128.5) [135, 144, 150, 158.5, 166] cm / 38.25 (42, 45.75, 48, 50.5) [53.25, 56.75, 59, 62.5, 65.25]” - recommended to be worn with 15 to 25 cm / 6 to 9.75” of positive ease",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Pascuali Re-Jeans"
+    "Pascuali Re-Jeans",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -42,19 +46,19 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/aigues",
-    "https://www.ravelry.com/patterns/library/catechu",
-    "https://www.ravelry.com/patterns/sources/making-stories-magazine-issue-11",
-    "https://www.ravelry.com/patterns/library/tya",
-    "https://www.ravelry.com/patterns/library/aigues/yarns",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://making-stories.com/collections/issue-11-patterns/products/aigues-t-shirt",
-    "https://www.ravelry.com/patterns/library/aigues/threads",
-    "https://www.ravelry.com/patterns/library/aigues/comments",
+    "https://www.ravelry.com/patterns/library/aigues/report",
     "https://www.ravelry.com/patterns/library/molecule-2",
-    "https://www.ravelry.com/patterns/periodicals/making-stories-magazine",
     "https://www.ravelry.com/patterns/library/aigues/editors",
+    "https://www.ravelry.com/patterns/library/aigues/yarns",
+    "https://www.ravelry.com/patterns/library/aigues/comments",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
     "https://www.ravelry.com/patterns/library/aigues/people",
-    "https://www.ravelry.com/patterns/library/aigues/report"
+    "https://www.ravelry.com/patterns/library/aigues",
+    "https://www.ravelry.com/patterns/sources/making-stories-magazine-issue-11",
+    "https://www.ravelry.com/patterns/library/catechu",
+    "https://www.ravelry.com/patterns/library/aigues/threads",
+    "https://www.ravelry.com/patterns/periodicals/making-stories-magazine",
+    "https://www.ravelry.com/patterns/library/tya",
+    "https://making-stories.com/collections/issue-11-patterns/products/aigues-t-shirt"
   ]
 }

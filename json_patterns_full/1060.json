@@ -4,6 +4,19 @@
   "category": "Tops → Tee",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 8 other languages show hide other languages",
+    "...and 8 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "Filcolana Tilia",
     "Lace ?"
@@ -24,15 +37,15 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/elbe-4",
-    "https://www.ravelry.com/patterns/library/spring-veneer/people",
-    "https://www.ravelry.com/patterns/library/spring-veneer/yarns",
-    "https://www.ravelry.com/patterns/library/spring-veneer",
-    "https://www.ravelry.com/patterns/library/spring-veneer/comments",
     "https://www.ravelry.com/patterns/library/spring-veneer/report",
-    "https://www.ravelry.com/patterns/library/chunky-baby-knit",
-    "https://www.ravelry.com/patterns/library/spring-veneer/editors",
-    "https://www.ravelry.com/patterns/sources/filcolana",
     "https://www.ravelry.com/patterns/library/veneer",
+    "https://www.ravelry.com/patterns/library/spring-veneer/comments",
+    "https://www.ravelry.com/patterns/library/spring-veneer/editors",
+    "https://www.ravelry.com/patterns/library/chunky-baby-knit",
+    "https://www.ravelry.com/patterns/library/spring-veneer",
+    "https://www.ravelry.com/patterns/library/spring-veneer/people",
+    "https://www.ravelry.com/patterns/sources/filcolana",
+    "https://www.ravelry.com/patterns/library/spring-veneer/yarns",
     "https://www.ravelry.com/patterns/sources/playful-perspective---filcolana-ss25"
   ],
   "name": "Ravelry: Spring Veneer pattern by Rikke Eliasen"

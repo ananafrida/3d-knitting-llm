@@ -7,6 +7,9 @@
   "category": "Components → Other",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "unisize",
+  "languages": [
+    "German"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -19,16 +22,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/mittens-ally-mcbeal-style",
+    "https://www.ravelry.com/patterns/library/gezopfte-socken",
     "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/comments",
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/people",
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle",
+    "https://www.ravelry.com/patterns/sources/js-designs",
     "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/yarns",
     "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/threads",
-    "https://www.ravelry.com/patterns/sources/js-designs",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/editors",
     "https://www.ravelry.com/patterns/library/variation-with-coffee-beans",
-    "https://www.ravelry.com/patterns/library/gezopfte-socken",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/report",
-    "https://www.ravelry.com/patterns/library/mittens-ally-mcbeal-style",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/people",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle"
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/editors",
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/report"
   ]
 }

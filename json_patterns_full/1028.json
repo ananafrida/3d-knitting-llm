@@ -7,6 +7,10 @@
   "category": "Tops → Tee",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "Finished Bust Circ : 85 (95 / 105 / 115 / 125), 135 (145 / 155 / 165 / 175) cm – 33 ½ (37 ½ / 41 ¼ / 45 ¼ / 49 ¼), 53 ¼ (57 / 61 / 65 / 68 ¾)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "Lana Grossa Landlust Sommerseide",
     "Sport (12 wpi) ?"
@@ -40,16 +44,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/isonoe/yarns",
-    "https://www.ravelry.com/patterns/library/isonoe/comments",
-    "https://www.ravelry.com/patterns/library/sintara",
-    "https://www.ravelry.com/patterns/library/isonoe/threads",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/isonoe",
-    "https://www.ravelry.com/patterns/library/isonoe/people",
     "https://www.ravelry.com/patterns/library/isonoe/editors",
+    "https://www.ravelry.com/patterns/library/isonoe",
     "https://www.ravelry.com/patterns/library/urraca-2",
     "https://www.ravelry.com/patterns/library/atul",
-    "https://www.ravelry.com/patterns/library/isonoe/report"
+    "https://www.ravelry.com/patterns/library/sintara",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/isonoe/comments",
+    "https://www.ravelry.com/patterns/library/isonoe/yarns",
+    "https://www.ravelry.com/patterns/library/isonoe/report",
+    "https://www.ravelry.com/patterns/library/isonoe/people",
+    "https://www.ravelry.com/patterns/library/isonoe/threads"
   ]
 }

@@ -4,9 +4,12 @@
   "category": "Coat / Jacket",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "3 - 48 mos",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Debbie Bliss Baby Cashmerino",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Debbie Bliss Baby Cashmerino"
   ],
   "attributes": [
     "baby",
@@ -28,23 +31,23 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/debbie-bliss-on-lovecrafts",
-    "https://www.ravelry.com/patterns/library/striped-cardigan",
     "https://www.lovecrafts.com/en-gb/p/kids-baseball-jacket-in-debbie-bliss-downloadable-pdf",
-    "https://www.ravelry.com/patterns/sources/debbie-bliss-website",
-    "https://www.ravelry.com/patterns/library/bear-necessities-set",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/yarns",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/posts",
-    "https://www.ravelry.com/patterns/library/spanish-dress",
-    "https://www.ravelry.com/patterns/periodicals/debbie-bliss",
-    "https://www.ravelry.com/patterns/sources/debbie-bliss-baby-cashmerino-4",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/editors",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/threads",
-    "https://www.ravelry.com/patterns/sources/love-knitting-for-baby-8-january-2013",
     "https://www.ravelry.com/patterns/library/baseball-jacket-4/comments",
+    "https://www.ravelry.com/patterns/sources/love-knitting-for-baby-8-january-2013",
+    "https://www.ravelry.com/patterns/library/baseball-jacket-4/report",
+    "https://www.ravelry.com/patterns/library/baseball-jacket-4/editors",
+    "https://www.ravelry.com/patterns/library/spanish-dress",
+    "https://www.ravelry.com/patterns/sources/debbie-bliss-baby-cashmerino-4",
     "https://www.ravelry.com/patterns/library/baseball-jacket-4/people",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/report"
+    "https://www.ravelry.com/patterns/library/baseball-jacket-4/posts",
+    "https://www.ravelry.com/patterns/library/bear-necessities-set",
+    "https://www.ravelry.com/patterns/library/striped-cardigan",
+    "https://www.ravelry.com/patterns/sources/debbie-bliss-website",
+    "https://www.ravelry.com/patterns/library/baseball-jacket-4/yarns",
+    "https://www.ravelry.com/patterns/sources/debbie-bliss-on-lovecrafts",
+    "https://www.ravelry.com/patterns/library/baseball-jacket-4",
+    "https://www.ravelry.com/patterns/periodicals/debbie-bliss",
+    "https://www.ravelry.com/patterns/library/baseball-jacket-4/threads"
   ],
   "name": "Ravelry: Baseball Jacket pattern by Debbie Bliss"
 }

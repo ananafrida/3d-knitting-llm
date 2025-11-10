@@ -6,6 +6,10 @@
   "craft": "Knitting",
   "category": "Afghan block",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English",
+    "Universal"
+  ],
   "suggested_yarn": [
     "Deramores Studio Anti-Pilling DK",
     "DK (11 wpi) ?"
@@ -21,14 +25,14 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/sources/mandy-kays-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/people",
-    "https://www.ravelry.com/patterns/library/pachycephalosaur-blanket-square",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square",
     "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/comments",
-    "https://www.ravelry.com/patterns/library/dunkleosteus-blanket-square",
     "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/editors",
-    "https://www.ravelry.com/patterns/library/leaellynasaura-blanket-square",
+    "https://www.ravelry.com/patterns/library/pachycephalosaur-blanket-square",
     "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/report",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/yarns"
+    "https://www.ravelry.com/patterns/library/leaellynasaura-blanket-square",
+    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/people",
+    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/yarns",
+    "https://www.ravelry.com/patterns/library/dunkleosteus-blanket-square",
+    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square"
   ]
 }

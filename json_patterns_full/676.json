@@ -7,9 +7,12 @@
   "category": "Hat → Pixie",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "small and large",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "adult",
@@ -30,13 +33,13 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/treetop-hats/editors",
+    "https://www.ravelry.com/patterns/sources/the-treetops-project",
+    "https://www.ravelry.com/patterns/library/treetop-hats/people",
     "https://www.ravelry.com/patterns/library/treetop-hats",
     "https://www.treetopsproject.com/patterns",
-    "https://www.ravelry.com/patterns/sources/the-treetops-project",
-    "https://www.ravelry.com/patterns/library/treetop-hats/report",
+    "https://www.ravelry.com/patterns/library/treetop-hats/comments",
     "https://www.ravelry.com/patterns/library/treetop-hats/yarns",
-    "https://www.ravelry.com/patterns/library/treetop-hats/people",
-    "https://www.ravelry.com/patterns/library/treetop-hats/comments"
+    "https://www.ravelry.com/patterns/library/treetop-hats/report",
+    "https://www.ravelry.com/patterns/library/treetop-hats/editors"
   ]
 }

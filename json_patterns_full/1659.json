@@ -7,9 +7,12 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "0-6 mo (6-12 mo, 1-2 yrs, 2-4 yrs, 4-6 yrs, 6-8 yrs, 8-10 yrs, XS, S, S/M, M, M/L, L, XL, XXL, 3XL, 4XL, 5XL, 6XL)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "adult",
@@ -30,21 +33,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/harvest-10/posts",
+    "https://www.ravelry.com/patterns/library/harvest-10/comments",
+    "https://www.ravelry.com/patterns/library/harvest-10/threads",
     "https://www.ravelry.com/patterns/library/harvest-10/editors",
-    "https://www.ravelry.com/patterns/library/barley-worsted",
-    "https://www.ravelry.com/bundles/app-patterns",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
-    "https://www.ravelry.com/patterns/library/flax-worsted",
-    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "https://www.ravelry.com/patterns/library/harvest-10/people",
     "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
     "https://www.ravelry.com/patterns/library/harvest-10/report",
-    "http://tincanknits.com/pattern-SC-harvest.html",
-    "https://www.ravelry.com/patterns/library/harvest-10/threads",
-    "https://www.ravelry.com/patterns/library/harvest-10/people",
-    "https://www.ravelry.com/patterns/library/harvest-10/comments",
+    "https://www.ravelry.com/patterns/library/flax-worsted",
     "https://www.ravelry.com/patterns/library/flax-sock",
+    "https://www.ravelry.com/bundles/app-patterns",
+    "https://www.ravelry.com/patterns/library/barley-worsted",
+    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "https://www.ravelry.com/patterns/library/harvest-10/posts",
+    "https://www.ravelry.com/patterns/library/harvest-10",
     "https://www.ravelry.com/patterns/library/harvest-10/yarns",
-    "https://www.ravelry.com/patterns/library/harvest-10"
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "http://tincanknits.com/pattern-SC-harvest.html"
   ]
 }

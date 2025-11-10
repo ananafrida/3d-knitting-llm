@@ -7,9 +7,12 @@
   "category": "Hat → Pixie",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "Medium - Youth",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Plymouth Yarn Encore Worsted Solids & Heathers"
+    "Plymouth Yarn Encore Worsted Solids & Heathers",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "in-the-round"
@@ -20,17 +23,17 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/threads",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/people",
     "https://www.ravelry.com/patterns/library/candy-corn-hat/yarns",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/posts",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/editors",
     "https://www.ravelry.com/patterns/library/cowslip",
     "https://www.ravelry.com/patterns/library/candy-corn-hat",
     "https://www.ravelry.com/patterns/library/fresh-again",
     "https://www.ravelry.com/patterns/sources/skeins-and-beans",
-    "https://www.ravelry.com/patterns/library/three-musketeers-coffee-mitts",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/posts",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/editors",
     "https://www.ravelry.com/patterns/library/candy-corn-hat/report",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/people",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/threads",
+    "https://www.ravelry.com/patterns/library/three-musketeers-coffee-mitts",
     "https://www.ravelry.com/patterns/library/candy-corn-hat/comments"
   ]
 }

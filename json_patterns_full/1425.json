@@ -7,6 +7,9 @@
   "category": "Decorative → Hanging Ornament",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "height: 7cm; width: 13 cm",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Garnstudio DROPS Baby Merino",
     "Any gauge - designed for any gauge ?"
@@ -25,15 +28,15 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/froggybug-snail",
-    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/yarns",
     "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers",
-    "https://www.ravelry.com/patterns/library/froggybug-6-mini-xmas-jumpers",
-    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/report",
-    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/comments",
     "https://www.ravelry.com/patterns/library/froggybug-frog",
+    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/report",
     "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/people",
-    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/editors"
+    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/editors",
+    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/yarns",
+    "https://www.ravelry.com/patterns/library/froggybug-snail",
+    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/comments",
+    "https://www.ravelry.com/patterns/library/froggybug-6-mini-xmas-jumpers",
+    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store"
   ]
 }

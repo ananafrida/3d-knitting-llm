@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Animal Applique / Embellishment",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -18,17 +21,17 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/woodland-wreath-toadstools",
     "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/report",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-owls",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-toadstools",
     "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/people",
     "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/yarns",
-    "https://www.ravelry.com/patterns/sources/knit-a-vintage-christmas",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/comments",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/editors",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/people",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-owls",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
     "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/threads",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff"
+    "https://www.ravelry.com/patterns/sources/knit-a-vintage-christmas",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/editors",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/report",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/comments"
   ]
 }

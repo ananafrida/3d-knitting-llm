@@ -7,6 +7,11 @@
   "category": "Decorative → Other",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "approx. diameter of 8, 11, 14 cm / 3,25\", 4,25\", 5,5\" or made to measure",
+  "languages": [
+    "English",
+    "Portuguese",
+    "Spanish"
+  ],
   "suggested_yarn": [
     "Matti Yarns Design",
     "DK (11 wpi) ?"
@@ -27,16 +32,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/sources/sandra-magalhaes-ravelry-store",
-    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/people",
     "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/yarns",
-    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/threads",
-    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/comments",
+    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/editors",
     "https://www.ravelry.com/patterns/library/jolly-good-socks",
-    "https://www.ravelry.com/patterns/library/willow-bee",
     "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch",
-    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/posts",
     "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/report",
+    "https://www.ravelry.com/patterns/library/willow-bee",
+    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/threads",
     "https://www.ravelry.com/patterns/library/cedarwood-baby-cardigan",
-    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/editors"
+    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/people",
+    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/posts",
+    "https://www.ravelry.com/patterns/library/pepo-pumpkin-patch/comments"
   ]
 }

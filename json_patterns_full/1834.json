@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Containers",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Noro Kureyon（くれよん）"
+    "Noro Kureyon（くれよん）",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "felted",
@@ -19,17 +22,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/raku-bowls/yarns",
-    "https://www.ravelry.com/patterns/library/raku-bowls/editors",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery",
-    "https://www.ravelry.com/patterns/library/mix-it-up-christmas-stocking-stranded-colorwork",
-    "https://www.ravelry.com/patterns/sources/terry-morris-designs",
-    "https://www.ravelry.com/patterns/library/soupr-bowl-cozy",
-    "https://www.ravelry.com/patterns/library/raku-bowls/report",
-    "https://www.ravelry.com/patterns/library/raku-bowls/threads",
-    "https://www.ravelry.com/patterns/library/raku-bowls/comments",
-    "https://www.ravelry.com/patterns/library/raku-bowls/people",
     "https://www.ravelry.com/patterns/library/raku-bowls/posts",
-    "https://www.ravelry.com/patterns/library/raku-bowls"
+    "https://www.ravelry.com/patterns/library/raku-bowls",
+    "https://www.ravelry.com/patterns/library/raku-bowls/people",
+    "https://www.ravelry.com/patterns/library/raku-bowls/threads",
+    "https://www.ravelry.com/patterns/library/soupr-bowl-cozy",
+    "https://www.ravelry.com/patterns/library/raku-bowls/comments",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery",
+    "https://www.ravelry.com/patterns/library/raku-bowls/report",
+    "https://www.ravelry.com/patterns/sources/terry-morris-designs",
+    "https://www.ravelry.com/patterns/library/raku-bowls/yarns",
+    "https://www.ravelry.com/patterns/library/mix-it-up-christmas-stocking-stranded-colorwork",
+    "https://www.ravelry.com/patterns/library/raku-bowls/editors"
   ]
 }

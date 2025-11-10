@@ -5,6 +5,9 @@
   "designer": "Suzanne Williams",
   "craft": "Knitting",
   "category": "Components → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -19,16 +22,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/yarns",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/people",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/editors",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/report",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/comments",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/threads",
-    "https://www.ravelry.com/patterns/library/for-the-boys-or-girls-cardigan",
-    "https://www.ravelry.com/patterns/library/the-ribbie",
     "https://www.ravelry.com/patterns/library/petit-garcon-little-boy-2-in-1-romper-cardigan",
+    "https://www.ravelry.com/patterns/library/the-ribbie",
+    "https://www.ravelry.com/patterns/library/for-the-boys-or-girls-cardigan",
+    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/yarns",
+    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/editors",
+    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/people",
+    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/report",
+    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/threads",
     "https://www.ravelry.com/patterns/sources/lapetitekrottcreations",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on"
+    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on",
+    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/comments"
   ]
 }

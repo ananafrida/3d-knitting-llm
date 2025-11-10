@@ -4,9 +4,12 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "one size, to fit 22-24\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Sweet Fiber Yarns Cashmere Aran"
+    "Sweet Fiber Yarns Cashmere Aran",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -30,18 +33,18 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/greystone-5",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/people",
     "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/threads",
-    "https://www.ravelry.com/patterns/library/jasons-tweed-hat",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/yarns",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/editors",
     "https://www.ravelry.com/patterns/library/golden-pear",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/posts",
+    "https://www.ravelry.com/patterns/library/greystone-5",
     "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/comments",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/report",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/posts",
+    "https://www.ravelry.com/patterns/library/jasons-tweed-hat",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/yarns",
     "https://www.ravelry.com/patterns/sources/sweet-fiber-yarns-2",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/report"
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/editors",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/people"
   ],
   "name": "Ravelry: Jason's Cashmere Hat pattern by Melissa Thomson"
 }

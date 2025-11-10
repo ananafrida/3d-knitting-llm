@@ -7,9 +7,12 @@
   "category": "Decorative → Hanging Ornament",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "? 2.5 inches /6.5 cm from tip to centre",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Merino Extra Fine"
+    "Garnstudio DROPS Merino Extra Fine",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -25,17 +28,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/cornflower-shawl",
+    "https://www.ravelry.com/patterns/library/stjarna/comments",
     "https://www.ravelry.com/patterns/library/stjarna/posts",
+    "https://www.ravelry.com/patterns/library/stjarna/threads",
+    "https://www.ravelry.com/patterns/sources/karolina-eckerdals-ravelry-store",
+    "https://www.ravelry.com/patterns/library/stjarna",
+    "https://www.ravelry.com/patterns/library/stjarna/people",
+    "https://www.ravelry.com/patterns/library/stjarna/editors",
     "https://www.ravelry.com/patterns/library/parure",
     "https://www.ravelry.com/patterns/library/stjarna/report",
-    "https://www.ravelry.com/patterns/sources/karolina-eckerdals-ravelry-store",
-    "https://www.ravelry.com/patterns/library/stjarna/yarns",
-    "https://www.ravelry.com/patterns/library/cornflower-shawl",
     "https://www.ravelry.com/patterns/library/hepworth-2",
-    "https://www.ravelry.com/patterns/library/stjarna/comments",
-    "https://www.ravelry.com/patterns/library/stjarna",
-    "https://www.ravelry.com/patterns/library/stjarna/editors",
-    "https://www.ravelry.com/patterns/library/stjarna/people",
-    "https://www.ravelry.com/patterns/library/stjarna/threads"
+    "https://www.ravelry.com/patterns/library/stjarna/yarns"
   ]
 }

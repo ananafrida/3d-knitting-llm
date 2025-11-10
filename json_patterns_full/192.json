@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag Bag → Other",
   "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "yarn held together",
     "Cascade Yarns ® 109 LE Bulky"
@@ -18,19 +21,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/seven-ten-split/posts",
-    "https://www.ravelry.com/patterns/library/pumpkin-hats",
-    "https://www.ravelry.com/patterns/library/seven-ten-split/people",
-    "https://www.ravelry.com/patterns/sources/the-anticraft-beltane-2007",
-    "https://www.ravelry.com/patterns/library/seven-ten-split/editors",
     "https://www.ravelry.com/patterns/library/seven-ten-split/comments",
-    "https://www.ravelry.com/patterns/library/seven-ten-split",
-    "https://www.ravelry.com/patterns/library/robust--reversible",
     "https://www.ravelry.com/patterns/periodicals/the-anticraft",
-    "https://www.ravelry.com/patterns/library/seven-ten-split/report",
-    "https://www.ravelry.com/patterns/library/slash-dot-cowl",
+    "https://www.ravelry.com/patterns/library/seven-ten-split/people",
     "https://www.ravelry.com/patterns/library/seven-ten-split/yarns",
-    "https://www.ravelry.com/patterns/library/seven-ten-split/threads"
+    "https://www.ravelry.com/patterns/library/seven-ten-split",
+    "https://www.ravelry.com/patterns/library/pumpkin-hats",
+    "https://www.ravelry.com/patterns/library/seven-ten-split/posts",
+    "https://www.ravelry.com/patterns/library/slash-dot-cowl",
+    "https://www.ravelry.com/patterns/library/seven-ten-split/editors",
+    "https://www.ravelry.com/patterns/library/seven-ten-split/report",
+    "https://www.ravelry.com/patterns/library/robust--reversible",
+    "https://www.ravelry.com/patterns/library/seven-ten-split/threads",
+    "https://www.ravelry.com/patterns/sources/the-anticraft-beltane-2007"
   ],
   "name": "Ravelry: Seven-Ten Split pattern by Sarah Hood"
 }

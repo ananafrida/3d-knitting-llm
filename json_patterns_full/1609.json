@@ -7,6 +7,10 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "1 (2, 3, 4, 5) (6, 7, 8, 9)",
+  "languages": [
+    "English",
+    "Additional languages which are not in the download: Finnish"
+  ],
   "suggested_yarn": [
     "yarn held together",
     "Sonder Yarn Co. Sunday Morning 4 Ply (Fingering)"
@@ -26,19 +30,19 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/laine-magazine",
-    "https://www.ravelry.com/patterns/sources/sonder-yarn-co-2",
-    "https://www.ravelry.com/patterns/library/a-simple-affair",
-    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/posts",
-    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/report",
+    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/comments",
     "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/threads",
     "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3",
-    "https://www.ravelry.com/patterns/sources/laine-magazine-issue-18",
-    "https://www.ravelry.com/patterns/library/the-til",
-    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/yarns",
     "https://www.ravelry.com/patterns/library/turtle-dove-cardigan",
+    "https://www.ravelry.com/patterns/library/a-simple-affair",
+    "https://www.ravelry.com/patterns/sources/sonder-yarn-co-2",
+    "https://www.ravelry.com/patterns/library/the-til",
+    "https://www.ravelry.com/patterns/periodicals/laine-magazine",
     "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/people",
-    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/comments",
-    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/editors"
+    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/editors",
+    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/report",
+    "https://www.ravelry.com/patterns/sources/laine-magazine-issue-18",
+    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan/posts"
   ]
 }

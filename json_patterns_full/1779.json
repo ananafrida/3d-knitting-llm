@@ -5,6 +5,9 @@
   "designer": "Erika Barcott",
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -15,17 +18,17 @@
   "techniques": [],
   "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/treesweater/people",
-    "https://www.ravelry.com/patterns/library/treesweater/posts",
     "https://www.ravelry.com/patterns/library/treesweater/yarns",
     "https://www.ravelry.com/patterns/library/treesweater/comments",
+    "https://www.ravelry.com/patterns/library/treesweater/report",
+    "https://www.ravelry.com/patterns/library/treesweater/editors",
+    "https://www.ravelry.com/patterns/library/the-binary-hat",
     "https://www.ravelry.com/patterns/library/treesweater",
     "https://www.ravelry.com/patterns/library/my-jayne-hat",
-    "https://www.ravelry.com/patterns/library/treesweater/editors",
+    "https://www.ravelry.com/patterns/library/treesweater/people",
     "https://www.ravelry.com/patterns/library/doris-a-hat-for-troublesome-hair",
-    "https://www.ravelry.com/patterns/library/the-binary-hat",
-    "https://www.ravelry.com/patterns/library/treesweater/report",
-    "https://www.ravelry.com/patterns/library/treesweater/threads",
-    "https://www.ravelry.com/patterns/sources/redshirt-knitting"
+    "https://www.ravelry.com/patterns/library/treesweater/posts",
+    "https://www.ravelry.com/patterns/sources/redshirt-knitting",
+    "https://www.ravelry.com/patterns/library/treesweater/threads"
   ]
 }

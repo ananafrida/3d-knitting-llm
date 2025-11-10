@@ -4,6 +4,9 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "medium preemie, large preemie, newborn, 0 - 3 months",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -25,17 +28,17 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ruben-baby-boy-sweater",
-    "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2",
-    "https://www.ravelry.com/patterns/library/iona-baby-cardigan-jacket",
-    "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2/report",
-    "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2/threads",
-    "https://www.ravelry.com/patterns/library/kinzie-baby-cardigan-jacket",
     "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2/editors",
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
+    "https://www.ravelry.com/patterns/library/ruben-baby-boy-sweater",
+    "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2/report",
     "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2/people",
+    "https://www.ravelry.com/patterns/library/kinzie-baby-cardigan-jacket",
+    "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2/threads",
+    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
+    "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2",
     "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2/yarns",
-    "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2/comments"
+    "https://www.ravelry.com/patterns/library/crossover-baby-cardigan-2/comments",
+    "https://www.ravelry.com/patterns/library/iona-baby-cardigan-jacket"
   ],
   "name": "Ravelry: Crossover Baby Cardigan pattern by marianna mel"
 }

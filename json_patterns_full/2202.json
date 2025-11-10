@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Costume",
   "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Lion Brand Fishermen's Wool"
+    "Lion Brand Fishermen's Wool",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "child",
@@ -15,16 +18,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/felted-birthday-crown/posts",
-    "https://www.ravelry.com/patterns/library/felted-birthday-crown/editors",
     "https://www.ravelry.com/patterns/library/perry-the-platypus",
-    "https://www.ravelry.com/patterns/library/felted-birthday-crown/people",
     "https://www.ravelry.com/patterns/sources/clydes-momma",
-    "https://www.ravelry.com/patterns/library/felted-birthday-crown/yarns",
-    "https://www.ravelry.com/patterns/library/felted-birthday-crown/threads",
     "https://www.ravelry.com/patterns/library/felted-birthday-crown/comments",
+    "https://www.ravelry.com/patterns/library/felted-birthday-crown/threads",
     "https://www.ravelry.com/patterns/library/felted-birthday-crown",
-    "https://www.ravelry.com/patterns/library/felted-birthday-crown/report"
+    "https://www.ravelry.com/patterns/library/felted-birthday-crown/editors",
+    "https://www.ravelry.com/patterns/library/felted-birthday-crown/yarns",
+    "https://www.ravelry.com/patterns/library/felted-birthday-crown/report",
+    "https://www.ravelry.com/patterns/library/felted-birthday-crown/posts",
+    "https://www.ravelry.com/patterns/library/felted-birthday-crown/people"
   ],
   "name": "Ravelry: Felted Birthday Crown pattern by Jennifer Bailey"
 }

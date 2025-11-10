@@ -7,6 +7,9 @@
   "category": "Softies → Other",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "Height without handle: 2.5”/ 6cm, or desired size.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Patons North America Classic Wool Worsted",
     "Worsted (9 wpi) ?"
@@ -22,16 +25,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/acorn-lantern/people",
-    "https://www.ravelry.com/patterns/library/daffodil-bulb-vase",
-    "https://www.ravelry.com/patterns/library/santa-lucia-4",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/editors",
+    "https://www.ravelry.com/patterns/library/acorn-lantern",
     "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/yarns",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/threads",
     "https://www.ravelry.com/patterns/library/acorn-lantern/comments",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/report",
+    "https://www.ravelry.com/patterns/library/santa-lucia-4",
     "https://www.ravelry.com/patterns/library/hairy-highland-gnomes",
-    "https://www.ravelry.com/patterns/library/acorn-lantern"
+    "https://www.ravelry.com/patterns/library/acorn-lantern/report",
+    "https://www.ravelry.com/patterns/library/acorn-lantern/threads",
+    "https://www.ravelry.com/patterns/library/acorn-lantern/editors",
+    "https://www.ravelry.com/patterns/library/acorn-lantern/yarns",
+    "https://www.ravelry.com/patterns/library/acorn-lantern/people",
+    "https://www.ravelry.com/patterns/library/daffodil-bulb-vase"
   ]
 }

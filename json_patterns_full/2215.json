@@ -3,6 +3,10 @@
   "craft": "Knitting",
   "category": "Costume",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "Danish",
+    "English"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Zwerger Garn Opal Hundertwasser 4-fach / 4-ply"
@@ -16,18 +20,18 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/threads",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/comments",
     "http://christunte.blogspot.com/2009/11/sort-of-pattern.html",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/threads",
+    "https://www.ravelry.com/patterns/sources/strikkoman",
+    "https://www.ravelry.com/patterns/library/cpap-hat-upwards",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses",
     "https://www.ravelry.com/patterns/library/teddybear-poncho-sweater",
     "https://www.ravelry.com/patterns/library/knitted-3d-glasses/editors",
     "https://www.ravelry.com/patterns/library/knitted-3d-glasses/people",
     "https://www.ravelry.com/patterns/library/angel-touch-scarf",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses",
     "https://www.ravelry.com/patterns/library/knitted-3d-glasses/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/report",
-    "https://www.ravelry.com/patterns/library/cpap-hat-upwards",
-    "https://www.ravelry.com/patterns/sources/strikkoman"
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/comments",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/report"
   ],
   "name": "Ravelry: Knitted 3D Glasses pattern by Christine R. Hansen"
 }

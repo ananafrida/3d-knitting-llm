@@ -4,6 +4,9 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Newborn, 3 months, 6 - 9 months, 9 - 12 months",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -27,17 +30,17 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/babbity-baby-jacket/report",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/posts",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/editors",
-    "https://www.ravelry.com/patterns/library/babbity-baby-hat",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/comments",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/threads",
-    "https://www.ravelry.com/patterns/library/mariannas-lazy-daisy-all-in-one-top-down-cardigan",
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/people",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket",
     "https://www.ravelry.com/patterns/library/all-in-one-baby-top",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/yarns"
+    "https://www.ravelry.com/patterns/library/mariannas-lazy-daisy-all-in-one-top-down-cardigan",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/people",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/editors",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/yarns",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/comments",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket",
+    "https://www.ravelry.com/patterns/library/babbity-baby-hat",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/threads",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/posts",
+    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days"
   ],
   "name": "Ravelry: Babbity Baby Jacket pattern by marianna mel"
 }

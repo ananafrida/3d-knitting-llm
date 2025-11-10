@@ -2,6 +2,9 @@
   "pattern_page": "https://www.ravelry.com/patterns/library/bunting-29",
   "craft": "Knitting",
   "category": "Decorative → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -14,18 +17,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tenby-3",
-    "https://www.ravelry.com/patterns/library/bunting-29",
-    "https://www.fayeperriamreed.com/free-knitted-bunting-pattern/",
-    "https://www.ravelry.com/patterns/library/bunting-29/comments",
-    "https://www.ravelry.com/patterns/library/bunting-29/report",
-    "https://www.ravelry.com/patterns/sources/faye-perriam-reed-ravelry-store",
-    "https://www.ravelry.com/patterns/library/bunting-29/yarns",
-    "https://www.ravelry.com/patterns/library/tywardreath",
-    "https://www.ravelry.com/patterns/library/sennen-cove-tee",
     "https://www.ravelry.com/patterns/library/bunting-29/editors",
+    "https://www.ravelry.com/patterns/library/bunting-29/report",
+    "https://www.ravelry.com/patterns/library/tenby-3",
+    "https://www.ravelry.com/patterns/library/sennen-cove-tee",
+    "https://www.ravelry.com/patterns/library/bunting-29/yarns",
+    "https://www.ravelry.com/patterns/sources/faye-perriam-reed-ravelry-store",
+    "https://www.ravelry.com/patterns/library/bunting-29/comments",
+    "https://www.ravelry.com/patterns/library/tywardreath",
+    "https://www.ravelry.com/patterns/library/bunting-29/threads",
     "https://www.ravelry.com/patterns/library/bunting-29/people",
-    "https://www.ravelry.com/patterns/library/bunting-29/threads"
+    "https://www.fayeperriamreed.com/free-knitted-bunting-pattern/",
+    "https://www.ravelry.com/patterns/library/bunting-29"
   ],
   "name": "Ravelry: Bunting pattern by Faye Perriam-Reed"
 }

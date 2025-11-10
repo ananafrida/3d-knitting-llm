@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Paintbox Yarns Simply DK"
+    "Paintbox Yarns Simply DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "cables",
@@ -19,17 +22,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/flower-girls",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/yarns",
-    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/editors",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/people",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/threads",
     "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/posts",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/yarns",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/editors",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/comments",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/threads",
     "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
     "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/report",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/comments"
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/people",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+    "https://www.ravelry.com/patterns/library/flower-girls",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store"
   ]
 }

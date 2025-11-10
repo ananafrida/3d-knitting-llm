@@ -6,6 +6,10 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "sizes_available": "All sizes",
+  "languages": [
+    "English",
+    "Italian"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -25,15 +29,15 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/two-step-breast-shaping/report",
-    "https://www.ravelry.com/patterns/library/cabled-handwarmers-2",
-    "https://www.ravelry.com/patterns/library/two-step-breast-shaping/yarns",
-    "https://www.ravelry.com/patterns/library/two-step-breast-shaping",
-    "https://www.ravelry.com/patterns/library/smallest-oceans",
     "https://www.ravelry.com/patterns/library/collo-con-tre-opzioni-di-motivo",
+    "https://www.ravelry.com/patterns/library/two-step-breast-shaping",
+    "https://www.ravelry.com/patterns/library/cabled-handwarmers-2",
     "https://www.ravelry.com/patterns/library/two-step-breast-shaping/editors",
     "https://www.ravelry.com/patterns/library/two-step-breast-shaping/people",
+    "https://www.ravelry.com/patterns/library/two-step-breast-shaping/yarns",
+    "https://www.ravelry.com/patterns/sources/alice-twain",
     "https://www.ravelry.com/patterns/library/two-step-breast-shaping/comments",
-    "https://www.ravelry.com/patterns/sources/alice-twain"
+    "https://www.ravelry.com/patterns/library/two-step-breast-shaping/report",
+    "https://www.ravelry.com/patterns/library/smallest-oceans"
   ]
 }

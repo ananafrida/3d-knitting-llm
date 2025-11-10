@@ -4,6 +4,27 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "XS - S - M - L - XL - XXL - XXXL",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "Garnstudio DROPS Melody",
     "Bulky (7 wpi) ?"
@@ -35,20 +56,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
-    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/comments",
-    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/editors",
-    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/people",
     "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan",
-    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/report",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/periodicals/drops",
+    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/editors",
     "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
+    "https://www.ravelry.com/patterns/sources/drops-263",
     "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/edit",
-    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/report",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
+    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/comments",
+    "https://www.ravelry.com/patterns/periodicals/drops",
     "https://www.garnstudio.com/pattern.php?id=12427&cid=19",
-    "https://www.ravelry.com/patterns/sources/drops-263"
+    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
+    "https://www.ravelry.com/patterns/library/263-23-tide-song-cardigan/people"
   ],
   "name": "Ravelry: 263-23 Tide Song Cardigan pattern by DROPS design"
 }

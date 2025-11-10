@@ -7,6 +7,19 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "Dutch",
+    "English",
+    "German",
+    "Italian",
+    "Japanese",
+    "Polish",
+    "Spanish",
+    "Additional languages which are not in the download: Czech, Danish, French, Swedish",
+    "...and 11 other languages show hide other languages",
+    "...and 11 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Lang Yarns Mille Colori Baby"
@@ -25,14 +38,14 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/comments",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/people",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/report",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/threads",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/posts",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/yarns",
     "https://www.ravelry.com/patterns/sources/christy-kamms-ravelry-store",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/editors"
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/comments",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/posts",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/people",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/threads",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/editors",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/report",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/yarns"
   ]
 }

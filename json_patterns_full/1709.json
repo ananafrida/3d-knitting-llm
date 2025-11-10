@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Pet → Toys Toys and Hobbies → Other",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -20,17 +23,17 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/yarns",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/report",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones",
     "https://www.ravelry.com/patterns/library/mini-traffic-cones/posts",
     "https://www.ravelry.com/patterns/library/mini-traffic-cones/comments",
-    "https://www.ravelry.com/patterns/library/bel-ami-mitts",
-    "https://www.ravelry.com/patterns/library/bel-ami-beret",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/people",
     "https://www.ravelry.com/patterns/library/library-socks",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/threads",
+    "https://www.ravelry.com/patterns/library/bel-ami-mitts",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/people",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/report",
+    "https://www.ravelry.com/patterns/library/bel-ami-beret",
+    "https://www.ravelry.com/patterns/sources/prairie-knitters-ravelry-downloads",
     "https://www.ravelry.com/patterns/library/mini-traffic-cones/editors",
-    "https://www.ravelry.com/patterns/sources/prairie-knitters-ravelry-downloads"
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/yarns",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/threads"
   ]
 }

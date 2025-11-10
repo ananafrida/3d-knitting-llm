@@ -100,7 +100,7 @@ def parse_html(filepath):
         except:
             pass
 
-    fields = soup.find_all("div", class_="field core_item_content__field")
+    fields = soup.select("div.field.core_item_content__field, div.core_item_content__field--languages")
     yarns = []
 
     for f in fields:
@@ -112,15 +112,15 @@ def parse_html(filepath):
         v = clean(val.text)
         if "craft" in key:
             result["craft"] = v
-        elif "category" in key:
+        if "category" in key:
             result["category"] = v
-        elif "needle" in key:
+        if "needle" in key:
             result["needle_size"] = normalize_needle(v)
-        elif "yarn" in key:
+        if "yarn" in key:
             yarns.append(v)
-        elif "sizes available" in key:
+        if "sizes available" in key:
             result["sizes_available"] = v
-        elif "languages" in key:
+        if "languages" in key:
             result["languages"] = [clean(lang.text) for lang in val.find_all("span")]
 
     if yarns:

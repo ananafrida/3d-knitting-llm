@@ -7,9 +7,12 @@
   "category": "Containers",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "Comes in 4 sizes to stack together",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "felted",
@@ -20,14 +23,14 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/stack-a-bowls/editors",
-    "https://www.ravelry.com/patterns/library/stack-a-bowls/comments",
-    "https://www.ravelry.com/patterns/library/stack-a-bowls/people",
-    "https://www.ravelry.com/patterns/library/stack-a-bowls/report",
+    "https://www.ravelry.com/patterns/library/stack-a-bowls/yarns",
     "https://www.ravelry.com/patterns/library/knitted-utility-basket",
     "https://www.ravelry.com/patterns/sources/yuko-fredricks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/stack-a-bowls/yarns",
     "https://www.ravelry.com/patterns/library/baby-blanket-72",
+    "https://www.ravelry.com/patterns/library/stack-a-bowls/people",
+    "https://www.ravelry.com/patterns/library/stack-a-bowls/report",
+    "https://www.ravelry.com/patterns/library/knitted-christmas-ornaments-2",
     "https://www.ravelry.com/patterns/library/stack-a-bowls",
-    "https://www.ravelry.com/patterns/library/knitted-christmas-ornaments-2"
+    "https://www.ravelry.com/patterns/library/stack-a-bowls/comments"
   ]
 }

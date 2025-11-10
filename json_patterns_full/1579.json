@@ -7,6 +7,9 @@
   "category": "Decorative → Other",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "Height without pole: 2”/ 5cm, or desired size.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Fleece & Harmony Point Prim Sock"
@@ -22,16 +25,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/acorn-streetlamp/editors",
     "https://www.ravelry.com/patterns/library/acorn-streetlamp/comments",
-    "https://www.ravelry.com/patterns/library/acorn-streetlamp/report",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/tiny-nutcrackers",
-    "https://www.ravelry.com/patterns/library/acorn-streetlamp",
-    "https://www.ravelry.com/patterns/library/fairy-village",
-    "https://www.ravelry.com/patterns/library/a-visit-from-saint-nicholas",
-    "https://www.ravelry.com/patterns/library/acorn-streetlamp/people",
     "https://www.ravelry.com/patterns/library/acorn-lantern",
-    "https://www.ravelry.com/patterns/library/acorn-streetlamp/yarns"
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/acorn-streetlamp/people",
+    "https://www.ravelry.com/patterns/library/acorn-streetlamp",
+    "https://www.ravelry.com/patterns/library/acorn-streetlamp/yarns",
+    "https://www.ravelry.com/patterns/library/acorn-streetlamp/report",
+    "https://www.ravelry.com/patterns/library/fairy-village",
+    "https://www.ravelry.com/patterns/library/acorn-streetlamp/editors",
+    "https://www.ravelry.com/patterns/library/a-visit-from-saint-nicholas",
+    "https://www.ravelry.com/patterns/library/tiny-nutcrackers"
   ]
 }

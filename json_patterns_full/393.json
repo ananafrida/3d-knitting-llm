@@ -7,6 +7,9 @@
   "category": "Sweater → Cardigan Coat / Jacket",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "0-3 months and 3-6 months",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -31,16 +34,16 @@
   "shape": "cylinder",
   "download_links": [
     "https://www.ravelry.com/patterns/library/pippi-baby-jacket/yarns",
-    "https://www.ravelry.com/patterns/library/pippi-baby-hat",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-5",
     "https://www.ravelry.com/patterns/library/pippi-baby-jacket/people",
-    "https://www.ravelry.com/patterns/library/pippi-baby-jacket/editors",
-    "https://www.ravelry.com/patterns/library/pippi-baby-jacket/comments",
-    "https://www.ravelry.com/bundles/baby-patterns-5",
-    "https://www.ravelry.com/patterns/library/pippi-baby-jacket/report",
     "https://www.ravelry.com/patterns/library/pippi-baby-jacket/threads",
-    "https://www.ravelry.com/patterns/library/pippi-baby-booties",
+    "https://www.ravelry.com/patterns/library/pippi-baby-jacket/report",
+    "https://www.ravelry.com/patterns/library/pippi-baby-hat",
+    "https://www.ravelry.com/patterns/library/pippi-baby-jacket/editors",
     "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/pippi-baby-jacket"
+    "https://www.ravelry.com/patterns/library/pippi-baby-jacket",
+    "https://www.ravelry.com/bundles/baby-patterns-5",
+    "https://www.ravelry.com/patterns/library/pippi-baby-jacket/comments",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-5",
+    "https://www.ravelry.com/patterns/library/pippi-baby-booties"
   ]
 }

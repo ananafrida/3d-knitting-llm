@@ -6,9 +6,13 @@
   "craft": "Knitting",
   "category": "Hat → Pixie",
   "sizes_available": "0-3m, 3-6m, 6-12m, 1-2 years, 2-4 years, 4-6 years, 6-10 years",
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
   "suggested_yarn": [
-    "Debbie Bliss Baby Cashmerino",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Debbie Bliss Baby Cashmerino"
   ],
   "attributes": [
     "baby",
@@ -27,17 +31,17 @@
   ],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/posts",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/editors",
     "https://www.ravelry.com/patterns/library/calendula-kids-sweater",
+    "https://www.ravelry.com/patterns/library/maple-baby-overalls",
     "https://www.ravelry.com/patterns/library/clover-baby-diaper-cover-20",
     "https://www.ravelry.com/patterns/library/dixie-pixie-hat",
     "https://www.ravelry.com/patterns/library/dixie-pixie-hat/threads",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/yarns",
     "https://www.ravelry.com/patterns/library/dixie-pixie-hat/report",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/people",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/yarns",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/comments",
     "https://www.ravelry.com/patterns/sources/agasalhos-e-bugalhos-on-etsy",
-    "https://www.ravelry.com/patterns/library/maple-baby-overalls",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/posts",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/editors",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/comments"
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/people"
   ]
 }

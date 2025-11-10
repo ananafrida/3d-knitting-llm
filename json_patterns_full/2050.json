@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Worsted (9 wpi) ?",
     "Festival Mix Fiber"
@@ -21,16 +24,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/handle-for-brea-bag/report",
-    "http://www.ravelry.com/patterns/library/brea-bag",
-    "https://www.ravelry.com/patterns/library/slouchy-seed-stitch-hat",
-    "https://www.ravelry.com/patterns/library/slouchy-lace-hat-2",
     "https://www.ravelry.com/patterns/library/handle-for-brea-bag/comments",
-    "https://www.ravelry.com/patterns/library/handle-for-brea-bag/people",
+    "https://www.ravelry.com/patterns/library/slouchy-seed-stitch-hat",
+    "http://www.ravelry.com/patterns/library/brea-bag",
     "https://www.ravelry.com/patterns/sources/jessamyns-ravelry-downloads",
     "https://www.ravelry.com/patterns/library/handle-for-brea-bag/editors",
+    "https://www.ravelry.com/patterns/library/handle-for-brea-bag/report",
+    "https://www.ravelry.com/patterns/library/pumpkin-patch-kid",
     "https://www.ravelry.com/patterns/library/handle-for-brea-bag",
+    "https://www.ravelry.com/patterns/library/handle-for-brea-bag/people",
     "https://www.ravelry.com/patterns/library/handle-for-brea-bag/yarns",
-    "https://www.ravelry.com/patterns/library/pumpkin-patch-kid"
+    "https://www.ravelry.com/patterns/library/slouchy-lace-hat-2"
   ]
 }

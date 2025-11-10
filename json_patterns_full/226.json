@@ -7,9 +7,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lion Brand 24/7 Cotton"
+    "Lion Brand 24/7 Cotton",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -22,17 +25,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-carson-crossbody/yarns",
     "https://www.ravelry.com/patterns/library/the-carson-crossbody/people",
+    "https://www.ravelry.com/patterns/library/the-carson-crossbody/yarns",
+    "https://www.ravelry.com/patterns/library/the-carson-crossbody/comments",
+    "https://www.ravelry.com/patterns/sources/meghan-makes-do-website",
     "https://www.ravelry.com/patterns/library/the-bowden-cardigan",
-    "https://www.ravelry.com/patterns/library/the-carson-crossbody/editors",
+    "https://www.ravelry.com/patterns/sources/meghan-makes-do-2",
+    "https://www.ravelry.com/patterns/library/the-magnus-cardigan",
     "https://www.meghanmakesdo.com/blog/the-carson-crossbody-free-knitting-pattern",
     "https://www.ravelry.com/patterns/library/the-magnus-throw",
-    "https://www.ravelry.com/patterns/library/the-carson-crossbody",
-    "https://www.ravelry.com/patterns/library/the-carson-crossbody/comments",
     "https://www.ravelry.com/patterns/library/the-carson-crossbody/report",
-    "https://www.ravelry.com/patterns/sources/meghan-makes-do-website",
-    "https://www.ravelry.com/patterns/sources/meghan-makes-do-2",
-    "https://www.ravelry.com/patterns/library/the-magnus-cardigan"
+    "https://www.ravelry.com/patterns/library/the-carson-crossbody/editors",
+    "https://www.ravelry.com/patterns/library/the-carson-crossbody"
   ]
 }

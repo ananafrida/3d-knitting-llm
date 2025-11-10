@@ -4,6 +4,9 @@
   "category": "Ball",
   "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
   "sizes_available": "1",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Schoeller+Stahl Fortissima Socka"
@@ -18,19 +21,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/comments",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/yarns",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/posts",
-    "https://www.ravelry.com/patterns/sources/knitty-winter-2008",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/threads",
     "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/people",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/editors",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/report",
     "https://www.ravelry.com/patterns/library/victorian-duet-scarf",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/report",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/editors",
+    "https://www.ravelry.com/patterns/library/big-d-mn-pineapple-1840",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/comments",
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2008",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/posts",
     "https://www.ravelry.com/patterns/library/megadahlia",
-    "https://www.ravelry.com/patterns/library/big-d-mn-pineapple-1840"
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/yarns",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/threads"
   ],
   "name": "Ravelry: Ball Knitted Like an Orange pattern by Franklin Habit"
 }

@@ -6,6 +6,10 @@
   "craft": "Knitting",
   "category": "Afghan block",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English",
+    "Universal"
+  ],
   "suggested_yarn": [
     "Deramores Studio Anti-Pilling DK",
     "DK (11 wpi) ?"
@@ -19,15 +23,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/mandy-kays-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ankylosaurus-blanket-square/comments",
-    "https://www.ravelry.com/patterns/library/ankylosaurus-blanket-square/yarns",
     "https://www.ravelry.com/patterns/library/ankylosaurus-blanket-square/editors",
-    "https://www.ravelry.com/patterns/library/anomalocaris-blanket-square",
-    "https://www.ravelry.com/patterns/library/pterosaurs-blanket-square",
     "https://www.ravelry.com/patterns/library/ankylosaurus-blanket-square/report",
-    "https://www.ravelry.com/patterns/library/stegosaurus-blanket-square",
+    "https://www.ravelry.com/patterns/library/anomalocaris-blanket-square",
+    "https://www.ravelry.com/patterns/sources/mandy-kays-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ankylosaurus-blanket-square/yarns",
     "https://www.ravelry.com/patterns/library/ankylosaurus-blanket-square",
-    "https://www.ravelry.com/patterns/library/ankylosaurus-blanket-square/people"
+    "https://www.ravelry.com/patterns/library/ankylosaurus-blanket-square/people",
+    "https://www.ravelry.com/patterns/library/ankylosaurus-blanket-square/comments",
+    "https://www.ravelry.com/patterns/library/pterosaurs-blanket-square",
+    "https://www.ravelry.com/patterns/library/stegosaurus-blanket-square"
   ]
 }

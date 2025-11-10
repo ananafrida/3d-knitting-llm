@@ -7,6 +7,10 @@
   "category": "Components → Other",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "Für 36 bis 72 Maschen",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -25,16 +29,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/bettina-koschligs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/yarns",
-    "https://www.ravelry.com/patterns/library/socken-faaborg",
     "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/comments",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/report",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/editors",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/people",
-    "https://www.ravelry.com/patterns/library/armband-pamela",
+    "https://www.ravelry.com/patterns/library/socken-faaborg",
     "https://www.ravelry.com/patterns/library/brioche-me",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/posts"
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip",
+    "https://www.ravelry.com/patterns/sources/bettina-koschligs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/people",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/editors",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/yarns",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/report",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/posts",
+    "https://www.ravelry.com/patterns/library/armband-pamela"
   ]
 }

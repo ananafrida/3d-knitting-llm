@@ -7,9 +7,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
   "sizes_available": "One Size, with mini size also available in Ravelry download",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Noro Kureyon（くれよん）"
+    "Noro Kureyon（くれよん）",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -25,18 +28,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/black-sheep-bags",
-    "https://www.ravelry.com/patterns/library/booga-bag/people",
-    "https://www.ravelry.com/patterns/library/elizabeth-bag",
-    "https://www.ravelry.com/patterns/library/booga-bag/yarns",
     "https://www.ravelry.com/patterns/library/sophie",
-    "https://www.ravelry.com/patterns/library/booga-bag",
+    "https://www.ravelry.com/patterns/library/elizabeth-bag",
+    "https://www.ravelry.com/patterns/library/booga-bag/threads",
     "https://www.ravelry.com/patterns/library/bigger--biggest-booga-bag",
+    "https://www.ravelry.com/patterns/sources/black-sheep-bags",
+    "https://www.ravelry.com/patterns/library/booga-bag/comments",
+    "https://www.ravelry.com/patterns/library/booga-bag/posts",
+    "https://www.ravelry.com/patterns/library/booga-bag/yarns",
+    "https://www.ravelry.com/patterns/library/booga-bag",
     "https://www.ravelry.com/patterns/library/booga-bag/report",
     "https://www.ravelry.com/patterns/sources/black-sheep-bags-website",
-    "https://www.ravelry.com/patterns/library/booga-bag/threads",
-    "https://www.ravelry.com/patterns/library/booga-bag/editors",
-    "https://www.ravelry.com/patterns/library/booga-bag/posts",
-    "https://www.ravelry.com/patterns/library/booga-bag/comments"
+    "https://www.ravelry.com/patterns/library/booga-bag/people",
+    "https://www.ravelry.com/patterns/library/booga-bag/editors"
   ]
 }

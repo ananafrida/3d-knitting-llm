@@ -2,6 +2,9 @@
   "pattern_page": "https://www.ravelry.com/patterns/library/diagonal-square-3",
   "craft": "Knitting",
   "category": "Afghan block",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Any gauge - designed for any gauge ?"
@@ -15,20 +18,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/diagonal-square-3/threads",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3/people",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3",
+    "http://knit-a-square.com/free-knitting-pattern-diagonal-square/",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3/report",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3/yarns",
     "https://www.ravelry.com/patterns/library/diagonal-square-3/comments",
     "https://www.ravelry.com/patterns/library/diagonal-square-3/edit",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/people",
     "https://www.ravelry.com/patterns/library/square-vest-knit",
-    "http://knit-a-square.com/free-knitting-pattern-diagonal-square/",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/yarns",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/threads",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3",
-    "https://www.ravelry.com/patterns/library/kas-mitred-square",
+    "https://www.ravelry.com/patterns/sources/knit-a-square",
+    "http://www.knit-a-square.com/sites/default/files/Knitted_Square_Diagonal.pdf",
     "https://www.ravelry.com/patterns/library/plain-jane-square",
     "https://www.ravelry.com/patterns/library/diagonal-square-3/editors",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/report",
-    "http://www.knit-a-square.com/sites/default/files/Knitted_Square_Diagonal.pdf",
-    "https://www.ravelry.com/patterns/sources/knit-a-square"
+    "https://www.ravelry.com/patterns/library/kas-mitred-square"
   ],
   "name": "Ravelry: Diagonal Square pattern by knit-a-square"
 }

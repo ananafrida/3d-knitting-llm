@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Hat → Pixie",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Garnstudio DROPS Nepal"
+    "Garnstudio DROPS Nepal",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -17,16 +20,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/andesite-fair-isle-winter-hat",
     "https://www.ravelry.com/patterns/library/iris-tealight-holder",
+    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/yarns",
+    "https://www.ravelry.com/patterns/library/andesite-fair-isle-winter-hat",
+    "https://www.ravelry.com/patterns/sources/saraphir",
+    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4",
     "https://www.ravelry.com/patterns/library/striped-baby-booties-in-4-sizes",
     "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/people",
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4",
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/editors",
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/yarns",
+    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/comments",
     "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/report",
-    "https://www.ravelry.com/patterns/sources/saraphir",
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/comments"
+    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/editors"
   ],
   "name": "Ravelry: Baby Pixie Hat pattern by Saraphir Legind"
 }

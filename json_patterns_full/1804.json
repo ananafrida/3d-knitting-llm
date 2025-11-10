@@ -7,9 +7,12 @@
   "category": "Containers",
   "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
   "sizes_available": "Small (Large)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Blue Sky Fibers Woolstok Worsted"
+    "Blue Sky Fibers Woolstok Worsted",
+    "yarn held together"
   ],
   "attributes": [
     "felted",
@@ -19,18 +22,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
     "https://www.ravelry.com/patterns/library/hillman-felted-vessels/comments",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/editors",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/people",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/urbana-scarf",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
     "https://www.ravelry.com/patterns/library/hillman-felted-vessels/edit",
-    "https://www.ravelry.com/patterns/library/linda-hat-2",
+    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/yarns",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
     "https://www.ravelry.com/patterns/library/hillman-felted-vessels/report",
-    "https://www.ravelry.com/patterns/library/tulsa-tank",
+    "https://www.ravelry.com/patterns/library/linda-hat-2",
     "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/yarns"
+    "https://www.ravelry.com/patterns/library/hillman-felted-vessels",
+    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/people",
+    "https://www.ravelry.com/patterns/library/urbana-scarf",
+    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/editors",
+    "https://www.ravelry.com/patterns/library/tulsa-tank"
   ]
 }

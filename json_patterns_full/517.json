@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
   "sizes_available": "short & long",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Hedgehog Fibres Super Bulky",
-    "Super Bulky (5-6 wpi) ?"
+    "Super Bulky (5-6 wpi) ?",
+    "Hedgehog Fibres Super Bulky"
   ],
   "attributes": [
     "in-the-round",
@@ -24,15 +27,15 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/wharf-street",
+    "https://www.ravelry.com/patterns/library/time-after-time-cowl/report",
+    "https://www.ravelry.com/patterns/library/time-after-time-cowl/comments",
+    "https://www.ravelry.com/patterns/library/time-after-time-cowl/yarns",
+    "https://www.ravelry.com/patterns/sources/elizabeth-smith-knits",
     "https://www.ravelry.com/patterns/library/time-after-time-cowl/threads",
     "https://www.ravelry.com/patterns/library/time-after-time-cowl",
     "https://www.ravelry.com/patterns/library/time-after-time-cowl/editors",
     "https://www.ravelry.com/patterns/library/acadia-loop",
     "https://www.ravelry.com/patterns/library/alanis-3",
-    "https://www.ravelry.com/patterns/library/time-after-time-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/time-after-time-cowl/people",
-    "https://www.ravelry.com/patterns/library/time-after-time-cowl/report",
-    "https://www.ravelry.com/patterns/sources/elizabeth-smith-knits",
-    "https://www.ravelry.com/patterns/library/time-after-time-cowl/comments"
+    "https://www.ravelry.com/patterns/library/time-after-time-cowl/people"
   ]
 }

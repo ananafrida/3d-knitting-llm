@@ -5,6 +5,9 @@
   "designer": "Jean Murdoch",
   "craft": "Knitting",
   "category": "Components → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -15,16 +18,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/posts",
-    "https://www.ravelry.com/patterns/library/short-sports-socks",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/editors",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/comments",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/report",
     "https://www.ravelry.com/patterns/sources/byhandbyjean-designs",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/people",
+    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel",
     "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/yarns",
+    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/report",
+    "https://www.ravelry.com/patterns/library/cuffed-twisted-cable-fingerless-mitts",
+    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/people",
+    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/comments",
+    "https://www.ravelry.com/patterns/library/short-sports-socks",
     "https://www.ravelry.com/patterns/library/cross-pattern-socks",
-    "https://www.ravelry.com/patterns/library/cuffed-twisted-cable-fingerless-mitts"
+    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/posts",
+    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/editors"
   ]
 }

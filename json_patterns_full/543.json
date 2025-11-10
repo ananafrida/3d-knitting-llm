@@ -7,6 +7,10 @@
   "category": "Blanket → Baby Blanket",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
     "Sandnes Garn Smart",
     "DK (11 wpi) ?"
@@ -23,17 +27,17 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket/people",
     "https://www.ravelry.com/patterns/library/lisbeth-blanket/report",
-    "https://www.ravelry.com/patterns/library/cat-love-socks",
     "https://www.ravelry.com/patterns/library/leftover-sneaker",
-    "https://www.ravelry.com/patterns/sources/anja-heumanns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket/threads",
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket/editors",
     "https://www.ravelry.com/patterns/library/lisbeth-blanket/comments",
-    "https://www.ravelry.com/patterns/library/erika-9",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket/editors",
     "https://www.ravelry.com/patterns/library/lisbeth-blanket/posts",
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket"
+    "https://www.ravelry.com/patterns/library/erika-9",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/cat-love-socks",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket/threads",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket",
+    "https://www.ravelry.com/patterns/sources/anja-heumanns-ravelry-store",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket/people"
   ]
 }

@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Blocks",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -15,14 +18,14 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/editors",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/comments",
     "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/report",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/threads",
-    "https://www.ravelry.com/patterns/sources/secular-coalition-for-america",
     "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/yarns",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/people"
+    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/comments",
+    "https://www.ravelry.com/patterns/sources/secular-coalition-for-america",
+    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/people",
+    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/threads",
+    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick",
+    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/editors"
   ],
   "name": "Ravelry: Hobby Lobby Made Me #KnitABrick pattern by Secular Coalition for America"
 }

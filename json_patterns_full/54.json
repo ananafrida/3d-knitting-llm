@@ -7,9 +7,12 @@
   "category": "Afghan block",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "N/A",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lion Brand 24/7 Cotton"
+    "Lion Brand 24/7 Cotton",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -20,15 +23,15 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/big-diagonal-domino",
+    "https://www.ravelry.com/patterns/library/1840-gauffre-stitch",
     "https://www.ravelry.com/patterns/library/welt-hat-for-65-bjd-head",
+    "https://www.ravelry.com/patterns/library/big-diagonal-domino/comments",
+    "https://www.ravelry.com/patterns/library/big-diagonal-domino/editors",
     "https://www.ravelry.com/patterns/library/big-diagonal-domino/yarns",
+    "https://www.ravelry.com/patterns/library/big-diagonal-domino",
     "https://www.ravelry.com/patterns/library/big-diagonal-domino/report",
     "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
-    "https://www.ravelry.com/patterns/library/big-diagonal-domino/comments",
     "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
-    "https://www.ravelry.com/patterns/library/big-diagonal-domino/people",
-    "https://www.ravelry.com/patterns/library/big-diagonal-domino/editors",
-    "https://www.ravelry.com/patterns/library/1840-gauffre-stitch"
+    "https://www.ravelry.com/patterns/library/big-diagonal-domino/people"
   ]
 }

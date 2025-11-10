@@ -4,9 +4,12 @@
   "category": "Blocks",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "6 x 6 x 6 in. (15 x 15 x 15 cm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lion Brand Pound of Love"
+    "Lion Brand Pound of Love",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "cube-shaped",
@@ -19,22 +22,22 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/edit",
-    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks",
-    "http://www.ravelry.com/patterns/library/embroidered-baby-blanket-l20334",
-    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/comments",
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/yarns",
     "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/people",
+    "http://www.lionbrand.com/patterns/L20407.html",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/edit",
     "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/editors",
-    "http://www.ravelry.com/patterns/library/monogrammed-baby-blanket-l20332",
     "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/report",
     "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
+    "http://www.ravelry.com/patterns/library/monogrammed-baby-blanket-l20332",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/comments",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks",
+    "http://www.ravelry.com/patterns/library/embroidered-baby-blanket-l20334",
     "https://www.ravelry.com/patterns/library/diagonal-eyelet-baby-blanket-2",
-    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/yarns",
     "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "http://www.ravelry.com/patterns/library/dotty-baby-wall-hanging",
     "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
-    "http://www.lionbrand.com/patterns/L20407.html"
+    "http://www.ravelry.com/patterns/library/dotty-baby-wall-hanging"
   ],
   "name": "Ravelry: Embroidered Baby Blocks pattern by Lion Brand Yarn"
 }

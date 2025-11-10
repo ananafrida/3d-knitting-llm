@@ -4,9 +4,22 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "S à XXL",
+  "languages": [
+    "Chinese",
+    "French",
+    "German",
+    "Italian",
+    "Norwegian",
+    "Portuguese",
+    "Spanish",
+    "Turkish",
+    "...and 8 other languages show hide other languages",
+    "...and 8 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Belle"
+    "Garnstudio DROPS Belle",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -16,17 +29,17 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pull-marin-2/yarns",
     "https://www.ravelry.com/patterns/library/cerise-tee",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/people",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/editors",
-    "https://www.ravelry.com/patterns/library/gilet-laurier-rose",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/comments",
     "https://www.ravelry.com/patterns/library/pull-marin-2/report",
-    "https://www.ravelry.com/patterns/library/cardigan-mimosa",
     "https://www.ravelry.com/patterns/library/pull-marin-2",
-    "https://www.ravelry.com/patterns/sources/stephalinemade-on-youtube",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/threads"
+    "https://www.ravelry.com/patterns/library/pull-marin-2/threads",
+    "https://www.ravelry.com/patterns/library/pull-marin-2/editors",
+    "https://www.ravelry.com/patterns/library/pull-marin-2/yarns",
+    "https://www.ravelry.com/patterns/library/pull-marin-2/comments",
+    "https://www.ravelry.com/patterns/library/gilet-laurier-rose",
+    "https://www.ravelry.com/patterns/library/cardigan-mimosa",
+    "https://www.ravelry.com/patterns/library/pull-marin-2/people",
+    "https://www.ravelry.com/patterns/sources/stephalinemade-on-youtube"
   ],
   "name": "Ravelry: Pull Marin pattern by Stéphanie L"
 }

@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Food Pet → Toys",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -22,18 +25,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/yarns",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/comments",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/threads",
-    "https://www.ravelry.com/patterns/sources/djinnjs-channel--youtube",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/people",
-    "https://www.ravelry.com/patterns/sources/dale-hwangs-ravelry-downloads",
     "https://www.ravelry.com/patterns/library/jiaozi-dumplings/editors",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/report",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings",
-    "https://www.ravelry.com/patterns/library/puffskein",
-    "https://www.ravelry.com/patterns/library/weasley-twins-ski-cap",
+    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/yarns",
     "https://www.ravelry.com/patterns/library/jiaozi-dumplings/posts",
-    "https://www.ravelry.com/patterns/library/lupin-scarf"
+    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/threads",
+    "https://www.ravelry.com/patterns/library/weasley-twins-ski-cap",
+    "https://www.ravelry.com/patterns/sources/djinnjs-channel--youtube",
+    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/report",
+    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/comments",
+    "https://www.ravelry.com/patterns/library/puffskein",
+    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/people",
+    "https://www.ravelry.com/patterns/library/lupin-scarf",
+    "https://www.ravelry.com/patterns/sources/dale-hwangs-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/jiaozi-dumplings"
   ]
 }

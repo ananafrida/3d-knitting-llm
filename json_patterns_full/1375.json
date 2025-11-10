@@ -7,6 +7,9 @@
   "category": "Softies → Other",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "Diameter & Height: Approximately 3\"/ 7.5cm, or desired size.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Patons North America Classic Wool Worsted",
     "Worsted (9 wpi) ?"
@@ -22,16 +25,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/report",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
     "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house",
-    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/people",
-    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns",
-    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/editors",
-    "https://www.ravelry.com/patterns/library/english-rose-10",
-    "https://www.ravelry.com/patterns/library/toadstool-promenade",
-    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/comments",
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
     "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/threads",
-    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/yarns"
+    "https://www.ravelry.com/patterns/library/english-rose-10",
+    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/editors",
+    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns",
+    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/yarns",
+    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/people",
+    "https://www.ravelry.com/patterns/library/toadstool-promenade",
+    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/report",
+    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house/comments"
   ]
 }

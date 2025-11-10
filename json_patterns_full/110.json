@@ -5,6 +5,9 @@
   "designer": "Kath Dalmeny",
   "craft": "Knitting",
   "category": "Ball Blocks",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -19,16 +22,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/people",
-    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/threads",
-    "https://www.ravelry.com/patterns/library/tiger-cub",
     "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/yarns",
     "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes",
-    "https://www.ravelry.com/patterns/library/elephant",
-    "https://www.ravelry.com/patterns/sources/kath-dalmenys-ravelry-store",
-    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/comments",
-    "https://www.ravelry.com/patterns/library/panda",
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/threads",
     "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/editors",
-    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/report"
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/report",
+    "https://www.ravelry.com/patterns/library/tiger-cub",
+    "https://www.ravelry.com/patterns/sources/kath-dalmenys-ravelry-store",
+    "https://www.ravelry.com/patterns/library/elephant",
+    "https://www.ravelry.com/patterns/library/panda",
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/comments",
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/people"
   ]
 }

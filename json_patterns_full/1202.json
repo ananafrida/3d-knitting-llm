@@ -7,6 +7,9 @@
   "category": "Softies → Doll",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "15cm tall",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Adriafil Mirage",
     "DK (11 wpi) ?"
@@ -23,17 +26,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/santa-and-snowman",
-    "https://www.ravelry.com/bundles/free-patterns-500",
-    "https://www.ravelry.com/patterns/library/daisy-may/report",
-    "https://www.ravelry.com/patterns/library/daisy-may/yarns",
-    "https://www.ravelry.com/patterns/library/daisy-may/people",
     "https://www.ravelry.com/patterns/library/daisy-may/editors",
-    "https://www.ravelry.com/patterns/library/daisy-may/threads",
-    "https://www.ravelry.com/patterns/library/kevin-the-penguin",
     "https://www.ravelry.com/patterns/library/daisy-may/comments",
-    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/patterns/library/daisy-may/report",
     "https://www.ravelry.com/patterns/library/dinky-reindeer",
-    "https://www.ravelry.com/patterns/library/daisy-may"
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/kevin-the-penguin",
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/patterns/library/daisy-may/people",
+    "https://www.ravelry.com/patterns/library/daisy-may/yarns",
+    "https://www.ravelry.com/patterns/library/santa-and-snowman",
+    "https://www.ravelry.com/patterns/library/daisy-may",
+    "https://www.ravelry.com/patterns/library/daisy-may/threads"
   ]
 }

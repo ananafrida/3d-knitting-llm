@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Other",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -18,16 +21,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-plumps/report",
-    "https://www.ravelry.com/patterns/library/homespun-monsters",
-    "https://www.ravelry.com/patterns/library/the-plumps",
-    "https://www.ravelry.com/patterns/library/the-plumps/comments",
-    "https://www.ravelry.com/patterns/library/the-plumps/people",
-    "https://www.ravelry.com/patterns/library/the-plumps/threads",
-    "https://www.ravelry.com/patterns/library/cobblestone-mats",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/the-plumps/editors",
     "https://www.ravelry.com/patterns/library/the-plumps/yarns",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff"
+    "https://www.ravelry.com/patterns/library/cobblestone-mats",
+    "https://www.ravelry.com/patterns/library/the-plumps/comments",
+    "https://www.ravelry.com/patterns/library/the-plumps",
+    "https://www.ravelry.com/patterns/library/the-plumps/threads",
+    "https://www.ravelry.com/patterns/library/the-plumps/report",
+    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
+    "https://www.ravelry.com/patterns/library/homespun-monsters",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/the-plumps/editors",
+    "https://www.ravelry.com/patterns/library/the-plumps/people"
   ]
 }

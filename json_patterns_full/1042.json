@@ -7,9 +7,13 @@
   "category": "Tops → Tee",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "Finished Bust Circ : 80 (86 / 93 / 99 / 105 / 112 / 118), 125 (131 / 137 / 144 / 150 / 157 / 163) cm – 31 ½ (33 ¾ / 36 ½ / 39 / 41 ¼ / 44 / 46 ½), 49 ¼ (51 ½ / 54 / 56 ¾ / 59 / 61 ¾ / 64 ¼)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
-    "Natissea Damya",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Natissea Damya"
   ],
   "attributes": [
     "adult",
@@ -35,16 +39,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sintara",
-    "https://www.ravelry.com/patterns/library/sintara/report",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/sintara/comments",
     "https://www.ravelry.com/patterns/library/isonoe",
-    "https://www.ravelry.com/patterns/library/sintara/editors",
+    "https://www.ravelry.com/patterns/library/sintara",
     "https://www.ravelry.com/patterns/library/sintara/threads",
-    "https://www.ravelry.com/patterns/library/sintara/people",
+    "https://www.ravelry.com/patterns/library/sintara/editors",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
     "https://www.ravelry.com/patterns/library/felise",
+    "https://www.ravelry.com/patterns/library/sintara/report",
+    "https://www.ravelry.com/patterns/library/maika-2",
+    "https://www.ravelry.com/patterns/library/sintara/people",
     "https://www.ravelry.com/patterns/library/sintara/yarns",
-    "https://www.ravelry.com/patterns/library/maika-2"
+    "https://www.ravelry.com/patterns/library/sintara/comments"
   ]
 }

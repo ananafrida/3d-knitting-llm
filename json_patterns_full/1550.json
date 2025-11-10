@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Decorative → Other",
   "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Super Bulky (5-6 wpi) ?",
     "Lion Brand Wool Ease Thick & Quick"
@@ -22,16 +25,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/adrienne-sullivans-ravelry-store",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/report",
-    "https://www.ravelry.com/patterns/library/gourdgeous-crochet-pumpkins",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/editors",
+    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/yarns",
     "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins",
+    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/people",
+    "https://www.ravelry.com/patterns/sources/adrienne-sullivans-ravelry-store",
+    "https://www.ravelry.com/patterns/library/gourdgeous-crochet-pumpkins",
+    "https://www.ravelry.com/patterns/library/cloud-slippers-2",
     "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/comments",
     "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/threads",
     "https://www.ravelry.com/patterns/library/sway-kerchief",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/yarns",
-    "https://www.ravelry.com/patterns/library/cloud-slippers-2",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/people"
+    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/editors",
+    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/report"
   ]
 }

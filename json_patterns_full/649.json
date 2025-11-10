@@ -7,9 +7,12 @@
   "category": "Hat → Pixie",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Cascade Yarns ® 220 Superwash® Merino"
+    "Cascade Yarns ® 220 Superwash® Merino",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -26,17 +29,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/report",
     "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/yarns",
+    "https://www.ravelry.com/patterns/sources/alexandra-davidoff-studio",
     "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/threads",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/people",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/report",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/editors",
+    "https://www.ravelry.com/patterns/library/madina-baby-blanket",
+    "https://www.ravelry.com/patterns/library/i-am-dragon-2",
     "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/posts",
     "https://www.ravelry.com/patterns/library/sasha-knitdenim-scarf",
-    "https://www.ravelry.com/patterns/sources/alexandra-davidoff-studio",
-    "https://www.ravelry.com/patterns/library/madina-baby-blanket",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/editors",
-    "https://www.ravelry.com/patterns/library/i-am-dragon-2",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/people",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/comments"
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/comments",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/threads"
   ]
 }

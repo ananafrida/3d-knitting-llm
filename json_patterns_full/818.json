@@ -4,9 +4,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "9–18 Months (2 Years, 4 Years, 6 Years)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Purl Soho Cotton Pure"
+    "Purl Soho Cotton Pure",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -22,16 +25,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/comments",
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/people",
-    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4",
-    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/editors",
     "https://www.ravelry.com/patterns/library/knit--fold-slippers",
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/people",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/comments",
     "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/report",
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/yarns"
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover",
+    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/yarns",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/editors",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
   ],
   "name": "Ravelry: Crayon Stripes Pullover pattern by Purl Soho"
 }

@@ -4,9 +4,12 @@
   "category": "Blanket → Throw Blanket → Baby Blanket",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "Small/Childs or Baby, Medium, & Large Throw",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lion Brand Mandala"
+    "Lion Brand Mandala",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -21,17 +24,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/mama-in-a-stitch-website",
+    "https://www.ravelry.com/patterns/library/fall-cuddler-throw-blanket",
+    "https://www.ravelry.com/patterns/library/woven-look-throw-2/yarns",
+    "https://www.ravelry.com/patterns/library/woven-look-throw-2/editors",
     "https://www.ravelry.com/patterns/library/sundance-throw-2",
     "https://www.ravelry.com/patterns/library/woven-look-throw-2/people",
-    "https://www.ravelry.com/patterns/library/woven-look-throw-2/editors",
-    "https://www.ravelry.com/patterns/library/woven-look-throw-2/report",
-    "https://www.ravelry.com/patterns/library/rocky-mountain-sampler-blanket",
-    "https://www.ravelry.com/patterns/library/woven-look-throw-2/comments",
     "https://www.ravelry.com/patterns/library/woven-look-throw-2",
     "https://www.mamainastitch.com/woven-look-blanket-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/fall-cuddler-throw-blanket",
-    "https://www.ravelry.com/patterns/library/woven-look-throw-2/yarns"
+    "https://www.ravelry.com/patterns/library/rocky-mountain-sampler-blanket",
+    "https://www.ravelry.com/patterns/library/woven-look-throw-2/report",
+    "https://www.ravelry.com/patterns/sources/mama-in-a-stitch-website",
+    "https://www.ravelry.com/patterns/library/woven-look-throw-2/comments"
   ],
   "name": "Ravelry: Woven-Look Throw pattern by Jessica Reeves Potasz"
 }

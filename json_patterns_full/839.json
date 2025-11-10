@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "6 (8.5)”/ 15(20)cm wide x 60”/152 cm length measured from longest point to point",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Red Heart Super Saver Ombré"
+    "Red Heart Super Saver Ombré",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "chart",
@@ -22,17 +25,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/flurries-slipper-socks",
-    "https://www.ravelry.com/patterns/library/the-chevy-chase/people",
-    "https://www.ravelry.com/patterns/library/the-chevy-chase/yarns",
+    "https://www.ravelry.com/patterns/library/the-chevy-chase",
     "https://www.ravelry.com/patterns/sources/kate-agners-ravelry-store",
-    "https://www.ravelry.com/patterns/sources/all-fun-and-games/patterns",
-    "https://www.ravelry.com/patterns/library/life-raft-washcloth",
-    "https://www.ravelry.com/patterns/library/the-chevy-chase/comments",
     "https://www.ravelry.com/patterns/library/the-chevy-chase/editors",
-    "https://www.ravelry.com/patterns/library/the-chevy-chase/report",
-    "https://www.ravelry.com/patterns/sources/all-fun-and-games",
+    "https://www.ravelry.com/patterns/library/flurries-slipper-socks",
+    "https://www.ravelry.com/patterns/library/the-chevy-chase/comments",
+    "https://www.ravelry.com/patterns/library/life-raft-washcloth",
     "https://www.ravelry.com/patterns/library/peachy-clean-rug",
-    "https://www.ravelry.com/patterns/library/the-chevy-chase"
+    "https://www.ravelry.com/patterns/library/the-chevy-chase/people",
+    "https://www.ravelry.com/patterns/library/the-chevy-chase/report",
+    "https://www.ravelry.com/patterns/sources/all-fun-and-games/patterns",
+    "https://www.ravelry.com/patterns/library/the-chevy-chase/yarns",
+    "https://www.ravelry.com/patterns/sources/all-fun-and-games"
   ]
 }

@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Softies → Animal",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Lion Brand Vanna's Choice"
+    "Lion Brand Vanna's Choice",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -18,17 +21,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/silly-striped-teddy/people",
+    "https://www.ravelry.com/patterns/library/silly-striped-teddy/threads",
+    "https://www.lionbrand.com/products/knitting-pattern-silly-striped-teddy-1",
     "https://www.ravelry.com/patterns/library/goose-14",
     "https://www.ravelry.com/patterns/library/silly-striped-teddy/report",
-    "https://www.ravelry.com/patterns/library/pride-frog",
-    "https://www.ravelry.com/patterns/library/silly-striped-teddy/comments",
     "https://www.ravelry.com/patterns/library/silly-striped-teddy/yarns",
     "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.lionbrand.com/products/knitting-pattern-silly-striped-teddy-1",
+    "https://www.ravelry.com/patterns/library/silly-striped-teddy/people",
     "https://www.ravelry.com/patterns/library/silly-striped-teddy",
+    "https://www.ravelry.com/patterns/library/silly-striped-teddy/comments",
     "https://www.ravelry.com/patterns/library/silly-striped-teddy/editors",
-    "https://www.ravelry.com/patterns/library/silly-striped-teddy/threads",
+    "https://www.ravelry.com/patterns/library/pride-frog",
     "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
     "https://www.ravelry.com/patterns/library/cat-christmas-ornaments-2"
   ],

@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Blocks",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Any Worsted Weight Yarn",
     "Worsted (9 wpi) ?"
@@ -20,16 +23,16 @@
   "shape": "cube",
   "download_links": [
     "https://www.ravelry.com/patterns/library/easy-peasy-christmas-trees-y-tutorial",
-    "https://www.ravelry.com/patterns/library/mittens-with-a-flap",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/people",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/threads",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/posts",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks",
     "https://www.ravelry.com/patterns/library/squishy-baby-blocks/report",
     "https://www.ravelry.com/patterns/library/grammas-dishcloth-grandmothers-2nd-favorite",
     "https://www.ravelry.com/patterns/library/squishy-baby-blocks/editors",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/threads",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/comments",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/posts",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks",
     "https://www.ravelry.com/patterns/library/squishy-baby-blocks/yarns",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/comments",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/people",
+    "https://www.ravelry.com/patterns/library/mittens-with-a-flap",
     "https://www.ravelry.com/patterns/sources/prettyknittyjewelry-designs"
   ]
 }

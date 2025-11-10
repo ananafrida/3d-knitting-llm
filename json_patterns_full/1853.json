@@ -7,6 +7,9 @@
   "category": "Containers",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Super Bulky (5-6 wpi) ?",
     "Lion Brand Wool Ease Thick & Quick"
@@ -27,12 +30,12 @@
   "shape": "cylinder",
   "download_links": [
     "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/yarns",
+    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/comments",
+    "https://www.ravelry.com/patterns/library/sea--sand-tee",
     "https://www.ravelry.com/patterns/sources/after-9-to-5-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket",
+    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/report",
     "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/editors",
     "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/people",
-    "https://www.ravelry.com/patterns/library/sea--sand-tee",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/report",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/comments"
+    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket"
   ]
 }

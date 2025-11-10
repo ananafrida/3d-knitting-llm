@@ -7,6 +7,9 @@
   "category": "Decorative → Other",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "Height: 1”/ 2.5cm, 1.5\"/4cm or 3”/ 7.5cm",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Patons North America Classic Wool Worsted",
     "Worsted (9 wpi) ?"
@@ -21,15 +24,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/acorn-lantern",
     "https://www.ravelry.com/patterns/library/knit-or-stick-acorns/editors",
-    "https://www.ravelry.com/patterns/library/mini-hobbit-hole",
     "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns",
-    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns/report",
-    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns/yarns",
-    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns/people",
-    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns/comments",
+    "https://www.ravelry.com/patterns/library/mini-hobbit-hole",
     "https://www.ravelry.com/patterns/library/gnome-shearing-day",
-    "https://www.ravelry.com/patterns/library/acorn-lantern"
+    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns",
+    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns/comments",
+    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns/report",
+    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns/people",
+    "https://www.ravelry.com/patterns/library/knit-or-stick-acorns/yarns"
   ]
 }

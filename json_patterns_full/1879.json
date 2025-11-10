@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Containers",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Noro Kureyon（くれよん）"
+    "Noro Kureyon（くれよん）",
+    "yarn held together"
   ],
   "attributes": [
     "circle-shaped",
@@ -22,18 +25,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "http://www.deborahgray.org/2006/11/25/knitted-felted-bowl-pattern/",
+    "https://www.ravelry.com/patterns/sources/deborah-does-navel-gazing",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/comments",
     "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/report",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/people",
     "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/yarns",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/threads",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/posts",
+    "http://www.deborahgray.org/2006/11/25/knitted-felted-bowl-pattern/",
     "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
     "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/editors",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/people",
-    "https://www.ravelry.com/patterns/sources/deborah-does-navel-gazing",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/posts",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/comments",
     "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-bottom-welt",
-    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-smaller-opening",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2"
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/threads",
+    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-smaller-opening"
   ]
 }

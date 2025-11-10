@@ -4,9 +4,12 @@
   "category": "Softies → Other",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "about 2 1/4 inches in width, 2-inches in height",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Barrett Wool Co. Home Worsted Weight"
+    "Barrett Wool Co. Home Worsted Weight",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -21,19 +24,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/little-hearts-15/comments",
-    "https://www.ravelry.com/patterns/library/little-hearts-15/report",
-    "https://www.ravelry.com/patterns/library/little-hearts-15/posts",
-    "https://www.barrettwoolco.com/blogs/news/little-hearts-free-pattern",
-    "https://www.ravelry.com/patterns/library/little-witch-charm-set",
-    "https://www.ravelry.com/patterns/library/little-hearts-15/yarns",
-    "https://www.ravelry.com/patterns/library/spring-charm-set",
-    "https://www.ravelry.com/patterns/library/little-hearts-15/threads",
-    "https://www.ravelry.com/patterns/library/fall-harvest-charm-set",
-    "https://www.ravelry.com/patterns/library/little-hearts-15/people",
     "https://www.ravelry.com/patterns/sources/barrett-wool-co-website",
+    "https://www.ravelry.com/patterns/library/little-hearts-15/report",
+    "https://www.ravelry.com/patterns/library/little-hearts-15/comments",
+    "https://www.ravelry.com/patterns/library/little-hearts-15/threads",
+    "https://www.ravelry.com/patterns/library/little-hearts-15/yarns",
     "https://www.ravelry.com/patterns/library/little-hearts-15/editors",
-    "https://www.ravelry.com/patterns/library/little-hearts-15"
+    "https://www.ravelry.com/patterns/library/little-witch-charm-set",
+    "https://www.ravelry.com/patterns/library/fall-harvest-charm-set",
+    "https://www.ravelry.com/patterns/library/little-hearts-15",
+    "https://www.ravelry.com/patterns/library/little-hearts-15/people",
+    "https://www.ravelry.com/patterns/library/spring-charm-set",
+    "https://www.barrettwoolco.com/blogs/news/little-hearts-free-pattern",
+    "https://www.ravelry.com/patterns/library/little-hearts-15/posts"
   ],
   "name": "Ravelry: Little Hearts pattern by Susan B. Anderson"
 }

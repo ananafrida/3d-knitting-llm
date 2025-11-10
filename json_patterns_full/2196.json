@@ -4,6 +4,9 @@
   "category": "Costume",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -20,16 +23,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/report",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/comments",
-    "https://www.ravelry.com/patterns/sources/letting-it-all-hang-out",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/threads",
-    "http://mylovleycrunchylife.blogspot.com/2008/05/shiver-me-timbers-eye-patch-pattern.html",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/yarns",
     "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/people",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/edit",
+    "http://mylovleycrunchylife.blogspot.com/2008/05/shiver-me-timbers-eye-patch-pattern.html",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/report",
     "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/editors",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/yarns"
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/edit",
+    "https://www.ravelry.com/patterns/sources/letting-it-all-hang-out",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/comments",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/threads",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch"
   ],
   "name": "Ravelry: Shiver Me Timbers (Eye Patch) pattern by Corri Taylor"
 }

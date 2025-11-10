@@ -7,9 +7,12 @@
   "category": "Ball",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "único",
+  "languages": [
+    "Spanish"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "B-tex Cori Cori Worsted"
+    "B-tex Cori Cori Worsted",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "chart",
@@ -19,15 +22,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/sources/winelvi-troconis-designs",
+    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/comments",
     "https://www.ravelry.com/patterns/library/estola-brasil",
     "https://www.ravelry.com/patterns/library/bolas-navidenas-2/yarns",
-    "https://www.ravelry.com/patterns/library/poncho-radiante",
-    "https://www.ravelry.com/patterns/library/win-ebook-edicion-especial-de-calcetines",
-    "https://www.ravelry.com/patterns/sources/winelvi-troconis-designs",
-    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/report",
-    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/editors",
     "https://www.ravelry.com/patterns/library/bolas-navidenas-2",
-    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/comments",
-    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/people"
+    "https://www.ravelry.com/patterns/library/win-ebook-edicion-especial-de-calcetines",
+    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/people",
+    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/report",
+    "https://www.ravelry.com/patterns/library/poncho-radiante",
+    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/editors"
   ]
 }

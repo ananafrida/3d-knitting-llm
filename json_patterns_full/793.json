@@ -7,9 +7,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "0-6 mo (6-12 mo, 1-2yr, 2-4yr, 4-6yr, 6-8yr, 8-10yr, XS, S, SM, M, ML, L, XL, XXL, 3XL, 4XL, 5XL, 6XL)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "SweetGeorgia Yarns Tough Love Sock",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "SweetGeorgia Yarns Tough Love Sock"
   ],
   "attributes": [
     "adult",
@@ -32,21 +35,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/flax-sock/editors",
-    "https://www.ravelry.com/bundles/app-patterns",
-    "https://www.ravelry.com/patterns/library/barley-worsted",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
-    "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens",
-    "https://www.ravelry.com/patterns/library/flax-worsted",
-    "https://www.ravelry.com/patterns/sources/the-simple-collection",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
-    "http://tincanknits.com/pattern-SC-flaxlight.html",
-    "https://www.ravelry.com/patterns/library/flax-sock/threads",
-    "https://www.ravelry.com/patterns/library/flax-sock/comments",
-    "https://www.ravelry.com/patterns/library/flax-sock/yarns",
-    "https://www.ravelry.com/patterns/library/flax-sock/posts",
     "https://www.ravelry.com/patterns/library/flax-sock",
+    "https://www.ravelry.com/patterns/library/flax-sock/people",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
+    "https://www.ravelry.com/patterns/library/flax-worsted",
+    "https://www.ravelry.com/patterns/library/flax-sock/threads",
+    "https://www.ravelry.com/bundles/app-patterns",
     "https://www.ravelry.com/patterns/library/flax-sock/report",
-    "https://www.ravelry.com/patterns/library/flax-sock/people"
+    "https://www.ravelry.com/patterns/library/barley-worsted",
+    "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens",
+    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "https://www.ravelry.com/patterns/library/flax-sock/posts",
+    "http://tincanknits.com/pattern-SC-flaxlight.html",
+    "https://www.ravelry.com/patterns/library/flax-sock/yarns",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/flax-sock/editors",
+    "https://www.ravelry.com/patterns/library/flax-sock/comments"
   ]
 }

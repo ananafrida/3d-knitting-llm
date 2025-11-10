@@ -4,9 +4,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
   "sizes_available": "1, 2, 3, 4, 5, 6, 7, 8",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Lion Brand Re-Spun Thick & Quick"
+    "Lion Brand Re-Spun Thick & Quick",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -26,17 +29,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/threads",
-    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/yarns",
-    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/people",
-    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/editors",
-    "https://www.ravelry.com/patterns/library/fall-bluff-pullover",
-    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/report",
     "https://www.ravelry.com/patterns/library/fall-bluff-pullover/comments",
-    "https://www.ravelry.com/patterns/library/hillside-cardigan-2",
+    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/yarns",
     "https://www.ravelry.com/patterns/sources/ashley-lillis",
+    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/editors",
     "https://www.ravelry.com/patterns/library/winter-bluff-sweater",
-    "https://www.ravelry.com/patterns/library/open-trails-sweater-vest"
+    "https://www.ravelry.com/patterns/library/hillside-cardigan-2",
+    "https://www.ravelry.com/patterns/library/fall-bluff-pullover",
+    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/people",
+    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/threads",
+    "https://www.ravelry.com/patterns/library/open-trails-sweater-vest",
+    "https://www.ravelry.com/patterns/library/fall-bluff-pullover/report"
   ],
   "name": "Ravelry: Fall Bluff Pullover pattern by Ashley Lillis"
 }

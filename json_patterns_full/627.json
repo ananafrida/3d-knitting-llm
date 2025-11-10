@@ -4,6 +4,9 @@
   "category": "Blanket → Throw Blanket → Baby Blanket",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "Crib (Throw)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Purl Soho Cotton Pure",
     "Sport (12 wpi) ?"
@@ -22,15 +25,15 @@
   "techniques": [],
   "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/arbor-blanket/people",
-    "https://www.ravelry.com/patterns/library/arbor-blanket/editors",
+    "https://www.ravelry.com/patterns/library/arbor-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/arbor-blanket",
     "https://www.ravelry.com/patterns/library/woodcut-blanket",
     "https://www.ravelry.com/patterns/library/arbor-blanket/report",
-    "https://www.ravelry.com/patterns/library/embossed-triangles-blanket",
-    "https://www.ravelry.com/patterns/library/arbor-blanket",
-    "https://www.ravelry.com/patterns/library/arbor-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/slipped-garter-blanket",
     "https://www.ravelry.com/patterns/library/arbor-blanket/comments",
+    "https://www.ravelry.com/patterns/library/slipped-garter-blanket",
+    "https://www.ravelry.com/patterns/library/embossed-triangles-blanket",
+    "https://www.ravelry.com/patterns/library/arbor-blanket/people",
+    "https://www.ravelry.com/patterns/library/arbor-blanket/editors",
     "https://www.ravelry.com/patterns/sources/purl-soho"
   ],
   "name": "Ravelry: Arbor Blanket pattern by Purl Soho"

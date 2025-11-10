@@ -7,6 +7,9 @@
   "category": "Afghan block",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "NA",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Aunt Lydia's Classic 10 Crochet Thread",
     "Thread ?"
@@ -20,15 +23,15 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/weldons-wrinkled-shell-ii",
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/editors",
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/comments",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/people",
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon",
     "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/yarns",
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/editors",
     "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/report",
+    "https://www.ravelry.com/patterns/library/weldons-wrinkled-shell-ii",
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon",
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/people",
     "https://www.ravelry.com/patterns/library/beetons-dahlia-doily",
-    "https://www.ravelry.com/patterns/library/mitten-prints"
+    "https://www.ravelry.com/patterns/library/mitten-prints",
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/comments",
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store"
   ]
 }

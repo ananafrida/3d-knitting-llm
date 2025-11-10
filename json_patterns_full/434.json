@@ -4,6 +4,9 @@
   "category": "Coat / Jacket",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "XS/S, M, L, XL, 2/3XL, 4/5XL",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Super Bulky (5-6 wpi) ?",
     "Bernat Roving"
@@ -30,22 +33,22 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/people",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/edit",
-    "https://www.ravelry.com/patterns/library/star-blanket-6",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/editors",
-    "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw7e5d4952/PDF/BRK0429-007572M.pdf",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/posts",
-    "http://www.ravelry.com/patterns/library/his-and-hers-thunderbird-hat",
-    "https://www.ravelry.com/patterns/library/garter-stitch-corner-to-corner-blanket",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/threads",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/report",
     "https://www.ravelry.com/patterns/library/im-the-dude-jacket/yarns",
+    "http://www.ravelry.com/patterns/library/his-and-hers-thunderbird-hat",
+    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
+    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/threads",
+    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/editors",
     "https://www.ravelry.com/patterns/library/im-the-dude-jacket",
-    "https://www.ravelry.com/patterns/library/little-gnome-hat-4",
     "https://www.ravelry.com/patterns/sources/bernat-free-ebook-featuring-bernat-roving-fall-2010",
+    "https://www.ravelry.com/patterns/library/star-blanket-6",
+    "https://www.ravelry.com/patterns/library/garter-stitch-corner-to-corner-blanket",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4",
+    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/report",
+    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/edit",
+    "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw7e5d4952/PDF/BRK0429-007572M.pdf",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
+    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/posts",
+    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/people",
     "https://www.ravelry.com/patterns/library/im-the-dude-jacket/comments"
   ],
   "name": "Ravelry: I'm the Dude Jacket pattern by Bernat Design Studio"

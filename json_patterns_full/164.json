@@ -4,9 +4,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "sizes_available": "Approx. 8\" tall x 10¾\" wide",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Bernat Maker"
+    "Bernat Maker",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "phototutorial",
@@ -20,17 +23,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/report",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/yarns",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/comments",
-    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
     "https://www.ravelry.com/patterns/library/slip-knit-socks",
     "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/editors",
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/comments",
+    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
     "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/people",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/editors"
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/yarns",
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/report",
+    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket"
   ],
   "name": "Ravelry: Seed Stitch Knot Bag pattern by Yarnspirations Design Studio"
 }

@@ -4,6 +4,10 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Child (adult S/M, adult M/L)",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "De Rerum Natura Gilliatt",
     "yarn held together"
@@ -23,18 +27,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gwedenn-hat/comments",
     "https://www.ravelry.com/patterns/library/gwedenn-hat/yarns",
-    "https://www.ravelry.com/patterns/sources/de-rerum-natura-website",
-    "https://www.ravelry.com/patterns/library/lucky-you",
+    "https://www.ravelry.com/patterns/library/gwedenn-hat/threads",
     "https://www.ravelry.com/patterns/library/gwedenn-hat/people",
     "https://www.ravelry.com/patterns/library/gwedenn-hat/editors",
-    "https://www.ravelry.com/patterns/library/kled",
-    "https://www.ravelry.com/patterns/library/gwedenn-hat/threads",
-    "https://www.ravelry.com/patterns/sources/de-rerum-natura-blog",
-    "https://www.ravelry.com/patterns/library/gwedenn-hat",
     "https://www.ravelry.com/patterns/library/gwedenn-hat/report",
-    "https://www.ravelry.com/patterns/library/leizh"
+    "https://www.ravelry.com/patterns/library/leizh",
+    "https://www.ravelry.com/patterns/library/gwedenn-hat",
+    "https://www.ravelry.com/patterns/library/kled",
+    "https://www.ravelry.com/patterns/sources/de-rerum-natura-website",
+    "https://www.ravelry.com/patterns/sources/de-rerum-natura-blog",
+    "https://www.ravelry.com/patterns/library/lucky-you",
+    "https://www.ravelry.com/patterns/library/gwedenn-hat/comments"
   ],
   "name": "Ravelry: Gwedenn hat pattern by Solenn Couix-Loarer"
 }

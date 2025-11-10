@@ -7,9 +7,12 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "Small (Medium, Large)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "The Uncommon Thread Lush Worsted"
+    "The Uncommon Thread Lush Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -25,17 +28,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/j-o-j-i",
-    "https://www.ravelry.com/patterns/library/rafas-hat/people",
+    "https://www.ravelry.com/patterns/library/rafas-hat/comments",
+    "https://www.ravelry.com/patterns/library/rafas-hat/editors",
+    "https://www.ravelry.com/patterns/library/odyssey-shawl",
     "https://www.ravelry.com/patterns/library/storm-shawl-5",
-    "https://www.ravelry.com/patterns/library/a-little-lonely-cable",
+    "https://www.ravelry.com/patterns/library/rafas-hat/posts",
+    "https://www.ravelry.com/patterns/library/rafas-hat/report",
+    "https://www.ravelry.com/patterns/library/rafas-hat/people",
+    "https://www.ravelry.com/patterns/sources/j-o-j-i",
     "https://www.ravelry.com/patterns/library/rafas-hat",
     "https://www.ravelry.com/patterns/library/rafas-hat/threads",
-    "https://www.ravelry.com/patterns/library/rafas-hat/posts",
-    "https://www.ravelry.com/patterns/library/rafas-hat/comments",
-    "https://www.ravelry.com/patterns/library/odyssey-shawl",
-    "https://www.ravelry.com/patterns/library/rafas-hat/editors",
-    "https://www.ravelry.com/patterns/library/rafas-hat/report",
+    "https://www.ravelry.com/patterns/library/a-little-lonely-cable",
     "https://www.ravelry.com/patterns/library/rafas-hat/yarns"
   ]
 }

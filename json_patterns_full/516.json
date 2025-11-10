@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "One size - approx. 9\" wide by 24\" circumference - easily customizable",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Plymouth Yarn Encore Tweed"
+    "Plymouth Yarn Encore Tweed",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "eyelets",
@@ -20,16 +23,16 @@
   "shape": "cube",
   "download_links": [
     "https://www.ravelry.com/patterns/library/free-for-all-cowl",
-    "https://www.ravelry.com/patterns/library/lilys-scrap-blanket",
-    "https://www.ravelry.com/patterns/library/gingermint-shawl",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/editors",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/posts",
-    "https://www.ravelry.com/patterns/sources/webster-street-knittery",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/larinda-yoke-sweater",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/people",
     "https://www.ravelry.com/patterns/library/free-for-all-cowl/threads",
+    "https://www.ravelry.com/patterns/library/lilys-scrap-blanket",
+    "https://www.ravelry.com/patterns/library/free-for-all-cowl/posts",
+    "https://www.ravelry.com/patterns/library/free-for-all-cowl/yarns",
     "https://www.ravelry.com/patterns/library/free-for-all-cowl/comments",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/report"
+    "https://www.ravelry.com/patterns/library/free-for-all-cowl/report",
+    "https://www.ravelry.com/patterns/library/free-for-all-cowl/people",
+    "https://www.ravelry.com/patterns/sources/webster-street-knittery",
+    "https://www.ravelry.com/patterns/library/free-for-all-cowl/editors",
+    "https://www.ravelry.com/patterns/library/gingermint-shawl",
+    "https://www.ravelry.com/patterns/library/larinda-yoke-sweater"
   ]
 }

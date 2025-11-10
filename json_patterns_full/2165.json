@@ -7,9 +7,12 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "Preemie 4-5lbs, Preemie 5-6lbs, Newborn, Baby 3-6months, Baby 6-12 months, Toddler, Child, Adult woman, Adult man",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Plymouth Yarn Encore Worsted Solids & Heathers"
+    "Plymouth Yarn Encore Worsted Solids & Heathers",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -32,17 +35,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/quick-ombre-hat/comments",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/people",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/posts",
     "https://www.ravelry.com/patterns/library/quick-ombre-hat/editors",
     "https://www.ravelry.com/patterns/library/love-the-winter-hat",
-    "https://www.ravelry.com/patterns/library/quick-ombre-hat/people",
-    "https://www.ravelry.com/patterns/library/quick-ombre-hat/report",
-    "https://www.ravelry.com/patterns/library/sunset-hat-3",
-    "https://www.ravelry.com/patterns/sources/emily-dormiers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/quick-ombre-hat",
-    "https://www.ravelry.com/patterns/library/quick-ombre-hat/posts",
-    "https://www.ravelry.com/patterns/library/quick-ombre-hat/yarns",
     "https://www.ravelry.com/patterns/library/horizon-hat",
-    "https://www.ravelry.com/patterns/library/quick-ombre-hat/threads"
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/comments",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/threads",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/report",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/yarns",
+    "https://www.ravelry.com/patterns/library/sunset-hat-3",
+    "https://www.ravelry.com/patterns/sources/emily-dormiers-ravelry-store"
   ]
 }

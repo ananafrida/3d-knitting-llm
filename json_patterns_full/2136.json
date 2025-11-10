@@ -7,9 +7,12 @@
   "category": "Hat → Beanie, Toque",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "Newborn (Baby, Toddler, Child, Adult S, M, L)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Rainbow Heirloom Sweater"
+    "Rainbow Heirloom Sweater",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -28,20 +31,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
-    "https://www.ravelry.com/patterns/library/barley-dk/yarns",
-    "https://www.ravelry.com/patterns/library/barley-dk/threads",
-    "https://www.ravelry.com/patterns/library/barley-light",
-    "https://www.ravelry.com/patterns/sources/the-simple-collection",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/barley-dk/report",
-    "https://www.ravelry.com/patterns/library/barley-dk/editors",
     "https://www.ravelry.com/patterns/library/barley-dk",
-    "https://www.ravelry.com/patterns/library/barley-dk/people",
-    "https://www.ravelry.com/patterns/library/flax-dk",
-    "https://www.ravelry.com/patterns/library/hipster-3",
-    "https://www.ravelry.com/patterns/library/barley-dk/comments",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
     "https://www.ravelry.com/patterns/library/barley-dk/posts",
-    "https://www.ravelry.com/patterns/library/barley-sock"
+    "https://www.ravelry.com/patterns/library/flax-dk",
+    "https://www.ravelry.com/patterns/library/barley-dk/comments",
+    "https://www.ravelry.com/patterns/library/barley-dk/threads",
+    "https://www.ravelry.com/patterns/library/barley-dk/report",
+    "https://www.ravelry.com/patterns/library/barley-light",
+    "https://www.ravelry.com/patterns/library/barley-sock",
+    "https://www.ravelry.com/patterns/library/barley-dk/yarns",
+    "https://www.ravelry.com/patterns/library/barley-dk/people",
+    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "https://www.ravelry.com/patterns/library/hipster-3",
+    "https://www.ravelry.com/patterns/library/barley-dk/editors",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits"
   ]
 }

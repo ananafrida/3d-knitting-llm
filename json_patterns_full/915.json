@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "One Size - finshed measurements; Length=60\", Width=1-1/2 to 8\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Araucania Yarns Huasco Multy Botany Lace",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Araucania Yarns Huasco Multy Botany Lace"
   ],
   "attributes": [
     "lace",
@@ -23,14 +26,14 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/workday-scarf",
     "https://www.ravelry.com/patterns/library/workday-scarf/editors",
-    "https://www.ravelry.com/patterns/library/workday-scarf/threads",
-    "https://www.ravelry.com/patterns/library/workday-scarf/yarns",
     "https://www.ravelry.com/patterns/library/workday-scarf/posts",
-    "https://www.ravelry.com/patterns/library/workday-scarf/comments",
     "https://www.ravelry.com/patterns/sources/sue-flanders-designs",
+    "https://www.ravelry.com/patterns/library/workday-scarf",
     "https://www.ravelry.com/patterns/library/workday-scarf/people",
-    "https://www.ravelry.com/patterns/library/workday-scarf/report"
+    "https://www.ravelry.com/patterns/library/workday-scarf/threads",
+    "https://www.ravelry.com/patterns/library/workday-scarf/comments",
+    "https://www.ravelry.com/patterns/library/workday-scarf/report",
+    "https://www.ravelry.com/patterns/library/workday-scarf/yarns"
   ]
 }

@@ -7,9 +7,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Valley Yarns Haydenville Bulky",
-    "Bulky (7 wpi) ?"
+    "Bulky (7 wpi) ?",
+    "Valley Yarns Haydenville Bulky"
   ],
   "attributes": [
     "ribbed",
@@ -20,16 +23,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/finger-blankets",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/comments",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch",
     "https://www.ravelry.com/patterns/sources/elizabeth-carleys-ravelry-store",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/editors",
+    "https://www.ravelry.com/patterns/library/finger-blankets",
+    "https://www.ravelry.com/patterns/library/zenith-cowl--scarf",
     "https://www.ravelry.com/patterns/library/peak-cozy-redux",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/editors",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/report",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/yarns",
     "https://www.ravelry.com/patterns/library/summit-class-pouch/threads",
     "https://www.ravelry.com/patterns/library/summit-class-pouch/people",
-    "https://www.ravelry.com/patterns/library/zenith-cowl--scarf",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/report",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/yarns"
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/comments"
   ]
 }

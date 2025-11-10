@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Softies → Animal",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "in-the-round",
@@ -18,17 +21,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/winters-bow",
     "https://www.ravelry.com/patterns/library/a-little-kindness-monster/threads",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster",
+    "https://www.ravelry.com/patterns/library/juniper-moose",
     "https://www.ravelry.com/patterns/library/a-little-kindness-monster/yarns",
+    "https://www.ravelry.com/patterns/library/nilla-the-unicorn",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/editors",
     "https://www.ravelry.com/patterns/library/a-little-kindness-monster/posts",
     "https://www.ravelry.com/patterns/library/a-little-kindness-monster/people",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/editors",
     "https://www.ravelry.com/patterns/library/a-little-kindness-monster/report",
-    "https://www.ravelry.com/patterns/library/nilla-the-unicorn",
     "https://www.ravelry.com/patterns/library/a-little-kindness-monster/comments",
     "https://www.ravelry.com/patterns/sources/yarnigans-2",
-    "https://www.ravelry.com/patterns/library/juniper-moose"
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster",
+    "https://www.ravelry.com/patterns/library/winters-bow"
   ]
 }

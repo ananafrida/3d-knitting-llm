@@ -4,6 +4,9 @@
   "category": "Pet → Toys",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Patons North America Classic Wool Worsted",
     "Worsted (9 wpi) ?"
@@ -17,18 +20,18 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/antoine-the-aardvark",
-    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/yarns",
-    "https://www.ravelry.com/patterns/library/bruce-the-great-white-shark",
-    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/people",
     "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/sources/knitty-winter-2023",
-    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/threads",
-    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish",
-    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/report",
-    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/editors",
     "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/comments",
-    "https://www.ravelry.com/patterns/library/moby-richard"
+    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/threads",
+    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/report",
+    "https://www.ravelry.com/patterns/library/antoine-the-aardvark",
+    "https://www.ravelry.com/patterns/library/bruce-the-great-white-shark",
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2023",
+    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/people",
+    "https://www.ravelry.com/patterns/library/moby-richard",
+    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/yarns",
+    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish",
+    "https://www.ravelry.com/patterns/library/cheddar-the-goldfish/editors"
   ],
   "name": "Ravelry: Cheddar the Goldfish pattern by Frances Gillespie"
 }

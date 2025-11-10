@@ -7,9 +7,12 @@
   "category": "Blocks",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Paintbox Yarns Simply DK"
+    "Paintbox Yarns Simply DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "cube-shaped",
@@ -21,16 +24,16 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-blocks-21/people",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/yarns",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21",
+    "https://www.ravelry.com/patterns/library/living-colour-chameleon",
     "https://www.ravelry.com/patterns/library/rocket-cushion",
     "https://www.ravelry.com/patterns/library/baby-blocks-21/editors",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/people",
     "https://www.ravelry.com/bundles/free-patterns-500",
-    "https://www.ravelry.com/patterns/library/baby-blocks-21/report",
-    "https://www.ravelry.com/patterns/library/barnyard-buddies-5",
-    "https://www.ravelry.com/patterns/library/baby-blocks-21/yarns",
-    "https://www.ravelry.com/patterns/library/baby-blocks-21/comments",
     "https://www.ravelry.com/patterns/sources/fluff--fuzz",
-    "https://www.ravelry.com/patterns/library/living-colour-chameleon",
-    "https://www.ravelry.com/patterns/library/baby-blocks-21"
+    "https://www.ravelry.com/patterns/library/barnyard-buddies-5",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/comments",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/report"
   ]
 }

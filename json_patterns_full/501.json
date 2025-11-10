@@ -7,9 +7,13 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "Finished circumference: approx. 50 (115) cm / 20 (46)”.",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
   "suggested_yarn": [
-    "Lalanalú Nadir",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Lalanalú Nadir"
   ],
   "attributes": [
     "adult",
@@ -29,16 +33,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/port-vell-cowl",
     "https://www.ravelry.com/patterns/library/port-vell-cowl/people",
-    "https://www.ravelry.com/patterns/sources/barcelona-knits-festival",
-    "https://www.ravelry.com/patterns/library/port-vell-cowl/report",
-    "https://www.ravelry.com/patterns/library/vistula-shawl",
+    "https://www.barcelonaknits.com/barcelona-knits-2024-pattern/?lang=en",
     "https://www.ravelry.com/patterns/library/port-vell-cowl/comments",
-    "https://www.ravelry.com/patterns/library/nicola-hood",
-    "https://www.ravelry.com/patterns/library/marta-beanie",
-    "https://www.ravelry.com/patterns/library/port-vell-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/port-vell-cowl/report",
     "https://www.ravelry.com/patterns/library/port-vell-cowl/editors",
-    "https://www.barcelonaknits.com/barcelona-knits-2024-pattern/?lang=en"
+    "https://www.ravelry.com/patterns/sources/barcelona-knits-festival",
+    "https://www.ravelry.com/patterns/library/marta-beanie",
+    "https://www.ravelry.com/patterns/library/port-vell-cowl",
+    "https://www.ravelry.com/patterns/library/vistula-shawl",
+    "https://www.ravelry.com/patterns/library/nicola-hood",
+    "https://www.ravelry.com/patterns/library/port-vell-cowl/yarns"
   ]
 }

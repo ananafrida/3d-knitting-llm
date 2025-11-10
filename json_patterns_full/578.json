@@ -4,6 +4,9 @@
   "category": "Blanket → Throw Blanket → Baby Blanket",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "Crib (Throw)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Purl Soho Campo",
     "Worsted (9 wpi) ?"
@@ -22,16 +25,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/woodcut-blanket",
+    "https://www.ravelry.com/patterns/library/arbor-blanket",
+    "https://www.ravelry.com/patterns/library/woodcut-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/woodcut-blanket/editors",
     "https://www.ravelry.com/patterns/library/syncopation-blanket",
     "https://www.ravelry.com/patterns/library/woodcut-blanket/report",
-    "https://www.ravelry.com/patterns/library/woodcut-blanket",
-    "https://www.ravelry.com/patterns/library/woodcut-blanket/comments",
-    "https://www.ravelry.com/patterns/library/arbor-blanket",
-    "https://www.ravelry.com/patterns/library/double-seed-stitch-blanket-in-cotton-pure",
-    "https://www.ravelry.com/patterns/library/woodcut-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/woodcut-blanket/people",
     "https://www.ravelry.com/patterns/library/woodcut-blanket/threads",
-    "https://www.ravelry.com/patterns/library/woodcut-blanket/editors",
+    "https://www.ravelry.com/patterns/library/woodcut-blanket/people",
+    "https://www.ravelry.com/patterns/library/woodcut-blanket/comments",
+    "https://www.ravelry.com/patterns/library/double-seed-stitch-blanket-in-cotton-pure",
     "https://www.ravelry.com/patterns/sources/purl-soho"
   ],
   "name": "Ravelry: Woodcut Blanket pattern by Purl Soho"

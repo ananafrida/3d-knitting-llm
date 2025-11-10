@@ -7,6 +7,9 @@
   "category": "Food Decorative → Other",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "onesize / Einheitsgröße",
+  "languages": [
+    "German"
+  ],
   "suggested_yarn": [
     "Malabrigo Yarn Rios",
     "Sport (12 wpi) ?"
@@ -23,15 +26,15 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4/editors",
-    "https://www.ravelry.com/patterns/library/across-the-winter",
-    "https://www.ravelry.com/patterns/library/knit-the-love",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4",
-    "https://www.ravelry.com/patterns/library/words-for-snow",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4/yarns",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4/report",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4/comments",
     "https://www.ravelry.com/patterns/library/pumpkin-party-4/people",
-    "https://www.ravelry.com/patterns/sources/feinmotoriks-ravelry-store"
+    "https://www.ravelry.com/patterns/library/knit-the-love",
+    "https://www.ravelry.com/patterns/library/pumpkin-party-4/yarns",
+    "https://www.ravelry.com/patterns/library/pumpkin-party-4",
+    "https://www.ravelry.com/patterns/library/pumpkin-party-4/comments",
+    "https://www.ravelry.com/patterns/library/across-the-winter",
+    "https://www.ravelry.com/patterns/library/pumpkin-party-4/editors",
+    "https://www.ravelry.com/patterns/library/pumpkin-party-4/report",
+    "https://www.ravelry.com/patterns/sources/feinmotoriks-ravelry-store",
+    "https://www.ravelry.com/patterns/library/words-for-snow"
   ]
 }

@@ -7,6 +7,9 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Malabrigo Yarn Rios",
     "Worsted (9 wpi) ?"
@@ -23,17 +26,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/versa-cowl/comments",
-    "https://www.ravelry.com/patterns/library/v-formation-3",
-    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
-    "https://www.ravelry.com/patterns/library/versa-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/versa-cowl/threads",
-    "https://www.ravelry.com/patterns/library/versa-cowl/editors",
-    "https://www.ravelry.com/patterns/library/show-off-chevron-cowl",
     "https://www.ravelry.com/patterns/library/versa-cowl/people",
-    "https://www.ravelry.com/patterns/library/versa-cowl/posts",
-    "https://www.ravelry.com/patterns/library/easy-does-it-dk",
+    "https://www.ravelry.com/patterns/library/versa-cowl/comments",
+    "https://www.ravelry.com/patterns/library/versa-cowl/threads",
+    "https://www.ravelry.com/patterns/library/v-formation-3",
+    "https://www.ravelry.com/patterns/library/versa-cowl/editors",
     "https://www.ravelry.com/patterns/library/versa-cowl/report",
-    "https://www.ravelry.com/patterns/library/versa-cowl"
+    "https://www.ravelry.com/patterns/library/show-off-chevron-cowl",
+    "https://www.ravelry.com/patterns/library/versa-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/easy-does-it-dk",
+    "https://www.ravelry.com/patterns/library/versa-cowl",
+    "https://www.ravelry.com/patterns/library/versa-cowl/posts",
+    "https://www.ravelry.com/patterns/sources/darn-knit-anyway"
   ]
 }

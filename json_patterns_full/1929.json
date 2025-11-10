@@ -3,9 +3,12 @@
   "craft": "Knitting",
   "category": "Applique / Embellishment",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Bernat Softee Baby, Solids & Marls"
+    "Bernat Softee Baby, Solids & Marls",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "moebius",
@@ -18,18 +21,18 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/five-point-3d-star/editors",
-    "https://www.ravelry.com/patterns/library/five-point-3d-star/report",
-    "https://www.pinterest.ca/freeknitpatterns/",
-    "https://www.ravelry.com/patterns/library/aurora-hat-7",
-    "https://www.ravelry.com/patterns/library/five-point-3d-star/comments",
-    "https://www.ravelry.com/patterns/sources/crazy-hands-website",
-    "https://www.ravelry.com/patterns/library/creme-brulee-cable-knit-hat-circular",
     "https://www.ravelry.com/patterns/library/iron-knit-hat",
-    "https://www.ravelry.com/patterns/library/five-point-3d-star",
-    "https://www.ravelry.com/patterns/library/five-point-3d-star/yarns",
+    "https://www.ravelry.com/patterns/sources/crazy-hands-website",
     "https://crazyhands.net/knit-five-point-star-pattern/",
-    "https://www.ravelry.com/patterns/library/five-point-3d-star/people"
+    "https://www.ravelry.com/patterns/library/five-point-3d-star/people",
+    "https://www.pinterest.ca/freeknitpatterns/",
+    "https://www.ravelry.com/patterns/library/creme-brulee-cable-knit-hat-circular",
+    "https://www.ravelry.com/patterns/library/aurora-hat-7",
+    "https://www.ravelry.com/patterns/library/five-point-3d-star/editors",
+    "https://www.ravelry.com/patterns/library/five-point-3d-star/comments",
+    "https://www.ravelry.com/patterns/library/five-point-3d-star/report",
+    "https://www.ravelry.com/patterns/library/five-point-3d-star/yarns",
+    "https://www.ravelry.com/patterns/library/five-point-3d-star"
   ],
   "name": "Ravelry: Five-Point 3D Star pattern by Annanitato Lolo"
 }

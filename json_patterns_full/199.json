@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Super Bulky (5-6 wpi) ?",
     "Lion Brand Wool Ease Thick & Quick"
@@ -19,15 +22,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/report",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/threads",
-    "https://www.ravelry.com/patterns/sources/philos-miscellany",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/edit",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/comments",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/people",
     "https://www.ravelry.com/patterns/library/cabled-bag-2",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/posts",
+    "https://www.ravelry.com/patterns/sources/philos-miscellany",
+    "https://www.ravelry.com/patterns/library/cabled-bag-2/people",
     "https://www.ravelry.com/patterns/library/cabled-bag-2/yarns",
+    "https://www.ravelry.com/patterns/library/cabled-bag-2/comments",
+    "https://www.ravelry.com/patterns/library/cabled-bag-2/posts",
+    "https://www.ravelry.com/patterns/library/cabled-bag-2/threads",
+    "https://www.ravelry.com/patterns/library/cabled-bag-2/report",
+    "https://www.ravelry.com/patterns/library/cabled-bag-2/edit",
     "https://www.ravelry.com/patterns/library/cabled-bag-2/editors"
   ],
   "name": "Ravelry: Cabled Bag pattern by Princess Philo"

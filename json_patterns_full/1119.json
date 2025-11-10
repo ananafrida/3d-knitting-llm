@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "sizes_available": "Fingering 4 3/4\"; DK/Sport 5 1/4\"; Worsted 6\"",
+  "languages": [
+    "English"
+  ],
   "attributes": [
     "bottom-up",
     "cables",
@@ -22,16 +25,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/flower-girls",
     "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/editors",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/comments",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/report",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/people",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/yarns",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/threads",
     "https://www.ravelry.com/patterns/library/mini-snowbuddies",
     "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls"
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/editors",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/threads",
+    "https://www.ravelry.com/patterns/library/flower-girls",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/report",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/comments",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/yarns",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/people"
   ]
 }

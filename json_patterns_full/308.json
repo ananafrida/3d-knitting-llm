@@ -7,6 +7,9 @@
   "category": "Pet → Toys",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "Kitty size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "DK (11 wpi) ?"
   ],
@@ -22,18 +25,18 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/catnip-bunny/threads",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/comments",
-    "https://www.ravelry.com/patterns/library/liquid-soap-sleeve",
     "https://www.ravelry.com/patterns/library/catnip-bunny/people",
-    "https://www.ravelry.com/patterns/library/catnip-bunny",
     "https://www.ravelry.com/patterns/library/catnip-bunny/editors",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/yarns",
-    "https://www.ravelry.com/patterns/library/lace-mesh-wash-cloth-dish-cloth",
-    "https://www.ravelry.com/patterns/library/baby-doll-set",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/report",
-    "https://www.ravelry.com/patterns/sources/coffee-and-cream-blog",
+    "https://www.ravelry.com/patterns/sources/coffee-and-cream",
     "https://www.ravelry.com/patterns/library/catnip-bunny/posts",
-    "https://www.ravelry.com/patterns/sources/coffee-and-cream"
+    "https://www.ravelry.com/patterns/sources/coffee-and-cream-blog",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/report",
+    "https://www.ravelry.com/patterns/library/liquid-soap-sleeve",
+    "https://www.ravelry.com/patterns/library/baby-doll-set",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/yarns",
+    "https://www.ravelry.com/patterns/library/catnip-bunny",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/comments",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/threads",
+    "https://www.ravelry.com/patterns/library/lace-mesh-wash-cloth-dish-cloth"
   ]
 }

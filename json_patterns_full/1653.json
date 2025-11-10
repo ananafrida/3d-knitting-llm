@@ -7,6 +7,9 @@
   "category": "Sweater → Cardigan",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "Newborn, 6 Month, 12 Month",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -29,18 +32,18 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/yarns",
-    "https://www.ravelry.com/patterns/library/kinda-classy-kinda-hood",
     "https://www.ravelry.com/patterns/library/oh-baby-cardi",
-    "https://www.ravelry.com/patterns/library/for-the-love-of-knitting",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/posts",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/people",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/yarns",
     "https://www.ravelry.com/patterns/library/oh-baby-cardi/threads",
-    "https://www.ravelry.com/patterns/sources/roberta-richs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/editors",
+    "https://www.ravelry.com/patterns/library/kinda-classy-kinda-hood",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/posts",
     "https://www.ravelry.com/patterns/library/oh-kiddo-cardi",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/report",
     "https://www.ravelry.com/patterns/library/oh-baby-cardi/comments",
+    "https://www.ravelry.com/patterns/library/for-the-love-of-knitting",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/people",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/editors",
+    "https://www.ravelry.com/patterns/sources/roberta-richs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/report",
     "https://www.ravelry.com/patterns/library/look-out-winter-hat"
   ]
 }

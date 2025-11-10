@@ -4,6 +4,9 @@
   "category": "Afghan block",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "N/A",
+  "languages": [
+    "German"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -20,15 +23,15 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/a-recipe-for-fish/people",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/yarns",
-    "https://www.ravelry.com/patterns/sources/strick-ideen-bestrickende-anleitungen",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/posts",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/editors",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish",
-    "https://www.ravelry.com/patterns/sources/knitting-arrows",
     "https://www.ravelry.com/patterns/library/a-recipe-for-fish/threads",
+    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/posts",
+    "https://www.ravelry.com/patterns/sources/knitting-arrows",
+    "https://www.ravelry.com/patterns/sources/strick-ideen-bestrickende-anleitungen",
     "https://www.ravelry.com/patterns/library/a-recipe-for-fish/report",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/comments"
+    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/editors",
+    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/yarns",
+    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/comments",
+    "https://www.ravelry.com/patterns/library/a-recipe-for-fish"
   ],
   "name": "Ravelry: A Recipe for Fish pattern by April Broken"
 }

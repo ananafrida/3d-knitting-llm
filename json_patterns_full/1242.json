@@ -4,6 +4,9 @@
   "category": "Softies → Animal",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Purl Soho Sweetgrass"
@@ -17,17 +20,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sweet-bunny-13",
-    "https://www.ravelry.com/patterns/library/sweet-bunny-13/yarns",
     "https://www.ravelry.com/patterns/library/sweet-bunny-13/report",
-    "https://www.ravelry.com/patterns/library/sleeve-scarf",
-    "https://www.ravelry.com/patterns/library/sweet-bunny-13/people",
-    "https://www.ravelry.com/patterns/library/sweet-bunny-13/comments",
     "https://www.ravelry.com/patterns/library/classic-crewneck-cardigan",
+    "https://www.ravelry.com/patterns/library/sweet-bunny-13",
+    "https://www.ravelry.com/patterns/library/sleeve-scarf",
+    "https://www.ravelry.com/patterns/library/sweet-bunny-13/comments",
     "https://www.ravelry.com/patterns/library/sweet-bunny-13/threads",
     "https://www.ravelry.com/patterns/library/sweet-bunny-13/editors",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/early-bloom-shawl"
+    "https://www.ravelry.com/patterns/library/early-bloom-shawl",
+    "https://www.ravelry.com/patterns/library/sweet-bunny-13/people",
+    "https://www.ravelry.com/patterns/library/sweet-bunny-13/yarns",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
   ],
   "name": "Ravelry: Sweet Bunny pattern by Purl Soho"
 }

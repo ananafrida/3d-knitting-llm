@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Applique / Embellishment",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -17,15 +20,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
-    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/yarns",
     "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/report",
-    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/editors",
+    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
     "https://www.ravelry.com/patterns/library/weavies",
-    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen",
     "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/people",
     "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/comments",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff"
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/editors",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/yarns",
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen",
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/people"
   ]
 }

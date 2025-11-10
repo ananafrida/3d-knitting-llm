@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -20,14 +23,14 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/yarns",
-    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/threads",
-    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/people",
-    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/comments",
-    "https://www.ravelry.com/patterns/library/rounded-toe-recipe",
-    "https://www.ravelry.com/patterns/sources/jane-bass-ravelry-store",
     "https://www.ravelry.com/patterns/library/tunisian-twiddle-muff",
-    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/editors",
-    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/report"
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/threads",
+    "https://www.ravelry.com/patterns/sources/jane-bass-ravelry-store",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/people",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/yarns",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/report",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/comments",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/editors"
   ]
 }

@@ -7,6 +7,9 @@
   "category": "Ball",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "Grapefruit sized",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -22,16 +25,16 @@
   "shape": "softie",
   "download_links": [
     "https://www.ravelry.com/patterns/library/screwball/yarns",
-    "https://www.ravelry.com/patterns/library/screwball/comments",
-    "https://www.ravelry.com/patterns/sources/melanie-hoffmans-ravelry-store",
     "https://www.ravelry.com/patterns/library/adorabubble-baby-britches",
+    "https://www.ravelry.com/patterns/library/screwball/threads",
     "https://www.ravelry.com/patterns/library/screwball/editors",
+    "https://www.ravelry.com/patterns/library/slobber-soaker",
     "https://www.ravelry.com/patterns/library/screwball/people",
     "https://www.ravelry.com/patterns/library/on-the-sunny-side",
     "https://www.ravelry.com/patterns/sources/adorabubble-knits",
-    "https://www.ravelry.com/patterns/library/screwball/threads",
-    "https://www.ravelry.com/patterns/library/slobber-soaker",
-    "https://www.ravelry.com/patterns/library/screwball/report",
-    "https://www.ravelry.com/patterns/library/screwball"
+    "https://www.ravelry.com/patterns/sources/melanie-hoffmans-ravelry-store",
+    "https://www.ravelry.com/patterns/library/screwball/comments",
+    "https://www.ravelry.com/patterns/library/screwball",
+    "https://www.ravelry.com/patterns/library/screwball/report"
   ]
 }

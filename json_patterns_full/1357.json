@@ -4,9 +4,12 @@
   "category": "Softies → Other",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "sizes_available": "6.5” / 17cm",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Miss Babs Katahdin",
-    "Light Fingering ?"
+    "Light Fingering ?",
+    "Miss Babs Katahdin"
   ],
   "attributes": [
     "icord",
@@ -19,20 +22,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/posts",
-    "https://www.ravelry.com/patterns/library/gnome-news-is-good-news",
-    "https://www.ravelry.com/patterns/library/professor-fungi",
-    "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/editors",
-    "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/threads",
     "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/yarns",
+    "https://www.ravelry.com/patterns/library/gnome-news-is-good-news",
+    "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/editors",
+    "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome",
+    "https://www.bookmarkedhub.com/articles/knitting-crochet/gnatty-the-unexpected-gnome-mystery-kal-full-pattern",
     "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/report",
-    "https://www.ravelry.com/patterns/sources/the-gnomes-of-grimblewoods-enchanting-friends-to-knit-full-of-magic-and-mischief",
+    "https://www.ravelry.com/patterns/library/someone-to-write-gnome-about",
     "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/people",
     "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/comments",
     "https://www.ravelry.com/patterns/sources/bookmarked-hub",
-    "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome",
-    "https://www.bookmarkedhub.com/articles/knitting-crochet/gnatty-the-unexpected-gnome-mystery-kal-full-pattern",
-    "https://www.ravelry.com/patterns/library/someone-to-write-gnome-about"
+    "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/threads",
+    "https://www.ravelry.com/patterns/library/professor-fungi",
+    "https://www.ravelry.com/patterns/sources/the-gnomes-of-grimblewoods-enchanting-friends-to-knit-full-of-magic-and-mischief",
+    "https://www.ravelry.com/patterns/library/gnatty-the-unexpected-gnome/posts"
   ],
   "name": "Ravelry: Gnatty The Unexpected Gnome pattern by Sarah Schira"
 }

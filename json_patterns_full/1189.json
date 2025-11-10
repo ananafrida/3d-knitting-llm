@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -19,15 +22,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/taffy-lass-knits",
     "https://www.ravelry.com/patterns/library/sweet-pocket-baby",
-    "https://www.ravelry.com/patterns/library/barbie-skirt-and-top-1",
-    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/yarns",
     "https://www.ravelry.com/patterns/library/sweet-pocket-baby/comments",
     "https://www.ravelry.com/patterns/library/barbie-dance-dress",
     "https://www.ravelry.com/patterns/library/sweet-pocket-baby/editors",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/yarns",
     "https://www.ravelry.com/patterns/library/sweet-pocket-baby/people",
+    "https://www.ravelry.com/patterns/library/barbie-skirt-and-top-1",
     "https://www.ravelry.com/patterns/library/sweet-pocket-baby/report",
+    "https://www.ravelry.com/patterns/sources/taffy-lass-knits",
     "https://www.ravelry.com/patterns/library/pretty-jacket-for-barbie"
   ],
   "name": "Ravelry: Sweet Pocket Baby pattern by taffylass knits"

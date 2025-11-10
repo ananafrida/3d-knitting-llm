@@ -7,6 +7,10 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "sizes_available": "Small, medium, large",
+  "languages": [
+    "Dutch",
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -23,14 +27,14 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/sources/draadje-los-ravelry-store",
+    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy",
+    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/yarns",
     "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/report",
     "https://www.ravelry.com/patterns/library/kubus-tasje---japanese-inspired-bag",
-    "https://www.ravelry.com/patterns/sources/draadje-los-ravelry-store",
-    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/yarns",
+    "https://www.ravelry.com/patterns/library/babymutsje---baby-hat",
     "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/editors",
     "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/comments",
-    "https://www.ravelry.com/patterns/library/babymutsje---baby-hat",
-    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/people",
-    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy"
+    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/people"
   ]
 }

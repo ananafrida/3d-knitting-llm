@@ -7,6 +7,10 @@
   "category": "Tops → Tee Tops → Sleeveless Top",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "sizes_available": "Finished Bust Circ : 80 (90 / 100 / 110 / 120), 130 (140 / 150 / 160 / 170) cm – 31 ½ (35 ½ / 39 ¼ / 43 ¼ / 47 ¼), 51 ¼ (55 / 59 / 63 / 67)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Purl Soho Santolina"
@@ -38,16 +42,16 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/sophorine/yarns",
+    "https://www.ravelry.com/patterns/library/hermeline",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sophorine/people",
+    "https://www.ravelry.com/patterns/library/liserne",
     "https://www.ravelry.com/patterns/library/sophorine/threads",
     "https://www.ravelry.com/patterns/library/sophorine/report",
-    "https://www.ravelry.com/patterns/library/liserne",
-    "https://www.ravelry.com/patterns/library/sophorine",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/hermeline",
-    "https://www.ravelry.com/patterns/library/sophorine/editors",
-    "https://www.ravelry.com/patterns/library/sophorine/comments",
     "https://www.ravelry.com/patterns/library/junie",
-    "https://www.ravelry.com/patterns/library/sophorine/people",
-    "https://www.ravelry.com/patterns/library/sophorine/yarns"
+    "https://www.ravelry.com/patterns/library/sophorine",
+    "https://www.ravelry.com/patterns/library/sophorine/editors",
+    "https://www.ravelry.com/patterns/library/sophorine/comments"
   ]
 }

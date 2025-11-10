@@ -4,6 +4,9 @@
   "category": "Coat / Jacket",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "36/38, 44/46",
+  "languages": [
+    "German"
+  ],
   "suggested_yarn": [
     "Sport (12 wpi) ?",
     "Lana Grossa Diversa"
@@ -25,19 +28,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/yarns",
     "https://www.ravelry.com/patterns/library/-58-shirt-maglia",
-    "https://www.ravelry.com/patterns/library/-16-pullover-elastico",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/report",
-    "https://www.ravelry.com/patterns/library/-30-jacke-bottoni",
-    "https://www.ravelry.com/patterns/sources/lana-grossa-filati-magazine-65",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa",
-    "https://www.ravelry.com/patterns/sources/woolplace-by-lana-grossa",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/comments",
+    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/editors",
     "https://www.ravelry.com/patterns/library/-30-jacke-diversa/people",
     "https://www.ravelry.com/patterns/periodicals/lana-grossa",
+    "https://www.ravelry.com/patterns/library/-16-pullover-elastico",
+    "https://www.ravelry.com/patterns/library/-30-jacke-bottoni",
+    "https://www.ravelry.com/patterns/sources/woolplace-by-lana-grossa",
+    "https://www.ravelry.com/patterns/sources/lana-grossa-filati-magazine-65",
+    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/yarns",
+    "https://www.ravelry.com/patterns/library/-30-jacke-diversa",
     "https://www.ravelry.com/patterns/library/-30-jacke-diversa/edit",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/editors"
+    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/comments",
+    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/report"
   ],
   "name": "Ravelry: # 30 Jacke Diversa pattern by Lana Grossa"
 }

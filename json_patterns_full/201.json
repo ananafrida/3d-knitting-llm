@@ -4,9 +4,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "sizes_available": "Approximately 9” long x 9” wide at top and 11.5” wide at bottom after felting",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Crystal Palace Yarns DragonFly"
+    "Crystal Palace Yarns DragonFly",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "felted",
@@ -19,19 +22,19 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/yarns",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/edit",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/editors",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/report",
-    "https://www.ravelry.com/patterns/library/teddy-bear-baby-blanket",
     "https://www.ravelry.com/patterns/library/moon-and-stars-baby-blanket",
+    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/people",
     "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/threads",
     "http://www.knittingonthenet.com/patterns/bagfelticedragon.htm",
+    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/report",
     "https://www.ravelry.com/patterns/sources/knitting-on-the-net",
+    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag",
+    "https://www.ravelry.com/patterns/library/teddy-bear-baby-blanket",
     "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/comments",
     "https://www.ravelry.com/patterns/library/moss-stitch-diamonds-baby-blanket",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/people",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag",
-    "https://www.ravelry.com/patterns/sources/crystal-palace-yarns"
+    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/editors",
+    "https://www.ravelry.com/patterns/sources/crystal-palace-yarns",
+    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/edit"
   ],
   "name": "Ravelry: Easy Felt Knit Bag pattern by Barbara Breiter"
 }

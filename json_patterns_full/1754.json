@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
   "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Heather and Hops Highland DK",
     "yarn held together"
@@ -25,16 +28,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/people",
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/comments",
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/report",
-    "https://www.ravelry.com/patterns/library/find-the-path-shawl",
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat",
-    "https://www.ravelry.com/patterns/library/spring-intentions-wrap-kal",
     "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/threads",
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/editors",
+    "https://www.ravelry.com/patterns/library/find-the-path-shawl",
     "https://www.ravelry.com/patterns/library/for-the-frill-of-it-socks",
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/editors",
+    "https://www.ravelry.com/patterns/library/spring-intentions-wrap-kal",
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat",
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/report",
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/comments",
+    "https://www.ravelry.com/patterns/sources/katt-weavers-ravelry-store",
     "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/yarns",
-    "https://www.ravelry.com/patterns/sources/katt-weavers-ravelry-store"
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/people"
   ]
 }

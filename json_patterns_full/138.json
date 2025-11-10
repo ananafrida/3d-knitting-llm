@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Blocks",
   "sizes_available": "6x6 inches, 5x5 inches, 4x4 inches square",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Rico Design Essentials Cotton DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Rico Design Essentials Cotton DK"
   ],
   "attributes": [
     "3-dimensional",
@@ -25,17 +28,17 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/people",
     "https://www.ravelry.com/patterns/library/baby-building-block-cube/editors",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/yarns",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/comments",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/people",
     "https://www.ravelry.com/patterns/library/baby-building-block-cube/threads",
-    "https://www.ravelry.com/patterns/library/multi-colour-flower-blanket-square",
-    "https://www.ravelry.com/patterns/library/marlion",
-    "https://www.ravelry.com/patterns/sources/tangled-blossoms-designs",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/posts",
+    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares",
     "https://www.ravelry.com/patterns/library/baby-building-block-cube",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/report"
+    "https://www.ravelry.com/patterns/library/multi-colour-flower-blanket-square",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/report",
+    "https://www.ravelry.com/patterns/sources/tangled-blossoms-designs",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/comments",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/posts",
+    "https://www.ravelry.com/patterns/library/marlion",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/yarns"
   ]
 }

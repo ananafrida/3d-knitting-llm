@@ -7,9 +7,12 @@
   "category": "Decorative → Hanging Ornament",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "sizes_available": "OS",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "The Wandering Flock Baby Paca",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "The Wandering Flock Baby Paca"
   ],
   "attributes": [
     "one-piece",
@@ -19,15 +22,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-crop-puff/people",
-    "https://www.ravelry.com/patterns/library/mini-crop-puff/report",
-    "https://www.ravelry.com/patterns/library/mini-crop-puff/comments",
     "https://www.ravelry.com/patterns/sources/geraldine-yangs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/brooklyn-bridges-beanie",
-    "https://www.ravelry.com/patterns/library/mini-crop-puff/yarns",
+    "https://www.ravelry.com/patterns/library/mini-crop-puff/people",
+    "https://www.ravelry.com/patterns/library/mini-crop-puff/comments",
     "https://www.ravelry.com/patterns/library/mini-crop-puff/editors",
+    "https://www.ravelry.com/patterns/library/mini-crop-puff/report",
     "https://www.ravelry.com/patterns/library/tilly-crop-top",
+    "https://www.ravelry.com/patterns/library/brooklyn-bridges-beanie",
+    "https://www.ravelry.com/patterns/library/mini-crop-puff",
     "https://www.ravelry.com/patterns/library/arete-2",
-    "https://www.ravelry.com/patterns/library/mini-crop-puff"
+    "https://www.ravelry.com/patterns/library/mini-crop-puff/yarns"
   ]
 }

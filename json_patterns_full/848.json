@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "20 cm wide and 80 cm long",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Rowan Lima"
+    "Rowan Lima",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "one-piece",
@@ -24,14 +27,14 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/comments",
     "https://www.ravelry.com/patterns/library/missmarple-scarf",
+    "https://www.ravelry.com/patterns/sources/susannes-vv-ravelry-downloads",
     "https://www.ravelry.com/patterns/library/missmarple-scarf/yarns",
     "https://www.ravelry.com/patterns/library/missmarple-scarf/editors",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/threads",
     "https://www.ravelry.com/patterns/library/missmarple-scarf/posts",
     "https://www.ravelry.com/patterns/library/missmarple-scarf/people",
-    "https://www.ravelry.com/patterns/library/missmarple-scarf/report",
-    "https://www.ravelry.com/patterns/library/missmarple-scarf/threads",
-    "https://www.ravelry.com/patterns/library/missmarple-scarf/comments",
-    "https://www.ravelry.com/patterns/sources/susannes-vv-ravelry-downloads"
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/report"
   ]
 }

@@ -5,6 +5,10 @@
   "designer": "Johanna Mäki",
   "craft": "Knitting",
   "category": "Applique / Embellishment",
+  "languages": [
+    "English",
+    "Finnish"
+  ],
   "suggested_yarn": [
     ""
   ],
@@ -19,17 +23,17 @@
   "techniques": [],
   "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/domino-heart",
-    "https://www.ravelry.com/patterns/library/domino-heart/yarns",
-    "https://www.ravelry.com/patterns/library/domino-heart/people",
-    "https://www.ravelry.com/patterns/library/domino-heart/report",
-    "https://www.ravelry.com/patterns/library/hiljaista-kuin-huopatossutehtaalla",
-    "https://www.ravelry.com/patterns/library/nappipo",
     "https://www.ravelry.com/patterns/library/domino-heart/posts",
-    "https://www.ravelry.com/patterns/sources/mcin-blogi",
-    "https://www.ravelry.com/patterns/library/domino-heart/editors",
+    "https://www.ravelry.com/patterns/library/nappipo",
+    "https://www.ravelry.com/patterns/library/kierrehuivi",
+    "https://www.ravelry.com/patterns/library/domino-heart",
+    "https://www.ravelry.com/patterns/library/domino-heart/report",
     "https://www.ravelry.com/patterns/library/domino-heart/threads",
     "https://www.ravelry.com/patterns/library/domino-heart/comments",
-    "https://www.ravelry.com/patterns/library/kierrehuivi"
+    "https://www.ravelry.com/patterns/library/domino-heart/yarns",
+    "https://www.ravelry.com/patterns/library/domino-heart/editors",
+    "https://www.ravelry.com/patterns/library/hiljaista-kuin-huopatossutehtaalla",
+    "https://www.ravelry.com/patterns/library/domino-heart/people",
+    "https://www.ravelry.com/patterns/sources/mcin-blogi"
   ]
 }

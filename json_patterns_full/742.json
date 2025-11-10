@@ -7,9 +7,12 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "XXS, XS, S, M, L, XL, 2XL, 3XL",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Svarta Fåret Merino"
+    "Svarta Fåret Merino",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -31,13 +34,13 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover",
-    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/editors",
-    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/comments",
     "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/people",
-    "https://www.ravelry.com/patterns/sources/mysimones-ravelry-store",
-    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/threads",
+    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/comments",
     "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/yarns",
-    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/report"
+    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/editors",
+    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/report",
+    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover/threads",
+    "https://www.ravelry.com/patterns/sources/mysimones-ravelry-store",
+    "https://www.ravelry.com/patterns/library/the-pure-shores-pullover"
   ]
 }

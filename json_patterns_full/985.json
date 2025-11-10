@@ -7,9 +7,13 @@
   "category": "Ball",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "9 cm i diameter",
+  "languages": [
+    "English",
+    "Norwegian"
+  ],
   "suggested_yarn": [
-    "yarn held together",
-    "Dale Garn Tynn Kidsilk Erle"
+    "Dale Garn Tynn Kidsilk Erle",
+    "yarn held together"
   ],
   "attributes": [
     "chart",
@@ -24,14 +28,14 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/smock-ball/people",
+    "https://www.ravelry.com/patterns/library/bruserup",
     "https://www.ravelry.com/patterns/sources/eva-klosters-ravelry-store",
-    "https://www.ravelry.com/patterns/library/maiblomst",
     "https://www.ravelry.com/patterns/library/smock-ball/report",
+    "https://www.ravelry.com/patterns/library/maiblomst",
     "https://www.ravelry.com/patterns/library/smock-ball/yarns",
     "https://www.ravelry.com/patterns/library/smock-ball/editors",
-    "https://www.ravelry.com/patterns/library/smock-ball/comments",
-    "https://www.ravelry.com/patterns/library/bruserup",
     "https://www.ravelry.com/patterns/library/neve-9",
+    "https://www.ravelry.com/patterns/library/smock-ball/comments",
     "https://www.ravelry.com/patterns/library/smock-ball"
   ]
 }

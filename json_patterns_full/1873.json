@@ -7,9 +7,12 @@
   "category": "Containers",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lion Brand Re-Up (Cotton)"
+    "Lion Brand Re-Up (Cotton)",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -26,17 +29,17 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/editors",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/people",
-    "https://www.ravelry.com/patterns/library/cimelio-pumpkin",
-    "https://www.ravelry.com/patterns/library/venezia-palina-coaster",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/comments",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/yarns",
     "https://blog.clover-usa.com/2020/07/23/limoncello-hanging-basket-knit-pattern/",
-    "https://www.ravelry.com/patterns/library/torino-ear-warmer",
     "https://www.ravelry.com/patterns/sources/clover-usa-blog",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/report",
+    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/yarns",
+    "https://www.ravelry.com/patterns/library/torino-ear-warmer",
     "https://www.ravelry.com/patterns/sources/frosia-knits",
+    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/comments",
+    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/report",
+    "https://www.ravelry.com/patterns/library/venezia-palina-coaster",
+    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/editors",
+    "https://www.ravelry.com/patterns/library/cimelio-pumpkin",
+    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/people",
     "https://www.ravelry.com/patterns/library/limoncello-hanging-basket"
   ]
 }

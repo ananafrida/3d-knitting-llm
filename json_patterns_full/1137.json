@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Ewe Ewe Yarns Wooly Worsted"
+    "Ewe Ewe Yarns Wooly Worsted",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "icord",
@@ -21,16 +24,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/billy-and-baa-on-ravelry",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/yarns",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/people",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/report",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/comments",
-    "https://www.ravelry.com/patterns/library/pom-pom-gnome",
     "https://www.ravelry.com/patterns/library/star-spangled-gnome",
-    "https://www.ravelry.com/patterns/library/sweater-on-the-elf",
+    "https://www.ravelry.com/patterns/library/pom-pom-gnome",
     "https://www.ravelry.com/patterns/sources/billy-and-baa",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/report",
     "https://www.ravelry.com/patterns/library/pin-pennant",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/editors"
+    "https://www.ravelry.com/patterns/library/sweater-on-the-elf",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/editors",
+    "https://www.ravelry.com/patterns/sources/billy-and-baa-on-ravelry",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/comments",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/people",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/yarns"
   ]
 }

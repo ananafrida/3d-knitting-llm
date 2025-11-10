@@ -7,6 +7,9 @@
   "category": "Hat → Pixie",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Cascade Yarns ® 220 Superwash®",
     "yarn held together"
@@ -24,16 +27,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/northwest-elf/comments",
-    "https://www.ravelry.com/patterns/library/northwest-elf/report",
-    "https://www.ravelry.com/patterns/sources/kali-bergs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mega-rib",
-    "https://www.ravelry.com/patterns/library/the-wild-hemlock-hat",
-    "https://www.ravelry.com/patterns/library/northwest-elf",
     "https://www.ravelry.com/patterns/library/northwest-elf/editors",
     "https://www.ravelry.com/patterns/library/twist-and-slouch-2",
-    "https://www.ravelry.com/patterns/library/northwest-elf/people",
+    "https://www.ravelry.com/patterns/library/mega-rib",
+    "https://www.ravelry.com/patterns/library/northwest-elf/yarns",
+    "https://www.ravelry.com/patterns/sources/kali-bergs-ravelry-store",
     "https://www.ravelry.com/patterns/library/northwest-elf/threads",
-    "https://www.ravelry.com/patterns/library/northwest-elf/yarns"
+    "https://www.ravelry.com/patterns/library/northwest-elf",
+    "https://www.ravelry.com/patterns/library/the-wild-hemlock-hat",
+    "https://www.ravelry.com/patterns/library/northwest-elf/comments",
+    "https://www.ravelry.com/patterns/library/northwest-elf/report",
+    "https://www.ravelry.com/patterns/library/northwest-elf/people"
   ]
 }

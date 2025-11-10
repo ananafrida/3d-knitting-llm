@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Decorative → Other",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Hawari Bazaar Sultan Chunky"
+    "Hawari Bazaar Sultan Chunky",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "icord"
@@ -17,15 +20,15 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/editors",
-    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/yarns",
-    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/report",
-    "https://www.ravelry.com/patterns/sources/corinne-hawaris-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cielo-mitts",
-    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/people",
-    "https://www.ravelry.com/patterns/library/hawari-headbands",
-    "https://www.ravelry.com/patterns/library/orbital-mitts",
     "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin",
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/editors",
+    "https://www.ravelry.com/patterns/library/orbital-mitts",
+    "https://www.ravelry.com/patterns/library/hawari-headbands",
+    "https://www.ravelry.com/patterns/library/cielo-mitts",
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/yarns",
+    "https://www.ravelry.com/patterns/sources/corinne-hawaris-ravelry-store",
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/report",
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/people",
     "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/comments"
   ]
 }

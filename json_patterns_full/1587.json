@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Decorative → Other",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Garnstudio DROPS Peak",
     "Any gauge - designed for any gauge ?"
@@ -19,17 +22,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cabled-pumpkins/editors",
-    "https://www.ravelry.com/patterns/library/oversized-bow-headband-head-wrap",
-    "https://www.ravelry.com/patterns/library/cabled-pumpkins/yarns",
-    "https://www.ravelry.com/patterns/library/cabled-pumpkins/comments",
     "https://www.ravelry.com/patterns/library/cabled-pumpkins",
     "https://www.ravelry.com/patterns/library/bulky-cabled-headband",
-    "https://www.ravelry.com/patterns/library/cabled-pumpkins/threads",
-    "https://www.ravelry.com/patterns/library/cabled-pumpkins/report",
-    "https://www.ravelry.com/patterns/library/cabled-pumpkins/people",
-    "https://www.ravelry.com/patterns/library/turband-headwrap-earwarmer",
     "https://www.ravelry.com/patterns/library/cabled-pumpkins/posts",
-    "https://www.ravelry.com/patterns/sources/rebecca-olivers-ravelry-store"
+    "https://www.ravelry.com/patterns/library/cabled-pumpkins/yarns",
+    "https://www.ravelry.com/patterns/library/cabled-pumpkins/people",
+    "https://www.ravelry.com/patterns/library/cabled-pumpkins/comments",
+    "https://www.ravelry.com/patterns/library/turband-headwrap-earwarmer",
+    "https://www.ravelry.com/patterns/library/cabled-pumpkins/threads",
+    "https://www.ravelry.com/patterns/sources/rebecca-olivers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/oversized-bow-headband-head-wrap",
+    "https://www.ravelry.com/patterns/library/cabled-pumpkins/editors",
+    "https://www.ravelry.com/patterns/library/cabled-pumpkins/report"
   ]
 }

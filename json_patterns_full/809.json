@@ -7,9 +7,13 @@
   "category": "Sweater → Pullover Tops → Tee",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "Finished Bust Circ 80 (87 / 95 / 102 / 110), (117 / 125 / 132 / 140), (148 / 155 / 162) cm 31 ½ (34 ¼ / 37 ½ / 40 ¼ / 43 ¼), (46 / 49 ¼ / 52 / 55), (58 ¼ / 61 / 63 ¾)\"",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
-    "Lana Grossa Linea Pura Solo Lino",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Lana Grossa Linea Pura Solo Lino"
   ],
   "attributes": [
     "adult",
@@ -38,16 +42,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/telesto/threads",
-    "https://www.ravelry.com/patterns/library/telesto/editors",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/hermeline",
-    "https://www.ravelry.com/patterns/library/telesto/people",
     "https://www.ravelry.com/patterns/library/telesto",
-    "https://www.ravelry.com/patterns/library/pleione-3",
-    "https://www.ravelry.com/patterns/library/oread",
-    "https://www.ravelry.com/patterns/library/telesto/report",
+    "https://www.ravelry.com/patterns/library/telesto/yarns",
     "https://www.ravelry.com/patterns/library/telesto/comments",
-    "https://www.ravelry.com/patterns/library/telesto/yarns"
+    "https://www.ravelry.com/patterns/library/hermeline",
+    "https://www.ravelry.com/patterns/library/pleione-3",
+    "https://www.ravelry.com/patterns/library/telesto/report",
+    "https://www.ravelry.com/patterns/library/oread",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/telesto/people",
+    "https://www.ravelry.com/patterns/library/telesto/threads",
+    "https://www.ravelry.com/patterns/library/telesto/editors"
   ]
 }

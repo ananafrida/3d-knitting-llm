@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Pet → Toys",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -20,16 +23,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/catnip-mice-2/threads",
-    "https://www.ravelry.com/patterns/sources/samanthar5",
-    "https://www.ravelry.com/patterns/library/baby-trekkie-washcloth",
-    "https://www.ravelry.com/patterns/library/fuzzy-brim-baby-bonnet",
-    "https://www.ravelry.com/patterns/library/catnip-mice-2/editors",
-    "https://www.ravelry.com/patterns/library/kinseys-cable-scarf",
     "https://www.ravelry.com/patterns/library/catnip-mice-2/comments",
+    "https://www.ravelry.com/patterns/library/catnip-mice-2",
+    "https://www.ravelry.com/patterns/library/fuzzy-brim-baby-bonnet",
     "https://www.ravelry.com/patterns/library/catnip-mice-2/yarns",
-    "https://www.ravelry.com/patterns/library/catnip-mice-2/report",
+    "https://www.ravelry.com/patterns/library/catnip-mice-2/editors",
+    "https://www.ravelry.com/patterns/library/baby-trekkie-washcloth",
+    "https://www.ravelry.com/patterns/library/kinseys-cable-scarf",
+    "https://www.ravelry.com/patterns/sources/samanthar5",
     "https://www.ravelry.com/patterns/library/catnip-mice-2/people",
-    "https://www.ravelry.com/patterns/library/catnip-mice-2"
+    "https://www.ravelry.com/patterns/library/catnip-mice-2/report",
+    "https://www.ravelry.com/patterns/library/catnip-mice-2/threads"
   ]
 }

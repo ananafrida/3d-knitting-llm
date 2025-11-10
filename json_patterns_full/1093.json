@@ -4,9 +4,21 @@
   "category": "Tops → Tee",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "M, L, XL, XXL",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Concept by Katia Bellino",
-    "Light Fingering ?"
+    "Light Fingering ?",
+    "Concept by Katia Bellino"
   ],
   "attributes": [
     "adult",
@@ -31,19 +43,19 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/editors",
+    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/threads",
+    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater",
+    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/report",
+    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/yarns",
+    "https://www.ravelry.com/patterns/library/-01-top-encolure-asymetrique",
     "https://www.ravelry.com/patterns/library/-14-jacke-in-rose",
     "https://www.ravelry.com/patterns/periodicals/katia",
     "https://www.ravelry.com/patterns/sources/katia-yarns-website",
-    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/yarns",
-    "https://www.ravelry.com/patterns/library/-01-top-encolure-asymetrique",
-    "https://www.ravelry.com/patterns/library/striped-summer-sweater-1940",
     "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/comments",
-    "https://www.katia.com/EN/patterns-spring-summer-woman-t-shirt-8041-456.html",
-    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater",
-    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/editors",
+    "https://www.ravelry.com/patterns/library/striped-summer-sweater-1940",
     "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/people",
-    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/report",
-    "https://www.ravelry.com/patterns/library/8041-456-top-down-sweater/threads"
+    "https://www.katia.com/EN/patterns-spring-summer-woman-t-shirt-8041-456.html"
   ],
   "name": "Ravelry: 8041-456 Top-down Sweater pattern by Fil Katia"
 }

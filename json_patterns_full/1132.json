@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "sizes_available": "Doll is 4\" (10 cm) in DK weight.",
+  "languages": [
+    "English"
+  ],
   "attributes": [
     "bottom-up",
     "chart",
@@ -21,16 +24,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/comments",
     "https://www.ravelry.com/patterns/library/mini-gingerbread-friends",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/report",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/editors",
-    "https://www.ravelry.com/patterns/library/winter-folk-friends",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/threads",
     "https://www.ravelry.com/patterns/library/mini-snowbuddies",
     "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/yarns",
     "https://www.ravelry.com/patterns/library/pen-pals-2",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/people"
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/threads",
+    "https://www.ravelry.com/patterns/library/winter-folk-friends",
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/comments",
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/people",
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/editors",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/report"
   ]
 }

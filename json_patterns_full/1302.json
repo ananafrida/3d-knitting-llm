@@ -4,9 +4,12 @@
   "category": "Softies → Animal",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "Baby Dragon is approx. 20cm/7.8 inches tall.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
     "3-dimensional",
@@ -20,18 +23,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/polushkabunny-website",
-    "https://www.ravelry.com/patterns/library/dragons-sweater",
+    "https://www.ravelry.com/patterns/library/dragon-91/comments",
     "https://www.ravelry.com/patterns/library/little-bunny-toy-3",
     "https://www.ravelry.com/patterns/library/baby-duck-806",
-    "https://www.ravelry.com/patterns/library/dragon-91/comments",
-    "https://www.ravelry.com/patterns/library/dragon-91/yarns",
-    "https://www.ravelry.com/patterns/library/dragon-91/editors",
-    "https://mailchi.mp/742a8d1f68fc/needlecraft-dragon-delights-pattern-subscription",
     "https://www.ravelry.com/patterns/library/dragon-91",
+    "https://www.ravelry.com/patterns/sources/polushkabunny",
     "https://www.ravelry.com/patterns/library/dragon-91/people",
+    "https://www.ravelry.com/patterns/library/dragon-91/yarns",
     "https://www.ravelry.com/patterns/library/dragon-91/report",
-    "https://www.ravelry.com/patterns/sources/polushkabunny"
+    "https://www.ravelry.com/patterns/sources/polushkabunny-website",
+    "https://mailchi.mp/742a8d1f68fc/needlecraft-dragon-delights-pattern-subscription",
+    "https://www.ravelry.com/patterns/library/dragon-91/editors",
+    "https://www.ravelry.com/patterns/library/dragons-sweater"
   ],
   "name": "Ravelry: Dragon pattern by Maria Ermolova"
 }

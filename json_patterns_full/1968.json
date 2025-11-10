@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Applique / Embellishment",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Qing Fibre Classic DK"
+    "Qing Fibre Classic DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "worked-flat"
@@ -17,17 +20,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/yarns",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3",
-    "https://www.qingfibre.com/products/mini-rainbow-pattern-download",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/comments",
-    "https://www.ravelry.com/patterns/library/ice-cream-treats-2",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/report",
-    "https://www.ravelry.com/patterns/library/little-saturn",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/editors",
-    "https://www.ravelry.com/patterns/library/weather-cushions-2",
     "https://www.ravelry.com/patterns/library/mini-rainbow-3/people",
+    "https://www.ravelry.com/patterns/library/little-saturn",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3",
     "https://www.ravelry.com/patterns/sources/qing-fibres-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/threads"
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3/yarns",
+    "https://www.ravelry.com/patterns/library/weather-cushions-2",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3/threads",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3/report",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3/comments",
+    "https://www.qingfibre.com/products/mini-rainbow-pattern-download",
+    "https://www.ravelry.com/patterns/library/ice-cream-treats-2",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3/editors"
   ]
 }

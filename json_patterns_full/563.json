@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Blanket → Baby Blanket",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Woolly and Warmy Cicibebe Batik"
+    "Woolly and Warmy Cicibebe Batik",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "video-tutorial",
@@ -18,15 +21,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/striped-diagonal-baby-blanket",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/diagonal-garter-stitch-scarf-3",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/sources/snufflebean-yarns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6",
     "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/comments",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/people",
+    "https://www.ravelry.com/patterns/sources/snufflebean-yarns-ravelry-store",
+    "https://www.ravelry.com/patterns/library/diagonal-garter-stitch-scarf-3",
     "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/editors",
+    "https://www.ravelry.com/patterns/library/striped-diagonal-baby-blanket",
+    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6",
     "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/report",
     "https://www.ravelry.com/patterns/sources/snufflebean-yarn"
   ]

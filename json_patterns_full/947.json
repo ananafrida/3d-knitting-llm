@@ -4,6 +4,10 @@
   "category": "Ball",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "4” - 4½” in diameter",
+  "languages": [
+    "English",
+    "Italian"
+  ],
   "suggested_yarn": [
     "",
     "Sport (12 wpi) ?"
@@ -22,17 +26,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/swirl-ball/yarns",
-    "https://www.ravelry.com/patterns/library/swirl-ball/comments",
-    "https://www.ravelry.com/patterns/library/swirl-ball/posts",
-    "https://www.ravelry.com/patterns/sources/knitlist",
-    "https://www.ravelry.com/patterns/library/swirl-ball",
-    "https://www.ravelry.com/patterns/library/swirl-ball/edit",
-    "https://www.ravelry.com/patterns/library/swirl-ball/people",
-    "https://www.ravelry.com/patterns/library/swirl-ball/report",
-    "https://www.ravelry.com/patterns/library/swirl-ball/editors",
+    "https://www.ravelry.com/patterns/library/swirl-ball/threads",
     "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/swirl-ball/threads"
+    "https://www.ravelry.com/patterns/library/swirl-ball/yarns",
+    "https://www.ravelry.com/patterns/library/swirl-ball/report",
+    "https://www.ravelry.com/patterns/library/swirl-ball",
+    "https://www.ravelry.com/patterns/library/swirl-ball/editors",
+    "https://www.ravelry.com/patterns/library/swirl-ball/edit",
+    "https://www.ravelry.com/patterns/library/swirl-ball/posts",
+    "https://www.ravelry.com/patterns/library/swirl-ball/people",
+    "https://www.ravelry.com/patterns/library/swirl-ball/comments",
+    "https://www.ravelry.com/patterns/sources/knitlist"
   ],
   "name": "Ravelry: Swirl Ball pattern by Eve Clevenger"
 }

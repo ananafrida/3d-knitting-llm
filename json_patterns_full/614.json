@@ -7,9 +7,12 @@
   "category": "Blanket → Baby Blanket",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "One size, 23x30 inches, with instructions to customize size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Alley Cat Yarns Moggie DK"
+    "Alley Cat Yarns Moggie DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "cables",
@@ -24,16 +27,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket/editors",
+    "https://www.ravelry.com/patterns/library/place-fleury-socks",
+    "https://www.ravelry.com/patterns/library/wildflower-field-socks",
     "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket/yarns",
     "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/sources/marie-elyse-dugals-ravelry-store",
-    "https://www.ravelry.com/patterns/library/wildflower-field-socks",
-    "https://www.ravelry.com/patterns/library/stormy-moor-shawl",
-    "https://www.ravelry.com/patterns/library/place-fleury-socks",
-    "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket/people",
     "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket/comments",
+    "https://www.ravelry.com/patterns/library/stormy-moor-shawl",
+    "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket/people",
+    "https://www.ravelry.com/patterns/sources/marie-elyse-dugals-ravelry-store",
     "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket"
+    "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket",
+    "https://www.ravelry.com/patterns/library/sleepy-owls-baby-blanket/editors"
   ]
 }

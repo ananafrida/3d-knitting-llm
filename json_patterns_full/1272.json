@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Animal",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -20,16 +23,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/christmas-cookies-4",
-    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
-    "https://www.ravelry.com/patterns/library/petite-dove",
     "https://www.ravelry.com/patterns/library/victorian-mouse/threads",
     "https://www.ravelry.com/patterns/library/victorian-mouse/comments",
-    "https://www.ravelry.com/patterns/library/victorian-mouse/report",
-    "https://www.ravelry.com/patterns/library/the-nursery-kittens",
-    "https://www.ravelry.com/patterns/library/victorian-mouse",
-    "https://www.ravelry.com/patterns/library/victorian-mouse/people",
     "https://www.ravelry.com/patterns/library/victorian-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/christmas-cookies-4",
+    "https://www.ravelry.com/patterns/library/victorian-mouse/people",
+    "https://www.ravelry.com/patterns/library/victorian-mouse/report",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/victorian-mouse",
+    "https://www.ravelry.com/patterns/library/petite-dove",
+    "https://www.ravelry.com/patterns/library/the-nursery-kittens",
     "https://www.ravelry.com/patterns/library/victorian-mouse/editors"
   ]
 }

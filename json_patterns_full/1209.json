@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Softies → Doll",
   "sizes_available": "8 inches approximately",
+  "languages": [
+    "English"
+  ],
   "attributes": [
     "worked-flat"
   ],
@@ -13,15 +16,15 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/santa-and-mrs/threads",
     "https://www.ravelry.com/patterns/library/snowman-ornament-34",
-    "https://www.ravelry.com/patterns/library/christmas-garland-17",
-    "https://www.ravelry.com/patterns/sources/debra-allings-ravelry-store",
-    "https://www.ravelry.com/patterns/library/santa-and-mrs/editors",
     "https://www.ravelry.com/patterns/library/santa-and-mrs/people",
-    "https://www.ravelry.com/patterns/library/santa-and-mrs/yarns",
     "https://www.ravelry.com/patterns/library/santa-and-mrs/report",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/yarns",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/threads",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/comments",
+    "https://www.ravelry.com/patterns/library/christmas-garland-17",
     "https://www.ravelry.com/patterns/library/santa-and-mrs",
-    "https://www.ravelry.com/patterns/library/santa-and-mrs/comments"
+    "https://www.ravelry.com/patterns/sources/debra-allings-ravelry-store",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/editors"
   ]
 }

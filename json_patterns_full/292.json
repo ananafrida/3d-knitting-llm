@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Pet → Toys",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "TLC Essentials Solid"
+    "TLC Essentials Solid",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "one-piece",
@@ -20,17 +23,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/monnibo-designs",
-    "https://www.ravelry.com/patterns/library/henrys-toy-snake/comments",
-    "https://www.ravelry.com/patterns/library/henrys-toy-snake/people",
     "https://www.ravelry.com/patterns/library/henrys-toy-snake/editors",
-    "https://www.ravelry.com/patterns/library/henrys-toy-snake/posts",
-    "https://www.ravelry.com/patterns/library/henrys-toy-snake/report",
-    "https://www.ravelry.com/patterns/library/eyelet-capelet",
-    "https://www.ravelry.com/patterns/library/henrys-toy-snake/yarns",
-    "https://www.ravelry.com/patterns/library/snowflake-dishcloth-4",
     "https://www.ravelry.com/patterns/library/hot-water-bottle-cosy",
+    "https://www.ravelry.com/patterns/library/snowflake-dishcloth-4",
+    "https://www.ravelry.com/patterns/library/eyelet-capelet",
     "https://www.ravelry.com/patterns/library/henrys-toy-snake/threads",
-    "https://www.ravelry.com/patterns/library/henrys-toy-snake"
+    "https://www.ravelry.com/patterns/sources/monnibo-designs",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/report",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/people",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/comments",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/yarns",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/posts"
   ]
 }

@@ -7,6 +7,9 @@
   "category": "Softies → Doll",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "the doll is 10 inches tall",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "DK (11 wpi) ?"
   ],
@@ -21,15 +24,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bottom-up-betty",
-    "https://www.ravelry.com/patterns/library/kate-greenaway-dress-for-doll",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/report",
     "https://www.ravelry.com/patterns/library/bottom-up-betty/yarns",
-    "https://www.ravelry.com/patterns/library/lace-coat-for-doll",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/editors",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/people",
     "https://www.ravelry.com/patterns/library/churros-three-ways",
+    "https://www.ravelry.com/patterns/library/bottom-up-betty/editors",
+    "https://www.ravelry.com/patterns/sources/knichets-patterns",
+    "https://www.ravelry.com/patterns/library/bottom-up-betty/report",
+    "https://www.ravelry.com/patterns/library/lace-coat-for-doll",
+    "https://www.ravelry.com/patterns/library/kate-greenaway-dress-for-doll",
+    "https://www.ravelry.com/patterns/library/bottom-up-betty/people",
     "https://www.ravelry.com/patterns/library/bottom-up-betty/comments",
-    "https://www.ravelry.com/patterns/sources/knichets-patterns"
+    "https://www.ravelry.com/patterns/library/bottom-up-betty"
   ]
 }

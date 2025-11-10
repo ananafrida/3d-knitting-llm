@@ -4,6 +4,9 @@
   "category": "Afghan block",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "8.5\" x 8.5\"",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "DK (11 wpi) ?"
@@ -16,16 +19,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/labrador-dog-square/comments",
     "https://www.ravelry.com/patterns/library/labrador-dog-square/editors",
-    "https://www.ravelry.com/patterns/library/dog-square",
-    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
     "https://www.ravelry.com/patterns/library/labrador-dog-square/yarns",
-    "https://www.ravelry.com/patterns/library/labrador-dog-square",
-    "https://www.ravelry.com/patterns/library/dog-bone-square",
+    "https://www.ravelry.com/patterns/library/labrador-dog-square/comments",
     "https://www.ravelry.com/patterns/library/eiffel-tower-square",
+    "https://www.ravelry.com/patterns/library/dog-square",
+    "https://www.ravelry.com/patterns/library/labrador-dog-square/report",
+    "https://www.ravelry.com/patterns/library/dog-bone-square",
     "https://www.ravelry.com/patterns/library/labrador-dog-square/people",
-    "https://www.ravelry.com/patterns/library/labrador-dog-square/report"
+    "https://www.ravelry.com/patterns/library/labrador-dog-square",
+    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website"
   ],
   "name": "Ravelry: Labrador Dog Square pattern by Daisy and Storm"
 }

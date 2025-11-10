@@ -4,9 +4,12 @@
   "category": "Blanket → Baby Blanket",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "32\" wide x 44\" long; 81 x 112cm",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Berroco Vintage® Baby"
+    "Berroco Vintage® Baby",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -23,21 +26,21 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/baby-fern-lake/report",
-    "https://www.ravelry.com/patterns/library/scout-10",
-    "https://www.berroco.com/patterns/fern-lake",
-    "https://www.ravelry.com/patterns/library/baby-fern-lake/edit",
     "https://www.ravelry.com/patterns/library/baby-fern-lake/comments",
-    "https://www.ravelry.com/patterns/periodicals/berroco",
-    "https://www.ravelry.com/patterns/library/baby-fern-lake/threads",
-    "https://www.ravelry.com/patterns/library/baby-fern-lake/people",
-    "https://www.ravelry.com/patterns/library/baby-fern-lake/editors",
-    "https://www.ravelry.com/patterns/library/baby-fern-lake/posts",
-    "https://www.ravelry.com/patterns/library/baby-fern-lake",
-    "https://www.ravelry.com/patterns/library/baby-fern-lake/yarns",
     "https://www.ravelry.com/patterns/library/mystery-blanket-knit-along",
-    "https://www.ravelry.com/patterns/library/berie",
+    "https://www.ravelry.com/patterns/library/scout-10",
+    "https://www.ravelry.com/patterns/library/baby-fern-lake/edit",
     "https://www.ravelry.com/patterns/sources/berroco-website",
-    "https://www.berroco.com/patterns/baby-fern-lake"
+    "https://www.berroco.com/patterns/fern-lake",
+    "https://www.ravelry.com/patterns/library/baby-fern-lake/people",
+    "https://www.ravelry.com/patterns/library/baby-fern-lake/yarns",
+    "https://www.ravelry.com/patterns/library/baby-fern-lake/threads",
+    "https://www.berroco.com/patterns/baby-fern-lake",
+    "https://www.ravelry.com/patterns/library/berie",
+    "https://www.ravelry.com/patterns/periodicals/berroco",
+    "https://www.ravelry.com/patterns/library/baby-fern-lake",
+    "https://www.ravelry.com/patterns/library/baby-fern-lake/posts",
+    "https://www.ravelry.com/patterns/library/baby-fern-lake/editors"
   ],
   "name": "Ravelry: Baby Fern Lake pattern by Berroco Design Team"
 }

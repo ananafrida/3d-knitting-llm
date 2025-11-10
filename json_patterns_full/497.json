@@ -7,9 +7,13 @@
   "category": "Neck / Torso → Cowl",
   "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "sizes_available": "One Size (see Notes)",
+  "languages": [
+    "English",
+    "Italian"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Jade Sapphire 8-ply Mongolian Cashmere"
+    "Jade Sapphire 8-ply Mongolian Cashmere",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -21,17 +25,17 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bandana-cowl/editors",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/comments",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/threads",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/posts",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/report",
-    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
-    "https://www.ravelry.com/patterns/library/bandana-cowl",
-    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/garter-ear-flap-hat",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
     "https://www.ravelry.com/patterns/library/bandana-cowl/people",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/yarns"
+    "https://www.ravelry.com/patterns/library/bandana-cowl/posts",
+    "https://www.ravelry.com/patterns/library/bandana-cowl",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/report",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/comments",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/editors",
+    "https://www.ravelry.com/patterns/library/garter-ear-flap-hat",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/threads",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
   ]
 }

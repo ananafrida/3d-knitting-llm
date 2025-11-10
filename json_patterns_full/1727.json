@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Aran (8 wpi) ?",
     "Bernat Camouflage Ombres"
@@ -25,18 +28,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/editors",
     "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/yarns",
     "https://www.ravelry.com/patterns/sources/dawns-dream-designs",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/comments",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/editors",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/posts",
-    "https://www.ravelry.com/patterns/library/two-color-newborn-socks",
     "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/threads",
-    "https://www.ravelry.com/patterns/library/twin-rib-fingerless-mittens",
+    "http://www.dawnadcock.com/freepatterns.htm",
     "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/report",
+    "https://www.ravelry.com/patterns/library/two-color-newborn-socks",
+    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/comments",
+    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/posts",
+    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag",
     "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/people",
     "https://www.ravelry.com/patterns/library/double-layer-sockyarn-hat",
-    "http://www.dawnadcock.com/freepatterns.htm"
+    "https://www.ravelry.com/patterns/library/twin-rib-fingerless-mittens"
   ]
 }

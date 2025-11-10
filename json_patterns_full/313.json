@@ -4,9 +4,12 @@
   "category": "Pet → Toys",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "Approx 2\" [5 cm] wide x 5\" [12.5 cm] long",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lily (Spinrite) Sugar'n Cream Solids"
+    "Lily (Spinrite) Sugar'n Cream Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "one-piece",
@@ -18,19 +21,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/people",
+    "https://www.ravelry.com/patterns/library/catnip-candy-toys/threads",
+    "https://www.ravelry.com/patterns/library/slip-knit-socks",
+    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
     "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
     "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/threads",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/yarns",
-    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/report",
+    "https://www.ravelry.com/patterns/library/catnip-candy-toys/editors",
     "https://www.ravelry.com/patterns/library/catnip-candy-toys/posts",
+    "https://www.ravelry.com/patterns/library/catnip-candy-toys/yarns",
     "https://www.ravelry.com/patterns/library/catnip-candy-toys/comments",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/editors"
+    "https://www.ravelry.com/patterns/library/catnip-candy-toys/report",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
+    "https://www.ravelry.com/patterns/library/catnip-candy-toys",
+    "https://www.ravelry.com/patterns/library/catnip-candy-toys/people"
   ],
   "name": "Ravelry: Catnip Candy Toys pattern by Yarnspirations Design Studio"
 }

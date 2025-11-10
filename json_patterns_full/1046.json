@@ -4,6 +4,12 @@
   "category": "Tops → Tee",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "2 years (4 years) 6 years (8 years) 10 years (12 years)",
+  "languages": [
+    "Danish",
+    "English",
+    "German",
+    "Swedish"
+  ],
   "suggested_yarn": [
     "Fingering (14 wpi) ?",
     "Filcolana Merci"
@@ -21,18 +27,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lille-esplanaden",
-    "https://www.ravelry.com/patterns/library/gefion-3/people",
-    "https://www.ravelry.com/patterns/library/gefion-3",
-    "https://www.ravelry.com/patterns/library/gefion-3/report",
     "https://www.ravelry.com/patterns/library/toldboden",
-    "https://www.ravelry.com/patterns/library/gefion-3/editors",
-    "https://www.ravelry.com/patterns/library/esplanaden",
-    "https://www.ravelry.com/patterns/library/gefion-3/threads",
-    "https://www.ravelry.com/patterns/sources/filcolana",
-    "https://www.ravelry.com/patterns/library/gefion-3/edit",
     "https://www.ravelry.com/patterns/library/gefion-3/comments",
-    "https://www.ravelry.com/patterns/library/gefion-3/yarns"
+    "https://www.ravelry.com/patterns/library/esplanaden",
+    "https://www.ravelry.com/patterns/library/gefion-3/edit",
+    "https://www.ravelry.com/patterns/library/gefion-3/report",
+    "https://www.ravelry.com/patterns/library/gefion-3/editors",
+    "https://www.ravelry.com/patterns/library/gefion-3",
+    "https://www.ravelry.com/patterns/library/gefion-3/threads",
+    "https://www.ravelry.com/patterns/library/gefion-3/yarns",
+    "https://www.ravelry.com/patterns/library/gefion-3/people",
+    "https://www.ravelry.com/patterns/library/lille-esplanaden",
+    "https://www.ravelry.com/patterns/sources/filcolana"
   ],
   "name": "Ravelry: Gefion pattern by Ditte Lerche"
 }

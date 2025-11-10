@@ -7,9 +7,12 @@
   "category": "Neck / Torso → Scarf",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "sizes_available": "one size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Sweet Fiber Yarns Cashmerino Worsted"
+    "Sweet Fiber Yarns Cashmerino Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "one-piece",
@@ -24,21 +27,21 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/wheat-4/people",
+    "https://www.ravelry.com/patterns/library/wheat-4",
+    "https://www.ravelry.com/patterns/library/wheat-4/editors",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
     "https://www.ravelry.com/patterns/library/wheat-4/report",
-    "https://www.ravelry.com/patterns/library/oats",
-    "https://www.ravelry.com/patterns/library/barley-worsted",
     "https://www.ravelry.com/bundles/app-patterns",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/oats",
+    "https://www.ravelry.com/patterns/library/wheat-4/threads",
+    "https://www.ravelry.com/patterns/library/barley-worsted",
+    "https://www.ravelry.com/patterns/library/wheat-4/comments",
+    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "http://tincanknits.com/pattern-SC-wheat.html",
     "https://www.ravelry.com/patterns/library/maize-3",
     "https://www.ravelry.com/patterns/library/wheat-4/yarns",
-    "https://www.ravelry.com/patterns/sources/the-simple-collection",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/wheat-4/comments",
-    "https://www.ravelry.com/patterns/library/wheat-4",
-    "http://tincanknits.com/pattern-SC-wheat.html",
     "https://www.ravelry.com/patterns/library/wheat-4/posts",
-    "https://www.ravelry.com/patterns/library/wheat-4/editors",
-    "https://www.ravelry.com/patterns/library/wheat-4/people",
-    "https://www.ravelry.com/patterns/library/wheat-4/threads"
+    "https://www.ravelry.com/patterns/sources/tin-can-knits"
   ]
 }

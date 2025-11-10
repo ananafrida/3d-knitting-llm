@@ -4,9 +4,30 @@
   "category": "Coat / Jacket",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "0/1 - 1/3 - 6/9 - 12/18 months (2 - 3/4) years",
+  "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Karisma"
+    "Garnstudio DROPS Karisma",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -33,23 +54,23 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/love-knitting-for-baby-october-2014",
-    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/edit",
-    "http://www.garnstudio.com/lang/us/pattern.php?id=6600&lang=us",
     "https://www.ravelry.com/patterns/library/b25-18-little-darcy/yarns",
-    "https://www.ravelry.com/patterns/library/0-1448-step-into-the-holidays",
-    "https://www.ravelry.com/patterns/library/b25-18-little-darcy",
-    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/people",
-    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/threads",
-    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/editors",
-    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/posts",
-    "https://www.ravelry.com/patterns/periodicals/drops-baby--children",
     "https://www.ravelry.com/patterns/library/b25-18-little-darcy/comments",
-    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/editors",
     "https://www.ravelry.com/patterns/library/b25-19-little-darcy-pants",
+    "https://www.ravelry.com/patterns/periodicals/drops-baby--children",
     "https://www.ravelry.com/patterns/library/b25-18-little-darcy/report",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/sources/love-knitting-for-baby-october-2014",
+    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/posts",
+    "https://www.ravelry.com/patterns/library/b25-18-little-darcy",
+    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/threads",
+    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/people",
+    "http://www.garnstudio.com/lang/us/pattern.php?id=6600&lang=us",
     "https://www.ravelry.com/patterns/library/181-11-lofoten-hat",
-    "https://www.ravelry.com/patterns/sources/drops-baby-25"
+    "https://www.ravelry.com/patterns/sources/drops-baby-25",
+    "https://www.ravelry.com/patterns/library/0-1448-step-into-the-holidays",
+    "https://www.ravelry.com/patterns/library/b25-18-little-darcy/edit"
   ],
   "name": "Ravelry: B25-18 Little Darcy pattern by DROPS design"
 }

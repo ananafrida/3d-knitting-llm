@@ -7,9 +7,12 @@
   "category": "Applique / Embellishment",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "Customisable",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Adriafil Calzasocks",
-    "Light Fingering ?"
+    "Light Fingering ?",
+    "Adriafil Calzasocks"
   ],
   "attributes": [
     "in-the-round",
@@ -21,16 +24,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/shamrock-12/comments",
-    "https://www.ravelry.com/patterns/library/shamrock-12/editors",
-    "https://www.ravelry.com/patterns/library/macnas-socks",
-    "https://www.ravelry.com/patterns/library/alpine-hat-20",
-    "https://www.ravelry.com/patterns/library/cor-cordis",
-    "https://www.ravelry.com/patterns/library/shamrock-12/threads",
-    "https://www.ravelry.com/patterns/library/shamrock-12",
-    "https://www.ravelry.com/patterns/library/shamrock-12/people",
-    "https://www.ravelry.com/patterns/sources/samuele-scomparins-ravelry-store",
     "https://www.ravelry.com/patterns/library/shamrock-12/report",
+    "https://www.ravelry.com/patterns/library/cor-cordis",
+    "https://www.ravelry.com/patterns/library/shamrock-12",
+    "https://www.ravelry.com/patterns/sources/samuele-scomparins-ravelry-store",
+    "https://www.ravelry.com/patterns/library/shamrock-12/people",
+    "https://www.ravelry.com/patterns/library/shamrock-12/threads",
+    "https://www.ravelry.com/patterns/library/macnas-socks",
+    "https://www.ravelry.com/patterns/library/shamrock-12/comments",
+    "https://www.ravelry.com/patterns/library/alpine-hat-20",
+    "https://www.ravelry.com/patterns/library/shamrock-12/editors",
     "https://www.ravelry.com/patterns/library/shamrock-12/yarns"
   ]
 }

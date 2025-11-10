@@ -7,6 +7,10 @@
   "category": "Decorative → Hanging Ornament",
   "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "sizes_available": "Laid flat, sweater is 4 inches (10 cm) from sleeve to sleeve and 1 7/8 inches (5.75cm) wide at chest, and 2 1/4 inches (5.5cm) from neck to hem.",
+  "languages": [
+    "English",
+    "German"
+  ],
   "suggested_yarn": [
     "",
     "Fingering (14 wpi) ?"
@@ -30,17 +34,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/footie-socks",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/yarns",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/people",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/report",
-    "https://www.ravelry.com/patterns/library/high-instep-short-row-heel",
-    "https://www.ravelry.com/patterns/library/icarus-shawl",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/comments",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters-2",
-    "https://www.ravelry.com/patterns/sources/miriam-felton",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/editors",
     "https://www.ravelry.com/patterns/library/tiny-sweaters-2/threads",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/posts"
+    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/comments",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/posts",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/editors",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/report",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters-2",
+    "https://www.ravelry.com/patterns/library/high-instep-short-row-heel",
+    "https://www.ravelry.com/patterns/library/footie-socks",
+    "https://www.ravelry.com/patterns/library/icarus-shawl",
+    "https://www.ravelry.com/patterns/sources/miriam-felton",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters-2/people"
   ]
 }

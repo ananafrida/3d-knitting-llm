@@ -4,9 +4,12 @@
   "category": "Bag → Purse / Handbag",
   "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "sizes_available": "11\" wide by 7\" high by 2 1/2\" deep",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Berroco Ultra Alpaca"
+    "Berroco Ultra Alpaca",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -24,20 +27,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/brea-bag/posts",
-    "https://www.ravelry.com/patterns/library/brea-bag/people",
-    "https://berroco.com/patterns/brea/",
-    "https://www.ravelry.com/patterns/library/morahan",
     "https://www.ravelry.com/patterns/library/brea-bag/threads",
-    "https://www.ravelry.com/patterns/periodicals/berroco",
-    "https://www.ravelry.com/patterns/library/bolin-cardigan",
-    "https://www.ravelry.com/patterns/library/lamina-5",
-    "https://www.ravelry.com/patterns/library/brea-bag/yarns",
-    "https://www.ravelry.com/patterns/library/brea-bag",
-    "https://www.ravelry.com/patterns/library/brea-bag/report",
+    "https://www.ravelry.com/patterns/library/brea-bag/posts",
+    "https://www.ravelry.com/patterns/library/brea-bag/editors",
     "https://www.ravelry.com/patterns/library/brea-bag/comments",
+    "https://berroco.com/patterns/brea/",
+    "https://www.ravelry.com/patterns/library/brea-bag",
+    "https://www.ravelry.com/patterns/library/brea-bag/yarns",
     "https://www.ravelry.com/patterns/sources/berroco-website",
-    "https://www.ravelry.com/patterns/library/brea-bag/editors"
+    "https://www.ravelry.com/patterns/library/brea-bag/report",
+    "https://www.ravelry.com/patterns/library/morahan",
+    "https://www.ravelry.com/patterns/library/lamina-5",
+    "https://www.ravelry.com/patterns/library/brea-bag/people",
+    "https://www.ravelry.com/patterns/periodicals/berroco",
+    "https://www.ravelry.com/patterns/library/bolin-cardigan"
   ],
   "name": "Ravelry: Brea Bag pattern by Norah Gaughan"
 }

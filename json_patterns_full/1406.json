@@ -7,9 +7,20 @@
   "category": "Decorative → Hanging Ornament",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "Danish",
+    "English",
+    "German",
+    "Italian",
+    "Norwegian",
+    "Swedish",
+    "...and 6 other languages show hide other languages",
+    "...and 6 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Filcolana Peruvian"
+    "Filcolana Peruvian",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -21,17 +32,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/december-bow",
-    "https://www.ravelry.com/patterns/sources/petiteknit-ravelry-store",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/people",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/threads",
-    "https://www.ravelry.com/patterns/library/florence-bag",
     "https://www.ravelry.com/patterns/library/christmas-caramel/editors",
-    "https://www.ravelry.com/patterns/library/honey-clutch",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/posts",
-    "https://www.ravelry.com/patterns/library/christmas-caramel",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/threads",
+    "https://www.ravelry.com/patterns/sources/petiteknit-ravelry-store",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/report",
+    "https://www.ravelry.com/patterns/library/december-bow",
     "https://www.ravelry.com/patterns/library/christmas-caramel/yarns",
     "https://www.ravelry.com/patterns/library/christmas-caramel/comments",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/report"
+    "https://www.ravelry.com/patterns/library/christmas-caramel/people",
+    "https://www.ravelry.com/patterns/library/christmas-caramel",
+    "https://www.ravelry.com/patterns/library/florence-bag",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/posts",
+    "https://www.ravelry.com/patterns/library/honey-clutch"
   ]
 }

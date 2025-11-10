@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Applique / Embellishment",
   "sizes_available": "size as you like",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Any gauge - designed for any gauge ?"
@@ -22,20 +25,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/red-nicks-fancy-hat",
-    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/people",
-    "https://www.ravelry.com/patterns/library/pop-hat-4",
-    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod",
     "https://www.ravelry.com/patterns/sources/lee-meredith-on-payhip",
+    "https://www.ravelry.com/patterns/sources/lee-does-stuff-patreon",
+    "https://www.ravelry.com/patterns/sources/lee-merediths-ravelry-store",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/threads",
+    "https://www.ravelry.com/patterns/library/red-nicks-fancy-hat",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/report",
+    "https://www.ravelry.com/patterns/sources/lees-ravelry-store",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/comments",
+    "https://www.ravelry.com/patterns/library/freak-out",
+    "https://www.ravelry.com/patterns/library/katarina-hat-2",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/people",
     "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/yarns",
     "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/editors",
-    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/threads",
-    "https://www.ravelry.com/patterns/sources/lee-merediths-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/report",
-    "https://www.ravelry.com/patterns/library/katarina-hat-2",
-    "https://www.ravelry.com/patterns/library/freak-out",
-    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/comments",
-    "https://www.ravelry.com/patterns/sources/lee-does-stuff-patreon",
-    "https://www.ravelry.com/patterns/sources/lees-ravelry-store"
+    "https://www.ravelry.com/patterns/library/pop-hat-4"
   ]
 }

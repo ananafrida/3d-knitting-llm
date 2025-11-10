@@ -4,9 +4,12 @@
   "category": "Tops → Tee",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "Extra Small (Small, Medium, Large, 1X, 2X, 3X, 4X)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Universal Yarn Cotton Supreme DK Waves"
+    "Universal Yarn Cotton Supreme DK Waves",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -30,20 +33,20 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/blissful-tee",
-    "https://www.ravelry.com/patterns/sources/universal-yarn-website",
-    "https://www.ravelry.com/patterns/library/fresh-berries-tee/yarns",
-    "https://www.ravelry.com/patterns/library/fresh-berries-tee/comments",
-    "https://www.ravelry.com/patterns/library/fresh-berries-tee/editors",
-    "https://www.ravelry.com/patterns/library/fresh-berries-tee/people",
-    "https://universalyarn.com/collections/patterns/products/fresh-berries-tee",
     "https://www.ravelry.com/patterns/library/fresh-berries-tee/edit",
-    "https://www.ravelry.com/patterns/library/basic-toe-up-sock-8",
-    "https://www.ravelry.com/patterns/library/onyx-mitts-2",
-    "https://www.ravelry.com/patterns/library/fresh-berries-tee/report",
-    "https://www.ravelry.com/patterns/library/fresh-berries-tee",
+    "https://www.ravelry.com/patterns/library/fresh-berries-tee/comments",
+    "https://www.ravelry.com/patterns/library/fresh-berries-tee/yarns",
     "https://www.ravelry.com/patterns/library/fresh-berries-tee/posts",
-    "https://www.ravelry.com/patterns/library/fresh-berries-tee/threads"
+    "https://www.ravelry.com/patterns/library/fresh-berries-tee",
+    "https://www.ravelry.com/patterns/library/fresh-berries-tee/threads",
+    "https://www.ravelry.com/patterns/library/onyx-mitts-2",
+    "https://universalyarn.com/collections/patterns/products/fresh-berries-tee",
+    "https://www.ravelry.com/patterns/sources/universal-yarn-website",
+    "https://www.ravelry.com/patterns/library/fresh-berries-tee/report",
+    "https://www.ravelry.com/patterns/library/fresh-berries-tee/editors",
+    "https://www.ravelry.com/patterns/library/basic-toe-up-sock-8",
+    "https://www.ravelry.com/patterns/library/fresh-berries-tee/people",
+    "https://www.ravelry.com/patterns/library/blissful-tee"
   ],
   "name": "Ravelry: Fresh Berries Tee pattern by Universal Yarn"
 }

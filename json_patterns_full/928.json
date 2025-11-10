@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Ball",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "",
     "Worsted (9 wpi) ?"
@@ -20,18 +23,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/scooped",
+    "https://www.ravelry.com/patterns/library/oh-balls/report",
+    "https://www.ravelry.com/patterns/library/oh-balls/people",
     "https://www.ravelry.com/patterns/sources/i-like-lemons",
     "https://www.ravelry.com/patterns/library/oh-balls/yarns",
-    "https://www.ravelry.com/patterns/library/oh-balls/people",
     "https://www.ravelry.com/patterns/library/oh-balls/editors",
+    "https://www.ravelry.com/patterns/library/scooped",
+    "https://www.ravelry.com/patterns/library/cherries-are-the-bomb",
+    "https://www.ravelry.com/patterns/library/oh-balls/threads",
+    "https://www.ravelry.com/patterns/library/oh-balls/posts",
     "https://www.ravelry.com/patterns/library/button-tab-hat",
     "https://www.ravelry.com/patterns/library/oh-balls/comments",
     "https://www.ravelry.com/patterns/library/oh-balls",
-    "https://www.ravelry.com/patterns/library/cherries-are-the-bomb",
-    "https://www.ravelry.com/patterns/library/oh-balls/report",
-    "https://www.ravelry.com/patterns/sources/marcie-nishiokas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/oh-balls/threads",
-    "https://www.ravelry.com/patterns/library/oh-balls/posts"
+    "https://www.ravelry.com/patterns/sources/marcie-nishiokas-ravelry-store"
   ]
 }

@@ -7,9 +7,12 @@
   "category": "Pet → Toys",
   "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "sizes_available": "One Size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Patons North America Kroy Socks",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Patons North America Kroy Socks"
   ],
   "attributes": [
     "bottom-up",
@@ -24,14 +27,14 @@
   "download_links": [
     "https://www.ravelry.com/patterns/library/ulysses-the-mouse/yarns",
     "https://www.ravelry.com/patterns/library/ulysses-the-mouse/comments",
-    "https://www.ravelry.com/patterns/sources/baabaayaya-on-ravelry",
-    "https://www.ravelry.com/patterns/library/hugs--kisses-girls-beanie",
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse",
     "https://www.ravelry.com/patterns/library/ulysses-the-mouse/editors",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/report",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/people",
+    "https://www.ravelry.com/patterns/sources/baabaayaya-on-ravelry",
     "https://www.ravelry.com/patterns/library/shaken-not-stirred-socks",
+    "https://www.ravelry.com/patterns/library/hugs--kisses-girls-beanie",
     "https://www.ravelry.com/patterns/library/basic-toe-up-socks-8",
     "https://www.ravelry.com/patterns/library/ulysses-the-mouse/edit",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse"
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/report",
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/people"
   ]
 }

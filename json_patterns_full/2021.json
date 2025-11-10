@@ -6,6 +6,9 @@
   "craft": "Knitting",
   "category": "Components → Other",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "DK (11 wpi) ?"
   ],
@@ -20,15 +23,15 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-paisley-motif/report",
-    "https://www.ravelry.com/patterns/library/a-pocket-full-of-knitted-crazy-lace",
-    "https://www.ravelry.com/patterns/library/knitted-paisley-motif",
-    "https://www.ravelry.com/patterns/library/grammys-crazy-lace-pocket-totes",
-    "https://www.ravelry.com/patterns/library/knitted-paisley-motif/editors",
+    "https://www.ravelry.com/patterns/library/knitted-paisley-motif/people",
+    "https://www.ravelry.com/patterns/sources/grammys-textiles-ravelry-downloads",
     "https://www.ravelry.com/patterns/library/knitted-paisley-motif/comments",
     "https://www.ravelry.com/patterns/library/random-lace-pocket-tote",
-    "https://www.ravelry.com/patterns/sources/grammys-textiles-ravelry-downloads",
     "https://www.ravelry.com/patterns/library/knitted-paisley-motif/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-paisley-motif/people"
+    "https://www.ravelry.com/patterns/library/knitted-paisley-motif",
+    "https://www.ravelry.com/patterns/library/grammys-crazy-lace-pocket-totes",
+    "https://www.ravelry.com/patterns/library/knitted-paisley-motif/report",
+    "https://www.ravelry.com/patterns/library/a-pocket-full-of-knitted-crazy-lace",
+    "https://www.ravelry.com/patterns/library/knitted-paisley-motif/editors"
   ]
 }

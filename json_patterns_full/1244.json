@@ -4,6 +4,10 @@
   "category": "Softies → Animal",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "One size",
+  "languages": [
+    "English",
+    "French"
+  ],
   "suggested_yarn": [
     "De Rerum Natura Gilliatt",
     "Worsted (9 wpi) ?"
@@ -20,16 +24,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/poule-de-printemps/threads",
-    "https://www.ravelry.com/patterns/library/poule-de-printemps/yarns",
+    "https://www.ravelry.com/patterns/library/poule-de-printemps",
+    "https://www.ravelry.com/patterns/library/moufles-impromptues-pour-penelope",
+    "https://www.ravelry.com/patterns/library/kled",
     "https://www.ravelry.com/patterns/library/beloved-worsted",
+    "https://www.ravelry.com/patterns/library/poule-de-printemps/people",
+    "https://www.ravelry.com/patterns/library/poule-de-printemps/yarns",
     "https://www.ravelry.com/patterns/library/poule-de-printemps/comments",
     "https://www.ravelry.com/patterns/library/poule-de-printemps/editors",
-    "https://www.ravelry.com/patterns/library/kled",
     "https://www.ravelry.com/patterns/library/poule-de-printemps/report",
-    "https://www.ravelry.com/patterns/sources/de-rerum-natura-blog",
-    "https://www.ravelry.com/patterns/library/poule-de-printemps",
-    "https://www.ravelry.com/patterns/library/poule-de-printemps/people",
-    "https://www.ravelry.com/patterns/library/moufles-impromptues-pour-penelope"
+    "https://www.ravelry.com/patterns/sources/de-rerum-natura-blog"
   ],
   "name": "Ravelry: Poule de printemps pattern by Solenn Couix-Loarer"
 }

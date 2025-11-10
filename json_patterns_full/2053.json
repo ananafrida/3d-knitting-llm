@@ -5,9 +5,12 @@
   "designer": "Susan Pandorf",
   "craft": "Knitting",
   "category": "Components → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "The Unique Sheep Eos",
-    "Lace ?"
+    "Lace ?",
+    "The Unique Sheep Eos"
   ],
   "attributes": [
     "beads",
@@ -20,16 +23,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/in-dreams-swatch/report",
+    "https://www.ravelry.com/patterns/library/emyn-muil",
     "https://www.ravelry.com/patterns/library/rivendell-smoke-ring",
     "https://www.ravelry.com/patterns/library/in-dreams-swatch/people",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/editors",
-    "https://www.ravelry.com/patterns/library/emyn-muil",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/threads",
-    "https://www.ravelry.com/patterns/library/evenstar-shawl",
-    "https://www.ravelry.com/patterns/sources/sunflower-designs",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/yarns",
     "https://www.ravelry.com/patterns/library/in-dreams-swatch/comments",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/report"
+    "https://www.ravelry.com/patterns/library/evenstar-shawl",
+    "https://www.ravelry.com/patterns/library/in-dreams-swatch/threads",
+    "https://www.ravelry.com/patterns/library/in-dreams-swatch/yarns",
+    "https://www.ravelry.com/patterns/library/in-dreams-swatch/editors",
+    "https://www.ravelry.com/patterns/sources/sunflower-designs",
+    "https://www.ravelry.com/patterns/library/in-dreams-swatch"
   ]
 }

@@ -3,6 +3,9 @@
   "craft": "Knitting",
   "category": "Ball",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Worsted (9 wpi) ?"
   ],
@@ -15,17 +18,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/vals-original-yarnball/comments",
-    "https://www.ravelry.com/patterns/library/vals-original-yarnball/people",
-    "https://www.ravelry.com/patterns/sources/knitlist",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/vals-original-yarnball/editors",
     "https://www.ravelry.com/patterns/library/vals-original-yarnball",
-    "https://www.ravelry.com/patterns/library/vals-original-yarnball/threads",
-    "https://www.ravelry.com/patterns/library/vals-original-yarnball/yarns",
+    "https://www.ravelry.com/patterns/library/vals-original-yarnball/comments",
     "https://www.ravelry.com/patterns/library/vals-original-yarnball/report",
     "https://www.ravelry.com/patterns/library/vals-original-yarnball/edit",
-    "https://www.ravelry.com/patterns/library/vals-original-yarnball/editors",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/vals-original-yarnball/posts"
+    "https://www.ravelry.com/patterns/library/vals-original-yarnball/posts",
+    "https://www.ravelry.com/patterns/library/vals-original-yarnball/yarns",
+    "https://www.ravelry.com/patterns/library/vals-original-yarnball/people",
+    "https://www.ravelry.com/patterns/sources/knitlist",
+    "https://www.ravelry.com/patterns/library/vals-original-yarnball/threads"
   ],
   "name": "Ravelry: Val's Original Yarnball pattern by Judy Gibson & Val"
 }

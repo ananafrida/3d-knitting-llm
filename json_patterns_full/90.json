@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Afghan block",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Stylecraft Batik Double Knitting"
+    "Stylecraft Batik Double Knitting",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "chart",
@@ -19,16 +22,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/editors",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/people",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/report",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
     "https://www.ravelry.com/patterns/library/frankies-blankie-week-4",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/yarns",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/editors",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/comments",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/report",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
     "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/threads",
     "https://www.ravelry.com/patterns/library/frankies-blankie-week-6",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2",
     "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/comments"
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/yarns",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/people"
   ]
 }

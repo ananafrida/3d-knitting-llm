@@ -4,6 +4,9 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "sizes_available": "3-6 mo, (6-12 mo), 1-2yr, (2-3yr), 3-4 yr",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
     "Hedgehog Fibres Merino DK",
     "DK (11 wpi) ?"
@@ -24,20 +27,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tweedy-junior/comments",
-    "https://www.ravelry.com/patterns/sources/beata-jezeks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/report",
-    "https://www.ravelry.com/patterns/library/thursday-sweater",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/editors",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/tweedy-junior",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
     "https://www.ravelry.com/patterns/library/souffle-tee",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/people",
-    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
     "https://www.ravelry.com/patterns/library/tweedy-junior/posts",
     "https://www.ravelry.com/patterns/library/tweedy-junior/threads",
+    "https://www.ravelry.com/patterns/library/tweedy-junior/comments",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/tweedy-junior",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/tweedy-junior/people",
+    "https://www.ravelry.com/patterns/library/thursday-sweater",
+    "https://www.ravelry.com/patterns/sources/beata-jezeks-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tweedy-junior/editors",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
     "https://www.ravelry.com/patterns/library/tweedy-junior/yarns",
-    "https://www.ravelry.com/patterns/library/tweedy-junior"
+    "https://www.ravelry.com/patterns/library/tweedy-junior",
+    "https://www.ravelry.com/patterns/library/tweedy-junior/report"
   ],
   "name": "Ravelry: Tweedy Junior pattern by Beata Jezek"
 }

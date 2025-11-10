@@ -7,6 +7,17 @@
   "category": "Sweater → Pullover",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "80, 85, 90 (95, 100, 105, 110, 115) 120, 125, 130, 135, 140 145, 150, 155, 160, 165 cm",
+  "languages": [
+    "Danish",
+    "English",
+    "French",
+    "German",
+    "Portuguese",
+    "Russian",
+    "...and 6 other languages show hide other languages",
+    "...and 6 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
     "Along Avec Anna Merino",
     "yarn held together"
@@ -25,17 +36,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/trescao-jumper/comments",
-    "https://www.ravelry.com/patterns/library/trescao-jumper/editors",
-    "https://www.ravelry.com/patterns/library/erell-jumper",
-    "https://www.ravelry.com/patterns/library/trescao-jumper/posts",
-    "https://www.ravelry.com/patterns/sources/along-avec-anna",
-    "https://www.ravelry.com/patterns/library/trescao-jumper/threads",
-    "https://www.ravelry.com/patterns/library/rosa-cardigan-5",
     "https://www.ravelry.com/patterns/library/trescao-jumper",
-    "https://www.ravelry.com/patterns/library/margot-cardigan-2",
-    "https://www.ravelry.com/patterns/library/trescao-jumper/people",
     "https://www.ravelry.com/patterns/library/trescao-jumper/yarns",
-    "https://www.ravelry.com/patterns/library/trescao-jumper/report"
+    "https://www.ravelry.com/patterns/library/trescao-jumper/report",
+    "https://www.ravelry.com/patterns/library/trescao-jumper/people",
+    "https://www.ravelry.com/patterns/library/margot-cardigan-2",
+    "https://www.ravelry.com/patterns/library/trescao-jumper/editors",
+    "https://www.ravelry.com/patterns/library/rosa-cardigan-5",
+    "https://www.ravelry.com/patterns/sources/along-avec-anna",
+    "https://www.ravelry.com/patterns/library/trescao-jumper/comments",
+    "https://www.ravelry.com/patterns/library/trescao-jumper/threads",
+    "https://www.ravelry.com/patterns/library/erell-jumper",
+    "https://www.ravelry.com/patterns/library/trescao-jumper/posts"
   ]
 }

@@ -6,9 +6,12 @@
   "craft": "Knitting",
   "category": "Containers",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Ístex Álafosslopi"
+    "Ístex Álafosslopi",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -21,15 +24,15 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/felted-basket-2/editors",
+    "https://www.ravelry.com/patterns/library/fur-trimmed-doll-coat-18-doll",
+    "https://www.ravelry.com/patterns/library/felted-basket-2/yarns",
     "https://www.ravelry.com/patterns/library/skein-brassiere",
     "https://www.ravelry.com/patterns/library/felted-basket-2/posts",
-    "https://www.ravelry.com/patterns/library/felted-basket-2/report",
+    "https://www.ravelry.com/patterns/library/felted-basket-2/people",
     "https://www.ravelry.com/patterns/library/felted-basket-2",
     "https://www.ravelry.com/patterns/library/sock-monkey-ears",
-    "https://www.ravelry.com/patterns/library/felted-basket-2/comments",
-    "https://www.ravelry.com/patterns/library/felted-basket-2/yarns",
-    "https://www.ravelry.com/patterns/library/felted-basket-2/people",
-    "https://www.ravelry.com/patterns/library/fur-trimmed-doll-coat-18-doll",
-    "https://www.ravelry.com/patterns/sources/rippit-knits"
+    "https://www.ravelry.com/patterns/library/felted-basket-2/report",
+    "https://www.ravelry.com/patterns/sources/rippit-knits",
+    "https://www.ravelry.com/patterns/library/felted-basket-2/comments"
   ]
 }
