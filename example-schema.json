@@ -1,0 +1,35 @@
+{
+  "title": "Lappestafetten",
+  "url": "https://www.ravelry.com/patterns/library/lappestafetten",
+  "language": ["English","Norwegian"],
+  "classification": {
+    "shape_category": ["flat","square","modular"],
+    "construction_method": ["modular","worked flat","pick_up_stitches"],
+    "attributes": ["chart","written-pattern","square"]
+  },
+  "materials": {
+    "suggested_yarns": [{"name":"Rauma Finullgarn","brand":"Rauma","weight_cyc":"2"}],
+    "needles": [{"us_size":"US 6","mm":4.0,"type":"circular","length_mm":800}],
+    "notions": ["stitch markers","tapestry needle"]
+  },
+  "gauge": {"stitches_per_10cm": 22, "rows_per_10cm": 30, "stitch_pattern": "stockinette"},
+  "sizes": {"sizes_available": ["custom modular"], "finished_dimensions": "variable"},
+  "components": [
+    {
+      "name": "Square module",
+      "role": "core",
+      "order": 1,
+      "instructions": {
+        "as_text": "Cast on 41 sts… work short rows …",
+        "steps": [
+          {"index":1,"howto_summary":"Cast on and setup","row_or_round":"row","count":1,"technique_tags":["cast on"]},
+          {"index":2,"howto_summary":"Short-row wedges","row_or_round":"row","count":24,"technique_tags":["short rows","decreases"]}
+        ]
+      }
+    }
+  ],
+  "text": {"full_text":"(verbatim notes)","description":"Modular blanket pattern…"},
+  "downloads": {"links":["https://…/pattern.pdf"]},
+  "media": {"images":["https://…jpg"], "charts_available": true},
+  "provenance": {"extracted_from":"123.html","extraction_time":"2025-10-31T19:20:00Z"}
+}

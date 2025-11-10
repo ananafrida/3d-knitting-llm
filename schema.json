@@ -1,0 +1,95 @@
+{
+  "title": "string",
+  "url": "string",
+  "source": "ravelry|blog|book|other",
+  "language": ["string"],
+  "license": "string|null",
+  "attribution": {
+    "designer": "string|null",
+    "publisher": "string|null",
+    "year": "string|null"
+  },
+
+  "classification": {
+    "shape_category": ["sphere","cube","cone","cylinder","pyramid","organic","flat","softie","other"],
+    "construction_method": ["in_the_round","flat_seamed","short_rows","increases","decreases","modular","top_down","bottom_up","grafting","pick_up_stitches"],
+    "attributes": ["string"]       // tags like “chart”, “written-pattern”, “square”, etc.
+  },
+
+  "materials": {
+    "suggested_yarns": [
+      {
+        "name": "string",
+        "brand": "string|null",
+        "weight_cyc": "0-7|null",   // Craft Yarn Council number (normalized)
+        "fiber": "string|null",
+        "colorway": "string|null",
+        "yardage_per_skein": "number|null",
+        "grams_per_skein": "number|null"
+      }
+    ],
+    "needles": [
+      {
+        "us_size": "string|null",   // e.g., "US 6"
+        "mm": "number|null",        // e.g., 4.0
+        "type": "circular|dpn|straight|other|null",
+        "length_mm": "number|null"
+      }
+    ],
+    "notions": ["string"]          // stitch markers, tapestry needle, safety eyes, stuffing, etc.
+  },
+
+  "gauge": {
+    "stitches_per_10cm": "number|null",
+    "rows_per_10cm": "number|null",
+    "stitch_pattern": "stockinette|garter|rib|other|null"
+  },
+
+  "sizes": {
+    "sizes_available": ["string"],   // raw text normalized to list
+    "finished_dimensions": "string|null"
+  },
+
+  "components": [
+    {
+      "name": "string",              // e.g., “head”, “body”, “ear (left)”
+      "role": "core|attachment|detail",
+      "order": "number",
+      "joins": ["string"],           // notes about how it attaches
+      "instructions": {
+        "as_text": "string",         // full component notes (verbatim)
+        "steps": [
+          {
+            "index": "number",
+            "howto_summary": "string",      // short step description
+            "row_or_round": "row|round|null",
+            "count": "number|null",         // row/round # or repeat count
+            "technique_tags": ["string"],   // inferred tags (short rows, dec, inc…)
+            "stitch_count_after": "number|null",
+            "chart_ref": "string|null"      // if charts referenced
+          }
+        ]
+      }
+    }
+  ],
+
+  "text": {
+    "full_text": "string",             // main notes area (verbatim)
+    "description": "string|null"
+  },
+
+  "downloads": {
+    "links": ["string"]                // pdf/external pattern sources
+  },
+
+  "media": {
+    "images": ["string"],
+    "charts_available": "boolean|null"
+  },
+
+  "provenance": {
+    "extracted_from": "filename.html",
+    "extraction_time": "ISO8601",
+    "fields_confidence": { "needle_size": 0.94, "shape_category": 0.80 } // optional
+  }
+}
