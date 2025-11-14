@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1731,
   "pattern_page": "https://www.ravelry.com/patterns/library/treesweater",
   "name": "Treesweater",
   "description": "The world-famous treesweater! Make a wee little sweater for your favorite tree. Show it you care. Spread a little love. Make some people smile, and other people very angry for no apparent reason. (Oh, like THEY don’t waste time!)",
@@ -18,17 +19,17 @@
   "techniques": [],
   "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/treesweater/report",
-    "https://www.ravelry.com/patterns/library/treesweater/people",
-    "https://www.ravelry.com/patterns/library/treesweater/posts",
-    "https://www.ravelry.com/patterns/sources/redshirt-knitting",
-    "https://www.ravelry.com/patterns/library/treesweater/threads",
-    "https://www.ravelry.com/patterns/library/the-binary-hat",
-    "https://www.ravelry.com/patterns/library/doris-a-hat-for-troublesome-hair",
     "https://www.ravelry.com/patterns/library/treesweater/yarns",
+    "https://www.ravelry.com/patterns/library/the-binary-hat",
+    "https://www.ravelry.com/patterns/library/treesweater",
+    "https://www.ravelry.com/patterns/library/treesweater/people",
     "https://www.ravelry.com/patterns/library/treesweater/comments",
     "https://www.ravelry.com/patterns/library/treesweater/editors",
-    "https://www.ravelry.com/patterns/library/my-jayne-hat",
-    "https://www.ravelry.com/patterns/library/treesweater"
+    "https://www.ravelry.com/patterns/library/treesweater/report",
+    "https://www.ravelry.com/patterns/library/doris-a-hat-for-troublesome-hair",
+    "https://www.ravelry.com/patterns/sources/redshirt-knitting",
+    "https://www.ravelry.com/patterns/library/treesweater/posts",
+    "https://www.ravelry.com/patterns/library/treesweater/threads",
+    "https://www.ravelry.com/patterns/library/my-jayne-hat"
   ]
 }

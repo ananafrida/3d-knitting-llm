@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1330,
   "pattern_page": "https://www.ravelry.com/patterns/library/colorful-fairy-doors",
   "name": "Colorful Fairy Doors",
   "description": "The fairy village of Cypress Knee is famous for its bright colored doors. Little Folk travel far and wide to take photos near their favorites.",
@@ -25,16 +26,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/people",
-    "https://www.ravelry.com/patterns/library/daffodil-bulb-vase",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/yarns",
-    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/editors",
-    "https://www.ravelry.com/patterns/library/colorful-fairy-doors",
     "https://www.ravelry.com/patterns/library/colorful-fairy-doors/comments",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/yarns",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/threads",
+    "https://www.ravelry.com/patterns/library/daffodil-bulb-vase",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/people",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/report",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/editors",
     "https://www.ravelry.com/patterns/library/mini-hobbit-hole",
     "https://www.ravelry.com/patterns/library/santa-lucia-4",
-    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/threads",
-    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/report"
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley"
   ]
 }

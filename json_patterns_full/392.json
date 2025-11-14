@@ -1,4 +1,5 @@
 {
+  "pattern_id": 392,
   "pattern_page": "https://www.ravelry.com/patterns/library/143-1-celtica",
   "craft": "Knitting",
   "category": "Coat / Jacket",
@@ -26,8 +27,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Lima"
+    "Garnstudio DROPS Lima",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -49,22 +50,22 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/periodicals/drops",
+    "http://www.garnstudio.com/lang/us/pattern.php?id=5692&lang=us",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/yarns",
+    "https://www.ravelry.com/patterns/library/0-850-rambling-man",
+    "https://www.ravelry.com/patterns/library/169-1-romantic-twist",
     "https://www.ravelry.com/patterns/library/143-1-celtica/posts",
     "https://www.ravelry.com/patterns/library/143-1-celtica/edit",
-    "https://www.ravelry.com/patterns/library/143-1-celtica/comments",
-    "https://www.ravelry.com/patterns/sources/drops-143",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/143-1-celtica/threads",
-    "https://www.ravelry.com/patterns/library/169-1-romantic-twist",
-    "https://www.ravelry.com/patterns/library/0-850-rambling-man",
-    "https://www.ravelry.com/patterns/library/143-1-celtica",
-    "http://www.garnstudio.com/lang/us/pattern.php?id=5692&lang=us",
-    "https://www.ravelry.com/patterns/library/149-1-tanja",
     "https://www.ravelry.com/patterns/library/143-1-celtica/editors",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/threads",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/143-1-celtica/comments",
     "https://www.ravelry.com/patterns/library/143-1-celtica/report",
-    "https://www.ravelry.com/patterns/library/143-1-celtica/yarns",
+    "https://www.ravelry.com/patterns/sources/drops-143",
+    "https://www.ravelry.com/patterns/library/143-1-celtica",
     "https://www.ravelry.com/patterns/library/143-1-celtica/people",
-    "https://www.ravelry.com/patterns/sources/drops-design"
+    "https://www.ravelry.com/patterns/library/149-1-tanja"
   ],
   "name": "Ravelry: 143-1 Celtica pattern by DROPS design"
 }

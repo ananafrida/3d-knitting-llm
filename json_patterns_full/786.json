@@ -1,4 +1,5 @@
 {
+  "pattern_id": 786,
   "pattern_page": "https://www.ravelry.com/patterns/library/flax-dk",
   "name": "Flax DK",
   "description": "",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "The Plucky Knitter Plucky Sweater DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "The Plucky Knitter Plucky Sweater DK"
   ],
   "attributes": [
     "adult",
@@ -32,19 +33,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/the-simple-collection",
     "https://www.ravelry.com/patterns/library/flax-dk/comments",
-    "https://www.ravelry.com/patterns/library/flax-dk/threads",
     "https://www.ravelry.com/patterns/library/flax-sock",
-    "https://www.ravelry.com/patterns/library/flax-dk/people",
     "https://www.ravelry.com/patterns/library/flax-dk/yarns",
     "https://www.ravelry.com/patterns/library/flax-worsted",
     "https://www.ravelry.com/patterns/library/flax-dk/posts",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/flax-dk/report",
+    "https://www.ravelry.com/patterns/sources/the-simple-collection",
     "https://www.ravelry.com/patterns/library/flax-dk",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/flax-dk/editors",
     "https://www.ravelry.com/patterns/library/barley-dk",
-    "https://www.ravelry.com/patterns/library/flax-dk/editors"
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/flax-dk/people",
+    "https://www.ravelry.com/patterns/library/flax-dk/threads",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
+    "https://www.ravelry.com/patterns/library/flax-dk/report"
   ]
 }

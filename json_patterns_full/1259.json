@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1259,
   "pattern_page": "https://www.ravelry.com/patterns/library/elf-mouse",
   "name": "Elf Mouse",
   "description": "Français en bas",
@@ -12,8 +13,8 @@
     "French"
   ],
   "suggested_yarn": [
-    "Blue Sky Fibers Woolstok Light",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Blue Sky Fibers Woolstok Light"
   ],
   "attributes": [
     "bobble-or-popcorn",
@@ -37,16 +38,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/posie-doll",
+    "https://www.ravelry.com/patterns/library/miss-tippytoes",
     "https://www.ravelry.com/patterns/library/elf-mouse/report",
+    "https://www.ravelry.com/patterns/sources/hazel--poppy-studio",
+    "https://www.ravelry.com/patterns/library/elf-mouse/threads",
+    "https://www.ravelry.com/patterns/library/elf-mouse/people",
     "https://www.ravelry.com/patterns/library/elf-mouse/editors",
     "https://www.ravelry.com/patterns/library/library-gnome-bookmark",
-    "https://www.ravelry.com/patterns/library/elf-mouse",
-    "https://www.ravelry.com/patterns/sources/hazel--poppy-studio",
     "https://www.ravelry.com/patterns/library/elf-mouse/comments",
-    "https://www.ravelry.com/patterns/library/miss-tippytoes",
-    "https://www.ravelry.com/patterns/library/elf-mouse/threads",
+    "https://www.ravelry.com/patterns/library/elf-mouse",
     "https://www.ravelry.com/patterns/library/elf-mouse/yarns",
-    "https://www.ravelry.com/patterns/sources/knitty-winter-2022",
-    "https://www.ravelry.com/patterns/library/elf-mouse/people"
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2022"
   ]
 }

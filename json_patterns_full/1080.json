@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1080,
   "pattern_page": "https://www.ravelry.com/patterns/library/summer-sweater-14",
   "name": "Summer Sweater",
   "description": "It all started with the Year of",
@@ -36,19 +37,19 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/threads",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/yarns",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/people",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/editors",
+    "https://www.ravelry.com/patterns/library/columbia-cardigan",
+    "https://kelbournewoolens.com/product/summer-sweater-pattern/",
+    "https://www.ravelry.com/patterns/library/july-hat",
     "https://www.ravelry.com/patterns/library/wister-hat",
     "https://www.ravelry.com/patterns/library/hurry-up-last-minute-sweater-december",
-    "https://www.ravelry.com/patterns/library/summer-sweater-14/yarns",
-    "https://www.ravelry.com/patterns/library/summer-sweater-14/report",
-    "https://www.ravelry.com/patterns/library/summer-sweater-14/editors",
     "https://www.ravelry.com/patterns/library/summer-sweater-14/comments",
-    "https://www.ravelry.com/patterns/library/summer-sweater-14/people",
+    "https://www.ravelry.com/patterns/sources/season-of-sweaters",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/report",
     "https://www.ravelry.com/patterns/library/summer-sweater-14",
-    "https://www.ravelry.com/patterns/sources/year-of-sweaters",
-    "https://kelbournewoolens.com/product/summer-sweater-pattern/",
-    "https://www.ravelry.com/patterns/library/columbia-cardigan",
-    "https://www.ravelry.com/patterns/library/summer-sweater-14/threads",
-    "https://www.ravelry.com/patterns/library/july-hat",
-    "https://www.ravelry.com/patterns/sources/season-of-sweaters"
+    "https://www.ravelry.com/patterns/sources/year-of-sweaters"
   ]
 }

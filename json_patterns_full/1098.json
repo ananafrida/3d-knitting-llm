@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1098,
   "pattern_page": "https://www.ravelry.com/patterns/library/aiyu-tee",
   "name": "Aiyu Tee",
   "description": "The Aiyu Tee is a fitted summer crop top with flutter sleeves and lace edging details. The seamless set-in sleeve construction is designed for plant fibre yarn. Typical set-in sleeve construction requires shortrows which creates unsightly holes if you are using plant fibres. This construction overcomes that problem. Of course, you can also make the Aiyu Tee with animal fibre yarn if you wish.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Scheepjes Stone Washed"
+    "Scheepjes Stone Washed",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -41,16 +42,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.knittygrittysg.com/my-patterns/aiyu-tee",
-    "https://www.ravelry.com/patterns/library/aiyu-tee/comments",
     "https://www.ravelry.com/patterns/library/aiyu-tee",
-    "https://www.ravelry.com/patterns/library/aiyu-tee/report",
-    "https://www.ravelry.com/patterns/library/aiyu-tee/editors",
-    "https://www.ravelry.com/patterns/library/aiyu-tee/yarns",
+    "https://www.ravelry.com/patterns/library/aiyu-tee/people",
+    "https://www.knittygrittysg.com/my-patterns/aiyu-tee",
     "https://www.ravelry.com/patterns/library/argyle-dreams-vest",
-    "https://www.ravelry.com/patterns/library/jellyfish-cami",
+    "https://www.ravelry.com/patterns/library/aiyu-tee/editors",
     "https://www.ravelry.com/patterns/library/moonlight-vest",
     "https://www.ravelry.com/patterns/sources/knittygrittysg",
-    "https://www.ravelry.com/patterns/library/aiyu-tee/people"
+    "https://www.ravelry.com/patterns/library/aiyu-tee/report",
+    "https://www.ravelry.com/patterns/library/aiyu-tee/comments",
+    "https://www.ravelry.com/patterns/library/jellyfish-cami",
+    "https://www.ravelry.com/patterns/library/aiyu-tee/yarns"
   ]
 }

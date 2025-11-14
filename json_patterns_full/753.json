@@ -1,4 +1,5 @@
 {
+  "pattern_id": 753,
   "pattern_page": "https://www.ravelry.com/patterns/library/autumn-league-pullover",
   "name": "Autumn League Pullover",
   "description": "Update: As of 10/5/22, this pattern has been updated to include 8 sizes and now features an in-the-round construction.",
@@ -35,18 +36,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/people",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/editors",
-    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
     "https://www.ravelry.com/patterns/library/autumn-league-pullover/report",
     "https://www.ravelry.com/patterns/library/streamline-tank",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/yarns",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover",
-    "https://www.ravelry.com/patterns/sources/two-of-wands",
     "https://www.ravelry.com/patterns/library/clubhouse-raglan-hoodie",
-    "https://www.ravelry.com/patterns/library/winter-league-pullover",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/comments",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/threads",
     "https://www.ravelry.com/patterns/library/autumn-league-pullover/posts",
-    "https://www.ravelry.com/patterns/library/autumn-league-pullover/threads"
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/yarns",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/comments",
+    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/editors",
+    "https://www.ravelry.com/patterns/library/autumn-league-pullover/people",
+    "https://www.ravelry.com/patterns/library/winter-league-pullover",
+    "https://www.ravelry.com/patterns/sources/two-of-wands"
   ]
 }

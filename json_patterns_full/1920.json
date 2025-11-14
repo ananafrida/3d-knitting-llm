@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1920,
   "pattern_page": "https://www.ravelry.com/patterns/library/mini-rainbow-3",
   "name": "Mini Rainbow",
   "description": "Cute little rainbow, perfect for making into a badge, a garland or sewing on a garment to add some fun!",
@@ -20,17 +21,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ice-cream-treats-2",
-    "https://www.qingfibre.com/products/mini-rainbow-pattern-download",
     "https://www.ravelry.com/patterns/library/mini-rainbow-3/threads",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3",
-    "https://www.ravelry.com/patterns/sources/qing-fibres-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/editors",
-    "https://www.ravelry.com/patterns/library/little-saturn",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/yarns",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/people",
     "https://www.ravelry.com/patterns/library/mini-rainbow-3/report",
+    "https://www.ravelry.com/patterns/library/little-saturn",
     "https://www.ravelry.com/patterns/library/weather-cushions-2",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/comments"
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3/people",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3/comments",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3/editors",
+    "https://www.qingfibre.com/products/mini-rainbow-pattern-download",
+    "https://www.ravelry.com/patterns/library/ice-cream-treats-2",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3/yarns",
+    "https://www.ravelry.com/patterns/sources/qing-fibres-ravelry-store",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3"
   ]
 }

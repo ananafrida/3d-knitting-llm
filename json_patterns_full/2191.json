@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2191,
   "pattern_page": "https://www.ravelry.com/patterns/library/mutant-bunny-hat",
   "craft": "Knitting",
   "category": "Costume Hat → Other",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Malabrigo Yarn Worsted"
+    "Malabrigo Yarn Worsted",
+    "yarn held together"
   ],
   "attributes": [
     "adult",
@@ -22,19 +23,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/people",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/threads",
-    "https://www.ravelry.com/patterns/library/rachels-knitting-olympics-poncho",
-    "http://fiberfiend6891.wordpress.com/free-patterns/mutant-bunny-hat/",
     "https://www.ravelry.com/patterns/sources/rachels-ramblings-fiberfiend6891",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/editors",
+    "https://www.ravelry.com/patterns/library/rachels-knitting-olympics-poncho",
     "https://www.ravelry.com/patterns/library/celtic-socks-2",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/yarns",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/comments",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/threads",
     "https://www.ravelry.com/patterns/library/mutant-bunny-hat/posts",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat",
     "https://www.ravelry.com/patterns/library/almost-fingerless-gloves",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/comments",
     "https://www.ravelry.com/patterns/library/mutant-bunny-hat/report",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/editors"
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/yarns",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/people",
+    "http://fiberfiend6891.wordpress.com/free-patterns/mutant-bunny-hat/"
   ],
   "name": "Ravelry: Mutant Bunny Hat pattern by Rachel Kurchin"
 }

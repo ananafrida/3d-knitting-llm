@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1494,
   "pattern_page": "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament",
   "name": "Tiny Gilded Christmas Jumper Ornament",
   "description": "A festive knit Christmas ornament, perfect for your scrap yarn!",
@@ -12,8 +13,8 @@
     "Norwegian"
   ],
   "suggested_yarn": [
-    "Fabel Knitwear Athena",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Fabel Knitwear Athena"
   ],
   "attributes": [
     "top-down"
@@ -22,15 +23,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/helene-arnesens-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament/comments",
-    "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament/yarns",
-    "https://www.ravelry.com/patterns/library/ithilien-vest",
-    "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament/report",
+    "https://www.ravelry.com/patterns/library/hobbiton-vest",
     "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament/editors",
-    "https://www.ravelry.com/patterns/library/maud-blouse",
-    "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament/people",
+    "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament/report",
     "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament",
-    "https://www.ravelry.com/patterns/library/hobbiton-vest"
+    "https://www.ravelry.com/patterns/sources/helene-arnesens-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament/people",
+    "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-gilded-christmas-jumper-ornament/comments",
+    "https://www.ravelry.com/patterns/library/ithilien-vest",
+    "https://www.ravelry.com/patterns/library/maud-blouse"
   ]
 }

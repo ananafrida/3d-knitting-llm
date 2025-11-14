@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1229,
   "pattern_page": "https://www.ravelry.com/patterns/library/sloth-25",
   "name": "Sloth",
   "description": "SLOTH NEWS!",
@@ -27,17 +28,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://mcusercontent.com/fbb5cf7d2cfc0c4aa23bd8682/files/82bb1d40-45ef-919e-04e5-c885f1e7e5f9/SLOTH_ERRATA.01.pdf",
-    "https://www.ravelry.com/patterns/library/sloth-25/comments",
-    "https://www.ravelry.com/patterns/library/sloth-25/report",
-    "https://www.ravelry.com/patterns/library/sloth-25/people",
-    "https://www.ravelry.com/patterns/library/ladybird-ladybug",
-    "https://www.ravelry.com/patterns/library/sloth-25",
-    "https://www.ravelry.com/patterns/library/sloth-25/yarns",
     "https://www.ravelry.com/patterns/library/sloth-25/threads",
-    "https://www.ravelry.com/patterns/library/chipmunk-5",
-    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sloth-25/report",
     "https://www.ravelry.com/patterns/library/rabbit-doll",
-    "https://www.ravelry.com/patterns/library/sloth-25/editors"
+    "https://www.ravelry.com/patterns/library/sloth-25/people",
+    "https://www.ravelry.com/patterns/library/sloth-25",
+    "https://www.ravelry.com/patterns/library/sloth-25/comments",
+    "https://www.ravelry.com/patterns/library/chipmunk-5",
+    "https://www.ravelry.com/patterns/library/ladybird-ladybug",
+    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://mcusercontent.com/fbb5cf7d2cfc0c4aa23bd8682/files/82bb1d40-45ef-919e-04e5-c885f1e7e5f9/SLOTH_ERRATA.01.pdf",
+    "https://www.ravelry.com/patterns/library/sloth-25/editors",
+    "https://www.ravelry.com/patterns/library/sloth-25/yarns"
   ]
 }

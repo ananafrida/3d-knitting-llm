@@ -1,4 +1,5 @@
 {
+  "pattern_id": 432,
   "pattern_page": "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie",
   "name": "Toddler Raglan Hoodie",
   "description": "April 2011: okerilla has kindly written a Spanish version of the pattern, and posted it on her blog, Juntitos! Gracias Okerilla!",
@@ -30,18 +31,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/editors",
-    "https://www.ravelry.com/patterns/sources/tricksy-knitter-website",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie",
-    "https://www.ravelry.com/patterns/library/leafy-washcloth",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/comments",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/threads",
-    "https://www.ravelry.com/patterns/library/botanical-cowl",
-    "https://www.ravelry.com/patterns/library/tiny-pants",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/report",
-    "https://www.ravelry.com/patterns/sources/tricksy-knitter",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/posts",
     "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/people",
-    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/yarns"
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/threads",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/comments",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/posts",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/editors",
+    "https://www.ravelry.com/patterns/library/botanical-cowl",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-pants",
+    "https://www.ravelry.com/patterns/sources/tricksy-knitter-website",
+    "https://www.ravelry.com/patterns/sources/tricksy-knitter",
+    "https://www.ravelry.com/patterns/library/leafy-washcloth",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/report"
   ]
 }

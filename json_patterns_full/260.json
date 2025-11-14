@@ -1,4 +1,5 @@
 {
+  "pattern_id": 260,
   "pattern_page": "https://www.ravelry.com/patterns/library/catnip-bunny",
   "name": "Catnip Bunny",
   "description": "A rainbow of bunnies, filled with catnip to treat your kitty at Easter. Pattern has only the tiniest amount of seaming on the ears, otherwise it’s seam free and knitting on two needles.",
@@ -26,17 +27,17 @@
   "shape": "softie",
   "download_links": [
     "https://www.ravelry.com/patterns/library/liquid-soap-sleeve",
-    "https://www.ravelry.com/patterns/library/lace-mesh-wash-cloth-dish-cloth",
     "https://www.ravelry.com/patterns/library/catnip-bunny/people",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/report",
-    "https://www.ravelry.com/patterns/library/baby-doll-set",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/threads",
-    "https://www.ravelry.com/patterns/sources/coffee-and-cream",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/yarns",
+    "https://www.ravelry.com/patterns/library/lace-mesh-wash-cloth-dish-cloth",
     "https://www.ravelry.com/patterns/library/catnip-bunny/posts",
     "https://www.ravelry.com/patterns/sources/coffee-and-cream-blog",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/editors",
+    "https://www.ravelry.com/patterns/sources/coffee-and-cream",
+    "https://www.ravelry.com/patterns/library/baby-doll-set",
     "https://www.ravelry.com/patterns/library/catnip-bunny/comments",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/yarns",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/report",
     "https://www.ravelry.com/patterns/library/catnip-bunny",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/editors"
+    "https://www.ravelry.com/patterns/library/catnip-bunny/threads"
   ]
 }

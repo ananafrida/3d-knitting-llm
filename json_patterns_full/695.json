@@ -1,4 +1,5 @@
 {
+  "pattern_id": 695,
   "pattern_page": "https://www.ravelry.com/patterns/library/pixie-hue",
   "craft": "Knitting",
   "category": "Hat → Pixie",
@@ -8,8 +9,8 @@
     "Danish"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Filcolana Arwetta"
+    "Filcolana Arwetta",
+    "yarn held together"
   ],
   "attributes": [
     "seamless",
@@ -19,14 +20,14 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pixie-hue/report",
     "https://www.ravelry.com/patterns/sources/fantasifabrikken",
-    "https://www.ravelry.com/patterns/library/pixie-hue/people",
-    "https://www.ravelry.com/patterns/library/pixie-hue/yarns",
     "https://www.ravelry.com/patterns/library/pixie-hue",
-    "https://www.ravelry.com/patterns/library/pixie-hue/edit",
+    "https://www.ravelry.com/patterns/library/pixie-hue/comments",
+    "https://www.ravelry.com/patterns/library/pixie-hue/report",
     "https://www.ravelry.com/patterns/library/pixie-hue/editors",
-    "https://www.ravelry.com/patterns/library/pixie-hue/comments"
+    "https://www.ravelry.com/patterns/library/pixie-hue/yarns",
+    "https://www.ravelry.com/patterns/library/pixie-hue/edit",
+    "https://www.ravelry.com/patterns/library/pixie-hue/people"
   ],
   "name": "Ravelry: Pixie hue pattern by Fantasifabrikken"
 }

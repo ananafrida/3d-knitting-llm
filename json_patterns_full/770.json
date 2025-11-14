@@ -1,4 +1,5 @@
 {
+  "pattern_id": 770,
   "pattern_page": "https://www.ravelry.com/patterns/library/crayon-stripes-pullover",
   "craft": "Knitting",
   "category": "Sweater → Pullover",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Purl Soho Cotton Pure"
+    "Purl Soho Cotton Pure",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -25,16 +26,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/people",
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover",
     "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/comments",
-    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4",
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/editors",
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/report",
-    "https://www.ravelry.com/patterns/library/knit--fold-slippers",
     "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/yarns"
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/report",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/editors",
+    "https://www.ravelry.com/patterns/library/knit--fold-slippers",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/yarns",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/people",
+    "https://www.ravelry.com/patterns/library/crayon-stripes-pullover/comments",
+    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4"
   ],
   "name": "Ravelry: Crayon Stripes Pullover pattern by Purl Soho"
 }

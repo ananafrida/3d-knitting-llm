@@ -1,4 +1,5 @@
 {
+  "pattern_id": 664,
   "pattern_page": "https://www.ravelry.com/patterns/library/teo-hat",
   "name": "Teo Hat",
   "description": "A chunky hat with earflaps, a garter stitch band knit back and forth, and a pointy body knit in the round and finished with i-cord.",
@@ -29,18 +30,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/teo-hat/editors",
-    "https://www.ravelry.com/patterns/library/teo-hat/threads",
-    "https://www.ravelry.com/patterns/library/teo-hat/report",
+    "https://www.ravelry.com/patterns/library/teo-hat",
     "https://www.ravelry.com/patterns/library/star-bonnet---capota-con-estrella",
-    "https://www.ravelry.com/patterns/library/snowflake-garland-9",
-    "https://www.ravelry.com/patterns/library/teo-hat/yarns",
-    "https://www.ravelry.com/patterns/library/easter-bonnet",
+    "https://www.ravelry.com/patterns/library/teo-hat/threads",
     "https://www.ravelry.com/patterns/sources/debajo-un-boton-website",
-    "http://debajounboton.typepad.com/blog/2010/07/baby-pixie-hat-pattern.html",
-    "https://www.ravelry.com/patterns/library/teo-hat/comments",
-    "https://www.ravelry.com/patterns/library/teo-hat/people",
+    "https://www.ravelry.com/patterns/library/teo-hat/yarns",
+    "https://www.ravelry.com/patterns/library/teo-hat/editors",
     "https://www.ravelry.com/patterns/library/teo-hat/posts",
-    "https://www.ravelry.com/patterns/library/teo-hat"
+    "https://www.ravelry.com/patterns/library/teo-hat/report",
+    "https://www.ravelry.com/patterns/library/snowflake-garland-9",
+    "https://www.ravelry.com/patterns/library/teo-hat/people",
+    "https://www.ravelry.com/patterns/library/easter-bonnet",
+    "https://www.ravelry.com/patterns/library/teo-hat/comments",
+    "http://debajounboton.typepad.com/blog/2010/07/baby-pixie-hat-pattern.html"
   ]
 }

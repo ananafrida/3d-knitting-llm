@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2114,
   "pattern_page": "https://www.ravelry.com/patterns/library/beanie-alba",
   "name": "Beanie Alba",
   "description": "Español - English below",
@@ -27,17 +28,17 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/beanie-alba/report",
+    "https://www.ravelry.com/patterns/library/elia-socks",
+    "https://www.ravelry.com/patterns/library/beanie-alba/editors",
     "https://www.ravelry.com/patterns/library/beanie-alba/threads",
+    "https://www.ravelry.com/patterns/library/filia-cowl",
+    "https://www.ravelry.com/patterns/sources/joselyn-anfossis-ravelry-store",
     "https://www.ravelry.com/patterns/library/beanie-alba/people",
     "https://www.ravelry.com/patterns/library/beanie-alba",
-    "https://www.ravelry.com/patterns/library/beanie-alba/editors",
-    "https://www.ravelry.com/patterns/library/filia-cowl",
     "https://www.ravelry.com/patterns/library/beanie-alba/posts",
-    "https://www.ravelry.com/patterns/library/beanie-alba/report",
-    "https://www.ravelry.com/patterns/library/beanie-alba/yarns",
-    "https://www.ravelry.com/patterns/library/elia-socks",
-    "https://www.ravelry.com/patterns/sources/joselyn-anfossis-ravelry-store",
+    "https://www.ravelry.com/patterns/library/beanie-alba/comments",
     "https://www.ravelry.com/patterns/library/claire-socks-2",
-    "https://www.ravelry.com/patterns/library/beanie-alba/comments"
+    "https://www.ravelry.com/patterns/library/beanie-alba/yarns"
   ]
 }

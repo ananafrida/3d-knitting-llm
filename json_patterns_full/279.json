@@ -1,4 +1,5 @@
 {
+  "pattern_id": 279,
   "pattern_page": "https://www.ravelry.com/patterns/library/refillable-catnip-mouse",
   "name": "Refillable Catnip Mouse",
   "description": "Here is a catnip mouse toy that you can refill with fresh catnip!",
@@ -24,15 +25,15 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/report",
-    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/yarns",
-    "https://www.ravelry.com/patterns/sources/laura-magdyczs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/comments",
-    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/threads",
-    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/people",
-    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/editors",
-    "https://www.ravelry.com/patterns/library/toe-up-two-at-a-time-wave-socks",
     "https://www.ravelry.com/patterns/library/simple-soap-saver-2",
-    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse"
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/threads",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/report",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse",
+    "https://www.ravelry.com/patterns/library/toe-up-two-at-a-time-wave-socks",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/comments",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/people",
+    "https://www.ravelry.com/patterns/sources/laura-magdyczs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/editors"
   ]
 }

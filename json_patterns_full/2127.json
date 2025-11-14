@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2127,
   "pattern_page": "https://www.ravelry.com/patterns/library/a-twisted-affair",
   "name": "A Twisted Affair",
   "description": "My knitting life is too generous with me, and I sometimes like to give a little back. I worked on this hat during a very special time of my life, and it’s full of feelings. I want to share the pattern with you, my readers. It is a heartfelt gift.",
@@ -32,17 +33,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/j-o-j-i",
     "https://www.ravelry.com/patterns/library/a-twisted-affair/comments",
-    "https://www.ravelry.com/patterns/library/knit-free",
-    "https://www.ravelry.com/patterns/library/a-twisted-affair/yarns",
-    "https://www.ravelry.com/patterns/library/a-twisted-affair/report",
-    "https://www.ravelry.com/patterns/library/a-twisted-affair/people",
+    "https://www.ravelry.com/patterns/library/a-twisted-affair/threads",
     "https://www.ravelry.com/patterns/library/boston-streets",
+    "https://www.ravelry.com/patterns/library/a-twisted-affair",
+    "https://www.ravelry.com/patterns/library/a-twisted-affair/posts",
+    "https://www.ravelry.com/patterns/library/a-twisted-affair/people",
     "https://www.ravelry.com/patterns/library/a-twisted-affair/editors",
     "https://www.ravelry.com/patterns/library/troms-hat",
-    "https://www.ravelry.com/patterns/library/a-twisted-affair/threads",
-    "https://www.ravelry.com/patterns/library/a-twisted-affair",
-    "https://www.ravelry.com/patterns/library/a-twisted-affair/posts"
+    "https://www.ravelry.com/patterns/library/a-twisted-affair/report",
+    "https://www.ravelry.com/patterns/library/knit-free",
+    "https://www.ravelry.com/patterns/sources/j-o-j-i",
+    "https://www.ravelry.com/patterns/library/a-twisted-affair/yarns"
   ]
 }

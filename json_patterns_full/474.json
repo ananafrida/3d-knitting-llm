@@ -1,4 +1,5 @@
 {
+  "pattern_id": 474,
   "pattern_page": "https://www.ravelry.com/patterns/library/hundred-stitch-snood",
   "craft": "Knitting",
   "category": "Neck / Torso → Cowl",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Sandnes Garn Alpakka Silke",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Sandnes Garn Alpakka Silke"
   ],
   "attributes": [
     "adult",
@@ -23,19 +24,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/no-frills-knittings-ravelry-store",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/editors",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/threads",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/comments",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/people",
-    "https://www.ravelry.com/patterns/library/basic-rib-hat",
-    "https://www.ravelry.com/patterns/library/the-shopkeepers-friend",
     "https://www.ravelry.com/patterns/library/hundred-stitch-snood",
     "https://www.ravelry.com/patterns/library/hundred-stitch-snood/report",
-    "https://www.ravelry.com/patterns/library/the-homebodys-friend",
-    "https://www.nofrillsknitting.co.uk/blog/free-pattern-hundred-stitch-snood",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/comments",
+    "https://www.ravelry.com/patterns/library/basic-rib-hat",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/threads",
     "https://www.ravelry.com/patterns/library/hundred-stitch-snood/yarns",
-    "https://www.ravelry.com/patterns/sources/no-frills-knitting-blog"
+    "https://www.nofrillsknitting.co.uk/blog/free-pattern-hundred-stitch-snood",
+    "https://www.ravelry.com/patterns/library/the-homebodys-friend",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/editors",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/people",
+    "https://www.ravelry.com/patterns/library/the-shopkeepers-friend",
+    "https://www.ravelry.com/patterns/sources/no-frills-knitting-blog",
+    "https://www.ravelry.com/patterns/sources/no-frills-knittings-ravelry-store"
   ],
   "name": "Ravelry: Hundred Stitch Snood pattern by No Frills Knitting"
 }

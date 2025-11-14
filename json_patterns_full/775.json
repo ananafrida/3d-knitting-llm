@@ -1,4 +1,5 @@
 {
+  "pattern_id": 775,
   "pattern_page": "https://www.ravelry.com/patterns/library/gjof",
   "name": "Gjöf",
   "description": "Body and sleeves are worked in the round from lower edge to underarms, then joined to work yoke in the round.",
@@ -31,17 +32,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/stex",
-    "https://www.ravelry.com/patterns/library/gjof/editors",
-    "https://www.ravelry.com/patterns/library/riddari---kids-with-fjallalopi",
     "https://www.ravelry.com/patterns/library/gjof/yarns",
-    "https://www.ravelry.com/patterns/library/gjof/people",
-    "https://www.ravelry.com/patterns/library/gjof/comments",
-    "https://www.ravelry.com/patterns/library/gjof",
     "https://www.ravelry.com/patterns/library/sloir-for-kids",
-    "https://www.ravelry.com/patterns/library/gjof/report",
+    "https://www.ravelry.com/patterns/library/gjof",
     "https://www.ravelry.com/patterns/sources/lopidesign-on-ravelry",
-    "https://www.ravelry.com/patterns/sources/lopi-design-website",
-    "https://www.ravelry.com/patterns/library/goa-3"
+    "https://www.ravelry.com/patterns/library/riddari---kids-with-fjallalopi",
+    "https://www.ravelry.com/patterns/library/gjof/comments",
+    "https://www.ravelry.com/patterns/library/gjof/report",
+    "https://www.ravelry.com/patterns/library/gjof/editors",
+    "https://www.ravelry.com/patterns/library/gjof/people",
+    "https://www.ravelry.com/patterns/periodicals/stex",
+    "https://www.ravelry.com/patterns/library/goa-3",
+    "https://www.ravelry.com/patterns/sources/lopi-design-website"
   ]
 }

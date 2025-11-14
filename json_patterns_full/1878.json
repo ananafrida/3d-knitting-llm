@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1878,
   "pattern_page": "https://www.ravelry.com/patterns/library/mini-suitcase-2",
   "name": "Mini Suitcase",
   "description": "This little suitcase can be used to hold all sorts of treasures and collections. It’s constructed with five pieces of plastic canvas, all covered with knitting before being sewn together. The finished case measures about 15 cm wide, 10 cm tall and 7 cm deep.",
@@ -25,16 +26,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/paddle-ball",
+    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2/threads",
     "https://www.ravelry.com/patterns/library/mini-suitcase-2/comments",
     "https://www.ravelry.com/patterns/library/mini-suitcase-2/yarns",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2",
     "https://www.ravelry.com/patterns/library/sunflower-garden",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2/threads",
     "https://www.ravelry.com/patterns/library/mini-suitcase-2/editors",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2/report",
     "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2/people"
+    "https://www.ravelry.com/patterns/library/paddle-ball",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2/people",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2/report"
   ]
 }

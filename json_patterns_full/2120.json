@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2120,
   "pattern_page": "https://www.ravelry.com/patterns/library/rafas-hat",
   "name": "Rafa's Hat",
   "description": "A very easy manly hat worked in worsted weight yarn… Designed for a friend who (like every man) had very little requirements.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "The Uncommon Thread Lush Worsted",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "The Uncommon Thread Lush Worsted"
   ],
   "attributes": [
     "adult",
@@ -28,17 +29,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/j-o-j-i",
-    "https://www.ravelry.com/patterns/library/rafas-hat/comments",
-    "https://www.ravelry.com/patterns/library/a-little-lonely-cable",
-    "https://www.ravelry.com/patterns/library/storm-shawl-5",
-    "https://www.ravelry.com/patterns/library/odyssey-shawl",
-    "https://www.ravelry.com/patterns/library/rafas-hat/report",
-    "https://www.ravelry.com/patterns/library/rafas-hat",
     "https://www.ravelry.com/patterns/library/rafas-hat/editors",
     "https://www.ravelry.com/patterns/library/rafas-hat/yarns",
     "https://www.ravelry.com/patterns/library/rafas-hat/posts",
     "https://www.ravelry.com/patterns/library/rafas-hat/threads",
-    "https://www.ravelry.com/patterns/library/rafas-hat/people"
+    "https://www.ravelry.com/patterns/library/storm-shawl-5",
+    "https://www.ravelry.com/patterns/library/rafas-hat/comments",
+    "https://www.ravelry.com/patterns/library/a-little-lonely-cable",
+    "https://www.ravelry.com/patterns/library/rafas-hat/people",
+    "https://www.ravelry.com/patterns/sources/j-o-j-i",
+    "https://www.ravelry.com/patterns/library/rafas-hat",
+    "https://www.ravelry.com/patterns/library/rafas-hat/report",
+    "https://www.ravelry.com/patterns/library/odyssey-shawl"
   ]
 }

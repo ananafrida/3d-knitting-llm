@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1343,
   "pattern_page": "https://www.ravelry.com/patterns/library/lion-lovey-7",
   "name": "Lion Lovey",
   "description": "A very simple pattern to make a lovey out of Circulo Garro yarn. When I purchased this skein I assumed this would be what the pattern for it was, but really they had designed it for a hat, using the animal head as a pom pom. So needs must.",
@@ -23,14 +24,14 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lion-lovey-7/people",
-    "https://www.ravelry.com/patterns/library/faux-sweater-dickie",
-    "https://www.ravelry.com/patterns/sources/jen-currans-ravelry-store",
-    "https://www.ravelry.com/patterns/library/silent-night-musical-notes",
     "https://www.ravelry.com/patterns/library/lion-lovey-7/yarns",
     "https://www.ravelry.com/patterns/library/lion-lovey-7",
+    "https://www.ravelry.com/patterns/library/lion-lovey-7/people",
+    "https://www.ravelry.com/patterns/library/lion-lovey-7/editors",
+    "https://www.ravelry.com/patterns/library/faux-sweater-dickie",
     "https://www.ravelry.com/patterns/library/lion-lovey-7/comments",
-    "https://www.ravelry.com/patterns/library/lion-lovey-7/report",
-    "https://www.ravelry.com/patterns/library/lion-lovey-7/editors"
+    "https://www.ravelry.com/patterns/library/silent-night-musical-notes",
+    "https://www.ravelry.com/patterns/sources/jen-currans-ravelry-store",
+    "https://www.ravelry.com/patterns/library/lion-lovey-7/report"
   ]
 }

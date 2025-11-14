@@ -1,4 +1,5 @@
 {
+  "pattern_id": 727,
   "pattern_page": "https://www.ravelry.com/patterns/library/gorro-trasno",
   "craft": "Knitting",
   "category": "Hat → Pixie",
@@ -8,8 +9,8 @@
     "Spanish"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Garnstudio DROPS Lima"
+    "Garnstudio DROPS Lima",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -24,16 +25,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gorro-trasno/comments",
     "https://www.ravelry.com/patterns/library/gorro-trasno/yarns",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/report",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/people",
-    "https://www.ravelry.com/patterns/library/baby-boots-16",
-    "https://www.ravelry.com/patterns/sources/molan-mis-calcetas",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/editors",
-    "https://www.ravelry.com/patterns/library/jacket-with-braid",
     "https://www.ravelry.com/patterns/library/dave-octopus",
-    "https://www.ravelry.com/patterns/library/gorro-trasno"
+    "https://www.ravelry.com/patterns/library/gorro-trasno/people",
+    "https://www.ravelry.com/patterns/library/gorro-trasno/report",
+    "https://www.ravelry.com/patterns/library/baby-boots-16",
+    "https://www.ravelry.com/patterns/library/gorro-trasno/editors",
+    "https://www.ravelry.com/patterns/library/gorro-trasno",
+    "https://www.ravelry.com/patterns/library/gorro-trasno/comments",
+    "https://www.ravelry.com/patterns/library/jacket-with-braid",
+    "https://www.ravelry.com/patterns/sources/molan-mis-calcetas"
   ],
   "name": "Ravelry: Gorro Trasno pattern by Ana Alfonsin"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1218,
   "pattern_page": "https://www.ravelry.com/patterns/library/bamsen---softie",
   "name": "Bamsen - softie",
   "description": "Astrid Lindgren (1907-2002) and Ilon Wikland",
@@ -21,8 +22,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Järbo Astrid Lindgren & Ilon Wikland 50g"
+    "Järbo Astrid Lindgren & Ilon Wikland 50g",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -33,17 +34,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/konfekt---cardigan",
-    "https://www.ravelry.com/patterns/sources/jarbo-astrid-lindgren--ilon-wikland",
-    "https://www.ravelry.com/patterns/library/bamsen---softie/threads",
-    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
     "https://www.ravelry.com/patterns/library/bamsen---softie",
-    "https://www.ravelry.com/patterns/library/bamsen---softie/yarns",
-    "https://www.ravelry.com/patterns/library/lotta---dress",
-    "https://www.ravelry.com/patterns/library/lillebror---slipover",
+    "https://www.ravelry.com/patterns/library/bamsen---softie/comments",
     "https://www.ravelry.com/patterns/library/bamsen---softie/editors",
+    "https://www.ravelry.com/patterns/sources/jarbo-astrid-lindgren--ilon-wikland",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
+    "https://www.ravelry.com/patterns/library/lotta---dress",
+    "https://www.ravelry.com/patterns/library/bamsen---softie/yarns",
     "https://www.ravelry.com/patterns/library/bamsen---softie/people",
+    "https://www.ravelry.com/patterns/library/bamsen---softie/threads",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan",
     "https://www.ravelry.com/patterns/library/bamsen---softie/report",
-    "https://www.ravelry.com/patterns/library/bamsen---softie/comments"
+    "https://www.ravelry.com/patterns/library/lillebror---slipover"
   ]
 }

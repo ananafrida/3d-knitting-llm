@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1704,
   "pattern_page": "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles",
   "name": "Easy Fake Wasp Nest/Hive on Straight Needles",
   "description": "This is a simple fake wasp nest that can be displayed as decoration. The ridges are created through a combination of knits and purls. It is knitted flat in a triangular shape, and seamed at the back.",
@@ -24,16 +25,16 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easy-woodlouse-pillbug-toy-on-straight-needles",
-    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/report",
-    "https://www.ravelry.com/patterns/library/easy-miniature-santa-hat-on-straight-needles",
     "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles",
-    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/editors",
-    "https://www.ravelry.com/patterns/sources/snowgrasshoppers-ravelry-store",
     "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/comments",
-    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/threads",
-    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/people",
     "https://www.ravelry.com/patterns/library/easy-ribbed-neck-warmer-on-straight-needles",
-    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/yarns"
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/threads",
+    "https://www.ravelry.com/patterns/library/easy-miniature-santa-hat-on-straight-needles",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/report",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/editors",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/yarns",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/people",
+    "https://www.ravelry.com/patterns/library/easy-woodlouse-pillbug-toy-on-straight-needles",
+    "https://www.ravelry.com/patterns/sources/snowgrasshoppers-ravelry-store"
   ]
 }

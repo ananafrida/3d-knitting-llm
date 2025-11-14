@@ -1,4 +1,5 @@
 {
+  "pattern_id": 934,
   "pattern_page": "https://www.ravelry.com/patterns/library/knitted-ball-2",
   "name": "Knitted Ball",
   "description": "The balls are great for children to play with, they are light weight and are great for infants and small children to grasp. Should be made with a washable yarn. The balls can be made with one or more colors, so this is a great chance to use up your skaps. The small balls are great to tie on the top of a gift for a baby shower instead of using a bow.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Worsted weight preferably washable"
+    "Worsted weight preferably washable",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "modular",
@@ -27,15 +28,15 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/knitted-ball-2/editors",
-    "https://www.ravelry.com/patterns/library/diamonds-forever-shawl",
-    "https://www.ravelry.com/patterns/library/knitted-ball-2/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-ball-2/comments",
-    "https://www.ravelry.com/patterns/sources/mary-garing-designs",
-    "https://www.ravelry.com/patterns/library/knitted-ball-2/people",
-    "https://www.ravelry.com/patterns/library/knitted-ball-2/report",
-    "https://www.ravelry.com/patterns/library/gloves-with-fingers-or-fingerless",
     "https://www.ravelry.com/patterns/library/knitted-ball-2",
+    "https://www.ravelry.com/patterns/library/knitted-ball-2/report",
+    "https://www.ravelry.com/patterns/library/knitted-ball-2/comments",
+    "https://www.ravelry.com/patterns/library/gloves-with-fingers-or-fingerless",
     "https://www.ravelry.com/patterns/library/ruffled-scarflette--scarf",
-    "https://www.ravelry.com/patterns/library/knitted-ball-2/threads"
+    "https://www.ravelry.com/patterns/library/knitted-ball-2/people",
+    "https://www.ravelry.com/patterns/library/knitted-ball-2/yarns",
+    "https://www.ravelry.com/patterns/sources/mary-garing-designs",
+    "https://www.ravelry.com/patterns/library/knitted-ball-2/threads",
+    "https://www.ravelry.com/patterns/library/diamonds-forever-shawl"
   ]
 }

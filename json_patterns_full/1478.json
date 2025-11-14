@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1478,
   "pattern_page": "https://www.ravelry.com/patterns/library/woven-stars",
   "name": "Woven Stars",
   "description": "Woven Stars are very quick to knit and use less than 5 g of DK weight yarn all together. They are made up of two triangles, knitted flat and then woven together.",
@@ -22,16 +23,16 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/woven-stars/threads",
-    "https://www.ravelry.com/patterns/library/woven-stars/comments",
-    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3",
-    "https://www.ravelry.com/patterns/library/woven-stars/people",
     "https://www.ravelry.com/patterns/library/woven-stars/report",
-    "https://www.ravelry.com/patterns/library/woven-stars/yarns",
+    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3",
     "https://www.ravelry.com/patterns/library/feathers-12",
-    "https://www.ravelry.com/patterns/library/woven-stars/editors",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak",
     "https://www.ravelry.com/patterns/library/woven-stars/posts",
     "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/woven-stars"
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak",
+    "https://www.ravelry.com/patterns/library/woven-stars/people",
+    "https://www.ravelry.com/patterns/library/woven-stars/comments",
+    "https://www.ravelry.com/patterns/library/woven-stars",
+    "https://www.ravelry.com/patterns/library/woven-stars/yarns",
+    "https://www.ravelry.com/patterns/library/woven-stars/editors"
   ]
 }

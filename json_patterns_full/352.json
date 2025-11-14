@@ -1,4 +1,5 @@
 {
+  "pattern_id": 352,
   "pattern_page": "https://www.ravelry.com/patterns/library/the-dude",
   "name": "The Dude",
   "description": "This is a men’s cardigan knit in Cascade Yarns Ecological Wool using stranded color work. It’s worked all in 1x1 rib and has a zipper closure and a short row shawl collar.",
@@ -41,16 +42,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/raccoon-socks",
-    "https://www.ravelry.com/patterns/sources/andrea-rangel-knits",
-    "https://www.ravelry.com/patterns/library/the-dude",
-    "https://www.ravelry.com/patterns/library/the-dude/threads",
-    "https://www.ravelry.com/patterns/library/the-dude/people",
+    "https://www.ravelry.com/patterns/library/the-dude/yarns",
+    "https://www.ravelry.com/patterns/library/the-dude/report",
+    "https://www.ravelry.com/patterns/library/catknit-pullover",
     "https://www.ravelry.com/patterns/library/the-dude/posts",
+    "https://www.ravelry.com/patterns/sources/andrea-rangel-knits",
+    "https://www.ravelry.com/patterns/library/the-dude/threads",
+    "https://www.ravelry.com/patterns/library/the-dude",
+    "https://www.ravelry.com/patterns/library/the-dude/people",
     "https://www.ravelry.com/patterns/library/the-dude/editors",
     "https://www.ravelry.com/patterns/library/the-dude/comments",
-    "https://www.ravelry.com/patterns/library/catknit-pullover",
-    "https://www.ravelry.com/patterns/library/the-dude/report",
-    "https://www.ravelry.com/patterns/library/the-knitters-dude",
-    "https://www.ravelry.com/patterns/library/the-dude/yarns"
+    "https://www.ravelry.com/patterns/library/the-knitters-dude"
   ]
 }

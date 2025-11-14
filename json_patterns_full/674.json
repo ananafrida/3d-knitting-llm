@@ -1,4 +1,5 @@
 {
+  "pattern_id": 674,
   "pattern_page": "https://www.ravelry.com/patterns/library/a-gnomey-hat",
   "name": "A Gnomey Hat",
   "description": "Check out the A Gnomey Hat SDK Blog Post for the FREE PATTERN, lots of cute pics of kiddos in Gnomey Hats and yarn ideas.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Malabrigo Yarn Rasta",
-    "Super Bulky (5-6 wpi) ?"
+    "Super Bulky (5-6 wpi) ?",
+    "Malabrigo Yarn Rasta"
   ],
   "attributes": [
     "bottom-up",
@@ -24,17 +25,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/sundaughterknits-website",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat/yarns",
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat/report",
     "https://www.ravelry.com/patterns/library/a-gnomey-hat/people",
-    "https://www.ravelry.com/patterns/library/bluster-bandana-cowl",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat/threads",
     "https://www.ravelry.com/patterns/library/bluster-legwarmers",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat",
     "https://www.ravelry.com/patterns/library/bluster-shawl",
+    "https://www.ravelry.com/patterns/library/bluster-bandana-cowl",
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat",
+    "https://www.ravelry.com/patterns/sources/sundaughterknits-website",
     "https://www.ravelry.com/patterns/library/a-gnomey-hat/comments",
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat/threads",
     "https://www.ravelry.com/patterns/library/a-gnomey-hat/editors",
     "https://www.ravelry.com/bundles/quick-knits-and-bulky-patterns",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat/report"
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat/yarns"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2094,
   "pattern_page": "https://www.ravelry.com/patterns/library/barley-worsted",
   "name": "Barley worsted",
   "description": "",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "madelinetosh Tosh Vintage"
+    "madelinetosh Tosh Vintage",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -33,21 +34,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/barley-worsted/comments",
+    "https://www.ravelry.com/patterns/library/flax-worsted",
+    "https://www.tincanknits.com/pattern/barley?g=2",
+    "https://www.ravelry.com/patterns/library/barley-worsted/report",
     "https://www.ravelry.com/patterns/library/barley-worsted/yarns",
     "https://www.ravelry.com/patterns/sources/the-simple-collection",
-    "https://www.ravelry.com/patterns/library/barley-worsted/editors",
-    "https://www.ravelry.com/patterns/library/flax-worsted",
-    "https://www.ravelry.com/patterns/library/barley-worsted",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/barley-worsted/comments",
     "https://www.ravelry.com/patterns/library/antler-toque",
-    "https://www.ravelry.com/patterns/library/barley-worsted/report",
-    "https://www.ravelry.com/patterns/library/barley-worsted/posts",
-    "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens",
-    "https://www.tincanknits.com/pattern/barley?g=2",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
-    "https://www.ravelry.com/patterns/library/barley-worsted/threads",
     "https://www.ravelry.com/bundles/app-patterns",
-    "https://www.ravelry.com/patterns/library/barley-worsted/people"
+    "https://www.ravelry.com/patterns/library/barley-worsted/threads",
+    "https://www.ravelry.com/patterns/library/barley-worsted/posts",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/barley-worsted",
+    "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens",
+    "https://www.ravelry.com/patterns/library/barley-worsted/people",
+    "https://www.ravelry.com/patterns/library/barley-worsted/editors",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry"
   ]
 }

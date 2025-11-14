@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2146,
   "pattern_page": "https://www.ravelry.com/patterns/library/nordic-beanie-5",
   "name": "Nordic Beanie",
   "description": "This beanie combines timeless motifs with modern shaping for a cozy and stylish winter accessory!",
@@ -46,15 +47,15 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/nordic-beanie-5/report",
-    "https://www.ravelry.com/patterns/library/nordic-beanie-5/editors",
-    "https://www.ravelry.com/patterns/library/sunny-sweater-4",
-    "https://www.ravelry.com/patterns/sources/lvdd2s-ravelry-store",
+    "https://www.ravelry.com/patterns/library/nordic-beanie-5",
     "https://www.ravelry.com/patterns/library/nordic-beanie-5/comments",
+    "https://www.ravelry.com/patterns/library/sunny-sweater-4",
+    "https://www.ravelry.com/patterns/library/nordic-beanie-5/editors",
+    "https://www.ravelry.com/patterns/library/nordic-beanie-5/report",
     "https://www.ravelry.com/patterns/library/oversized-autumn-sweater",
-    "https://www.ravelry.com/patterns/library/easy-cropped-sweater-2",
-    "https://www.ravelry.com/patterns/library/nordic-beanie-5/people",
     "https://www.ravelry.com/patterns/library/nordic-beanie-5/yarns",
-    "https://www.ravelry.com/patterns/library/nordic-beanie-5"
+    "https://www.ravelry.com/patterns/library/easy-cropped-sweater-2",
+    "https://www.ravelry.com/patterns/sources/lvdd2s-ravelry-store",
+    "https://www.ravelry.com/patterns/library/nordic-beanie-5/people"
   ]
 }

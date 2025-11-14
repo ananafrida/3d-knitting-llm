@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2,
   "pattern_page": "https://www.ravelry.com/patterns/library/sjakk-den-lappen",
   "name": "Sjakk den Lappen!",
   "description": "En enkel lapp I kun rett og vrang.",
@@ -20,13 +21,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/yarns",
-    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/comments",
-    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/editors",
-    "https://www.ravelry.com/patterns/library/sjakk-den-lappen",
-    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/people",
-    "https://www.ravelry.com/patterns/library/ugle-lappen",
     "https://www.ravelry.com/patterns/library/sjakk-den-lappen/report",
-    "https://www.ravelry.com/patterns/sources/hulder-hildes-ravelry-store"
+    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/comments",
+    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/people",
+    "https://www.ravelry.com/patterns/sources/hulder-hildes-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/yarns",
+    "https://www.ravelry.com/patterns/library/ugle-lappen",
+    "https://www.ravelry.com/patterns/library/sjakk-den-lappen",
+    "https://www.ravelry.com/patterns/library/sjakk-den-lappen/editors"
   ]
 }

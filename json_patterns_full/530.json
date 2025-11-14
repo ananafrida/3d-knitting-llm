@@ -1,4 +1,5 @@
 {
+  "pattern_id": 530,
   "pattern_page": "https://www.ravelry.com/patterns/library/cozy-up-cowl",
   "craft": "Knitting",
   "category": "Neck / Torso → Cowl",
@@ -19,16 +20,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl/editors",
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl/report",
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl/comments",
-    "https://www.ravelry.com/patterns/library/softest-cotton-washcloth--bath-mat",
     "https://www.ravelry.com/patterns/library/cozy-up-cowl",
-    "https://www.ravelry.com/patterns/library/toasty-hat--mittens",
+    "https://www.ravelry.com/patterns/library/cozy-up-cowl/report",
     "https://www.ravelry.com/patterns/library/cozy-up-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/knit-linen-market-bag",
+    "https://www.ravelry.com/patterns/library/cozy-up-cowl/editors",
     "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl/people"
+    "https://www.ravelry.com/patterns/library/cozy-up-cowl/people",
+    "https://www.ravelry.com/patterns/library/cozy-up-cowl/comments",
+    "https://www.ravelry.com/patterns/library/knit-linen-market-bag",
+    "https://www.ravelry.com/patterns/library/toasty-hat--mittens",
+    "https://www.ravelry.com/patterns/library/softest-cotton-washcloth--bath-mat"
   ],
   "name": "Ravelry: Cozy Up Cowl pattern by Purl Soho"
 }

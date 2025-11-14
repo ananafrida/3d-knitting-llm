@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2112,
   "pattern_page": "https://www.ravelry.com/patterns/library/barley-sock",
   "name": "Barley sock",
   "description": "",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "The Uncommon Thread Uncommon Everyday"
+    "The Uncommon Thread Uncommon Everyday",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -34,21 +35,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "http://tincanknits.com/pattern-SC-barleylight.html",
+    "https://www.ravelry.com/patterns/library/barley-sock/posts",
+    "https://www.ravelry.com/patterns/library/flax-sock",
     "https://www.ravelry.com/patterns/library/rye-sock",
     "https://www.ravelry.com/patterns/library/barley-sock/people",
-    "https://www.ravelry.com/patterns/library/flax-sock",
-    "http://tincanknits.com/pattern-SC-barleylight.html",
-    "https://www.ravelry.com/patterns/library/barley-sock/report",
-    "https://www.ravelry.com/patterns/library/barley-sock/comments",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
+    "https://www.ravelry.com/patterns/library/barley-sock",
+    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "https://www.ravelry.com/patterns/library/barley-sock/editors",
+    "https://www.ravelry.com/patterns/library/barley-sock/threads",
+    "https://www.ravelry.com/bundles/app-patterns",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
     "https://www.ravelry.com/patterns/library/barley-worsted",
     "https://www.ravelry.com/patterns/library/barley-sock/yarns",
-    "https://www.ravelry.com/patterns/library/barley-sock",
-    "https://www.ravelry.com/patterns/library/barley-sock/threads",
-    "https://www.ravelry.com/patterns/library/barley-sock/editors",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
-    "https://www.ravelry.com/bundles/app-patterns",
-    "https://www.ravelry.com/patterns/library/barley-sock/posts"
+    "https://www.ravelry.com/patterns/library/barley-sock/report",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
+    "https://www.ravelry.com/patterns/library/barley-sock/comments"
   ]
 }

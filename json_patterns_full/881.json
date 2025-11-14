@@ -1,4 +1,5 @@
 {
+  "pattern_id": 881,
   "pattern_page": "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf",
   "craft": "Knitting",
   "category": "Neck / Torso → Scarf",
@@ -25,8 +26,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Garnstudio DROPS Air"
+    "Garnstudio DROPS Air",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -46,21 +47,21 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf",
-    "https://www.garnstudio.com/pattern.php?id=12416&cid=19",
-    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-hat",
-    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf/report",
     "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf/editors",
+    "https://www.ravelry.com/patterns/periodicals/drops",
+    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf/comments",
+    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf/report",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
+    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf",
     "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf/people",
     "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf/edit",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf/yarns",
-    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf/comments",
+    "https://www.garnstudio.com/pattern.php?id=12416&cid=19",
+    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-hat",
     "https://www.ravelry.com/patterns/sources/drops-261",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
-    "https://www.ravelry.com/patterns/sources/drops-design"
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
+    "https://www.ravelry.com/patterns/library/261-58-almond-whisper-scarf/yarns"
   ],
   "name": "Ravelry: 261-58 Almond Whisper Scarf pattern by DROPS design"
 }

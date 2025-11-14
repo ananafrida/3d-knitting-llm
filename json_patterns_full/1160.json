@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1160,
   "pattern_page": "https://www.ravelry.com/patterns/library/greta-thunberg",
   "craft": "Knitting",
   "category": "Softies → Doll",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Paintbox Yarns Cotton DK"
+    "Paintbox Yarns Cotton DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -22,19 +23,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/greta-thunberg/yarns",
+    "https://www.ravelry.com/patterns/library/granny-3",
+    "https://www.ravelry.com/patterns/library/greta-thunberg/people",
+    "https://www.ravelry.com/patterns/library/greta-thunberg",
+    "https://www.ravelry.com/patterns/library/greta-thunberg/comments",
     "https://www.ravelry.com/patterns/library/greta-thunberg/threads",
     "https://www.ravelry.com/patterns/library/greta-thunberg/editors",
-    "https://www.ravelry.com/patterns/library/granny-3",
-    "https://www.ravelry.com/patterns/library/greta-thunberg/yarns",
-    "https://www.ravelry.com/patterns/library/greta-thunberg/report",
-    "https://www.ravelry.com/patterns/library/greta-thunberg/people",
-    "https://www.ravelry.com/bundles/free-patterns-500",
-    "https://www.ravelry.com/patterns/library/radishes",
     "https://www.ravelry.com/patterns/library/tom-daley-gold-medal",
-    "https://www.ravelry.com/patterns/library/greta-thunberg/comments",
-    "https://www.ravelry.com/patterns/sources/amanda-berry-on-lovecrafts",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/greta-thunberg/report",
     "https://www.lovecrafts.com/en-gb/p/greta-thunberg-todays-inspiring-women-knitting-pattern-by-lovecrafts?utm_medium=affiliate&a_aid=166045df",
-    "https://www.ravelry.com/patterns/library/greta-thunberg"
+    "https://www.ravelry.com/patterns/library/radishes",
+    "https://www.ravelry.com/patterns/sources/amanda-berry-on-lovecrafts"
   ],
   "name": "Ravelry: Greta Thunberg pattern by Amanda Berry"
 }

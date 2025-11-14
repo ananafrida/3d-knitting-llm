@@ -1,4 +1,5 @@
 {
+  "pattern_id": 94,
   "pattern_page": "https://www.ravelry.com/patterns/library/fox-square",
   "craft": "Knitting",
   "category": "Afghan block",
@@ -20,16 +21,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/fox-square/yarns",
+    "https://www.ravelry.com/patterns/library/fox-square/people",
     "https://www.ravelry.com/patterns/library/hedgehog-square",
     "https://www.ravelry.com/patterns/library/fox-square/comments",
-    "https://www.ravelry.com/patterns/library/fox-square/people",
-    "https://www.ravelry.com/patterns/library/fox-square/yarns",
     "https://www.ravelry.com/patterns/library/fox-square/report",
-    "https://www.ravelry.com/patterns/library/fox-square/editors",
     "https://www.ravelry.com/patterns/library/lily-of-the-valley-square-2",
+    "https://www.ravelry.com/patterns/library/fox-square",
     "https://www.ravelry.com/patterns/library/acorn-square",
     "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
-    "https://www.ravelry.com/patterns/library/fox-square"
+    "https://www.ravelry.com/patterns/library/fox-square/editors"
   ],
   "name": "Ravelry: Fox Square pattern by Daisy and Storm"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 654,
   "pattern_page": "https://www.ravelry.com/patterns/library/trio-of-hats-pixie",
   "craft": "Knitting",
   "category": "Hat → Pixie",
@@ -24,21 +25,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/bundles/free-patterns-331",
-    "https://www.ravelry.com/patterns/sources/woolly-wormhead",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-square-top",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/editors",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-beanie",
     "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/posts",
     "https://www.ravelry.com/patterns/sources/knit-now-issue-18-february-2013",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/people",
+    "https://www.ravelry.com/patterns/library/ms-beanie",
     "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/yarns",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/editors",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie",
     "https://www.ravelry.com/patterns/sources/trio-of-hats",
     "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/report",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-beanie",
     "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/threads",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/comments",
-    "https://www.ravelry.com/patterns/library/ms-beanie",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/people"
+    "https://www.ravelry.com/patterns/library/trio-of-hats-square-top",
+    "https://www.ravelry.com/patterns/sources/woolly-wormhead",
+    "https://www.ravelry.com/bundles/free-patterns-331",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/comments"
   ],
   "name": "Ravelry: Trio of Hats Pixie pattern by Woolly Wormhead"
 }

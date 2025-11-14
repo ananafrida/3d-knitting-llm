@@ -1,4 +1,5 @@
 {
+  "pattern_id": 741,
   "pattern_page": "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
   "craft": "Knitting",
   "category": "Sweater → Pullover",
@@ -51,20 +52,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/edit",
-    "https://www.ravelry.com/patterns/periodicals/drops",
     "https://www.garnstudio.com/pattern.php?id=12374&cid=19",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/report",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/sources/drops-260",
-    "https://www.ravelry.com/patterns/library/262-21-caramel-haze-sweater",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/comments",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/editors",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/people",
+    "https://www.ravelry.com/patterns/periodicals/drops",
     "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/yarns"
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/comments",
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/report",
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/people",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
+    "https://www.ravelry.com/patterns/library/262-21-caramel-haze-sweater",
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/editors",
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/yarns",
+    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater/edit",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
+    "https://www.ravelry.com/patterns/sources/drops-260"
   ],
   "name": "Ravelry: 260-11 Earthbound Sweater pattern by DROPS design"
 }

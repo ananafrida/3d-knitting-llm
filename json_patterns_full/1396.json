@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1396,
   "pattern_page": "https://www.ravelry.com/patterns/library/balloon-dog-11",
   "name": "Balloon Dog",
   "description": "I’ve been seeing a bunch of patterns for crochet balloon dogs lately and they seem fun, so I wanted to make a knit version.",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Bernat Blanket",
-    "Super Bulky (5-6 wpi) ?"
+    "Super Bulky (5-6 wpi) ?",
+    "Bernat Blanket"
   ],
   "attributes": [
     "icord",
@@ -25,17 +26,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/comments",
     "https://www.ravelry.com/patterns/sources/kun-yin-knits",
-    "https://www.ravelry.com/patterns/sources/kun-yins-ravelry-store",
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/editors",
     "https://www.ravelry.com/patterns/library/balloon-dog-11/report",
     "https://www.ravelry.com/patterns/library/balloon-dog-11",
     "https://www.ravelry.com/patterns/library/yin-yang-scarf-4",
-    "https://www.ravelry.com/patterns/library/august-baby-blanket-2",
     "https://www.ravelry.com/patterns/library/pattern-block-blanket",
-    "https://www.ravelry.com/patterns/library/balloon-dog-11/editors",
+    "https://www.ravelry.com/patterns/library/august-baby-blanket-2",
     "https://kunyinknits.wordpress.com/2023/05/31/balloon-dog-knitting-pattern/",
     "https://www.ravelry.com/patterns/library/balloon-dog-11/people",
-    "https://www.ravelry.com/patterns/library/balloon-dog-11/yarns",
-    "https://www.ravelry.com/patterns/library/balloon-dog-11/comments"
+    "https://www.ravelry.com/patterns/sources/kun-yins-ravelry-store",
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/yarns"
   ]
 }

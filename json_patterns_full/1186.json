@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1186,
   "pattern_page": "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll",
   "name": "Poppet the Voodoo Doll",
   "description": "This fun and easy doll can be completed easily in an evening.",
@@ -24,16 +25,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/wiccan-full-length-robe-cloak",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll",
-    "https://www.ravelry.com/patterns/library/wiccan-short-length-robe-cloak",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/yarns",
-    "https://www.ravelry.com/patterns/library/detachable-hood-3",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/threads",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/editors",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/report",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/people",
     "https://www.ravelry.com/patterns/sources/woolly-wiccans-ravelry-store",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/comments"
+    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll",
+    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/comments",
+    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/editors",
+    "https://www.ravelry.com/patterns/library/wiccan-full-length-robe-cloak",
+    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/threads",
+    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/people",
+    "https://www.ravelry.com/patterns/library/detachable-hood-3",
+    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/report",
+    "https://www.ravelry.com/patterns/library/wiccan-short-length-robe-cloak",
+    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/yarns"
   ]
 }

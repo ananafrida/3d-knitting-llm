@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1389,
   "pattern_page": "https://www.ravelry.com/patterns/library/cup-of-tea-anyone",
   "name": "Cup of Tea, Anyone?",
   "description": "These one inch teacups are totally addictive and so much fun to mix and match color combos!",
@@ -25,16 +26,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/comments",
+    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/threads",
+    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/yarns",
     "https://www.ravelry.com/patterns/library/acorn-lantern",
     "https://www.ravelry.com/patterns/library/knit-or-stick-acorn-teapot",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/people",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/comments",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/report",
     "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/editors",
+    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/people",
     "https://www.ravelry.com/patterns/library/hairy-highland-gnomes",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/threads",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/yarns"
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/report",
+    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 480,
   "pattern_page": "https://www.ravelry.com/patterns/library/copilot",
   "name": "Copilot",
   "description": "I love pretty sock yarn so I buy lots of lovelies and then of course, don’t knit socks with them. So when a shawl is too much, I knit Copilot which is the sister pattern to Autopilot.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Araucania Yarns Ranco Sock",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Araucania Yarns Ranco Sock"
   ],
   "attributes": [
     "adult",
@@ -33,17 +34,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/copilot/threads",
-    "https://www.ravelry.com/patterns/library/autopilot",
+    "https://www.ravelry.com/patterns/library/copilot/report",
+    "https://www.ravelry.com/patterns/library/copilot/people",
+    "https://www.ravelry.com/patterns/sources/dominique-designs",
+    "https://www.ravelry.com/patterns/library/gatsby-hat-3",
     "https://www.ravelry.com/patterns/library/copilot",
     "https://www.ravelry.com/patterns/library/copilot/yarns",
-    "https://www.ravelry.com/patterns/library/copilot/people",
+    "https://www.ravelry.com/patterns/library/copilot/threads",
+    "https://www.ravelry.com/patterns/library/copilot/comments",
+    "https://www.ravelry.com/patterns/library/autopilot",
     "https://www.ravelry.com/patterns/library/burst-cowl",
     "https://www.ravelry.com/patterns/library/copilot/posts",
-    "https://www.ravelry.com/patterns/library/copilot/comments",
-    "https://www.ravelry.com/patterns/library/copilot/report",
-    "https://www.ravelry.com/patterns/library/gatsby-hat-3",
-    "https://www.ravelry.com/patterns/library/copilot/editors",
-    "https://www.ravelry.com/patterns/sources/dominique-designs"
+    "https://www.ravelry.com/patterns/library/copilot/editors"
   ]
 }

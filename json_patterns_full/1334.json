@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1334,
   "pattern_page": "https://www.ravelry.com/patterns/library/gnome-shearing-day",
   "name": "Gnome Shearing Day",
   "description": "In the spring gnomes travel far and wide to the picture-perfect village of Gnomehaugen for Gnome Shearing Day. The day is filled with fun activities to celebrate the end of the long, cold winter, and finishes with the traditional axing of the beards. When the last beard has been axed, the Gnomehaughen Fiber Festival begins! These finger-sized gnomes are a super- quick, easy knit. They are knit in the round on dpns from the bottom to the top with a bobble nose and I-cord arms.",
@@ -27,15 +28,15 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/gnome-shearing-day/comments",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day/editors",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day/people",
     "https://www.ravelry.com/patterns/library/mini-hobbit-hole",
-    "https://www.ravelry.com/patterns/library/scandinavian-christmas-dolls",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day/report",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day/threads",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day",
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day/yarns",
     "https://www.ravelry.com/patterns/library/mother-fall--spring-children",
-    "https://www.ravelry.com/patterns/library/gnome-shearing-day/yarns"
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day/people",
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day",
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day/report",
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day/editors",
+    "https://www.ravelry.com/patterns/library/scandinavian-christmas-dolls",
+    "https://www.ravelry.com/patterns/library/gnome-shearing-day/threads"
   ]
 }

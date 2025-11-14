@@ -1,4 +1,5 @@
 {
+  "pattern_id": 986,
   "pattern_page": "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse",
   "name": "FroggyBug 2 in 1 Seahorse",
   "description": "First Seahorse prototype was made in Summer 2024, but the Xmas mini jumpers interrupted the project. Then, I realised that seahorse start from a spherical egg, and got obsessed with knitting spheres. One year later, I eventually came back to my initial project and here we are!",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Fabel",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Garnstudio DROPS Fabel"
   ],
   "attributes": [
     "icord",
@@ -29,15 +30,15 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse/report",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse/editors",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-crab",
     "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse/comments",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog",
-    "https://www.ravelry.com/patterns/library/froggybug-frog",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse/editors",
     "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store",
     "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse/yarns",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse/people",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse",
-    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-crab"
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse/report",
+    "https://www.ravelry.com/patterns/library/froggybug-frog",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-seahorse/people"
   ]
 }

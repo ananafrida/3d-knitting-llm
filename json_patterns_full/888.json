@@ -1,4 +1,5 @@
 {
+  "pattern_id": 888,
   "pattern_page": "https://www.ravelry.com/patterns/library/zickzack-scarf",
   "name": "ZickZack Scarf",
   "description": "An impressive yet easy to knit scarf in the style of a great Italian designer.",
@@ -21,8 +22,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Lang Yarns Mille Colori Baby",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Lang Yarns Mille Colori Baby"
   ],
   "attributes": [
     "adult",
@@ -38,14 +39,14 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/threads",
     "https://www.ravelry.com/patterns/sources/christy-kamms-ravelry-store",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/editors",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/report",
     "https://www.ravelry.com/patterns/library/zickzack-scarf/comments",
     "https://www.ravelry.com/patterns/library/zickzack-scarf/people",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/threads",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/report",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/posts",
     "https://www.ravelry.com/patterns/library/zickzack-scarf/yarns",
-    "https://www.ravelry.com/patterns/library/zickzack-scarf/posts"
+    "https://www.ravelry.com/patterns/library/zickzack-scarf/editors",
+    "https://www.ravelry.com/patterns/library/zickzack-scarf"
   ]
 }

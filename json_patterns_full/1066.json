@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1066,
   "pattern_page": "https://www.ravelry.com/patterns/library/lotus-33",
   "craft": "Knitting",
   "category": "Tops → Tee",
@@ -10,8 +11,8 @@
     "German"
   ],
   "suggested_yarn": [
-    "Filcolana Pernilla",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Filcolana Pernilla"
   ],
   "attributes": [
     "adult",
@@ -28,19 +29,19 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lotus-33/comments",
-    "https://www.ravelry.com/patterns/library/lotus-33/yarns",
-    "https://www.ravelry.com/patterns/library/lotus-33/posts",
-    "https://www.ravelry.com/patterns/sources/filcolana",
-    "https://www.ravelry.com/patterns/library/lotus-33",
-    "https://www.ravelry.com/patterns/library/lotus-33/report",
-    "https://www.ravelry.com/patterns/library/lotus-33/people",
-    "https://www.ravelry.com/patterns/sources/flowers--dreams---filcolana-ss21",
-    "https://www.ravelry.com/patterns/library/nordstrand",
-    "https://www.ravelry.com/patterns/library/lotus-33/threads",
-    "https://www.ravelry.com/patterns/library/lathyrus-2",
+    "https://www.ravelry.com/patterns/library/lotus-33/editors",
     "https://www.ravelry.com/patterns/library/christianshavn",
-    "https://www.ravelry.com/patterns/library/lotus-33/editors"
+    "https://www.ravelry.com/patterns/library/lotus-33/report",
+    "https://www.ravelry.com/patterns/library/lotus-33/yarns",
+    "https://www.ravelry.com/patterns/sources/filcolana",
+    "https://www.ravelry.com/patterns/library/nordstrand",
+    "https://www.ravelry.com/patterns/library/lathyrus-2",
+    "https://www.ravelry.com/patterns/library/lotus-33/comments",
+    "https://www.ravelry.com/patterns/library/lotus-33/posts",
+    "https://www.ravelry.com/patterns/library/lotus-33/threads",
+    "https://www.ravelry.com/patterns/sources/flowers--dreams---filcolana-ss21",
+    "https://www.ravelry.com/patterns/library/lotus-33/people",
+    "https://www.ravelry.com/patterns/library/lotus-33"
   ],
   "name": "Ravelry: Lotus pattern by Hanne Rimmen"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1435,
   "pattern_page": "https://www.ravelry.com/patterns/library/sweater-bag-charm",
   "name": "Sweater Bag Charm",
   "description": "Bag charms are back in a big way, baby! Or in this case, a little way, baby! Knit your own little sweater charm &amp; identify yourself as a knitter with their finger on the pulse of contemporary trends &lt;3",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Knit Picks Palette"
+    "Knit Picks Palette",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -24,15 +25,15 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sweater-bag-charm",
-    "https://www.ravelry.com/patterns/library/missouri-mariner",
-    "https://www.ravelry.com/patterns/library/sweater-bag-charm/yarns",
-    "https://www.ravelry.com/patterns/library/sweater-bag-charm/comments",
-    "https://www.ravelry.com/patterns/library/sweater-bag-charm/people",
+    "https://www.ravelry.com/patterns/library/the-terrace-beanie",
     "https://www.ravelry.com/patterns/library/sweater-bag-charm/report",
-    "https://www.ravelry.com/patterns/library/acute-bonnet",
-    "https://www.ravelry.com/patterns/library/sweater-bag-charm/editors",
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm/comments",
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm",
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm/people",
     "https://www.ravelry.com/patterns/sources/emma-oldehoefts-ravelry-store",
-    "https://www.ravelry.com/patterns/library/the-terrace-beanie"
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm/editors",
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm/yarns",
+    "https://www.ravelry.com/patterns/library/acute-bonnet",
+    "https://www.ravelry.com/patterns/library/missouri-mariner"
   ]
 }

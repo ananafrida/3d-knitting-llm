@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1231,
   "pattern_page": "https://www.ravelry.com/patterns/library/a-little-kindness-monster",
   "name": "A Little Kindness Monster",
   "description": "This pattern is free and always will be. I hope it inspires you. Invite over some friends you haven’t seen in awhile and knit Little Kindnesses together with scraps from your stash. Knit a Little Kindness for someone and drop it in the mail for them with a nice card to let them know you’re thinking of them. Take your neighbor a Little Kindness and a plate of cookies. Just give one to somebody and say, “hey, this silly little thing made me smile and I thought it might make",
@@ -21,17 +22,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/yarnigans-2",
-    "https://www.ravelry.com/patterns/library/winters-bow",
-    "https://www.ravelry.com/patterns/library/nilla-the-unicorn",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/report",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/yarns",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/people",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/editors",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/posts",
     "https://www.ravelry.com/patterns/library/a-little-kindness-monster/threads",
     "https://www.ravelry.com/patterns/library/juniper-moose",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/comments"
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/yarns",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster",
+    "https://www.ravelry.com/patterns/sources/yarnigans-2",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/people",
+    "https://www.ravelry.com/patterns/library/nilla-the-unicorn",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/editors",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/comments",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/posts",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/report",
+    "https://www.ravelry.com/patterns/library/winters-bow"
   ]
 }

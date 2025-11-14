@@ -1,4 +1,5 @@
 {
+  "pattern_id": 947,
   "pattern_page": "https://www.ravelry.com/patterns/library/swirl-ball",
   "craft": "Knitting",
   "category": "Ball",
@@ -26,17 +27,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/swirl-ball/yarns",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/swirl-ball/people",
-    "https://www.ravelry.com/patterns/library/swirl-ball/editors",
     "https://www.ravelry.com/patterns/library/swirl-ball",
     "https://www.ravelry.com/patterns/library/swirl-ball/threads",
-    "https://www.ravelry.com/patterns/library/swirl-ball/edit",
-    "https://www.ravelry.com/patterns/sources/knitlist",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
     "https://www.ravelry.com/patterns/library/swirl-ball/comments",
     "https://www.ravelry.com/patterns/library/swirl-ball/report",
-    "https://www.ravelry.com/patterns/library/swirl-ball/posts"
+    "https://www.ravelry.com/patterns/library/swirl-ball/people",
+    "https://www.ravelry.com/patterns/library/swirl-ball/edit",
+    "https://www.ravelry.com/patterns/sources/knitlist",
+    "https://www.ravelry.com/patterns/library/swirl-ball/posts",
+    "https://www.ravelry.com/patterns/library/swirl-ball/yarns",
+    "https://www.ravelry.com/patterns/library/swirl-ball/editors"
   ],
   "name": "Ravelry: Swirl Ball pattern by Eve Clevenger"
 }

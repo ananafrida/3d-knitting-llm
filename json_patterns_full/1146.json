@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1146,
   "pattern_page": "https://www.ravelry.com/patterns/library/venus-de-merino",
   "name": "Venus de Merino",
   "description": "Inspired by one of mankind’s oldest works of art, the Venus of Willendorf, this little soft sculpture was my way of celebrating knitting in general and the glorious colors of Noro Kureyon in particular. Everyone needs a knitting goddess now and then.",
@@ -24,17 +25,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/venus-de-merino/editors",
-    "https://www.ravelry.com/patterns/library/itsy-bitsy-spider-2",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/yarns",
-    "https://www.ravelry.com/patterns/library/venus-de-merino",
     "https://www.ravelry.com/patterns/library/venus-de-merino/comments",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/people",
-    "https://www.ravelry.com/patterns/library/dice-bag-of-doom",
+    "https://www.ravelry.com/patterns/sources/darktwist",
     "https://www.ravelry.com/patterns/library/bad-hair-day-kerchief",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/posts",
+    "https://www.ravelry.com/patterns/library/venus-de-merino/yarns",
     "https://www.ravelry.com/patterns/library/venus-de-merino/threads",
     "https://www.ravelry.com/patterns/library/venus-de-merino/report",
-    "https://www.ravelry.com/patterns/sources/darktwist"
+    "https://www.ravelry.com/patterns/library/venus-de-merino/editors",
+    "https://www.ravelry.com/patterns/library/venus-de-merino/people",
+    "https://www.ravelry.com/patterns/library/venus-de-merino/posts",
+    "https://www.ravelry.com/patterns/library/dice-bag-of-doom",
+    "https://www.ravelry.com/patterns/library/venus-de-merino",
+    "https://www.ravelry.com/patterns/library/itsy-bitsy-spider-2"
   ]
 }

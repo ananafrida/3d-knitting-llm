@@ -1,4 +1,5 @@
 {
+  "pattern_id": 127,
   "pattern_page": "https://www.ravelry.com/patterns/library/non-cooperation-brick",
   "name": "Non Cooperation Brick",
   "description": "Do you find yourself increasingly frustrated with the state of the world by have no outlet for your nihilistic tendencies without breaking something in your home? Are you tired after a long day of protesting for the rights of underserved people and need something mildly mindless to work on while you stream either the latest season of Severance for the first time or the third season of Gilmore Girls for the fifth time? Do you not want to cooperate or be complacent with the fact that we are watching history in the making, but not in a fun and freedom-y way? Well do I have the project for you!",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Cat Sandwich Fibers Glitzie",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Cat Sandwich Fibers Glitzie"
   ],
   "attributes": [
     "3-dimensional",
@@ -25,13 +26,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/non-cooperation-brick",
-    "https://www.ravelry.com/patterns/library/non-cooperation-brick/comments",
-    "https://www.ravelry.com/patterns/library/non-cooperation-brick/people",
+    "https://www.ravelry.com/patterns/sources/hannah-rodericks-ravelry-store",
     "https://www.ravelry.com/patterns/library/non-cooperation-brick/editors",
-    "https://www.ravelry.com/patterns/library/non-cooperation-brick/yarns",
-    "https://www.ravelry.com/patterns/library/non-cooperation-brick/report",
+    "https://www.ravelry.com/patterns/library/non-cooperation-brick/comments",
     "https://www.ravelry.com/patterns/library/non-cooperation-brick/threads",
-    "https://www.ravelry.com/patterns/sources/hannah-rodericks-ravelry-store"
+    "https://www.ravelry.com/patterns/library/non-cooperation-brick/report",
+    "https://www.ravelry.com/patterns/library/non-cooperation-brick/people",
+    "https://www.ravelry.com/patterns/library/non-cooperation-brick/yarns",
+    "https://www.ravelry.com/patterns/library/non-cooperation-brick"
   ]
 }

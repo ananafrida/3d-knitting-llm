@@ -1,4 +1,5 @@
 {
+  "pattern_id": 958,
   "pattern_page": "https://www.ravelry.com/patterns/library/juggling-ball-knit",
   "craft": "Knitting",
   "category": "Ball",
@@ -22,22 +23,22 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/people",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "http://www.ravelry.com/patterns/library/juggling-ball-crochet",
-    "https://www.ravelry.com/patterns/library/hat--wrapover-scarf-hat",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/yarns",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/edit",
-    "https://web.archive.org/web/20060207063636/http://cache.lionbrand.com/patterns/kms-jugglingBalls.html",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/report",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/comments",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/threads",
     "https://www.ravelry.com/patterns/library/ripple-afghan-70409ad",
     "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/comments",
+    "http://www.ravelry.com/patterns/library/juggling-ball-crochet",
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/people",
+    "https://web.archive.org/web/20060207063636/http://cache.lionbrand.com/patterns/kms-jugglingBalls.html",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/editors",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/yarns",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/threads",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/edit",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/report",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit",
     "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/editors"
+    "https://www.ravelry.com/patterns/library/hat--wrapover-scarf-hat"
   ],
   "name": "Ravelry: Juggling Ball (Knit) pattern by Lion Brand Yarn"
 }

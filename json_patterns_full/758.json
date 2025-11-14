@@ -1,4 +1,5 @@
 {
+  "pattern_id": 758,
   "pattern_page": "https://www.ravelry.com/patterns/library/real-easy-raglan",
   "name": "Real Easy Raglan",
   "description": "This pattern has been updated as of August 8th, 2025. The update includes: a correction for size XXL raglan stitch counts, updated sleeve measurements for size XXL, and clearer wording for the underarm pickup section at beginning of sleeves. Enjoy!",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Woolly Yarn Co Woolly 8ply",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Woolly Yarn Co Woolly 8ply"
   ],
   "attributes": [
     "adult",
@@ -34,16 +35,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/real-easy-raglan/report",
+    "https://www.ravelry.com/patterns/sources/maker-maker-store",
+    "https://www.ravelry.com/patterns/library/real-easy-raglan/editors",
+    "https://www.ravelry.com/patterns/library/tip-top-tank-3",
+    "https://www.ravelry.com/patterns/library/real-easy-raglan/yarns",
+    "https://www.ravelry.com/patterns/library/real-easy-raglan",
     "https://www.ravelry.com/patterns/library/real-easy-raglan/comments",
     "https://www.ravelry.com/patterns/library/real-easy-raglan/threads",
     "https://www.ravelry.com/patterns/library/see-my-vest---worsted",
     "https://www.ravelry.com/patterns/library/real-easy-raglan/people",
-    "https://www.ravelry.com/patterns/library/real-easy-raglan/yarns",
-    "https://www.ravelry.com/patterns/library/real-easy-raglan/editors",
-    "https://www.ravelry.com/patterns/library/real-easy-raglan",
     "https://www.ravelry.com/patterns/library/see-my-vest---chunky",
-    "https://www.ravelry.com/patterns/library/tip-top-tank-3",
-    "https://www.ravelry.com/patterns/sources/maker-maker-store"
+    "https://www.ravelry.com/patterns/library/real-easy-raglan/report"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 70,
   "pattern_page": "https://www.ravelry.com/patterns/library/easy-c2c-squares",
   "name": "Easy C2C Squares",
   "description": "As my store name suggests, I am not really a knitter, I specialise in crochet design… However, I decided to take on a charity challenge to knit every day in October 2022.",
@@ -21,16 +22,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/report",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/editors",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/yarns",
     "https://www.ravelry.com/patterns/library/fairy-dust-mosaic",
-    "https://www.ravelry.com/patterns/library/boo-halloween-mosaic",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/people",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/comments",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/threads",
     "https://www.ravelry.com/patterns/library/waterside-mosaic",
-    "https://www.ravelry.com/patterns/sources/rosina-crochets"
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/threads",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/comments",
+    "https://www.ravelry.com/patterns/sources/rosina-crochets",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/editors",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/people",
+    "https://www.ravelry.com/patterns/library/boo-halloween-mosaic",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/yarns",
+    "https://www.ravelry.com/patterns/library/easy-c2c-squares/report"
   ]
 }

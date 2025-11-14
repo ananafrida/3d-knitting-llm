@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1447,
   "pattern_page": "https://www.ravelry.com/patterns/library/weihnachtsstern-3",
   "craft": "Knitting",
   "category": "Decorative → Hanging Ornament",
@@ -18,16 +19,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/weihnachtsstern-3/comments",
-    "https://www.ravelry.com/patterns/library/weihnachtsstern-3/people",
     "https://www.ravelry.com/patterns/library/weihnachtsstern-3/yarns",
-    "https://www.ravelry.com/patterns/library/weihnachtsstern-3",
-    "https://www.ravelry.com/patterns/library/ciri-cowl",
-    "https://www.ravelry.com/patterns/library/weihnachtsstern-3/report",
-    "https://www.ravelry.com/patterns/library/warme-ohren-2",
     "https://www.ravelry.com/patterns/library/weihnachtsstern-3/editors",
-    "https://www.ravelry.com/patterns/library/shelby-cowl",
-    "https://www.ravelry.com/patterns/sources/ein-koffer-voll-wolle-on-youtube"
+    "https://www.ravelry.com/patterns/library/ciri-cowl",
+    "https://www.ravelry.com/patterns/library/warme-ohren-2",
+    "https://www.ravelry.com/patterns/sources/ein-koffer-voll-wolle-on-youtube",
+    "https://www.ravelry.com/patterns/library/weihnachtsstern-3/people",
+    "https://www.ravelry.com/patterns/library/weihnachtsstern-3/report",
+    "https://www.ravelry.com/patterns/library/weihnachtsstern-3",
+    "https://www.ravelry.com/patterns/library/weihnachtsstern-3/comments",
+    "https://www.ravelry.com/patterns/library/shelby-cowl"
   ],
   "name": "Ravelry: Weihnachtsstern pattern by Sarah Stosno"
 }

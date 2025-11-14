@@ -1,4 +1,5 @@
 {
+  "pattern_id": 77,
   "pattern_page": "https://www.ravelry.com/patterns/library/verboort-block",
   "name": "Verboort Block",
   "description": "Verboort (vur-BORT) is a small town in Oregon founded by a Dutch priest in 1876. Verboort puts on an incredibly delicious sausage and kraut festival every November that attracts people from miles around!",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Aunt Lydia's Classic 10 Crochet Thread",
-    "Thread ?"
+    "Thread ?",
+    "Aunt Lydia's Classic 10 Crochet Thread"
   ],
   "attributes": [
     "bottom-up",
@@ -24,15 +25,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/weldons-florentine-edging",
-    "https://www.ravelry.com/patterns/library/verboort-block/report",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
-    "https://www.ravelry.com/patterns/library/1888-weldons-buttercup-edging",
-    "https://www.ravelry.com/patterns/library/1889-weldons-epsom-edging",
-    "https://www.ravelry.com/patterns/library/verboort-block/people",
-    "https://www.ravelry.com/patterns/library/verboort-block/editors",
-    "https://www.ravelry.com/patterns/library/verboort-block/yarns",
     "https://www.ravelry.com/patterns/library/verboort-block",
-    "https://www.ravelry.com/patterns/library/verboort-block/comments"
+    "https://www.ravelry.com/patterns/library/1889-weldons-epsom-edging",
+    "https://www.ravelry.com/patterns/library/weldons-florentine-edging",
+    "https://www.ravelry.com/patterns/library/verboort-block/people",
+    "https://www.ravelry.com/patterns/library/1888-weldons-buttercup-edging",
+    "https://www.ravelry.com/patterns/library/verboort-block/comments",
+    "https://www.ravelry.com/patterns/library/verboort-block/editors",
+    "https://www.ravelry.com/patterns/library/verboort-block/report",
+    "https://www.ravelry.com/patterns/library/verboort-block/yarns",
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store"
   ]
 }

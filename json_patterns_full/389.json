@@ -1,4 +1,5 @@
 {
+  "pattern_id": 389,
   "pattern_page": "https://www.ravelry.com/patterns/library/zach-jacket---worsted",
   "name": "Zach Jacket - Worsted",
   "description": "",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "100purewool Merino Worsted 3 ply"
+    "100purewool Merino Worsted 3 ply",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -42,19 +43,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/zach-jacket---worsted",
     "https://www.ravelry.com/patterns/sources/zach-jacket-ebook/patterns",
+    "https://www.ravelry.com/patterns/sources/flame-lily-designs",
+    "https://www.ravelry.com/patterns/sources/zach-jacket-ebook",
+    "https://www.ravelry.com/patterns/library/pippa-10",
+    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/yarns",
+    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/comments",
+    "https://www.ravelry.com/patterns/library/little-miss-jorja",
+    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/threads",
+    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/editors",
     "http://www.ravelry.com/patterns/library/brooklynn-jacket",
     "https://www.ravelry.com/patterns/library/nate-hoodie",
-    "https://www.ravelry.com/patterns/library/pippa-10",
-    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/comments",
-    "https://www.ravelry.com/patterns/library/zach-jacket---worsted",
-    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/threads",
-    "https://www.ravelry.com/patterns/sources/zach-jacket-ebook",
-    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/report",
-    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/yarns",
-    "https://www.ravelry.com/patterns/library/little-miss-jorja",
     "https://www.ravelry.com/patterns/library/zach-jacket---worsted/people",
-    "https://www.ravelry.com/patterns/sources/flame-lily-designs",
-    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/editors"
+    "https://www.ravelry.com/patterns/library/zach-jacket---worsted/report"
   ]
 }

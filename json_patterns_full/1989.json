@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1989,
   "pattern_page": "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme",
   "name": "Ferse ohne Fersenwand mit Maschenaufnahme",
   "description": "Update V2 - V3: Seite 2 die Zunahme bei Nadel 4 verbessert, war missverständlich.",
@@ -23,13 +24,13 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/yarns",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme",
-    "https://www.ravelry.com/patterns/sources/uli-feilers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/people",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/threads",
     "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/comments",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/threads",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/yarns",
+    "https://www.ravelry.com/patterns/sources/uli-feilers-ravelry-store",
     "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/report",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/editors"
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/editors",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/people"
   ]
 }

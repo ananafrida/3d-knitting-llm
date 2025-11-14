@@ -1,4 +1,5 @@
 {
+  "pattern_id": 194,
   "pattern_page": "https://www.ravelry.com/patterns/library/twiggy-tweed",
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Plymouth Yarn Tweed",
-    "Aran / Worsted ?"
+    "Aran / Worsted ?",
+    "Plymouth Yarn Tweed"
   ],
   "attributes": [
     "other-colorwork",
@@ -21,19 +22,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/editors",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/threads",
     "https://www.ravelry.com/patterns/sources/knitty-fall-2006",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/people",
-    "https://www.ravelry.com/patterns/library/tweedy-mittens",
     "https://www.ravelry.com/patterns/library/twiggy-tweed/yarns",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/report",
-    "https://www.ravelry.com/patterns/library/karaoke-cable-scarf",
     "https://www.ravelry.com/patterns/library/twiggy-tweed/comments",
     "https://www.ravelry.com/patterns/library/potluck-wool-mittenettes",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/threads",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/report",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed",
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/people",
+    "https://www.ravelry.com/patterns/library/tweedy-mittens",
     "https://www.ravelry.com/patterns/library/twiggy-tweed/posts",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed"
+    "https://www.ravelry.com/patterns/library/twiggy-tweed/editors",
+    "https://www.ravelry.com/patterns/library/karaoke-cable-scarf"
   ],
   "name": "Ravelry: Twiggy Tweed pattern by Melissa \"Missa\" Hills"
 }

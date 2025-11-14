@@ -1,4 +1,5 @@
 {
+  "pattern_id": 646,
   "pattern_page": "https://www.ravelry.com/patterns/library/candy-corn-hat",
   "name": "Candy Corn Hat",
   "description": "Worth mentioning - 10/8/14: Over the years lots of knitters have found this hat to run very small. This was my first pattern and the first yarn I worked with when writing up notes was a very squeaky acrylic. The gauges listed were what I found to be true for me.",
@@ -23,17 +24,17 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/three-musketeers-coffee-mitts",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/people",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/yarns",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/report",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat",
-    "https://www.ravelry.com/patterns/library/cowslip",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/threads",
     "https://www.ravelry.com/patterns/library/candy-corn-hat/comments",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/posts",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/editors",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/threads",
     "https://www.ravelry.com/patterns/library/fresh-again",
+    "https://www.ravelry.com/patterns/library/three-musketeers-coffee-mitts",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/posts",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/people",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/report",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/yarns",
+    "https://www.ravelry.com/patterns/library/cowslip",
+    "https://www.ravelry.com/patterns/library/candy-corn-hat/editors",
     "https://www.ravelry.com/patterns/sources/skeins-and-beans"
   ]
 }

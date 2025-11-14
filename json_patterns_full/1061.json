@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1061,
   "pattern_page": "https://www.ravelry.com/patterns/library/gemini-3",
   "craft": "Knitting",
   "category": "Tops → Tee",
@@ -16,8 +17,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Katia Linen",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Katia Linen"
   ],
   "attributes": [
     "adult",
@@ -37,19 +38,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/gemini-3/people",
     "https://www.ravelry.com/patterns/library/gemini-3/comments",
-    "https://www.ravelry.com/patterns/library/gemini-3/posts",
+    "https://www.ravelry.com/patterns/library/gemini-3/report",
+    "https://www.ravelry.com/patterns/library/mens-classic-raglan-pullover",
+    "https://www.ravelry.com/patterns/library/leg-warmers-21",
+    "https://www.ravelry.com/patterns/library/gemini-3/people",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
     "https://www.ravelry.com/patterns/library/gemini-3/editors",
     "https://www.ravelry.com/patterns/library/grace-43",
-    "https://www.ravelry.com/patterns/library/gemini-3/yarns",
-    "https://www.ravelry.com/patterns/library/mens-classic-raglan-pullover",
+    "https://www.ravelry.com/patterns/library/gemini-3/posts",
     "https://www.ravelry.com/patterns/library/gemini-3",
-    "https://www.ravelry.com/patterns/library/leg-warmers-21",
-    "https://www.ravelry.com/patterns/library/gemini-3/report",
-    "https://www.ravelry.com/patterns/sources/knitty-spring--summer-2012",
-    "https://www.ravelry.com/patterns/library/gemini-3/threads"
+    "https://www.ravelry.com/patterns/library/gemini-3/threads",
+    "https://www.ravelry.com/patterns/library/gemini-3/yarns",
+    "https://www.ravelry.com/patterns/sources/knitty-spring--summer-2012"
   ],
   "name": "Ravelry: Gemini pattern by Jane Richmond"
 }

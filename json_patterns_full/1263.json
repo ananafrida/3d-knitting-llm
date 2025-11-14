@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1263,
   "pattern_page": "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck",
   "craft": "Knitting",
   "category": "Softies → Animal",
@@ -20,16 +21,16 @@
   "shape": "softie",
   "download_links": [
     "https://www.ravelry.com/patterns/library/the-sharky-penguin-gigi",
-    "https://cheryx.com/pattern-detail/free-halloween-knitting-pattern",
-    "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck/editors",
-    "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck/report",
     "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck/yarns",
-    "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck/comments",
-    "https://www.ravelry.com/patterns/library/peter-halloween-clown-doll",
     "https://www.ravelry.com/patterns/library/easter-bunny-lala",
-    "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck/people",
+    "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck/report",
+    "https://cheryx.com/pattern-detail/free-halloween-knitting-pattern",
+    "https://www.ravelry.com/patterns/library/peter-halloween-clown-doll",
+    "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck/comments",
+    "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck/editors",
     "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck",
-    "https://www.ravelry.com/patterns/sources/cheryxs-ravelry-store"
+    "https://www.ravelry.com/patterns/sources/cheryxs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/halloween-pumpkin-duck/people"
   ],
   "name": "Ravelry: Halloween Pumpkin Duck pattern by Ngoc Vu"
 }

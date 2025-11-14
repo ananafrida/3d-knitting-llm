@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1824,
   "pattern_page": "https://www.ravelry.com/patterns/library/easy-peasy-string-bag",
   "name": "Easy-peasy string bag",
   "description": "This string bag is extremely simple to make, it knits up in just a few hours. The secret is how it expands when you’re done, the bag will treble in size! It is perfect for produce or as a gift bag. It is loose and stretchy, so will hold a surprising amount.",
@@ -26,12 +27,12 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/report",
-    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/comments",
     "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/editors",
-    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/yarns",
-    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/people",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/comments",
     "https://www.ravelry.com/patterns/sources/sarah-smithies-ravelry-store",
-    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag"
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/report",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/people",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/yarns"
   ]
 }

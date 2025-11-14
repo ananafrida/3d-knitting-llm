@@ -1,4 +1,5 @@
 {
+  "pattern_id": 231,
   "pattern_page": "https://www.ravelry.com/patterns/library/slouch-bag",
   "name": "Slouch Bag",
   "description": "This pattern is now available for free download from our website at www.barenakedwools.com",
@@ -21,17 +22,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/birches-5",
     "https://www.ravelry.com/patterns/library/slouch-bag/yarns",
+    "https://www.ravelry.com/patterns/library/slouch-bag/comments",
     "https://www.ravelry.com/patterns/library/slouch-bag/posts",
     "https://www.ravelry.com/patterns/library/slouch-bag/report",
-    "https://www.ravelry.com/patterns/library/slouch-bag",
     "https://www.ravelry.com/patterns/library/slouch-bag/editors",
-    "https://www.ravelry.com/patterns/library/slouch-bag/comments",
+    "https://www.ravelry.com/patterns/library/birches-5",
+    "https://www.ravelry.com/patterns/sources/knitspot-website",
+    "https://www.ravelry.com/patterns/library/slouch-bag",
     "https://www.ravelry.com/patterns/library/slouch-bag/threads",
     "https://www.ravelry.com/patterns/library/chatwal",
-    "https://www.ravelry.com/patterns/library/slouch-bag/people",
     "https://www.ravelry.com/patterns/library/glasstower",
-    "https://www.ravelry.com/patterns/sources/knitspot-website"
+    "https://www.ravelry.com/patterns/library/slouch-bag/people"
   ]
 }

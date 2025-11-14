@@ -1,4 +1,5 @@
 {
+  "pattern_id": 709,
   "pattern_page": "https://www.ravelry.com/patterns/library/jester-hat",
   "name": "Jester Hat",
   "description": "The Jester is a quick-to-knit and whimsical hat, knit in the round, with I-cord and attached ball on top. Choose a soft super-bulky yarn and knit tightly to keep out the wind and cold. The idea of knitting a ball as a hat topper came Anna Zilboorg’s 45 Fine and Fanciful Hats.",
@@ -26,17 +27,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jester-hat/yarns",
-    "https://www.ravelry.com/patterns/library/jester-hat/comments",
     "https://www.ravelry.com/patterns/library/jester-hat/editors",
-    "https://www.ravelry.com/patterns/library/jester-hat/people",
-    "https://www.ravelry.com/patterns/library/easy-pussy-hat",
-    "https://www.ravelry.com/patterns/library/scrappy-toque",
+    "https://www.ravelry.com/patterns/library/jester-hat/comments",
     "https://www.ravelry.com/patterns/library/jester-hat",
-    "https://www.ravelry.com/patterns/library/scrappy-tube-scarf",
     "https://www.ravelry.com/patterns/sources/sweater-studio-2",
+    "https://www.ravelry.com/patterns/library/scrappy-tube-scarf",
+    "https://www.ravelry.com/patterns/library/jester-hat/yarns",
+    "https://www.ravelry.com/patterns/library/jester-hat/posts",
     "https://www.ravelry.com/patterns/library/jester-hat/report",
+    "https://www.ravelry.com/patterns/library/scrappy-toque",
+    "https://www.ravelry.com/patterns/library/easy-pussy-hat",
     "https://www.ravelry.com/patterns/library/jester-hat/threads",
-    "https://www.ravelry.com/patterns/library/jester-hat/posts"
+    "https://www.ravelry.com/patterns/library/jester-hat/people"
   ]
 }

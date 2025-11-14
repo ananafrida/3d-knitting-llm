@@ -1,4 +1,5 @@
 {
+  "pattern_id": 638,
   "pattern_page": "https://www.ravelry.com/patterns/library/dixie-pixie-hat",
   "name": "Dixie Pixie Hat",
   "description": "DIXIE PIXIE HAT",
@@ -32,16 +33,16 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/dixie-pixie-hat/report",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/comments",
-    "https://www.ravelry.com/patterns/sources/agasalhos-e-bugalhos-on-etsy",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/posts",
-    "https://www.ravelry.com/patterns/library/calendula-kids-sweater",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/threads",
-    "https://www.ravelry.com/patterns/library/maple-baby-overalls",
     "https://www.ravelry.com/patterns/library/dixie-pixie-hat/editors",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/people",
-    "https://www.ravelry.com/patterns/library/clover-baby-diaper-cover-20",
     "https://www.ravelry.com/patterns/library/dixie-pixie-hat/yarns",
-    "https://www.ravelry.com/patterns/library/dixie-pixie-hat"
+    "https://www.ravelry.com/patterns/library/maple-baby-overalls",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/posts",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/comments",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/people",
+    "https://www.ravelry.com/patterns/library/calendula-kids-sweater",
+    "https://www.ravelry.com/patterns/library/clover-baby-diaper-cover-20",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/threads",
+    "https://www.ravelry.com/patterns/sources/agasalhos-e-bugalhos-on-etsy"
   ]
 }

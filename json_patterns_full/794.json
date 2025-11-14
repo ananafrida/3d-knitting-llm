@@ -1,4 +1,5 @@
 {
+  "pattern_id": 794,
   "pattern_page": "https://www.ravelry.com/patterns/library/good-old-raglan",
   "name": "Good Old Raglan",
   "description": "ENGLISH",
@@ -12,8 +13,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Lima"
+    "Garnstudio DROPS Lima",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -35,17 +36,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/good-old-raglan/comments",
-    "https://www.ravelry.com/patterns/library/good-old-raglan/editors",
-    "https://www.ravelry.com/patterns/library/good-old-raglan/people",
+    "https://www.ravelry.com/patterns/library/saxon-hat-2",
+    "https://www.ravelry.com/patterns/library/good-old-raglan",
     "https://www.ravelry.com/patterns/library/good-old-raglan/report",
-    "https://www.ravelry.com/patterns/library/good-old-raglan-cardigan",
+    "https://www.ravelry.com/patterns/library/good-old-raglan/threads",
+    "https://www.ravelry.com/patterns/library/good-old-raglan/editors",
     "https://www.ravelry.com/patterns/library/good-old-raglan/yarns",
     "https://www.ravelry.com/patterns/library/good-old-raglan/posts",
-    "https://www.ravelry.com/patterns/library/good-old-raglan/threads",
+    "https://www.ravelry.com/patterns/library/good-old-raglan/comments",
+    "https://www.ravelry.com/patterns/library/good-old-raglan/people",
+    "https://www.ravelry.com/patterns/library/good-old-raglan-cardigan",
     "https://www.ravelry.com/patterns/library/christmas-sweater-2019",
-    "https://www.ravelry.com/patterns/library/good-old-raglan",
-    "https://www.ravelry.com/patterns/library/saxon-hat-2",
     "https://www.ravelry.com/patterns/sources/twisted-knitwear-ravelry-store"
   ]
 }

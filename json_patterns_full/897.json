@@ -1,4 +1,5 @@
 {
+  "pattern_id": 897,
   "pattern_page": "https://www.ravelry.com/patterns/library/ladybug-scarf-2",
   "name": "Ladybug Scarf",
   "description": "The ladybug scarf is worked in rows back and forth with a faux i-cord edge on each side and a rib pattern with faux 1x1 cables. The scarf is long enough to be wrapped around the neck once and tied in the front. It is ideal for beginners wanting to dip their toes into knitting cables and anyone else who wants a small structured piece to spice up their outfits or add a little bit of cosyness.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Lang Yarns Cashmere Premium",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Lang Yarns Cashmere Premium"
   ],
   "attributes": [
     "adult",
@@ -31,12 +32,12 @@
   "download_links": [
     "https://www.ravelry.com/patterns/library/ladybug-scarf-2/report",
     "https://www.ravelry.com/patterns/library/ladybug-scarf-2/comments",
-    "https://www.ravelry.com/patterns/library/ladybug-scarf-2",
     "https://www.ravelry.com/patterns/library/ladybug-scarf-2/people",
     "https://www.ravelry.com/patterns/library/ladybug-scarf-2/yarns",
-    "https://www.ravelry.com/patterns/sources/eva-komma-stockinettebitchs-ravelry-store",
     "https://www.ravelry.com/patterns/library/ladybug-scarf-2/threads",
     "https://www.ravelry.com/patterns/library/ladybug-scarf-2/editors",
-    "https://www.ravelry.com/patterns/library/small-stupid-hat"
+    "https://www.ravelry.com/patterns/library/ladybug-scarf-2",
+    "https://www.ravelry.com/patterns/library/small-stupid-hat",
+    "https://www.ravelry.com/patterns/sources/eva-komma-stockinettebitchs-ravelry-store"
   ]
 }

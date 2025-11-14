@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1519,
   "pattern_page": "https://www.ravelry.com/patterns/library/petite-pumpkin-3",
   "name": "Petite Pumpkin",
   "description": "Sweet and petite, this pumpkin looks good enough to eat!",
@@ -23,16 +24,16 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fisherman-tuque",
-    "https://www.ravelry.com/patterns/library/building-a-mystery-sockalong",
-    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/yarns",
-    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/report",
-    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/people",
     "https://www.ravelry.com/patterns/library/petite-pumpkin-3/threads",
-    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/editors",
-    "https://www.ravelry.com/patterns/library/petite-pumpkin-3",
     "https://www.ravelry.com/patterns/library/muskoka-santa-sock",
     "https://www.ravelry.com/patterns/sources/a-f-r-e-s-h-y-a-r-n",
-    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/comments"
+    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/yarns",
+    "https://www.ravelry.com/patterns/library/building-a-mystery-sockalong",
+    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/report",
+    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/editors",
+    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/comments",
+    "https://www.ravelry.com/patterns/library/petite-pumpkin-3/people",
+    "https://www.ravelry.com/patterns/library/petite-pumpkin-3",
+    "https://www.ravelry.com/patterns/library/fisherman-tuque"
   ]
 }

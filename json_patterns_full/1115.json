@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1115,
   "pattern_page": "https://www.ravelry.com/patterns/library/berry-t-shirt",
   "craft": "Knitting",
   "category": "Tops → Tee",
@@ -21,8 +22,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Hobbii Friends Kid Silk",
-    "yarn held together"
+    "yarn held together",
+    "Hobbii Friends Kid Silk"
   ],
   "attributes": [
     "adult",
@@ -41,18 +42,18 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/hobbii-website",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/edit",
-    "https://www.ravelry.com/patterns/library/bobbie-13",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/comments",
-    "https://www.ravelry.com/patterns/library/summer-lotus",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/yarns",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/posts",
-    "https://www.ravelry.com/patterns/library/copenhagen-slipover",
     "https://www.ravelry.com/patterns/library/berry-t-shirt/report",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt/editors",
+    "https://www.ravelry.com/patterns/library/copenhagen-slipover",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/posts",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/comments",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/edit",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/yarns",
+    "https://www.ravelry.com/patterns/library/bobbie-13",
     "https://www.ravelry.com/patterns/library/berry-t-shirt/people",
-    "https://www.ravelry.com/patterns/library/berry-t-shirt"
+    "https://www.ravelry.com/patterns/library/berry-t-shirt",
+    "https://www.ravelry.com/patterns/sources/hobbii-website",
+    "https://www.ravelry.com/patterns/library/summer-lotus",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/editors"
   ],
   "name": "Ravelry: Berry T-Shirt pattern by Maria Sølvtofte"
 }

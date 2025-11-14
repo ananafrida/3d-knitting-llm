@@ -1,4 +1,5 @@
 {
+  "pattern_id": 7,
   "pattern_page": "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal",
   "name": "2024 Sampler Blanket Yearly KAL",
   "description": "ERRATUM. There was a mistake in the Dec section, it has been fixed (13 Dec 2024). The PDFs now available have the correct version.",
@@ -29,16 +30,16 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/2023-cable-scarf",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/report",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/people",
-    "https://www.ravelry.com/patterns/sources/cecile-moutons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/threads",
-    "https://www.ravelry.com/patterns/library/brioche-hat-sideways",
     "https://www.ravelry.com/patterns/library/oreilles-au-chaud",
+    "https://www.ravelry.com/patterns/sources/cecile-moutons-ravelry-store",
+    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/report",
+    "https://www.ravelry.com/patterns/library/brioche-hat-sideways",
     "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/comments",
+    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/people",
+    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/threads",
+    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/yarns",
     "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/editors",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/yarns"
+    "https://www.ravelry.com/patterns/library/2023-cable-scarf",
+    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal"
   ]
 }

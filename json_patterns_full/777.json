@@ -1,4 +1,5 @@
 {
+  "pattern_id": 777,
   "pattern_page": "https://www.ravelry.com/patterns/library/tweedy-junior",
   "craft": "Knitting",
   "category": "Sweater → Pullover",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Hedgehog Fibres Merino DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Hedgehog Fibres Merino DK"
   ],
   "attributes": [
     "baby",
@@ -27,20 +28,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tweedy-junior/report",
-    "https://www.ravelry.com/patterns/library/thursday-sweater",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/yarns",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/comments",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
-    "https://www.ravelry.com/patterns/library/tweedy-junior",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/people",
-    "https://www.ravelry.com/patterns/sources/beata-jezeks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/posts",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/editors",
     "https://www.ravelry.com/patterns/library/tweedy-junior/threads",
-    "https://www.ravelry.com/patterns/library/souffle-tee",
+    "https://www.ravelry.com/patterns/library/tweedy-junior/editors",
+    "https://www.ravelry.com/patterns/library/tweedy-junior/yarns",
+    "https://www.ravelry.com/patterns/library/tweedy-junior",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/tweedy-junior/people",
+    "https://www.ravelry.com/patterns/library/thursday-sweater",
+    "https://www.ravelry.com/patterns/library/tweedy-junior/report",
     "https://www.ravelry.com/patterns/library/le-pouf-sweater",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/tweedy-junior"
+    "https://www.ravelry.com/patterns/library/tweedy-junior/posts",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/tweedy-junior",
+    "https://www.ravelry.com/patterns/sources/beata-jezeks-ravelry-store",
+    "https://www.ravelry.com/patterns/library/souffle-tee",
+    "https://www.ravelry.com/patterns/library/tweedy-junior/comments"
   ],
   "name": "Ravelry: Tweedy Junior pattern by Beata Jezek"
 }

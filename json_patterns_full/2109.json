@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2109,
   "pattern_page": "https://www.ravelry.com/patterns/library/berry-baby-hat",
   "name": "Berry Baby Hat",
   "description": "This is a very popular hat as a newborn gift, but it will serve for longer as the deep rolled bottom means the hat will stay put when stretched over a larger head.",
@@ -36,16 +37,16 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/editors",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/posts",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat",
-    "https://www.ravelry.com/patterns/library/scrubby-buddy-soap-holder",
-    "https://www.ravelry.com/patterns/sources/randomstitches-2",
-    "https://www.ravelry.com/patterns/library/my-outie-hat",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/comments",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/threads",
     "https://www.ravelry.com/patterns/library/berry-baby-hat/yarns",
+    "https://www.ravelry.com/patterns/library/my-outie-hat",
+    "https://www.ravelry.com/patterns/library/berry-baby-hat",
     "https://www.ravelry.com/patterns/library/berry-baby-hat/people",
-    "https://www.ravelry.com/patterns/library/berry-baby-hat/report"
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/report",
+    "https://www.ravelry.com/patterns/library/scrubby-buddy-soap-holder",
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/comments",
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/editors",
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/threads",
+    "https://www.ravelry.com/patterns/sources/randomstitches-2",
+    "https://www.ravelry.com/patterns/library/berry-baby-hat/posts"
   ]
 }

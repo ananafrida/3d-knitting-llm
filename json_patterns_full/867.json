@@ -1,4 +1,5 @@
 {
+  "pattern_id": 867,
   "pattern_page": "https://www.ravelry.com/patterns/library/workday-scarf",
   "name": "Workday Scarf",
   "description": "This project is every knitter’s dream, simple to knit and beautiful to wear. The best kind of knitting after a long day at work, garter stitch with a hint of lace.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Araucania Yarns Huasco Multy Botany Lace",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Araucania Yarns Huasco Multy Botany Lace"
   ],
   "attributes": [
     "lace",
@@ -26,14 +27,14 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/workday-scarf",
     "https://www.ravelry.com/patterns/library/workday-scarf/yarns",
-    "https://www.ravelry.com/patterns/library/workday-scarf/editors",
-    "https://www.ravelry.com/patterns/library/workday-scarf/report",
     "https://www.ravelry.com/patterns/library/workday-scarf/posts",
     "https://www.ravelry.com/patterns/library/workday-scarf/comments",
+    "https://www.ravelry.com/patterns/library/workday-scarf/editors",
     "https://www.ravelry.com/patterns/library/workday-scarf/people",
+    "https://www.ravelry.com/patterns/library/workday-scarf/threads",
     "https://www.ravelry.com/patterns/sources/sue-flanders-designs",
-    "https://www.ravelry.com/patterns/library/workday-scarf/threads"
+    "https://www.ravelry.com/patterns/library/workday-scarf/report",
+    "https://www.ravelry.com/patterns/library/workday-scarf"
   ]
 }

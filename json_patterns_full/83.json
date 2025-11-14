@@ -1,4 +1,5 @@
 {
+  "pattern_id": 83,
   "pattern_page": "https://www.ravelry.com/patterns/library/easter-cross-square",
   "name": "Easter Cross Square",
   "description": "The pattern offers two options for this knitted square. The first produces a cross in stockinette stitch with a seed stitch background. The second version substitutes garter stitch for the seed stitch background. Instructions for seed stitch are included.",
@@ -25,16 +26,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easter-cross-square/yarns",
+    "https://www.ravelry.com/patterns/library/cross-walk-square",
+    "https://www.ravelry.com/patterns/library/easter-cross-square/report",
+    "https://www.ravelry.com/patterns/library/daffodowndillies-square",
+    "https://www.ravelry.com/patterns/library/easter-cross-square/editors",
+    "https://www.ravelry.com/patterns/library/easter-cross-square/people",
     "https://www.ravelry.com/patterns/library/cross-purposes-6-inch-square",
     "https://www.ravelry.com/patterns/library/easter-cross-square",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/threads",
-    "https://www.ravelry.com/patterns/library/daffodowndillies-square",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/people",
     "https://www.ravelry.com/patterns/sources/linda-ns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/report",
-    "https://www.ravelry.com/patterns/library/cross-walk-square",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/editors",
+    "https://www.ravelry.com/patterns/library/easter-cross-square/threads",
+    "https://www.ravelry.com/patterns/library/easter-cross-square/yarns",
     "https://www.ravelry.com/patterns/library/easter-cross-square/comments"
   ]
 }

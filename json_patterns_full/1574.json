@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1574,
   "pattern_page": "https://www.ravelry.com/patterns/library/gansey-herring",
   "name": "Gansey Herring",
   "description": "The ‘Gansey Herrings’ were created for the Crafting History project at the Time and Tide Museum of Great Yarmouth Life, funded by the Heritage Lottery Fund.",
@@ -22,14 +23,14 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gansey-herring/comments",
     "https://www.ravelry.com/patterns/library/gansey-herring",
-    "https://www.ravelry.com/patterns/library/gansey-herring/people",
+    "https://www.ravelry.com/patterns/library/gansey-herring/posts",
+    "https://www.ravelry.com/patterns/sources/nita-bruces-ravelry-store",
     "https://www.ravelry.com/patterns/library/gansey-herring/yarns",
+    "https://www.ravelry.com/patterns/library/gansey-herring/people",
     "https://www.ravelry.com/patterns/library/gansey-herring/report",
     "https://www.ravelry.com/patterns/library/gansey-herring/threads",
-    "https://www.ravelry.com/patterns/library/gansey-herring/posts",
     "https://www.ravelry.com/patterns/library/gansey-herring/editors",
-    "https://www.ravelry.com/patterns/sources/nita-bruces-ravelry-store"
+    "https://www.ravelry.com/patterns/library/gansey-herring/comments"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1470,
   "pattern_page": "https://www.ravelry.com/patterns/library/2024-christmas-bauble",
   "name": "2024 Christmas Bauble",
   "description": "This little Christmas Bauble is knitted two-stranded in the round on dpns. The motif depicts snow and snowflakes with the numbers 2024 central on the bauble, and it has a ribbon attached to the top for hanging. For these I’ve used fibre filling, but you may also knit on to a plastic or glass bauble.",
@@ -33,15 +34,15 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/hilde-ropstads-ravelry-store",
-    "https://www.ravelry.com/patterns/library/2025-christmas-bauble",
     "https://www.ravelry.com/patterns/library/2024-christmas-bauble/yarns",
-    "https://www.ravelry.com/patterns/library/dainty-dishcloth-2",
     "https://www.ravelry.com/patterns/library/2024-christmas-bauble",
+    "https://www.ravelry.com/patterns/library/aksel-selbu-mittens",
     "https://www.ravelry.com/patterns/library/2024-christmas-bauble/people",
+    "https://www.ravelry.com/patterns/library/2024-christmas-bauble/comments",
+    "https://www.ravelry.com/patterns/library/2025-christmas-bauble",
+    "https://www.ravelry.com/patterns/sources/hilde-ropstads-ravelry-store",
     "https://www.ravelry.com/patterns/library/2024-christmas-bauble/report",
     "https://www.ravelry.com/patterns/library/2024-christmas-bauble/editors",
-    "https://www.ravelry.com/patterns/library/2024-christmas-bauble/comments",
-    "https://www.ravelry.com/patterns/library/aksel-selbu-mittens"
+    "https://www.ravelry.com/patterns/library/dainty-dishcloth-2"
   ]
 }

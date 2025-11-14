@@ -1,4 +1,5 @@
 {
+  "pattern_id": 345,
   "pattern_page": "https://www.ravelry.com/patterns/library/cat-nip-mouse",
   "name": "Cat Nip Mouse",
   "description": "The pattern is free but if I find out the pattern is being sold for profit, watch out",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Twilleys of Stamford Freedom Spirit",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Twilleys of Stamford Freedom Spirit"
   ],
   "attributes": [
     "seamed",
@@ -21,15 +22,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/people",
+    "https://www.ravelry.com/patterns/library/tissue-pouch",
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/comments",
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/editors",
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/yarns",
+    "https://www.ravelry.com/patterns/sources/reefgirls-ravelry-downloads",
     "https://www.ravelry.com/patterns/library/preemie-beanie-2",
     "https://www.ravelry.com/patterns/library/cat-nip-mouse",
     "https://www.ravelry.com/patterns/library/the-stig",
-    "https://www.ravelry.com/patterns/library/cat-nip-mouse/report",
-    "https://www.ravelry.com/patterns/sources/reefgirls-ravelry-downloads",
-    "https://www.ravelry.com/patterns/library/tissue-pouch",
-    "https://www.ravelry.com/patterns/library/cat-nip-mouse/comments",
-    "https://www.ravelry.com/patterns/library/cat-nip-mouse/yarns",
-    "https://www.ravelry.com/patterns/library/cat-nip-mouse/people",
-    "https://www.ravelry.com/patterns/library/cat-nip-mouse/editors"
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/report"
   ]
 }

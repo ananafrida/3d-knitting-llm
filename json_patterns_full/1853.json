@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1853,
   "pattern_page": "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket",
   "name": "Tidy Textures Bathmat & Basket",
   "description": "A soft, cozy, textured bathmat and basket worked in linen stitch. The designs are easy to knit yet look impressive, with a polished, non-handmade appearance. The basket is optionally finished with leather handles, attached using leather cord. Both patterns are easy to adjust in size, if desired.",
@@ -30,12 +31,12 @@
   "shape": "cylinder",
   "download_links": [
     "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/people",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/comments",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/editors",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/report",
+    "https://www.ravelry.com/patterns/sources/after-9-to-5-ravelry-store",
     "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/yarns",
     "https://www.ravelry.com/patterns/library/sea--sand-tee",
-    "https://www.ravelry.com/patterns/sources/after-9-to-5-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket"
+    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket",
+    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/comments",
+    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/report",
+    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/editors"
   ]
 }

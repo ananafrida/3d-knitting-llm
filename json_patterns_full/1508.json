@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1508,
   "pattern_page": "https://www.ravelry.com/patterns/library/fairy-village",
   "name": "Fairy Village",
   "description": "My Fairy Village consists of 3 patterns: A Toadstool House, A Knitted Acorn Capped House and a Real Acorn Capped House. All of them are knit on dpns, in the round. Decorations are done with embroidery (there are how to videos). Have fun making your ultimate fairy village!",
@@ -25,15 +26,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fairy-village",
-    "https://www.ravelry.com/patterns/library/fairy-village/yarns",
-    "https://www.ravelry.com/patterns/library/fairy-village/report",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/fairy-village/people",
     "https://www.ravelry.com/patterns/library/acorn-streetlamp",
+    "https://www.ravelry.com/patterns/library/fairy-village/comments",
+    "https://www.ravelry.com/patterns/library/fairy-village/report",
     "https://www.ravelry.com/patterns/library/tiny-nutcrackers",
-    "https://www.ravelry.com/patterns/library/fairy-village/editors",
+    "https://www.ravelry.com/patterns/library/fairy-village/yarns",
+    "https://www.ravelry.com/patterns/library/fairy-village",
     "https://www.ravelry.com/patterns/library/a-visit-from-saint-nicholas",
-    "https://www.ravelry.com/patterns/library/fairy-village/comments"
+    "https://www.ravelry.com/patterns/library/fairy-village/people",
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/fairy-village/editors"
   ]
 }

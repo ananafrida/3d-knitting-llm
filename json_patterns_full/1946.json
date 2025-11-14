@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1946,
   "pattern_page": "https://www.ravelry.com/patterns/library/woodland-wreath-oak",
   "name": "Woodland Wreath, Oak",
   "description": "This is the third in a series of twelve linked patterns for a knitted wreath, to be published daily in December 2013.",
@@ -22,18 +23,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/report",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/people",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-holly",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/editors",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/threads",
-    "https://www.ravelry.com/patterns/sources/knit-a-vintage-christmas",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/yarns",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/posts",
     "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/comments"
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/people",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/report",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/yarns",
+    "https://www.ravelry.com/patterns/sources/knit-a-vintage-christmas",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/threads",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/editors",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/comments",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-holly",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak/posts"
   ]
 }

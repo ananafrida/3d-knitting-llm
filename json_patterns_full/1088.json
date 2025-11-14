@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1088,
   "pattern_page": "https://www.ravelry.com/patterns/library/aigues",
   "name": "Aigues",
   "description": "The tee is worked from the top down with Half Twisted Rib on the shoulders and neckline shaping. The upper body is worked flat to desired armhole depth, then front and back are joined to work the lower body in the round. The lace pattern flows from and towards Half Twisted Rib for the hem. Stitches are picked up around the armhole to work a small Half Twisted Rib edging, and around the neckline to bind-off immediately and create a neat line.",
@@ -46,19 +47,19 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/aigues/yarns",
-    "https://www.ravelry.com/patterns/library/aigues/report",
-    "https://www.ravelry.com/patterns/library/aigues/comments",
-    "https://www.ravelry.com/patterns/sources/making-stories-magazine-issue-11",
     "https://www.ravelry.com/patterns/library/catechu",
-    "https://www.ravelry.com/patterns/periodicals/making-stories-magazine",
-    "https://www.ravelry.com/patterns/library/aigues/threads",
-    "https://www.ravelry.com/patterns/library/aigues/editors",
-    "https://making-stories.com/collections/issue-11-patterns/products/aigues-t-shirt",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/molecule-2",
-    "https://www.ravelry.com/patterns/library/aigues/people",
     "https://www.ravelry.com/patterns/library/tya",
-    "https://www.ravelry.com/patterns/library/aigues"
+    "https://www.ravelry.com/patterns/library/aigues/comments",
+    "https://www.ravelry.com/patterns/periodicals/making-stories-magazine",
+    "https://www.ravelry.com/patterns/sources/making-stories-magazine-issue-11",
+    "https://making-stories.com/collections/issue-11-patterns/products/aigues-t-shirt",
+    "https://www.ravelry.com/patterns/library/aigues/report",
+    "https://www.ravelry.com/patterns/library/molecule-2",
+    "https://www.ravelry.com/patterns/library/aigues",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/aigues/people",
+    "https://www.ravelry.com/patterns/library/aigues/yarns",
+    "https://www.ravelry.com/patterns/library/aigues/editors",
+    "https://www.ravelry.com/patterns/library/aigues/threads"
   ]
 }

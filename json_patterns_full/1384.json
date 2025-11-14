@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1384,
   "pattern_page": "https://www.ravelry.com/patterns/library/acorn-lantern",
   "name": "Acorn Lantern",
   "description": "These adorable Acorn Lanterns are knit entirely in the round, from the bottom up, on dpns. The candle is embroidered on using a chain stitch. The bottom has been left open, so that they can stand independently and so the embroidery is easier to do. I hope they bring joy.",
@@ -25,16 +26,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/acorn-lantern",
     "https://www.ravelry.com/patterns/library/daffodil-bulb-vase",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/threads",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/santa-lucia-4",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/editors",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/comments",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/yarns",
-    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes",
+    "https://www.ravelry.com/patterns/library/acorn-lantern/people",
+    "https://www.ravelry.com/patterns/library/acorn-lantern",
     "https://www.ravelry.com/patterns/library/acorn-lantern/report",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/people"
+    "https://www.ravelry.com/patterns/library/acorn-lantern/yarns",
+    "https://www.ravelry.com/patterns/library/santa-lucia-4",
+    "https://www.ravelry.com/patterns/library/acorn-lantern/comments",
+    "https://www.ravelry.com/patterns/library/acorn-lantern/threads",
+    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes",
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/acorn-lantern/editors"
   ]
 }

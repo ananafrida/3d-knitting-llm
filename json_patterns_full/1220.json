@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1220,
   "pattern_page": "https://www.ravelry.com/patterns/library/wabbit-the-rabbit",
   "name": "Wabbit the Rabbit",
   "description": "“Hello, Rabbit,” he (Pooh) said, “Is that you?”",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Cardiff Cashmere Classic",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Cardiff Cashmere Classic"
   ],
   "attributes": [
     "modular",
@@ -28,18 +29,18 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/people",
-    "https://www.ravelry.com/patterns/library/pooh-bear-4",
-    "https://www.ravelry.com/patterns/library/wol-the-owl",
-    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/editors",
-    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/report",
-    "https://www.ravelry.com/patterns/library/kanga-kangaroo",
     "https://www.ravelry.com/patterns/library/eeyore-20",
-    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit",
-    "https://www.ravelry.com/patterns/library/piglet-doll-2",
     "https://www.ravelry.com/patterns/library/tigger-18",
-    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit",
+    "https://www.ravelry.com/patterns/library/kanga-kangaroo",
     "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/threads",
     "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/comments",
+    "https://www.ravelry.com/patterns/library/piglet-doll-2",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/editors",
+    "https://www.ravelry.com/patterns/library/pooh-bear-4",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/report",
+    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/wol-the-owl",
     "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/yarns",
     "https://www.ravelry.com/patterns/library/roo-from-winnie-the-pooh"
   ]

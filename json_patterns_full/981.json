@@ -1,4 +1,5 @@
 {
+  "pattern_id": 981,
   "pattern_page": "https://www.ravelry.com/patterns/library/doddy",
   "craft": "Knitting",
   "category": "Ball",
@@ -22,18 +23,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/doddy/comments",
-    "https://www.ravelry.com/patterns/library/torc-cardigan",
-    "https://www.ravelry.com/patterns/library/doddy/yarns",
-    "https://www.ravelry.com/patterns/library/doddy/report",
-    "https://www.ravelry.com/patterns/library/doddy/threads",
-    "https://www.ravelry.com/patterns/library/doddy/people",
-    "https://www.ravelry.com/patterns/library/doddy",
     "https://www.ravelry.com/patterns/sources/knitty-winter-2007",
+    "https://www.ravelry.com/patterns/library/doddy/threads",
+    "https://www.ravelry.com/patterns/library/doddy/report",
+    "https://www.ravelry.com/patterns/library/doddy/comments",
+    "https://www.ravelry.com/patterns/library/doddy/yarns",
     "https://www.ravelry.com/patterns/library/doddy/posts",
     "https://www.ravelry.com/patterns/library/galanta-2",
-    "https://www.ravelry.com/patterns/library/burren-shawl",
+    "https://www.ravelry.com/patterns/library/torc-cardigan",
+    "https://www.ravelry.com/patterns/library/doddy",
+    "https://www.ravelry.com/patterns/library/doddy/people",
     "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/burren-shawl",
     "https://www.ravelry.com/patterns/library/doddy/editors"
   ],
   "name": "Ravelry: Doddy pattern by Carol Feller"

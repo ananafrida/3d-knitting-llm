@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1959,
   "pattern_page": "https://www.ravelry.com/patterns/library/rusetti-2",
   "name": "Rusetti",
   "description": "Two sizes, normal and big one. You can use any yarn you want to, gauge is not that relevant with this pattern.",
@@ -11,8 +12,8 @@
     "Finnish"
   ],
   "suggested_yarn": [
-    "Novita Kotiväki",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Novita Kotiväki"
   ],
   "attributes": [
     "phototutorial",
@@ -24,17 +25,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/zetor",
     "https://www.ravelry.com/patterns/library/rusetti-2/threads",
-    "https://www.ravelry.com/patterns/library/mario-3",
-    "https://www.ravelry.com/patterns/library/rusetti-2/editors",
-    "https://www.ravelry.com/patterns/library/rusetti-2/report",
-    "https://www.ravelry.com/patterns/library/rusetti-2",
-    "https://www.ravelry.com/patterns/library/rusetti-2/comments",
-    "https://www.ravelry.com/patterns/library/rusetti-2/yarns",
     "https://www.ravelry.com/patterns/sources/jatta-pauliina",
     "https://www.ravelry.com/patterns/library/bintje",
+    "https://www.ravelry.com/patterns/library/rusetti-2/yarns",
     "https://www.ravelry.com/patterns/library/rusetti-2/posts",
-    "https://www.ravelry.com/patterns/library/rusetti-2/people"
+    "https://www.ravelry.com/patterns/library/mario-3",
+    "https://www.ravelry.com/patterns/library/rusetti-2",
+    "https://www.ravelry.com/patterns/library/rusetti-2/people",
+    "https://www.ravelry.com/patterns/library/zetor",
+    "https://www.ravelry.com/patterns/library/rusetti-2/report",
+    "https://www.ravelry.com/patterns/library/rusetti-2/comments",
+    "https://www.ravelry.com/patterns/library/rusetti-2/editors"
   ]
 }

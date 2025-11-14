@@ -1,4 +1,5 @@
 {
+  "pattern_id": 853,
   "pattern_page": "https://www.ravelry.com/patterns/library/kilometre-scarf",
   "name": "Kilometre Scarf",
   "description": "The Kilometre Scarf is a soft, double layered stockinette scarf with no visible wrong side. It uses one kilometre of your preferred DK weight yarn to create a piece you’ll reach for all winter.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Skall Studio Recycled Cashmere"
+    "Skall Studio Recycled Cashmere",
+    "yarn held together"
   ],
   "attributes": [
     "in-the-round",
@@ -22,15 +23,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/kilometre-scarf/yarns",
-    "https://www.ravelry.com/patterns/library/kilometre-scarf",
+    "https://www.ravelry.com/patterns/library/mountain-walk-socks",
+    "https://www.ravelry.com/patterns/library/kilometre-scarf/people",
     "https://www.ravelry.com/patterns/library/may-ball-wrap",
     "https://www.ravelry.com/patterns/sources/florence-millers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/kilometre-scarf/people",
+    "https://www.ravelry.com/patterns/library/kilometre-scarf/editors",
     "https://www.ravelry.com/patterns/library/kilometre-scarf/report",
-    "https://www.ravelry.com/patterns/library/kilometre-scarf/comments",
+    "https://www.ravelry.com/patterns/library/kilometre-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/kilometre-scarf",
     "https://www.ravelry.com/patterns/library/mixed-rib-cami",
-    "https://www.ravelry.com/patterns/library/mountain-walk-socks",
-    "https://www.ravelry.com/patterns/library/kilometre-scarf/editors"
+    "https://www.ravelry.com/patterns/library/kilometre-scarf/comments"
   ]
 }

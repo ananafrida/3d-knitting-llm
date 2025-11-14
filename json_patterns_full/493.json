@@ -1,4 +1,5 @@
 {
+  "pattern_id": 493,
   "pattern_page": "https://www.ravelry.com/patterns/library/elbrook-cowl",
   "name": "Elbrook Cowl",
   "description": "Like the Elbrook Cowl? Be sure to check out the Elbrook Hat as well! And be on the lookout for the Elbrook Sweater. Testing call coming soon, check my Instagram!",
@@ -31,15 +32,15 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/dark-academia",
-    "https://www.ravelry.com/patterns/library/elbrook-cowl/editors",
-    "https://www.ravelry.com/patterns/library/elbrook-hat",
-    "https://www.ravelry.com/patterns/sources/river-road-knits",
-    "https://www.ravelry.com/patterns/library/elbrook-cowl/comments",
-    "https://www.ravelry.com/patterns/library/elbrook-cowl/people",
     "https://www.ravelry.com/patterns/library/light-academia",
+    "https://www.ravelry.com/patterns/library/elbrook-cowl/people",
+    "https://www.ravelry.com/patterns/library/elbrook-hat",
+    "https://www.ravelry.com/patterns/library/elbrook-cowl",
+    "https://www.ravelry.com/patterns/sources/river-road-knits",
+    "https://www.ravelry.com/patterns/library/dark-academia",
     "https://www.ravelry.com/patterns/library/elbrook-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/elbrook-cowl/report",
-    "https://www.ravelry.com/patterns/library/elbrook-cowl"
+    "https://www.ravelry.com/patterns/library/elbrook-cowl/comments",
+    "https://www.ravelry.com/patterns/library/elbrook-cowl/editors",
+    "https://www.ravelry.com/patterns/library/elbrook-cowl/report"
   ]
 }

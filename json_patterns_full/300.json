@@ -1,4 +1,5 @@
 {
+  "pattern_id": 300,
   "pattern_page": "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love",
   "craft": "Knitting",
   "category": "Pet → Toys",
@@ -21,18 +22,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/light-and-lacy-throw",
-    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/editors",
+    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/report",
     "https://www.ravelry.com/patterns/library/off-to-class-guernsey-pullover",
-    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love",
-    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/comments",
-    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/yarns",
-    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/people",
     "https://www.ravelry.com/patterns/periodicals/better-homes-and-gardens-books-and-special-interest-publications",
     "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/edit",
-    "https://www.ravelry.com/patterns/library/too-cute-cowl-neck",
+    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/people",
+    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/editors",
+    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love",
     "https://www.ravelry.com/patterns/sources/better-homes-and-gardens-online",
-    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/report"
+    "https://www.ravelry.com/patterns/library/light-and-lacy-throw",
+    "https://www.ravelry.com/patterns/library/too-cute-cowl-neck",
+    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/comments",
+    "https://www.ravelry.com/patterns/library/knit-a-toy-fido-will-love/yarns"
   ],
   "name": "Ravelry: Knit a Toy Fido Will Love pattern by Better Homes and Gardens"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 69,
   "pattern_page": "https://www.ravelry.com/patterns/library/duck-picture-square",
   "craft": "Knitting",
   "category": "Afghan block",
@@ -20,17 +21,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/duck-picture-square/comments",
-    "https://www.ravelry.com/patterns/library/star-picture-square",
-    "https://www.ravelry.com/patterns/library/whale-picture-square",
-    "https://www.ravelry.com/patterns/library/duck-picture-square",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/yarns",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/people",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/threads",
     "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/sailboat-picture-square",
     "https://www.ravelry.com/patterns/library/duck-picture-square/editors",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/report"
+    "https://www.ravelry.com/patterns/library/duck-picture-square",
+    "https://www.ravelry.com/patterns/library/duck-picture-square/threads",
+    "https://www.ravelry.com/patterns/library/whale-picture-square",
+    "https://www.ravelry.com/patterns/library/star-picture-square",
+    "https://www.ravelry.com/patterns/library/duck-picture-square/yarns",
+    "https://www.ravelry.com/patterns/library/duck-picture-square/report",
+    "https://www.ravelry.com/patterns/library/duck-picture-square/comments",
+    "https://www.ravelry.com/patterns/library/duck-picture-square/people",
+    "https://www.ravelry.com/patterns/library/sailboat-picture-square"
   ],
   "name": "Ravelry: Duck Picture Square pattern by marianna mel"
 }

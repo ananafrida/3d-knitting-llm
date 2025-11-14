@@ -1,4 +1,5 @@
 {
+  "pattern_id": 871,
   "pattern_page": "https://www.ravelry.com/patterns/library/bescarfed-scarf",
   "name": "Bescarfed scarf",
   "description": "The scarf is worked flat as a one-piece with nice built-in edges that do not curl.",
@@ -28,11 +29,11 @@
   "download_links": [
     "https://www.ravelry.com/patterns/sources/marina-morozovas-ravelry-store",
     "https://www.ravelry.com/patterns/library/bescarfed-scarf/comments",
-    "https://www.ravelry.com/patterns/library/bescarfed-scarf/yarns",
-    "https://www.ravelry.com/patterns/library/bescarfed-scarf/report",
     "https://www.ravelry.com/patterns/library/bescarfed-scarf",
+    "https://www.ravelry.com/patterns/library/bescarfed-scarf/editors",
+    "https://www.ravelry.com/patterns/library/bescarfed-scarf/report",
     "https://www.ravelry.com/patterns/library/bescarfed-scarf/people",
-    "https://www.ravelry.com/patterns/library/bescarfed-scarf/threads",
-    "https://www.ravelry.com/patterns/library/bescarfed-scarf/editors"
+    "https://www.ravelry.com/patterns/library/bescarfed-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/bescarfed-scarf/threads"
   ]
 }

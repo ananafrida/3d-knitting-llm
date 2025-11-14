@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1688,
   "pattern_page": "https://www.ravelry.com/patterns/library/beginner-cardigan-2",
   "name": "Beginner Cardigan",
   "description": "This pattern comes with a full step-by-step video tutorial linked here. Download the pattern for free and knit alongside the video perfect for beginners. If you know how to work a knit stitch and a purl stitch you can knit this cardigan.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Premier Yarns Everyday Worsted Solids, Marls & Heathers"
+    "Premier Yarns Everyday Worsted Solids, Marls & Heathers",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -35,16 +36,16 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/craggy-shore",
-    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/people",
+    "https://www.ravelry.com/patterns/library/beginner-cardigan-2",
     "https://www.ravelry.com/patterns/library/huckleberry-2",
-    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/report",
+    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/threads",
+    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/comments",
+    "https://www.ravelry.com/patterns/library/craggy-shore",
     "https://www.ravelry.com/patterns/library/beginner-cardigan-2/yarns",
+    "https://www.ravelry.com/patterns/sources/the-blue-mouse",
+    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/report",
     "https://www.ravelry.com/patterns/library/beginner-cardigan-2/editors",
     "https://www.ravelry.com/patterns/library/vanilla-socks-7",
-    "https://www.ravelry.com/patterns/sources/the-blue-mouse",
-    "https://www.ravelry.com/patterns/library/beginner-cardigan-2",
-    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/comments",
-    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/threads"
+    "https://www.ravelry.com/patterns/library/beginner-cardigan-2/people"
   ]
 }

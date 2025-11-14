@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1467,
   "pattern_page": "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments",
   "name": "Mini Christmas Stocking Ornaments",
   "description": "Update November 19th 2015: There is now a free PDF file available for this pattern",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Rowan 4 Ply Cotton",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Rowan 4 Ply Cotton"
   ],
   "attributes": [
     "chart",
@@ -26,19 +27,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/yarns",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/posts",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/editors",
     "http://littlecottonrabbits.typepad.co.uk/free_knitting_patterns/2007/06/knitted_mini_ch.html",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments",
+    "https://www.ravelry.com/bundles/free-patterns-441",
+    "https://www.ravelry.com/patterns/library/bunny-with-a-striped-sweater",
+    "https://www.ravelry.com/patterns/library/bunny-in-a-dotty-dress",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/people",
     "https://www.ravelry.com/patterns/sources/little-cotton-rabbits",
     "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/comments",
-    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/editors",
-    "https://www.ravelry.com/patterns/library/bunny-in-a-dotty-dress",
-    "https://www.ravelry.com/bundles/free-patterns-441",
-    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations",
-    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/posts",
     "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/threads",
     "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/report",
-    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/people",
-    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments",
-    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/yarns",
-    "https://www.ravelry.com/patterns/library/bunny-with-a-striped-sweater"
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations"
   ]
 }

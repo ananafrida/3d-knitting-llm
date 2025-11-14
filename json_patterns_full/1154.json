@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1154,
   "pattern_page": "https://www.ravelry.com/patterns/library/daisy-may",
   "name": "Daisy May",
   "description": "Daisy May is a sweet little doll, and makes a quick knitting project to use up odds and ends of yarn. Designed by Amanda Berry @fluffandfuzz, the doll is knitted in acrylic DK yarns on single pointed needles (not in the round).",
@@ -26,17 +27,17 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/daisy-may/people",
+    "https://www.ravelry.com/patterns/library/kevin-the-penguin",
+    "https://www.ravelry.com/patterns/library/daisy-may/editors",
+    "https://www.ravelry.com/patterns/library/daisy-may/report",
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/daisy-may/threads",
     "https://www.ravelry.com/patterns/library/daisy-may",
     "https://www.ravelry.com/patterns/library/daisy-may/yarns",
-    "https://www.ravelry.com/patterns/library/kevin-the-penguin",
-    "https://www.ravelry.com/patterns/library/daisy-may/comments",
-    "https://www.ravelry.com/patterns/library/daisy-may/report",
-    "https://www.ravelry.com/patterns/library/daisy-may/threads",
-    "https://www.ravelry.com/patterns/library/santa-and-snowman",
-    "https://www.ravelry.com/bundles/free-patterns-500",
-    "https://www.ravelry.com/patterns/library/daisy-may/editors",
-    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
     "https://www.ravelry.com/patterns/library/dinky-reindeer",
-    "https://www.ravelry.com/patterns/library/daisy-may/people"
+    "https://www.ravelry.com/patterns/library/daisy-may/comments",
+    "https://www.ravelry.com/patterns/library/santa-and-snowman"
   ]
 }

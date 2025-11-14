@@ -1,4 +1,5 @@
 {
+  "pattern_id": 569,
   "pattern_page": "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket",
   "craft": "Knitting",
   "category": "Blanket → Baby Blanket",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Hayfield Baby Blossom Chunky"
+    "Hayfield Baby Blossom Chunky",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "one-piece",
@@ -21,14 +22,14 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/yarns",
-    "https://www.ravelry.com/patterns/sources/wool--company-2",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/editors",
     "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/people",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/threads",
-    "https://www.ravelry.com/patterns/library/ondinas-boot-cuffs",
     "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/report",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/comments"
+    "https://www.ravelry.com/patterns/sources/wool--company-2",
+    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/comments",
+    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/editors",
+    "https://www.ravelry.com/patterns/library/ondinas-boot-cuffs",
+    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/threads",
+    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/people"
   ],
   "name": "Ravelry: Easy Baby Car-Seat Blanket pattern by Autumn Burns"
 }

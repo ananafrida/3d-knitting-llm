@@ -1,4 +1,5 @@
 {
+  "pattern_id": 12,
   "pattern_page": "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii",
   "name": "Weldon's Leaf and Dart II",
   "description": "I started with Weldon’s Leaf and Dart pattern in Weldon’s Practical Needlework, vol. 3, pp.6-8. It wasn’t quite what I wanted, so I changed some things. The leaf section is larger and the dart section is smaller than the original. I also omitted Weldon’s partial darts.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Aunt Lydia's Classic 10 Crochet Thread",
-    "Thread ?"
+    "Thread ?",
+    "Aunt Lydia's Classic 10 Crochet Thread"
   ],
   "attributes": [
     "bottom-up",
@@ -23,15 +24,15 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/people",
+    "https://www.ravelry.com/patterns/library/priscillas-vine-afghan-strip",
+    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii",
+    "https://www.ravelry.com/patterns/library/weldons-branch-block",
     "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/report",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/editors",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/yarns",
     "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/comments",
     "https://www.ravelry.com/patterns/library/flat-leaf-on-garter-stitch",
-    "https://www.ravelry.com/patterns/library/weldons-branch-block",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii",
-    "https://www.ravelry.com/patterns/library/priscillas-vine-afghan-strip"
+    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/yarns",
+    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/people",
+    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/editors",
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store"
   ]
 }

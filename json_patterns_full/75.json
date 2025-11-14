@@ -1,4 +1,5 @@
 {
+  "pattern_id": 75,
   "pattern_page": "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square",
   "name": "Zodiac Icons Blanket: Scorpio Square",
   "description": "This listing is for the Scorpio square of the Zodiac Icons Blanket Knit-Along.",
@@ -27,18 +28,18 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square/report",
     "https://www.ravelry.com/patterns/sources/zodiac-icons-blanket",
-    "https://www.ravelry.com/patterns/sources/zodiac-icons-blanket-kal",
-    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square/yarns",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square/editors",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square/comments",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square/report",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square/people",
+    "https://www.ravelry.com/patterns/sources/zodiac-icons-blanket-kal",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-sagittarius-square",
+    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-libra-square",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-capricorn-square",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square/editors",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-sagittarius-square",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square",
-    "https://www.ravelry.com/patterns/sources/two-of-wands",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square/people",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square/yarns"
+    "https://www.ravelry.com/patterns/sources/two-of-wands"
   ]
 }

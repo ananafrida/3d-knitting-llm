@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1831,
   "pattern_page": "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2",
   "name": "Large Shallow Felted Bowl",
   "description": "From the pattern: “One skein of Noro Kureyon or another worsted-weight yarn…I would recommend knitting the bowl with two strands held together if you want to put anything heavier or bigger than coins or jewelry in it. For instance, I need a bowl knit with two strands to keep my reading glasses in.”",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Noro Kureyon（くれよん）"
+    "Noro Kureyon（くれよん）",
+    "yarn held together"
   ],
   "attributes": [
     "circle-shaped",
@@ -26,17 +27,17 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/threads",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/report",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/editors",
-    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-smaller-opening",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/people",
-    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
-    "https://www.ravelry.com/patterns/sources/deborah-does-navel-gazing",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/yarns",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/posts",
     "http://www.deborahgray.org/2006/11/25/knitted-felted-bowl-pattern/",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/comments",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/people",
+    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-bottom-welt",
+    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-smaller-opening",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/report",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/posts",
+    "https://www.ravelry.com/patterns/sources/deborah-does-navel-gazing",
     "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2",
-    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-bottom-welt"
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/yarns",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/editors",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/comments"
   ]
 }

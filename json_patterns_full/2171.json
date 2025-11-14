@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2171,
   "pattern_page": "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat",
   "name": "Bear Ears Beanie Hat",
   "description": "Our patterns are available for free on our blog or purchase and download the ad-free PDF file here. www.foxandpinestitches.com",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Loops & Threads Impeccable Tweed",
-    "Aran (8 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Loops & Threads Impeccable Tweed"
   ],
   "attributes": [
     "adult",
@@ -28,18 +29,18 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/people",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/editors",
+    "https://www.ravelry.com/patterns/sources/fox--pine-stitches-website",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/report",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/comments",
     "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat",
     "https://www.ravelry.com/patterns/library/santa-cap-christmas-hat",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/comments",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/threads",
     "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/posts",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/yarns",
+    "https://www.ravelry.com/patterns/library/wooly-bear-ears-hat",
     "https://www.ravelry.com/patterns/library/bear-hat-ears-toque-baby",
     "https://www.ravelry.com/patterns/sources/fox--pine-stitches",
-    "https://www.foxandpinestitches.com/bear-ears-worsted-weight-hat-free-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/threads",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/report",
-    "https://www.ravelry.com/patterns/library/wooly-bear-ears-hat",
-    "https://www.ravelry.com/patterns/sources/fox--pine-stitches-website",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/editors",
-    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/yarns"
+    "https://www.foxandpinestitches.com/bear-ears-worsted-weight-hat-free-knitting-pattern/"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 447,
   "pattern_page": "https://www.ravelry.com/patterns/library/anthology-2",
   "name": "Anthology",
   "description": "",
@@ -33,20 +34,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/sources/strange-brew",
+    "https://www.ravelry.com/patterns/library/anthology-2/yarns",
     "https://www.ravelry.com/patterns/library/anthology-2/threads",
+    "https://www.ravelry.com/patterns/library/anthology-2/people",
+    "https://www.ravelry.com/patterns/sources/strange-brew/patterns",
+    "https://www.ravelry.com/patterns/library/anthology-2/posts",
     "https://www.ravelry.com/patterns/library/strange-brew",
     "https://www.ravelry.com/patterns/library/anthology-2/editors",
-    "https://www.ravelry.com/patterns/library/anthology-2/report",
-    "https://www.ravelry.com/patterns/library/anthology-2",
-    "https://www.ravelry.com/patterns/library/anthology-2/people",
-    "https://www.ravelry.com/patterns/library/anthology-2/yarns",
-    "https://www.ravelry.com/patterns/sources/strange-brew",
-    "https://www.ravelry.com/patterns/library/anthology-2/comments",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/mountain-mist-hat",
-    "https://www.ravelry.com/patterns/library/anthology-2/posts",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
     "https://www.ravelry.com/patterns/library/clayoquot-toque",
-    "https://www.ravelry.com/patterns/sources/strange-brew/patterns"
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/anthology-2/report",
+    "https://www.ravelry.com/patterns/library/anthology-2/comments",
+    "https://www.ravelry.com/patterns/library/anthology-2",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
+    "https://www.ravelry.com/patterns/library/mountain-mist-hat"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1042,
   "pattern_page": "https://www.ravelry.com/patterns/library/sintara",
   "name": "Sintara",
   "description": "Sintara is a raglan tee worked from the top down with a simple all-over texture on the body and loose stockinette sleeves.",
@@ -39,16 +40,16 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/sintara/yarns",
     "https://www.ravelry.com/patterns/library/sintara/threads",
-    "https://www.ravelry.com/patterns/library/sintara/report",
-    "https://www.ravelry.com/patterns/library/sintara/comments",
+    "https://www.ravelry.com/patterns/library/sintara/editors",
     "https://www.ravelry.com/patterns/library/felise",
     "https://www.ravelry.com/patterns/library/isonoe",
-    "https://www.ravelry.com/patterns/library/sintara/editors",
-    "https://www.ravelry.com/patterns/library/sintara",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
     "https://www.ravelry.com/patterns/library/maika-2",
-    "https://www.ravelry.com/patterns/library/sintara/yarns",
-    "https://www.ravelry.com/patterns/library/sintara/people"
+    "https://www.ravelry.com/patterns/library/sintara/people",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sintara",
+    "https://www.ravelry.com/patterns/library/sintara/report",
+    "https://www.ravelry.com/patterns/library/sintara/comments"
   ]
 }

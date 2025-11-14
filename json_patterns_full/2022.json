@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2022,
   "pattern_page": "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln",
   "name": "Türkische Ferse/ stricken o. häkeln",
   "description": "Nachträglich gearbeitete Ferse - eingestrickt oder eingehäkelt",
@@ -10,8 +11,8 @@
     "German"
   ],
   "suggested_yarn": [
-    "Sundara Yarn Sock",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Sundara Yarn Sock"
   ],
   "attributes": [
     "afterthought-heel"
@@ -20,16 +21,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/comments",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/yarns",
     "https://www.ravelry.com/patterns/sources/facile-et-beau---gusta",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/posts",
-    "https://www.ravelry.com/patterns/library/katzenpfoten-socken",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/editors",
     "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/people",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/report",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/posts",
     "https://www.ravelry.com/patterns/library/einhorn-schal",
     "https://www.ravelry.com/patterns/library/hakelrosen",
+    "https://www.ravelry.com/patterns/library/katzenpfoten-socken",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/comments",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/editors",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/report",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/yarns",
     "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 667,
   "pattern_page": "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen",
   "name": "wald-zwergenmützchen",
   "description": "Größe einfach variierbar: je 4 Maschen hinzufügen um das Mützchen größer zu stricken",
@@ -11,8 +12,8 @@
     "German"
   ],
   "suggested_yarn": [
-    "Silke Peo 30",
-    "Thread ?"
+    "Thread ?",
+    "Silke Peo 30"
   ],
   "attributes": [
     "written-pattern"
@@ -21,17 +22,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/einfache-herrenmutze",
+    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/editors",
+    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/comments",
     "https://www.ravelry.com/patterns/library/stulpen-2",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/yarns",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/report",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/threads",
     "https://www.ravelry.com/patterns/sources/kreativberg-2",
     "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/people",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/comments",
-    "https://www.ravelry.com/patterns/library/kreativbergs-kurbismutze",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen",
+    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/report",
     "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/posts",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/editors"
+    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen",
+    "https://www.ravelry.com/patterns/library/einfache-herrenmutze",
+    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/yarns",
+    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/threads",
+    "https://www.ravelry.com/patterns/library/kreativbergs-kurbismutze"
   ]
 }

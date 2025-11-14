@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1426,
   "pattern_page": "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater",
   "name": "Holiday Cheer Mini Sweater",
   "description": "A cute mini sweater that will complement the previously released mini hat and mini mitts patterns. Mix and match your colors or try some fun embroidery, the options are endless. Happy Holidays!",
@@ -23,20 +24,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater",
-    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/threads",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
     "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/report",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/yarns",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/people",
     "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking",
     "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/editors",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-mitt",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/yarns",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/threads",
     "https://www.ravelry.com/patterns/library/holiday-cheer-mini-hat",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/comments",
+    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
     "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/edit"
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/edit",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/people",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-mitt",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/comments"
   ]
 }

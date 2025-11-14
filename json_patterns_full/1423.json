@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1423,
   "pattern_page": "https://www.ravelry.com/patterns/library/santas-laundry-line",
   "name": "Santa's Laundry Line",
   "description": "Looking for some non-breakable, (more or less) cat-proof Christmas decorations, I found inspiration in all the wonderful ornament patterns out there. Since I don’t have a Christmas tree, I decided to knit some pieces to make a garland. I don’t like seaming; therefore they are all constructed to be knit in the round. I also tried to keep the individual pieces in proportion to each other.",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Schoppel-Wolle Admiral 4 fach/4 ply",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Schoppel-Wolle Admiral 4 fach/4 ply"
   ],
   "attributes": [
     "icord",
@@ -28,11 +29,11 @@
     "https://www.ravelry.com/patterns/library/santas-laundry-line/editors",
     "https://www.ravelry.com/patterns/library/santas-laundry-line/posts",
     "https://www.ravelry.com/patterns/library/santas-laundry-line/people",
-    "https://www.ravelry.com/patterns/library/santas-laundry-line",
     "https://www.ravelry.com/patterns/library/santas-laundry-line/comments",
-    "https://www.ravelry.com/patterns/library/santas-laundry-line/report",
+    "https://www.ravelry.com/patterns/library/santas-laundry-line",
     "https://www.ravelry.com/patterns/library/santas-laundry-line/yarns",
-    "https://www.ravelry.com/patterns/library/santas-laundry-line/threads",
-    "https://www.ravelry.com/patterns/sources/eleonore-von-castelmurs-ravelry-store"
+    "https://www.ravelry.com/patterns/library/santas-laundry-line/report",
+    "https://www.ravelry.com/patterns/sources/eleonore-von-castelmurs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/santas-laundry-line/threads"
   ]
 }

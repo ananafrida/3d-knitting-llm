@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1013,
   "pattern_page": "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere",
   "name": "Earth Chart for Brent Annable's Sphere",
   "description": "This intarsia chart of Earth’s continents is a modest supplement to the geometrifantastic Stockinette Short-Row Sphere by Brent Annable, free on Ravelry and his web site.",
@@ -22,17 +23,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/threads",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/comments",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/report",
-    "https://www.ravelry.com/patterns/library/tip-to-tip-mittens",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/people",
-    "https://www.ravelry.com/patterns/library/sweetheart-mitten",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/yarns",
     "https://www.ravelry.com/patterns/library/kells-headband",
-    "https://www.ravelry.com/patterns/sources/birch-island-books",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/editors",
     "http://www.ravelry.com/patterns/library/stockinette-short-row-sphere",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere"
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/yarns",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/editors",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/people",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/comments",
+    "https://www.ravelry.com/patterns/library/tip-to-tip-mittens",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/report",
+    "https://www.ravelry.com/patterns/library/sweetheart-mitten",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/threads",
+    "https://www.ravelry.com/patterns/sources/birch-island-books"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 56,
   "pattern_page": "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square",
   "name": "Zodiac Icons Blanket: Virgo Square",
   "description": "This listing is for the Virgo square of the Zodiac Icons Blanket Knit-Along.",
@@ -28,18 +29,18 @@
   "shape": "cube",
   "download_links": [
     "https://www.ravelry.com/patterns/sources/zodiac-icons-blanket",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/editors",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/comments",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/people",
     "https://www.ravelry.com/patterns/sources/zodiac-icons-blanket-kal",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square",
-    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-libra-square",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/report",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-sagittarius-square",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/threads",
-    "https://www.ravelry.com/patterns/sources/two-of-wands",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-scorpio-square",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/people",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/comments",
+    "https://www.ravelry.com/patterns/sources/two-of-wands-on-ravelry",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-libra-square",
     "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/yarns",
-    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/editors"
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square",
+    "https://www.ravelry.com/patterns/library/zodiac-icons-blanket-virgo-square/threads",
+    "https://www.ravelry.com/patterns/sources/two-of-wands"
   ]
 }

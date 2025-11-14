@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1795,
   "pattern_page": "https://www.ravelry.com/patterns/library/felted-bowls-5",
   "name": "Felted Bowls",
   "description": "Simple, versatile bowls in two sizes.",
@@ -26,16 +27,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/felted-bowls-5/people",
-    "https://www.ravelry.com/patterns/sources/designs-by-tangled",
-    "https://www.ravelry.com/patterns/library/dew-drop-cowl",
     "https://www.ravelry.com/patterns/library/missoni-inspired-chevron-blanket",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/threads",
     "https://www.ravelry.com/patterns/library/felted-bowls-5/comments",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/editors",
-    "https://www.ravelry.com/patterns/library/knitted-paper-chains",
     "https://www.ravelry.com/patterns/library/felted-bowls-5/yarns",
+    "https://www.ravelry.com/patterns/library/knitted-paper-chains",
+    "https://www.ravelry.com/patterns/library/dew-drop-cowl",
+    "https://www.ravelry.com/patterns/library/felted-bowls-5/threads",
+    "https://www.ravelry.com/patterns/library/felted-bowls-5/editors",
+    "https://www.ravelry.com/patterns/sources/designs-by-tangled",
     "https://www.ravelry.com/patterns/library/felted-bowls-5/posts",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/report"
+    "https://www.ravelry.com/patterns/library/felted-bowls-5/report",
+    "https://www.ravelry.com/patterns/library/felted-bowls-5"
   ]
 }

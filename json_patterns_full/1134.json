@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1134,
   "pattern_page": "https://www.ravelry.com/patterns/library/andreas-knuddel-doll",
   "name": "Andrea's Knuddel-Doll",
   "description": "Die Knuddel-Doll ist das ideale Projekt, um bunte Sockenwoll-Reste ab 5 bzw. 10 g zu verarbeiten.",
@@ -10,8 +11,8 @@
     "German"
   ],
   "suggested_yarn": [
-    "Zwerger Garn Opal 4-fach | 4-ply",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Zwerger Garn Opal 4-fach | 4-ply"
   ],
   "attributes": [
     "in-the-round",
@@ -21,15 +22,15 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/andrea-barons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/andreas-herbaria",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/yarns",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll",
-    "https://www.ravelry.com/patterns/library/andreas-bambusa",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/report",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/comments",
-    "https://www.ravelry.com/patterns/library/andreas-protea",
     "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/people",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/editors"
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/editors",
+    "https://www.ravelry.com/patterns/library/andreas-protea",
+    "https://www.ravelry.com/patterns/library/andreas-bambusa",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/yarns",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/report",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll",
+    "https://www.ravelry.com/patterns/library/andreas-herbaria",
+    "https://www.ravelry.com/patterns/sources/andrea-barons-ravelry-store",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/comments"
   ]
 }

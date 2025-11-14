@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1171,
   "pattern_page": "https://www.ravelry.com/patterns/library/fairisle-friends",
   "name": "Fairisle Friends",
   "description": "Construction",
@@ -26,16 +27,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fairisle-friends/people",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends",
     "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/fairisle-friends/comments",
     "https://www.ravelry.com/patterns/library/fairisle-friends/editors",
+    "https://www.ravelry.com/patterns/library/flower-girls",
+    "https://www.ravelry.com/patterns/library/fairisle-friends/report",
+    "https://www.ravelry.com/patterns/library/fairisle-friends/threads",
+    "https://www.ravelry.com/patterns/library/fairisle-friends/people",
+    "https://www.ravelry.com/patterns/library/fairisle-friends",
     "https://www.ravelry.com/patterns/library/fairisle-friends/yarns",
     "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fairisle-friends/comments",
-    "https://www.ravelry.com/patterns/library/flower-girls",
-    "https://www.ravelry.com/patterns/library/fairisle-friends",
-    "https://www.ravelry.com/patterns/library/fairisle-friends/report",
-    "https://www.ravelry.com/patterns/library/fairisle-friends/threads"
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends"
   ]
 }

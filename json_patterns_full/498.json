@@ -1,4 +1,5 @@
 {
+  "pattern_id": 498,
   "pattern_page": "https://www.ravelry.com/patterns/library/troms-hoodie",
   "name": "Tromsø Hoodie",
   "description": "Are you a fresh beginner in knitting? Perfect! This chunky and warm hoodie will be a great place to start. The pattern is easy to follow, and with big needles, small mistakes won’t show. Good luck.",
@@ -32,19 +33,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/bundles/free-patterns-1232",
-    "https://www.ravelry.com/patterns/library/blueberry-sweater-3",
-    "https://www.ravelry.com/patterns/library/troms-hoodie/report",
-    "https://www.ravelry.com/patterns/library/troms-hoodie/yarns",
-    "https://www.ravelry.com/patterns/library/lingonberry-sweater",
-    "https://www.ravelry.com/patterns/library/troms-hoodie/posts",
-    "https://www.ravelry.com/patterns/library/raspberry-sweater-3",
     "https://www.ravelry.com/patterns/library/troms-hoodie/comments",
+    "https://www.ravelry.com/bundles/free-patterns-1232",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/yarns",
     "https://www.ravelry.com/patterns/library/troms-hoodie/threads",
     "https://www.ravelry.com/patterns/library/troms-hoodie/editors",
-    "https://www.ravelry.com/patterns/library/troms-hoodie-mini",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/posts",
     "https://www.ravelry.com/patterns/library/troms-hoodie",
-    "https://www.ravelry.com/patterns/library/troms-hoodie/people",
-    "https://www.ravelry.com/patterns/sources/sisu-knitwear-ravelry-store"
+    "https://www.ravelry.com/patterns/library/blueberry-sweater-3",
+    "https://www.ravelry.com/patterns/library/lingonberry-sweater",
+    "https://www.ravelry.com/patterns/library/troms-hoodie-mini",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/report",
+    "https://www.ravelry.com/patterns/sources/sisu-knitwear-ravelry-store",
+    "https://www.ravelry.com/patterns/library/raspberry-sweater-3",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/people"
   ]
 }

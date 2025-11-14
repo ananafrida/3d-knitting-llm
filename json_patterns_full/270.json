@@ -1,4 +1,5 @@
 {
+  "pattern_id": 270,
   "pattern_page": "https://www.ravelry.com/patterns/library/fetch-",
   "craft": "Knitting",
   "category": "Pet → Toys",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Lily (Spinrite) Sugar'n Cream Solids",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Lily (Spinrite) Sugar'n Cream Solids"
   ],
   "attributes": [
     "3-dimensional",
@@ -25,18 +26,18 @@
   ],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fetch-/posts",
-    "https://www.ravelry.com/patterns/library/mothers-day-cloth",
-    "https://www.ravelry.com/patterns/library/summer-cloths",
-    "https://www.ravelry.com/patterns/library/fetch-/threads",
     "https://www.ravelry.com/patterns/library/fetch-/people",
+    "https://www.ravelry.com/patterns/library/mothers-day-cloth",
+    "https://www.ravelry.com/patterns/library/fetch-/report",
     "https://www.ravelry.com/patterns/library/fetch-/comments",
+    "https://www.ravelry.com/patterns/library/fetch-",
+    "https://www.ravelry.com/patterns/library/summer-cloths",
     "https://www.ravelry.com/patterns/library/thermis",
     "https://www.ravelry.com/patterns/library/fetch-/yarns",
-    "https://www.ravelry.com/patterns/library/fetch-/editors",
     "https://www.ravelry.com/patterns/sources/krisknits",
-    "https://www.ravelry.com/patterns/library/fetch-",
-    "https://www.ravelry.com/patterns/library/fetch-/report"
+    "https://www.ravelry.com/patterns/library/fetch-/threads",
+    "https://www.ravelry.com/patterns/library/fetch-/posts",
+    "https://www.ravelry.com/patterns/library/fetch-/editors"
   ],
   "name": "Ravelry: Fetch ! pattern by Kris Knits"
 }

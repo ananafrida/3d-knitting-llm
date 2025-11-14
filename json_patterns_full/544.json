@@ -1,4 +1,5 @@
 {
+  "pattern_id": 544,
   "pattern_page": "https://www.ravelry.com/patterns/library/prism-blanket-2",
   "craft": "Knitting",
   "category": "Blanket → Throw Blanket → Baby Blanket",
@@ -30,17 +31,17 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/prism-blanket-2/threads",
-    "https://www.ravelry.com/patterns/library/prism-blanket-2/editors",
-    "https://www.ravelry.com/patterns/library/prism-blanket-2/people",
-    "https://www.ravelry.com/patterns/library/prism-blanket-2",
-    "https://www.ravelry.com/patterns/library/prism-blanket-2/yarns",
-    "https://www.ravelry.com/patterns/library/prism-blanket-2/comments",
-    "https://www.ravelry.com/patterns/library/prism-blanket-2/report",
     "https://www.ravelry.com/patterns/library/library-blanket",
     "https://www.ravelry.com/patterns/library/mitered-corner-blanket",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/comments",
     "https://www.ravelry.com/patterns/library/good-morning-blanket",
-    "https://www.ravelry.com/patterns/sources/purl-soho"
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/editors",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/report",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/people",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/yarns",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/threads"
   ],
   "name": "Ravelry: Prism Blanket pattern by Purl Soho"
 }

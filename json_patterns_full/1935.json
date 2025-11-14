@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1935,
   "pattern_page": "https://www.ravelry.com/patterns/library/holly-bow",
   "name": "Holly Bow",
   "description": "Holly Bow consists of a bow made with 4 cm [1½ inches] wide decorative ribbon with wire edges, two knitted leaves and a bling button.",
@@ -18,8 +19,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Lang Yarns Cashmere Premium",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Lang Yarns Cashmere Premium"
   ],
   "attributes": [
     "written-pattern"
@@ -28,16 +29,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sophie-hood",
-    "https://www.ravelry.com/patterns/library/holly-bow/people",
-    "https://www.ravelry.com/patterns/library/sophie-shawl-2",
-    "https://www.ravelry.com/patterns/library/sophie-scarf-2",
-    "https://www.ravelry.com/patterns/library/holly-bow/report",
-    "https://www.ravelry.com/patterns/library/holly-bow",
     "https://www.ravelry.com/patterns/library/holly-bow/threads",
-    "https://www.ravelry.com/patterns/library/holly-bow/editors",
+    "https://www.ravelry.com/patterns/library/sophie-shawl-2",
+    "https://www.ravelry.com/patterns/library/holly-bow/people",
+    "https://www.ravelry.com/patterns/library/sophie-hood",
     "https://www.ravelry.com/patterns/library/holly-bow/yarns",
+    "https://www.ravelry.com/patterns/library/holly-bow/editors",
+    "https://www.ravelry.com/patterns/library/sophie-scarf-2",
     "https://www.ravelry.com/patterns/sources/petiteknit-ravelry-store",
-    "https://www.ravelry.com/patterns/library/holly-bow/comments"
+    "https://www.ravelry.com/patterns/library/holly-bow/comments",
+    "https://www.ravelry.com/patterns/library/holly-bow",
+    "https://www.ravelry.com/patterns/library/holly-bow/report"
   ]
 }

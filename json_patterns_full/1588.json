@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1588,
   "pattern_page": "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins",
   "name": "Harvest Moon Pumpkins",
   "description": "Here’s a pattern to celebrate Autumn. You can change size by using larger or smaller yarns/needles. Remember to use a smaller size needle for tight knitting so the stuffing won’t show through the stitches. Happy Knitting!",
@@ -26,16 +27,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/scarlett-kiki-geigers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/report",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/people",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/comments",
-    "https://www.ravelry.com/patterns/library/annabel-kerchief",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/yarns",
     "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins",
-    "https://www.ravelry.com/patterns/library/ladybug-facecloth",
-    "https://www.ravelry.com/patterns/library/yummy-christmas-pudding",
     "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/threads",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/editors"
+    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/comments",
+    "https://www.ravelry.com/patterns/library/yummy-christmas-pudding",
+    "https://www.ravelry.com/patterns/library/annabel-kerchief",
+    "https://www.ravelry.com/patterns/library/ladybug-facecloth",
+    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/people",
+    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/yarns",
+    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/editors",
+    "https://www.ravelry.com/patterns/sources/scarlett-kiki-geigers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/report"
   ]
 }

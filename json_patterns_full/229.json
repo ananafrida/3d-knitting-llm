@@ -1,4 +1,5 @@
 {
+  "pattern_id": 229,
   "pattern_page": "https://www.ravelry.com/patterns/library/cocktail-monkey-bag",
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Darice Hemp Cord 48 lb.",
-    "Aran (8 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Darice Hemp Cord 48 lb."
   ],
   "attributes": [
     "icord",
@@ -19,18 +20,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/report",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/comments",
-    "https://www.ravelry.com/patterns/library/best-friend",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/yarns",
     "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/editors",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/report",
     "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/threads",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/people",
-    "https://www.ravelry.com/patterns/library/oomingmacks",
-    "https://www.ravelry.com/patterns/sources/knitty-spring-2005",
     "https://www.ravelry.com/patterns/library/wild-stripes",
+    "https://www.ravelry.com/patterns/library/best-friend",
+    "https://www.ravelry.com/patterns/library/oomingmacks",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/comments",
     "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/yarns"
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/people",
+    "https://www.ravelry.com/patterns/sources/knitty-spring-2005",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag"
   ],
   "name": "Ravelry: Cocktail Monkey Bag pattern by Kristin Goedert"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 36,
   "pattern_page": "https://www.ravelry.com/patterns/library/diagonal-square-3",
   "craft": "Knitting",
   "category": "Afghan block",
@@ -19,19 +20,19 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/diagonal-square-3/threads",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/editors",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/yarns",
-    "http://knit-a-square.com/free-knitting-pattern-diagonal-square/",
-    "https://www.ravelry.com/patterns/library/kas-mitred-square",
-    "https://www.ravelry.com/patterns/library/square-vest-knit",
-    "https://www.ravelry.com/patterns/library/plain-jane-square",
     "http://www.knit-a-square.com/sites/default/files/Knitted_Square_Diagonal.pdf",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/report",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/edit",
+    "http://knit-a-square.com/free-knitting-pattern-diagonal-square/",
     "https://www.ravelry.com/patterns/sources/knit-a-square",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3/report",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3/yarns",
     "https://www.ravelry.com/patterns/library/diagonal-square-3/comments",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/people"
+    "https://www.ravelry.com/patterns/library/square-vest-knit",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3",
+    "https://www.ravelry.com/patterns/library/plain-jane-square",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3/people",
+    "https://www.ravelry.com/patterns/library/kas-mitred-square",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3/edit",
+    "https://www.ravelry.com/patterns/library/diagonal-square-3/editors"
   ],
   "name": "Ravelry: Diagonal Square pattern by knit-a-square"
 }

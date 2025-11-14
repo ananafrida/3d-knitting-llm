@@ -1,4 +1,5 @@
 {
+  "pattern_id": 813,
   "pattern_page": "https://www.ravelry.com/patterns/library/la-rentree",
   "name": "La Rentrée",
   "description": "FIND KITS HERE :-)",
@@ -27,16 +28,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/la-rentree/people",
     "https://www.ravelry.com/patterns/library/bobbles-optional",
-    "https://www.ravelry.com/patterns/library/hold-the-line-2",
-    "https://www.ravelry.com/patterns/library/la-rentree/yarns",
-    "https://www.ravelry.com/patterns/library/la-rentree/report",
-    "https://www.ravelry.com/patterns/library/la-rentree/comments",
-    "https://www.ravelry.com/patterns/library/la-rentree/editors",
-    "https://www.ravelry.com/patterns/library/la-rentree",
-    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan",
     "https://www.ravelry.com/patterns/library/la-rentree/threads",
+    "https://www.ravelry.com/patterns/library/la-rentree/comments",
+    "https://www.ravelry.com/patterns/library/la-rentree/report",
+    "https://www.ravelry.com/patterns/library/la-rentree/editors",
+    "https://www.ravelry.com/patterns/library/turtle-dove-cardigan",
+    "https://www.ravelry.com/patterns/library/la-rentree",
+    "https://www.ravelry.com/patterns/library/la-rentree/people",
+    "https://www.ravelry.com/patterns/library/la-rentree/yarns",
+    "https://www.ravelry.com/patterns/library/hold-the-line-2",
     "https://www.ravelry.com/patterns/sources/sonder-yarn-co-2"
   ]
 }

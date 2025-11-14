@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1129,
   "pattern_page": "https://www.ravelry.com/patterns/library/knit-dancing-doll",
   "craft": "Knitting",
   "category": "Softies → Doll",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Approximately worsted weight"
+    "Approximately worsted weight",
+    "yarn held together"
   ],
   "attributes": [
     "3-dimensional",
@@ -21,15 +22,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/terry-white",
-    "https://www.ravelry.com/patterns/library/knit-dancing-doll/threads",
-    "https://www.ravelry.com/patterns/library/knit-dancing-doll/comments",
-    "https://www.ravelry.com/patterns/library/knit-dancing-doll/editors",
-    "https://www.ravelry.com/patterns/library/knit-dancing-doll/yarns",
-    "http://www.threadpaint.com/knit-dancing-dolls-free-pattern.html",
-    "https://www.ravelry.com/patterns/library/knit-dancing-doll/report",
     "https://www.ravelry.com/patterns/library/knit-dancing-doll",
-    "https://www.ravelry.com/patterns/library/knit-dancing-doll/people"
+    "https://www.ravelry.com/patterns/library/knit-dancing-doll/yarns",
+    "https://www.ravelry.com/patterns/library/knit-dancing-doll/report",
+    "http://www.threadpaint.com/knit-dancing-dolls-free-pattern.html",
+    "https://www.ravelry.com/patterns/library/knit-dancing-doll/people",
+    "https://www.ravelry.com/patterns/library/knit-dancing-doll/comments",
+    "https://www.ravelry.com/patterns/library/knit-dancing-doll/threads",
+    "https://www.ravelry.com/patterns/sources/terry-white",
+    "https://www.ravelry.com/patterns/library/knit-dancing-doll/editors"
   ],
   "name": "Ravelry: Knit Dancing Doll pattern by Terry White"
 }

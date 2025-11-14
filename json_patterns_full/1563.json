@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1563,
   "pattern_page": "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin",
   "name": "Handsome Cable Pumpkin",
   "description": "Perfect for fall! So handsome! So squishy!",
@@ -27,16 +28,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/people",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/comments",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/threads",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/editors",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin",
     "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/posts",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/yarns",
     "https://www.ravelry.com/patterns/library/socks-machina-socks",
-    "https://www.ravelry.com/patterns/library/faux-bow-hairband",
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/people",
     "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/report",
-    "https://www.ravelry.com/patterns/sources/sara-kiesels-ravelry-store"
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/yarns",
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin",
+    "https://www.ravelry.com/patterns/sources/sara-kiesels-ravelry-store",
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/comments",
+    "https://www.ravelry.com/patterns/library/faux-bow-hairband",
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/editors",
+    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/threads"
   ]
 }

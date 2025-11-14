@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1790,
   "pattern_page": "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
   "name": "It's Just a Knit Basket",
   "description": "Our July Makers Kit is not a shawl, cowl, or hat! It’s Just a Basket!!",
@@ -23,16 +24,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/editors",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/yarns",
+    "https://www.ravelry.com/patterns/library/versa-cowl",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
+    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
     "https://www.ravelry.com/patterns/library/lollygag",
     "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/comments",
-    "https://www.ravelry.com/patterns/library/versa-cowl",
-    "https://www.ravelry.com/patterns/library/quick-bulky-mitten",
     "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/people",
-    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/report",
     "https://www.ravelry.com/patterns/library/its-just-a-crochet-basket",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket"
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/editors",
+    "https://www.ravelry.com/patterns/library/quick-bulky-mitten",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/report",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/yarns"
   ]
 }

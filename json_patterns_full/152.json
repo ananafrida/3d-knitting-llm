@@ -1,4 +1,5 @@
 {
+  "pattern_id": 152,
   "pattern_page": "https://www.ravelry.com/patterns/library/baby-blocks-21",
   "name": "Baby Blocks",
   "description": "Using this free knitting pattern for a cube as a template, get creative by incorporating stripes or Swiss darning embroidery to decorate and personalise your baby block cubes.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Paintbox Yarns Simply DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Paintbox Yarns Simply DK"
   ],
   "attributes": [
     "cube-shaped",
@@ -24,16 +25,16 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/barnyard-buddies-5",
-    "https://www.ravelry.com/patterns/library/baby-blocks-21",
     "https://www.ravelry.com/patterns/library/baby-blocks-21/comments",
-    "https://www.ravelry.com/patterns/library/baby-blocks-21/editors",
     "https://www.ravelry.com/patterns/library/rocket-cushion",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21",
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
     "https://www.ravelry.com/bundles/free-patterns-500",
     "https://www.ravelry.com/patterns/library/baby-blocks-21/people",
-    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/patterns/library/living-colour-chameleon",
     "https://www.ravelry.com/patterns/library/baby-blocks-21/yarns",
     "https://www.ravelry.com/patterns/library/baby-blocks-21/report",
-    "https://www.ravelry.com/patterns/library/living-colour-chameleon"
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/editors",
+    "https://www.ravelry.com/patterns/library/barnyard-buddies-5"
   ]
 }

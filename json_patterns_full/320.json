@@ -1,4 +1,5 @@
 {
+  "pattern_id": 320,
   "pattern_page": "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse",
   "craft": "Knitting",
   "category": "Pet → Toys",
@@ -21,20 +22,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/planet-whodunnknit",
-    "https://www.ravelry.com/patterns/library/grog-the-raven",
-    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/threads",
-    "https://www.ravelry.com/patterns/sources/the-guardian-online",
-    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/people",
-    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/editors",
-    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/yarns",
-    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/posts",
-    "https://www.ravelry.com/patterns/library/cooey-the-pigeon",
-    "https://www.ravelry.com/patterns/sources/battersea-dogs--cats-home",
     "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse",
-    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/comments",
+    "https://www.ravelry.com/patterns/sources/battersea-dogs--cats-home",
+    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/people",
     "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/report",
-    "https://www.ravelry.com/patterns/library/fleabag-the-fox"
+    "https://www.ravelry.com/patterns/library/cooey-the-pigeon",
+    "https://www.ravelry.com/patterns/library/fleabag-the-fox",
+    "https://www.ravelry.com/patterns/library/grog-the-raven",
+    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/posts",
+    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/editors",
+    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/comments",
+    "https://www.ravelry.com/patterns/sources/planet-whodunnknit",
+    "https://www.ravelry.com/patterns/sources/the-guardian-online",
+    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/captain-cat-battler-the-catnip-mouse/threads"
   ],
   "name": "Ravelry: Captain Cat-Battler the Catnip Mouse pattern by Whodunnknit"
 }

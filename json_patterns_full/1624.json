@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1624,
   "pattern_page": "https://www.ravelry.com/patterns/library/le-pouf-2",
   "craft": "Knitting",
   "category": "Sweater → Cardigan",
@@ -9,8 +10,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Hedgehog Fibres Sock",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Hedgehog Fibres Sock"
   ],
   "attributes": [
     "female",
@@ -28,20 +29,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://cdn.shopify.com/s/files/1/2440/8253/files/LePoufCardi_translation_C.pdf?v=1629125516",
-    "https://www.ravelry.com/patterns/library/le-pouf-2",
-    "https://www.ravelry.com/patterns/library/le-pouf-2/comments",
-    "https://www.ravelry.com/patterns/library/le-pouf-2/people",
-    "https://www.ravelry.com/patterns/library/le-pouf-2/posts",
     "https://www.ravelry.com/patterns/library/le-pouf-2/report",
     "https://www.ravelry.com/patterns/library/shockwaves",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
-    "https://www.ravelry.com/patterns/library/le-pouf-2/editors",
-    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/le-pouf",
-    "https://www.ravelry.com/patterns/library/le-pouf-2/threads",
     "https://www.ravelry.com/patterns/library/le-pouf-2/yarns",
-    "https://www.ravelry.com/patterns/library/flying-fringe"
+    "https://www.ravelry.com/patterns/library/le-pouf-2/posts",
+    "https://www.ravelry.com/patterns/library/le-pouf-2",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/people",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/comments",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/le-pouf",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/flying-fringe",
+    "https://cdn.shopify.com/s/files/1/2440/8253/files/LePoufCardi_translation_C.pdf?v=1629125516",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/editors",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/threads"
   ],
   "name": "Ravelry: Le Pouf pattern by Beata Jezek"
 }

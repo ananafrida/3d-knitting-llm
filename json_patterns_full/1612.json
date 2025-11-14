@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1612,
   "pattern_page": "https://www.ravelry.com/patterns/library/newborn-vertebrae",
   "name": "Newborn Vertebrae",
   "description": "Newborn Vertebrae is a frontless cardy to keep your little one’s back and arms warm.",
@@ -39,20 +40,20 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "http://www.ravelry.com/patterns/library/kiddy-vertebrae",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae/posts",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae/comments",
+    "https://www.ravelry.com/patterns/sources/pekapeka-design-studio",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae/report",
     "https://www.ravelry.com/patterns/library/puerperium-cardigan",
     "https://www.ravelry.com/patterns/library/newborn-vertebrae",
-    "http://www.ravelry.com/patterns/library/baby-vertebrae",
-    "https://www.ravelry.com/patterns/library/mama-vertebrae",
-    "https://www.ravelry.com/patterns/sources/pekapeka-design-studio",
-    "https://www.ravelry.com/patterns/library/baby-vertebrae",
     "https://www.ravelry.com/patterns/library/newborn-vertebrae/yarns",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae/people",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae/report",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae/threads",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae/comments",
     "http://www.ravelry.com/patterns/library/mama-vertebrae",
+    "https://www.ravelry.com/patterns/library/mama-vertebrae",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae/people",
+    "http://www.ravelry.com/patterns/library/kiddy-vertebrae",
+    "https://www.ravelry.com/patterns/library/baby-vertebrae",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae/posts",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae/threads",
+    "http://www.ravelry.com/patterns/library/baby-vertebrae",
     "https://www.ravelry.com/patterns/library/newborn-vertebrae/editors"
   ]
 }

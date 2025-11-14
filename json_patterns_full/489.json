@@ -1,4 +1,5 @@
 {
+  "pattern_id": 489,
   "pattern_page": "https://www.ravelry.com/patterns/library/that-nice-stitch",
   "name": "That Nice Stitch",
   "description": "When my Mum was visiting I kept asking what I could knit her and every time she replied: a cowl made with Malabrigo sock yarn and “that nice stitch” - the one I used for g’day boomerang.",
@@ -26,19 +27,19 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/that-nice-stitch/yarns",
-    "https://www.ravelry.com/bundles/malabrigo-freeebie-patterns",
-    "https://www.ravelry.com/patterns/library/quaker-yarn-stretcher-boomerang",
-    "https://www.ravelry.com/patterns/library/tgv-high-speed-knitting",
-    "https://www.ravelry.com/patterns/library/that-nice-stitch/editors",
     "https://www.ravelry.com/patterns/library/that-nice-stitch/report",
-    "https://www.ravelry.com/patterns/library/that-nice-stitch/threads",
-    "https://www.ravelry.com/patterns/sources/stitchnerd-designs",
-    "https://www.ravelry.com/patterns/library/that-nice-stitch",
+    "http://www.ravelry.com/patterns/library/gday-boomerang",
     "https://www.ravelry.com/patterns/library/that-nice-stitch/comments",
-    "https://www.ravelry.com/patterns/library/that-nice-stitch/people",
-    "https://www.ravelry.com/patterns/library/brain-frieze",
+    "https://www.ravelry.com/bundles/malabrigo-freeebie-patterns",
+    "https://www.ravelry.com/patterns/library/that-nice-stitch",
+    "https://www.ravelry.com/patterns/library/that-nice-stitch/yarns",
     "https://www.ravelry.com/patterns/library/that-nice-stitch/posts",
-    "http://www.ravelry.com/patterns/library/gday-boomerang"
+    "https://www.ravelry.com/patterns/library/that-nice-stitch/editors",
+    "https://www.ravelry.com/patterns/library/quaker-yarn-stretcher-boomerang",
+    "https://www.ravelry.com/patterns/library/that-nice-stitch/people",
+    "https://www.ravelry.com/patterns/library/that-nice-stitch/threads",
+    "https://www.ravelry.com/patterns/library/brain-frieze",
+    "https://www.ravelry.com/patterns/library/tgv-high-speed-knitting",
+    "https://www.ravelry.com/patterns/sources/stitchnerd-designs"
   ]
 }

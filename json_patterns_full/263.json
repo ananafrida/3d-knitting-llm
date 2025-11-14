@@ -1,4 +1,5 @@
 {
+  "pattern_id": 263,
   "pattern_page": "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse",
   "name": "Nom the Catnip Mouse",
   "description": "Cute little toy for your favorite feline.",
@@ -20,17 +21,17 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/the-ginger-cat-designs",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/editors",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/comments",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/threads",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/people",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/report",
     "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/posts",
     "https://www.ravelry.com/patterns/library/bruce-the-tiny-monkey",
     "https://www.ravelry.com/patterns/library/christmas-toadstools",
-    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/report",
-    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/yarns",
-    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/comments",
-    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/threads",
-    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/editors",
     "https://www.ravelry.com/patterns/library/cosmo-the-baby-dragon",
-    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/people",
-    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse"
+    "https://www.ravelry.com/patterns/sources/the-ginger-cat-designs"
   ]
 }

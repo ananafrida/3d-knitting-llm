@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1649,
   "pattern_page": "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan",
   "craft": "Knitting",
   "category": "Sweater → Cardigan",
@@ -26,8 +27,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Cotton Merino",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Garnstudio DROPS Cotton Merino"
   ],
   "attributes": [
     "adult",
@@ -54,20 +55,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/drops-263",
-    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/yarns",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/people",
-    "https://www.garnstudio.com/pattern.php?id=12429&cid=19",
-    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan",
-    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/comments",
-    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/report",
-    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/editors",
     "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/edit",
+    "https://www.ravelry.com/patterns/periodicals/drops",
+    "https://www.garnstudio.com/pattern.php?id=12429&cid=19",
+    "https://www.ravelry.com/patterns/sources/drops-263",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
     "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
-    "https://www.ravelry.com/patterns/sources/drops-design"
+    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/people",
+    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/comments",
+    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan",
+    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/editors",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
+    "https://www.ravelry.com/patterns/library/263-35-silver-snuggle-cardigan/report"
   ],
   "name": "Ravelry: 263-35 Silver Snuggle Cardigan pattern by DROPS design"
 }

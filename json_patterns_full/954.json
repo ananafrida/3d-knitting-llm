@@ -1,4 +1,5 @@
 {
+  "pattern_id": 954,
   "pattern_page": "https://www.ravelry.com/patterns/library/eyeball",
   "craft": "Knitting",
   "category": "Ball",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Filatura Di Crosa Zara",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Filatura Di Crosa Zara"
   ],
   "attributes": [
     "hexagon",
@@ -23,18 +24,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/snood",
+    "https://www.ravelry.com/patterns/library/eyeball/comments",
+    "https://www.ravelry.com/patterns/library/eyeball/report",
+    "https://www.ravelry.com/patterns/library/sweetheart",
     "https://www.ravelry.com/patterns/library/eyeball/yarns",
-    "http://www.domiknitrix.com/knittingpatterns/eyeball.cfm",
     "https://www.ravelry.com/patterns/library/eyeball/editors",
     "https://www.ravelry.com/patterns/library/eyeball/threads",
     "https://www.ravelry.com/patterns/library/jughead-hat",
-    "https://www.ravelry.com/patterns/library/eyeball/people",
-    "https://www.ravelry.com/patterns/sources/domiknitrix",
-    "https://www.ravelry.com/patterns/library/eyeball/comments",
+    "http://www.domiknitrix.com/knittingpatterns/eyeball.cfm",
     "https://www.ravelry.com/patterns/library/eyeball",
-    "https://www.ravelry.com/patterns/library/eyeball/report",
-    "https://www.ravelry.com/patterns/library/snood",
-    "https://www.ravelry.com/patterns/library/sweetheart"
+    "https://www.ravelry.com/patterns/library/eyeball/people",
+    "https://www.ravelry.com/patterns/sources/domiknitrix"
   ],
   "name": "Ravelry: Eyeball pattern by Jennifer Stafford"
 }

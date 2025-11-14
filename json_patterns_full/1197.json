@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1197,
   "pattern_page": "https://www.ravelry.com/patterns/library/dainty-dollies",
   "craft": "Knitting",
   "category": "Softies → Doll",
@@ -19,20 +20,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/jean-greenhowe",
-    "https://www.ravelry.com/patterns/library/dainty-dollies/people",
-    "https://www.ravelry.com/patterns/library/fashion-dolls-miss-amelia",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/edit",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/report",
+    "https://www.ravelry.com/patterns/library/puss-in-boots",
     "https://www.ravelry.com/patterns/library/dainty-dollies/comments",
+    "https://www.ravelry.com/patterns/periodicals/jean-greenhowe",
+    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website",
     "http://www.jeangreenhowe.com/patterns.html",
     "https://www.ravelry.com/patterns/library/princess-penelope-and-snuggles",
-    "https://www.ravelry.com/patterns/library/puss-in-boots",
-    "https://www.ravelry.com/patterns/library/dainty-dollies/threads",
-    "https://www.ravelry.com/patterns/library/dainty-dollies/report",
     "https://www.ravelry.com/patterns/library/dainty-dollies/editors",
-    "https://www.ravelry.com/patterns/library/dainty-dollies",
-    "https://www.ravelry.com/patterns/library/dainty-dollies/edit",
+    "https://www.ravelry.com/patterns/library/fashion-dolls-miss-amelia",
     "https://www.ravelry.com/patterns/library/dainty-dollies/yarns",
-    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website"
+    "https://www.ravelry.com/patterns/library/dainty-dollies",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/threads",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/people"
   ],
   "name": "Ravelry: Dainty Dollies pattern by Jean Greenhowe"
 }

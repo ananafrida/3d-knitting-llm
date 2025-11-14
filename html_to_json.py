@@ -164,7 +164,10 @@ def parse_html(filepath):
 def main():
     ensure_dir(OUT_DIR)
     all_patterns = []
-    html_files = sorted(f for f in os.listdir(HTML_DIR) if f.endswith(".html"))
+    html_files = sorted(
+        [f for f in os.listdir(HTML_DIR) if f.endswith(".html")],
+        key=lambda x: int(x.replace(".html", ""))
+    )
 
     print(f"🔍 Found {len(html_files)} HTML files to parse.")
 
@@ -172,12 +175,16 @@ def main():
         path = os.path.join(HTML_DIR, file)
         data = parse_html(path)
 
-        # Save individual JSON
-        out_path = os.path.join(OUT_DIR, file.replace(".html", ".json"))
-        with open(out_path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+        # --- NEW: Put pattern_id FIRST in JSON ---
+        ordered = {"pattern_id": i}  # first key
+        ordered.update(data)         # merge all other fields after
 
-        all_patterns.append(data)
+        # Save individual JSON with ordered fields
+        out_path = os.path.join(OUT_DIR, f"{i}.json")
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump(ordered, f, indent=2, ensure_ascii=False)
+
+        all_patterns.append(ordered)
         print(f"[{i}/{len(html_files)}] ✅ Parsed {file}")
 
     # Save master dataset

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 90,
   "pattern_page": "https://www.ravelry.com/patterns/library/frankies-blankie-week-4",
   "name": "Frankie's Blankie Week 4",
   "description": "This is the fourth in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares.",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Stylecraft Batik Double Knitting",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Stylecraft Batik Double Knitting"
   ],
   "attributes": [
     "chart",
@@ -23,15 +24,15 @@
   "shape": "cylinder",
   "download_links": [
     "https://www.ravelry.com/patterns/library/frankies-blankie-week-2",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/yarns",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/editors",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/report",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4",
     "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/people",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/yarns",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/report",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/editors",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4",
     "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/comments",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-6",
     "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/threads",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff"
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-6"
   ]
 }

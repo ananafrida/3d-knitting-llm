@@ -1,4 +1,5 @@
 {
+  "pattern_id": 745,
   "pattern_page": "https://www.ravelry.com/patterns/library/flax-sock",
   "name": "Flax sock",
   "description": "",
@@ -35,21 +36,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/the-simple-collection",
-    "https://www.ravelry.com/patterns/library/flax-sock/comments",
-    "https://www.ravelry.com/patterns/library/flax-sock/people",
     "https://www.ravelry.com/patterns/library/flax-sock",
-    "https://www.ravelry.com/patterns/library/flax-sock/report",
-    "https://www.ravelry.com/patterns/library/flax-worsted",
-    "https://www.ravelry.com/patterns/library/flax-sock/yarns",
     "https://www.ravelry.com/patterns/library/flax-sock/threads",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
+    "http://tincanknits.com/pattern-SC-flaxlight.html",
+    "https://www.ravelry.com/patterns/library/flax-worsted",
+    "https://www.ravelry.com/patterns/library/flax-sock/report",
+    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "https://www.ravelry.com/bundles/app-patterns",
+    "https://www.ravelry.com/patterns/library/flax-sock/posts",
+    "https://www.ravelry.com/patterns/library/flax-sock/comments",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens",
     "https://www.ravelry.com/patterns/library/barley-worsted",
     "https://www.ravelry.com/patterns/library/flax-sock/editors",
-    "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens",
-    "https://www.ravelry.com/patterns/library/flax-sock/posts",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
-    "https://www.ravelry.com/bundles/app-patterns",
-    "http://tincanknits.com/pattern-SC-flaxlight.html"
+    "https://www.ravelry.com/patterns/library/flax-sock/people",
+    "https://www.ravelry.com/patterns/library/flax-sock/yarns",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry"
   ]
 }

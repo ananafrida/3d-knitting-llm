@@ -1,4 +1,5 @@
 {
+  "pattern_id": 861,
   "pattern_page": "https://www.ravelry.com/patterns/library/tiny-tassels",
   "craft": "Knitting",
   "category": "Neck / Torso → Scarf",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Qing Fibre Merino Single",
-    "Light Fingering ?"
+    "Light Fingering ?",
+    "Qing Fibre Merino Single"
   ],
   "attributes": [
     "one-piece",
@@ -22,19 +23,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/loop-london",
-    "https://www.ravelry.com/patterns/library/tiny-tassels/report",
-    "https://www.ravelry.com/patterns/library/tiny-tassels/comments",
     "https://www.ravelry.com/patterns/library/tiny-tassels/people",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/comments",
     "https://www.ravelry.com/patterns/library/tiny-tassels/yarns",
-    "https://www.ravelry.com/patterns/library/tiny-tassels/posts",
+    "https://www.ravelry.com/patterns/library/inovec",
+    "https://www.ravelry.com/patterns/sources/loop-london",
+    "https://www.ravelry.com/patterns/library/eclair-3",
     "https://www.ravelry.com/patterns/library/soho-orchid",
-    "https://www.ravelry.com/patterns/library/tiny-tassels",
     "https://www.ravelry.com/patterns/library/tiny-tassels/editors",
     "https://www.ravelry.com/patterns/sources/karin-fernandes-ravelry-store",
-    "https://www.ravelry.com/patterns/library/inovec",
-    "https://www.ravelry.com/patterns/library/eclair-3",
-    "https://www.ravelry.com/patterns/library/tiny-tassels/threads"
+    "https://www.ravelry.com/patterns/library/tiny-tassels/threads",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/report",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/posts",
+    "https://www.ravelry.com/patterns/library/tiny-tassels"
   ],
   "name": "Ravelry: Tiny Tassels pattern by Karin Fernandes"
 }

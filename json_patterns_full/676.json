@@ -1,4 +1,5 @@
 {
+  "pattern_id": 676,
   "pattern_page": "https://www.ravelry.com/patterns/library/treetop-hats",
   "name": "Treetop Hats",
   "description": "The Treetops Project is a craftivism movement to fight for climate action. The hats are designed to mimic the shape of an evergreen tree, and to be worn en masse at climate and science marches around the world.",
@@ -33,13 +34,13 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.treetopsproject.com/patterns",
-    "https://www.ravelry.com/patterns/sources/the-treetops-project",
+    "https://www.ravelry.com/patterns/library/treetop-hats",
     "https://www.ravelry.com/patterns/library/treetop-hats/yarns",
-    "https://www.ravelry.com/patterns/library/treetop-hats/comments",
     "https://www.ravelry.com/patterns/library/treetop-hats/people",
+    "https://www.treetopsproject.com/patterns",
     "https://www.ravelry.com/patterns/library/treetop-hats/editors",
+    "https://www.ravelry.com/patterns/library/treetop-hats/comments",
     "https://www.ravelry.com/patterns/library/treetop-hats/report",
-    "https://www.ravelry.com/patterns/library/treetop-hats"
+    "https://www.ravelry.com/patterns/sources/the-treetops-project"
   ]
 }

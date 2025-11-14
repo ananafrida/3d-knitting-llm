@@ -1,4 +1,5 @@
 {
+  "pattern_id": 610,
   "pattern_page": "https://www.ravelry.com/patterns/library/gluckskind-2",
   "name": "Glückskind",
   "description": "Glückskind ist eine Babydecke aus Merino HighTwist. Dieses Garn ist weich, in der Maschine im Wollwaschgang waschbar und somit super für unser Baby geeignet.",
@@ -12,8 +13,8 @@
     "German"
   ],
   "suggested_yarn": [
-    "Zitron Wolkenspiel",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Zitron Wolkenspiel"
   ],
   "attributes": [
     "in-the-round",
@@ -25,16 +26,16 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gluckskind-2/report",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/editors",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/yarns",
-    "https://www.ravelry.com/patterns/library/lebensfreude",
-    "https://www.ravelry.com/patterns/library/armelitas",
-    "https://www.ravelry.com/patterns/library/gluckskind-2",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/comments",
-    "https://www.ravelry.com/patterns/library/marktfrauen-handschuhe",
     "https://www.ravelry.com/patterns/sources/florentines-ravelry-store",
+    "https://www.ravelry.com/patterns/library/gluckskind-2/editors",
+    "https://www.ravelry.com/patterns/library/armelitas",
+    "https://www.ravelry.com/patterns/library/gluckskind-2/people",
+    "https://www.ravelry.com/patterns/library/gluckskind-2/comments",
+    "https://www.ravelry.com/patterns/library/gluckskind-2/report",
+    "https://www.ravelry.com/patterns/library/marktfrauen-handschuhe",
     "https://www.ravelry.com/patterns/library/gluckskind-2/threads",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/people"
+    "https://www.ravelry.com/patterns/library/gluckskind-2",
+    "https://www.ravelry.com/patterns/library/lebensfreude",
+    "https://www.ravelry.com/patterns/library/gluckskind-2/yarns"
   ]
 }

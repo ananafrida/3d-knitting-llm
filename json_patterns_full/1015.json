@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1015,
   "pattern_page": "https://www.ravelry.com/patterns/library/increase---decrease-ball",
   "craft": "Knitting",
   "category": "Ball",
@@ -14,14 +15,14 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/increase---decrease-ball/people",
-    "https://www.ravelry.com/patterns/library/increase---decrease-ball/yarns",
     "https://www.ravelry.com/patterns/library/increase---decrease-ball/comments",
-    "https://www.ravelry.com/patterns/library/increase---decrease-ball/report",
     "https://www.ravelry.com/patterns/sources/knitting-birds-nest",
+    "https://www.ravelry.com/patterns/library/increase---decrease-ball/yarns",
+    "https://www.ravelry.com/patterns/library/increase---decrease-ball",
+    "https://www.ravelry.com/patterns/library/increase---decrease-ball/report",
     "https://www.ravelry.com/patterns/library/nano-pocket",
     "https://www.ravelry.com/patterns/library/increase---decrease-ball/editors",
-    "https://www.ravelry.com/patterns/library/increase---decrease-ball"
+    "https://www.ravelry.com/patterns/library/increase---decrease-ball/people"
   ],
   "name": "Ravelry: Increase / Decrease Ball pattern by Sara Bird"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1069,
   "pattern_page": "https://www.ravelry.com/patterns/library/souffle-tee",
   "craft": "Knitting",
   "category": "Tops → Tee",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Hedgehog Fibres Oh So Fine Soufflé",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Hedgehog Fibres Oh So Fine Soufflé"
   ],
   "attributes": [
     "adult",
@@ -23,16 +24,16 @@
   "shape": "cylinder",
   "download_links": [
     "https://www.ravelry.com/patterns/library/souffle-tee/threads",
-    "https://www.ravelry.com/patterns/library/le-pouf-2",
-    "https://www.ravelry.com/patterns/library/souffle-tee/yarns",
-    "https://www.ravelry.com/patterns/library/souffle-tee/people",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
-    "https://www.ravelry.com/patterns/library/tweedy-junior",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/souffle-tee",
-    "https://www.ravelry.com/patterns/library/souffle-tee/report",
-    "https://www.ravelry.com/patterns/library/souffle-tee/editors",
-    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
     "https://www.ravelry.com/patterns/library/souffle-tee/comments",
+    "https://www.ravelry.com/patterns/library/tweedy-junior",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/souffle-tee/people",
+    "https://www.ravelry.com/patterns/library/souffle-tee/yarns",
+    "https://www.ravelry.com/patterns/library/souffle-tee/editors",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/souffle-tee",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/le-pouf-2",
+    "https://www.ravelry.com/patterns/library/souffle-tee/report",
     "https://www.ravelry.com/patterns/library/souffle-tee"
   ],
   "name": "Ravelry: Soufflé Tee pattern by Beata Jezek"

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1499,
   "pattern_page": "https://www.ravelry.com/patterns/library/swatchtastic",
   "name": "Swatchtastic",
   "description": "",
@@ -30,20 +31,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/swatchtastic",
-    "https://www.ravelry.com/patterns/library/swatchtastic/threads",
-    "http://www.ravelry.com/patterns/sources/mad-colour/patterns",
-    "https://www.ravelry.com/patterns/library/swatchtastic/comments",
     "https://www.ravelry.com/patterns/library/undertone",
+    "https://www.ravelry.com/patterns/library/swatchtastic/people",
+    "https://www.ravelry.com/patterns/library/swatchtastic",
     "https://www.ravelry.com/patterns/library/swatchtastic/yarns",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/swatchtastic/editors",
-    "https://www.ravelry.com/patterns/library/swatchtastic/report",
-    "https://www.ravelry.com/patterns/sources/mad-colour/patterns",
+    "https://www.ravelry.com/patterns/library/swatchtastic/comments",
     "https://www.ravelry.com/patterns/library/freeze",
     "https://www.ravelry.com/patterns/sources/mad-colour",
-    "https://www.ravelry.com/patterns/library/swatchtastic/people",
+    "https://www.ravelry.com/patterns/sources/mad-colour/patterns",
     "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "http://www.ravelry.com/patterns/sources/mad-colour/patterns",
+    "https://www.ravelry.com/patterns/library/swatchtastic/report",
+    "https://www.ravelry.com/patterns/library/swatchtastic/threads",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
+    "https://www.ravelry.com/patterns/library/swatchtastic/editors",
     "https://www.ravelry.com/patterns/library/1999n"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1458,
   "pattern_page": "https://www.ravelry.com/patterns/library/ball-ble",
   "name": "Ball-ble",
   "description": "Why not use yarn to knit more yarn? Ball-ble is a little bit silly but very cute and fun. Twisted rib and travelling stitches create a yarn-like texture on the tiniest ball of yarn you ever did see.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Botanical Yarn Sock 4 ply",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Botanical Yarn Sock 4 ply"
   ],
   "attributes": [
     "3-dimensional",
@@ -25,16 +26,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/ball-ble/threads",
+    "https://www.ravelry.com/patterns/library/ball-ble",
     "https://www.ravelry.com/patterns/library/ball-ble/report",
-    "https://www.ravelry.com/patterns/library/knitty-committee-top",
-    "https://www.ravelry.com/patterns/library/ball-ble/people",
-    "https://www.ravelry.com/patterns/library/lkm-finest-fit-socks",
     "https://www.ravelry.com/patterns/sources/lily-kate-frances-ravelry-store",
+    "https://www.ravelry.com/patterns/library/knitty-committee-top",
+    "https://www.ravelry.com/patterns/library/lkm-finest-fit-socks",
+    "https://www.ravelry.com/patterns/library/winnie-top-2",
     "https://www.ravelry.com/patterns/library/ball-ble/comments",
     "https://www.ravelry.com/patterns/library/ball-ble/editors",
     "https://www.ravelry.com/patterns/library/ball-ble/yarns",
-    "https://www.ravelry.com/patterns/library/ball-ble/threads",
-    "https://www.ravelry.com/patterns/library/ball-ble",
-    "https://www.ravelry.com/patterns/library/winnie-top-2"
+    "https://www.ravelry.com/patterns/library/ball-ble/people"
   ]
 }

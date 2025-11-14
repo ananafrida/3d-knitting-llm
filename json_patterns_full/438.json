@@ -1,4 +1,5 @@
 {
+  "pattern_id": 438,
   "pattern_page": "https://www.ravelry.com/patterns/library/135-21-cedric",
   "craft": "Knitting",
   "category": "Sweater → Cardigan Coat / Jacket",
@@ -47,21 +48,21 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/135-21-cedric/threads",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "http://www.garnstudio.com/lang/us/pattern.php?id=5306&lang=us",
-    "https://www.ravelry.com/patterns/sources/drops-135",
-    "https://www.ravelry.com/patterns/library/135-21-cedric/report",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/library/151-6-orchid-bloom",
-    "https://www.ravelry.com/patterns/library/135-21-cedric/people",
     "https://www.ravelry.com/patterns/library/156-32-autumn-grace",
-    "https://www.ravelry.com/patterns/library/135-21-cedric/edit",
-    "https://www.ravelry.com/patterns/library/135-21-cedric",
+    "https://www.ravelry.com/patterns/periodicals/drops",
+    "https://www.ravelry.com/patterns/library/151-6-orchid-bloom",
+    "https://www.ravelry.com/patterns/sources/drops-135",
     "https://www.ravelry.com/patterns/library/135-21-cedric/comments",
-    "https://www.ravelry.com/patterns/library/135-21-cedric/editors",
     "https://www.ravelry.com/patterns/library/135-21-cedric/yarns",
-    "https://www.ravelry.com/patterns/sources/drops-design"
+    "https://www.ravelry.com/patterns/library/135-21-cedric",
+    "https://www.ravelry.com/patterns/library/135-21-cedric/editors",
+    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
+    "https://www.ravelry.com/patterns/library/135-21-cedric/people",
+    "http://www.garnstudio.com/lang/us/pattern.php?id=5306&lang=us",
+    "https://www.ravelry.com/patterns/library/135-21-cedric/edit",
+    "https://www.ravelry.com/patterns/library/135-21-cedric/report",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/135-21-cedric/threads"
   ],
   "name": "Ravelry: 135-21 Cedric pattern by DROPS design"
 }

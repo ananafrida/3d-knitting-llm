@@ -1,4 +1,5 @@
 {
+  "pattern_id": 467,
   "pattern_page": "https://www.ravelry.com/patterns/library/litmus-cowl",
   "name": "Litmus Cowl",
   "description": "The Litmus Cowl is a basic recipe for creating a fun striped cowl. It’s something I improvised to work on while I was travelling and I got so many questions about it, I thought I’d write up what I did.",
@@ -23,14 +24,14 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/litmus-cowl",
     "https://www.ravelry.com/patterns/library/litmus-cowl/report",
+    "https://www.ravelry.com/patterns/library/litmus-cowl",
+    "https://www.ravelry.com/patterns/library/litmus-cowl/comments",
+    "https://www.ravelry.com/patterns/library/litmus-cowl/posts",
     "https://www.ravelry.com/patterns/sources/stranded-dyeworks",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/yarns",
     "https://www.ravelry.com/patterns/library/litmus-cowl/threads",
     "https://www.ravelry.com/patterns/library/litmus-cowl/editors",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/comments",
     "https://www.ravelry.com/patterns/library/litmus-cowl/people",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/posts"
+    "https://www.ravelry.com/patterns/library/litmus-cowl/yarns"
   ]
 }

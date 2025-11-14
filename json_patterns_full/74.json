@@ -1,4 +1,5 @@
 {
+  "pattern_id": 74,
   "pattern_page": "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square",
   "name": "Ichthyosaurs Blanket Square",
   "description": "The first correctly identified ichthyosaur skeleton was discovered in England by my heroine Mary Anning in the early 1800s, of course she got no credit at the time, being poor, single, and female.",
@@ -11,8 +12,8 @@
     "Universal"
   ],
   "suggested_yarn": [
-    "Deramores Studio Anti-Pilling DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Deramores Studio Anti-Pilling DK"
   ],
   "attributes": [
     "chart",
@@ -24,15 +25,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/editors",
-    "https://www.ravelry.com/patterns/library/dunkleosteus-blanket-square",
-    "https://www.ravelry.com/patterns/library/pachycephalosaur-blanket-square",
+    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/people",
+    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/comments",
+    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/report",
     "https://www.ravelry.com/patterns/library/leaellynasaura-blanket-square",
     "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/report",
-    "https://www.ravelry.com/patterns/sources/mandy-kays-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/editors",
     "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/yarns",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/comments",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/people"
+    "https://www.ravelry.com/patterns/library/pachycephalosaur-blanket-square",
+    "https://www.ravelry.com/patterns/sources/mandy-kays-ravelry-store",
+    "https://www.ravelry.com/patterns/library/dunkleosteus-blanket-square"
   ]
 }

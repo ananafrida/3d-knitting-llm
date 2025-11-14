@@ -1,4 +1,5 @@
 {
+  "pattern_id": 633,
   "pattern_page": "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo",
   "craft": "Knitting",
   "category": "Blanket → Baby Blanket",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Purl Soho Campo"
+    "Purl Soho Campo",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "modular",
@@ -25,17 +26,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/people",
-    "https://www.ravelry.com/patterns/library/striped-triangle-garter-wrap",
-    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo",
-    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/editors",
-    "https://www.ravelry.com/patterns/library/knit--purl-washcloth",
     "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/report",
-    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/yarns",
-    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/threads",
-    "https://www.ravelry.com/patterns/library/four-points-baby-blanket-in-linen-quill",
+    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/comments",
     "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/comments"
+    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/threads",
+    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/people",
+    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/yarns",
+    "https://www.ravelry.com/patterns/library/knit--purl-washcloth",
+    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo/editors",
+    "https://www.ravelry.com/patterns/library/four-points-baby-blanket-in-linen-quill",
+    "https://www.ravelry.com/patterns/library/four-points-blanket-in-campo",
+    "https://www.ravelry.com/patterns/library/striped-triangle-garter-wrap"
   ],
   "name": "Ravelry: Four Points Blanket In Campo pattern by Purl Soho"
 }

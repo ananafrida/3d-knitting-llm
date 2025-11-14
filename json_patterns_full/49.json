@@ -1,4 +1,5 @@
 {
+  "pattern_id": 49,
   "pattern_page": "https://www.ravelry.com/patterns/library/lappestafetten",
   "name": "Lappestafetten",
   "description": "Lappestafetten er en samstrikk for alle.",
@@ -21,16 +22,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/girlandersjal",
-    "https://www.ravelry.com/patterns/library/lappestafetten/people",
-    "https://www.ravelry.com/patterns/library/lappestafetten/report",
-    "https://www.ravelry.com/patterns/library/kita-skjerf",
-    "https://www.ravelry.com/patterns/library/varstrikk-ved-fjorden",
     "https://www.ravelry.com/patterns/library/lappestafetten",
-    "https://www.ravelry.com/patterns/library/lappestafetten/comments",
-    "https://www.ravelry.com/patterns/library/lappestafetten/yarns",
-    "https://www.ravelry.com/patterns/sources/gunn-iren-gunvorsdatter-simensens-ravelry-store",
+    "https://www.ravelry.com/patterns/library/lappestafetten/people",
     "https://www.ravelry.com/patterns/library/lappestafetten/threads",
-    "https://www.ravelry.com/patterns/library/lappestafetten/editors"
+    "https://www.ravelry.com/patterns/library/lappestafetten/report",
+    "https://www.ravelry.com/patterns/library/girlandersjal",
+    "https://www.ravelry.com/patterns/library/lappestafetten/yarns",
+    "https://www.ravelry.com/patterns/library/kita-skjerf",
+    "https://www.ravelry.com/patterns/library/lappestafetten/editors",
+    "https://www.ravelry.com/patterns/library/varstrikk-ved-fjorden",
+    "https://www.ravelry.com/patterns/library/lappestafetten/comments",
+    "https://www.ravelry.com/patterns/sources/gunn-iren-gunvorsdatter-simensens-ravelry-store"
   ]
 }

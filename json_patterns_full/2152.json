@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2152,
   "pattern_page": "https://www.ravelry.com/patterns/library/gwedenn-hat",
   "craft": "Knitting",
   "category": "Hat → Beanie, Toque",
@@ -9,8 +10,8 @@
     "French"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "De Rerum Natura Gilliatt"
+    "De Rerum Natura Gilliatt",
+    "yarn held together"
   ],
   "attributes": [
     "adult",
@@ -27,18 +28,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/de-rerum-natura-website",
+    "https://www.ravelry.com/patterns/library/leizh",
+    "https://www.ravelry.com/patterns/library/lucky-you",
+    "https://www.ravelry.com/patterns/library/gwedenn-hat",
+    "https://www.ravelry.com/patterns/library/gwedenn-hat/editors",
+    "https://www.ravelry.com/patterns/library/gwedenn-hat/report",
+    "https://www.ravelry.com/patterns/sources/de-rerum-natura-blog",
+    "https://www.ravelry.com/patterns/library/gwedenn-hat/yarns",
     "https://www.ravelry.com/patterns/library/kled",
     "https://www.ravelry.com/patterns/library/gwedenn-hat/people",
-    "https://www.ravelry.com/patterns/library/gwedenn-hat/yarns",
-    "https://www.ravelry.com/patterns/library/gwedenn-hat",
-    "https://www.ravelry.com/patterns/library/gwedenn-hat/threads",
+    "https://www.ravelry.com/patterns/sources/de-rerum-natura-website",
     "https://www.ravelry.com/patterns/library/gwedenn-hat/comments",
-    "https://www.ravelry.com/patterns/library/leizh",
-    "https://www.ravelry.com/patterns/sources/de-rerum-natura-blog",
-    "https://www.ravelry.com/patterns/library/gwedenn-hat/editors",
-    "https://www.ravelry.com/patterns/library/lucky-you",
-    "https://www.ravelry.com/patterns/library/gwedenn-hat/report"
+    "https://www.ravelry.com/patterns/library/gwedenn-hat/threads"
   ],
   "name": "Ravelry: Gwedenn hat pattern by Solenn Couix-Loarer"
 }

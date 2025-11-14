@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1082,
   "pattern_page": "https://www.ravelry.com/patterns/library/slatter---tee",
   "name": "Slåtter - tee",
   "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
@@ -19,8 +20,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Järbo Nova Eko",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Järbo Nova Eko"
   ],
   "attributes": [
     "adult",
@@ -34,19 +35,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/slatter---tee/threads",
-    "https://www.ravelry.com/patterns/library/slatter---tee/yarns",
     "https://www.ravelry.com/patterns/library/slatter---tee",
-    "https://www.ravelry.com/patterns/sources/jarbo-booklet-14-fabod-1",
-    "https://www.ravelry.com/patterns/library/slatter---tee/comments",
-    "https://www.ravelry.com/patterns/library/slatter---tee/people",
-    "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-14-fabod-1",
-    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
+    "https://www.ravelry.com/patterns/library/slatter---tee/yarns",
     "https://www.ravelry.com/patterns/library/mariniere---pullover",
     "https://www.ravelry.com/patterns/library/slatter---tee/editors",
+    "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-14-fabod-1",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
+    "https://www.ravelry.com/patterns/library/loge---sweater",
+    "https://www.ravelry.com/patterns/library/slatter---tee/comments",
     "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-14-fabod-1/patterns",
-    "https://www.ravelry.com/patterns/library/gala---cardigan",
     "https://www.ravelry.com/patterns/library/slatter---tee/report",
-    "https://www.ravelry.com/patterns/library/loge---sweater"
+    "https://www.ravelry.com/patterns/library/gala---cardigan",
+    "https://www.ravelry.com/patterns/library/slatter---tee/people",
+    "https://www.ravelry.com/patterns/library/slatter---tee/threads",
+    "https://www.ravelry.com/patterns/sources/jarbo-booklet-14-fabod-1"
   ]
 }

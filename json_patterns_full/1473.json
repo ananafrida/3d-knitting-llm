@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1473,
   "pattern_page": "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers",
   "name": "FroggyBug 2024 Mini jumpers",
   "description": "Those little jumpers don’t need much wool, but a lot of patience, each of them is 2-3 hours of crafting.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Baby Merino",
-    "Any gauge - designed for any gauge ?"
+    "Any gauge - designed for any gauge ?",
+    "Garnstudio DROPS Baby Merino"
   ],
   "attributes": [
     "chart",
@@ -29,14 +30,14 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/people",
-    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/comments",
-    "https://www.ravelry.com/patterns/library/froggybug-snail",
     "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/editors",
-    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store",
     "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers",
+    "https://www.ravelry.com/patterns/library/froggybug-snail",
+    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/comments",
+    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/yarns",
     "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/report",
+    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store",
     "https://www.ravelry.com/patterns/library/froggybug-6-mini-xmas-jumpers",
-    "https://www.ravelry.com/patterns/library/froggybug-frog",
-    "https://www.ravelry.com/patterns/library/froggybug-2024-mini-jumpers/yarns"
+    "https://www.ravelry.com/patterns/library/froggybug-frog"
   ]
 }

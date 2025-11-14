@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1506,
   "pattern_page": "https://www.ravelry.com/patterns/library/fall-festival-acorns",
   "name": "Fall Festival Acorns",
   "description": "Knit acorns to accompany your knit leaves and pumpkins. Using just one Fall Festival bundle, you can create colorful decor for everyone’s favorite season.",
@@ -23,19 +24,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
-    "https://www.ravelry.com/patterns/library/fall-leaves-13",
     "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/yarns",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/people",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/editors",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/threads",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/report",
     "https://www.ravelry.com/patterns/library/ely-capelet",
     "https://www.ravelry.com/patterns/library/fall-festival-acorns/comments",
+    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
+    "https://www.ravelry.com/patterns/library/fall-festival-acorns/report",
     "https://www.ravelry.com/patterns/library/fall-festival-acorns",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns"
+    "https://www.ravelry.com/patterns/library/fall-festival-acorns/editors",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/fall-festival-acorns/yarns",
+    "https://www.ravelry.com/patterns/library/fall-leaves-13",
+    "https://www.ravelry.com/patterns/library/fall-festival-acorns/people",
+    "https://www.ravelry.com/patterns/library/fall-festival-acorns/threads",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website"
   ]
 }

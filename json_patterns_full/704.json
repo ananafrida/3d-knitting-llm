@@ -1,4 +1,5 @@
 {
+  "pattern_id": 704,
   "pattern_page": "https://www.ravelry.com/patterns/library/campanula-childrens-hat",
   "name": "Campanula Childrens Hat",
   "description": "This hat is designed to keep the head, ears and forehead of little ones warm. Because of its unique pixie form it stays on the head. The hat is called Campanula because it looks a bit like a bluebell.",
@@ -12,8 +13,8 @@
     "German"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Rauwerk Merino DK"
+    "Rauwerk Merino DK",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "baby",
@@ -32,18 +33,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/come-on-home",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/threads",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat",
-    "https://www.ravelry.com/patterns/sources/the-mothering-journey-magazine-2017-herbst",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/people",
-    "https://www.ravelry.com/patterns/library/tapestry-12",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/comments",
     "https://www.ravelry.com/patterns/sources/yarnchix-zine-a5-issue-2",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/yarns",
+    "https://www.ravelry.com/patterns/sources/the-mothering-journey-magazine-2017-herbst",
+    "https://www.ravelry.com/patterns/library/come-on-home",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat",
+    "https://www.ravelry.com/patterns/library/tapestry-12",
     "https://www.ravelry.com/patterns/library/campanula-childrens-hat/report",
-    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/editors",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/yarns",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/people",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/threads",
+    "https://www.ravelry.com/patterns/library/isobel-bonnet",
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/comments",
     "https://www.ravelry.com/patterns/sources/the-slow-wolfs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/isobel-bonnet"
+    "https://www.ravelry.com/patterns/library/campanula-childrens-hat/editors"
   ]
 }

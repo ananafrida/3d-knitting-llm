@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2215,
   "pattern_page": "https://www.ravelry.com/patterns/library/knitted-3d-glasses",
   "craft": "Knitting",
   "category": "Costume",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Zwerger Garn Opal Hundertwasser 4-fach / 4-ply",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Zwerger Garn Opal Hundertwasser 4-fach / 4-ply"
   ],
   "attributes": [
     "3-dimensional",
@@ -20,18 +21,18 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/strikkoman",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/editors",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/report",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/yarns",
-    "http://christunte.blogspot.com/2009/11/sort-of-pattern.html",
-    "https://www.ravelry.com/patterns/library/cpap-hat-upwards",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/comments",
-    "https://www.ravelry.com/patterns/library/teddybear-poncho-sweater",
-    "https://www.ravelry.com/patterns/library/angel-touch-scarf",
     "https://www.ravelry.com/patterns/library/knitted-3d-glasses/people",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/threads",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses"
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/editors",
+    "http://christunte.blogspot.com/2009/11/sort-of-pattern.html",
+    "https://www.ravelry.com/patterns/sources/strikkoman",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/report",
+    "https://www.ravelry.com/patterns/library/cpap-hat-upwards",
+    "https://www.ravelry.com/patterns/library/teddybear-poncho-sweater",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/yarns",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/comments",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses",
+    "https://www.ravelry.com/patterns/library/angel-touch-scarf",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/threads"
   ],
   "name": "Ravelry: Knitted 3D Glasses pattern by Christine R. Hansen"
 }

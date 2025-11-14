@@ -1,4 +1,5 @@
 {
+  "pattern_id": 589,
   "pattern_page": "https://www.ravelry.com/patterns/library/sliding-is-fun",
   "name": "Sliding is fun",
   "description": "You: “I need to make a baby blanket.”",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Juniper Moon Farm Cumulus"
+    "Juniper Moon Farm Cumulus",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "rectangle",
@@ -22,17 +23,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sliding-is-fun/report",
-    "https://www.ravelry.com/patterns/library/sliding-is-fun/people",
-    "https://www.ravelry.com/patterns/library/sliding-is-fun/edit",
-    "https://www.ravelry.com/patterns/library/sliding-is-fun/editors",
-    "https://www.ravelry.com/patterns/library/darn-knit-stripe-it",
-    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
     "https://www.ravelry.com/patterns/library/darn-knit-shade-it",
-    "https://www.ravelry.com/patterns/library/sliding-is-fun",
-    "https://www.ravelry.com/patterns/library/sliding-is-fun/comments",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/people",
+    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/edit",
     "https://www.ravelry.com/patterns/library/sliding-is-fun/yarns",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/editors",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/report",
+    "https://www.ravelry.com/patterns/library/darn-knit-stripe-it",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/comments",
     "https://www.ravelry.com/patterns/library/it-took-two",
-    "https://www.ravelry.com/patterns/library/sliding-is-fun/threads"
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/threads",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun"
   ]
 }

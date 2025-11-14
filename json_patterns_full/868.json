@@ -1,4 +1,5 @@
 {
+  "pattern_id": 868,
   "pattern_page": "https://www.ravelry.com/patterns/library/texture--twist-shawl",
   "name": "Texture & Twist Shawl",
   "description": "Like this pattern? I volunteer at the Loose Ends Project, and I’d love it if you’d consider a small donation to help them match volunteer crafters like myself to families with unfinished projects left behind due to disability, illness or loss of a loved one!",
@@ -12,8 +13,8 @@
     "Additional languages which are not in the download: Danish"
   ],
   "suggested_yarn": [
-    "Stitch Noir Gradient 30 Sock Set",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Stitch Noir Gradient 30 Sock Set"
   ],
   "attributes": [
     "adult",
@@ -36,16 +37,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/yarns",
+    "https://www.ravelry.com/patterns/library/urban-aran-mitts",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/editors",
+    "https://www.ravelry.com/patterns/library/fleur-de-lis-16",
+    "https://www.ravelry.com/patterns/library/fading-guernsey-cowl",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/comments",
     "https://www.ravelry.com/patterns/sources/robbie-laughlins-ravelry-store",
     "https://www.ravelry.com/patterns/library/texture--twist-shawl",
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl/yarns",
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl/comments",
-    "https://www.ravelry.com/patterns/library/fleur-de-lis-16",
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl/threads",
-    "https://www.ravelry.com/patterns/library/texture--twist-shawl/editors",
-    "https://www.ravelry.com/patterns/library/urban-aran-mitts",
     "https://www.ravelry.com/patterns/library/texture--twist-shawl/people",
-    "https://www.ravelry.com/patterns/library/fading-guernsey-cowl",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/threads",
     "https://www.ravelry.com/patterns/library/texture--twist-shawl/report"
   ]
 }

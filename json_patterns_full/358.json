@@ -1,4 +1,5 @@
 {
+  "pattern_id": 358,
   "pattern_page": "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj",
   "name": "Baby Magic Jacket (BMJ)",
   "description": "This pattern for a newborn baby cardigan creates the garment in garter stitch in just one unusual-looking piece. It is worked starting from the left sleeve, then mitred corners, decreases and increases make the raglan shapings and back section. The right sleeve completes the main shape. Stitches picked up along the front edges and back base are used to finish the garment, including the buttonholes.",
@@ -27,15 +28,15 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/lizann-petchs-ravelry-downloads",
-    "https://www.ravelry.com/patterns/library/mitred-squares-in-stocking-stitch",
-    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/yarns",
-    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/report",
-    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/people",
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/editors",
     "https://www.ravelry.com/patterns/library/spiral-staircase-shawl",
     "https://www.ravelry.com/patterns/library/dragons-teeth-shawl",
-    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/editors",
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/people",
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj",
+    "https://www.ravelry.com/patterns/library/mitred-squares-in-stocking-stitch",
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/yarns",
     "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/comments",
-    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj"
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/report",
+    "https://www.ravelry.com/patterns/sources/lizann-petchs-ravelry-downloads"
   ]
 }

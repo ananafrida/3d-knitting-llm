@@ -1,4 +1,5 @@
 {
+  "pattern_id": 692,
   "pattern_page": "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap",
   "name": "Incredible Expanding Gnome Cap",
   "description": "Gnome Cap tutorial video at Very Pink Knits",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Wool2dye4 Cash Sock MCN",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Wool2dye4 Cash Sock MCN"
   ],
   "attributes": [
     "baby",
@@ -33,17 +34,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/yukimi",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/people",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/editors",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/threads",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/report",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap",
     "https://www.ravelry.com/patterns/library/rain-on-the-prairie",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/yarns",
+    "https://www.ravelry.com/patterns/library/yukimi",
     "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/comments",
-    "https://www.ravelry.com/patterns/library/rachael-ellen-beret",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/posts",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/report",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/yarns",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/threads",
     "https://www.ravelry.com/patterns/sources/ravenous-knits",
-    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/posts"
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/people",
+    "https://www.ravelry.com/patterns/library/rachael-ellen-beret",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/editors"
   ]
 }

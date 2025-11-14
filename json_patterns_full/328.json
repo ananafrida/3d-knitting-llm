@@ -1,4 +1,5 @@
 {
+  "pattern_id": 328,
   "pattern_page": "https://www.ravelry.com/patterns/library/korkhenn",
   "craft": "Knitting",
   "category": "Softies → Animal Pet → Toys",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Lily (Spinrite) Sugar'n Cream Solids",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Lily (Spinrite) Sugar'n Cream Solids"
   ],
   "attributes": [
     "3-dimensional",
@@ -22,17 +23,17 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/peg-of-tilling-does-some-knitting",
+    "https://www.ravelry.com/patterns/library/korkhenn/people",
+    "https://www.ravelry.com/patterns/library/spring-onion-bag-for-tennis-balls",
+    "https://www.ravelry.com/patterns/library/korkhenn/comments",
     "https://www.ravelry.com/patterns/library/korkhenn/threads",
+    "https://www.ravelry.com/patterns/library/korkhenn/editors",
+    "https://www.ravelry.com/patterns/library/ruffledy-scarf",
+    "https://www.ravelry.com/patterns/library/korkhenn",
     "https://www.ravelry.com/patterns/library/korkhenn/report",
     "https://www.ravelry.com/patterns/library/korkhenn/yarns",
-    "https://www.ravelry.com/patterns/library/korkhenn/editors",
-    "https://www.ravelry.com/patterns/library/korkhenn/comments",
-    "https://www.ravelry.com/patterns/library/spring-onion-bag-for-tennis-balls",
-    "https://www.ravelry.com/patterns/library/korkhenn",
     "https://www.ravelry.com/patterns/library/korkfisshe",
-    "https://www.ravelry.com/patterns/library/ruffledy-scarf",
-    "https://www.ravelry.com/patterns/library/korkhenn/people"
+    "https://www.ravelry.com/patterns/sources/peg-of-tilling-does-some-knitting"
   ],
   "name": "Ravelry: Korkhenn pattern by Diane Trap"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1906,
   "pattern_page": "https://www.ravelry.com/patterns/library/perfect-knitted-acorn",
   "name": "Perfect Knitted Acorn",
   "description": "Here’s a design I came up with, combining (what I consider to be) the best aspects of all of the acorn patterns I’ve found (and adding my own flavor, too). I’m happy to offer the pattern for free.",
@@ -25,17 +26,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/finbar-classic-bear",
-    "https://www.ravelry.com/patterns/library/amulet-bag-for-your-treasure",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/editors",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/comments",
-    "https://www.ravelry.com/patterns/library/linus-elf-hooded-hat-scarf",
-    "https://www.ravelry.com/patterns/sources/stash-enhancement",
     "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/threads",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/report",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/comments",
+    "https://www.ravelry.com/patterns/library/finbar-classic-bear",
     "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/people",
     "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/yarns",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/editors",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/report",
+    "https://www.ravelry.com/patterns/library/linus-elf-hooded-hat-scarf",
+    "https://www.ravelry.com/patterns/library/amulet-bag-for-your-treasure",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn",
+    "https://www.ravelry.com/patterns/sources/stash-enhancement",
     "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/posts"
   ]
 }

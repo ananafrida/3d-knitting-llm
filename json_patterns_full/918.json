@@ -1,4 +1,5 @@
 {
+  "pattern_id": 918,
   "pattern_page": "https://www.ravelry.com/patterns/library/easypeasy-scarf",
   "name": "EASYPEASY Scarf",
   "description": "Der EASYPEASY Scarf ist ein schlichtes Dreieckstuch, dass sich aufgrund seiner Größe auch hervorragend als Schal für kühlere Tage eignet.",
@@ -25,15 +26,15 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/report",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/yarns",
     "https://www.ravelry.com/patterns/library/easypeasy-scarf",
-    "https://www.ravelry.com/patterns/library/basic--favourite-mittens",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/people",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/editors",
     "https://www.ravelry.com/patterns/library/lasse-hat",
+    "https://www.ravelry.com/patterns/library/easypeasy-scarf/report",
+    "https://www.ravelry.com/patterns/library/easypeasy-scarf/editors",
     "https://www.ravelry.com/patterns/library/easypeasy-scarf/comments",
     "https://www.ravelry.com/patterns/library/clara-cardigan-4",
-    "https://www.ravelry.com/patterns/sources/paulam-ravelry-store"
+    "https://www.ravelry.com/patterns/library/basic--favourite-mittens",
+    "https://www.ravelry.com/patterns/library/easypeasy-scarf/people",
+    "https://www.ravelry.com/patterns/sources/paulam-ravelry-store",
+    "https://www.ravelry.com/patterns/library/easypeasy-scarf/yarns"
   ]
 }

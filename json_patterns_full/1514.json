@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1514,
   "pattern_page": "https://www.ravelry.com/patterns/library/mossy-fairy-castle",
   "name": "Mossy Fairy Castle",
   "description": "My mossy castles are inspired by Moomin’s wonderfully whimsical house and ancient Scottish castles with their fairy filled grounds. In order to keep it delightfully whimsical, I decided to display my castle in a moss filled tea cup!",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Patons North America Classic Wool Worsted"
+    "Patons North America Classic Wool Worsted",
+    "yarn held together"
   ],
   "attributes": [
     "in-the-round",
@@ -23,16 +24,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/yarns",
+    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/people",
+    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/editors",
+    "https://www.ravelry.com/patterns/library/queen-lily-of-the-valley",
+    "https://www.ravelry.com/patterns/library/tiny-nutcrackers",
+    "https://www.ravelry.com/patterns/library/mossy-fairy-castle",
+    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/comments",
+    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house",
     "https://www.ravelry.com/patterns/library/mossy-fairy-castle/threads",
     "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/people",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/yarns",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/comments",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/report",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/editors",
-    "https://www.ravelry.com/patterns/library/tiny-nutcrackers",
-    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house",
-    "https://www.ravelry.com/patterns/library/queen-lily-of-the-valley"
+    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/report"
   ]
 }

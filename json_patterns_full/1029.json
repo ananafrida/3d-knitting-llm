@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1029,
   "pattern_page": "https://www.ravelry.com/patterns/library/tya",
   "name": "Tya",
   "description": "Tya is a top-down drop shoulder tee with a customizable stripe pattern on the upper bust and an optional textured split hem. The pattern features charted and written instructions for the cable detail, short row shaped shoulders and sleeves and folded stockinette edges on the collar and cuffs.",
@@ -12,8 +13,8 @@
     "French"
   ],
   "suggested_yarn": [
-    "Knitting for Olive Cotton Merino",
-    "Light Fingering ?"
+    "Light Fingering ?",
+    "Knitting for Olive Cotton Merino"
   ],
   "attributes": [
     "adult",
@@ -39,16 +40,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tya/editors",
-    "https://www.ravelry.com/patterns/library/tya/yarns",
+    "https://www.ravelry.com/patterns/library/tya",
     "https://www.ravelry.com/patterns/library/calamondin-3",
-    "https://www.ravelry.com/patterns/library/tya/report",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tya/editors",
     "https://www.ravelry.com/patterns/library/tya/threads",
     "https://www.ravelry.com/patterns/library/tya/comments",
-    "https://www.ravelry.com/patterns/library/tya/people",
-    "https://www.ravelry.com/patterns/library/tya",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tya/report",
+    "https://www.ravelry.com/patterns/library/dyomyre",
     "https://www.ravelry.com/patterns/library/piranesi-2",
-    "https://www.ravelry.com/patterns/library/dyomyre"
+    "https://www.ravelry.com/patterns/library/tya/yarns",
+    "https://www.ravelry.com/patterns/library/tya/people"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1421,
   "pattern_page": "https://www.ravelry.com/patterns/library/star-ornament-12",
   "name": "Star Ornament",
   "description": "Gauge",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand LB Collection Fifty Fifty",
-    "Super Bulky (5-6 wpi) ?"
+    "Super Bulky (5-6 wpi) ?",
+    "Lion Brand LB Collection Fifty Fifty"
   ],
   "attributes": [
     "star-shaped"
@@ -21,15 +22,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/star-ornament-12",
-    "https://www.ravelry.com/patterns/library/star-ornament-12/editors",
-    "https://www.ravelry.com/patterns/library/star-ornament-12/report",
-    "https://www.ravelry.com/patterns/library/star-ornament-12/comments",
-    "https://www.ravelry.com/patterns/library/apron-vest",
-    "https://www.ravelry.com/patterns/library/star-ornament-12/people",
     "https://www.ravelry.com/patterns/library/knit-overalls",
     "https://www.ravelry.com/patterns/library/star-ornament-12/yarns",
+    "https://www.ravelry.com/patterns/library/the-garter-bonnet",
+    "https://www.ravelry.com/patterns/library/star-ornament-12/editors",
+    "https://www.ravelry.com/patterns/library/star-ornament-12/report",
     "https://www.ravelry.com/patterns/sources/adella-dutras-ravelry-store",
-    "https://www.ravelry.com/patterns/library/the-garter-bonnet"
+    "https://www.ravelry.com/patterns/library/star-ornament-12",
+    "https://www.ravelry.com/patterns/library/apron-vest",
+    "https://www.ravelry.com/patterns/library/star-ornament-12/comments",
+    "https://www.ravelry.com/patterns/library/star-ornament-12/people"
   ]
 }

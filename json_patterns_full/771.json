@@ -1,4 +1,5 @@
 {
+  "pattern_id": 771,
   "pattern_page": "https://www.ravelry.com/patterns/library/haze-sweater-2",
   "name": "Haze Sweater",
   "description": "The Haze Sweater is my festive free release for 2022. Inspired by traditional Nordic knitting, it is a sweater with a circular yoke that is worked both top down and in the round. The yoke is decorated with two-stranded colourwork that is both fun and easy to knit. First, a double-folded collar is worked. You will then work the yoke, all of which is charted and shaped with simple yarn-over increases, before starting some German short rows to give the sweater a bit of extra structure. You then divide the sleeve and body sections of the yoke, cast on some underarm stitches, and proceed to work the body. You will then work the sleeves.",
@@ -37,16 +38,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/haze-sweater-2/editors",
-    "https://www.ravelry.com/patterns/library/haze-sweater-2/yarns",
-    "https://www.ravelry.com/patterns/library/baby-aosta-cardigan",
-    "https://www.ravelry.com/patterns/library/semper-sweater",
     "https://www.ravelry.com/patterns/sources/the-knit-purl-girl-website",
-    "https://www.ravelry.com/patterns/library/haze-sweater-2",
-    "https://www.ravelry.com/patterns/library/haze-sweater-2/report",
-    "https://www.ravelry.com/patterns/library/haze-sweater-2/threads",
-    "https://www.ravelry.com/patterns/library/haze-sweater-2/comments",
     "https://www.ravelry.com/patterns/library/haze-sweater-2/people",
-    "https://www.ravelry.com/patterns/library/nova-sweater-4"
+    "https://www.ravelry.com/patterns/library/haze-sweater-2/report",
+    "https://www.ravelry.com/patterns/library/nova-sweater-4",
+    "https://www.ravelry.com/patterns/library/baby-aosta-cardigan",
+    "https://www.ravelry.com/patterns/library/haze-sweater-2/comments",
+    "https://www.ravelry.com/patterns/library/semper-sweater",
+    "https://www.ravelry.com/patterns/library/haze-sweater-2",
+    "https://www.ravelry.com/patterns/library/haze-sweater-2/editors",
+    "https://www.ravelry.com/patterns/library/haze-sweater-2/threads",
+    "https://www.ravelry.com/patterns/library/haze-sweater-2/yarns"
   ]
 }

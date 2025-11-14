@@ -1,4 +1,5 @@
 {
+  "pattern_id": 313,
   "pattern_page": "https://www.ravelry.com/patterns/library/catnip-candy-toys",
   "craft": "Knitting",
   "category": "Pet → Toys",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Lily (Spinrite) Sugar'n Cream Solids",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Lily (Spinrite) Sugar'n Cream Solids"
   ],
   "attributes": [
     "one-piece",
@@ -22,18 +23,18 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/posts",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/yarns",
+    "https://www.ravelry.com/patterns/library/catnip-candy-toys/report",
     "https://www.ravelry.com/patterns/library/catnip-candy-toys/people",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
     "https://www.ravelry.com/patterns/library/catnip-candy-toys/comments",
+    "https://www.ravelry.com/patterns/library/catnip-candy-toys/yarns",
     "https://www.ravelry.com/patterns/library/catnip-candy-toys/editors",
     "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/report",
+    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
+    "https://www.ravelry.com/patterns/library/catnip-candy-toys/posts",
     "https://www.ravelry.com/patterns/library/catnip-candy-toys",
     "https://www.ravelry.com/patterns/library/catnip-candy-toys/threads",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2"
+    "https://www.ravelry.com/patterns/library/slip-knit-socks"
   ],
   "name": "Ravelry: Catnip Candy Toys pattern by Yarnspirations Design Studio"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1934,
   "pattern_page": "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
   "name": "Ginkgo Leaf",
   "description": "The ginkgo (or gingko) is such an odd tree, it’s considered a living fossil! The ginkgo is a symbol of many good things: hope, resilience (a ginkgo survived an atomic bomb with little damage), peace, longevity (a ginkgo can live 1000 years), strength, a time of balance and control, etc.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Koigu Premium Merino (KPM)",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Koigu Premium Merino (KPM)"
   ],
   "attributes": [
     "one-piece",
@@ -26,14 +27,14 @@
   "shape": "cube",
   "download_links": [
     "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf",
-    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/comments",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/people",
+    "https://www.ravelry.com/patterns/library/falling-leaves-ii-afghan",
     "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/people",
     "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/editors",
-    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/yarns",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/comments",
     "https://www.ravelry.com/patterns/library/apple-leaf-edging",
     "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/report",
-    "https://www.ravelry.com/patterns/library/falling-leaves-ii-afghan"
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/yarns"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1071,
   "pattern_page": "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt",
   "name": "Perfect Knit T-Shirt",
   "description": "This simple, classic top is designed to be your perfect go-to t-shirt! The shaped neckline, slightly relaxed fit, and excellent drape all come together in perfect harmony to create a knitted version of a classic tee.",
@@ -44,18 +45,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt",
-    "https://www.ravelry.com/patterns/sources/originally-lovely",
-    "https://www.ravelry.com/patterns/library/perfect-crochet-t-shirt",
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/yarns",
-    "https://www.ravelry.com/patterns/library/simple-summer-tank-3",
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/editors",
     "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/people",
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/report",
-    "https://www.originallylovely.com/blogs/knitting/perfect-knit-tshirt-knitting-pattern",
-    "https://www.ravelry.com/patterns/sources/originally-lovely-ravelry-store",
-    "https://www.ravelry.com/patterns/library/brioche-ribbed-hat",
     "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/comments",
-    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/threads"
+    "https://www.originallylovely.com/blogs/knitting/perfect-knit-tshirt-knitting-pattern",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/threads",
+    "https://www.ravelry.com/patterns/sources/originally-lovely-ravelry-store",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt",
+    "https://www.ravelry.com/patterns/library/perfect-crochet-t-shirt",
+    "https://www.ravelry.com/patterns/sources/originally-lovely",
+    "https://www.ravelry.com/patterns/library/brioche-ribbed-hat",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/editors",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/report",
+    "https://www.ravelry.com/patterns/library/simple-summer-tank-3",
+    "https://www.ravelry.com/patterns/library/perfect-knit-t-shirt/yarns"
   ]
 }

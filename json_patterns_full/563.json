@@ -1,4 +1,5 @@
 {
+  "pattern_id": 563,
   "pattern_page": "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket",
   "name": "\"Peekaboo\" Baby Blanket",
   "description": "This blanket has to be one of my ultimate easy-knits. I don’t know what it is about blankets knitted diagonally (or on the bias / corner to corner) but they just seem to fly off my needles at a speed that no other project does. I know this is probably just my perception, but it helps massively when you want to knit up the perfect baby gift in record time!",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Woolly and Warmy Cicibebe Batik",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Woolly and Warmy Cicibebe Batik"
   ],
   "attributes": [
     "video-tutorial",
@@ -21,16 +22,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/editors",
     "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/comments",
     "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/editors",
     "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6",
+    "https://www.ravelry.com/patterns/sources/snufflebean-yarn",
+    "https://www.ravelry.com/patterns/library/diagonal-garter-stitch-scarf-3",
     "https://www.ravelry.com/patterns/sources/snufflebean-yarns-ravelry-store",
     "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/people",
-    "https://www.ravelry.com/patterns/sources/snufflebean-yarn",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket",
     "https://www.ravelry.com/patterns/library/striped-diagonal-baby-blanket",
-    "https://www.ravelry.com/patterns/library/diagonal-garter-stitch-scarf-3",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket"
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/report"
   ]
 }

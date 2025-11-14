@@ -1,4 +1,5 @@
 {
+  "pattern_id": 34,
   "pattern_page": "https://www.ravelry.com/patterns/library/templeton-square",
   "craft": "Knitting",
   "category": "Afghan block",
@@ -18,18 +19,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitty-winter-2012",
-    "https://www.ravelry.com/patterns/library/templeton-square/people",
-    "https://www.ravelry.com/patterns/library/templeton-square/editors",
-    "https://www.ravelry.com/patterns/library/childs-sock-1870",
-    "https://www.ravelry.com/patterns/library/pleasant-morning-baby-bonnet",
+    "https://www.ravelry.com/patterns/library/roselein-hat",
+    "https://www.ravelry.com/patterns/library/templeton-square/comments",
     "https://www.ravelry.com/patterns/library/templeton-square/report",
     "https://www.ravelry.com/patterns/library/templeton-square/yarns",
-    "https://www.ravelry.com/patterns/library/templeton-square",
-    "https://www.ravelry.com/patterns/library/templeton-square/comments",
     "https://www.ravelry.com/patterns/library/templeton-square/threads",
-    "https://www.ravelry.com/patterns/library/roselein-hat",
-    "https://www.ravelry.com/patterns/periodicals/knitty"
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/childs-sock-1870",
+    "https://www.ravelry.com/patterns/library/pleasant-morning-baby-bonnet",
+    "https://www.ravelry.com/patterns/library/templeton-square/editors",
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2012",
+    "https://www.ravelry.com/patterns/library/templeton-square",
+    "https://www.ravelry.com/patterns/library/templeton-square/people"
   ],
   "name": "Ravelry: Templeton Square pattern by Franklin Habit"
 }

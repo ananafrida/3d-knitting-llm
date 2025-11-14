@@ -1,4 +1,5 @@
 {
+  "pattern_id": 714,
   "pattern_page": "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat",
   "craft": "Knitting",
   "category": "Hat → Pixie",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Classic Elite Yarns Wool Bam Boo",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Classic Elite Yarns Wool Bam Boo"
   ],
   "attributes": [
     "baby",
@@ -23,18 +24,18 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/comments",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/posts",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/threads",
     "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/yarns",
-    "https://www.ravelry.com/patterns/library/warrens-man-mitts",
+    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/posts",
+    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/editors",
     "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/people",
     "https://www.ravelry.com/patterns/library/cable-baby-2",
-    "https://www.ravelry.com/patterns/sources/tangled",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/editors",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat",
     "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/report",
-    "https://www.ravelry.com/patterns/library/pixie-love"
+    "https://www.ravelry.com/patterns/library/warrens-man-mitts",
+    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat",
+    "https://www.ravelry.com/patterns/library/pixie-love",
+    "https://www.ravelry.com/patterns/sources/tangled",
+    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/threads",
+    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/comments"
   ],
   "name": "Ravelry: a perfectly simple baby hat... pattern by pamela w allen"
 }

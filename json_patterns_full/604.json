@@ -1,4 +1,5 @@
 {
+  "pattern_id": 604,
   "pattern_page": "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket",
   "craft": "Knitting",
   "category": "Blanket → Throw Blanket → Baby Blanket",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Purl Soho Knitting Yarn DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Purl Soho Knitting Yarn DK"
   ],
   "attributes": [
     "bottom-up",
@@ -25,17 +26,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/embossed-triangles-blanket",
-    "https://www.ravelry.com/patterns/library/tonal-blanket",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/report",
     "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/embossed-triangles-blanket",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/editors",
+    "https://www.ravelry.com/patterns/library/tonal-blanket",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/comments",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/report",
     "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/people",
     "https://www.ravelry.com/patterns/library/portal-blanket",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/editors",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/threads",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/comments"
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/threads"
   ],
   "name": "Ravelry: Little Mitered Stripes Blanket pattern by Purl Soho"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 182,
   "pattern_page": "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag",
   "name": "Dot-in-Box Felted Bag",
   "description": "This pattern is now available for free download from our website at www.barenakedwools.com",
@@ -22,16 +23,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/people",
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/editors",
-    "https://www.ravelry.com/patterns/library/summershine-top",
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/comments",
-    "https://www.ravelry.com/patterns/sources/knitspot-ravelry-shop",
-    "https://www.ravelry.com/patterns/library/box-top-smock",
-    "https://www.ravelry.com/patterns/sources/bare-naked-wools",
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/report",
-    "https://www.ravelry.com/patterns/library/rust-belt-river-vest",
     "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag",
-    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/yarns"
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/people",
+    "https://www.ravelry.com/patterns/library/box-top-smock",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/comments",
+    "https://www.ravelry.com/patterns/sources/bare-naked-wools",
+    "https://www.ravelry.com/patterns/library/summershine-top",
+    "https://www.ravelry.com/patterns/library/rust-belt-river-vest",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/report",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/yarns",
+    "https://www.ravelry.com/patterns/sources/knitspot-ravelry-shop",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/editors"
   ]
 }

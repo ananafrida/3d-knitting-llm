@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2039,
   "pattern_page": "https://www.ravelry.com/patterns/library/boxed-heels",
   "name": "Boxed Heels",
   "description": "I’ve only knit this once and it hasn’t been test knit! Be on the look out for errors.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Quaere Fibre Self Striping Sock 75/25",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Quaere Fibre Self Striping Sock 75/25"
   ],
   "attributes": [
     "adult",
@@ -25,17 +26,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/boxed-heels/people",
-    "https://www.ravelry.com/patterns/library/iced-coffee-koozie-short",
-    "https://www.ravelry.com/patterns/library/iced-coffee-koozie-tall",
-    "https://www.ravelry.com/patterns/library/boxed-heels/posts",
-    "https://www.ravelry.com/patterns/library/boxed-heels",
-    "https://www.ravelry.com/patterns/library/boxed-heels/comments",
-    "https://www.ravelry.com/patterns/sources/quaere",
+    "https://www.ravelry.com/patterns/library/boxed-heels/threads",
     "https://www.ravelry.com/patterns/library/boxed-heels/report",
-    "https://www.ravelry.com/patterns/library/boxed-heels/editors",
+    "https://www.ravelry.com/patterns/library/iced-coffee-koozie-tall",
     "https://www.ravelry.com/patterns/library/boxed-heels/yarns",
+    "https://www.ravelry.com/patterns/library/boxed-heels",
+    "https://www.ravelry.com/patterns/library/boxed-heels/people",
+    "https://www.ravelry.com/patterns/sources/quaere",
+    "https://www.ravelry.com/patterns/library/iced-coffee-koozie-short",
+    "https://www.ravelry.com/patterns/library/boxed-heels/editors",
+    "https://www.ravelry.com/patterns/library/boxed-heels/posts",
     "https://www.ravelry.com/patterns/library/square-toes",
-    "https://www.ravelry.com/patterns/library/boxed-heels/threads"
+    "https://www.ravelry.com/patterns/library/boxed-heels/comments"
   ]
 }

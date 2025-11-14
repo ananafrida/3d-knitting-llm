@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1068,
   "pattern_page": "https://www.ravelry.com/patterns/library/community-kal-pullover",
   "name": "Community KAL Pullover",
   "description": "Größe",
@@ -31,15 +32,15 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sweet-summer-top-2",
-    "https://www.ravelry.com/patterns/library/pumpkin-spice-cardigan",
-    "https://www.ravelry.com/patterns/library/matita-top",
-    "https://www.ravelry.com/patterns/sources/victoria-fabenders-ravelry-store",
-    "https://www.ravelry.com/patterns/library/community-kal-pullover/editors",
+    "https://www.ravelry.com/patterns/library/community-kal-pullover",
     "https://www.ravelry.com/patterns/library/community-kal-pullover/comments",
-    "https://www.ravelry.com/patterns/library/community-kal-pullover/yarns",
-    "https://www.ravelry.com/patterns/library/community-kal-pullover/report",
     "https://www.ravelry.com/patterns/library/community-kal-pullover/people",
-    "https://www.ravelry.com/patterns/library/community-kal-pullover"
+    "https://www.ravelry.com/patterns/library/pumpkin-spice-cardigan",
+    "https://www.ravelry.com/patterns/library/community-kal-pullover/editors",
+    "https://www.ravelry.com/patterns/library/community-kal-pullover/yarns",
+    "https://www.ravelry.com/patterns/library/matita-top",
+    "https://www.ravelry.com/patterns/library/sweet-summer-top-2",
+    "https://www.ravelry.com/patterns/library/community-kal-pullover/report",
+    "https://www.ravelry.com/patterns/sources/victoria-fabenders-ravelry-store"
   ]
 }

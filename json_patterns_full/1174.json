@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1174,
   "pattern_page": "https://www.ravelry.com/patterns/library/watchlings",
   "name": "Watchlings",
   "description": "When the winter cold sets in and all the little animals start hibernating, that’s when the Watchlings start their vigil. They make sure everyone stays cosy in their burrow, their food stores stay safe and the spring plants don’t sprout too soon. Why not knit some to keep an eye on things for you this winter?",
@@ -26,14 +27,14 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/waveform-hat",
-    "https://www.ravelry.com/patterns/library/watchlings/people",
-    "https://www.ravelry.com/patterns/sources/hazel-wadesons-ravelry-store",
     "https://www.ravelry.com/patterns/library/watchlings/report",
-    "https://www.ravelry.com/patterns/library/watchlings/threads",
-    "https://www.ravelry.com/patterns/library/watchlings/yarns",
     "https://www.ravelry.com/patterns/library/watchlings",
     "https://www.ravelry.com/patterns/library/skipping-along-hat",
-    "https://www.ravelry.com/patterns/library/watchlings/editors",
-    "https://www.ravelry.com/patterns/library/watchlings/comments"
+    "https://www.ravelry.com/patterns/library/watchlings/comments",
+    "https://www.ravelry.com/patterns/library/watchlings/people",
+    "https://www.ravelry.com/patterns/sources/hazel-wadesons-ravelry-store",
+    "https://www.ravelry.com/patterns/library/watchlings/yarns",
+    "https://www.ravelry.com/patterns/library/watchlings/threads",
+    "https://www.ravelry.com/patterns/library/watchlings/editors"
   ]
 }

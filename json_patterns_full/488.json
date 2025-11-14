@@ -1,4 +1,5 @@
 {
+  "pattern_id": 488,
   "pattern_page": "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl",
   "name": "An Italian Autumn Cowl",
   "description": "An Italian Autumn Cowl is a cozy double-wrapped cowl that will keep you warm throughout fall (and winter!). The cowl is knitted flat in garter stitch and grafted together at the end (video tutorial included in the pattern!).",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Filcolana Arwetta"
+    "Filcolana Arwetta",
+    "yarn held together"
   ],
   "attributes": [
     "eyelets",
@@ -23,16 +24,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/an-italian-bandana",
-    "https://www.ravelry.com/patterns/library/an-italian-winter-shawl",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/editors",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/comments",
-    "https://www.ravelry.com/patterns/library/an-italian-summer-scarf",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/people",
     "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/report",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/threads",
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/people",
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/editors",
     "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/an-italian-winter-shawl",
+    "https://www.ravelry.com/patterns/library/an-italian-summer-scarf",
     "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl",
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/comments",
+    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/threads",
+    "https://www.ravelry.com/patterns/library/an-italian-bandana",
     "https://www.ravelry.com/patterns/sources/an-italian-knitters-ravelry-store"
   ]
 }

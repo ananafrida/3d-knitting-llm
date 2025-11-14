@@ -1,4 +1,5 @@
 {
+  "pattern_id": 196,
   "pattern_page": "https://www.ravelry.com/patterns/library/canteen-bag",
   "name": "Canteen Bag",
   "description": "Using two yarns held together throughout, the Canteen Bag is a fun knit with interesting construction. Easy for most knitters, with just enough challenge to make it interesting!",
@@ -23,15 +24,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/interweave-knits-fall-2005",
     "https://www.ravelry.com/patterns/sources/rachel-battaglia-nissen",
-    "https://www.ravelry.com/patterns/library/canteen-bag/report",
-    "https://www.ravelry.com/patterns/library/canteen-bag/yarns",
+    "https://www.ravelry.com/patterns/library/canteen-bag",
     "https://www.ravelry.com/patterns/library/canteen-bag/people",
+    "https://www.ravelry.com/patterns/library/canteen-bag/comments",
     "https://www.ravelry.com/patterns/periodicals/interweave-knits",
     "https://www.ravelry.com/patterns/library/canteen-bag/editors",
-    "https://www.ravelry.com/patterns/library/canteen-bag",
-    "https://www.ravelry.com/patterns/library/canteen-bag/comments",
-    "https://www.ravelry.com/patterns/library/canteen-bag/threads"
+    "https://www.ravelry.com/patterns/sources/interweave-knits-fall-2005",
+    "https://www.ravelry.com/patterns/library/canteen-bag/yarns",
+    "https://www.ravelry.com/patterns/library/canteen-bag/threads",
+    "https://www.ravelry.com/patterns/library/canteen-bag/report"
   ]
 }

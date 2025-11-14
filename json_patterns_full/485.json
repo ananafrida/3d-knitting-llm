@@ -1,4 +1,5 @@
 {
+  "pattern_id": 485,
   "pattern_page": "https://www.ravelry.com/patterns/library/empower-people",
   "name": "emPower People",
   "description": "emPower people is a purple colored craftivism project aimed at uniting crafters to spark conversation, engagement, and action. Wear it when you vote, grocery shop, march, or knit in your socially isolated bedroom. We would love to see a sea of purple to represent unity so please tell your friends, family, knitting groups, or anyone who can knit, crochet, or sew a simple pattern. Make a bandana and a commitment to vote!",
@@ -24,18 +25,18 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/empower-people/threads",
-    "https://www.ravelry.com/patterns/library/empower-people-2",
-    "https://www.ravelry.com/patterns/library/breathe-and-hope",
     "https://www.ravelry.com/patterns/library/empower-people/posts",
-    "https://www.ravelry.com/patterns/library/empower-people/comments",
-    "https://www.ravelry.com/patterns/library/empower-people/editors",
-    "https://www.ravelry.com/patterns/library/empower-people/people",
     "https://www.ravelry.com/patterns/library/the-sharon-show",
+    "https://www.ravelry.com/patterns/library/empower-people/people",
+    "https://www.ravelry.com/patterns/library/empower-people/threads",
+    "https://www.ravelry.com/patterns/library/breathe-and-hope",
+    "https://www.ravelry.com/patterns/library/empower-people",
+    "https://www.ravelry.com/patterns/library/empower-people/yarns",
+    "https://www.ravelry.com/patterns/library/hug-shot",
+    "https://www.ravelry.com/patterns/library/empower-people-2",
     "https://www.ravelry.com/patterns/library/empower-people/report",
     "https://www.ravelry.com/patterns/sources/casapinka",
-    "https://www.ravelry.com/patterns/library/hug-shot",
-    "https://www.ravelry.com/patterns/library/empower-people/yarns",
-    "https://www.ravelry.com/patterns/library/empower-people"
+    "https://www.ravelry.com/patterns/library/empower-people/editors",
+    "https://www.ravelry.com/patterns/library/empower-people/comments"
   ]
 }

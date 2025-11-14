@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1755,
   "pattern_page": "https://www.ravelry.com/patterns/library/diamond-brocade-blanket",
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
@@ -21,17 +22,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/threads",
     "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/people",
-    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/comments",
-    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/editors",
-    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket",
-    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/yarns",
+    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
     "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/report",
-    "https://www.ravelry.com/patterns/library/carla-premature-baby-hats",
     "https://www.ravelry.com/patterns/library/old-shale-lace-cardigan",
-    "https://www.ravelry.com/patterns/library/age-uk---innocent-smoothie-hats",
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days"
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/comments",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/threads",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket",
+    "https://www.ravelry.com/patterns/library/carla-premature-baby-hats",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/editors",
+    "https://www.ravelry.com/patterns/library/age-uk---innocent-smoothie-hats"
   ],
   "name": "Ravelry: Diamond Brocade Blanket pattern by marianna mel"
 }

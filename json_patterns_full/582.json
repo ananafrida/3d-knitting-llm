@@ -1,4 +1,5 @@
 {
+  "pattern_id": 582,
   "pattern_page": "https://www.ravelry.com/patterns/library/blanket-for-martin",
   "name": "Blanket for Martin",
   "description": "A new baby blanket is in my pattern collection, namely friends of mine will have baby in May 2022.",
@@ -12,8 +13,8 @@
     "Hungarian"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Scheepjes Catona"
+    "Scheepjes Catona",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "chart",
@@ -26,15 +27,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/purls-by-palma",
-    "https://www.ravelry.com/patterns/library/blanket-for-martin/people",
     "https://www.ravelry.com/patterns/library/blanket-for-martin/editors",
-    "https://www.ravelry.com/patterns/library/blanket-for-martin/yarns",
-    "https://www.ravelry.com/patterns/library/blanket-for-martin/report",
     "https://www.ravelry.com/patterns/library/blanket-for-lilla",
+    "https://www.ravelry.com/patterns/sources/purls-by-palma",
     "https://www.ravelry.com/patterns/library/justenough-shawl",
+    "https://www.ravelry.com/patterns/library/blanket-for-martin/yarns",
     "https://www.ravelry.com/patterns/library/blanket-for-martin",
+    "https://www.ravelry.com/patterns/library/blanket-for-martin/comments",
     "https://www.ravelry.com/patterns/library/blanket-for-martin/threads",
-    "https://www.ravelry.com/patterns/library/blanket-for-martin/comments"
+    "https://www.ravelry.com/patterns/library/blanket-for-martin/report",
+    "https://www.ravelry.com/patterns/library/blanket-for-martin/people"
   ]
 }

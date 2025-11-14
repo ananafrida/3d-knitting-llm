@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1744,
   "pattern_page": "https://www.ravelry.com/patterns/library/doudou-carre",
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
@@ -8,8 +9,8 @@
     "French"
   ],
   "suggested_yarn": [
-    "Bulky (7 wpi) ?",
-    "Phildar Phil Partner 6"
+    "Phildar Phil Partner 6",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "reversible",
@@ -21,13 +22,13 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/doudou-carre/people",
     "https://www.ravelry.com/patterns/library/petite-couverture-bebe",
-    "https://www.ravelry.com/patterns/library/doudou-carre/comments",
     "https://www.ravelry.com/patterns/library/doudou-carre/report",
+    "https://www.ravelry.com/patterns/library/doudou-carre/comments",
     "https://www.ravelry.com/patterns/library/doudou-carre/yarns",
-    "https://www.ravelry.com/patterns/library/doudou-carre",
     "https://www.ravelry.com/patterns/sources/blog-de-laudemoizelle",
+    "https://www.ravelry.com/patterns/library/doudou-carre",
+    "https://www.ravelry.com/patterns/library/doudou-carre/people",
     "https://www.ravelry.com/patterns/library/doudou-carre/editors"
   ],
   "name": "Ravelry: Doudou Carré pattern by Lau Demoizelle"

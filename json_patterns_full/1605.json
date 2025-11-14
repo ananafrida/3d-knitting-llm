@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1605,
   "pattern_page": "https://www.ravelry.com/patterns/library/oh-baby-cardi",
   "name": "Oh Baby! Cardi",
   "description": "Your first cardigan from this pattern will not be your last! You will love the ease of knitting a V-neck cardigan without going back to pick up stitches for the button band afterwards - hooray!",
@@ -32,18 +33,18 @@
   ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/roberta-richs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/yarns",
     "https://www.ravelry.com/patterns/library/oh-kiddo-cardi",
     "https://www.ravelry.com/patterns/library/oh-baby-cardi/editors",
     "https://www.ravelry.com/patterns/library/for-the-love-of-knitting",
-    "https://www.ravelry.com/patterns/library/kinda-classy-kinda-hood",
-    "https://www.ravelry.com/patterns/library/look-out-winter-hat",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/report",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/posts",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/threads",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi/people",
     "https://www.ravelry.com/patterns/library/oh-baby-cardi/comments",
-    "https://www.ravelry.com/patterns/library/oh-baby-cardi"
+    "https://www.ravelry.com/patterns/library/kinda-classy-kinda-hood",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/posts",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi",
+    "https://www.ravelry.com/patterns/sources/roberta-richs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/people",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/threads",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/report",
+    "https://www.ravelry.com/patterns/library/look-out-winter-hat",
+    "https://www.ravelry.com/patterns/library/oh-baby-cardi/yarns"
   ]
 }

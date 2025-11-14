@@ -1,4 +1,5 @@
 {
+  "pattern_id": 824,
   "pattern_page": "https://www.ravelry.com/patterns/library/metropolis-3",
   "name": "Metropolis",
   "description": "What could possibly be cozier than a simple, chunky sweater with generous ribbing and a turtleneck that dreams are made of!? I fell in love with this colourway and knew I wanted something simple yet spectacular to let it shine in a garment. If you need me, I’ll be the one walking around on perfect fall days snug as a bug in a rug in my ultimate chunky sweater!",
@@ -33,17 +34,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/metropolis-3/threads",
     "https://www.ravelry.com/patterns/library/rock-it-tee",
-    "https://www.ravelry.com/patterns/library/metropolis-3/posts",
-    "https://www.ravelry.com/patterns/library/metropolis-3/yarns",
-    "https://www.ravelry.com/patterns/sources/tanis-fiber-arts",
-    "https://www.ravelry.com/patterns/library/metropolis-3",
-    "https://www.ravelry.com/patterns/library/metropolis-3/comments",
-    "https://www.ravelry.com/patterns/library/metropolis-3/people",
-    "https://www.ravelry.com/patterns/library/camaro-2",
     "https://www.ravelry.com/patterns/library/metropolis-3/editors",
-    "https://www.ravelry.com/patterns/library/metropolis-3/report",
     "https://www.ravelry.com/patterns/library/city-limits-2",
-    "https://www.ravelry.com/patterns/library/metropolis-3/threads"
+    "https://www.ravelry.com/patterns/library/metropolis-3",
+    "https://www.ravelry.com/patterns/library/metropolis-3/yarns",
+    "https://www.ravelry.com/patterns/library/metropolis-3/report",
+    "https://www.ravelry.com/patterns/library/metropolis-3/comments",
+    "https://www.ravelry.com/patterns/library/camaro-2",
+    "https://www.ravelry.com/patterns/sources/tanis-fiber-arts",
+    "https://www.ravelry.com/patterns/library/metropolis-3/posts",
+    "https://www.ravelry.com/patterns/library/metropolis-3/people"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2003,
   "pattern_page": "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol",
   "name": "Cabled Triple Moon Symbol",
   "description": "The pagan/Wiccan Triple Moon Goddess symbol s a cabled knit.",
@@ -21,15 +22,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/flying-raven-chart",
-    "https://www.ravelry.com/patterns/library/cabled-stag---cernunnos",
-    "https://www.ravelry.com/patterns/sources/corvus-corone-corones-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/people",
-    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/report",
-    "https://www.ravelry.com/patterns/library/sitting-crow-chart",
-    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/yarns",
     "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/editors",
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol",
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/people",
+    "https://www.ravelry.com/patterns/library/flying-raven-chart",
+    "https://www.ravelry.com/patterns/library/sitting-crow-chart",
+    "https://www.ravelry.com/patterns/library/cabled-stag---cernunnos",
     "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/comments",
-    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol"
+    "https://www.ravelry.com/patterns/sources/corvus-corone-corones-ravelry-store",
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/yarns",
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/report"
   ]
 }

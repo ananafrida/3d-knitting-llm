@@ -1,4 +1,5 @@
 {
+  "pattern_id": 221,
   "pattern_page": "https://www.ravelry.com/patterns/library/interlace-bag",
   "name": "Interlace Bag",
   "description": "The Interlace Bag is a small bag with a cabled interlace design. It has a flap that fastens with a button and an optional strap. The finished bag shown measures 8.5”x7”.",
@@ -22,13 +23,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/interlace-bag/comments",
-    "https://www.ravelry.com/patterns/library/interlace-bag",
-    "https://www.ravelry.com/patterns/library/interlace-bag/threads",
-    "https://www.ravelry.com/patterns/library/interlace-bag/people",
     "https://www.ravelry.com/patterns/library/interlace-bag/yarns",
     "https://www.ravelry.com/patterns/sources/h-huggys-ravelry-store",
-    "https://www.ravelry.com/patterns/library/interlace-bag/report",
-    "https://www.ravelry.com/patterns/library/interlace-bag/editors"
+    "https://www.ravelry.com/patterns/library/interlace-bag",
+    "https://www.ravelry.com/patterns/library/interlace-bag/comments",
+    "https://www.ravelry.com/patterns/library/interlace-bag/threads",
+    "https://www.ravelry.com/patterns/library/interlace-bag/people",
+    "https://www.ravelry.com/patterns/library/interlace-bag/editors",
+    "https://www.ravelry.com/patterns/library/interlace-bag/report"
   ]
 }

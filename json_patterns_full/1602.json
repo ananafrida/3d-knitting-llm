@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1602,
   "pattern_page": "https://www.ravelry.com/patterns/library/the-solstice-cardigan",
   "craft": "Knitting",
   "category": "Sweater → Cardigan",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Utopia Crafts Re-Cotton"
+    "Utopia Crafts Re-Cotton",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -34,14 +35,14 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/utopia-crafts",
-    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/yarns",
-    "https://www.ravelry.com/patterns/library/the-solstice-cardigan",
-    "https://utopiacrafts.co.uk/products/the-solstice-cardigan-pattern",
     "https://www.ravelry.com/patterns/library/the-solstice-cardigan/people",
-    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/comments",
     "https://www.ravelry.com/patterns/library/the-solstice-cardigan/editors",
-    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/report"
+    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/comments",
+    "https://www.ravelry.com/patterns/library/the-solstice-cardigan",
+    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/the-solstice-cardigan/report",
+    "https://www.ravelry.com/patterns/sources/utopia-crafts",
+    "https://utopiacrafts.co.uk/products/the-solstice-cardigan-pattern"
   ],
   "name": "Ravelry: The Solstice Cardigan pattern by Utopia Crafts"
 }

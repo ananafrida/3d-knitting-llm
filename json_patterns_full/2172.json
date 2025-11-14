@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2172,
   "pattern_page": "https://www.ravelry.com/patterns/library/citrus-hat",
   "name": "Citrus Hat",
   "description": "Called the Citrus Hat for the way the decreases create the appearance of a citrus fruit, this is a pretty basic hat pattern that works well with pretty much any yarn and can fit multiple head sizes.",
@@ -37,17 +38,17 @@
   ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/citrus-hat/posts",
-    "https://www.ravelry.com/patterns/library/citrus-hat/report",
-    "https://www.ravelry.com/patterns/library/citrus-hat/yarns",
-    "https://www.ravelry.com/patterns/library/citrus-hat/editors",
     "https://www.ravelry.com/patterns/sources/laura-treadways-ravelry-store",
-    "https://www.ravelry.com/patterns/library/i-love-stockinette-baby-bib",
-    "https://www.ravelry.com/patterns/library/citrus-hat/people",
-    "https://www.ravelry.com/patterns/library/citrus-hat",
-    "https://www.ravelry.com/patterns/library/citrus-hat/threads",
+    "https://www.ravelry.com/patterns/library/sidekick",
+    "https://www.ravelry.com/patterns/library/citrus-hat/yarns",
     "https://www.ravelry.com/patterns/library/two-one-cowl",
+    "https://www.ravelry.com/patterns/library/citrus-hat/editors",
+    "https://www.ravelry.com/patterns/library/i-love-stockinette-baby-bib",
+    "https://www.ravelry.com/patterns/library/citrus-hat/threads",
+    "https://www.ravelry.com/patterns/library/citrus-hat/people",
+    "https://www.ravelry.com/patterns/library/citrus-hat/posts",
     "https://www.ravelry.com/patterns/library/citrus-hat/comments",
-    "https://www.ravelry.com/patterns/library/sidekick"
+    "https://www.ravelry.com/patterns/library/citrus-hat",
+    "https://www.ravelry.com/patterns/library/citrus-hat/report"
   ]
 }

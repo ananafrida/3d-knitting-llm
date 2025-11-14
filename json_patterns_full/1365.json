@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1365,
   "pattern_page": "https://www.ravelry.com/patterns/library/hearts-28",
   "name": "Hearts",
   "description": "Each of these little puffy Hearts can be finished in about 30 minutes give or take, and make super projects for using up odds and ends of your yarn stash.",
@@ -12,8 +13,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Deramores Studio Anti-Pilling DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Deramores Studio Anti-Pilling DK"
   ],
   "attributes": [
     "3-dimensional",
@@ -30,18 +31,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hearts-28/people",
-    "https://www.ravelry.com/patterns/library/hearts-28/posts",
-    "https://www.ravelry.com/patterns/library/starfish-24",
-    "https://www.ravelry.com/patterns/library/hearts-28/report",
-    "https://www.ravelry.com/patterns/library/rainbow-35",
-    "https://www.ravelry.com/patterns/library/hearts-28/threads",
-    "https://www.ravelry.com/bundles/free-patterns-500",
-    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
-    "https://www.ravelry.com/patterns/library/hearts-28",
-    "https://www.ravelry.com/patterns/library/mini-mittens-13",
-    "https://www.ravelry.com/patterns/library/hearts-28/editors",
     "https://www.ravelry.com/patterns/library/hearts-28/comments",
-    "https://www.ravelry.com/patterns/library/hearts-28/yarns"
+    "https://www.ravelry.com/patterns/library/hearts-28/editors",
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/hearts-28",
+    "https://www.ravelry.com/patterns/library/hearts-28/yarns",
+    "https://www.ravelry.com/patterns/library/hearts-28/posts",
+    "https://www.ravelry.com/patterns/library/rainbow-35",
+    "https://www.ravelry.com/patterns/library/hearts-28/people",
+    "https://www.ravelry.com/patterns/library/hearts-28/threads",
+    "https://www.ravelry.com/patterns/library/mini-mittens-13",
+    "https://www.ravelry.com/patterns/library/hearts-28/report",
+    "https://www.ravelry.com/patterns/library/starfish-24"
   ]
 }

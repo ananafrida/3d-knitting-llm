@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2147,
   "pattern_page": "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat",
   "name": "Pixel Pop Knit Hat",
   "description": "Pattern is free with ads on the website*",
@@ -30,20 +31,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/yarns",
-    "https://marlybird.com/blog/pixel-pop-knit-hat-free-pattern/",
-    "https://www.ravelry.com/patterns/library/twilight-trails-2",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat",
-    "https://www.ravelry.com/patterns/library/the-archer-2",
-    "https://www.ravelry.com/patterns/sources/marly-birds-website",
-    "https://www.ravelry.com/patterns/sources/marly-bird-etsy-store",
-    "https://www.ravelry.com/patterns/sources/marly-birds-ravelry-store",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/comments",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/people",
-    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/report",
     "https://www.ravelry.com/patterns/library/prism-path-swoncho",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/comments",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/report",
+    "https://www.ravelry.com/patterns/sources/marly-birds-website",
+    "https://marlybird.com/blog/pixel-pop-knit-hat-free-pattern/",
+    "https://www.ravelry.com/patterns/sources/marly-bird-house",
+    "https://www.ravelry.com/patterns/library/twilight-trails-2",
+    "https://www.ravelry.com/patterns/library/the-archer-2",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/yarns",
     "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/editors",
+    "https://www.ravelry.com/patterns/sources/marly-birds-ravelry-store",
     "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/threads",
-    "https://www.ravelry.com/patterns/sources/marly-bird-house"
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat",
+    "https://www.ravelry.com/patterns/sources/marly-bird-etsy-store",
+    "https://www.ravelry.com/patterns/library/pixel-pop-knit-hat/people"
   ]
 }

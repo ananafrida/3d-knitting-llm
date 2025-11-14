@@ -1,4 +1,5 @@
 {
+  "pattern_id": 484,
   "pattern_page": "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
   "name": "Bandana Cowl No. 4",
   "description": "Yarn: 130 yards of dk weight yarn",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Shibui Knits Nest",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Shibui Knits Nest"
   ],
   "attributes": [
     "adult",
@@ -29,18 +30,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/editors",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-2",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/people",
+    "https://www.ravelry.com/patterns/sources/cleo-malones-ravelry-store",
+    "https://www.ravelry.com/patterns/library/little-triangle-scarf-no1",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
     "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/comments",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/report",
+    "https://www.ravelry.com/patterns/sources/placemarker",
     "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/threads",
     "https://www.ravelry.com/patterns/library/brioche-hat-no-2",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/editors",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/people",
     "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/yarns",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/posts",
-    "https://www.ravelry.com/patterns/sources/placemarker",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/report",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-2",
-    "https://www.ravelry.com/patterns/sources/cleo-malones-ravelry-store",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
-    "https://www.ravelry.com/patterns/library/little-triangle-scarf-no1"
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/posts"
   ]
 }

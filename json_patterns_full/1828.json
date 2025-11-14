@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1828,
   "pattern_page": "https://www.ravelry.com/patterns/library/ez-organizers",
   "craft": "Knitting",
   "category": "Containers",
@@ -25,18 +26,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ez-organizers/yarns",
-    "https://www.ravelry.com/patterns/library/ez-organizers/people",
-    "https://www.ravelry.com/patterns/library/ez-organizers/comments",
-    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/ez-organizers/editors",
-    "https://www.ravelry.com/patterns/library/ez-organizers/report",
-    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
-    "https://www.ravelry.com/patterns/library/ez-organizers",
     "https://www.ravelry.com/patterns/library/ez-organizers/threads",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2"
+    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
+    "https://www.ravelry.com/patterns/library/ez-organizers/editors",
+    "https://www.ravelry.com/patterns/library/ez-organizers/yarns",
+    "https://www.ravelry.com/patterns/library/ez-organizers/comments",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
+    "https://www.ravelry.com/patterns/library/ez-organizers",
+    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
+    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
+    "https://www.ravelry.com/patterns/library/ez-organizers/people",
+    "https://www.ravelry.com/patterns/library/slip-knit-socks",
+    "https://www.ravelry.com/patterns/library/ez-organizers/report"
   ],
   "name": "Ravelry: EZ Organizers pattern by Yarnspirations Design Studio"
 }

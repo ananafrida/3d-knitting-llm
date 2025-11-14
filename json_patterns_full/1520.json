@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1520,
   "pattern_page": "https://www.ravelry.com/patterns/library/knit-pumpkin-4",
   "name": "KNIT Pumpkin",
   "description": "This pattern is written for three yarn weights. The super bulky version creates a pumpkin approximately 9 inches across, bulky makes a pumpkin about 8 inches across. while the worsted weight version creates a pumpkin about 4.5 inches across. The i-cord is constructed out of the same weight yarn you used for the pumpkin. Be creative, have fun and knit up a pumpkin patch worth of pumpkins!",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Malabrigo Yarn Rasta",
-    "Super Bulky (5-6 wpi) ?"
+    "Super Bulky (5-6 wpi) ?",
+    "Malabrigo Yarn Rasta"
   ],
   "attributes": [
     "gusset",
@@ -24,16 +25,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/sources/apricot-yarn--supply-2",
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4",
+    "https://www.ravelry.com/patterns/library/simple-scarf-27",
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/people",
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/editors",
+    "https://www.ravelry.com/patterns/library/baby-stripes-hat-3",
     "https://www.ravelry.com/patterns/library/knit-pumpkin-4/report",
     "https://www.ravelry.com/patterns/library/knit-pumpkin-4/comments",
-    "https://www.ravelry.com/patterns/library/baby-stripes-hat-3",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4",
-    "https://www.ravelry.com/patterns/library/garter-rim-beanie",
-    "https://www.ravelry.com/patterns/library/simple-scarf-27",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/yarns",
     "https://www.ravelry.com/patterns/library/knit-pumpkin-4/posts",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/editors",
-    "https://www.ravelry.com/patterns/sources/apricot-yarn--supply-2",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/people"
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/yarns",
+    "https://www.ravelry.com/patterns/library/garter-rim-beanie"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1487,
   "pattern_page": "https://www.ravelry.com/patterns/library/little-stars-7",
   "name": "Little Stars",
   "description": "Little stars for decoration.",
@@ -12,8 +13,8 @@
     "Norwegian"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Rauma Babygarn"
+    "Rauma Babygarn",
+    "yarn held together"
   ],
   "attributes": [
     "in-the-round",
@@ -23,16 +24,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/smock-ball",
+    "https://www.ravelry.com/patterns/library/little-stars-7/yarns",
+    "https://www.ravelry.com/patterns/library/little-stars-7/editors",
+    "https://www.ravelry.com/patterns/library/little-stars-7/comments",
+    "https://www.ravelry.com/patterns/library/little-stars-7",
     "https://www.ravelry.com/patterns/sources/eva-klosters-ravelry-store",
     "https://www.ravelry.com/patterns/library/little-stars-7/threads",
-    "https://www.ravelry.com/patterns/library/smock-ball",
-    "https://www.ravelry.com/patterns/library/little-stars-7/people",
-    "https://www.ravelry.com/patterns/library/little-stars-7",
     "https://www.ravelry.com/patterns/library/little-stars-7/report",
-    "https://www.ravelry.com/patterns/library/little-stars-7/editors",
+    "https://www.ravelry.com/patterns/library/little-stars-7/people",
     "https://www.ravelry.com/patterns/library/base-for-decoration",
-    "https://www.ravelry.com/patterns/library/little-stars-7/yarns",
-    "https://www.ravelry.com/patterns/library/little-stars-7/comments",
     "https://www.ravelry.com/patterns/library/acorns-16"
   ]
 }

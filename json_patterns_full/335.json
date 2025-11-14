@@ -1,4 +1,5 @@
 {
+  "pattern_id": 335,
   "pattern_page": "https://www.ravelry.com/patterns/library/bell-cat-toy",
   "craft": "Knitting",
   "category": "Pet → Toys",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "GuoBao Knitting Wool",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "GuoBao Knitting Wool"
   ],
   "attributes": [
     "one-piece",
@@ -22,18 +23,18 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bell-cat-toy/threads",
     "https://www.ravelry.com/patterns/sources/crazy-hands-website",
-    "https://www.ravelry.com/patterns/library/bell-cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/bell-cat-toy/comments",
-    "https://www.ravelry.com/patterns/library/creme-brulee-cable-knit-hat-circular",
-    "https://www.ravelry.com/patterns/library/bell-cat-toy/yarns",
-    "https://crazyhands.net/knit-bell-cat-toy-pattern/",
     "https://www.pinterest.ca/freeknitpatterns/",
-    "https://www.ravelry.com/patterns/library/bell-cat-toy",
+    "https://crazyhands.net/knit-bell-cat-toy-pattern/",
     "https://www.ravelry.com/patterns/library/bell-cat-toy/report",
-    "https://www.ravelry.com/patterns/library/aurora-hat-7",
+    "https://www.ravelry.com/patterns/library/creme-brulee-cable-knit-hat-circular",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/editors",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/yarns",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/comments",
     "https://www.ravelry.com/patterns/library/iron-knit-hat",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/threads",
+    "https://www.ravelry.com/patterns/library/aurora-hat-7",
     "https://www.ravelry.com/patterns/library/bell-cat-toy/people"
   ],
   "name": "Ravelry: Bell Cat Toy pattern by Annanitato Lolo"

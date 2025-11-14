@@ -1,4 +1,5 @@
 {
+  "pattern_id": 693,
   "pattern_page": "https://www.ravelry.com/patterns/library/baby-fishermans-cap",
   "name": "Baby Fisherman's Cap",
   "description": "Getting a baby hat to fit well is a challenge because the size of babies’ heads defies prediction. When my doctor could give me zero guidance on how big my twin’s heads would be, I designed this hat to cover all my bases.",
@@ -25,17 +26,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/people",
     "https://www.ravelry.com/patterns/library/baby-fishermans-cap",
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/comments",
-    "https://www.ravelry.com/patterns/library/tiny-tree-ornament",
+    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/editors",
+    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/report",
+    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/people",
     "https://www.ravelry.com/patterns/library/baby-fishermans-cap/yarns",
     "https://www.ravelry.com/patterns/library/opus-the-octopus",
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/report",
-    "https://www.ravelry.com/patterns/sources/infinite-twist-ravelry-store",
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/editors",
     "https://www.ravelry.com/patterns/library/baby-fishermans-cap/threads",
+    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/comments",
     "https://www.ravelry.com/patterns/library/fishermans-cap-4",
+    "https://www.ravelry.com/patterns/sources/infinite-twist-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tiny-tree-ornament",
     "https://www.ravelry.com/patterns/sources/infinite-twist-website"
   ]
 }

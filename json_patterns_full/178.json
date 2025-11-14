@@ -1,4 +1,5 @@
 {
+  "pattern_id": 178,
   "pattern_page": "https://www.ravelry.com/patterns/library/the-carson-crossbody",
   "name": "The Carson Crossbody",
   "description": "The stylish Carson crossbody knitting pattern featuring two colors, an asymmetrical fold-over design, and a button closure. This pattern is perfect for knitters looking for a unique and functional project. Pattern is written in US terms.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lion Brand 24/7 Cotton"
+    "Lion Brand 24/7 Cotton",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -25,17 +26,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.meghanmakesdo.com/blog/the-carson-crossbody-free-knitting-pattern",
+    "https://www.ravelry.com/patterns/sources/meghan-makes-do-website",
     "https://www.ravelry.com/patterns/library/the-carson-crossbody/people",
-    "https://www.ravelry.com/patterns/library/the-carson-crossbody",
     "https://www.ravelry.com/patterns/library/the-bowden-cardigan",
     "https://www.ravelry.com/patterns/library/the-magnus-throw",
-    "https://www.meghanmakesdo.com/blog/the-carson-crossbody-free-knitting-pattern",
-    "https://www.ravelry.com/patterns/library/the-carson-crossbody/editors",
-    "https://www.ravelry.com/patterns/library/the-carson-crossbody/comments",
-    "https://www.ravelry.com/patterns/sources/meghan-makes-do-2",
-    "https://www.ravelry.com/patterns/sources/meghan-makes-do-website",
-    "https://www.ravelry.com/patterns/library/the-magnus-cardigan",
     "https://www.ravelry.com/patterns/library/the-carson-crossbody/yarns",
-    "https://www.ravelry.com/patterns/library/the-carson-crossbody/report"
+    "https://www.ravelry.com/patterns/sources/meghan-makes-do-2",
+    "https://www.ravelry.com/patterns/library/the-carson-crossbody/editors",
+    "https://www.ravelry.com/patterns/library/the-magnus-cardigan",
+    "https://www.ravelry.com/patterns/library/the-carson-crossbody/comments",
+    "https://www.ravelry.com/patterns/library/the-carson-crossbody/report",
+    "https://www.ravelry.com/patterns/library/the-carson-crossbody"
   ]
 }

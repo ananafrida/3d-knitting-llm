@@ -1,4 +1,5 @@
 {
+  "pattern_id": 983,
   "pattern_page": "https://www.ravelry.com/patterns/library/swirl-ball-mystery",
   "name": "Swirl Ball Mystery",
   "description": "This is a 2-part Mystery knitting project that is fast and easy to make. In Part 1, you knit a flat piece of 3-colored garter stitch. In Part 2, you will seam one side and gather together the other two. Stuff and you have a ball with swirling colors!",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Bonbons (Metallic)",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Lion Brand Bonbons (Metallic)"
   ],
   "attributes": [
     "3-dimensional",
@@ -26,16 +27,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/fuchsia-flounce-socks",
     "https://www.ravelry.com/patterns/library/st-augustine-socks",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/yarns",
     "https://www.ravelry.com/patterns/library/ribbon-candy-ornaments",
     "https://www.ravelry.com/patterns/library/swirl-ball-mystery/threads",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/people",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/comments",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/report",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/yarns",
     "https://www.ravelry.com/patterns/library/swirl-ball-mystery/editors",
     "https://www.ravelry.com/patterns/sources/holiday-mystery-gifts-yahoo-group",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/comments",
-    "https://www.ravelry.com/patterns/library/fuchsia-flounce-socks",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/people",
-    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/report",
     "https://www.ravelry.com/patterns/library/swirl-ball-mystery"
   ]
 }

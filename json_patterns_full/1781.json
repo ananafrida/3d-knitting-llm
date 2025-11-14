@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1781,
   "pattern_page": "https://www.ravelry.com/patterns/library/felted-guitar-strap",
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Lion Brand Lion Wool Solids"
+    "Lion Brand Lion Wool Solids",
+    "yarn held together"
   ],
   "attributes": [
     "bias",
@@ -26,24 +27,24 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://web.archive.org/web/20160410005517/http://www.lionbrand.com:80/patterns/BK4K70429.html",
+    "https://www.ravelry.com/patterns/library/felted-guitar-strap/threads",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://www.ravelry.com/patterns/library/felted-guitar-strap/comments",
     "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/felted-guitar-strap/yarns",
-    "https://www.ravelry.com/patterns/library/felted-guitar-strap/people",
-    "http://www.ravelry.com/patterns/library/felted-guitar-strap-crochet",
     "https://www.ravelry.com/patterns/library/felted-guitar-strap/report",
     "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
-    "https://www.ravelry.com/patterns/library/felted-guitar-strap/posts",
-    "https://www.ravelry.com/patterns/library/felted-guitar-strap/comments",
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://web.archive.org/web/20160410005517/http://www.lionbrand.com:80/patterns/BK4K70429.html",
-    "https://www.ravelry.com/patterns/library/diagonal-eyelet-baby-blanket-2",
     "https://www.ravelry.com/patterns/library/felted-guitar-strap",
+    "https://www.ravelry.com/patterns/library/felted-guitar-strap/people",
+    "https://www.ravelry.com/patterns/library/diagonal-eyelet-baby-blanket-2",
+    "https://www.ravelry.com/patterns/library/felted-guitar-strap/yarns",
+    "http://www.ravelry.com/patterns/library/felted-guitar-strap-crochet",
     "https://www.ravelry.com/patterns/library/felted-guitar-strap/edit",
-    "https://www.ravelry.com/patterns/library/felted-guitar-strap/threads",
-    "https://www.ravelry.com/patterns/library/felted-guitar-strap/editors",
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
     "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
-    "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue"
+    "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue",
+    "https://www.ravelry.com/patterns/library/felted-guitar-strap/posts",
+    "https://www.ravelry.com/patterns/library/felted-guitar-strap/editors"
   ],
   "name": "Ravelry: Felted Guitar Strap pattern by Lion Brand Yarn"
 }

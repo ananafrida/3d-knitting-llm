@@ -1,4 +1,5 @@
 {
+  "pattern_id": 821,
   "pattern_page": "https://www.ravelry.com/patterns/library/sugar-bush-kids",
   "name": "Sugar Bush Kids",
   "description": "ENJOY 15% OFF WITH THE CODE SUGARBK UNTIL DEC 2.",
@@ -12,8 +13,8 @@
     "French"
   ],
   "suggested_yarn": [
-    "La Fée Fil Mérinos SW Fingering",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "La Fée Fil Mérinos SW Fingering"
   ],
   "attributes": [
     "baby",
@@ -33,17 +34,17 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/marie-amelie-designs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/posts",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/comments",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/yarns",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/report",
-    "https://www.ravelry.com/patterns/library/sugar-bush",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/editors",
-    "https://www.ravelry.com/patterns/library/alocasia",
     "https://www.ravelry.com/patterns/library/kentia",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/editors",
+    "https://www.ravelry.com/patterns/sources/marie-amelie-designs-ravelry-store",
     "https://www.ravelry.com/patterns/library/sugar-bush-kids",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/people",
     "https://www.ravelry.com/patterns/library/sugar-bush-kids/threads",
-    "https://www.ravelry.com/patterns/library/sugar-bush-kids/people"
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/comments",
+    "https://www.ravelry.com/patterns/library/sugar-bush",
+    "https://www.ravelry.com/patterns/library/alocasia",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/report",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/yarns",
+    "https://www.ravelry.com/patterns/library/sugar-bush-kids/posts"
   ]
 }

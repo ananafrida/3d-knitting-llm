@@ -1,4 +1,5 @@
 {
+  "pattern_id": 274,
   "pattern_page": "https://www.ravelry.com/patterns/library/mouse-ersatz",
   "name": "Mouse Ersatz",
   "description": "Two PDFs available, one page with “pithy” instructions, and another for total beginners, two pages with complete explanations on how to knit i-cord, knit front and back increase, knit two together decrease and knitting in the round with 4 double pointed needles.",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Rowan Pure Wool 4ply",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Rowan Pure Wool 4ply"
   ],
   "attributes": [
     "3-dimensional",
@@ -27,16 +28,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/somnium-venenum-mitts",
+    "https://www.ravelry.com/patterns/library/sage-cloths",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/comments",
     "https://www.ravelry.com/patterns/library/mouse-ersatz/threads",
     "https://www.ravelry.com/patterns/library/mouse-ersatz/yarns",
-    "https://www.ravelry.com/patterns/library/newborn-tristan",
-    "https://www.ravelry.com/patterns/library/mouse-ersatz/comments",
-    "https://www.ravelry.com/patterns/library/mouse-ersatz/editors",
     "https://www.ravelry.com/patterns/sources/innershelter",
     "https://www.ravelry.com/patterns/library/mouse-ersatz/people",
-    "https://www.ravelry.com/patterns/library/sage-cloths",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/report",
     "https://www.ravelry.com/patterns/library/mouse-ersatz",
-    "https://www.ravelry.com/patterns/library/somnium-venenum-mitts",
-    "https://www.ravelry.com/patterns/library/mouse-ersatz/report"
+    "https://www.ravelry.com/patterns/library/newborn-tristan",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/editors"
   ]
 }

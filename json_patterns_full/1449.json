@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1449,
   "pattern_page": "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations",
   "name": "bear christmas tree decorations",
   "description": "This is a pattern for a small hanging ornament. The instructions are for making a bear but it can also be used to make a rabbit by using the ears from my free ‘Teeny Tiny knitted toys’ pattern here: https://www.ravelry.com/patterns/library/teeny-tiny-knitt...",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Rowan Felted Tweed",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Rowan Felted Tweed"
   ],
   "attributes": [
     "bottom-up",
@@ -25,19 +26,19 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "http://littlecottonrabbits.typepad.co.uk/free_knitting_patterns/2008/12/christmas-tree-bears.html",
-    "https://www.ravelry.com/patterns/sources/little-cotton-rabbits",
     "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/posts",
-    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/report",
-    "https://www.ravelry.com/patterns/library/toy-bags",
-    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/people",
-    "https://www.ravelry.com/patterns/library/teeny-tiny-knitted-toys",
-    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/yarns",
-    "https://www.ravelry.com/bundles/free-patterns-441",
-    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/threads",
     "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/editors",
+    "https://www.ravelry.com/patterns/library/toy-bags",
     "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments",
-    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations",
-    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/comments"
+    "https://www.ravelry.com/patterns/library/teeny-tiny-knitted-toys",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/threads",
+    "http://littlecottonrabbits.typepad.co.uk/free_knitting_patterns/2008/12/christmas-tree-bears.html",
+    "https://www.ravelry.com/bundles/free-patterns-441",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/report",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/yarns",
+    "https://www.ravelry.com/patterns/sources/little-cotton-rabbits",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/people",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/comments",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations"
   ]
 }

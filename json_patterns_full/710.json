@@ -1,4 +1,5 @@
 {
+  "pattern_id": 710,
   "pattern_page": "https://www.ravelry.com/patterns/library/pixie-hat-worsted",
   "craft": "Knitting",
   "category": "Hat → Pixie",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Crystal Palace Yarns Bunny Hop Print",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Crystal Palace Yarns Bunny Hop Print"
   ],
   "attributes": [
     "elastic",
@@ -25,21 +26,21 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/comments",
+    "http://www.knittingonthenet.com/patterns/babyhatpixie.htm",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/threads",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/report",
     "https://www.ravelry.com/patterns/library/trio-knit-tote-bag",
     "https://www.ravelry.com/patterns/library/pixie-hat-worsted/posts",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/report",
     "https://www.ravelry.com/patterns/library/pixie-hat-fingering",
-    "https://www.ravelry.com/patterns/library/cabled-scarf-34",
-    "http://www.knittingonthenet.com/patterns/babyhatpixie.htm",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/editors",
+    "https://www.ravelry.com/patterns/sources/crystal-palace-yarns",
     "https://www.ravelry.com/patterns/library/pixie-hat-worsted/edit",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/threads",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/comments",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/yarns",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/people",
     "https://www.ravelry.com/patterns/library/pixie-hat-worsted",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/people",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/editors",
     "https://www.ravelry.com/patterns/sources/knitting-on-the-net",
-    "https://www.ravelry.com/patterns/sources/crystal-palace-yarns"
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/yarns",
+    "https://www.ravelry.com/patterns/library/cabled-scarf-34"
   ],
   "name": "Ravelry: Pixie Hat (Worsted) pattern by Crystal Palace Yarns"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 946,
   "pattern_page": "https://www.ravelry.com/patterns/library/bolas-navidenas-2",
   "name": "Bolas Navideñas",
   "description": "Bolas Navideñas: Un toque especial para estas fiestas ¡Hola, bellezas tropicales! Con mucha ilusión les presento este patrón de bolas navideñas, perfectas para decorar sus arbolitos y llenar sus hogares de magia tejeril. Este año, por motivos de mudanza, no podré decorar mi hogar para la Navidad, pero sería un gran honor saber que una de estas bolitas tejidas por ustedes está colgando en sus arbolitos. ✨ Es mi manera de estar presente en sus hogares durante estas fiestas, celebrando juntos a través del arte del tejido. ¡Espero que las disfruten tanto como yo disfruté diseñarlas! #TejiendoConWinelvi #NavidadTropical #MagiaTejeril",
@@ -23,14 +24,14 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/bolas-navidenas-2/people",
-    "https://www.ravelry.com/patterns/library/poncho-radiante",
-    "https://www.ravelry.com/patterns/library/estola-brasil",
     "https://www.ravelry.com/patterns/library/win-ebook-edicion-especial-de-calcetines",
-    "https://www.ravelry.com/patterns/sources/winelvi-troconis-designs",
-    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/editors",
     "https://www.ravelry.com/patterns/library/bolas-navidenas-2",
-    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/comments",
     "https://www.ravelry.com/patterns/library/bolas-navidenas-2/report",
-    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/yarns"
+    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/yarns",
+    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/editors",
+    "https://www.ravelry.com/patterns/library/estola-brasil",
+    "https://www.ravelry.com/patterns/library/poncho-radiante",
+    "https://www.ravelry.com/patterns/library/bolas-navidenas-2/comments",
+    "https://www.ravelry.com/patterns/sources/winelvi-troconis-designs"
   ]
 }

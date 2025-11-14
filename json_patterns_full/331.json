@@ -1,4 +1,5 @@
 {
+  "pattern_id": 331,
   "pattern_page": "https://www.ravelry.com/patterns/library/mouse-cat-toy-4",
   "name": "Mouse Cat Toy",
   "description": "A knitted mouse toy for your cat with little bobble ears and a crocheted tail.",
@@ -22,14 +23,14 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/yarns",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/comments",
-    "https://www.ravelry.com/patterns/library/frost-flowers-hand-muff",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/report",
-    "https://www.ravelry.com/patterns/library/halloween-shadows",
+    "https://www.ravelry.com/patterns/library/frost-flowers-lined-hat",
     "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/people",
     "https://www.ravelry.com/patterns/sources/patricia-wakes-ravelry-store",
-    "https://www.ravelry.com/patterns/library/frost-flowers-lined-hat",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/editors"
+    "https://www.ravelry.com/patterns/library/frost-flowers-hand-muff",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/comments",
+    "https://www.ravelry.com/patterns/library/halloween-shadows",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/editors",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/report",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4"
   ]
 }

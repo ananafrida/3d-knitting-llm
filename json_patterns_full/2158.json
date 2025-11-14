@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2158,
   "pattern_page": "https://www.ravelry.com/patterns/library/watch-cap--mitts",
   "craft": "Knitting",
   "category": "Hands → Mittens Hands → Fingerless Gloves/Mitts Hat → Beanie, Toque",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Purl Soho Simply Yak",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Purl Soho Simply Yak"
   ],
   "attributes": [
     "bottom-up",
@@ -21,17 +22,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/watch-cap--mitts/report",
-    "https://www.ravelry.com/patterns/library/watch-cap--mitts",
-    "https://www.ravelry.com/patterns/library/watch-cap--mitts/people",
-    "https://www.ravelry.com/patterns/library/half--half-triangles-wrap",
     "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/watch-cap--mitts/people",
     "https://www.ravelry.com/patterns/library/watch-cap--mitts/threads",
-    "https://www.ravelry.com/patterns/library/watch-cap--mitts/comments",
-    "https://www.ravelry.com/patterns/library/watch-cap--mitts/editors",
-    "https://www.ravelry.com/patterns/library/lovely-ribbed-hat-2",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/watch-cap--mitts",
+    "https://www.ravelry.com/patterns/library/watch-cap--mitts/report",
     "https://www.ravelry.com/patterns/library/watch-cap--mitts/yarns",
-    "https://www.ravelry.com/patterns/sources/purl-soho"
+    "https://www.ravelry.com/patterns/library/lovely-ribbed-hat-2",
+    "https://www.ravelry.com/patterns/library/half--half-triangles-wrap",
+    "https://www.ravelry.com/patterns/library/watch-cap--mitts/editors",
+    "https://www.ravelry.com/patterns/library/watch-cap--mitts/comments"
   ],
   "name": "Ravelry: Watch Cap + Mitts pattern by Purl Soho"
 }

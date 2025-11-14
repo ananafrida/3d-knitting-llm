@@ -1,4 +1,5 @@
 {
+  "pattern_id": 176,
   "pattern_page": "https://www.ravelry.com/patterns/library/astra---purse",
   "name": "Astra - purse",
   "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
@@ -19,8 +20,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Svarta Fåret Tencel Blow"
+    "Svarta Fåret Tencel Blow",
+    "yarn held together"
   ],
   "attributes": [
     "bottom-up",
@@ -32,16 +33,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/yyteri---cardigan",
-    "https://www.ravelry.com/patterns/library/astra---purse/editors",
-    "https://www.ravelry.com/patterns/library/astra---purse/comments",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
     "https://www.ravelry.com/patterns/library/astra---purse/people",
-    "https://www.ravelry.com/patterns/library/rebbelino",
+    "https://www.ravelry.com/patterns/library/astra---purse/comments",
     "https://www.ravelry.com/patterns/library/astra---purse/yarns",
+    "https://www.ravelry.com/patterns/library/astra---purse/report",
+    "https://www.ravelry.com/patterns/library/astra---purse/editors",
     "https://www.ravelry.com/patterns/library/astra---purse",
+    "https://www.ravelry.com/patterns/library/yyteri---cardigan",
+    "https://www.ravelry.com/patterns/library/rebbelino",
+    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
     "https://www.ravelry.com/patterns/library/fleurir-shopper",
-    "https://www.ravelry.com/patterns/library/astra---purse/report"
+    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2217,
   "pattern_page": "https://www.ravelry.com/patterns/library/santa-beard",
   "name": "Santa beard",
   "description": "A knitted beard for santas, wizards and other bearded creatures :-)",
@@ -27,17 +28,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/an-aran-for-aksel",
-    "https://www.ravelry.com/patterns/library/santa-beard/comments",
-    "https://www.ravelry.com/patterns/library/slouchy-candle-flame-hat",
-    "https://www.ravelry.com/patterns/library/santa-beard/yarns",
     "https://www.ravelry.com/patterns/library/santa-beard/people",
-    "https://www.ravelry.com/patterns/library/santa-beard",
+    "https://www.ravelry.com/patterns/library/slouchy-candle-flame-hat",
     "https://www.ravelry.com/patterns/library/santa-beard/editors",
-    "https://www.ravelry.com/patterns/sources/maisha",
-    "https://www.ravelry.com/patterns/library/zauber-shawl",
-    "https://www.ravelry.com/patterns/library/santa-beard/threads",
+    "https://www.ravelry.com/patterns/library/santa-beard/posts",
+    "https://www.ravelry.com/patterns/library/santa-beard/yarns",
     "https://www.ravelry.com/patterns/library/santa-beard/report",
-    "https://www.ravelry.com/patterns/library/santa-beard/posts"
+    "https://www.ravelry.com/patterns/library/an-aran-for-aksel",
+    "https://www.ravelry.com/patterns/library/zauber-shawl",
+    "https://www.ravelry.com/patterns/library/santa-beard",
+    "https://www.ravelry.com/patterns/sources/maisha",
+    "https://www.ravelry.com/patterns/library/santa-beard/comments",
+    "https://www.ravelry.com/patterns/library/santa-beard/threads"
   ]
 }

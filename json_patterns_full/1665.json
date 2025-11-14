@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1665,
   "pattern_page": "https://www.ravelry.com/patterns/library/puerperium-cardigan",
   "name": "Puerperium Cardigan",
   "description": "Puerperium is a very simply styled cardy, designed to be easy for new parents to dress their babe in the puerperium period (6 weeks post birth).",
@@ -41,17 +42,17 @@
   "shape": "cylinder",
   "download_links": [
     "https://www.ravelry.com/patterns/library/puerperium-cardigan/posts",
+    "https://www.ravelry.com/patterns/library/beyond-puerperium",
     "https://www.ravelry.com/patterns/library/puerperium-cardigan",
-    "https://www.ravelry.com/patterns/library/newborn-vertebrae",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan/people",
     "https://www.ravelry.com/patterns/sources/pekapeka-design-studio",
     "http://www.ravelry.com/patterns/library/beyond-puerperium",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan/yarns",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan/threads",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan/report",
-    "https://www.ravelry.com/patterns/library/baby-vertebrae",
     "https://www.ravelry.com/patterns/library/puerperium-cardigan/comments",
-    "https://www.ravelry.com/patterns/library/beyond-puerperium",
-    "https://www.ravelry.com/patterns/library/puerperium-cardigan/editors"
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/editors",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/people",
+    "https://www.ravelry.com/patterns/library/baby-vertebrae",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/report",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/threads",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/yarns"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2187,
   "pattern_page": "https://www.ravelry.com/patterns/library/ninja-mask",
   "craft": "Knitting",
   "category": "Costume",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Microspun",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Lion Brand Microspun"
   ],
   "attributes": [
     "adult",
@@ -23,14 +24,14 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/ninja-mask",
-    "https://www.ravelry.com/patterns/library/ninja-mask/yarns",
+    "https://www.ravelry.com/patterns/sources/who-needs-gauge",
+    "https://www.ravelry.com/patterns/library/ninja-mask/comments",
+    "https://www.ravelry.com/patterns/library/ninja-mask/report",
     "https://www.ravelry.com/patterns/library/ninja-mask/editors",
     "https://www.ravelry.com/patterns/library/saffron-hill-mitts",
-    "https://www.ravelry.com/patterns/library/ninja-mask/threads",
     "https://www.ravelry.com/patterns/library/ninja-mask/people",
-    "https://www.ravelry.com/patterns/sources/who-needs-gauge",
-    "https://www.ravelry.com/patterns/library/ninja-mask/report",
-    "https://www.ravelry.com/patterns/library/ninja-mask/comments"
+    "https://www.ravelry.com/patterns/library/ninja-mask/threads",
+    "https://www.ravelry.com/patterns/library/ninja-mask/yarns"
   ],
   "name": "Ravelry: Ninja Mask pattern by Stephanie Davis"
 }

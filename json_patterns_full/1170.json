@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1170,
   "pattern_page": "https://www.ravelry.com/patterns/library/nurse-mates",
   "name": "Nurse Mates",
   "description": "THIS PATTERN IS NOW AVAILABLE IN DANISH! Danish Translation",
@@ -29,16 +30,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/nurse-mates/posts",
-    "https://www.ravelry.com/patterns/library/nurse-mates/editors",
-    "https://www.ravelry.com/patterns/library/nurse-mates/people",
-    "https://www.ravelry.com/patterns/library/nurse-mates/comments",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
     "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
-    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+    "https://www.ravelry.com/patterns/library/nurse-mates/threads",
+    "https://www.ravelry.com/patterns/library/nurse-mates/comments",
+    "https://www.ravelry.com/patterns/library/nurse-mates/people",
     "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
     "https://www.ravelry.com/patterns/library/nurse-mates/report",
-    "https://www.ravelry.com/patterns/library/nurse-mates",
-    "https://www.ravelry.com/patterns/library/nurse-mates/threads",
-    "https://www.ravelry.com/patterns/library/nurse-mates/yarns"
+    "https://www.ravelry.com/patterns/library/nurse-mates/editors",
+    "https://www.ravelry.com/patterns/library/nurse-mates/yarns",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/nurse-mates"
   ]
 }

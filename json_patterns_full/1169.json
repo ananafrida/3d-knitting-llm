@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1169,
   "pattern_page": "https://www.ravelry.com/patterns/library/mini-snowbuddies",
   "name": "Mini Snowbuddies",
   "description": "Construction",
@@ -21,17 +22,17 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/report",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/people",
     "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/editors",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/report",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/comments",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/threads",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/posts",
+    "https://www.ravelry.com/patterns/library/winter-folk-friends",
     "https://www.ravelry.com/patterns/library/mini-snowbuddies",
     "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
     "https://www.ravelry.com/patterns/library/mini-snowbuddies/yarns",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/posts",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/editors",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/people",
-    "https://www.ravelry.com/patterns/library/winter-folk-friends",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/threads",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/comments"
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends"
   ]
 }

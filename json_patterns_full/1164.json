@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1164,
   "pattern_page": "https://www.ravelry.com/patterns/library/bottom-up-betty",
   "name": "bottom up betty",
   "description": "Using circular needles, the doll is knitted from the feet up.",
@@ -24,15 +25,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/people",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/editors",
-    "https://www.ravelry.com/patterns/sources/knichets-patterns",
+    "https://www.ravelry.com/patterns/library/bottom-up-betty/report",
     "https://www.ravelry.com/patterns/library/bottom-up-betty/yarns",
     "https://www.ravelry.com/patterns/library/lace-coat-for-doll",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/comments",
-    "https://www.ravelry.com/patterns/library/kate-greenaway-dress-for-doll",
-    "https://www.ravelry.com/patterns/library/churros-three-ways",
     "https://www.ravelry.com/patterns/library/bottom-up-betty",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/report"
+    "https://www.ravelry.com/patterns/library/bottom-up-betty/comments",
+    "https://www.ravelry.com/patterns/sources/knichets-patterns",
+    "https://www.ravelry.com/patterns/library/kate-greenaway-dress-for-doll",
+    "https://www.ravelry.com/patterns/library/bottom-up-betty/editors",
+    "https://www.ravelry.com/patterns/library/churros-three-ways",
+    "https://www.ravelry.com/patterns/library/bottom-up-betty/people"
   ]
 }

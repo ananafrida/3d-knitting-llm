@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2176,
   "pattern_page": "https://www.ravelry.com/patterns/library/hallowig",
   "craft": "Knitting",
   "category": "Costume",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Red Heart Kids Solid"
+    "Red Heart Kids Solid",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -23,19 +24,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/hallowig/posts",
+    "https://www.ravelry.com/patterns/library/hallowig/comments",
+    "https://www.ravelry.com/patterns/library/hallowig/people",
+    "https://www.ravelry.com/patterns/library/hallowig/editors",
+    "https://www.ravelry.com/patterns/library/funny-hat",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/hallowig/yarns",
+    "https://www.ravelry.com/patterns/library/hallowig",
+    "https://www.ravelry.com/patterns/library/hallowig/threads",
+    "https://www.ravelry.com/patterns/sources/knitty-fall-2004",
     "https://www.ravelry.com/patterns/library/hallowig/report",
     "https://www.ravelry.com/patterns/library/free-standing-muffler",
-    "https://www.ravelry.com/patterns/sources/knitty-fall-2004",
-    "https://www.ravelry.com/patterns/library/shocking-pink-coif",
-    "https://www.ravelry.com/patterns/library/hallowig/yarns",
-    "https://www.ravelry.com/patterns/library/hallowig/editors",
-    "https://www.ravelry.com/patterns/library/hallowig/threads",
-    "https://www.ravelry.com/patterns/library/funny-hat",
-    "https://www.ravelry.com/patterns/library/hallowig/people",
-    "https://www.ravelry.com/patterns/library/hallowig",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/hallowig/comments",
-    "https://www.ravelry.com/patterns/library/hallowig/posts"
+    "https://www.ravelry.com/patterns/library/shocking-pink-coif"
   ],
   "name": "Ravelry: Hallowig pattern by Megan Reardon"
 }

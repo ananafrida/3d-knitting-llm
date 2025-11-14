@@ -1,4 +1,5 @@
 {
+  "pattern_id": 499,
   "pattern_page": "https://www.ravelry.com/patterns/library/sockhead-cowl",
   "name": "Sockhead Cowl",
   "description": "And it’s about time! Here is a no-nonsense cowl that will match your Sockhead Hat perfectly. In fact, it’s even easier than the hat. No muss, no fuss…just beautiful yarn and cuddles.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "madelinetosh Tosh Sock",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "madelinetosh Tosh Sock"
   ],
   "attributes": [
     "adult",
@@ -27,20 +28,20 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/bundles/free-patterns-700",
-    "https://www.ravelry.com/patterns/library/idylluna-shawl",
-    "https://www.ravelry.com/patterns/library/sockhead-cowl/posts",
-    "https://www.ravelry.com/patterns/library/sockhead-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/sockhead-cowl/people",
-    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat",
-    "http://www.ravelry.com/patterns/library/pioneer-gloves",
-    "https://www.ravelry.com/patterns/library/sockhead-cowl/report",
-    "https://www.ravelry.com/patterns/library/sockhead-cowl/editors",
-    "https://www.ravelry.com/patterns/library/sockhead-cowl/threads",
-    "https://www.ravelry.com/patterns/library/sockhead-cowl",
-    "https://www.ravelry.com/patterns/library/pioneer-gloves",
-    "https://www.ravelry.com/patterns/library/sockhead-cowl/comments",
     "https://www.ravelry.com/patterns/sources/bohoknits-ravelry-emporium",
-    "http://www.ravelry.com/patterns/library/sockhead-slouch-hat"
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/report",
+    "http://www.ravelry.com/patterns/library/sockhead-slouch-hat",
+    "http://www.ravelry.com/patterns/library/pioneer-gloves",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/comments",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/editors",
+    "https://www.ravelry.com/patterns/library/idylluna-shawl",
+    "https://www.ravelry.com/bundles/free-patterns-700",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/posts",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/people",
+    "https://www.ravelry.com/patterns/library/pioneer-gloves",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/threads"
   ]
 }

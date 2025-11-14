@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1113,
   "pattern_page": "https://www.ravelry.com/patterns/library/258-26-dewy-dream",
   "craft": "Knitting",
   "category": "Sweater → Pullover Tops → Tee",
@@ -26,8 +27,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Muskat",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Garnstudio DROPS Muskat"
   ],
   "attributes": [
     "adult",
@@ -51,21 +52,21 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/edit",
-    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/editors",
+    "https://www.ravelry.com/patterns/periodicals/drops",
     "https://www.ravelry.com/patterns/library/258-26-dewy-dream/threads",
     "https://www.ravelry.com/patterns/library/222-10-blue-gaze",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/people",
-    "https://www.ravelry.com/patterns/library/258-26-dewy-dream",
-    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/yarns",
-    "https://www.garnstudio.com/pattern.php?id=12152&cid=19",
-    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/report",
     "https://www.ravelry.com/patterns/library/259-29-hidden-seaside",
-    "https://www.ravelry.com/patterns/library/230-28-river-blue-trail",
+    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/report",
     "https://www.ravelry.com/patterns/library/258-26-dewy-dream/comments",
     "https://www.ravelry.com/patterns/sources/drops-258",
-    "https://www.ravelry.com/patterns/sources/drops-design"
+    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/edit",
+    "https://www.ravelry.com/patterns/library/230-28-river-blue-trail",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.garnstudio.com/pattern.php?id=12152&cid=19",
+    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/yarns",
+    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/editors",
+    "https://www.ravelry.com/patterns/library/258-26-dewy-dream",
+    "https://www.ravelry.com/patterns/library/258-26-dewy-dream/people"
   ],
   "name": "Ravelry: 258-26 Dewy Dream pattern by DROPS design"
 }

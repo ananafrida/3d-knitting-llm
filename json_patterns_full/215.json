@@ -1,4 +1,5 @@
 {
+  "pattern_id": 215,
   "pattern_page": "https://www.ravelry.com/patterns/library/krakvicker",
   "name": "Kråkvicker",
   "description": "Kråkvicker (Vicia cracca) is a the blue and violett spots that can glow in a dry hay harvest. In other words: it is a flower. The first example I knitted up, creating this purse pattern, I used my own handspun yarn with fibers from gray Swedish sheep with spots of dyed blue and violet wool fibers (from Höner och Eir). Small spots of the blue popped up in the lace section of the purse, and reminded me of the beauty of harvest hay from a diverse meadow. Also I think that the simple, yet decorative lace pattern remind me of the flower.",
@@ -12,8 +13,8 @@
     "Swedish"
   ],
   "suggested_yarn": [
-    "Höner och Eir Nutiden",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Höner och Eir Nutiden"
   ],
   "attributes": [
     "bottom-up",
@@ -26,15 +27,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/krakvicker",
-    "https://www.ravelry.com/patterns/library/krakvicker/editors",
-    "https://www.ravelry.com/patterns/library/krakvicker/report",
-    "https://www.ravelry.com/patterns/library/krakvicker/comments",
     "https://www.ravelry.com/patterns/library/krakvicker/yarns",
-    "https://www.ravelry.com/patterns/library/vildapel-shawl",
-    "https://www.ravelry.com/patterns/library/krakvicker/people",
+    "https://www.ravelry.com/patterns/library/krakvicker/comments",
+    "https://www.ravelry.com/patterns/library/krakvicker",
     "https://www.ravelry.com/patterns/library/gnejs-shawl",
+    "https://www.ravelry.com/patterns/library/krakvicker/report",
+    "https://www.ravelry.com/patterns/sources/frida-oskaps-ravelry-store",
+    "https://www.ravelry.com/patterns/library/krakvicker/people",
+    "https://www.ravelry.com/patterns/library/krakvicker/editors",
     "https://www.ravelry.com/patterns/library/morkulla",
-    "https://www.ravelry.com/patterns/sources/frida-oskaps-ravelry-store"
+    "https://www.ravelry.com/patterns/library/vildapel-shawl"
   ]
 }

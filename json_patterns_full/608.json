@@ -1,4 +1,5 @@
 {
+  "pattern_id": 608,
   "pattern_page": "https://www.ravelry.com/patterns/library/droplet-blanket",
   "craft": "Knitting",
   "category": "Blanket → Throw Blanket → Baby Blanket",
@@ -26,16 +27,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/droplet-blanket/report",
-    "https://www.ravelry.com/patterns/library/droplet-blanket/people",
-    "https://www.ravelry.com/patterns/library/secret-fish-shawl",
-    "https://lifeiscozy.com/patterns",
-    "https://www.ravelry.com/patterns/library/droplet-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/droplet-blanket/editors",
-    "https://www.ravelry.com/patterns/library/droplet-blanket/comments",
     "https://www.ravelry.com/patterns/library/filoli-cowl",
-    "https://www.ravelry.com/patterns/library/droplet-blanket",
+    "https://www.ravelry.com/patterns/library/droplet-blanket/comments",
     "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/droplet-blanket",
+    "https://www.ravelry.com/patterns/library/droplet-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/droplet-blanket/people",
+    "https://lifeiscozy.com/patterns",
+    "https://www.ravelry.com/patterns/library/droplet-blanket/report",
+    "https://www.ravelry.com/patterns/library/secret-fish-shawl",
+    "https://www.ravelry.com/patterns/library/droplet-blanket/editors",
     "https://www.ravelry.com/patterns/library/stormy-sky-shawl"
   ],
   "name": "Ravelry: Droplet Blanket pattern by Ksenia Naidyon"

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1817,
   "pattern_page": "https://www.ravelry.com/patterns/library/f592-bowl",
   "name": "F592 Bowl",
   "description": "Materials:",
@@ -25,17 +26,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/f867-dotted-swiss-baby-throw",
-    "https://www.ravelry.com/patterns/library/f592-bowl/report",
-    "https://www.ravelry.com/patterns/library/f592-bowl",
-    "https://www.ravelry.com/patterns/periodicals/plymouth-yarn-company",
-    "https://www.ravelry.com/patterns/library/f592-bowl/yarns",
-    "https://www.ravelry.com/patterns/sources/plymouth-yarn-company-free-online-patterns",
-    "https://www.ravelry.com/patterns/library/f592-bowl/people",
-    "https://www.ravelry.com/patterns/library/f592-bowl/comments",
-    "https://www.ravelry.com/patterns/library/f828-baby-blanket",
-    "https://www.ravelry.com/patterns/library/f592-bowl/edit",
     "https://www.ravelry.com/patterns/library/f592-bowl/editors",
-    "https://www.ravelry.com/patterns/library/f382-lace-brim-chemo-hat"
+    "https://www.ravelry.com/patterns/library/f382-lace-brim-chemo-hat",
+    "https://www.ravelry.com/patterns/library/f592-bowl/people",
+    "https://www.ravelry.com/patterns/library/f592-bowl/edit",
+    "https://www.ravelry.com/patterns/sources/plymouth-yarn-company-free-online-patterns",
+    "https://www.ravelry.com/patterns/library/f592-bowl",
+    "https://www.ravelry.com/patterns/library/f828-baby-blanket",
+    "https://www.ravelry.com/patterns/library/f592-bowl/yarns",
+    "https://www.ravelry.com/patterns/library/f592-bowl/report",
+    "https://www.ravelry.com/patterns/library/f867-dotted-swiss-baby-throw",
+    "https://www.ravelry.com/patterns/library/f592-bowl/comments",
+    "https://www.ravelry.com/patterns/periodicals/plymouth-yarn-company"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1063,
   "pattern_page": "https://www.ravelry.com/patterns/library/ang---top",
   "name": "Äng - top",
   "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
@@ -20,8 +21,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Järbo Colin",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Järbo Colin"
   ],
   "attributes": [
     "baby",
@@ -39,17 +40,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ang---top/people",
-    "https://www.ravelry.com/patterns/library/ang---top/report",
-    "https://www.ravelry.com/patterns/library/ang---top/comments",
-    "https://www.ravelry.com/patterns/library/ang---top/yarns",
     "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-23-midsommar-3/patterns",
-    "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-23-midsommar-3",
-    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ang---top/editors",
-    "https://www.ravelry.com/patterns/library/arg---cardigan",
-    "https://www.ravelry.com/patterns/library/ang---shorts",
+    "https://www.ravelry.com/patterns/library/ang---top/report",
     "https://www.ravelry.com/patterns/library/ang---top",
-    "https://www.ravelry.com/patterns/library/malm---cardigan"
+    "https://www.ravelry.com/patterns/library/ang---top/people",
+    "https://www.ravelry.com/patterns/library/malm---cardigan",
+    "https://www.ravelry.com/patterns/library/ang---shorts",
+    "https://www.ravelry.com/patterns/library/arg---cardigan",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ang---top/comments",
+    "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-23-midsommar-3",
+    "https://www.ravelry.com/patterns/library/ang---top/editors",
+    "https://www.ravelry.com/patterns/library/ang---top/yarns"
   ]
 }

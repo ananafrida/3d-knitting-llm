@@ -1,4 +1,5 @@
 {
+  "pattern_id": 797,
   "pattern_page": "https://www.ravelry.com/patterns/library/town-square-sweater",
   "name": "Town Square Sweater",
   "description": "The Town Square Sweater is a top-down drop-shoulder textured sweater featuring ribbing, i-cords, and a lovely grid texture. This pattern has been tech edited and test knit in all sizes. Matching made-to-measure pet sweater pattern included!",
@@ -28,13 +29,13 @@
   ],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/town-square-sweater/people",
     "https://www.ravelry.com/patterns/library/town-square-sweater/yarns",
     "https://www.ravelry.com/patterns/sources/postcard-knits-ravelry-store",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/editors",
     "https://www.ravelry.com/patterns/library/town-square-sweater/threads",
+    "https://www.ravelry.com/patterns/library/town-square-sweater/editors",
     "https://www.ravelry.com/patterns/library/town-square-sweater/comments",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/report",
-    "https://www.ravelry.com/patterns/library/town-square-sweater"
+    "https://www.ravelry.com/patterns/library/town-square-sweater/people",
+    "https://www.ravelry.com/patterns/library/town-square-sweater",
+    "https://www.ravelry.com/patterns/library/town-square-sweater/report"
   ]
 }

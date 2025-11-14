@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2178,
   "pattern_page": "https://www.ravelry.com/patterns/library/a-very-regal-crown",
   "name": "A Very Regal Crown",
   "description": "A crown knitted in the round, with each of the peaks worked separately.",
@@ -27,14 +28,14 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/kayleigh-lb-patterns",
-    "https://www.ravelry.com/patterns/library/a-very-regal-crown/posts",
-    "https://www.ravelry.com/patterns/library/a-very-regal-crown/yarns",
     "https://www.ravelry.com/patterns/library/a-very-regal-crown/report",
+    "https://www.ravelry.com/patterns/library/a-very-regal-crown/posts",
+    "https://www.ravelry.com/patterns/library/a-very-regal-crown/comments",
     "https://www.ravelry.com/patterns/library/a-very-regal-crown/people",
     "https://www.ravelry.com/patterns/library/a-very-regal-crown",
-    "https://www.ravelry.com/patterns/library/a-very-regal-crown/comments",
+    "https://www.ravelry.com/patterns/sources/kayleigh-lb-patterns",
+    "https://www.ravelry.com/patterns/library/a-very-regal-crown/threads",
     "https://www.ravelry.com/patterns/library/a-very-regal-crown/editors",
-    "https://www.ravelry.com/patterns/library/a-very-regal-crown/threads"
+    "https://www.ravelry.com/patterns/library/a-very-regal-crown/yarns"
   ]
 }

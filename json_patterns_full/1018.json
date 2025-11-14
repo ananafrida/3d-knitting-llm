@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1018,
   "pattern_page": "https://www.ravelry.com/patterns/library/catch",
   "craft": "Knitting",
   "category": "Ball",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Berroco Sox Metallic",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Berroco Sox Metallic"
   ],
   "attributes": [
     "in-the-round",
@@ -20,19 +21,19 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/catch/report",
-    "https://www.ravelry.com/patterns/library/aidez",
-    "https://www.ravelry.com/patterns/library/espenson",
-    "https://www.ravelry.com/patterns/library/catch/yarns",
     "https://www.ravelry.com/patterns/library/catch/threads",
+    "https://www.ravelry.com/patterns/library/lakenvelder",
     "https://www.ravelry.com/patterns/library/catch/editors",
     "http://www.berroco.com/patterns/catch",
-    "https://www.ravelry.com/patterns/library/catch/comments",
-    "https://www.ravelry.com/patterns/library/lakenvelder",
-    "https://www.ravelry.com/patterns/library/catch",
-    "https://www.ravelry.com/patterns/library/catch/people",
+    "https://www.ravelry.com/patterns/library/catch/report",
     "https://www.ravelry.com/patterns/periodicals/berroco",
-    "https://www.ravelry.com/patterns/sources/berroco-website"
+    "https://www.ravelry.com/patterns/library/aidez",
+    "https://www.ravelry.com/patterns/library/espenson",
+    "https://www.ravelry.com/patterns/library/catch/comments",
+    "https://www.ravelry.com/patterns/sources/berroco-website",
+    "https://www.ravelry.com/patterns/library/catch",
+    "https://www.ravelry.com/patterns/library/catch/yarns",
+    "https://www.ravelry.com/patterns/library/catch/people"
   ],
   "name": "Ravelry: Catch pattern by Cirilia Rose"
 }

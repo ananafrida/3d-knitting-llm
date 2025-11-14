@@ -1,4 +1,5 @@
 {
+  "pattern_id": 252,
   "pattern_page": "https://www.ravelry.com/patterns/library/best-friend",
   "craft": "Knitting",
   "category": "Bag → Purse / Handbag",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Galler Yarns Pashmina",
-    "DK / Sport ?"
+    "DK / Sport ?",
+    "Galler Yarns Pashmina"
   ],
   "attributes": [
     "beads",
@@ -23,19 +24,19 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/best-friend/editors",
-    "https://www.ravelry.com/patterns/library/best-friend",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag",
-    "https://www.ravelry.com/patterns/library/best-friend/people",
-    "https://www.ravelry.com/patterns/library/best-friend/posts",
-    "https://www.ravelry.com/patterns/library/best-friend/threads",
-    "https://www.ravelry.com/patterns/library/best-friend/report",
-    "https://www.ravelry.com/patterns/library/oomingmacks",
-    "https://www.ravelry.com/patterns/library/best-friend/yarns",
     "https://www.ravelry.com/patterns/sources/knitty-winter-2005",
+    "https://www.ravelry.com/patterns/library/best-friend/editors",
+    "https://www.ravelry.com/patterns/library/best-friend/people",
+    "https://www.ravelry.com/patterns/library/best-friend/yarns",
+    "https://www.ravelry.com/patterns/library/best-friend",
+    "https://www.ravelry.com/patterns/library/best-friend/threads",
     "https://www.ravelry.com/patterns/library/wild-stripes",
+    "https://www.ravelry.com/patterns/library/oomingmacks",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/best-friend/posts",
+    "https://www.ravelry.com/patterns/library/best-friend/report",
     "https://www.ravelry.com/patterns/library/best-friend/comments",
-    "https://www.ravelry.com/patterns/periodicals/knitty"
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag"
   ],
   "name": "Ravelry: Best Friend pattern by Kristin Goedert"
 }

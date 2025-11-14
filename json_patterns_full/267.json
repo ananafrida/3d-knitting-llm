@@ -1,4 +1,5 @@
 {
+  "pattern_id": 267,
   "pattern_page": "https://www.ravelry.com/patterns/library/silken-braid-mouse",
   "craft": "Knitting",
   "category": "Pet → Toys",
@@ -23,17 +24,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/silken-braid-mouse",
-    "https://www.ravelry.com/patterns/library/silken-braid-mouse/threads",
-    "https://www.ravelry.com/patterns/library/silken-braid-mouse/yarns",
     "https://www.ravelry.com/patterns/library/silken-braid-mouse/people",
-    "https://www.ravelry.com/patterns/library/silken-braid-mouse/report",
-    "https://www.ravelry.com/patterns/library/silken-braid-mouse/editors",
-    "https://www.ravelry.com/patterns/library/silken-braid-mouse/posts",
-    "https://www.ravelry.com/patterns/sources/knitted-wings",
-    "https://www.ravelry.com/patterns/library/silken-braid-mouse/comments",
     "https://www.ravelry.com/patterns/library/silken-braid-mouse/edit",
-    "http://freefriends.org/~mare/patterns/silkenbraid.pdf"
+    "https://www.ravelry.com/patterns/library/silken-braid-mouse",
+    "https://www.ravelry.com/patterns/library/silken-braid-mouse/editors",
+    "https://www.ravelry.com/patterns/library/silken-braid-mouse/comments",
+    "https://www.ravelry.com/patterns/library/silken-braid-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/silken-braid-mouse/threads",
+    "https://www.ravelry.com/patterns/sources/knitted-wings",
+    "http://freefriends.org/~mare/patterns/silkenbraid.pdf",
+    "https://www.ravelry.com/patterns/library/silken-braid-mouse/report",
+    "https://www.ravelry.com/patterns/library/silken-braid-mouse/posts"
   ],
   "name": "Ravelry: Silken Braid Mouse pattern by Mare Joy Smith"
 }

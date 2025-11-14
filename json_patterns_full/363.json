@@ -1,4 +1,5 @@
 {
+  "pattern_id": 363,
   "pattern_page": "https://www.ravelry.com/patterns/library/squared-4",
   "craft": "Knitting",
   "category": "Shrug / Bolero Coat / Jacket Neck / Torso → Poncho",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Hedgehog Fibres Sock"
+    "Hedgehog Fibres Sock",
+    "yarn held together"
   ],
   "attributes": [
     "adult",
@@ -31,18 +32,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://shop.hedgehogfibres.com/collections/patterns/products/squared",
-    "https://www.ravelry.com/patterns/library/squared-4/editors",
+    "https://www.ravelry.com/patterns/library/scarfy-thing-2",
     "https://www.ravelry.com/patterns/library/squared-4/yarns",
     "https://www.ravelry.com/patterns/library/squared-4/threads",
-    "https://www.ravelry.com/patterns/library/flying-fringe",
-    "https://www.ravelry.com/patterns/library/squared-4/comments",
     "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/squared-4/comments",
+    "https://www.ravelry.com/patterns/library/flying-fringe",
+    "https://www.ravelry.com/patterns/library/squared-4/editors",
     "https://www.ravelry.com/patterns/library/squared-4/people",
     "https://www.ravelry.com/patterns/library/squared-4/report",
-    "https://www.ravelry.com/patterns/library/scarfy-thing-2",
-    "https://www.ravelry.com/patterns/library/baseline",
-    "https://www.ravelry.com/patterns/library/squared-4"
+    "https://www.ravelry.com/patterns/library/squared-4",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/squared",
+    "https://www.ravelry.com/patterns/library/baseline"
   ],
   "name": "Ravelry: Squared pattern by Beata Jezek"
 }

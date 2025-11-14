@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1822,
   "pattern_page": "https://www.ravelry.com/patterns/library/boho-basket",
   "craft": "Knitting",
   "category": "Containers",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Bernat Blanket",
-    "Super Bulky (5-6 wpi) ?"
+    "Super Bulky (5-6 wpi) ?",
+    "Bernat Blanket"
   ],
   "attributes": [
     "3-dimensional",
@@ -24,17 +25,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/boho-basket/comments",
-    "https://www.ravelry.com/patterns/library/boho-basket/editors",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks",
-    "https://www.ravelry.com/patterns/library/boho-basket/yarns",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
     "https://www.ravelry.com/patterns/library/boho-basket/people",
+    "https://www.ravelry.com/patterns/library/boho-basket",
+    "https://www.ravelry.com/patterns/library/boho-basket/report",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
+    "https://www.ravelry.com/patterns/library/boho-basket/editors",
     "https://www.ravelry.com/patterns/library/crystal-lace-blanket",
     "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
-    "https://www.ravelry.com/patterns/library/boho-basket",
     "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/boho-basket/report"
+    "https://www.ravelry.com/patterns/library/boho-basket/yarns",
+    "https://www.ravelry.com/patterns/library/boho-basket/comments",
+    "https://www.ravelry.com/patterns/library/slip-knit-socks"
   ],
   "name": "Ravelry: Boho Basket pattern by Yarnspirations Design Studio"
 }

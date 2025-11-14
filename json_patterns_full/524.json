@@ -1,4 +1,5 @@
 {
+  "pattern_id": 524,
   "pattern_page": "https://www.ravelry.com/patterns/library/nottawasaga-buff",
   "name": "Nottawasaga Buff",
   "description": "This is an easy and quick neck warmer with a pointed front to easily tuck into any coat or jacket and keep the wind off your chest.",
@@ -27,13 +28,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/yarns",
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/people",
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/report",
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/comments",
     "https://www.ravelry.com/patterns/library/nottawasaga-buff",
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/threads",
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/editors",
     "https://www.ravelry.com/patterns/sources/blue-heron-design-onts-ravelry-store",
-    "https://www.ravelry.com/patterns/library/nottawasaga-buff/comments"
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/people",
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/yarns",
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/threads",
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/report",
+    "https://www.ravelry.com/patterns/library/nottawasaga-buff/editors"
   ]
 }

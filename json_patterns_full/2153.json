@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2153,
   "pattern_page": "https://www.ravelry.com/patterns/library/october-hat-3",
   "name": "October Hat",
   "description": "What’s better than a free hat pattern? 12 free hat patterns, of course! This year we’re releasing a new, free hat design on the 3rd Tuesday of each month made in Germantown.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Kelbourne Woolens Germantown"
+    "Kelbourne Woolens Germantown",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -37,19 +38,19 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/october-hat-3/editors",
-    "https://www.ravelry.com/patterns/library/october-hat-3/report",
+    "https://www.ravelry.com/patterns/library/october-hat-3",
+    "https://www.ravelry.com/patterns/library/tangled-up-in-gray-pullover",
+    "https://www.ravelry.com/patterns/sources/year-of-hats",
+    "https://www.ravelry.com/patterns/library/october-hat-3/posts",
     "https://www.ravelry.com/patterns/library/october-hat-3/yarns",
     "https://www.ravelry.com/patterns/sources/kelbourne-woolens",
-    "https://www.ravelry.com/patterns/library/amelia-63",
     "https://www.ravelry.com/patterns/periodicals/kelbourne-woolens",
-    "https://www.ravelry.com/patterns/sources/year-of-hats",
-    "https://www.ravelry.com/patterns/library/tangled-up-in-gray-pullover",
-    "https://www.ravelry.com/patterns/library/october-hat-3/comments",
-    "https://www.ravelry.com/patterns/library/october-hat-3/posts",
-    "https://www.ravelry.com/patterns/library/cold-spring-2",
     "https://www.ravelry.com/patterns/library/october-hat-3/people",
+    "https://www.ravelry.com/patterns/library/october-hat-3/report",
+    "https://www.ravelry.com/patterns/library/amelia-63",
     "https://www.ravelry.com/patterns/library/october-hat-3/threads",
-    "https://www.ravelry.com/patterns/library/october-hat-3"
+    "https://www.ravelry.com/patterns/library/october-hat-3/editors",
+    "https://www.ravelry.com/patterns/library/october-hat-3/comments",
+    "https://www.ravelry.com/patterns/library/cold-spring-2"
   ]
 }

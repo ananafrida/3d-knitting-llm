@@ -1,4 +1,5 @@
 {
+  "pattern_id": 948,
   "pattern_page": "https://www.ravelry.com/patterns/library/woolly-ball",
   "craft": "Knitting",
   "category": "Ball",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Cleckheaton Country 8 Ply",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Cleckheaton Country 8 Ply"
   ],
   "attributes": [
     "modular",
@@ -22,21 +23,21 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/handspun-ribbed-hat",
-    "https://www.ravelry.com/patterns/library/family-rolled-brim-hat",
-    "https://www.ravelry.com/patterns/library/feather-and-fan-comfort-shawl",
-    "https://www.ravelry.com/patterns/library/woolly-ball/report",
-    "https://www.ravelry.com/patterns/sources/-pattern-source-needed---do-not-add-to-ravelry",
-    "https://www.ravelry.com/patterns/library/woolly-ball",
-    "https://www.ravelry.com/patterns/library/woolly-ball/comments",
-    "https://www.ravelry.com/patterns/library/woolly-ball/posts",
-    "https://www.ravelry.com/patterns/library/woolly-ball/threads",
-    "https://www.ravelry.com/patterns/periodicals/invalid-source-please-do-not-use",
-    "https://www.ravelry.com/patterns/library/woolly-ball/yarns",
-    "http://www.knitting-and.com/knitting/patterns/toys/woollyball.htm",
-    "https://www.ravelry.com/patterns/library/woolly-ball/edit",
     "https://www.ravelry.com/patterns/library/woolly-ball/people",
-    "https://www.ravelry.com/patterns/library/woolly-ball/editors"
+    "http://www.knitting-and.com/knitting/patterns/toys/woollyball.htm",
+    "https://www.ravelry.com/patterns/library/woolly-ball/report",
+    "https://www.ravelry.com/patterns/library/woolly-ball/threads",
+    "https://www.ravelry.com/patterns/library/woolly-ball/yarns",
+    "https://www.ravelry.com/patterns/library/woolly-ball/edit",
+    "https://www.ravelry.com/patterns/library/woolly-ball/posts",
+    "https://www.ravelry.com/patterns/library/family-rolled-brim-hat",
+    "https://www.ravelry.com/patterns/library/handspun-ribbed-hat",
+    "https://www.ravelry.com/patterns/library/woolly-ball/comments",
+    "https://www.ravelry.com/patterns/library/woolly-ball",
+    "https://www.ravelry.com/patterns/periodicals/invalid-source-please-do-not-use",
+    "https://www.ravelry.com/patterns/library/woolly-ball/editors",
+    "https://www.ravelry.com/patterns/library/feather-and-fan-comfort-shawl",
+    "https://www.ravelry.com/patterns/sources/-pattern-source-needed---do-not-add-to-ravelry"
   ],
   "name": "Ravelry: Woolly Ball pattern by Sarah Bradberry"
 }

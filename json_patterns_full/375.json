@@ -1,4 +1,5 @@
 {
+  "pattern_id": 375,
   "pattern_page": "https://www.ravelry.com/patterns/library/85-13-richard",
   "craft": "Knitting",
   "category": "Sweater → Cardigan Coat / Jacket",
@@ -26,8 +27,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Garnstudio DROPS Karisma"
+    "Garnstudio DROPS Karisma",
+    "yarn held together"
   ],
   "attributes": [
     "adult",
@@ -57,22 +58,22 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/85-13-richard/posts",
-    "https://www.ravelry.com/patterns/library/85-13-richard/people",
-    "https://www.ravelry.com/patterns/library/104-2-scarf-with-wave-pattern-with-crochet-edge",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/85-13-richard",
-    "https://www.ravelry.com/patterns/library/85-13-richard/editors",
-    "https://www.ravelry.com/patterns/library/85-13-richard/report",
     "https://www.ravelry.com/patterns/library/85-13-richard/comments",
-    "http://www.garnstudio.com/lang/us/pattern.php?id=248&lang=us",
-    "https://www.ravelry.com/patterns/library/242-48-silver-day-hat",
-    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/periodicals/drops",
     "https://www.ravelry.com/patterns/library/85-13-richard/threads",
-    "https://www.ravelry.com/patterns/library/199-4-blue-nostalgia-cardigan",
+    "https://www.ravelry.com/patterns/library/242-48-silver-day-hat",
+    "https://www.ravelry.com/patterns/library/104-2-scarf-with-wave-pattern-with-crochet-edge",
+    "https://www.ravelry.com/patterns/library/85-13-richard/report",
+    "https://www.ravelry.com/patterns/library/85-13-richard/edit",
+    "https://www.ravelry.com/patterns/library/85-13-richard/posts",
+    "https://www.ravelry.com/patterns/library/85-13-richard/editors",
     "https://www.ravelry.com/patterns/sources/drops-85",
+    "https://www.ravelry.com/patterns/library/85-13-richard",
+    "http://www.garnstudio.com/lang/us/pattern.php?id=248&lang=us",
     "https://www.ravelry.com/patterns/library/85-13-richard/yarns",
-    "https://www.ravelry.com/patterns/library/85-13-richard/edit"
+    "https://www.ravelry.com/patterns/library/85-13-richard/people",
+    "https://www.ravelry.com/patterns/library/199-4-blue-nostalgia-cardigan",
+    "https://www.ravelry.com/patterns/sources/drops-design"
   ],
   "name": "Ravelry: 85-13 Richard pattern by DROPS design"
 }

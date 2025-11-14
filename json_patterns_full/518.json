@@ -1,4 +1,5 @@
 {
+  "pattern_id": 518,
   "pattern_page": "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2",
   "name": "Mosaic Dot Scarf",
   "description": "Looking for a new cowl or scarf pattern to keep your neck cozy? How about one that looks a bit fancy, but is actually very simple to knit? Well grab some needles and check out our Mosaic Dot Scarf!",
@@ -24,15 +25,15 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/threads",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/yarns",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/people",
-    "https://www.ravelry.com/patterns/library/see-my-vest---worsted",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/comments",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/editors",
-    "https://www.ravelry.com/patterns/library/see-my-vest---chunky",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/report",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2",
+    "https://www.ravelry.com/patterns/sources/maker-maker-store",
     "https://www.ravelry.com/patterns/library/tip-top-tank-3",
-    "https://www.ravelry.com/patterns/sources/maker-maker-store"
+    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/people",
+    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2",
+    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/report",
+    "https://www.ravelry.com/patterns/library/see-my-vest---worsted",
+    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/yarns",
+    "https://www.ravelry.com/patterns/library/see-my-vest---chunky",
+    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/editors",
+    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/comments"
   ]
 }

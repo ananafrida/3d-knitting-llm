@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1243,
   "pattern_page": "https://www.ravelry.com/patterns/library/the-parlor-cat",
   "name": "The Parlor Cat",
   "description": "With paws tucked in and tail to his side, The Parlor Cat makes a very prim and proper house guest. Knit in the round, it is one piece from head to tail, and a befitting 10” long and 7” wide.",
@@ -25,18 +26,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/threads",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/posts",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/report",
-    "https://www.ravelry.com/patterns/library/the-window-cat",
     "https://www.ravelry.com/patterns/sources/knitting-for-beginners---third-edition",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/people",
     "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat",
+    "https://www.ravelry.com/patterns/library/henrys-bunny",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/threads",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/report",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/posts",
+    "https://www.ravelry.com/patterns/library/the-window-cat",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/editors",
     "https://www.ravelry.com/patterns/library/the-parlor-cat/yarns",
     "https://www.ravelry.com/patterns/library/the-parlor-cat/comments",
-    "https://www.ravelry.com/patterns/library/tiny-parlor-cat",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/editors",
-    "https://www.ravelry.com/patterns/library/henrys-bunny"
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/people"
   ]
 }

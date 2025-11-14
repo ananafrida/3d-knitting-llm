@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2135,
   "pattern_page": "https://www.ravelry.com/patterns/library/two-by-two-2",
   "name": "Two by Two",
   "description": "The pattern is now available in Dutch. Thank you Ingrid for all your hard work!",
@@ -30,17 +31,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/two-by-two-2/people",
-    "https://www.ravelry.com/patterns/library/ditto-3",
     "https://www.ravelry.com/patterns/library/two-by-two-2/yarns",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/editors",
-    "https://www.ravelry.com/patterns/library/ribelation",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/posts",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/threads",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/report",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/comments",
+    "https://www.ravelry.com/patterns/library/ditto-3",
     "https://www.ravelry.com/patterns/library/two-by-two-2",
     "https://www.ravelry.com/patterns/library/ribs-n-cables-beanie",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/comments",
-    "https://www.ravelry.com/patterns/sources/anne-gs-ravelry-store"
+    "https://www.ravelry.com/patterns/library/two-by-two-2/report",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/posts",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/threads",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/editors",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/people",
+    "https://www.ravelry.com/patterns/sources/anne-gs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ribelation"
   ]
 }

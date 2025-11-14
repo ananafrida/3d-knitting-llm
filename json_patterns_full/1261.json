@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1261,
   "pattern_page": "https://www.ravelry.com/patterns/library/poppy-the-chicken",
   "craft": "Knitting",
   "category": "Softies → Animal",
@@ -21,18 +22,18 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/poppy-the-chicken/threads",
     "https://www.mamainastitch.com/poppy-chicken-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/poppy-the-chicken/report",
     "https://www.ravelry.com/patterns/library/poppy-the-chicken/editors",
-    "https://www.ravelry.com/patterns/library/poppy-the-chicken/comments",
     "https://www.ravelry.com/patterns/library/billowy-quilted-throw-blanket",
+    "https://www.ravelry.com/patterns/library/poppy-the-chicken/comments",
     "https://www.ravelry.com/patterns/library/poppy-the-chicken",
-    "https://www.ravelry.com/patterns/library/poppy-the-chicken/people",
     "https://www.ravelry.com/patterns/library/finnegan-easy-knit-fox",
-    "https://www.ravelry.com/patterns/library/rocky-mountain-sampler-blanket",
+    "https://www.ravelry.com/patterns/library/poppy-the-chicken/yarns",
     "https://www.ravelry.com/patterns/sources/mama-in-a-stitch-website",
-    "https://www.ravelry.com/patterns/library/poppy-the-chicken/yarns"
+    "https://www.ravelry.com/patterns/library/poppy-the-chicken/report",
+    "https://www.ravelry.com/patterns/library/rocky-mountain-sampler-blanket",
+    "https://www.ravelry.com/patterns/library/poppy-the-chicken/people",
+    "https://www.ravelry.com/patterns/library/poppy-the-chicken/threads"
   ],
   "name": "Ravelry: Poppy The Chicken pattern by Jessica Reeves Potasz"
 }

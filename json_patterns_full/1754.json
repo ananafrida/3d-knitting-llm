@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1754,
   "pattern_page": "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat",
   "name": "Saphir's Scroll of Protection Dice Mat",
   "description": "A very simple, highly customisable dice tray or journal protector. A gift from one critter to another, this tray was inspired by Saphir, my own character and my love of playing D&amp;D with friends. This can be knitted using any yarn you like, we’re holding two strands of DK yarn together here, but you could use anything you have on hand.",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Heather and Hops Highland DK"
+    "Heather and Hops Highland DK",
+    "yarn held together"
   ],
   "attributes": [
     "icord",
@@ -28,16 +29,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/threads",
-    "https://www.ravelry.com/patterns/library/find-the-path-shawl",
     "https://www.ravelry.com/patterns/library/for-the-frill-of-it-socks",
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/report",
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/people",
     "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/comments",
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat",
     "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/editors",
-    "https://www.ravelry.com/patterns/library/spring-intentions-wrap-kal",
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/yarns",
+    "https://www.ravelry.com/patterns/library/find-the-path-shawl",
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/people",
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat",
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/threads",
+    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/report",
     "https://www.ravelry.com/patterns/sources/katt-weavers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/saphirs-scroll-of-protection-dice-mat/yarns"
+    "https://www.ravelry.com/patterns/library/spring-intentions-wrap-kal"
   ]
 }

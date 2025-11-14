@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1566,
   "pattern_page": "https://www.ravelry.com/patterns/library/mini-skein-pumpkin",
   "name": "Mini Skein Pumpkin",
   "description": "Double thick fabric ensures your pumpkins can be stuffed firmly for the perkiest of pumpkins! These can be hand knit or machine knit.",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Cape May Fiber ™ Sock",
-    "Light Fingering ?"
+    "Light Fingering ?",
+    "Cape May Fiber ™ Sock"
   ],
   "attributes": [
     "in-the-round",
@@ -25,16 +26,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/yarns",
-    "https://www.ravelry.com/patterns/library/tangled-lines-2",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/people",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/threads",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/editors",
     "https://www.ravelry.com/patterns/library/beachycomber",
+    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/people",
     "https://www.ravelry.com/patterns/sources/vanessa-ewing-knits-2",
     "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/comments",
+    "https://www.ravelry.com/patterns/library/tangled-lines-2",
     "https://www.ravelry.com/patterns/library/cavanaugh-hat",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/report"
+    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/yarns",
+    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin",
+    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/threads",
+    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/report",
+    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/editors"
   ]
 }

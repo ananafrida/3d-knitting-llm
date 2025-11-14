@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1892,
   "pattern_page": "https://www.ravelry.com/patterns/library/poinsettias-on-parade",
   "name": "Poinsettias on Parade",
   "description": "I am so sorry! I accidentally uploaded the wrong PDF. I really apologize for the inconvenience. I am uploading the correct one now.",
@@ -19,15 +20,15 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/poinsettias-on-parade/yarns",
+    "https://www.ravelry.com/patterns/library/poinsettias-on-parade",
+    "https://www.ravelry.com/patterns/library/poinsettias-on-parade/editors",
+    "https://www.ravelry.com/patterns/library/poinsettias-on-parade/report",
+    "https://www.ravelry.com/patterns/library/tuxedo-ted-bunny-2",
     "https://www.ravelry.com/patterns/library/poinsettias-on-parade/people",
+    "https://www.ravelry.com/patterns/library/poinsettias-on-parade/comments",
     "https://www.ravelry.com/patterns/library/hat-23-cool-slips-d",
     "https://www.ravelry.com/patterns/library/doll-diaper-2",
-    "https://www.ravelry.com/patterns/library/poinsettias-on-parade/report",
-    "https://www.ravelry.com/patterns/sources/jg-millers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/poinsettias-on-parade",
-    "https://www.ravelry.com/patterns/library/poinsettias-on-parade/comments",
-    "https://www.ravelry.com/patterns/library/poinsettias-on-parade/editors",
-    "https://www.ravelry.com/patterns/library/tuxedo-ted-bunny-2"
+    "https://www.ravelry.com/patterns/library/poinsettias-on-parade/yarns",
+    "https://www.ravelry.com/patterns/sources/jg-millers-ravelry-store"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1306,
   "pattern_page": "https://www.ravelry.com/patterns/library/bunny-buddies-2",
   "name": "Bunny Buddies",
   "description": "Sometimes you simply need to knit something silly… And these cute little bunny buddies are exactly that! My boys have gone mad over these little gems and I’m sure they’ll brighten up anyone’s day. The best part about these, is that they knit up really quickly and require very little yarn. The perfect tashbusters for those leftover bits of yarn we are all guilty of keeping… just in case :slightly_smiling_face:",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Sirdar Snuggly DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Sirdar Snuggly DK"
   ],
   "attributes": [
     "seamed",
@@ -23,16 +24,16 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sparky-the-baby-dragon",
     "https://www.ravelry.com/patterns/library/bunny-buddies-2/report",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2/people",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2/threads",
     "https://www.ravelry.com/patterns/library/frankenstitch",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2/yarns",
     "https://www.ravelry.com/patterns/library/tiny-festive-tomte-gnomes",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2/yarns",
+    "https://www.ravelry.com/patterns/library/sparky-the-baby-dragon",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2/people",
     "https://www.ravelry.com/patterns/library/bunny-buddies-2/comments",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2",
     "https://www.ravelry.com/patterns/library/bunny-buddies-2/editors",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2/threads",
     "https://www.ravelry.com/patterns/sources/cillas-purls-ravelry-store"
   ]
 }

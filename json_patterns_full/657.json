@@ -1,4 +1,5 @@
 {
+  "pattern_id": 657,
   "pattern_page": "https://www.ravelry.com/patterns/library/felted-gnome-hat",
   "name": "Felted Gnome Hat",
   "description": "My sister the daycare teacher wanted a gnome hat for her Halloween costume so I came up with this hat that wouldn’t need stuffing to stand up.",
@@ -31,15 +32,15 @@
   "techniques": [],
   "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat/comments",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat",
     "https://www.ravelry.com/patterns/library/felted-gnome-hat/people",
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat/report",
-    "https://www.ravelry.com/patterns/library/eaten-by-a-shark-slippers",
-    "https://www.ravelry.com/patterns/sources/yolanda-leungs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat/yarns",
-    "https://www.ravelry.com/patterns/library/felted-mason-jar-cozy-2",
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat/editors",
     "https://www.ravelry.com/patterns/library/versatile-hat-for-pets",
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat"
+    "https://www.ravelry.com/patterns/library/felted-mason-jar-cozy-2",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat/comments",
+    "https://www.ravelry.com/patterns/sources/yolanda-leungs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/eaten-by-a-shark-slippers",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat/editors",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat/yarns",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat/report"
   ]
 }

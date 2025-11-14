@@ -1,4 +1,5 @@
 {
+  "pattern_id": 555,
   "pattern_page": "https://www.ravelry.com/patterns/library/triss-baby-blanket",
   "name": "Triss baby blanket",
   "description": "",
@@ -20,16 +21,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lane-cadigan",
     "https://www.ravelry.com/patterns/library/tymek-baby-cardigan",
+    "https://www.ravelry.com/patterns/library/lane-cadigan",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/report",
+    "https://www.ravelry.com/patterns/sources/crepleknits",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/people",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/threads",
     "https://www.ravelry.com/patterns/library/triss-baby-blanket/editors",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/comments",
     "https://www.ravelry.com/patterns/library/mia-cardigan-4",
     "https://www.ravelry.com/patterns/library/triss-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket",
-    "https://www.ravelry.com/patterns/sources/crepleknits",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/threads"
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket"
   ]
 }

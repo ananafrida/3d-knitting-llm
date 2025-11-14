@@ -1,4 +1,5 @@
 {
+  "pattern_id": 721,
   "pattern_page": "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap",
   "name": "Lizzikin's Pixie Cap",
   "description": "A fun to wear pixie style cap featuring purl ridge rings around the bottom of the cap, and an i-cord and tassel to complete the top.",
@@ -34,16 +35,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/report",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/people",
-    "https://www.ravelry.com/patterns/library/x-marks-the-spot-7",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap",
-    "https://www.ravelry.com/patterns/library/sea-cruise",
-    "https://www.ravelry.com/patterns/sources/yaya-lovestoknit",
-    "https://www.ravelry.com/patterns/library/crossing-the-tracks",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/threads",
     "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/editors",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/yarns",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/comments"
+    "https://www.ravelry.com/patterns/library/x-marks-the-spot-7",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/comments",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/report",
+    "https://www.ravelry.com/patterns/sources/yaya-lovestoknit",
+    "https://www.ravelry.com/patterns/library/sea-cruise",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/people",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/threads",
+    "https://www.ravelry.com/patterns/library/crossing-the-tracks",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/yarns"
   ]
 }

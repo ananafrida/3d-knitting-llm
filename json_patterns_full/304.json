@@ -1,4 +1,5 @@
 {
+  "pattern_id": 304,
   "pattern_page": "https://www.ravelry.com/patterns/library/kitty-tortelloni",
   "name": "Kitty tortelloni",
   "description": "These cute little cat toys are a perfect way to use up that scrap yarn you’ve got lying around! They work up really quick (my average time is about half an hour from start to finish) and you can use any kind of yarn you want. It works best with worsted, but you could get away with aran or DK or even holding multiple strands together for a chunkier toy.",
@@ -21,12 +22,12 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/jo-seversons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/kitty-tortelloni",
-    "https://www.ravelry.com/patterns/library/kitty-tortelloni/editors",
     "https://www.ravelry.com/patterns/library/kitty-tortelloni/yarns",
+    "https://www.ravelry.com/patterns/library/kitty-tortelloni/editors",
     "https://www.ravelry.com/patterns/library/kitty-tortelloni/people",
     "https://www.ravelry.com/patterns/library/kitty-tortelloni/comments",
-    "https://www.ravelry.com/patterns/library/kitty-tortelloni/report"
+    "https://www.ravelry.com/patterns/library/kitty-tortelloni",
+    "https://www.ravelry.com/patterns/library/kitty-tortelloni/report",
+    "https://www.ravelry.com/patterns/sources/jo-seversons-ravelry-store"
   ]
 }

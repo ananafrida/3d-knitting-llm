@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1335,
   "pattern_page": "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3",
   "name": "Whimsical Witch Hat",
   "description": "These hats are fun and quick to make! They are knit entirely in the round on dpns, starting at the brims outward edge, with pretty decreases to the center. A Latvian Braid makes an easy and impressive looking sash (how to video included).",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Fleece & Harmony Point Prim Sock",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Fleece & Harmony Point Prim Sock"
   ],
   "attributes": [
     "bottom-up",
@@ -27,16 +28,16 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/people",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/yarns",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/editors",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/comments",
     "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/report",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
     "https://www.ravelry.com/patterns/library/acorn-fairies",
     "https://www.ravelry.com/patterns/library/santa-lucia-4",
-    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/yarns",
-    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/comments",
-    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3",
-    "https://www.ravelry.com/patterns/library/toadstool-promenade",
-    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/editors",
     "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/threads",
-    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/people"
+    "https://www.ravelry.com/patterns/library/toadstool-promenade",
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3"
   ]
 }

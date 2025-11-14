@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1101,
   "pattern_page": "https://www.ravelry.com/patterns/library/zinnie",
   "name": "Zinnie",
   "description": "Zinnie is a colourful summer tee featuring a textured striped motif. Knitted from the bottom up, it starts with a twisted ribbing split hem, lower at the back. The body is then joined in the round and worked until the armholes, alternating colours with a slipped stitch detail. Front and back are separated and worked flat before joining the shoulders with a three needle bind-off. Collar and sleeve cuffs are picked up and worked in twisted ribbing.",
@@ -12,8 +13,8 @@
     "French"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Adriafil Cheope"
+    "Adriafil Cheope",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -41,16 +42,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/zinnie/yarns",
-    "https://www.ravelry.com/patterns/library/cervion",
-    "https://www.ravelry.com/patterns/library/zinnie/threads",
-    "https://www.ravelry.com/patterns/library/zinnie/people",
-    "https://www.ravelry.com/patterns/library/zinnie/editors",
     "https://www.ravelry.com/patterns/library/marella-2",
-    "https://www.ravelry.com/patterns/library/zinnie/report",
+    "https://www.ravelry.com/patterns/library/zinnie/yarns",
     "https://www.ravelry.com/patterns/library/telluric",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
     "https://www.ravelry.com/patterns/library/zinnie/comments",
-    "https://www.ravelry.com/patterns/library/zinnie"
+    "https://www.ravelry.com/patterns/library/zinnie/report",
+    "https://www.ravelry.com/patterns/library/zinnie",
+    "https://www.ravelry.com/patterns/library/zinnie/threads",
+    "https://www.ravelry.com/patterns/library/zinnie/editors",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/zinnie/people",
+    "https://www.ravelry.com/patterns/library/cervion"
   ]
 }

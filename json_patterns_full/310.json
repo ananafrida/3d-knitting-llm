@@ -1,4 +1,5 @@
 {
+  "pattern_id": 310,
   "pattern_page": "https://www.ravelry.com/patterns/library/korkfisshe",
   "craft": "Knitting",
   "category": "Pet → Toys",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Lily (Spinrite) Sugar'n Cream Solids",
-    "Worsted (9 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Lily (Spinrite) Sugar'n Cream Solids"
   ],
   "attributes": [
     "in-the-round",
@@ -22,19 +23,19 @@
   "techniques": [],
   "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/peg-of-tilling-does-some-knitting",
     "https://www.ravelry.com/patterns/library/korkfisshe/editors",
     "https://www.ravelry.com/patterns/library/korkfisshe/report",
-    "https://www.ravelry.com/patterns/library/korkfisshe/people",
-    "https://www.ravelry.com/patterns/library/korkfisshe/threads",
-    "https://www.ravelry.com/patterns/library/ruffledy-scarf",
-    "https://www.ravelry.com/patterns/library/korkfisshe/comments",
     "http://www.saartjeknits.nl/patterns/Korknisse.html",
     "https://www.ravelry.com/patterns/library/korkmauser",
+    "https://www.ravelry.com/patterns/sources/peg-of-tilling-does-some-knitting",
+    "https://www.ravelry.com/patterns/library/korkfisshe/threads",
     "https://www.ravelry.com/patterns/library/korkhenn",
-    "https://www.ravelry.com/patterns/library/korkfisshe",
+    "https://www.ravelry.com/patterns/library/ruffledy-scarf",
+    "https://www.ravelry.com/patterns/library/korkfisshe/comments",
+    "https://www.ravelry.com/patterns/library/korkfisshe/posts",
     "https://www.ravelry.com/patterns/library/korkfisshe/yarns",
-    "https://www.ravelry.com/patterns/library/korkfisshe/posts"
+    "https://www.ravelry.com/patterns/library/korkfisshe",
+    "https://www.ravelry.com/patterns/library/korkfisshe/people"
   ],
   "name": "Ravelry: Korkfisshe pattern by Diane Trap"
 }

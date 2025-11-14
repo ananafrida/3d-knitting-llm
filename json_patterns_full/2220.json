@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2220,
   "pattern_page": "https://www.ravelry.com/patterns/library/little-princess-knitted-crown",
   "craft": "Knitting",
   "category": "Costume",
@@ -26,19 +27,19 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/wool-and-chocolate",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
     "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/people",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown",
     "https://www.ravelry.com/patterns/library/cast-iron-pan-handle-cozy-2",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/edit",
-    "https://www.ravelry.com/patterns/library/creeper-gonna-creep",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/comments",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/report",
+    "https://www.ravelry.com/patterns/sources/wool-and-chocolate",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/yarns",
     "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/editors",
     "https://www.ravelry.com/patterns/library/flower-garden-stitch-markers",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/report",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/yarns",
-    "https://web.archive.org/web/20110811073119/https://woolandchocolate.wordpress.com/2010/10/01/princess-crown-free-knit-pattern/"
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/edit",
+    "https://web.archive.org/web/20110811073119/https://woolandchocolate.wordpress.com/2010/10/01/princess-crown-free-knit-pattern/",
+    "https://www.ravelry.com/patterns/library/creeper-gonna-creep",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/comments"
   ],
   "name": "Ravelry: Little Princess Knitted Crown pattern by Shelly Jackson"
 }

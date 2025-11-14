@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1488,
   "pattern_page": "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
   "name": "Christmas Candle ornament",
   "description": "The cutest and essential Christmas ornament! The candle is knitted bottom up in the round, easy to work on and suitable for the beginners.",
@@ -22,16 +23,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/yarns",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/report",
     "https://www.ravelry.com/patterns/sources/ekaterina-vorobevas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/threads",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
-    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/people",
     "https://www.ravelry.com/patterns/library/sweet-home-sweater-3",
     "https://www.ravelry.com/patterns/library/christmas-candle-ornament/editors",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/people",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/threads",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/comments",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/yarns",
     "https://www.ravelry.com/patterns/library/normandie-tee",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/comments"
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
+    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/report"
   ]
 }

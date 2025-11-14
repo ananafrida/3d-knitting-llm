@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1505,
   "pattern_page": "https://www.ravelry.com/patterns/library/pumpkin-patch-26",
   "name": "Pumpkin Patch",
   "description": "With two stands held together giving you a marled look throughout, you can mix the colors and create your own unique pumpkin patch. Pattern uses one Fall Festival Bundle with 2 strands held together throughout.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together",
-    "Blue Sky Fibers Woolstok Bundle"
+    "Blue Sky Fibers Woolstok Bundle",
+    "yarn held together"
   ],
   "attributes": [
     "in-the-round",
@@ -22,20 +23,20 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
     "https://www.ravelry.com/patterns/library/fairmont-felted-bowls",
-    "https://www.ravelry.com/patterns/library/pumpkin-patch-26/editors",
     "https://www.ravelry.com/patterns/library/fall-festival-mini-pumpkins",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/pumpkin-patch-26/comments",
-    "https://www.ravelry.com/patterns/library/pumpkin-patch-26/report",
-    "https://www.ravelry.com/patterns/library/pumpkin-patch-26",
     "https://www.ravelry.com/patterns/library/pumpkin-patch-26/yarns",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-mitt",
     "https://www.ravelry.com/patterns/library/pumpkin-patch-26/people",
-    "https://www.ravelry.com/patterns/library/pumpkin-patch-26/threads",
+    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
     "https://www.ravelry.com/patterns/library/pumpkin-patch-26/edit",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns"
+    "https://www.ravelry.com/patterns/library/pumpkin-patch-26/comments",
+    "https://www.ravelry.com/patterns/library/pumpkin-patch-26/threads",
+    "https://www.ravelry.com/patterns/library/pumpkin-patch-26/editors",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-mitt",
+    "https://www.ravelry.com/patterns/library/pumpkin-patch-26/report",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
+    "https://www.ravelry.com/patterns/library/pumpkin-patch-26"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 733,
   "pattern_page": "https://www.ravelry.com/patterns/library/step-by-step-sweater",
   "name": "Step by Step Sweater",
   "description": "The Step By Step Sweater is a simple raglan sweater with no complicated techniques, perfect as your first garment knitting project. It has a relaxed fit and two options for the neckline.",
@@ -28,16 +29,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/petal-drop-socks",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/people",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/editors",
-    "https://www.ravelry.com/patterns/sources/florence-millers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/threads",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/report",
-    "https://www.ravelry.com/patterns/library/step-by-step-cardigan",
-    "https://www.ravelry.com/patterns/library/mixed-rib-cami",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/yarns",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/comments",
     "https://www.ravelry.com/patterns/library/step-by-step-sweater/posts",
-    "https://www.ravelry.com/patterns/library/step-by-step-sweater/comments"
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/yarns",
+    "https://www.ravelry.com/patterns/sources/florence-millers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/editors",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/threads",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater",
+    "https://www.ravelry.com/patterns/library/mixed-rib-cami",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/people",
+    "https://www.ravelry.com/patterns/library/step-by-step-cardigan",
+    "https://www.ravelry.com/patterns/library/step-by-step-sweater/report"
   ]
 }

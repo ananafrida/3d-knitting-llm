@@ -1,4 +1,5 @@
 {
+  "pattern_id": 559,
   "pattern_page": "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2",
   "name": "Pastel Rainbow Baby Blanket",
   "description": "Feather and Fan wavy baby blanket in gorgeous pastel colours.",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "King Cole Baby Big Value DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "King Cole Baby Big Value DK"
   ],
   "attributes": [
     "stripes-colorwork"
@@ -20,17 +21,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/watermelon-baby-cardigan",
+    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/people",
     "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/yarns",
     "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/threads",
-    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/people",
-    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/posts",
-    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/editors",
-    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/report",
-    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/comments",
-    "https://www.ravelry.com/patterns/library/watermelon-baby-hat-3",
-    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2",
     "https://www.ravelry.com/patterns/library/4-in-1-reversible-beanie",
-    "https://www.ravelry.com/patterns/sources/stitchylindas-ravelry-store"
+    "https://www.ravelry.com/patterns/library/watermelon-baby-cardigan",
+    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/posts",
+    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2",
+    "https://www.ravelry.com/patterns/library/watermelon-baby-hat-3",
+    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/report",
+    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/editors",
+    "https://www.ravelry.com/patterns/sources/stitchylindas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/pastel-rainbow-baby-blanket-2/comments"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1180,
   "pattern_page": "https://www.ravelry.com/patterns/library/mini-gingerbread-friends",
   "name": "Mini Gingerbread Friends",
   "description": "Construction",
@@ -24,16 +25,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/yarns",
     "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/editors",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/pen-pals-2",
-    "https://www.ravelry.com/patterns/library/winter-folk-friends",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/report",
     "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/people",
     "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/comments",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/threads"
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/yarns",
+    "https://www.ravelry.com/patterns/library/winter-folk-friends",
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/report",
+    "https://www.ravelry.com/patterns/library/pen-pals-2",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends/threads",
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends"
   ]
 }

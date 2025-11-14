@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1764,
   "pattern_page": "https://www.ravelry.com/patterns/library/water-balloons-8",
   "name": "Water Balloons",
   "description": "NEEDLE Knitting Pattern ♥ SOAK, THROW, SPLAT, REPEAT! It’s just that fun and simple to play with these washable, reusable “water balloons”! Painless and environmentally friendly, they’re perfect for hot summer days outside! These “water balloons” knit up super fast and easy.",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Bernat Baby Blanket (Polyester)"
+    "Bernat Baby Blanket (Polyester)",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -24,15 +25,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/water-balloons-8/comments",
     "https://www.ravelry.com/patterns/sources/smitten-knittens",
     "https://www.ravelry.com/patterns/library/water-balloons-8/editors",
-    "https://www.ravelry.com/patterns/library/water-balloons-8/report",
     "https://www.ravelry.com/patterns/library/faire-winter-cowl-2",
-    "https://www.ravelry.com/patterns/library/chonky-buffalo-beanies",
+    "https://www.ravelry.com/patterns/library/water-balloons-8/comments",
     "https://www.ravelry.com/patterns/library/water-balloons-8",
     "https://www.ravelry.com/patterns/library/water-balloons-8/yarns",
-    "https://www.ravelry.com/patterns/library/striped-stocking-10",
-    "https://www.ravelry.com/patterns/library/water-balloons-8/people"
+    "https://www.ravelry.com/patterns/library/water-balloons-8/report",
+    "https://www.ravelry.com/patterns/library/chonky-buffalo-beanies",
+    "https://www.ravelry.com/patterns/library/water-balloons-8/people",
+    "https://www.ravelry.com/patterns/library/striped-stocking-10"
   ]
 }

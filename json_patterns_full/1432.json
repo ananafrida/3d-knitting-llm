@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1432,
   "pattern_page": "https://www.ravelry.com/patterns/library/0-1601-new-traditions",
   "craft": "Knitting",
   "category": "Decorative → Hanging Ornament",
@@ -25,8 +26,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Lima"
+    "Garnstudio DROPS Lima",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
@@ -45,20 +46,20 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/0-1608-winters-tale",
-    "https://www.ravelry.com/patterns/periodicals/drops-christmas-calendar",
     "https://www.ravelry.com/patterns/library/0-1601-new-traditions/comments",
-    "https://www.ravelry.com/patterns/library/0-1601-new-traditions/people",
-    "https://www.ravelry.com/patterns/library/0-1601-new-traditions/report",
-    "https://www.ravelry.com/patterns/library/242-66-mushroom-season-socks",
-    "https://www.garnstudio.com/pattern.php?id=11644&cid=19",
-    "https://www.ravelry.com/patterns/library/0-1601-new-traditions/editors",
-    "https://www.ravelry.com/patterns/library/0-1601-new-traditions",
-    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2023",
+    "https://www.ravelry.com/patterns/library/0-1608-winters-tale",
     "https://www.ravelry.com/patterns/library/0-1008-let-it-snow",
+    "https://www.ravelry.com/patterns/library/0-1601-new-traditions/people",
+    "https://www.ravelry.com/patterns/periodicals/drops-christmas-calendar",
+    "https://www.ravelry.com/patterns/library/0-1601-new-traditions/report",
+    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2023",
+    "https://www.ravelry.com/patterns/library/242-66-mushroom-season-socks",
+    "https://www.ravelry.com/patterns/library/0-1601-new-traditions/yarns",
+    "https://www.garnstudio.com/pattern.php?id=11644&cid=19",
     "https://www.ravelry.com/patterns/library/0-1601-new-traditions/edit",
     "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/0-1601-new-traditions/yarns"
+    "https://www.ravelry.com/patterns/library/0-1601-new-traditions",
+    "https://www.ravelry.com/patterns/library/0-1601-new-traditions/editors"
   ],
   "name": "Ravelry: 0-1601 New Traditions pattern by DROPS design"
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1507,
   "pattern_page": "https://www.ravelry.com/patterns/library/pumpkin-number-one",
   "name": "Pumpkin Number One",
   "description": "Pumpkin Number One is a project worked in the round on 2.5 mm US 1½ / UK – double-pointed knitting needles. It features a combination of knits and purls only, so it is a very beginner-friendly project that will help you make use of your scrap yarn.",
@@ -30,15 +31,15 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/must-have-baby-hat",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one/editors",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one/yarns",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one/people",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one/report",
+    "https://www.ravelry.com/patterns/sources/ewelina-wojsz-designs",
     "https://www.ravelry.com/patterns/library/pumpkin-number-one/comments",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one",
     "https://www.ravelry.com/patterns/library/swirly-twirly-skirt",
     "https://www.ravelry.com/patterns/library/one-line-hat",
-    "https://www.ravelry.com/patterns/sources/ewelina-wojsz-designs"
+    "https://www.ravelry.com/patterns/library/must-have-baby-hat",
+    "https://www.ravelry.com/patterns/library/pumpkin-number-one/people",
+    "https://www.ravelry.com/patterns/library/pumpkin-number-one/editors",
+    "https://www.ravelry.com/patterns/library/pumpkin-number-one/report",
+    "https://www.ravelry.com/patterns/library/pumpkin-number-one/yarns",
+    "https://www.ravelry.com/patterns/library/pumpkin-number-one"
   ]
 }

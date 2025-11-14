@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1302,
   "pattern_page": "https://www.ravelry.com/patterns/library/dragon-91",
   "craft": "Knitting",
   "category": "Softies → Animal",
@@ -23,18 +24,18 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-duck-806",
-    "https://www.ravelry.com/patterns/library/dragon-91/yarns",
-    "https://www.ravelry.com/patterns/library/dragon-91",
-    "https://mailchi.mp/742a8d1f68fc/needlecraft-dragon-delights-pattern-subscription",
-    "https://www.ravelry.com/patterns/library/little-bunny-toy-3",
-    "https://www.ravelry.com/patterns/sources/polushkabunny-website",
+    "https://www.ravelry.com/patterns/sources/polushkabunny",
     "https://www.ravelry.com/patterns/library/dragon-91/report",
     "https://www.ravelry.com/patterns/library/dragon-91/editors",
     "https://www.ravelry.com/patterns/library/dragon-91/comments",
-    "https://www.ravelry.com/patterns/library/dragons-sweater",
     "https://www.ravelry.com/patterns/library/dragon-91/people",
-    "https://www.ravelry.com/patterns/sources/polushkabunny"
+    "https://www.ravelry.com/patterns/library/dragon-91/yarns",
+    "https://mailchi.mp/742a8d1f68fc/needlecraft-dragon-delights-pattern-subscription",
+    "https://www.ravelry.com/patterns/library/dragons-sweater",
+    "https://www.ravelry.com/patterns/library/baby-duck-806",
+    "https://www.ravelry.com/patterns/library/little-bunny-toy-3",
+    "https://www.ravelry.com/patterns/library/dragon-91",
+    "https://www.ravelry.com/patterns/sources/polushkabunny-website"
   ],
   "name": "Ravelry: Dragon pattern by Maria Ermolova"
 }

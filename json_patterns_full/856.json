@@ -1,4 +1,5 @@
 {
+  "pattern_id": 856,
   "pattern_page": "https://www.ravelry.com/patterns/library/noisette-shawlette",
   "name": "noisette shawlette",
   "description": "Knit the Noisette Shawlette, a delicate accessory designed by Trust the Mojo with just one ball of Concept Silky Lace.",
@@ -18,8 +19,8 @@
     "hide other languages"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Concept by Katia Silky Lace"
+    "Concept by Katia Silky Lace",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "lace"
@@ -28,16 +29,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/noisette-shawlette/comments",
+    "https://www.ravelry.com/patterns/library/noisette-shawlette/yarns",
+    "https://www.ravelry.com/patterns/library/noisette-shawlette/editors",
+    "https://www.ravelry.com/patterns/library/noisette-shawlette",
     "https://www.ravelry.com/patterns/sources/katia-yarns-website",
     "https://www.ravelry.com/patterns/periodicals/katia",
-    "https://www.ravelry.com/patterns/library/noisette-shawlette/yarns",
-    "https://www.ravelry.com/patterns/library/noisette-shawlette/comments",
-    "https://www.ravelry.com/patterns/library/darjeeling-blouse",
-    "https://www.ravelry.com/patterns/library/noisette-shawlette/report",
-    "https://www.ravelry.com/patterns/library/sookie-blouse",
-    "https://www.ravelry.com/patterns/library/noisette-shawlette",
-    "https://www.ravelry.com/patterns/library/noisette-shawlette/editors",
     "https://www.ravelry.com/patterns/library/noisette-shawlette/people",
-    "https://www.ravelry.com/patterns/library/darjeeling-top"
+    "https://www.ravelry.com/patterns/library/darjeeling-top",
+    "https://www.ravelry.com/patterns/library/noisette-shawlette/report",
+    "https://www.ravelry.com/patterns/library/darjeeling-blouse",
+    "https://www.ravelry.com/patterns/library/sookie-blouse"
   ]
 }

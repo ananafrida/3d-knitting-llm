@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2107,
   "pattern_page": "https://www.ravelry.com/patterns/library/losy-hat",
   "name": "LOSY Hat",
   "description": "LOSY stands for left over sock yarn I know everyone has. This is a quick simple project that uses leftovers for a great hat. Use two strands at a time and when you finish one ball, simply replace it with another. Keep changing yarns as you work up the hat. Pretty soon your scrap sock yarn is used up and you can justify purchasing new sock yarn!",
@@ -25,15 +26,15 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/losy-hat/comments",
-    "https://www.ravelry.com/patterns/library/losy-hat/threads",
-    "https://www.ravelry.com/patterns/library/losy-hat",
-    "https://www.ravelry.com/patterns/library/losy-hat/report",
-    "https://www.ravelry.com/patterns/library/losy-hat/edit",
-    "https://www.ravelry.com/patterns/library/losy-hat/people",
-    "https://www.ravelry.com/patterns/library/losy-hat/editors",
-    "https://www.ravelry.com/patterns/library/losy-hat/yarns",
     "https://www.ravelry.com/patterns/library/losy-hat/posts",
-    "https://www.ravelry.com/patterns/sources/fabric-works"
+    "https://www.ravelry.com/patterns/library/losy-hat/edit",
+    "https://www.ravelry.com/patterns/library/losy-hat/comments",
+    "https://www.ravelry.com/patterns/library/losy-hat/report",
+    "https://www.ravelry.com/patterns/sources/fabric-works",
+    "https://www.ravelry.com/patterns/library/losy-hat/threads",
+    "https://www.ravelry.com/patterns/library/losy-hat/people",
+    "https://www.ravelry.com/patterns/library/losy-hat/yarns",
+    "https://www.ravelry.com/patterns/library/losy-hat/editors",
+    "https://www.ravelry.com/patterns/library/losy-hat"
   ]
 }

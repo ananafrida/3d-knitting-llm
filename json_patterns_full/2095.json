@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2095,
   "pattern_page": "https://www.ravelry.com/patterns/library/sockhead-slouch-hat",
   "name": "Sockhead Slouch Hat",
   "description": "Version Four (V4) is now available! #sockheadhat",
@@ -12,8 +13,8 @@
     "Spanish"
   ],
   "suggested_yarn": [
-    "Blue Moon Fiber Arts Socks that Rock Lightweight",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Blue Moon Fiber Arts Socks that Rock Lightweight"
   ],
   "attributes": [
     "adult",
@@ -35,22 +36,22 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/bundles/free-patterns-700",
-    "https://www.ravelry.com/patterns/library/idylluna-shawl",
-    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/threads",
-    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/editors",
+    "https://www.ravelry.com/patterns/sources/bohoknits-ravelry-emporium",
+    "https://www.ravelry.com/patterns/sources/bohoknits-blogspot",
     "https://www.ravelry.com/patterns/sources/knitting-calendar-2017",
     "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/people",
-    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat",
-    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/report",
-    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/yarns",
     "http://www.ravelry.com/patterns/library/pioneer-gloves",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/yarns",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/threads",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/editors",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/report",
+    "https://www.ravelry.com/patterns/library/idylluna-shawl",
+    "https://www.ravelry.com/bundles/free-patterns-700",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/posts",
     "http://www.ravelry.com/patterns/library/sockhead-cowl",
     "https://www.ravelry.com/patterns/library/pioneer-gloves",
-    "https://www.ravelry.com/patterns/library/sockhead-cowl",
-    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/posts",
-    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/comments",
-    "https://www.ravelry.com/patterns/sources/bohoknits-blogspot",
-    "https://www.ravelry.com/patterns/sources/bohoknits-ravelry-emporium"
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/comments"
   ]
 }

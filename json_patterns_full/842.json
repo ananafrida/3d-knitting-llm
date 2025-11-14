@@ -1,4 +1,5 @@
 {
+  "pattern_id": 842,
   "pattern_page": "https://www.ravelry.com/patterns/library/magnolia-ascot",
   "craft": "Knitting",
   "category": "Neck / Torso → Scarf",
@@ -8,8 +9,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Purl Soho Simply Yak",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Purl Soho Simply Yak"
   ],
   "attributes": [
     "worked-flat",
@@ -20,15 +21,15 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/color-brick-road-blanket",
-    "https://www.ravelry.com/patterns/library/simplicity-scarf-8",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot/editors",
-    "https://www.ravelry.com/patterns/library/crafted-cardigan",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot/report",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot/comments",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
     "https://www.ravelry.com/patterns/library/magnolia-ascot/people",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot/yarns",
     "https://www.ravelry.com/patterns/library/magnolia-ascot",
-    "https://www.ravelry.com/patterns/sources/purl-soho"
+    "https://www.ravelry.com/patterns/library/magnolia-ascot/comments",
+    "https://www.ravelry.com/patterns/library/magnolia-ascot/editors",
+    "https://www.ravelry.com/patterns/library/magnolia-ascot/yarns",
+    "https://www.ravelry.com/patterns/library/crafted-cardigan",
+    "https://www.ravelry.com/patterns/library/simplicity-scarf-8",
+    "https://www.ravelry.com/patterns/library/magnolia-ascot/report"
   ],
   "name": "Ravelry: Magnolia Ascot pattern by Purl Soho"
 }

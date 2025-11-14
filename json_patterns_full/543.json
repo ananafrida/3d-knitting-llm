@@ -1,4 +1,5 @@
 {
+  "pattern_id": 543,
   "pattern_page": "https://www.ravelry.com/patterns/library/lisbeth-blanket",
   "name": "Lisbeth Blanket",
   "description": "Do you like my work and want to get",
@@ -12,8 +13,8 @@
     "German"
   ],
   "suggested_yarn": [
-    "Sandnes Garn Smart",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Sandnes Garn Smart"
   ],
   "attributes": [
     "chart",
@@ -27,17 +28,17 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket/threads",
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/leftover-sneaker",
     "https://www.ravelry.com/patterns/library/lisbeth-blanket/posts",
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket/editors",
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket",
-    "https://www.ravelry.com/patterns/library/cat-love-socks",
-    "https://www.ravelry.com/patterns/library/erika-9",
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket/people",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket/threads",
     "https://www.ravelry.com/patterns/library/lisbeth-blanket/comments",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket/report",
+    "https://www.ravelry.com/patterns/library/cat-love-socks",
+    "https://www.ravelry.com/patterns/library/leftover-sneaker",
     "https://www.ravelry.com/patterns/sources/anja-heumanns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/lisbeth-blanket/report"
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket/editors",
+    "https://www.ravelry.com/patterns/library/erika-9",
+    "https://www.ravelry.com/patterns/library/lisbeth-blanket/people"
   ]
 }

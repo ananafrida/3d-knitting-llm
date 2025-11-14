@@ -1,4 +1,5 @@
 {
+  "pattern_id": 852,
   "pattern_page": "https://www.ravelry.com/patterns/library/popple-bandana",
   "name": "Popple Bandana",
   "description": "We love a good bandana in warmer weather—and this one is just that! It’s lightweight both in the knitting and in the wearing—and it’s a fun-to-work slip stitch pattern in an easily memorized eight-row repeat.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Dimond Laine Birdie",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Dimond Laine Birdie"
   ],
   "attributes": [
     "adult",
@@ -29,17 +30,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/popple-bandana/yarns",
-    "https://www.ravelry.com/patterns/library/popple-bandana/report",
-    "https://www.ravelry.com/patterns/sources/the-lamb--kid",
-    "https://www.ravelry.com/patterns/library/popple-bandana/threads",
     "https://www.ravelry.com/patterns/library/the-cloud-hat",
-    "https://www.ravelry.com/patterns/library/popple-bandana",
-    "https://www.ravelry.com/patterns/library/popple-bandana/comments",
-    "https://www.ravelry.com/patterns/library/popple-bandana/people",
-    "https://www.ravelry.com/patterns/sources/the-lamb--kid-designs-ravelry-store",
     "https://www.ravelry.com/patterns/library/country-weekend-shawl",
+    "https://www.ravelry.com/patterns/library/popple-bandana/comments",
+    "https://www.ravelry.com/patterns/library/popple-bandana",
+    "https://www.ravelry.com/patterns/library/popple-bandana/report",
+    "https://www.ravelry.com/patterns/library/popple-bandana/yarns",
+    "https://www.ravelry.com/patterns/library/regimental-cowl",
+    "https://www.ravelry.com/patterns/sources/the-lamb--kid-designs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/popple-bandana/people",
     "https://www.ravelry.com/patterns/library/popple-bandana/editors",
-    "https://www.ravelry.com/patterns/library/regimental-cowl"
+    "https://www.ravelry.com/patterns/sources/the-lamb--kid",
+    "https://www.ravelry.com/patterns/library/popple-bandana/threads"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1593,
   "pattern_page": "https://www.ravelry.com/patterns/library/pumpkins-31",
   "name": "Pumpkins",
   "description": "Have fun with this adorable pumpkin knitting pattern!",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Briggs & Little Heritage 2 Ply"
+    "Briggs & Little Heritage 2 Ply",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
@@ -21,17 +22,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pumpkins-31/editors",
+    "https://www.ravelry.com/patterns/sources/briggs--little-ravelry-store",
+    "https://www.ravelry.com/patterns/periodicals/briggs--little",
+    "https://www.ravelry.com/patterns/library/pumpkins-31/report",
     "https://www.ravelry.com/patterns/library/canada-pride-set",
     "https://www.ravelry.com/patterns/library/town--country-socks",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/edit",
-    "https://www.ravelry.com/patterns/periodicals/briggs--little",
     "https://www.ravelry.com/patterns/library/pumpkins-31/comments",
-    "https://www.ravelry.com/patterns/sources/briggs--little-ravelry-store",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/people",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/report",
-    "https://www.ravelry.com/patterns/library/pumpkins-31",
     "https://www.ravelry.com/patterns/library/pumpkins-31/yarns",
-    "https://www.ravelry.com/patterns/library/felted-hat-and-mittens-set"
+    "https://www.ravelry.com/patterns/library/pumpkins-31/people",
+    "https://www.ravelry.com/patterns/library/pumpkins-31/edit",
+    "https://www.ravelry.com/patterns/library/felted-hat-and-mittens-set",
+    "https://www.ravelry.com/patterns/library/pumpkins-31",
+    "https://www.ravelry.com/patterns/library/pumpkins-31/editors"
   ]
 }

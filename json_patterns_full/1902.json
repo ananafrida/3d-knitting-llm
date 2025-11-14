@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1902,
   "pattern_page": "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf",
   "name": "Cape Sweet Pea Leaf",
   "description": "This knitted leaf is shaped as a Cape Sweet Pea leaf (Dipogon lignosis), native to South Africa.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "DMC Coton Perlé 5, Skein",
-    "Thread ?"
+    "Thread ?",
+    "DMC Coton Perlé 5, Skein"
   ],
   "attributes": [
     "one-piece",
@@ -23,15 +24,15 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf/report",
-    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf",
     "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf/comments",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf/people",
-    "https://www.ravelry.com/patterns/library/weldons-wanzer-border",
-    "https://www.ravelry.com/patterns/library/1902-leaf-lace-edging",
+    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf",
     "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf/yarns",
+    "https://www.ravelry.com/patterns/library/weldons-wanzer-border",
+    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf/report",
     "https://www.ravelry.com/patterns/library/weldons-venetian-border",
-    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf/editors"
+    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf/editors",
+    "https://www.ravelry.com/patterns/library/1902-leaf-lace-edging",
+    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf/people",
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store"
   ]
 }

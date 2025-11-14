@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1345,
   "pattern_page": "https://www.ravelry.com/patterns/library/trumpet-sniffer",
   "name": "trumpet sniffer",
   "description": "There is a permanent KAL for sniffers at fix und fertig so if you need more inspiration, just zip by. Photos are highly appreciated, there has grown a kind of sniffer community meanwhile :)",
@@ -21,17 +22,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/people",
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/report",
-    "https://www.ravelry.com/patterns/library/baby-trumpet-sniffer",
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/posts",
     "https://www.ravelry.com/patterns/library/trumpet-sniffer/comments",
-    "https://www.ravelry.com/patterns/library/cablecoaster-peekaboo",
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/editors",
-    "https://www.ravelry.com/patterns/sources/schneggart-designs",
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer",
+    "https://www.ravelry.com/patterns/library/baby-trumpet-sniffer",
     "https://www.ravelry.com/patterns/library/trumpet-sniffer/threads",
     "https://www.ravelry.com/patterns/library/rollercoastertriangle",
-    "https://www.ravelry.com/patterns/library/trumpet-sniffer/yarns"
+    "https://www.ravelry.com/patterns/library/cablecoaster-peekaboo",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/yarns",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/editors",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/people",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/report",
+    "https://www.ravelry.com/patterns/sources/schneggart-designs",
+    "https://www.ravelry.com/patterns/library/trumpet-sniffer/posts"
   ]
 }

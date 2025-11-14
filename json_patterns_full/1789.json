@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1789,
   "pattern_page": "https://www.ravelry.com/patterns/library/yip-yips-knit",
   "name": "Yip Yips (knit)",
   "description": "Any fan of late 20th century children’s public television will recognize these lovable aliens. Use them as holiday stockings, toy storage, kids’ laundry, whatever really!",
@@ -12,8 +13,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Bernat Baby Blanket (Polyester)"
+    "Bernat Baby Blanket (Polyester)",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
@@ -31,17 +32,17 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/yip-yips-knit/comments",
-    "https://www.ravelry.com/patterns/library/yip-yips-knit/people",
+    "https://www.ravelry.com/patterns/library/yip-yips-knit/report",
     "https://www.ravelry.com/patterns/sources/carissa-brownings-ravelry-store",
     "https://www.ravelry.com/patterns/library/yip-yips-knit/threads",
-    "https://www.ravelry.com/patterns/library/yip-yips-knit/editors",
-    "https://www.ravelry.com/patterns/library/yip-yips-knit/yarns",
     "https://www.ravelry.com/patterns/library/yip-yips-knit",
-    "https://www.ravelry.com/patterns/library/preemie-hats-for-charity",
-    "https://www.ravelry.com/patterns/library/yip-yips-knit/posts",
     "https://www.ravelry.com/patterns/library/pride--progress-cowl-knit",
-    "https://www.ravelry.com/patterns/library/yip-yips-knit/report",
+    "https://www.ravelry.com/patterns/library/yip-yips-knit/yarns",
+    "https://www.ravelry.com/patterns/library/yip-yips-knit/people",
+    "https://www.ravelry.com/patterns/library/yip-yips-knit/posts",
+    "https://www.ravelry.com/patterns/library/yip-yips-knit/editors",
+    "https://www.ravelry.com/patterns/library/preemie-hats-for-charity",
+    "https://www.ravelry.com/patterns/library/yip-yips-knit/comments",
     "https://www.ravelry.com/patterns/library/yip-yips-crochet"
   ]
 }

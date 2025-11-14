@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1785,
   "pattern_page": "https://www.ravelry.com/patterns/library/knitted-holly",
   "craft": "Knitting",
   "category": "Toys and Hobbies → Other",
@@ -7,8 +8,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Rowan 4 Ply Cotton",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Rowan 4 Ply Cotton"
   ],
   "attributes": [
     "seamed",
@@ -20,17 +21,17 @@
   "shape": "unknown",
   "download_links": [
     "https://www.ravelry.com/patterns/library/knitted-holly",
-    "https://www.ravelry.com/patterns/library/knitted-holly/comments",
-    "https://www.ravelry.com/patterns/library/knitted-holly/report",
-    "https://www.ravelry.com/patterns/library/knitted-holly/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-holly/people",
-    "https://www.ravelry.com/patterns/library/bunny-in-a-dotty-dress",
-    "https://www.ravelry.com/patterns/library/squirrel-in-a-sweater",
     "https://www.ravelry.com/patterns/library/knitted-holly/threads",
     "https://www.ravelry.com/patterns/library/knitted-holly/editors",
+    "https://www.ravelry.com/patterns/library/knitted-holly/yarns",
+    "https://www.ravelry.com/patterns/library/squirrel-in-a-sweater",
     "https://www.ravelry.com/patterns/sources/little-cotton-rabbits-website",
+    "https://www.ravelry.com/patterns/library/knitted-holly/people",
     "https://www.ravelry.com/bundles/free-patterns-441",
-    "https://www.ravelry.com/patterns/library/bear-in-a-fair-isle-sweater"
+    "https://www.ravelry.com/patterns/library/bunny-in-a-dotty-dress",
+    "https://www.ravelry.com/patterns/library/knitted-holly/comments",
+    "https://www.ravelry.com/patterns/library/bear-in-a-fair-isle-sweater",
+    "https://www.ravelry.com/patterns/library/knitted-holly/report"
   ],
   "name": "Ravelry: Knitted Holly pattern by Julie Williams"
 }

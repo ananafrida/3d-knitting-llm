@@ -1,4 +1,5 @@
 {
+  "pattern_id": 523,
   "pattern_page": "https://www.ravelry.com/patterns/library/fair-enough-cowl",
   "name": "Fair Enough Cowl",
   "description": "Fair Enough Cowl is knitted in Fair Isle technique with a combination of colorwork patterns. In each panel the pattern is repeated every 2, 4 or 6 stitches, which makes it easy to remember the rhythm of every round. There are no more than 3 stitches of one color next to each other, so there’s no need to catch floats. The pattern is friendly for beginners in stranded colorwork knitting.",
@@ -28,16 +29,16 @@
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fair-enough-cowl/threads",
-    "https://www.ravelry.com/patterns/library/snowy-forest-hat",
-    "https://www.ravelry.com/patterns/library/fair-enough-cowl/editors",
     "https://www.ravelry.com/patterns/library/fair-enough-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/fair-enough-cowl/comments",
-    "https://www.ravelry.com/patterns/sources/agnieszka-dzikiewicz-krawczyks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/enchanted-flowers-socks",
     "https://www.ravelry.com/patterns/library/fair-enough-cowl/report",
+    "https://www.ravelry.com/patterns/library/enchanted-flowers-socks",
     "https://www.ravelry.com/patterns/library/arabian-nights-socks",
+    "https://www.ravelry.com/patterns/library/snowy-forest-hat",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/threads",
+    "https://www.ravelry.com/patterns/sources/agnieszka-dzikiewicz-krawczyks-ravelry-store",
     "https://www.ravelry.com/patterns/library/fair-enough-cowl",
-    "https://www.ravelry.com/patterns/library/fair-enough-cowl/people"
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/editors",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/people",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/comments"
   ]
 }

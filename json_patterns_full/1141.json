@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1141,
   "pattern_page": "https://www.ravelry.com/patterns/library/sweet-pocket-baby",
   "craft": "Knitting",
   "category": "Softies → Doll",
@@ -22,16 +23,16 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/barbie-dance-dress",
-    "https://www.ravelry.com/patterns/library/barbie-skirt-and-top-1",
-    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/yarns",
-    "https://www.ravelry.com/patterns/library/pretty-jacket-for-barbie",
-    "https://www.ravelry.com/patterns/library/sweet-pocket-baby",
-    "https://www.ravelry.com/patterns/sources/taffy-lass-knits",
-    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/people",
     "https://www.ravelry.com/patterns/library/sweet-pocket-baby/editors",
+    "https://www.ravelry.com/patterns/library/pretty-jacket-for-barbie",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/yarns",
+    "https://www.ravelry.com/patterns/library/barbie-skirt-and-top-1",
     "https://www.ravelry.com/patterns/library/sweet-pocket-baby/comments",
-    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/report"
+    "https://www.ravelry.com/patterns/library/barbie-dance-dress",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/people",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/report",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby",
+    "https://www.ravelry.com/patterns/sources/taffy-lass-knits"
   ],
   "name": "Ravelry: Sweet Pocket Baby pattern by taffylass knits"
 }

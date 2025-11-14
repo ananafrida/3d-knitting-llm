@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1074,
   "pattern_page": "https://www.ravelry.com/patterns/library/xyris",
   "name": "Xyris",
   "description": "Xyris is a light tee with a graphic lace all over the back. The body is knitted in the round from the bottom up until the armholes. Front and back are then separated and knitted flat, continuing the lace motif on the back and shaping a low scoop neckline on the front. Shoulders are joined with a three needle bind-off and stitches are picked up along the armholes and neckline to finish them in a large ribbing pattern.",
@@ -36,16 +37,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/oread",
-    "https://www.ravelry.com/patterns/library/xyris/report",
-    "https://www.ravelry.com/patterns/library/xyris/comments",
     "https://www.ravelry.com/patterns/library/telesto",
+    "https://www.ravelry.com/patterns/library/oread",
     "https://www.ravelry.com/patterns/library/xyris/yarns",
-    "https://www.ravelry.com/patterns/library/xyris/editors",
-    "https://www.ravelry.com/patterns/library/liserne",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/xyris/threads",
+    "https://www.ravelry.com/patterns/library/xyris/comments",
     "https://www.ravelry.com/patterns/library/xyris/people",
-    "https://www.ravelry.com/patterns/library/xyris"
+    "https://www.ravelry.com/patterns/library/liserne",
+    "https://www.ravelry.com/patterns/library/xyris",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/xyris/editors",
+    "https://www.ravelry.com/patterns/library/xyris/report",
+    "https://www.ravelry.com/patterns/library/xyris/threads"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1585,
   "pattern_page": "https://www.ravelry.com/patterns/library/eierei",
   "name": "Eierei",
   "description": "Ziemlich sinnfrei, aber absolut nicht spaßfrei :)",
@@ -12,8 +13,8 @@
     "German"
   ],
   "suggested_yarn": [
-    "Rohrspatz & Wollmeise Pure 100% Merino Superwash",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Rohrspatz & Wollmeise Pure 100% Merino Superwash"
   ],
   "attributes": [
     "3-dimensional",
@@ -24,17 +25,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tulipan",
-    "https://www.ravelry.com/patterns/library/eierei/comments",
-    "https://www.ravelry.com/patterns/library/eierei/threads",
-    "https://www.ravelry.com/patterns/library/eierei/posts",
+    "https://www.ravelry.com/patterns/library/eierei/editors",
     "https://www.ravelry.com/patterns/sources/jancachas-designs",
+    "https://www.ravelry.com/patterns/library/eierei/threads",
     "https://www.ravelry.com/patterns/library/eierei/yarns",
     "https://www.ravelry.com/patterns/library/floreley",
-    "https://www.ravelry.com/patterns/library/eierei/people",
-    "https://www.ravelry.com/patterns/library/eierei",
-    "https://www.ravelry.com/patterns/library/eierei/editors",
     "https://www.ravelry.com/patterns/library/eierei/report",
-    "https://www.ravelry.com/patterns/library/karree"
+    "https://www.ravelry.com/patterns/library/tulipan",
+    "https://www.ravelry.com/patterns/library/eierei/posts",
+    "https://www.ravelry.com/patterns/library/karree",
+    "https://www.ravelry.com/patterns/library/eierei",
+    "https://www.ravelry.com/patterns/library/eierei/comments",
+    "https://www.ravelry.com/patterns/library/eierei/people"
   ]
 }

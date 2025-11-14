@@ -1,4 +1,5 @@
 {
+  "pattern_id": 71,
   "pattern_page": "https://www.ravelry.com/patterns/library/garter-blanket-square",
   "name": "Garter Blanket Square",
   "description": "This is the first blanket square in a project called the “Textured Swatches Blanket”. I’m creating this design to practice my knitting skills and learn new stitches, and I hope you’ll join me on this journey.",
@@ -29,13 +30,13 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/people",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/yarns",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/comments",
-    "https://www.ravelry.com/patterns/library/mini-christmas-bauble-2",
     "https://www.ravelry.com/patterns/library/garter-blanket-square",
-    "https://www.ravelry.com/patterns/sources/jodie-morgans-ravelry-store",
+    "https://www.ravelry.com/patterns/library/mini-christmas-bauble-2",
+    "https://www.ravelry.com/patterns/library/garter-blanket-square/editors",
     "https://www.ravelry.com/patterns/library/garter-blanket-square/report",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/editors"
+    "https://www.ravelry.com/patterns/library/garter-blanket-square/comments",
+    "https://www.ravelry.com/patterns/library/garter-blanket-square/yarns",
+    "https://www.ravelry.com/patterns/library/garter-blanket-square/people",
+    "https://www.ravelry.com/patterns/sources/jodie-morgans-ravelry-store"
   ]
 }

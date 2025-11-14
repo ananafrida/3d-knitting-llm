@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1380,
   "pattern_page": "https://www.ravelry.com/patterns/library/hearts",
   "name": "Hearts",
   "description": "June 2020 Update: I’ve revised this pattern to include circular knitting instructions! The new version is now available as a free download here.",
@@ -7,8 +8,8 @@
   "category": "Softies → Other",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "suggested_yarn": [
-    "Rowan Scottish Tweed 4 Ply",
-    "Fingering (14 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Rowan Scottish Tweed 4 Ply"
   ],
   "attributes": [
     "embroidery",
@@ -21,18 +22,18 @@
   "techniques": [],
   "shape": "cube",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/tiny-cupcake",
+    "https://www.ravelry.com/patterns/library/hearts",
+    "https://www.ravelry.com/patterns/library/tiny-baby-bunnies",
+    "https://www.ravelry.com/patterns/library/hearts/comments",
     "https://www.ravelry.com/patterns/library/tiny-chickens",
+    "https://www.ravelry.com/patterns/library/hearts/editors",
+    "https://www.ravelry.com/patterns/library/hearts/people",
     "https://www.ravelry.com/patterns/library/hearts/yarns",
     "https://www.ravelry.com/patterns/library/hearts/threads",
     "https://www.ravelry.com/patterns/library/hearts/report",
     "https://www.ravelry.com/patterns/sources/mochimochi-land-website",
-    "https://www.ravelry.com/patterns/library/hearts",
-    "https://www.ravelry.com/patterns/library/hearts/people",
-    "https://www.ravelry.com/patterns/library/tiny-cupcake",
-    "https://www.ravelry.com/patterns/library/tiny-baby-bunnies",
     "http://mochimochiland.com/weblog/2007/02/free-pattern-hearts/",
-    "https://www.ravelry.com/patterns/library/hearts/posts",
-    "https://www.ravelry.com/patterns/library/hearts/comments",
-    "https://www.ravelry.com/patterns/library/hearts/editors"
+    "https://www.ravelry.com/patterns/library/hearts/posts"
   ]
 }

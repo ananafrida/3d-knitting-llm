@@ -1,4 +1,5 @@
 {
+  "pattern_id": 13,
   "pattern_page": "https://www.ravelry.com/patterns/library/domino-box",
   "name": "Domino Box",
   "description": "This was fun to knit! This pattern is worked with 2 needles and 2 yarn colors but a variegated yarn is worth considering, too. 3 double decreases are spaced an equal number of stitches apart and there is a decrease at the beginning of each row to make the 4th corner. A small seam is sewn in one corner to finish the square.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lion Brand 24/7 Cotton"
+    "Lion Brand 24/7 Cotton",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "motifs",
@@ -26,15 +27,15 @@
   ],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/domino-box/people",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
+    "https://www.ravelry.com/patterns/library/domino-box",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
     "https://www.ravelry.com/patterns/library/weldons-wanzer-border",
     "https://www.ravelry.com/patterns/library/domino-box/editors",
-    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
     "https://www.ravelry.com/patterns/library/big-diagonal-domino",
-    "https://www.ravelry.com/patterns/library/domino-box/report",
     "https://www.ravelry.com/patterns/library/domino-box/yarns",
     "https://www.ravelry.com/patterns/library/domino-box/comments",
-    "https://www.ravelry.com/patterns/library/domino-box"
+    "https://www.ravelry.com/patterns/library/domino-box/people",
+    "https://www.ravelry.com/patterns/library/domino-box/report",
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store"
   ]
 }

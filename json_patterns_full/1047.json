@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1047,
   "pattern_page": "https://www.ravelry.com/patterns/library/picnic-folks-top",
   "name": "Picnic Folks Top",
   "description": "The Picnic Folks Top is a summer shirt that is knit top down, with a pseudo-saddle shoulder construction. First, neckline shaping is done by knitting flat back-and-forth, with lacework on the shoulders. The neckline is then joined in the round. The yoke is knit in the round, with shoulder and yoke increases, then split for sleeves and body. The body is knit in the round to desired length. The sleeves are picked up and knit to short-sleeve length. All hems are finished with i-cord bind off.",
@@ -11,8 +12,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Oh Folks Co Cloud Cotton"
+    "Oh Folks Co Cloud Cotton",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -39,16 +40,16 @@
   "shape": "sphere",
   "download_links": [
     "https://www.ravelry.com/patterns/library/aiyu-tee",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top/yarns",
     "https://www.ravelry.com/patterns/library/picnic-folks-top/people",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top/threads",
     "https://www.knittygrittysg.com/my-patterns/picnic-folks-top",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top",
-    "https://www.ravelry.com/patterns/library/jellyfish-cami",
     "https://www.ravelry.com/patterns/library/moonlight-vest",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top/comments",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top/editors",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/threads",
     "https://www.ravelry.com/patterns/sources/knittygrittysg",
-    "https://www.ravelry.com/patterns/library/picnic-folks-top/report"
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/editors",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/yarns",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/report",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/comments",
+    "https://www.ravelry.com/patterns/library/jellyfish-cami"
   ]
 }

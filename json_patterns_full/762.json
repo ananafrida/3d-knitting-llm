@@ -1,4 +1,5 @@
 {
+  "pattern_id": 762,
   "pattern_page": "https://www.ravelry.com/patterns/library/ponni",
   "name": "Ponni",
   "description": "Ponni is a patchwork style drop shoulder sweater worked from the top down. With a blend of different, simple textures, it’s a fun and engaging project. The pattern features shoulder, armhole and sleeve cap shaping, easy to modify neck depth and a split hem. The motifs are both charted and written.",
@@ -12,8 +13,8 @@
     "French"
   ],
   "suggested_yarn": [
-    "Wooliette Laine & Co Wooliette Cybele DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Wooliette Laine & Co Wooliette Cybele DK"
   ],
   "attributes": [
     "adult",
@@ -43,16 +44,16 @@
   ],
   "shape": "sphere",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/ponni/report",
     "https://www.ravelry.com/patterns/library/ponni",
-    "https://www.ravelry.com/patterns/library/ponni/yarns",
     "https://www.ravelry.com/patterns/library/ponni/editors",
+    "https://www.ravelry.com/patterns/library/ponni/people",
+    "https://www.ravelry.com/patterns/library/ori",
+    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
+    "https://www.ravelry.com/patterns/library/marbre",
+    "https://www.ravelry.com/patterns/library/ponni/yarns",
     "https://www.ravelry.com/patterns/library/ponni/comments",
     "https://www.ravelry.com/patterns/library/ponni/threads",
-    "https://www.ravelry.com/patterns/library/ori",
-    "https://www.ravelry.com/patterns/library/ponni/people",
-    "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ponni/report",
-    "https://www.ravelry.com/patterns/library/marbre",
     "https://www.ravelry.com/patterns/library/halda"
   ]
 }

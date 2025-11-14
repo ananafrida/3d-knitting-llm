@@ -1,4 +1,5 @@
 {
+  "pattern_id": 1025,
   "pattern_page": "https://www.ravelry.com/patterns/library/telesto",
   "name": "Telesto",
   "description": "Telesto is a top down garment featuring lace saddle drop shoulders that can be knitted as a summer tee or a full sweater with sleeves. With instructions for an A-line or a straight body with optional bust darts, it is a versatile design with a low V-neck for a flowy silhouette.",
@@ -12,8 +13,8 @@
     "French"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Lana Grossa Linea Pura Solo Lino"
+    "Lana Grossa Linea Pura Solo Lino",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
     "adult",
@@ -42,16 +43,16 @@
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/telesto/people",
     "https://www.ravelry.com/patterns/library/telesto/comments",
-    "https://www.ravelry.com/patterns/library/oread",
     "https://www.ravelry.com/patterns/library/telesto",
     "https://www.ravelry.com/patterns/library/telesto/editors",
     "https://www.ravelry.com/patterns/library/telesto/report",
+    "https://www.ravelry.com/patterns/library/hermeline",
+    "https://www.ravelry.com/patterns/library/oread",
+    "https://www.ravelry.com/patterns/library/telesto/people",
     "https://www.ravelry.com/patterns/library/telesto/threads",
     "https://www.ravelry.com/patterns/library/pleione-3",
     "https://www.ravelry.com/patterns/library/telesto/yarns",
-    "https://www.ravelry.com/patterns/library/hermeline",
     "https://www.ravelry.com/patterns/sources/audrey-borregos-ravelry-store"
   ]
 }

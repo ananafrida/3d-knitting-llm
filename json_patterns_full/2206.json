@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2206,
   "pattern_page": "https://www.ravelry.com/patterns/library/scurvy-eye-patch",
   "name": "Scurvy Eye Patch",
   "description": "Can I get an ‘Arrgh!’?",
@@ -24,17 +25,17 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/posts",
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/report",
-    "https://www.ravelry.com/patterns/sources/herbivore-knits",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/people",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/comments",
     "https://www.ravelry.com/patterns/library/scurvy-eye-patch/yarns",
     "https://www.ravelry.com/patterns/library/scurvy-eye-patch/editors",
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/comments",
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/people",
     "https://www.ravelry.com/patterns/library/baubles",
-    "https://www.ravelry.com/patterns/library/old-school-hanging-towel",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch",
     "https://www.ravelry.com/patterns/library/scurvy-eye-patch/threads",
     "https://www.ravelry.com/patterns/library/knit-yo-yo-tutorial",
-    "https://www.ravelry.com/patterns/library/scurvy-eye-patch"
+    "https://www.ravelry.com/patterns/library/old-school-hanging-towel",
+    "https://www.ravelry.com/patterns/sources/herbivore-knits",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/report",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/posts"
   ]
 }

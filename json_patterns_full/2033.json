@@ -1,4 +1,5 @@
 {
+  "pattern_id": 2033,
   "pattern_page": "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather",
   "name": "Flight of the Advent Knit Feather",
   "description": "These knit feathers work up quickly and provide a great way to use small amounts of yarn you’re likely to be left with after putting your Advent Calendar to use. Use any color you want. Pair 2-3 scraps. Experiment with stripes. Whatever you do, it’s going to be beautiful.",
@@ -10,8 +11,8 @@
     "English"
   ],
   "suggested_yarn": [
-    "Posies and Pockets Extra Fine Merino Sock",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Posies and Pockets Extra Fine Merino Sock"
   ],
   "attributes": [
     "chart",
@@ -21,16 +22,16 @@
   "techniques": [],
   "shape": "cylinder",
   "download_links": [
+    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/threads",
+    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/editors",
+    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/yarns",
+    "https://www.ravelry.com/patterns/library/roanoke-valley-fingerless-gloves",
+    "https://www.ravelry.com/patterns/library/holiday-table-snowflake",
+    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/report",
+    "https://www.ravelry.com/patterns/library/roanoke-valley-knit-hat",
+    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather",
     "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/comments",
     "https://www.ravelry.com/patterns/sources/jason-parkers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/threads",
-    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather",
-    "https://www.ravelry.com/patterns/library/roanoke-valley-fingerless-gloves",
-    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/yarns",
-    "https://www.ravelry.com/patterns/library/holiday-table-snowflake",
-    "https://www.ravelry.com/patterns/library/roanoke-valley-knit-hat",
-    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/report",
-    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/people",
-    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/editors"
+    "https://www.ravelry.com/patterns/library/flight-of-the-advent-knit-feather/people"
   ]
 }

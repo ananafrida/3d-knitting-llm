@@ -1,4 +1,5 @@
 {
+  "pattern_id": 675,
   "pattern_page": "https://www.ravelry.com/patterns/library/pajaki",
   "name": "Pajaki",
   "description": "This pattern is available free with yarn purchase at ReBelle in Lexington, Ky.",
@@ -24,15 +25,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/pajaki",
+    "https://www.ravelry.com/patterns/library/pajaki/comments",
+    "https://www.ravelry.com/patterns/library/pajaki/people",
+    "https://www.ravelry.com/patterns/library/pajaki/editors",
     "https://www.ravelry.com/patterns/library/pajaki/report",
     "https://www.ravelry.com/patterns/library/faux-crame-propagation-station",
-    "https://www.ravelry.com/patterns/library/pajaki/editors",
     "https://www.ravelry.com/patterns/library/classic-winter-wonderland-hat",
-    "https://www.ravelry.com/patterns/library/pajaki/people",
+    "https://www.ravelry.com/patterns/library/last-minute-waldo",
     "https://www.ravelry.com/patterns/library/pajaki",
-    "https://www.ravelry.com/patterns/library/pajaki/yarns",
-    "https://www.ravelry.com/patterns/library/pajaki/comments",
-    "https://www.ravelry.com/patterns/library/last-minute-waldo"
+    "https://www.ravelry.com/patterns/sources/pajaki",
+    "https://www.ravelry.com/patterns/library/pajaki/yarns"
   ]
 }
