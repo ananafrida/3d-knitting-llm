@@ -3,11 +3,20 @@ import json
 import re
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+from deep_translator import GoogleTranslator
 
 # === CONFIG ===
 HTML_DIR = "downloaded_patterns"
 OUT_DIR = "json_patterns_full"
 MASTER_JSON = "patterns_dataset.json"
+
+def translate_to_english(text):
+    try:
+        # detect language automatically & translate to English
+        return GoogleTranslator(source='auto', target='en').translate(text)
+    except Exception as e:
+        print(f"[warn] Translation skipped ({e})")
+        return text
 
 def ensure_dir(p):
     if not os.path.exists(p):
@@ -137,7 +146,9 @@ def parse_html(filepath):
     # Notes text (main pattern notes/description)
     notes_block = soup.find("div", class_="notes")
     if notes_block:
-        result["full_text"] = clean(notes_block.get_text(separator=" "))
+        raw_text = clean(notes_block.get_text(separator=" "))
+        translated_text = translate_to_english(raw_text)
+        result["full_text"] = translated_text
 
     # Detect shape and techniques
     text = (result.get("description", "") + " " + result.get("full_text", "")).lower()

@@ -12,27 +12,29 @@
     "German"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Zitron Wolkenspiel"
+    "Zitron Wolkenspiel",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
     "textured"
   ],
-  "full_text": "Glückskind ist eine Babydecke aus Merino HighTwist. Dieses Garn ist weich, in der Maschine im Wollwaschgang waschbar und somit super für unser Baby geeignet. Die Decke wird in der Mitte begonnen und durch Zunahmen und verschiedene Muster nach außen gestrickt. So wird die Decke quadratisch und an allen Seiten gleich lang. Nach dem Waschen (in der Maschine) hat meine Decke eine Größe von 80 cm im Quadrat. Genau richtig für das kleine Glückskind.",
-  "techniques": [],
+  "full_text": "Glückskind is a baby blanket made from Merino HighTwist. This yarn is soft, machine washable on the wool cycle and therefore great for our baby. The blanket is started in the middle and knitted outwards using increases and different patterns. This makes the blanket square and the same length on all sides. After washing (in the machine) my blanket is 80 cm square. Just right for the little lucky child.",
+  "techniques": [
+    "increases"
+  ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gluckskind-2/people",
     "https://www.ravelry.com/patterns/library/gluckskind-2/report",
-    "https://www.ravelry.com/patterns/library/marktfrauen-handschuhe",
-    "https://www.ravelry.com/patterns/library/gluckskind-2",
-    "https://www.ravelry.com/patterns/library/armelitas",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/threads",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/comments",
     "https://www.ravelry.com/patterns/library/gluckskind-2/editors",
     "https://www.ravelry.com/patterns/library/gluckskind-2/yarns",
     "https://www.ravelry.com/patterns/library/lebensfreude",
-    "https://www.ravelry.com/patterns/sources/florentines-ravelry-store"
+    "https://www.ravelry.com/patterns/library/armelitas",
+    "https://www.ravelry.com/patterns/library/gluckskind-2",
+    "https://www.ravelry.com/patterns/library/gluckskind-2/comments",
+    "https://www.ravelry.com/patterns/library/marktfrauen-handschuhe",
+    "https://www.ravelry.com/patterns/sources/florentines-ravelry-store",
+    "https://www.ravelry.com/patterns/library/gluckskind-2/threads",
+    "https://www.ravelry.com/patterns/library/gluckskind-2/people"
   ]
 }

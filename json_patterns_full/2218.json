@@ -4,8 +4,8 @@
   "category": "Costume",
   "sizes_available": "one size",
   "suggested_yarn": [
-    "Caron Simply Soft Eco",
-    "Aran (8 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Caron Simply Soft Eco"
   ],
   "attributes": [
     "icord",
@@ -16,15 +16,15 @@
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/whooppow/people",
-    "https://www.ravelry.com/patterns/library/kristens-button-bracelet",
-    "https://www.ravelry.com/patterns/library/whooppow",
     "https://www.ravelry.com/patterns/library/whooppow/editors",
-    "https://www.ravelry.com/patterns/library/whooppow/report",
-    "https://www.ravelry.com/patterns/library/whooppow/comments",
-    "https://www.ravelry.com/patterns/sources/savvyknits",
     "https://www.ravelry.com/patterns/library/whooppow/threads",
-    "https://www.ravelry.com/patterns/library/whooppow/yarns"
+    "https://www.ravelry.com/patterns/library/whooppow/report",
+    "https://www.ravelry.com/patterns/library/whooppow/yarns",
+    "https://www.ravelry.com/patterns/library/whooppow",
+    "https://www.ravelry.com/patterns/sources/savvyknits",
+    "https://www.ravelry.com/patterns/library/whooppow/comments",
+    "https://www.ravelry.com/patterns/library/whooppow/people",
+    "https://www.ravelry.com/patterns/library/kristens-button-bracelet"
   ],
   "name": "Ravelry: WhoopPow pattern by Savvy Spiers"
 }
