@@ -1,48 +1,46 @@
 {
   "pattern_id": 2173,
-  "pattern_page": "https://www.ravelry.com/patterns/library/elegant-knit-crown",
-  "name": "Elegant Knit Crown",
-  "description": "Dressing up, playing make-believe, pretending to be King, Queen, Prince, or Princess for a day, so many fun childhood memories involve games like these. Whether the crown was a paper hat, colored with crayons and markers, or a cardboard toy included with a kid’s meal, one thing is for sure, the wearer felt royal if only for a minute.",
-  "designer": "Kathryn Andrews",
+  "pattern_page": "https://www.ravelry.com/patterns/library/perfect-baby-boy-or-girl-aran-jacket",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "Large (Adult/Teen), Small (Toddler/Child)",
+  "category": "Coat / Jacket",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "Premature Baby, Newborn Baby, 3 -6 months, 9 months Baby",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bobble-or-popcorn",
-    "child",
+    "baby",
+    "circular-yoke",
     "female",
-    "lace",
     "male",
-    "one-piece",
-    "teen",
-    "toddler",
+    "newborn-size",
+    "preemie",
+    "top-down",
     "unisex",
     "written-pattern"
   ],
-  "full_text": "Dressing up, playing make-believe, pretending to be King, Queen, Prince, or Princess for a day, so many fun childhood memories involve games like these. Whether the crown was a paper hat, colored with crayons and markers, or a cardboard toy included with a kid’s meal, one thing is for sure, the wearer felt royal if only for a minute. Here is a simple pattern for a top-down knitted crown that is easy and quick to make. If you use a stretchy cast-on and bind-off, it will fit a wide range of sizes. The large fits a young teen, but also fits adult XL-sized heads. The small fits a wee toddler up through a young teen with a large-sized head. This can also be a great use for little scraps of brightly colored yarn, since each one uses a small amount.",
+  "full_text": "This little baby jacket is made top-down in Aran weight (10 ply)yarn. 18sts = 4” (10cm) It’s quick to make ~ and perfect for either a boy or girl. Errata - Clarification of needle sizes Use 4mm (US 6)needles for the garter stitch neck and sleeve borders. Use 5mm (US 8) for the main part Preemie Newborn 3 - 6 months 9 months Really - this is perfect for a boy or girl :) To get this free pattern please click on the https link just below ↓",
   "techniques": [
     "top-down"
   ],
-  "shape": "softie",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/posts",
-    "https://www.ravelry.com/patterns/sources/kathryn-andrews-ravelry-store",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/threads",
-    "https://www.ravelry.com/patterns/library/mountain-range-hat",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/comments",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/people",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/yarns",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/report",
-    "https://www.ravelry.com/patterns/library/elegant-knit-crown/editors"
-  ]
+    "https://www.ravelry.com/patterns/library/kinzie-short-sleeved-baby-top",
+    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
+    "https://www.ravelry.com/patterns/library/perfect-baby-boy-or-girl-aran-jacket/editors",
+    "https://www.ravelry.com/patterns/library/bella-baby-jacket",
+    "https://www.ravelry.com/patterns/library/perfect-baby-boy-or-girl-aran-jacket",
+    "https://www.ravelry.com/patterns/library/perfect-baby-boy-or-girl-aran-jacket/people",
+    "https://www.ravelry.com/patterns/library/perfect-baby-boy-or-girl-aran-jacket/comments",
+    "https://www.ravelry.com/patterns/library/perfect-baby-boy-or-girl-aran-jacket/threads",
+    "https://www.ravelry.com/patterns/library/perfect-baby-boy-or-girl-aran-jacket/report",
+    "https://www.ravelry.com/patterns/library/perfect-baby-boy-or-girl-aran-jacket/posts",
+    "https://www.ravelry.com/patterns/library/perfect-baby-boy-or-girl-aran-jacket/yarns",
+    "https://www.ravelry.com/patterns/library/ayrton-all-in-one-sleeveless-baby-top"
+  ],
+  "name": "Ravelry: Perfect Baby Boy or Girl Aran Jacket pattern by marianna mel"
 }

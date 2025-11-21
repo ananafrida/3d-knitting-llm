@@ -1,38 +1,40 @@
 {
   "pattern_id": 131,
-  "pattern_page": "https://www.ravelry.com/patterns/library/zs-baby-blocks",
-  "name": "Z's Baby Blocks",
-  "description": "This was my very first pattern. I liked making them because it allowed me to do simple squares, but to not make another scarf or blanket. My cousin’s little boy (and husband) loved them.",
-  "designer": "Sara Marks",
+  "pattern_page": "https://www.ravelry.com/patterns/library/nalbongi-knit",
+  "name": "Nalbongi (knit)",
+  "description": "You can see this design on YouTube. If you want an organized writing pattern, please purchase it.",
+  "designer": "mongaknit",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "10.5X24Cm",
   "languages": [
-    "English"
+    "English",
+    "Korean"
   ],
   "suggested_yarn": [
-    "Lion Brand Homespun Baby",
-    "Bulky (7 wpi) ?"
+    ""
   ],
   "attributes": [
-    "worked-flat",
+    "amigurumi",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "This was my very first pattern. I liked making them because it allowed me to do simple squares, but to not make another scarf or blanket. My cousin’s little boy (and husband) loved them.",
+  "full_text": "You can see this design on YouTube. If you want an organized writing pattern, please purchase it.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/interlocking-key-chains",
-    "https://www.ravelry.com/patterns/library/gradient-blanket",
-    "https://www.ravelry.com/patterns/sources/sara-marks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/editors",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/threads",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/report",
-    "https://www.ravelry.com/patterns/library/wavy-gravy-scarf",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/comments",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/yarns",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/posts",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/people"
+    "https://www.ravelry.com/patterns/library/nalbongi-knit/comments",
+    "https://www.ravelry.com/patterns/library/bingtori",
+    "https://www.ravelry.com/patterns/library/nalbongi-knit/editors",
+    "https://www.ravelry.com/patterns/library/nalbongi-knit",
+    "https://www.ravelry.com/patterns/library/nalbongi-knit/threads",
+    "https://www.ravelry.com/patterns/library/nalbongi-knit/people",
+    "https://www.ravelry.com/patterns/sources/mongaknit-ravelry-store",
+    "https://www.ravelry.com/patterns/sources/mongaknit-on-youtube-",
+    "https://www.ravelry.com/patterns/library/mihoknit",
+    "https://www.ravelry.com/patterns/library/nalbongi-knit/report",
+    "https://www.ravelry.com/patterns/library/seolgi",
+    "https://www.ravelry.com/patterns/library/nalbongi-knit/yarns"
   ]
 }

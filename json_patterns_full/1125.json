@@ -1,37 +1,44 @@
 {
   "pattern_id": 1125,
-  "pattern_page": "https://www.ravelry.com/patterns/library/little-comfort-dolls",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cravo-2",
+  "name": "Cravo",
+  "description": "",
+  "designer": "Filipa Carneiro",
   "craft": "Knitting",
-  "category": "Softies → Doll",
+  "category": "Applique / Embellishment",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "one size ~ around 3½”",
+  "sizes_available": "one size",
   "languages": [
-    "English"
+    "English",
+    "Portuguese",
+    "Spanish"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Rosários 4 For Nature"
   ],
   "attributes": [
+    "bottom-up",
     "one-piece",
     "seamed",
+    "video-tutorial",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "These mini dolls are only about 3” - 3½” high. They are based on the Duduza Comfort Dolls made for Africa. I knitted lots of these a few years ago. “Duduza” is a Zulu word for “comfort”. These knitted dolls are given in the hope that they bring comfort to AIDS/HIV-affected children in sub-Saharan Africa. Recently they have become popular again, and often known as Izzy Dolls. Requirements: DK yarn ~ small amounts of different colours 3.25mm or 3.5mm needles Polyester stuffing This smaller sized version is perfect for little hands to hold. So cute. To get this free pattern please click on the https link just below ↓",
+  "full_text": "",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/little-comfort-dolls/people",
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/little-comfort-dolls/comments",
-    "https://www.ravelry.com/patterns/library/little-comfort-dolls/yarns",
-    "https://www.ravelry.com/patterns/library/little-comfort-dolls/editors",
-    "https://www.ravelry.com/patterns/library/roses-roses-roses",
-    "https://www.ravelry.com/patterns/library/innocent-smoothie---age-uk---striped-hats",
-    "https://www.ravelry.com/patterns/library/barbie--fashionista-barbie-long-dresses",
-    "https://www.ravelry.com/patterns/library/little-comfort-dolls/report",
-    "https://www.ravelry.com/patterns/library/little-comfort-dolls"
-  ],
-  "name": "Ravelry: Little Comfort Dolls pattern by marianna mel"
+    "https://www.ravelry.com/patterns/library/dona-ines",
+    "https://www.ravelry.com/patterns/library/cravo-2",
+    "https://www.ravelry.com/patterns/library/cravo-2/people",
+    "https://www.ravelry.com/patterns/library/amor-perfeito-2",
+    "https://www.ravelry.com/patterns/sources/filipa-carneiros-ravelry-store",
+    "https://www.ravelry.com/patterns/library/cravo-2/yarns",
+    "https://www.ravelry.com/patterns/library/cravo-2/comments",
+    "https://www.ravelry.com/patterns/library/cravo-2/report",
+    "https://www.ravelry.com/patterns/library/cravo-2/editors",
+    "https://www.ravelry.com/patterns/sources/rosarios-4",
+    "https://www.ravelry.com/patterns/library/duo-11"
+  ]
 }

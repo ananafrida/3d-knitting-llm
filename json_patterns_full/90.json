@@ -1,38 +1,42 @@
 {
   "pattern_id": 90,
-  "pattern_page": "https://www.ravelry.com/patterns/library/frankies-blankie-week-4",
-  "name": "Frankie's Blankie Week 4",
-  "description": "This is the fourth in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jordannas-beard",
+  "name": "Jordanna's Beard",
+  "description": "My friend Jordanna has always wanted a beard. All of her male relatives have luxurious beards and she can’t have one because she’s a girl.",
+  "designer": "Jessica Bechard",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Costume",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Stylecraft Batik Double Knitting"
+    "Worsted (9 wpi) ?",
+    "Bernat Cottontots Solid"
   ],
   "attributes": [
-    "chart",
-    "slipped-stitches",
+    "bottom-up",
+    "seamed",
+    "selvedge",
+    "triangle-shaped",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This is the fourth in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares. This ‘Heel and Close Stitch’ pattern uses a stitch pattern familiar to sock knitters – heel stitch - combined here with its close relative, close stitch. This square will lie flat and looks good, if different, on both sides. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "My friend Jordanna has always wanted a beard. All of her male relatives have luxurious beards and she can’t have one because she’s a girl. So I made her a beard.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/people",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/yarns",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/report",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/editors",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/comments",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4/threads",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-6"
+    "https://www.ravelry.com/patterns/library/jordannas-beard/comments",
+    "https://www.ravelry.com/patterns/library/lt-dan",
+    "https://www.ravelry.com/patterns/library/jordannas-beard/editors",
+    "https://www.ravelry.com/patterns/library/jordannas-beard/people",
+    "https://www.ravelry.com/patterns/sources/que-sera-sera--what-have-you",
+    "https://www.ravelry.com/patterns/library/water-pistol-cozy",
+    "https://www.ravelry.com/patterns/library/jordannas-beard/posts",
+    "https://www.ravelry.com/patterns/library/jordannas-beard/report",
+    "https://www.ravelry.com/patterns/library/jordannas-beard",
+    "https://www.ravelry.com/patterns/library/jordannas-beard/yarns",
+    "https://www.ravelry.com/patterns/library/ben--jerrys-cozy"
   ]
 }

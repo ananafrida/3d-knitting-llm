@@ -1,36 +1,37 @@
 {
   "pattern_id": 1392,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sparrows-nest",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lion-lovey-7",
+  "name": "Lion Lovey",
+  "description": "A very simple pattern to make a lovey out of Circulo Garro yarn. When I purchased this skein I assumed this would be what the pattern for it was, but really they had designed it for a hat, using the animal head as a pom pom. So needs must.",
+  "designer": "Jen Curran",
   "craft": "Knitting",
-  "category": "Decorative → Other Softies → Other",
+  "category": "Softies → Other",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Lorna's Laces Glory Solid"
+    "Circulo Gorro Kids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
-    "phototutorial",
-    "written-pattern"
+    "seamless",
+    "square"
   ],
-  "full_text": "MATERIALS NEST 1 skein of Lorna’s Glory, a Mohair/Wool blend. I used the color “Chino”. (You can make two or three nests with one skein.) A set of US 8 (5 mm) double-pointed needles EGGS Small amounts of fingering weight and/or sport weight yarn. I used Manos del Uruguay’s Serena, 60% Baby Alpaca and 40% Pima Cotton (fingering weight) in the color “Glacier 2318”; Blue Sky Alpaca’s Silk Alpaca, 50% Alpaca and 50% Silk (sport weight) in the color “Plume 103”; and The Fibre Company’s Canopy Fingering, 50% Baby Alpaca, 30% Merino and 20% Bamboo (fingering weight) in the color “Fern”. A set of double pointed needles in US 2 (3 mm) if you’re using fingering weight yarn, or US 3 (3.25 mm) if you’re using sport weight yarn Stuffing GAUGE Nest: 16 stitches = 4 inches in stockinette stitch Eggs: 30 stitches = 4 inches in stockinette stitch SIZE Nest: 4¾ inches in diameter and 2 inches high Eggs: About 1¼ inches tall",
+  "full_text": "A very simple pattern to make a lovey out of Circulo Garro yarn. When I purchased this skein I assumed this would be what the pattern for it was, but really they had designed it for a hat, using the animal head as a pom pom. So needs must. I used less than 1 skein of the yarn, and my lovie is about 8” from the middle to the edge (on a side, not a corner). You could use any weight of yarn with an appropriate needle for that size, or any worsted weight yarn.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/sparrows-nest",
-    "https://www.ravelry.com/patterns/library/sparrows-nest/comments",
-    "https://www.ravelry.com/patterns/library/sparrows-nest/editors",
-    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/sparrows-nest/threads",
-    "https://www.ravelry.com/patterns/library/sparrows-nest/people",
-    "https://www.ravelry.com/patterns/library/sparrows-nest/report",
-    "https://www.ravelry.com/patterns/library/sparrows-nest/yarns",
-    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4"
-  ],
-  "name": "Ravelry: Sparrow's Nest pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/lion-lovey-7/report",
+    "https://www.ravelry.com/patterns/library/lion-lovey-7/editors",
+    "https://www.ravelry.com/patterns/library/lion-lovey-7/comments",
+    "https://www.ravelry.com/patterns/library/lion-lovey-7",
+    "https://www.ravelry.com/patterns/library/lion-lovey-7/yarns",
+    "https://www.ravelry.com/patterns/library/faux-sweater-dickie",
+    "https://www.ravelry.com/patterns/library/lion-lovey-7/people",
+    "https://www.ravelry.com/patterns/library/silent-night-musical-notes",
+    "https://www.ravelry.com/patterns/sources/jen-currans-ravelry-store"
+  ]
 }

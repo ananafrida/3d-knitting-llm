@@ -1,37 +1,58 @@
 {
   "pattern_id": 1901,
-  "pattern_page": "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt",
-  "name": "Nie wieder ist jetzt",
-  "description": "Nie wieder ist jetzt",
-  "designer": "Daniela Mühlbauer",
+  "pattern_page": "https://www.ravelry.com/patterns/library/puerperium-cardigan",
+  "name": "Puerperium Cardigan",
+  "description": "Puerperium is a very simply styled cardy, designed to be easy for new parents to dress their babe in the puerperium period (6 weeks post birth).",
+  "designer": "Kelly van Niekerk",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
+  "category": "Sweater → Cardigan",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Größe je nach Garnstärke und Spruch",
+  "sizes_available": "3-4kg birthweight (7-9lb)",
   "languages": [
-    "German"
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Additional languages which are not in the download: Danish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "every yarn"
+    "madelinetosh Tosh DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "chart",
-    "stranded"
+    "buttonholes",
+    "female",
+    "front-fastening",
+    "male",
+    "newborn-size",
+    "seamless",
+    "top-down",
+    "unisex",
+    "worked-flat"
   ],
-  "full_text": "Never again is now With this template you can knit patches with different sayings against the right. You can then sew the patches onto your hat, clothing, backpack or bag. The template is also suitable for embroidering the sayings in stitches on knitted items or for cross-stitching textiles. You can also put the sayings into your own project, e.g. B. Integrate socks, hats, sweaters and use them as a knitting pattern. What else you can do: Go to demos and demonstrate against the right! Get involved in our democracy, even on a small scale. Show a clear stance against fascism. Size of the patches: depending on the yarn thickness Stitch sample: not important Yarn: any yarn is suitable, you need at least 2 colors of the same yarn size with good contrast Consumption: my patches weigh between 7 and 10 grams Needles and accessories: knitting needles that match your yarn size. I knitted with leftovers in DK thickness (200m/100g) and a 4 mm needle, sewing needle, scissors “Never again is now” means “Never again is now”. It is a slogan against the extreme right.",
-  "techniques": [],
+  "full_text": "Puerperium is a very simply styled cardy, designed to be easy for new parents to dress their babe in the puerperium period (6 weeks post birth). The pattern is top-down seamless in construction, and offers a wonderful blank canvas should one decide to embellish. This free version is written for 8ply/DK weight yarn, and to fit a newborn babe, approx 3-4kg (7-9lb) in weight, with an approx chest circumference of 37.5cm. Pattern has instructions for straight knit sleeves, and tailored tapered sleeves. News The lovely Marjanne has created a Dutch version of the Puerperium Cardigan, Nerea has created a spanish version, Carla an Italian version, and Elisabeth has done a French version - Please make sure you download the correct version.* You can get Caroline’s German version here! You can get Marianne’s Danish version here! Lead photograph was taken by Leah Williams, and is of the designer’s new baby. Baby Noah was 6 days old, and weighed 3.0kg at this time. ’Beyond Puerperium’ , the extended version of the Puerperium Cardigan has now been released! This extended version of the pattern covers from birth to 2years of age, and is written for multiple yarn weights!’",
+  "techniques": [
+    "top-down"
+  ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt",
-    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/threads",
-    "https://www.ravelry.com/patterns/library/fck-nzs--stabil",
-    "https://www.ravelry.com/patterns/sources/daniela-muhlbauers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/editors",
-    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/people",
-    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/yarns",
-    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/report",
-    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/comments",
-    "https://www.ravelry.com/patterns/library/tennissocken",
-    "https://www.ravelry.com/patterns/library/malabar-cowl"
+    "http://www.ravelry.com/patterns/library/beyond-puerperium",
+    "https://www.ravelry.com/patterns/library/baby-vertebrae",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/editors",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/beyond-puerperium",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/posts",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/comments",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/report",
+    "https://www.ravelry.com/patterns/library/newborn-vertebrae",
+    "https://www.ravelry.com/patterns/sources/pekapeka-design-studio",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/threads",
+    "https://www.ravelry.com/patterns/library/puerperium-cardigan/people"
   ]
 }

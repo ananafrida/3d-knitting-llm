@@ -1,39 +1,46 @@
 {
   "pattern_id": 1514,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mossy-fairy-castle",
-  "name": "Mossy Fairy Castle",
-  "description": "My mossy castles are inspired by Moomin’s wonderfully whimsical house and ancient Scottish castles with their fairy filled grounds. In order to keep it delightfully whimsical, I decided to display my castle in a moss filled tea cup!",
-  "designer": "Natasha Hanson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/honey-cowl",
+  "name": "Honey Cowl",
+  "description": "▲ PATTERN NOTES",
+  "designer": "Antonia Shankland",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "4”/10cm tall",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "short version and longer version",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Patons North America Classic Wool Worsted",
-    "yarn held together"
+    "madelinetosh Tosh DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
+    "adult",
+    "female",
     "in-the-round",
-    "seamed",
+    "one-piece",
+    "seamless",
+    "slipped-stitches",
+    "textured",
     "written-pattern"
   ],
-  "full_text": "My mossy castles are inspired by Moomin’s wonderfully whimsical house and ancient Scottish castles with their fairy filled grounds. In order to keep it delightfully whimsical, I decided to display my castle in a moss filled tea cup! The castle is a quick, easy knit. It is knit in the round on dpns in 2 pieces and then sewn together. Embroidery is used for the windows and door. Supplies: Stuffing, toothpicks (to help your castle stand), teacup and moss. Praise for Mossy Fairy Castle Very quick and easy knit. So cute! ( Adente ) This could be one of the cutest things ever. ( procastonlater )",
+  "full_text": "▲ PATTERN NOTES A simple slip stitch pattern cowl creates a dense waffle-like fabric for warmth and supple drape. This flexible pattern can be worked in four different sizes using just one or two skeins of yarn. Both short and longer versions are lovely viewed on both sides. This cowl is perfect for a bright pop of color and a warm hug around your neck. For an in-between size: 1 skein at 160 sts will create a 32 inch long by 8 inch wide cowl. 2 skeins at 160 sts will create a 32 inch long by 16 inch wide cowl. ▲ SIZES Short (Long) Short version: 22” length Longer version: 44” length ▲ YARN Madelinetosh Tosh DK (100% superwash merino; 100g / 225 yds) 1 (2) skeins ▲ NOTIONS Stitch marker, tapestry needle ▲ GAUGE 20 sts = 4 inches ▲ NEEDLES US Size 8 (5.0 mm) 16” circular for short version, or US Size 8 (5.0 mm) 32” circular for long version, or size needed to obtain gauge",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/yarns",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/people",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/editors",
-    "https://www.ravelry.com/patterns/library/queen-lily-of-the-valley",
-    "https://www.ravelry.com/patterns/library/tiny-nutcrackers",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/comments",
-    "https://www.ravelry.com/patterns/library/mushroom-or-fairy-house",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/threads",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/mossy-fairy-castle/report"
+    "https://www.ravelry.com/patterns/library/repose-10",
+    "https://www.ravelry.com/patterns/library/honey-cowl/threads",
+    "https://www.ravelry.com/patterns/library/serena-shadow-shawl",
+    "https://www.ravelry.com/patterns/library/honey-cowl/editors",
+    "https://www.ravelry.com/patterns/library/honey-cowl/report",
+    "https://www.ravelry.com/patterns/library/honey-cowl",
+    "https://www.ravelry.com/patterns/library/honey-cowl/people",
+    "https://www.ravelry.com/patterns/library/honey-cowl/posts",
+    "https://www.ravelry.com/patterns/library/honey-cowl/comments",
+    "https://madelinetosh.myshopify.com/collections/patterns/products/honey-cowl",
+    "https://www.ravelry.com/patterns/library/maine-woven-baby-blanket",
+    "https://www.ravelry.com/patterns/sources/madelinetosh-tm",
+    "https://www.ravelry.com/patterns/library/honey-cowl/yarns"
   ]
 }

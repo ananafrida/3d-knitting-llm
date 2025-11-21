@@ -1,38 +1,37 @@
 {
   "pattern_id": 1786,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pygmy-puff-3",
+  "pattern_page": "https://www.ravelry.com/patterns/library/boyfriend-hat-9",
+  "name": "Boyfriend Hat",
+  "description": "When your daughter announces she is bringing her boyfriend to dinner two weeks before the holidays, here is the perfect gift. This hat took about 2 nights to knit up. The Noventa yarn is incredibly soft and a real treat for everyone.",
+  "designer": "Andrea Riddle",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "sizes_available": "Adult",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Eyelash Fun Fur",
-    "Sport (12 wpi) ?"
+    "Bulky (7 wpi) ?",
+    "Malabrigo Yarn Chunky"
   ],
   "attributes": [
-    "seamed",
-    "sphere-shaped",
-    "worked-flat",
-    "written-pattern"
+    "adult",
+    "ribbed"
   ],
-  "full_text": "",
+  "full_text": "When your daughter announces she is bringing her boyfriend to dinner two weeks before the holidays, here is the perfect gift. This hat took about 2 nights to knit up. The Noventa yarn is incredibly soft and a real treat for everyone. One size fits most. Easy 3 x 2 ribbing and a fun decrease pattern at the top. You can find all the colors of Noventa at The Yarn Club, www.yarnclubknits.com . Errata: Row 9: K2tog, k1, p2, repeat from * to * until the last 5 stitches. K2tog, k1, p1, slip next stitch knitwise, remove marker, slip next stitch knitwise, k1, psso. replace marker after CDD. Update version 3 is correct. I also added some clarification to the measurements of the body of the hat.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pygmy-puff-3/yarns",
-    "https://www.ravelry.com/patterns/sources/mandys-knits",
-    "https://www.ravelry.com/patterns/library/pygmy-puff-3/threads",
-    "http://knitster1.wordpress.com/free-patterns/",
-    "https://www.ravelry.com/patterns/library/pygmy-puff-3/report",
-    "https://www.ravelry.com/patterns/library/pink-squared",
-    "https://www.ravelry.com/patterns/library/candy-cane-swirls",
-    "https://www.ravelry.com/patterns/library/pygmy-puff-3/people",
-    "https://www.ravelry.com/patterns/library/mandys-footie-socks",
-    "https://www.ravelry.com/patterns/library/pygmy-puff-3",
-    "https://www.ravelry.com/patterns/library/pygmy-puff-3/comments",
-    "https://www.ravelry.com/patterns/library/pygmy-puff-3/editors"
-  ],
-  "name": "Ravelry: Pygmy Puff pattern by Mandy Harvey"
+    "https://www.ravelry.com/patterns/library/boyfriend-hat-9",
+    "https://www.ravelry.com/patterns/library/boyfriend-hat-9/threads",
+    "https://www.ravelry.com/patterns/library/ember-sky-scarf",
+    "https://www.ravelry.com/patterns/library/boyfriend-hat-9/editors",
+    "https://www.ravelry.com/patterns/library/boyfriend-hat-9/yarns",
+    "https://www.ravelry.com/patterns/library/boyfriend-hat-9/comments",
+    "https://www.ravelry.com/patterns/library/boyfriend-hat-9/people",
+    "https://www.ravelry.com/patterns/library/basic-woolfolk-hat",
+    "https://www.ravelry.com/patterns/sources/andrea-riddles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/boyfriend-hat-9/report"
+  ]
 }

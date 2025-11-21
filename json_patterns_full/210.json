@@ -1,45 +1,37 @@
 {
   "pattern_id": 210,
-  "pattern_page": "https://www.ravelry.com/patterns/library/poppy-prairie-bag",
-  "name": "Poppy Prairie Bag",
-  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
-  "designer": "Bonnica Sjöblom",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cloudberry-bandana",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "35 x 80 cm (before felting)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "One Size",
   "languages": [
-    "Dutch",
-    "German",
-    "Swedish"
+    "English"
   ],
   "suggested_yarn": [
-    "Svarta Fåret Ulrika Natur",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Purl Soho Nigh DK"
   ],
   "attributes": [
-    "felted",
-    "in-the-round",
-    "patch-pocket",
-    "schematic",
+    "textured",
+    "triangle-shaped",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
+  "full_text": "MATERIALS 2 skeins of Purl Soho’s Nigh DK , 100% cashmere yarn. Each skein of this light worsted/ DK-weight yarn is 199 yards/ 55 grams; approximately 250 total yards required. We used the colors Ocean Storm, Raindrop Blue, and Warm Cognac. US 5 (3.75 mm), 24-inch circular knitting needles (NOTE: You can use longer needles if you like, but they may feel a little finicky toward the end when you’re working on fewer stitches!) GAUGE 22 stitches and 43 rows = 4 inches in double seed stitch (see Notes) SIZE Finished Length of Wingspan: 41¼ inches wide Finished Depth from Point to Middle of Cast-On Edge: 10¼ inches Pattern designed and written by Purl Soho founder and co-owner, Joelle Hoverson .",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/magvaskan-yvonne",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-countryside-escape-aw2024",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/people",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/editors",
-    "https://www.ravelry.com/patterns/library/froken-london---bag",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/comments",
-    "https://www.ravelry.com/patterns/library/magvaskan-dagny",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/report",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/comments",
+    "https://www.ravelry.com/patterns/library/charm-blanket",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/whisper-bandana",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/people",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/report",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/editors",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/yarns"
+  ],
+  "name": "Ravelry: Cloudberry Bandana pattern by Purl Soho"
 }

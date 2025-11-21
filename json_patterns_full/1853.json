@@ -1,42 +1,36 @@
 {
   "pattern_id": 1853,
-  "pattern_page": "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket",
-  "name": "Tidy Textures Bathmat & Basket",
-  "description": "A soft, cozy, textured bathmat and basket worked in linen stitch. The designs are easy to knit yet look impressive, with a polished, non-handmade appearance. The basket is optionally finished with leather handles, attached using leather cord. Both patterns are easy to adjust in size, if desired.",
-  "designer": "AFTER 9 TO 5",
+  "pattern_page": "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "One Size",
+  "category": "Components → Other",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Thick & Quick",
-    "Super Bulky (5-6 wpi) ?"
+    ""
   ],
   "attributes": [
-    "3-dimensional",
-    "bobble-or-popcorn",
-    "in-the-round",
-    "rectangle",
-    "seamless",
-    "slipped-stitches",
-    "textured",
-    "worked-flat",
+    "chart",
+    "illusion",
+    "one-piece",
     "written-pattern"
   ],
-  "full_text": "A soft, cozy, textured bathmat and basket worked in linen stitch. The designs are easy to knit yet look impressive, with a polished, non-handmade appearance. The basket is optionally finished with leather handles, attached using leather cord. Both patterns are easy to adjust in size, if desired. If you enjoyed this free pattern, I’d love for you to visit and subscribe to my YouTube channel and also share your creations on Instagram using #TidyTextures to support my work. Thank you so much! https://www.youtube.com/@daniafter9to5 https://www.instagram.com/dani_after_9_to_5/?hl=en",
+  "full_text": "This Elder Futhark rune means “wealth” and is the second in about 24 runes I’m trying to chart as illusion knits. Well, actually, it’s the first (if you wanted to go in order), but y’know… I have included both a chart and the written out version, so everybody can enjoy! Written out version here . This can be adapted for any yarn or gauge and added to as desired. It’s a very quick shadow/illusion knit, so feel free to use as you like! A huge thank you goes to soylntgrnzppl for test-knitting and photographing this pattern!",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/people",
-    "https://www.ravelry.com/patterns/sources/after-9-to-5-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/yarns",
-    "https://www.ravelry.com/patterns/library/sea--sand-tee",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/comments",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/report",
-    "https://www.ravelry.com/patterns/library/tidy-textures-bathmat--basket/editors"
-  ]
+    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting",
+    "https://www.ravelry.com/patterns/library/i-3-cannabis-scarf",
+    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/posts",
+    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/yarns",
+    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/comments",
+    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/people",
+    "https://www.ravelry.com/patterns/sources/wasserhexe",
+    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/report",
+    "https://www.ravelry.com/patterns/library/rune-uruz-illusion-knitting",
+    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/threads",
+    "https://www.ravelry.com/patterns/library/serenity-illusion-scarf",
+    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/editors"
+  ],
+  "name": "Ravelry: Rune: Fehu (Illusion Knitting) pattern by Erica Potter"
 }

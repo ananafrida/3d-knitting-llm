@@ -1,48 +1,43 @@
 {
   "pattern_id": 176,
-  "pattern_page": "https://www.ravelry.com/patterns/library/astra---purse",
-  "name": "Astra - purse",
-  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
-  "designer": "Essy Winnerholt",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-parlor-cat",
+  "name": "The Parlor Cat",
+  "description": "With paws tucked in and tail to his side, The Parlor Cat makes a very prim and proper house guest. Knit in the round, it is one piece from head to tail, and a befitting 10” long and 7” wide.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
+  "category": "Softies → Animal",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "18 x 13 cm",
+  "sizes_available": "one size",
   "languages": [
-    "Danish",
-    "Dutch",
-    "Finnish",
-    "German",
-    "Norwegian",
-    "Swedish",
-    "...and 6 other languages show hide other languages",
-    "...and 6 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Svarta Fåret Tencel Blow",
-    "yarn held together"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
+    "3-dimensional",
     "in-the-round",
-    "twisted-stitches",
-    "written-pattern"
+    "kitchener",
+    "one-piece",
+    "short-rows"
   ],
-  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
+  "full_text": "With paws tucked in and tail to his side, The Parlor Cat makes a very prim and proper house guest. Knit in the round, it is one piece from head to tail, and a befitting 10” long and 7” wide.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/astra---purse/people",
-    "https://www.ravelry.com/patterns/library/astra---purse/comments",
-    "https://www.ravelry.com/patterns/library/astra---purse/yarns",
-    "https://www.ravelry.com/patterns/library/astra---purse/report",
-    "https://www.ravelry.com/patterns/library/astra---purse/editors",
-    "https://www.ravelry.com/patterns/library/astra---purse",
-    "https://www.ravelry.com/patterns/library/yyteri---cardigan",
-    "https://www.ravelry.com/patterns/library/rebbelino",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/fleurir-shopper",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store"
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/yarns",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/comments",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/threads",
+    "https://www.ravelry.com/patterns/library/the-window-cat",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/people",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/editors",
+    "https://www.ravelry.com/patterns/sources/knitting-for-beginners---third-edition",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/report",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/posts",
+    "https://www.ravelry.com/patterns/library/henrys-bunny",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat"
   ]
 }

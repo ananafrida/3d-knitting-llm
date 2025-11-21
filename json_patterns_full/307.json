@@ -1,40 +1,38 @@
 {
   "pattern_id": 307,
-  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-chook",
-  "name": "Tiny Chook",
-  "description": "This tiny chicken can be used as an ornament or pet toy. The base is knitted back and forth, then stitches are picked up around the base and joined in the round.",
-  "designer": "Eva McDonald",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sweet-pocket-baby",
   "craft": "Knitting",
-  "category": "Pet → Toys",
+  "category": "Softies → Doll",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "icord",
-    "in-the-round",
-    "seamless",
-    "worked-flat"
+    "bottom-up",
+    "doll-size",
+    "one-piece",
+    "seamed",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This tiny chicken can be used as an ornament or pet toy. The base is knitted back and forth, then stitches are picked up around the base and joined in the round. I used worsted weight with 4.25 mm needles for a 3.5” toy, but any weight yarn can be used as long as you go down a needle size to ensure that the fabric is dense so the stuffing does not show through. ERRATA On the “BODY” after row 19, where is says to “Cast off”, you don’t really have to cast off. I added that instruction because I couldn’t think of an elegant way to explain that after you pick up stitches around the base, you should have 36 stitches in total. Whether you cast off or not, it shouldn’t make a difference in the FO, but I realize that casting off stitches simply to pick up those exact same stitches again is annoying, hence this explanation.",
-  "techniques": [
-    "pick up stitches"
-  ],
-  "shape": "sphere",
+  "full_text": "Quick and easy soft doll in a sleeping bag. Uses knit and purl stitches in a simple four row pattern. Ideal for using up oddments of yarn.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tiny-chook/people",
-    "https://www.ravelry.com/patterns/library/tiny-chook",
-    "https://www.ravelry.com/patterns/library/tiny-chook/comments",
-    "https://www.ravelry.com/patterns/library/cupcake-2",
-    "https://www.ravelry.com/patterns/library/alien-facehugger-bag-charm",
-    "https://www.ravelry.com/patterns/sources/eva-mcdonalds-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tiny-chook/editors",
-    "https://www.ravelry.com/patterns/library/beginner-baby-yoda",
-    "https://www.ravelry.com/patterns/library/tiny-chook/yarns",
-    "https://www.ravelry.com/patterns/library/tiny-chook/threads",
-    "https://www.ravelry.com/patterns/library/tiny-chook/report"
-  ]
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/comments",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/editors",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/report",
+    "https://www.ravelry.com/patterns/library/barbie-skirt-and-top-1",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby",
+    "https://www.ravelry.com/patterns/sources/taffy-lass-knits",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/people",
+    "https://www.ravelry.com/patterns/library/barbie-dance-dress",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby/yarns",
+    "https://www.ravelry.com/patterns/library/pretty-jacket-for-barbie"
+  ],
+  "name": "Ravelry: Sweet Pocket Baby pattern by taffylass knits"
 }

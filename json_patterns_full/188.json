@@ -1,39 +1,39 @@
 {
   "pattern_id": 188,
-  "pattern_page": "https://www.ravelry.com/patterns/library/aline",
+  "pattern_page": "https://www.ravelry.com/patterns/library/which-came-first-4",
+  "name": "Which Came First?",
+  "description": "I’ve recently been inspired to work through my stash and experiment with freeform knitting.",
+  "designer": "Dee Frey",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "category": "Softies → Animal",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "any raffia yarn *(paper, plastic, or a mixture)",
-    "Bulky (7 wpi) ?"
+    "",
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
-    "adult",
-    "front-fastening",
-    "lace",
-    "lined",
-    "teen"
+    "3-dimensional",
+    "in-the-round",
+    "modular",
+    "one-piece",
+    "written-pattern"
   ],
-  "full_text": "Description from Knitty.com: Small purses are fun, raffia is fun - together this is the Doublemint of fun summer purse projects! Lace is also fun, and easier than one might think! Work this up with the lace, or without for a simpler project. The lining is rayon ribbon and is worked in a mirror image of the purse.",
+  "full_text": "I’ve recently been inspired to work through my stash and experiment with freeform knitting. This chicken and egg pattern came to life from the experiment and my current obsession with chickens (our flock of 51 will expand again this year). Chickens in the photos were knitted from a variety of yarn weights, from double-stranded fingering to bulky stranded with fingering and/or worsted weights. Stranding different weights together produces a much different effect than the same weights held together. Some clarification if you’re confused, each row is a new line in the pattern. For the first, KFB through each stitch; the second, KFB, K1, PM, repeat to end, etc. I hope this helps with any possible confusion, it’s been a while since I’ve written a new pattern.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/swan-lake-wimple",
-    "https://www.ravelry.com/patterns/library/backyard-leaves",
-    "https://www.ravelry.com/patterns/library/aline/report",
-    "https://www.ravelry.com/patterns/library/aline/people",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/aline/threads",
-    "https://www.ravelry.com/patterns/sources/knitty-summer-2003",
-    "https://www.ravelry.com/patterns/library/aline/yarns",
-    "https://www.ravelry.com/patterns/library/slippy-cowl",
-    "https://www.ravelry.com/patterns/library/aline/comments",
-    "https://www.ravelry.com/patterns/library/aline",
-    "https://www.ravelry.com/patterns/library/aline/editors"
-  ],
-  "name": "Ravelry: Aline pattern by Annie Modesitt"
+    "https://www.ravelry.com/patterns/library/which-came-first-4/yarns",
+    "https://www.ravelry.com/patterns/library/which-came-first-4/editors",
+    "https://www.ravelry.com/patterns/library/which-came-first-4/report",
+    "https://www.ravelry.com/patterns/library/which-came-first-4/people",
+    "https://www.ravelry.com/patterns/library/which-came-first-4/threads",
+    "https://www.ravelry.com/patterns/library/kitty-dishcloth",
+    "https://www.ravelry.com/patterns/library/dobby-style-sockmark",
+    "https://www.ravelry.com/patterns/library/skully-dishcloth",
+    "https://www.ravelry.com/patterns/library/which-came-first-4/comments",
+    "https://www.ravelry.com/patterns/library/which-came-first-4",
+    "https://www.ravelry.com/patterns/sources/blackraynes-ravelry-downloads"
+  ]
 }

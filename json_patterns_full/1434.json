@@ -1,39 +1,42 @@
 {
   "pattern_id": 1434,
-  "pattern_page": "https://www.ravelry.com/patterns/library/acorn-and-pumpkin-lantern",
-  "name": "Acorn and Pumpkin Lantern",
-  "description": "Video here -",
-  "designer": "Claire Garland",
+  "pattern_page": "https://www.ravelry.com/patterns/library/twin-cable-purse",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
-  "sizes_available": "Finished size approx. 3.5cm",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Alpaca",
-    "Sport (12 wpi) ?"
+    "Brown Sheep Burly Spun",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
+    "cables",
+    "one-piece",
+    "seamed",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Video here - https://www.instagram.com/reel/DAnSksWI1F2/?igsh=dW41OXNyOTBkandj And here https://www.instagram.com/reel/DANlaL8oLZ4/?igsh=YTY1YmEzeThibXp6 Little lighted up knitted decorations - so many uses for these! They do turn on and off too. The light within is an LED Balloon Light - available almost everywhere I should imagine, Amazon or Light in the Box sell them in the UK and US. The knitting itself is simple enough and a sure way to use up your stash. I’ve suggested knitting them in the round but I’ve also included a flat knitted-version if on dpns is not for you As well as the balloon light and your yarn and needles you’ll need some glue… and that’s it! Hope you enjoy making them - apologies if it’s a new obsession for you!! Claire x",
+  "full_text": "Additional yarn choice: Blue Sky Bulky Alpaca (2 skeins). Used to be available at this link . Now available though Internet Archive/Wayback Machine",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/frog-48",
-    "https://www.ravelry.com/patterns/library/acorn-and-pumpkin-lantern/yarns",
-    "https://www.ravelry.com/patterns/library/acorn-and-pumpkin-lantern/people",
-    "https://www.ravelry.com/patterns/library/shrew",
-    "https://www.ravelry.com/patterns/library/acorn-and-pumpkin-lantern/editors",
-    "https://www.ravelry.com/patterns/library/mushroom-and-toadstool-2",
-    "https://www.ravelry.com/patterns/library/acorn-and-pumpkin-lantern",
-    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
-    "https://www.ravelry.com/patterns/library/acorn-and-pumpkin-lantern/report",
-    "https://www.ravelry.com/patterns/library/acorn-and-pumpkin-lantern/comments",
-    "https://www.ravelry.com/patterns/library/acorn-and-pumpkin-lantern/threads"
-  ]
+    "https://web.archive.org/web/20061115015348/http://www.yarniverse.com/page.htm?PG=FreePatterns",
+    "https://www.ravelry.com/patterns/library/twin-cable-purse",
+    "https://www.ravelry.com/patterns/library/twin-cable-purse/yarns",
+    "https://www.ravelry.com/patterns/library/twin-cable-purse/report",
+    "https://www.ravelry.com/patterns/library/twin-cable-purse/editors",
+    "https://www.ravelry.com/patterns/periodicals/yarniverse",
+    "https://www.ravelry.com/patterns/library/twin-cable-purse/people",
+    "https://www.ravelry.com/patterns/library/twin-cable-purse/edit",
+    "https://www.ravelry.com/patterns/library/twin-cable-purse/threads",
+    "https://www.ravelry.com/patterns/library/twin-cable-purse/posts",
+    "https://www.ravelry.com/patterns/sources/yarniverse",
+    "https://www.ravelry.com/patterns/library/twin-cable-purse/comments",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "http://www.yarniverse.com/page.htm?PG=FreePatterns"
+  ],
+  "name": "Ravelry: Twin Cable Purse pattern by Tricky Stix & Ashleigh Lynch"
 }

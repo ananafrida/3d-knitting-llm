@@ -1,46 +1,39 @@
 {
   "pattern_id": 731,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat",
-  "name": "Sweet Leaf Toddler Hat",
-  "description": "This toddler hat pattern is perfect for that spare skein of luxurious yarn that you had no idea what to do with. It knits up very quickly and is soft, very flexible and fun to make.",
-  "designer": "Gina House",
+  "pattern_page": "https://www.ravelry.com/patterns/library/colour-cube--balls",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "12 to 24 months",
+  "category": "Ball Blocks",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Classic Elite Yarns Lush"
+    "DK (11 wpi) ?",
+    "Moda Vera Marvel 8ply Plain"
   ],
   "attributes": [
-    "baby",
-    "child",
-    "in-the-round",
-    "lace",
-    "ribbed",
-    "toddler"
+    "cube-shaped",
+    "seamed",
+    "sphere-shaped",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This toddler hat pattern is perfect for that spare skein of luxurious yarn that you had no idea what to do with. It knits up very quickly and is soft, very flexible and fun to make. There is also an adult version in my book, “Sleepy Eyes Knits: Dreamscape” ! NOTE: (8/21/13) There is a NEW version available with new pictures, format, decrease corrections and chart. Download now :) NOTE: (10/2/09) I’ve made a couple of changes: The (p1, k1, p1) will ALL be (p1, k1tbl , p1), instead of having a k1 in this place on every other round. I’ve changed (in the decrease section) all of the first (only) decrease parts to ssk instead of k2tog for a better look and shape. I have added a few more decrease rounds to the end to make a cleaner finish and, again, a better finished look to the leaf tip. And, thanks to HelloJackie help, we have corrections for the decreasing section of this hat: Corrected decrease rounds should be: Round 1: {(p1, k1tbl, p1), ssk, k6, k2tog, p2, ssk, k6, k2tog}, repeat 3x over round (63 sts) Round 2: {(p1, k1tbl, p1), k8, p2, k8}, repeat 3x over round. Round 3: {(p1, k1tbl, p1), ssk, k4, k2tog, p2, ssk, k4, k2tog}, repeat 3x over round (51 sts) Round 4: {(p1, k1tbl, p1), k6, p2, k6}, repeat 3x over round. Round 5: {(p1, k1tbl, p1), ssk, k2, k2tog, p2, k2tog, k2, k2tog}, repeat 3x over round (39 sts) Round 6: {(p1, k1tbl, p1), k4, p2, k4}, repeat 3x over round. Round 7: {(p1, k1tbl, p1), ssk, k2tog, p2, ssk, k2tog}, repeat 3x over round (27 sts) Round 8: {(p1, k1tbl, p1), k2, p2, k2}, repeat 3x over round. Round 9: {(p1, k1tbl, p1), ssk, p2, k2tog}, repeat 3x over round (21 sts) Round 10: {(p1, k1tbl, p1), k1, p2, k1}, repeat 3x over round. Round 11: {(p1, k1tbl, p1), ssk, k2tog}, repeat 3x over round (15 sts) Round 12: {p1, k1tbl, p1, k2}, repeat 3x over round Round 13: {p1, k1tbl, p1, k2tog}, repeat 3x over round (12 sts) Round 14: {p1, k1tbl, p1, k1tbl}, repeat 3x over round Round 15: {k2tbl, k2tbl}, repeat 3x over round (6 sts) Round 16: K6 Place remaining sts on 1 dpn and, using another dpn, continue on with knitting the i-cord until 1” or to desired length. Fasten off. Weave in ends. Thanks!",
+  "full_text": "This is a tutorial for making a simple garter stitch cube and balls in matching colours. This is a brilliant stash-busting project or a project for a beginner knitter. It is very quick to knit and make up too, so it would be a good last-minute gift for a baby or toddler. The cube and balls can be used in a variety of ways. Teach your children their colours and get them to match the balls to the faces of the cube. Add some felt dots to turn the cube into a die and knit a corresponding number of balls for each face. The possibilities are limitless. The cube is stuffed with a car washing sponge cut to shape and the balls are filled with toy stuffing.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/yarns",
-    "https://www.ravelry.com/patterns/library/queens-mirror-shawl",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/editors",
-    "http://ginahouse.net/knitting/freepatterns",
-    "https://www.ravelry.com/patterns/sources/gina-house-website",
-    "https://www.ravelry.com/patterns/library/glitzel",
-    "https://www.ravelry.com/patterns/library/beauty-shawl",
-    "https://www.ravelry.com/patterns/sources/sleepy-eyes-knits-ravelry-store",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/comments",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/report",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/posts",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/people",
-    "http://www.ravelry.com/patterns/sources/sleepy-eyes-knits-dreamscape",
-    "https://www.ravelry.com/patterns/library/sweet-leaf-toddler-hat/threads"
-  ]
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/report",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls",
+    "https://www.ravelry.com/patterns/library/garter-be-kidding-me",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/editors",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/comments",
+    "https://www.ravelry.com/patterns/library/the-mau",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/yarns",
+    "https://www.ravelry.com/patterns/library/angelfish-beanie",
+    "https://www.ravelry.com/patterns/sources/knitkatpaddywhack",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/people",
+    "https://www.ravelry.com/patterns/library/colour-cube--balls/threads"
+  ],
+  "name": "Ravelry: Colour Cube + Balls pattern by Katherine Young"
 }

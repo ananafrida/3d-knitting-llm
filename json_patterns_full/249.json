@@ -1,41 +1,47 @@
 {
   "pattern_id": 249,
-  "pattern_page": "https://www.ravelry.com/patterns/library/easy-felt-knit-bag",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sorgenfri-trkle",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "Approximately 9” long x 9” wide at top and 11.5” wide at bottom after felting",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "80 cm",
   "languages": [
-    "English"
+    "English",
+    "Norwegian"
   ],
   "suggested_yarn": [
-    "Crystal Palace Yarns DragonFly",
-    "Bulky (7 wpi) ?"
+    "Lang Yarns Cashmere Premium",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "felted",
-    "fringe",
+    "adult",
+    "child",
+    "female",
+    "male",
     "one-piece",
-    "seamed"
+    "seamless",
+    "teen",
+    "textured",
+    "triangle-shaped",
+    "unisex",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Summary: Felted bag with eyelash trim. Iceland and Dragonfly are both bulky weight yarns. Additional materials: Snap The colors suggested in the pattern are: Iceland: Periwinkle #9628, 2 balls DragonFly: Violet Potpourri #9608, 1 ball",
+  "full_text": "The worry-free scarf is knitted back and forth on a long circular needle in structured knitting. The scarf can be tied once around the neck and fits well for both children and adults. Size: Approx. 80 cm from tip to tip Technique: Garter stitch and 1x1 rib Knitting strength: 21 stitches / 10 cm Needle size: 3.0-3.5 mm / 80 cm circular needle Suggested yarn: 50 g Como / Lamana or 50 g Cashmere premium / Lang This pattern is available for free (via email) by going to the website and subscribing to the mailing list.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/threads",
-    "https://www.ravelry.com/patterns/library/moss-stitch-diamonds-baby-blanket",
-    "http://www.knittingonthenet.com/patterns/bagfelticedragon.htm",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/yarns",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/people",
-    "https://www.ravelry.com/patterns/sources/crystal-palace-yarns",
-    "https://www.ravelry.com/patterns/library/moon-and-stars-baby-blanket",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/editors",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/report",
-    "https://www.ravelry.com/patterns/library/teddy-bear-baby-blanket",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/comments",
-    "https://www.ravelry.com/patterns/sources/knitting-on-the-net",
-    "https://www.ravelry.com/patterns/library/easy-felt-knit-bag/edit"
+    "https://www.ravelry.com/patterns/library/sorgenfri-jacket-mini",
+    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/people",
+    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/yarns",
+    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/report",
+    "https://www.ravelry.com/patterns/sources/indiblomst-website",
+    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/editors",
+    "https://www.ravelry.com/patterns/library/sorgenfri-foldover-jacket-mini-24st-10cm",
+    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/threads",
+    "https://www.ravelry.com/patterns/library/vibes-scarf",
+    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/comments",
+    "https://www.ravelry.com/patterns/library/sorgenfri-trkle"
   ],
-  "name": "Ravelry: Easy Felt Knit Bag pattern by Barbara Breiter"
+  "name": "Ravelry: Sorgenfri Tørkle pattern by Guri Pedersen"
 }

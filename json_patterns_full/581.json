@@ -1,49 +1,40 @@
 {
   "pattern_id": 581,
-  "pattern_page": "https://www.ravelry.com/patterns/library/garter-chevron-blanket",
-  "name": "Garter Chevron Blanket",
-  "description": "This eye-catching blanket is knitted in lovely squishy garter stitch. There are 2 sizes: the larger one, (shown here in rainbow colours) is suitable for a cot or throw, the smaller (shown in pink/mauve/grey) for a stroller but it can easily be made smaller or larger by adding/subtracting pattern repeats or rows.",
-  "designer": "Catherine Anderson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/simple-cat-toy",
+  "name": "Simple Cat Toy",
+  "description": "Simple Cat toy. Easy and quick - makes up in no time. Use Yarn scraps.",
+  "designer": "Denise Ann",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "Large Small",
+  "category": "Pet → Toys",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Knit Picks Mighty Stitch",
-    "Worsted (9 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Lion Brand Fishermen's Wool"
   ],
   "attributes": [
-    "bottom-up",
-    "chevron",
+    "in-the-round",
     "one-piece",
-    "rectangle",
-    "reversible",
-    "stripes-colorwork",
-    "textured",
-    "worked-flat",
-    "written-pattern"
+    "seamless"
   ],
-  "full_text": "This eye-catching blanket is knitted in lovely squishy garter stitch. There are 2 sizes: the larger one, (shown here in rainbow colours) is suitable for a cot or throw, the smaller (shown in pink/mauve/grey) for a stroller but it can easily be made smaller or larger by adding/subtracting pattern repeats or rows. This pattern is suitable for inexperienced knitters. Increases are made by knitting into the back and front of the loop (kfb), decreases by knitting 2 stitches together.",
-  "techniques": [
-    "decreases",
-    "increases"
-  ],
-  "shape": "unknown",
+  "full_text": "Simple Cat toy. Easy and quick - makes up in no time. Use Yarn scraps. Secure, rugged parts - Won’t fall off. Uses easy bobble stitch ears, secure Braided tail. instructions with photos Errata: Row 17 - should say “knit to the end” after the last bobble is complete.",
+  "techniques": [],
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/garter-chevron-blanket/editors",
-    "https://www.ravelry.com/patterns/library/garter-chevron-blanket/posts",
-    "https://www.ravelry.com/patterns/library/garter-chevron-blanket/threads",
-    "https://www.ravelry.com/patterns/sources/catherine-andersons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/garter-chevron-blanket",
-    "https://www.ravelry.com/patterns/library/taka-baby-blanket",
-    "https://www.ravelry.com/patterns/library/garter-chevron-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/building-blocks-blanket-8",
-    "https://www.ravelry.com/patterns/library/garter-chevron-blanket/comments",
-    "https://www.ravelry.com/patterns/library/hermaness-shawl",
-    "https://www.ravelry.com/patterns/library/garter-chevron-blanket/people",
-    "https://www.ravelry.com/patterns/library/garter-chevron-blanket/report"
+    "https://www.ravelry.com/patterns/sources/executiveknitters-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy",
+    "https://www.ravelry.com/patterns/library/amazing-granny-afghan",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/report",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/people",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/editors",
+    "https://www.ravelry.com/patterns/library/clara-vest",
+    "https://www.ravelry.com/patterns/library/seaside-cardigan-2",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/threads",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/comments",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/yarns",
+    "https://www.ravelry.com/patterns/library/simple-cat-toy/posts"
   ]
 }

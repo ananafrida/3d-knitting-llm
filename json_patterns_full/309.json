@@ -1,43 +1,36 @@
 {
   "pattern_id": 309,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jiaozi-dumplings",
-  "name": "Jiaozi (dumplings)",
-  "description": "This needs at least 4 dpns and a cable needle or 5 dpns. It can be worked magic loop or any other way for small circles in the round, but it will still need a spare needle to work the pleats.",
-  "designer": "Dale Hwang",
+  "pattern_page": "https://www.ravelry.com/patterns/library/andreas-knuddel-doll",
+  "name": "Andrea's Knuddel-Doll",
+  "description": "Die Knuddel-Doll ist das ideale Projekt, um bunte Sockenwoll-Reste ab 5 bzw. 10 g zu verarbeiten.",
+  "designer": "Andrea Baron",
   "craft": "Knitting",
-  "category": "Food Pet → Toys",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Softies → Doll",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
-    "English"
+    "German"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Zwerger Garn Opal 4-fach | 4-ply",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
     "in-the-round",
-    "one-piece",
-    "seamless",
-    "video-tutorial",
-    "written-pattern"
+    "top-down"
   ],
-  "full_text": "This needs at least 4 dpns and a cable needle or 5 dpns. It can be worked magic loop or any other way for small circles in the round, but it will still need a spare needle to work the pleats. Stitches/techniques - Knit, purl, ssk. Working a flat circle in the round. Increasing without a hole. Lighter circular cast-on or any preferred circular cast-on. Knitting together one stitch each from two separate needles.",
+  "full_text": "The cuddly doll is the ideal project for using colorful sock yarn leftovers weighing 5 or 10 g or more. It is expressly desired that the dolls also be knitted for charitable purposes... that is exactly why the instructions were created. Have lots of fun with it!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/editors",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/posts",
-    "https://www.ravelry.com/patterns/sources/djinnjs-channel--youtube",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/threads",
-    "https://www.ravelry.com/patterns/library/weasley-twins-ski-cap",
-    "https://www.ravelry.com/patterns/library/lupin-scarf",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/yarns",
-    "https://www.ravelry.com/patterns/sources/dale-hwangs-ravelry-downloads",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/report",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/people",
-    "https://www.ravelry.com/patterns/library/puffskein",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/comments",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings"
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/people",
+    "https://www.ravelry.com/patterns/library/andreas-bambusa",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/yarns",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/report",
+    "https://www.ravelry.com/patterns/library/andreas-herbaria",
+    "https://www.ravelry.com/patterns/library/andreas-protea",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll",
+    "https://www.ravelry.com/patterns/sources/andrea-barons-ravelry-store",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/comments",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/editors"
   ]
 }

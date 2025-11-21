@@ -1,37 +1,44 @@
 {
   "pattern_id": 88,
-  "pattern_page": "https://www.ravelry.com/patterns/library/frankies-blankie-week-2",
-  "name": "Frankie's Blankie Week 2",
-  "description": "This is the second in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jester-sweater-and-hat",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Costume",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "6-12 mo, 2y, 4y, 6y, 8y",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Stylecraft Batik Double Knitting"
+    "Tahki Yarns Cotton Classic",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "slipped-stitches",
-    "stripes-colorwork"
+    "baby",
+    "bottom-up",
+    "child",
+    "in-the-round",
+    "toddler",
+    "unisex",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This is the second in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares. This is the first square to use both the main yarn and lots of the contrast colours. It’s worked in a Mosaic slip stitch pattern which I’ve re-named ‘Battlements’. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "Pattern is available as “bonus content” for Fairy Tale Knits and is downloadable from the Wiley website. Yardage listed above is for sweater only. Gauge swatch is done on US 5 needles. Pattern requires US 3 and US 5 dpns, 16” and 24” circulars (in both sizes!) Also requires 4-6 1” buttons depending on size made. Hat is available in 3 sizes and will require more yarn.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2/report",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2/people",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2/comments",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-5",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2/editors",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2/threads",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/yarns",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/people",
+    "https://www.ravelry.com/patterns/library/renaissance-man-tunic",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/report",
+    "https://www.ravelry.com/patterns/sources/fairy-tale-knits-32-projects-to-knit-happily-ever-after",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/editors",
+    "http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470262680,descCd-DOWNLOAD.html",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat",
+    "https://www.ravelry.com/patterns/library/princess-crown",
+    "https://www.ravelry.com/patterns/library/mrs-weasleys-bag-of-stitch-witchery",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/comments",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/posts",
+    "https://www.ravelry.com/patterns/library/jester-sweater-and-hat/threads"
+  ],
+  "name": "Ravelry: Jester Sweater and Hat pattern by Alison Stewart-Guinee"
 }

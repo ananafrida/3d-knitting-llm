@@ -1,41 +1,31 @@
 {
   "pattern_id": 1878,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mini-suitcase-2",
-  "name": "Mini Suitcase",
-  "description": "This little suitcase can be used to hold all sorts of treasures and collections. It’s constructed with five pieces of plastic canvas, all covered with knitting before being sewn together. The finished case measures about 15 cm wide, 10 cm tall and 7 cm deep.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/camo-tube",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Components → Other",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Red Heart Super Saver Camo"
   ],
   "attributes": [
     "3-dimensional",
-    "phototutorial",
-    "seamed",
-    "slipped-stitches",
-    "textured",
-    "worked-flat"
+    "circle-shaped"
   ],
-  "full_text": "This little suitcase can be used to hold all sorts of treasures and collections. It’s constructed with five pieces of plastic canvas, all covered with knitting before being sewn together. The finished case measures about 15 cm wide, 10 cm tall and 7 cm deep. You will need one large sheet of 7 count plastic canvas and about 80g of any DK weight yarn. The only other thing you will need is a small amount of contrasting yarn for the handle and two buttons with shanks to close the case. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "A tiny tube to use as a part of a bigger piece. Click the pattern link for all the information you need.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2/threads",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2/comments",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2/yarns",
-    "https://www.ravelry.com/patterns/library/sunflower-garden",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2/editors",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/paddle-ball",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2/people",
-    "https://www.ravelry.com/patterns/library/mini-suitcase-2/report"
-  ]
+    "https://www.ravelry.com/patterns/library/camo-tube/report",
+    "https://www.ravelry.com/patterns/library/camo-tube/comments",
+    "https://www.ravelry.com/patterns/sources/camo-tube",
+    "https://www.ravelry.com/patterns/library/camo-tube/yarns",
+    "https://www.ravelry.com/patterns/library/camo-tube/people",
+    "https://www.ravelry.com/patterns/library/camo-tube/editors",
+    "https://www.ravelry.com/patterns/library/camo-tube"
+  ],
+  "name": "Ravelry: Camo Tube pattern by Morgyn Deshotel"
 }

@@ -1,46 +1,53 @@
 {
   "pattern_id": 1249,
-  "pattern_page": "https://www.ravelry.com/patterns/library/harold-fatmus",
+  "pattern_page": "https://www.ravelry.com/patterns/library/spring-veneer",
   "craft": "Knitting",
-  "category": "Softies → Animal",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "15cm high",
+  "category": "Tops → Tee",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
   "languages": [
-    "English"
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 8 other languages show hide other languages",
+    "...and 8 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "Light Fingering ?",
-    "Wee County Yarns Miniballs"
+    "Filcolana Tilia",
+    "Lace ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
+    "adult",
     "chart",
-    "fairisle",
-    "icord",
     "in-the-round",
-    "seamed",
-    "stranded",
+    "positive-ease",
+    "seamless",
+    "twined",
     "written-pattern"
   ],
-  "full_text": "Harold is a tubby little mouse with a smart fair isle jumper. Knitted with a small amount of shetland yarn in 5 colours he is made in two pieces (base and upper) and then seamed, but is easily converted into a seamless knit - you’ll just need to sew on the ears and tail. Fill him with beans for added gravitas and he’ll make a lovely door stop. Written instructions with a chart for the colourwork.",
+  "full_text": "The inspiration for this summer version of the Veneer sweater comes from @ida.noack’s delicate pastel universe. Spring Veneer is both feather-light and elegant in its simplicity. The feminine expression is accentuated by the subtle pattern that gracefully wraps around the shoulders on the yoke. The combination of lightness and soft colours makes the design timeless, while also feeling modern and relevant. When working the yoke, increases are made on each side of the marked sleeve stitches. The work is then divided for the body and sleeves, and each section is completed separately. On the front, waist shaping is worked according to the charts, and the body is finished with a ribbed edge and an Italian bind-off. The sleeves are worked in the same way according to the chart and finished like the body, with a ribbed edge and Italian bind-off.",
   "techniques": [
-    "seamed"
+    "increases"
   ],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/harold-fatmus",
-    "https://www.ravelry.com/patterns/library/harold-fatmus/people",
-    "https://www.ravelry.com/patterns/library/harold-fatmus/yarns",
-    "https://www.ravelry.com/patterns/sources/wee-county-yarns",
-    "https://www.ravelry.com/patterns/library/double-edged-shawl",
-    "https://www.ravelry.com/patterns/library/harold-fatmus/threads",
-    "https://wee-county-yarns.co.uk/free-patterns/harold-fatmus-fair-isle-mouse-2139957",
-    "https://www.ravelry.com/patterns/library/pitgober-mittens",
-    "https://www.ravelry.com/patterns/library/harold-fatmus/report",
-    "https://www.ravelry.com/patterns/library/harold-fatmus/comments",
-    "https://www.ravelry.com/patterns/library/pic-n-mix",
-    "https://www.ravelry.com/patterns/library/harold-fatmus/editors"
+    "https://www.ravelry.com/patterns/library/veneer",
+    "https://www.ravelry.com/patterns/library/chunky-baby-knit",
+    "https://www.ravelry.com/patterns/library/spring-veneer/yarns",
+    "https://www.ravelry.com/patterns/library/spring-veneer",
+    "https://www.ravelry.com/patterns/sources/playful-perspective---filcolana-ss25",
+    "https://www.ravelry.com/patterns/library/olympia-13",
+    "https://www.ravelry.com/patterns/sources/filcolana",
+    "https://www.ravelry.com/patterns/library/spring-veneer/editors",
+    "https://www.ravelry.com/patterns/library/spring-veneer/comments",
+    "https://www.ravelry.com/patterns/library/spring-veneer/report",
+    "https://www.ravelry.com/patterns/library/spring-veneer/people"
   ],
-  "name": "Ravelry: Harold Fatmus pattern by Clare Hutchinson"
+  "name": "Ravelry: Spring Veneer pattern by Rikke Eliasen"
 }

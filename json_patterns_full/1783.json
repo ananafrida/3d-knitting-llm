@@ -1,33 +1,46 @@
 {
   "pattern_id": 1783,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pseudosphere",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat",
+  "name": "Bear Ears Beanie Hat",
+  "description": "Our patterns are available for free on our blog or purchase and download the ad-free PDF file here. www.foxandpinestitches.com",
+  "designer": "Tara Marie",
   "craft": "Knitting",
-  "category": "Decorative → Other Toys and Hobbies → Other",
+  "category": "Hat → Beanie, Toque",
+  "sizes_available": "0-3 Months, 3-12 Months, 1-2 Years, 4-12 Years, Teen/Women, Men",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Aran (8 wpi) ?",
+    "Loops & Threads Impeccable Tweed"
   ],
   "attributes": [
+    "adult",
+    "baby",
+    "child",
     "in-the-round",
-    "one-piece"
+    "phototutorial",
+    "teen",
+    "toddler",
+    "written-pattern"
   ],
-  "full_text": "Scroll down slightly on the linked page to find the recipe. And, this really is a recipe rather than a pattern---you get to decide on your yarn, needles, and gauge. The number of stitches you cast on determines the circumference of the finished object.",
+  "full_text": "Our patterns are available for free on our blog or purchase and download the ad-free PDF file here. www.foxandpinestitches.com Our bear ears hat knitting pattern is perfect for making handmade gifts for your loved ones, young and old. Sizes: 0-3 Months, 3-12 Months, 1-2 Years, 3-12 Years, Teen/Women, Men. Yarn: Any worsted medium weight (#4) yarn. The yarn used in the photos is Loops & Threads Impeccable Tweed. Check out our brand new stitch stoppers in our shop! www.foxandpinestitches.com Follow Fox & Pine Stitches Instagram: @foxandpinestitches Facebook: facebook.com/foxandpinestitches Ravelry: ravelry.com/designers/tara-marie-2 Pinterest: pinterest.com/foxandpinestitches Blog: foxandpinestitches.com Pattern and photos are the property of Fox & Pine Stitches. Copying, altering or sharing the pattern and claiming it as your own is strictly prohibited. You have permission to sell items made with this pattern but credit must be given to the designer in any online listings/websites: Pattern Credit: www.foxandpinestitches.com You may not use our photos for your own listings. Tagging us on social media is greatly appreciated.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pseudosphere/threads",
-    "https://www.ravelry.com/patterns/library/pseudosphere",
-    "https://www.ravelry.com/patterns/library/pseudosphere/comments",
-    "https://www.ravelry.com/patterns/library/pseudosphere/people",
-    "https://www.ravelry.com/patterns/library/pseudosphere/editors",
-    "https://www.ravelry.com/patterns/library/pseudosphere/report",
-    "https://www.ravelry.com/patterns/library/pseudosphere/yarns",
-    "https://www.ravelry.com/patterns/library/torus",
-    "https://www.ravelry.com/patterns/library/klein-bottle",
-    "https://www.ravelry.com/patterns/sources/sarah-maries-mathematical-knitting-pages",
-    "https://www.ravelry.com/patterns/library/projective-plane"
-  ],
-  "name": "Ravelry: Pseudosphere pattern by sarah-marie belcastro"
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/editors",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/threads",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/comments",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/report",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/posts",
+    "https://www.ravelry.com/patterns/library/santa-cap-christmas-hat",
+    "https://www.foxandpinestitches.com/bear-ears-worsted-weight-hat-free-knitting-pattern/",
+    "https://www.ravelry.com/patterns/library/wooly-bear-ears-hat",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/people",
+    "https://www.ravelry.com/patterns/sources/fox--pine-stitches-website",
+    "https://www.ravelry.com/patterns/library/bear-hat-ears-toque-baby",
+    "https://www.ravelry.com/patterns/library/bear-ears-beanie-hat/yarns",
+    "https://www.ravelry.com/patterns/sources/fox--pine-stitches"
+  ]
 }

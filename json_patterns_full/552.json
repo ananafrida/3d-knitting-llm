@@ -1,41 +1,37 @@
 {
   "pattern_id": 552,
-  "pattern_page": "https://www.ravelry.com/patterns/library/abc-baby-blanket-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-cauldron",
+  "name": "tiny cauldron",
+  "description": "tiny cauldrons are good for holding shells and smooth stones. they are also perfect for cooking up a faerie stew!",
+  "designer": "tiny owl knits",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "32.25\" wide x 32\" high",
+  "category": "Containers",
+  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Knit Picks Comfy",
-    "Worsted (9 wpi) ?"
+    "Super Bulky (5-6 wpi) ?",
+    "Debbie Bliss Como"
   ],
   "attributes": [
-    "chart",
-    "rectangle",
-    "textured",
-    "worked-flat"
+    "written-pattern"
   ],
-  "full_text": "Swathed in this blanket knit with the heavenly soft Knit Picks Comfy Worsted, your little one is sure to find sweet dreams. Garter stitch borders surround 9 classic baby blocks including A, B, C, a duck, a sailboat, a heart, a star and two 4-square blocks. Easy enough for a beginner to knit, this blanket is sure to become a treasured favorite.",
+  "full_text": "tiny cauldrons are good for holding shells and smooth stones. they are also perfect for cooking up a faerie stew! ♥ free pattern ♥",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knit-picks-website",
-    "http://www.knitpicks.com/patterns/ABC_Baby_Blanket__D55656220.html",
-    "https://www.ravelry.com/patterns/library/sedona-sunset-wrap",
-    "https://www.ravelry.com/patterns/library/triangle-and-reindeer-stockings",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/threads",
-    "https://www.ravelry.com/patterns/library/harley-3",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/yarns",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/report",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/posts",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/editors",
-    "https://www.ravelry.com/patterns/periodicals/knit-picks",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/comments",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/people"
-  ],
-  "name": "Ravelry: ABC Baby Blanket pattern by Jenny Williams"
+    "https://www.ravelry.com/patterns/library/fairy-castles-for-storing-hooks--needles",
+    "https://www.ravelry.com/patterns/library/tiny-cauldron/comments",
+    "https://www.ravelry.com/patterns/library/tiny-cauldron/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-cauldron/people",
+    "https://www.ravelry.com/patterns/library/tiny-cauldron",
+    "https://www.ravelry.com/patterns/library/heartfelt-rings",
+    "https://www.ravelry.com/patterns/library/tiny-cauldron/editors",
+    "https://www.ravelry.com/patterns/sources/tiny-owl-knits",
+    "https://www.ravelry.com/patterns/library/seedpod-purse",
+    "https://www.ravelry.com/patterns/library/tiny-cauldron/posts",
+    "https://www.ravelry.com/patterns/library/tiny-cauldron/report",
+    "https://www.ravelry.com/patterns/library/tiny-cauldron/threads"
+  ]
 }

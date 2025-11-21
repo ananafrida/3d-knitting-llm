@@ -1,38 +1,45 @@
 {
   "pattern_id": 2049,
-  "pattern_page": "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on",
-  "name": "Petits Pieds - Footies with Cuff Add-on",
-  "description": "This pattern is free to use for personal or selling use! All I ask is that you please link to my pattern in your listing!",
-  "designer": "Suzanne Williams",
+  "pattern_page": "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy",
+  "name": "pokeball pokemon toy",
+  "description": "Knit your own pokeball! This stuffed toy isperfect for catching your very own pokemon.",
+  "designer": "Emma Whittle",
   "craft": "Knitting",
-  "category": "Components → Other",
+  "category": "Ball",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "DK (11 wpi) ?",
+    "Hayfield Bonus DK"
   ],
   "attributes": [
-    "baby",
-    "in-the-round",
-    "seamless",
-    "top-cuff-down",
-    "top-down"
+    "3-dimensional",
+    "amigurumi",
+    "modular",
+    "phototutorial",
+    "seamed",
+    "sphere-shaped",
+    "stranded",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This pattern is free to use for personal or selling use! All I ask is that you please link to my pattern in your listing! The Petits Pieds (Little Feet) pattern is an add-on pattern for your favorite longies, overa«lls or romper patterns! This pattern does NOT contain instructions to knit longies. You can add Petits Pieds to your longies before adding the leg cuff, or add them after…your choice!! This is a pattern/tutorial for converting your favorite longies pattern into footies (longies with attached feet/socks)! These Petits Pieds also have a cuff, so they will look like longies with socks underneath, but these socks won’t get kicked off! You can also use this pattern for basic socks for your little one. Size: NB (Up to 1 yr., 1-2 yrs., 2-3 yrs.) Finished length of sock from the back of the heel to the toe: 3” (4”, 5”, 6”) Visit my Ravelry group for updates: http://www.ravelry.com/groups/la-petite-krott",
+  "full_text": "Knit your own pokeball! This stuffed toy isperfect for catching your very own pokemon. This is a quick and easy to follow knitting pattern suitable for beginners. Everything is knitted flat and sewn together. All you will need is small amounts of DK yarn, US size 6 needles (4mm needles) scissors and a yarn needle. After purchase you will be sent a link to download the pattern and you will have your very own pokeball in no time. Copyright laws apply.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/yarns",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/people",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/editors",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/comments",
-    "https://www.ravelry.com/patterns/library/for-the-boys-or-girls-cardigan",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/threads",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on",
-    "https://www.ravelry.com/patterns/library/petits-pieds---footies-with-cuff-add-on/report",
-    "https://www.ravelry.com/patterns/sources/lapetitekrottcreations",
-    "https://www.ravelry.com/patterns/library/petit-garcon-little-boy-2-in-1-romper-cardigan",
-    "https://www.ravelry.com/patterns/library/the-ribbie"
+    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/yarns",
+    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/report",
+    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/editors",
+    "https://www.ravelry.com/patterns/library/pikachu-pokemon-soft-toy-amigurumi",
+    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/comments",
+    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/people",
+    "https://www.ravelry.com/patterns/sources/littlewhitsknits",
+    "https://www.ravelry.com/patterns/library/gyarados-pokemon-toy-plushie",
+    "https://www.ravelry.com/patterns/library/charmander-pokemon-amigurumi-2",
+    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/threads",
+    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy",
+    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/posts"
   ]
 }

@@ -1,36 +1,46 @@
 {
   "pattern_id": 1310,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-teabag",
-  "name": "Knitted Teabag",
-  "description": "A little teabag knitted in dk on 3mm needles but any yarn or needle size can be used to make smaller/bigger tea bags",
-  "designer": "Jenny Church",
+  "pattern_page": "https://www.ravelry.com/patterns/library/easy-street-tee",
+  "name": "Easy Street Tee",
+  "description": "You can find the free pattern here -",
+  "designer": "Rachel Alford",
   "craft": "Knitting",
-  "category": "Softies → Other",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Tops → Tee",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "XS (S, M, L, XL, 2X, 3X, 4X, 5X)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Lion Brand Cotton Hemp",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "textured"
+    "fitted",
+    "one-piece",
+    "other-edging",
+    "positive-ease",
+    "raglan-sleeve",
+    "ribbed",
+    "top-down",
+    "written-pattern"
   ],
-  "full_text": "A little teabag knitted in dk on 3mm needles but any yarn or needle size can be used to make smaller/bigger tea bags",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "You can find the free pattern here - https://cozynooksdesigns.com/EasyStreetTee/ * You can find the Lion Brand Yarn kit here - lionbrand.sjv.io/LKEkGV The Easy Street Tee is a breathable summer knit perfect for staying cool in warmer weather. Its top-down raglan construction lets you try it on as you go for a custom fit, and the twisted rib edging adds a crisp, polished finish. With a just-right neckline—not too wide, low, or tight—this tee is easy to dress up or down and wear through multiple seasons. 9 sizes are included in the design. Considered Easy level. PATTERN INCLUDES - Instant download PDF file Professionally Tech-Edited Pattern Gauge Level - BEGINNER MATERIALS - 540 (620, 710, 790, 870, 970, 1060, 1160, 1190) yds/ 4 (4, 5, 5, 6, 6, 7, 7, 8) balls) weight 4 Cotton Hemp yarn in the color “Cherry” US 7/4.5 mm circular knitting needles (24”) US 7/4.5 mm circular knitting needles (36”) US 6/4.0 mm circular knitting needles (24”) US 6/4.0 mm circular knitting needles (36”) Stitch Holders or Waste Yarn Stitch Markers Scissors Tapestry Needle 9 sizes: Xsmall, Small, Medium, Large, X-Large, 2X, 3X, 4X, and 5X. This pattern has been professionally tech-edited. To see more pictures and videos, see here – https://cozynooksdesigns.com/EasyStreetTee You can purchase the Lion Brand Yarn kit (pattern and yarn colors of you choice) here - lionbrand.sjv.io/LKEkGV If you buy 2 patterns - Use code 2PATTERNS for 10% off If you buy 3 patterns - Use code 3PATTERNS for 15% off If you buy 4 patterns - Use code 4PATTERNS for 20% off",
+  "techniques": [
+    "top-down"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/marshmallows-4",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/report",
-    "https://www.ravelry.com/patterns/sources/jenny-churchs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-teabag",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/comments",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/threads",
-    "https://www.ravelry.com/patterns/library/knitted-sushi",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/people",
-    "https://www.ravelry.com/patterns/library/pumpkin-spice-latte-10",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/editors"
+    "https://www.ravelry.com/patterns/sources/cozy-nooks-designs-website",
+    "https://www.ravelry.com/patterns/library/easy-street-tee",
+    "https://www.ravelry.com/patterns/library/taylors-version-pillow",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/comments",
+    "https://www.ravelry.com/patterns/library/taylors-version-pillow-knit",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/report",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/yarns",
+    "https://www.ravelry.com/patterns/sources/cozy-nooks-designs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/people",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/editors",
+    "https://www.ravelry.com/patterns/library/triple-cord-cardi"
   ]
 }

@@ -1,41 +1,55 @@
 {
   "pattern_id": 1275,
-  "pattern_page": "https://www.ravelry.com/patterns/library/finnegan-easy-knit-fox",
+  "pattern_page": "https://www.ravelry.com/patterns/library/summer-sweater-14",
+  "name": "Summer Sweater",
+  "description": "It all started with the Year of",
+  "designer": "Courtney Kelley",
   "craft": "Knitting",
-  "category": "Softies → Animal",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
-  "sizes_available": "One Size",
+  "category": "Tops → Tee",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "38.25 (42.25, 46, 50, 54.25, 58.5, 62.75. 66)” [97 (107.5, 117, 127, 138, 148.5, 159.5, 167.5) cm] finished bust.",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Thick & Quick",
-    "Super Bulky (5-6 wpi) ?"
+    "DK (11 wpi) ?",
+    "Kelbourne Woolens Mojave"
   ],
   "attributes": [
-    "bottom-up",
+    "adult",
     "in-the-round",
-    "phototutorial",
-    "seamed",
-    "worked-flat",
+    "lace",
+    "one-piece",
+    "positive-ease",
+    "raglan-sleeve",
+    "schematic",
+    "seamless",
+    "short-sleeve",
+    "teen",
+    "top-down",
+    "v-neck",
     "written-pattern"
   ],
-  "full_text": "The pattern is free to view in it’s entirety on the blog through the link here on Ravelry, which is supported by ads. There is also an ad-free, printable version available for purchase on Etsy HERE. Enjoy! This cozy fox is absolutely adorable and so easy to knit! He is perfect for beginner knitters as he is knit flat. He works up incredibly quickly, and before long, you will be addicted to making lots of cute fox friends with different sweaters. The size is lovely to make for little ones (and also for us adults who will always be kids)! Grab your super bulky yarn and have fun! Materials: Super Bulky #6 yarn in orange, cream, and mustard or chosen color for the sweater suit The pictured fox is made with Lion Brand Wool Ease Thick & Quick and the specific colors are listed in the pattern Optional small amount of worsted weight yarn for scarf US Size 10.5 (6 mm) knitting needles Black safety eyes or black yarn for eyes Charcoal or black worsted weight yarn for nose (Lion Brand Wool Ease worsted) Fiber fill for stuffing (5-10 oz) Scissors Tapestry needle to seam and weave in ends Measuring Tape Finished Size (approximate): 5” x 10” tall Gauge: Not important for this pattern Have fun!",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/finnegan-easy-knit-fox/yarns",
-    "https://www.ravelry.com/patterns/library/billowy-quilted-throw-blanket",
-    "https://www.ravelry.com/patterns/library/finnegan-easy-knit-fox/comments",
-    "https://www.ravelry.com/patterns/library/finnegan-easy-knit-fox",
-    "https://www.mamainastitch.com/easy-fox-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/poppy-the-chicken",
-    "https://www.ravelry.com/patterns/sources/mama-in-a-stitch-website",
-    "https://www.ravelry.com/patterns/library/finnegan-easy-knit-fox/people",
-    "https://www.ravelry.com/patterns/library/finnegan-easy-knit-fox/report",
-    "https://www.ravelry.com/patterns/library/rocky-mountain-sampler-blanket",
-    "https://www.etsy.com/listing/1824937921/easy-fox-knitting-pattern-finnegan-the",
-    "https://www.ravelry.com/patterns/library/finnegan-easy-knit-fox/editors"
+  "full_text": "It all started with the Year of Mittens back in 2016, then came the Year of Hats, followed by Gifts, and last year’s Bulky Hats. Now in honor of our 15th Anniversary, we’re sharing a Season of Sweaters. The Season of Sweaters features four free patterns perfect for the changing of the seasons. Patterns are designed by Kate and Courtney and will be published on the first Friday of spring, summer, fall, and winter and feature four Kelbourne Woolens yarns . How about a kit? Grab it from us here or ask for one at your favorite LYS! Worthy of Note The Summer Sweater is worked from the top down and features modified raglan shaping based on Elizabeth Zimmermann’s Hurry-Up Last Minute Sweater (also called the December Sweater), from her book Knitter’s Almanac. The raglan increases are worked every round, using yarnover increases on odd-numbered rounds, followed by either (p1, k1) or (k1, p1) in each yarnover on the following even-numbered round. After working the neck ribbing, the set-up round marks a single stitch at both center front and center back, and the remaining stitches are reserved for the sleeves. The raglan increases are worked at each end of the front and back sections every round, inside the markers. After completing the yoke, the lower body is worked in the round down to the lower edge which is finished with k2, p2 ribbing. The held stitches of the sleeve openings are finished with k2, p2 ribbing in the round. Specifications YARN Kelbourne Woolens Mojave (60% cotton, 40% linen; 185 yds/50 gm skein): smoke gray 046; 4 (4, 4, 5, 5, 6, 6, 7) skeins. GAUGE 23.5 sts + 33 rows = 4” (10 cm) in Stockinette Stitch on larger ndls, after blocking. NEEDLES 1 – US 3 (3.25 mm) 16” (40 cm) circular. 1 – US 3 (3.25 mm) 24” (60 cm) circular. 1 – US 5 (3.75 mm) 24” (60 cm) circular. Take time to check your gauge and adjust needle size(s) accordingly if necessary. NOTIONS Tapestry needle, stitch holders or waste yarn, stitch marker. SIZE 38.25 (42.25, 46, 50, 54.25, 58.5, 62.75. 66)” 97 (107.5, 117, 127, 138, 148.5, 159.5, 167.5) cm finished bust. This project is designed to be worn with 4–8” (10–20 cm) of positive ease. Please see schematic for more detailed finished measurements. SKILLS Working in the round, picking up stitches, simple yarn over patterning. Images Linette Messina Kielinski",
+  "techniques": [
+    "increases",
+    "worked in the round"
   ],
-  "name": "Ravelry: Finnegan Easy Knit Fox pattern by Jessica Reeves Potasz"
+  "shape": "sphere",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/editors",
+    "https://www.ravelry.com/patterns/library/july-hat",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/comments",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/threads",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/yarns",
+    "https://www.ravelry.com/patterns/sources/season-of-sweaters",
+    "https://www.ravelry.com/patterns/sources/year-of-sweaters",
+    "https://www.ravelry.com/patterns/library/april-hat-7",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/report",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14/people",
+    "https://www.ravelry.com/patterns/library/wister-hat",
+    "https://kelbournewoolens.com/product/summer-sweater-pattern/",
+    "https://www.ravelry.com/patterns/library/summer-sweater-14",
+    "https://www.ravelry.com/patterns/library/hurry-up-last-minute-sweater-december"
+  ]
 }

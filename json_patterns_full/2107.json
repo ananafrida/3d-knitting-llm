@@ -1,40 +1,52 @@
 {
   "pattern_id": 2107,
-  "pattern_page": "https://www.ravelry.com/patterns/library/losy-hat",
-  "name": "LOSY Hat",
-  "description": "LOSY stands for left over sock yarn I know everyone has. This is a quick simple project that uses leftovers for a great hat. Use two strands at a time and when you finish one ball, simply replace it with another. Keep changing yarns as you work up the hat. Pretty soon your scrap sock yarn is used up and you can justify purchasing new sock yarn!",
-  "designer": "Barb Engelking",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lil-tux-for-baby",
   "craft": "Knitting",
-  "category": "Hat → Beanie, Toque",
+  "category": "Coat / Jacket",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Adult",
+  "sizes_available": "Baby sizes 1, 2 and 3",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "yarn held together"
+    "Red Heart Super Saver (solids)",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "in-the-round",
-    "reversible",
-    "ribbed",
-    "unisex"
+    "Intarsia",
+    "baby",
+    "bottom-up",
+    "buttonholes",
+    "long-sleeve",
+    "male",
+    "positive-ease",
+    "seamed",
+    "set-in-sleeve",
+    "single-breasted",
+    "sleeves",
+    "toddler",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "LOSY stands for left over sock yarn I know everyone has. This is a quick simple project that uses leftovers for a great hat. Use two strands at a time and when you finish one ball, simply replace it with another. Keep changing yarns as you work up the hat. Pretty soon your scrap sock yarn is used up and you can justify purchasing new sock yarn!",
+  "full_text": "Note: There are actually two different patterns for the baby tux. The one on my website (jaslamb.weebly.com) is the original pattern. It has set-in sleeves. The Knit and Crochet Now! version can be found here: https://www.anniescatalog.com/knitandcrochetnow/patterns/... When Crochet Now contacted me, I revised the pattern so that it was box-shaped and was thus easier to sew on the sleeves. I also resized it a little to fit better, and made some other minor fixes -- one of those is the stripe around the collar to represent the bowtie strap. So, when you are downloading the pattern, be aware of the differences so you won’t be wondering why it turned out different than the picture. Materials - Red Heart 4-oz. Worsted Weight Yarn: 2 skeins black, and 1 skein white Five white 5/8” buttons, and two black 5/8” buttons. No gauge given. Former link: http://geocities.com/jaslamb/tuxedo.htm",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/losy-hat/posts",
-    "https://www.ravelry.com/patterns/library/losy-hat/edit",
-    "https://www.ravelry.com/patterns/library/losy-hat/comments",
-    "https://www.ravelry.com/patterns/library/losy-hat/report",
-    "https://www.ravelry.com/patterns/sources/fabric-works",
-    "https://www.ravelry.com/patterns/library/losy-hat/threads",
-    "https://www.ravelry.com/patterns/library/losy-hat/people",
-    "https://www.ravelry.com/patterns/library/losy-hat/yarns",
-    "https://www.ravelry.com/patterns/library/losy-hat/editors",
-    "https://www.ravelry.com/patterns/library/losy-hat"
-  ]
+    "https://www.ravelry.com/patterns/library/lil-tux-for-baby/report",
+    "https://www.ravelry.com/patterns/library/off-kilter-scarf",
+    "https://www.ravelry.com/patterns/library/blue-berry-basket-tee",
+    "https://www.ravelry.com/patterns/library/sailor-dress-4",
+    "https://www.ravelry.com/patterns/sources/judys-knitting-page",
+    "https://www.ravelry.com/patterns/library/lil-tux-for-baby/threads",
+    "https://www.ravelry.com/patterns/library/lil-tux-for-baby/posts",
+    "https://www.anniescatalog.com/knitandcrochetnow/patterns/detail.html?pattern_id=114&series=2",
+    "https://www.ravelry.com/patterns/library/lil-tux-for-baby/yarns",
+    "https://www.ravelry.com/patterns/library/lil-tux-for-baby/comments",
+    "https://www.ravelry.com/patterns/sources/knit-and-crochet-now-tv-season-2-episode-201-baby-sweaters",
+    "https://www.ravelry.com/patterns/sources/knit-and-crochet-now-tv-website",
+    "https://www.ravelry.com/patterns/library/lil-tux-for-baby",
+    "https://www.ravelry.com/patterns/library/lil-tux-for-baby/editors",
+    "https://www.ravelry.com/patterns/library/lil-tux-for-baby/people"
+  ],
+  "name": "Ravelry: Li'l Tux for Baby pattern by Judy Lamb"
 }

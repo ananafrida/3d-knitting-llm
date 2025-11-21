@@ -1,40 +1,39 @@
 {
   "pattern_id": 259,
-  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-chook",
-  "name": "Tiny Chook",
-  "description": "This tiny chicken can be used as an ornament or pet toy. The base is knitted back and forth, then stitches are picked up around the base and joined in the round.",
-  "designer": "Eva McDonald",
+  "pattern_page": "https://www.ravelry.com/patterns/library/advent-knitalong-2025",
+  "name": "Advent Knitalong 2025",
+  "description": "Victoria Methodist Church, Bristol are excited to be hosting another Advent Mystery Knitalong this year!",
+  "designer": "Lyn Lloyd-Jones",
   "craft": "Knitting",
-  "category": "Pet → Toys",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "icord",
-    "in-the-round",
-    "seamless",
-    "worked-flat"
+    "eyelets",
+    "lace",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This tiny chicken can be used as an ornament or pet toy. The base is knitted back and forth, then stitches are picked up around the base and joined in the round. I used worsted weight with 4.25 mm needles for a 3.5” toy, but any weight yarn can be used as long as you go down a needle size to ensure that the fabric is dense so the stuffing does not show through. ERRATA On the “BODY” after row 19, where is says to “Cast off”, you don’t really have to cast off. I added that instruction because I couldn’t think of an elegant way to explain that after you pick up stitches around the base, you should have 36 stitches in total. Whether you cast off or not, it shouldn’t make a difference in the FO, but I realize that casting off stitches simply to pick up those exact same stitches again is annoying, hence this explanation.",
-  "techniques": [
-    "pick up stitches"
-  ],
-  "shape": "sphere",
+  "full_text": "Victoria Methodist Church, Bristol are excited to be hosting another Advent Mystery Knitalong this year! Over the course of Advent participants are invited to knit a little neck scarf, which can be worn or given as a present on Christmas Day. The Knitalong will follow the format of previous Advent Knitalongs: the pattern will be laid out across 24 days (1st - 24th December) and will be accompanied by reflections, kindly written for us this year by Vicky Davies. The scarf can be knitted in a variety of yarn weights and will require the following yardage/needle sizes: Knitters can use 4ply/fingering or Sport weight yarn, and will need approximately 40 - 45 grams of yarn and 3.75 mm needles. Alternatively, knitters can use DK weight yarn, in which case approximately 50 - 55 grams of yarn and 4 mm needles are needed. There is the option to lengthen the scarf if you wish, (details given in the pattern) but this will require more yarn! As the pattern is made up from lace stitches, a solid-coloured yarn is recommended. More details of how the knitalong will run are in the Welcome letter downloadable directly from here on Ravelry; the actual pattern and reflections will be released on Wednesday 26th November. As always, this is a big team effort; enormous thanks go to Vicky for writing the reflections, to Helen for doing all the formatting/techy bits and to our lovely team of test knitters: Amanda, Anne, Grace, Heather, Judith, Katrin, Mary and Mel xxx (Can’t wait until the 1st December to start knitting?! I’m running a promotion on my paid Christmas patterns: 30% off the Christmas Wonderland Shawl, Festive Lights dishcloth and Christmas Eve Knitted Square; see each pattern for details! Lyn xx)",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tiny-chook/people",
-    "https://www.ravelry.com/patterns/library/tiny-chook",
-    "https://www.ravelry.com/patterns/library/tiny-chook/comments",
-    "https://www.ravelry.com/patterns/library/cupcake-2",
-    "https://www.ravelry.com/patterns/library/alien-facehugger-bag-charm",
-    "https://www.ravelry.com/patterns/sources/eva-mcdonalds-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tiny-chook/editors",
-    "https://www.ravelry.com/patterns/library/beginner-baby-yoda",
-    "https://www.ravelry.com/patterns/library/tiny-chook/yarns",
-    "https://www.ravelry.com/patterns/library/tiny-chook/threads",
-    "https://www.ravelry.com/patterns/library/tiny-chook/report"
+    "https://www.ravelry.com/patterns/library/advent-knitalong-2025/people",
+    "https://www.ravelry.com/patterns/library/advent-knitalong-2025",
+    "https://www.ravelry.com/patterns/library/draped-in-diamonds",
+    "https://www.ravelry.com/patterns/library/advent-knitalong-2025/report",
+    "https://www.ravelry.com/patterns/library/advent-knitalong-2025/threads",
+    "https://www.ravelry.com/patterns/library/wildflower-meadow-wrap",
+    "https://www.ravelry.com/patterns/library/easter-cross-dishcloth",
+    "https://www.ravelry.com/patterns/library/advent-knitalong-2025/yarns",
+    "https://www.ravelry.com/patterns/library/advent-knitalong-2025/comments",
+    "https://www.ravelry.com/patterns/library/advent-knitalong-2025/editors",
+    "https://www.ravelry.com/patterns/sources/lyn-lloyd-jones-ravelry-store"
   ]
 }

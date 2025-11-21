@@ -1,43 +1,44 @@
 {
   "pattern_id": 1879,
-  "pattern_page": "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2",
-  "name": "Large Shallow Felted Bowl",
-  "description": "From the pattern: “One skein of Noro Kureyon or another worsted-weight yarn…I would recommend knitting the bowl with two strands held together if you want to put anything heavier or bigger than coins or jewelry in it. For instance, I need a bowl knit with two strands to keep my reading glasses in.”",
-  "designer": "Deborah Gray",
+  "pattern_page": "https://www.ravelry.com/patterns/library/two-step-breast-shaping",
+  "name": "Two step breast shaping",
+  "description": "Not a full pattern, rather the recipe and inspiration for working an usual breast shaping to better fit no ease or negative ease tops. The recipe is calculated based on the EPS, but it can be modified to fit seamed garmens. No attempt at making it into a top-down solution, though.",
+  "designer": "Alice Twain",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "category": "Components → Other",
+  "sizes_available": "All sizes",
   "languages": [
-    "English"
+    "English",
+    "Italian"
   ],
   "suggested_yarn": [
-    "Noro Kureyon（くれよん）",
-    "yarn held together"
+    ""
   ],
   "attributes": [
-    "circle-shaped",
-    "felted",
+    "adult",
+    "bottom-up",
+    "female",
     "in-the-round",
-    "one-piece",
-    "unisex",
-    "written-pattern"
+    "pattern-recipe",
+    "seamless",
+    "short-rows"
   ],
-  "full_text": "From the pattern: “One skein of Noro Kureyon or another worsted-weight yarn…I would recommend knitting the bowl with two strands held together if you want to put anything heavier or bigger than coins or jewelry in it. For instance, I need a bowl knit with two strands to keep my reading glasses in.”",
-  "techniques": [],
+  "full_text": "Not a full pattern, rather the recipe and inspiration for working an usual breast shaping to better fit no ease or negative ease tops. The recipe is calculated based on the EPS, but it can be modified to fit seamed garmens. No attempt at making it into a top-down solution, though.",
+  "techniques": [
+    "seamed",
+    "top-down"
+  ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/threads",
-    "http://www.deborahgray.org/2006/11/25/knitted-felted-bowl-pattern/",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/people",
-    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-bottom-welt",
-    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-smaller-opening",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/report",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/posts",
-    "https://www.ravelry.com/patterns/sources/deborah-does-navel-gazing",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/yarns",
-    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/editors",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2/comments"
+    "https://www.ravelry.com/patterns/sources/alice-twain",
+    "https://www.ravelry.com/patterns/library/two-step-breast-shaping",
+    "https://www.ravelry.com/patterns/library/two-step-breast-shaping/editors",
+    "https://www.ravelry.com/patterns/library/scaldamani-quasi-reversibili",
+    "https://www.ravelry.com/patterns/library/smallest-oceans",
+    "https://www.ravelry.com/patterns/library/collo-con-tre-opzioni-di-motivo",
+    "https://www.ravelry.com/patterns/library/two-step-breast-shaping/people",
+    "https://www.ravelry.com/patterns/library/two-step-breast-shaping/comments",
+    "https://www.ravelry.com/patterns/library/two-step-breast-shaping/yarns",
+    "https://www.ravelry.com/patterns/library/two-step-breast-shaping/report"
   ]
 }

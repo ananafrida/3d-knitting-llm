@@ -1,41 +1,43 @@
 {
   "pattern_id": 83,
-  "pattern_page": "https://www.ravelry.com/patterns/library/easter-cross-square",
-  "name": "Easter Cross Square",
-  "description": "The pattern offers two options for this knitted square. The first produces a cross in stockinette stitch with a seed stitch background. The second version substitutes garter stitch for the seed stitch background. Instructions for seed stitch are included.",
-  "designer": "Linda N",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "6 inch",
+  "category": "Costume",
+  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Red Heart Super Saver (solids)",
+    "worsted weight wool",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "one-piece",
-    "square",
-    "textured",
-    "worked-flat",
+    "adult",
+    "bottom-up",
+    "elastic",
+    "positive-ease",
+    "teen",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "The pattern offers two options for this knitted square. The first produces a cross in stockinette stitch with a seed stitch background. The second version substitutes garter stitch for the seed stitch background. Instructions for seed stitch are included. This pattern can be made in any worsted weight yarn, but needle size may need to be increased for finer worsteds, such as Caron Simply Soft. Thank you to my testers Carleta3021, JMJones, and 1000Hallelujahs.",
+  "full_text": "This pattern was designed as a part of a crusader costume, to be used in a local theatre production. It is sized for adults but I think it could be downsized by changing needles and using a finer weight wool.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cross-walk-square",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/report",
-    "https://www.ravelry.com/patterns/library/daffodowndillies-square",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/editors",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/people",
-    "https://www.ravelry.com/patterns/library/cross-purposes-6-inch-square",
-    "https://www.ravelry.com/patterns/library/easter-cross-square",
-    "https://www.ravelry.com/patterns/sources/linda-ns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/threads",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/yarns",
-    "https://www.ravelry.com/patterns/library/easter-cross-square/comments"
-  ]
+    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/people",
+    "http://knitsnthings.wordpress.com/2009/06/17/the-pattern/",
+    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/threads",
+    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/comments",
+    "https://www.ravelry.com/patterns/sources/knitsnthings",
+    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern",
+    "https://www.ravelry.com/patterns/library/cable-and-lace-socks",
+    "https://www.ravelry.com/patterns/library/candy-stripe-socks",
+    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/report",
+    "https://www.ravelry.com/patterns/library/childs-lace-socks",
+    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/editors",
+    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/yarns",
+    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/posts"
+  ],
+  "name": "Ravelry: Knitted Chain Maille Helmet Pattern pattern by Lisa Gubbels"
 }

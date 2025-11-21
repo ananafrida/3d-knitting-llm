@@ -1,48 +1,36 @@
 {
   "pattern_id": 1360,
-  "pattern_page": "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb",
-  "name": "Stuffed Knit F-Bomb",
-  "description": "free pattern on Marly Bird Website, but the ad-free pdf is available for purchase",
-  "designer": "Marly Bird",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-teabag",
+  "name": "Knitted Teabag",
+  "description": "A little teabag knitted in dk on 3mm needles but any yarn or needle size can be used to make smaller/bigger tea bags",
+  "designer": "Jenny Church",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "One Size",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Knit Picks Swish Worsted",
-    "Worsted (9 wpi) ?"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "chart",
-    "icord",
-    "in-the-round",
-    "mature",
-    "one-piece",
-    "other-colorwork",
-    "phototutorial",
-    "seamless",
-    "sphere-shaped",
-    "written-pattern"
+    "textured"
   ],
-  "full_text": "free pattern on Marly Bird Website, but the ad-free pdf is available for purchase If you’re looking for a fun, unique gift for the foul-mouthed person in your life, then look no further than the Stuffed Knit F-Bomb Toy by Marly Bird! This comical toy is perfect for anyone who loves to drop a few expletives every now and then. Stuffed Knit F-Bomb Designed by Marly Bird SKILL LEVEL Adventurous Beginner MEASUREMENTS Finished Measurements 4.5” 11.43 cm tall from base to top (not including i-cord). 10.5” 26.67 circumference. Gauge 21 sts = 4” 10 cm in Stockinette stitch pattern in the round. MATERIALS Yarn WeCrochet/KnitPicks, Swish worsted (100% Fine Superwash Merino Wool, 110 yds, 50 g CYCA #4 worsted). 1 ball: Loam Heather #28648 — color A 10 g: White #24662 — color B 2 g: Honey #26066 — color C 2 g: Serrano #24663 — color D 5 g: Throne #28662 — color E Needle U.S. 5 3.75 mm set of 5 double pointed needles, or size required for gauge. free pattern on Marly Bird Website, but the ad-free pdf is available for purchase",
+  "full_text": "A little teabag knitted in dk on 3mm needles but any yarn or needle size can be used to make smaller/bigger tea bags",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/threads",
-    "https://www.ravelry.com/patterns/library/rattle-the-stars-christmas-stocking",
-    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb",
-    "https://www.ravelry.com/patterns/sources/marly-birds-website",
-    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/people",
-    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/yarns",
-    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/report",
-    "https://www.ravelry.com/patterns/library/game-day-2021-knitting",
-    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/comments",
-    "https://www.ravelry.com/patterns/sources/marly-birds-ravelry-store",
-    "https://www.ravelry.com/patterns/library/anne-slip-stitch-mosaic-shawl",
-    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/editors"
+    "https://www.ravelry.com/patterns/library/knitted-teabag/editors",
+    "https://www.ravelry.com/patterns/library/knitted-teabag/comments",
+    "https://www.ravelry.com/patterns/library/marshmallows-4",
+    "https://www.ravelry.com/patterns/library/knitted-teabag/threads",
+    "https://www.ravelry.com/patterns/library/pumpkin-spice-latte-10",
+    "https://www.ravelry.com/patterns/library/knitted-teabag",
+    "https://www.ravelry.com/patterns/library/knitted-teabag/yarns",
+    "https://www.ravelry.com/patterns/library/knitted-teabag/people",
+    "https://www.ravelry.com/patterns/sources/jenny-churchs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/knitted-teabag/report",
+    "https://www.ravelry.com/patterns/library/little-knitted-coffee"
   ]
 }

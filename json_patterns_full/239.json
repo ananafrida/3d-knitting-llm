@@ -1,50 +1,36 @@
 {
   "pattern_id": 239,
-  "pattern_page": "https://www.ravelry.com/patterns/library/via-diagonale",
+  "pattern_page": "https://www.ravelry.com/patterns/library/stockinette-bandana",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "one size",
+  "category": "Neck / Torso → Scarf",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Grignasco Mexico"
+    "Any gauge - designed for any gauge ?",
+    "Blue Sky Fibers Techno"
   ],
   "attributes": [
-    "adult",
-    "icord",
-    "icord-edging",
-    "in-the-round",
-    "lined",
-    "mosaic",
-    "rectangle",
+    "captioned-video",
     "seamless",
-    "slipped-stitches",
-    "teen",
-    "textured",
-    "three-needle-bind",
-    "top-down",
-    "written-pattern"
+    "sideways",
+    "video-tutorial",
+    "worked-flat"
   ],
-  "full_text": "From Knitty.com: This bag is roomy enough for the necessities and then some. I’ve left the structure rather simple,the shaping coming from the gusset and lining support. I highly suggest lining the bag simply to prolong the life of your knitting (well, that and the added structure and support the lining gives). Applied i-cord edging and i-cord handles give it a finished look. The slip stitch pattern is from Le Dictionnaire Harmony des Points de Tricot Volume III. The textured slip stitch pattern and contrasting colors make for one eye-catching bag. The pattern works beautifully using a solid and variegated yarn combination as well! A Note on Yarn Substitution: If Grignasco Mexico is not available, try Kertzer’s Butterfly Super 10 mercerized cotton or Elann Endless Summer Collection Sonata.",
+  "full_text": "This is a beginner friendly, solid knit bandana using the stockinette stitch. I designed this pattern to be knit sideways because the stockinette stitch allows for the ties to be stretchier. It’s very easy to adapt the sizes for this bandana to customize it to be exactly how you want it, or the amount of yarn you are using. There is no gauge listed because it is intended to be knit with different yarn weights/needle sizes. When choosing your needle size I would suggest going with the larger needle appropriate for the yarn weight because it allows for it to lay with more drape. Both of the versions I knit used 100g of yarn. The pattern will be available on YouTube Saturday, March 22nd.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/via-diagonale/yarns",
-    "https://www.ravelry.com/patterns/library/via-diagonale/editors",
-    "https://www.ravelry.com/patterns/library/via-diagonale/people",
-    "https://www.ravelry.com/patterns/library/via-diagonale/report",
-    "https://www.ravelry.com/patterns/library/via-diagonale",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/roxy-lady",
-    "https://www.ravelry.com/patterns/library/via-diagonale/comments",
-    "https://www.ravelry.com/patterns/library/via-diagonale/threads",
-    "https://www.ravelry.com/patterns/sources/knitty-spring-2005",
-    "https://www.ravelry.com/patterns/library/ella",
-    "https://www.ravelry.com/patterns/library/via-diagonale/posts",
-    "https://www.ravelry.com/patterns/library/gioia"
+    "https://www.ravelry.com/patterns/sources/brookwillow-knit-on-youtube",
+    "https://www.ravelry.com/patterns/library/stockinette-bandana/report",
+    "https://www.ravelry.com/patterns/library/stockinette-bandana/people",
+    "https://www.ravelry.com/patterns/library/stockinette-bandana/editors",
+    "https://www.ravelry.com/patterns/library/the-brioche-knit-headband",
+    "https://www.ravelry.com/patterns/library/the-gravel-beanie",
+    "https://www.ravelry.com/patterns/library/the-glacier-scarf-2",
+    "https://www.ravelry.com/patterns/library/stockinette-bandana/yarns",
+    "https://www.ravelry.com/patterns/library/stockinette-bandana/comments",
+    "https://www.ravelry.com/patterns/library/stockinette-bandana"
   ],
-  "name": "Ravelry: Via Diagonale pattern by Wendy Wonnacott"
+  "name": "Ravelry: Stockinette Bandana pattern by Ahna Bartlett"
 }

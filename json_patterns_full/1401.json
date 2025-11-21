@@ -1,37 +1,42 @@
 {
   "pattern_id": 1401,
-  "pattern_page": "https://www.ravelry.com/patterns/library/shrooms-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/balloon-dog-11",
+  "name": "Balloon Dog",
+  "description": "I’ve been seeing a bunch of patterns for crochet balloon dogs lately and they seem fun, so I wanted to make a knit version.",
+  "designer": "Kun Yin Knits",
   "craft": "Knitting",
   "category": "Softies → Other",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Any gauge - designed for any gauge ?"
+    "Bernat Blanket",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "amigurumi",
+    "icord",
     "in-the-round",
     "one-piece",
-    "top-down",
+    "phototutorial",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "Cute little mushrooms. I designed this pattern because, while there are some great patterns out there, I wanted one that didn’t require sewing the cap to the stem and could be knitted in its entirety. Yarn type and gauge do not matter. go crazy! Materials: set of 4 double-pointed needles 2 colors of yarn fiber fill tapestry needle",
+  "full_text": "I’ve been seeing a bunch of patterns for crochet balloon dogs lately and they seem fun, so I wanted to make a knit version. I used 2.5 skeins of super bulky chenille yarn that didn’t have a brand, or even a label. They were about 2.8-3.5 oz (80-100 g) and 44-50 yd (40-45 m) each skein. Any kind of yarn would work with this pattern, but note that a different gauge will affect the final size. Use needles a few sizes smaller than recommended so the stuffing doesn’t show. You will also need about 1.5-3.5 oz (42-100 g) of fiber fill depending on the size. You may make and sell products from my pattern but please credit me and/or link back to my post and use your own photos. Have fun with it!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.dropbox.com/s/b344jwmd4p4goru/knittedmushrooms.pdf?dl=0",
-    "https://www.ravelry.com/patterns/library/shrooms-2",
-    "https://www.ravelry.com/patterns/library/shrooms-2/people",
-    "https://www.ravelry.com/patterns/library/shrooms-2/comments",
-    "https://www.ravelry.com/patterns/library/shrooms-2/report",
-    "https://www.ravelry.com/patterns/library/shrooms-2/yarns",
-    "https://www.ravelry.com/patterns/library/shrooms-2/posts",
-    "https://www.ravelry.com/patterns/library/shrooms-2/editors",
-    "https://www.ravelry.com/patterns/library/shrooms-2/threads",
-    "https://www.ravelry.com/patterns/sources/ak-dropbox-patterns"
-  ],
-  "name": "Ravelry: 'Shrooms pattern by AK"
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/editors",
+    "https://kunyinknits.wordpress.com/2023/05/31/balloon-dog-knitting-pattern/",
+    "https://www.ravelry.com/patterns/sources/kun-yin-knits",
+    "https://www.ravelry.com/patterns/library/yin-yang-scarf-4",
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/people",
+    "https://www.ravelry.com/patterns/sources/kun-yins-ravelry-store",
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/comments",
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/report",
+    "https://www.ravelry.com/patterns/library/balloon-dog-11/yarns",
+    "https://www.ravelry.com/patterns/library/balloon-dog-11",
+    "https://www.ravelry.com/patterns/library/august-baby-blanket-2",
+    "https://www.ravelry.com/patterns/library/pattern-block-blanket"
+  ]
 }

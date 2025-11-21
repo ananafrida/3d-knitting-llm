@@ -1,40 +1,41 @@
 {
   "pattern_id": 1992,
-  "pattern_page": "https://www.ravelry.com/patterns/library/anatomical-sock-toes",
-  "name": "Anatomical Sock Toes",
-  "description": "I had to restart a pair of toe-up socks because I had the wrong number of stitches, so I decided to restart the socks with an anatomical sock toe! I printed out the special gauge grid paper and tracked my foot on to it. Figured out where the increases needed to go, typed up the instructions and knit up a pair of socks with toes that fit me perfectly!",
-  "designer": "Alison Frayne",
+  "pattern_page": "https://www.ravelry.com/patterns/library/doddy",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
-  "sizes_available": "Adjustable",
+  "category": "Ball",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Light Fingering ?",
-    "Schachenmayr Regia Design Line by Arne & Carlos 4-fädig / 4-ply"
+    "Knit Picks Shine Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
-    "other-toe",
-    "toe-up",
+    "seamless",
+    "sphere-shaped",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "I had to restart a pair of toe-up socks because I had the wrong number of stitches, so I decided to restart the socks with an anatomical sock toe! I printed out the special gauge grid paper and tracked my foot on to it. Figured out where the increases needed to go, typed up the instructions and knit up a pair of socks with toes that fit me perfectly! Please Note: I have a Greek shaped foot meaning that my second toe is slightly longer than my big toe. If you have an Egyptian foot shape or a Roman foot shape (or any other foot shape), this pattern might not work for you. This is not meant to be an end all be all anatomical sock toe pattern, rather this meant to be a starting point. When I started my anatomical sock toe pattern I had known idea where to start or how to start. So hopeful this pattern can help you know where and how to start creating a sock toe pattern that works perfectly for the socks you are knitting! Information: The sample sock is knit in stockinette stitch, with 1x1 ribbing for the cuff, and the heel is from the ‘Avocado Socks’ pattern by Georgiana Russell-Head. You can find it here: Avocado Socks It is a wonderful pattern, especially if like me, you have a high instep. This pattern is written for knitting two-at-a-time sock with the magic loop method, but you do not have to knit two-at-a-time or use the magic loop method. NOTE: This pattern has not been tested, so please let me know if anything doesn’t make sense or if there are any mistakes. Feel free to reach out to me on Ravelry if you have any question Alisoncfrayne",
-  "techniques": [
-    "increases"
-  ],
-  "shape": "cylinder",
+  "full_text": "150 yds. each of two colors, or 75-80 yds. each of four colors.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/people",
-    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/yarns",
-    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/comments",
-    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/report",
-    "https://www.ravelry.com/patterns/library/avocado-socks",
-    "https://www.ravelry.com/patterns/library/anatomical-sock-toes",
-    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/editors",
-    "https://www.ravelry.com/patterns/sources/alison-fraynes-ravelry-store",
-    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/threads"
-  ]
+    "https://www.ravelry.com/patterns/library/doddy/posts",
+    "https://www.ravelry.com/patterns/library/doddy/yarns",
+    "https://www.ravelry.com/patterns/library/doddy/editors",
+    "https://www.ravelry.com/patterns/library/trio-of-light-cardigan",
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2007",
+    "https://www.ravelry.com/patterns/library/burren-shawl",
+    "https://www.ravelry.com/patterns/library/doddy/people",
+    "https://www.ravelry.com/patterns/library/doddy/comments",
+    "https://www.ravelry.com/patterns/library/doddy/report",
+    "https://www.ravelry.com/patterns/library/torc-cardigan",
+    "https://www.ravelry.com/patterns/library/doddy",
+    "https://www.ravelry.com/patterns/library/doddy/threads",
+    "https://www.ravelry.com/patterns/periodicals/knitty"
+  ],
+  "name": "Ravelry: Doddy pattern by Carol Feller"
 }

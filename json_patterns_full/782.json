@@ -1,60 +1,36 @@
 {
   "pattern_id": 782,
-  "pattern_page": "https://www.ravelry.com/patterns/library/transsylvanien---hoodie",
-  "name": "Transsylvanien - hoodie",
-  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
-  "designer": "Elida Virack",
+  "pattern_page": "https://www.ravelry.com/patterns/library/turtle-square",
   "craft": "Knitting",
-  "category": "Sweater → Pullover",
+  "category": "Afghan block",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "sizes_available": "22 cm x 22 cm (8.5 inches x 8.5 inches)",
   "languages": [
-    "Danish",
-    "Dutch",
-    "English",
-    "Finnish",
-    "German",
-    "Norwegian",
-    "Swedish",
-    "...and 7 other languages show hide other languages",
-    "...and 7 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Svarta Fåret Tencel Blow",
-    "Worsted (9 wpi) ?"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "cables",
     "chart",
-    "hood",
-    "in-the-round",
-    "long-sleeve",
-    "plus",
-    "positive-ease",
-    "seamless",
-    "set-in-sleeve",
-    "short-rows",
-    "straight",
-    "top-down",
     "written-pattern"
   ],
-  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
+  "full_text": "Pattern for a knitted turtle square. Great as a dishcloth, washcloth or with other squares to form a blanket or afghan. There are lots more free knitted square patterns available on my website. Both chart and written pattern are included. Finished square (using DK yarn and 4 mm - US6, UK8 - needles) approximately 22 cm x 22 cm (8.5 inches x 8.5 inches) Of course you can use any plain yarn with the manufacturers recommended needle size, but if it is a different weight yarn it will change the size of the square. Light, plain coloured yarns show up the image best. This square is the same size as my other free squares - together they could make a fantastic afghan!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/svarta-faret-happy-halloween",
-    "https://www.ravelry.com/patterns/library/transsylvanien---hoodie/yarns",
-    "https://www.ravelry.com/patterns/library/the-fluffy-plain-sweater",
-    "https://www.ravelry.com/patterns/library/transsylvanien---hoodie/editors",
-    "https://www.ravelry.com/patterns/library/transsylvanien---hoodie/comments",
-    "https://www.ravelry.com/patterns/library/transsylvanien---hoodie",
-    "https://www.ravelry.com/patterns/library/chelsea---cardigan",
-    "https://www.ravelry.com/patterns/library/transsylvanien---hoodie/people",
-    "https://www.ravelry.com/patterns/library/transsylvanien---hoodie/report",
-    "https://www.ravelry.com/patterns/library/transsylvanien---childhoodie",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store"
-  ]
+    "https://www.ravelry.com/patterns/library/turtle-square/threads",
+    "https://www.ravelry.com/patterns/library/turtle-square/editors",
+    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
+    "https://www.ravelry.com/patterns/library/turtle-square/report",
+    "https://www.ravelry.com/patterns/library/crab-square",
+    "https://www.ravelry.com/patterns/library/turtle-square/comments",
+    "https://www.ravelry.com/patterns/library/turtle-square",
+    "https://www.ravelry.com/patterns/library/toucan-bird-square",
+    "https://www.ravelry.com/patterns/library/whale-square",
+    "https://www.ravelry.com/patterns/library/turtle-square/yarns",
+    "https://www.ravelry.com/patterns/library/turtle-square/people"
+  ],
+  "name": "Ravelry: Turtle Square pattern by Daisy and Storm"
 }

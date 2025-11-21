@@ -1,37 +1,50 @@
 {
   "pattern_id": 2182,
-  "pattern_page": "https://www.ravelry.com/patterns/library/allete",
+  "pattern_page": "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap",
+  "name": "Incredible Expanding Gnome Cap",
+  "description": "Gnome Cap tutorial video at Very Pink Knits",
+  "designer": "Maureen Hefti",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "One size",
+  "category": "Hat → Beanie, Toque Hat → Pixie",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "One size fits preemie to three months.",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Solids, Heathers, Twists",
-    "Worsted (9 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Wool2dye4 Cash Sock MCN"
   ],
   "attributes": [
-    "lace"
+    "baby",
+    "cables",
+    "chart",
+    "eyelets",
+    "in-the-round",
+    "newborn-size",
+    "preemie",
+    "ribbed",
+    "slipped-stitches",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "Make yourself some new extremities. These knitted wings can easily be made into different styles with different yarns. Since gauge is not crucial, use up that stash yarn for some white or black angel wings, or a bit of colorful sparkly yarn to create fairy wings. For a smaller, child size simply work pattern in thinner yarn with appropriate size needles.",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "Gnome Cap tutorial video at Very Pink Knits A preemie cap worked in the round from the brim up, with a yarn-over cable motif. Cables are ribbing, and the cables in this wee hat will expand as your tiny infant grows! Before we met, two of my best friends had preemies. One preemie for Allegra, and two preemies for Lesley. When Lesley announced she was expecting, she expressed her trepidation that she may have yet another preemie. I began work on this hat knowing I was making a hat for a baby whose birth size was completely unpredictable. The solution: A preemie cap worked in the round from the brim up, with a yarn-over cable motif. Cables are ribbing, and the cables in this wee hat will expand as your tiny infant grows! Ideal for full-term infants too! Please work this pattern using version 4.1, as earlier versions have errors. Discussion",
+  "techniques": [
+    "worked in the round"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/allete/yarns",
-    "https://www.ravelry.com/patterns/library/allete/comments",
-    "https://www.ravelry.com/patterns/library/earthy-mouse-pad-wrist-pillow",
-    "https://www.ravelry.com/patterns/library/allete/posts",
-    "https://www.ravelry.com/patterns/library/topi",
-    "https://www.ravelry.com/patterns/sources/knitty-summer-2006",
-    "https://www.ravelry.com/patterns/library/allete/people",
-    "https://www.ravelry.com/patterns/library/allete/editors",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/allete/report",
-    "https://www.ravelry.com/patterns/library/allete/threads",
-    "https://www.ravelry.com/patterns/library/allete",
-    "https://www.ravelry.com/patterns/library/subtle-twist-hat"
-  ],
-  "name": "Ravelry: Allete pattern by Jennifer Tallapaneni"
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/comments",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/editors",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/report",
+    "https://www.ravelry.com/patterns/library/rain-on-the-prairie",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/threads",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/yarns",
+    "https://www.ravelry.com/patterns/library/yukimi",
+    "https://www.ravelry.com/patterns/sources/ravenous-knits",
+    "https://www.ravelry.com/patterns/library/rachael-ellen-beret",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/posts",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap",
+    "https://www.ravelry.com/patterns/library/incredible-expanding-gnome-cap/people"
+  ]
 }

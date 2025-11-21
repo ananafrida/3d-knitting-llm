@@ -1,43 +1,41 @@
 {
   "pattern_id": 2060,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking",
+  "pattern_page": "https://www.ravelry.com/patterns/library/eyeball",
   "craft": "Knitting",
-  "category": "Components → Other",
+  "category": "Ball",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Any gauge - designed for any gauge ?"
+    "Filatura Di Crosa Zara",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "chart",
+    "hexagon",
     "in-the-round",
-    "one-piece",
+    "other-colorwork",
     "seamless",
-    "stranded",
-    "top-cuff-down",
-    "top-down",
+    "sphere-shaped",
     "written-pattern"
   ],
-  "full_text": "This pattern will suit any sock knit with a multiple of six stitches. It consists of a picot hem with a band of colourwork beneath. It can be used with any yarn and needles to suit. The chart in the photo forms only part of the pattern so you’ll need to click through to the source to see the rest!",
+  "full_text": "This is a fun little project that will use up those scraps in your stash. The eyeball is filled with a 22” small Pilates ball. I knit this the day following my LASIK surgery. It just seemed like the thing to do: therapy, as it were. I used my small Pilates ball as the support inside, inflating it just before I knit the final rows to close it up.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/crochet-shawl-9",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/report",
-    "https://www.ravelry.com/patterns/library/wave-rose-and-strawberry-lace",
-    "https://www.ravelry.com/patterns/library/cable-knitting",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/edit",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/comments",
-    "https://www.ravelry.com/patterns/sources/australian-town-and-country-journal-saturday-9-december-1899",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/people",
-    "https://www.ravelry.com/patterns/sources/trove",
-    "https://www.ravelry.com/patterns/periodicals/australian-town-and-country-journal",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/editors",
-    "https://www.ravelry.com/patterns/library/fancy-top-for-a-ladys-stocking/yarns"
+    "https://www.ravelry.com/patterns/library/eyeball/people",
+    "https://www.ravelry.com/patterns/library/eyeball/editors",
+    "https://www.ravelry.com/patterns/library/jughead-hat",
+    "http://www.domiknitrix.com/knittingpatterns/eyeball.cfm",
+    "https://www.ravelry.com/patterns/library/eyeball/yarns",
+    "https://www.ravelry.com/patterns/library/sweetheart",
+    "https://www.ravelry.com/patterns/sources/domiknitrix",
+    "https://www.ravelry.com/patterns/library/snood",
+    "https://www.ravelry.com/patterns/library/eyeball/report",
+    "https://www.ravelry.com/patterns/library/eyeball",
+    "https://www.ravelry.com/patterns/library/eyeball/threads",
+    "https://www.ravelry.com/patterns/library/eyeball/comments"
   ],
-  "name": "Ravelry: Fancy Top for a Lady's Stocking pattern by Australian Town and Country Journal"
+  "name": "Ravelry: Eyeball pattern by Jennifer Stafford"
 }

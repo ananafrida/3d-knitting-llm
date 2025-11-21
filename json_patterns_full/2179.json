@@ -1,38 +1,41 @@
 {
   "pattern_id": 2179,
-  "pattern_page": "https://www.ravelry.com/patterns/library/felted-witch-hat-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/freds-hat",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "Adult",
+  "category": "Hat → Pixie",
+  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
+  "sizes_available": "one size, very stretchy",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Aran (8 wpi) ?"
+    "Hedgehog Fibres Super Bulky",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "felted",
+    "baby",
+    "bottom-up",
     "in-the-round",
-    "phototutorial",
-    "textured",
-    "written-pattern"
+    "one-piece"
   ],
-  "full_text": "Obviously, witches fucking rule. At this point I’ve probably been a witch for Halloween well over a dozen times in my life, and mostly wear a lot of black every day of the year. Here’s the thing though, as an adult dressing as a witch at Halloween is kind of low effort. That’s fine, we’ve all got stuff going on. Besides, fear of witches is rooted in fear of powerful women, and exploiting that for personal gain is always going to be in style. In past years, I’ve always realized too late that I really ought to wear the hat if I’m going to dress as a witch again, so I end up buying a cheap witch’s hat at a party store or Walgreens. This year, I decided to make the last witch hat I’ll ever need. I wish I could tell you this is a super easy project, and in some ways it is. Knitting the hat is easy enough, but then there is a fair amount of fabric manipulation required to get it to act like a witch hat, and not just a pointy knit hat. (We’re trying to go for Fear Of Powerful Women, here not Floppy Elf Hat But In Black.) That’s why I put this pattern online for free. The pattern for the knit portion is easy enough, but getting it to act the way you want to act is a bit trickier.",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "Quick and fun ribbed baby hat One size only, but very stretchy fabric will fit a variety of baby head sizes Our model Freddie is 6 months old in these pictures. Yarn: 1 skein of Hedgehog Fibres Super Bulky (82m/150g) Colourway pictured: Fool’s Gold Needle: 10mm / US 15 circular or double pointed needles, the hat is worked in the round. Adjust needle size to obtain correct gauge. Gauge: 13 stitches and 13 rows = 4’’/10cm in 1x1 rib pattern, unstretched.",
+  "techniques": [
+    "worked in the round"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/felted-witch-hat-2/comments",
-    "https://www.ravelry.com/patterns/library/felted-witch-hat-2/editors",
-    "https://www.ravelry.com/patterns/library/sunshine-yellow-baby-cardigan",
-    "https://www.ravelry.com/patterns/library/felted-witch-hat-2/yarns",
-    "https://www.ravelry.com/patterns/library/alora-3300-1930-house-gown",
-    "https://www.ravelry.com/patterns/library/felted-witch-hat-2",
-    "https://www.ravelry.com/patterns/sources/unapologetically-ersatz",
-    "https://www.ravelry.com/patterns/library/felted-witch-hat-2/report",
-    "https://www.ravelry.com/patterns/library/felted-witch-hat-2/people"
+    "https://www.ravelry.com/patterns/library/freds-hat/people",
+    "https://www.ravelry.com/patterns/library/freds-hat/yarns",
+    "https://www.ravelry.com/patterns/library/tweedy-junior",
+    "https://www.ravelry.com/patterns/library/freds-hat/report",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/freds-hat",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/freds-hat/threads",
+    "https://www.ravelry.com/patterns/library/faefolk-hood",
+    "https://www.ravelry.com/patterns/library/freds-hat/comments",
+    "https://www.ravelry.com/patterns/library/freds-hat/editors",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/freds-hat"
   ],
-  "name": "Ravelry: Felted Witch Hat pattern by Lindsay Welbers"
+  "name": "Ravelry: Fred's Hat pattern by Beata Jezek"
 }

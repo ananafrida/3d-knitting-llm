@@ -1,41 +1,41 @@
 {
   "pattern_id": 1146,
-  "pattern_page": "https://www.ravelry.com/patterns/library/venus-de-merino",
-  "name": "Venus de Merino",
-  "description": "Inspired by one of mankind’s oldest works of art, the Venus of Willendorf, this little soft sculpture was my way of celebrating knitting in general and the glorious colors of Noro Kureyon in particular. Everyone needs a knitting goddess now and then.",
-  "designer": "Lara Breese",
+  "pattern_page": "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower",
+  "name": "Coming Up Roses - A Knit Flower",
+  "description": "Add these sweet knit roses as a topper or adornment to your shoes, headband, barrette, or tote bag. Easy to make, they are a wonderful way to add a handmade touch to just about anything.",
+  "designer": "flax & twine | anne weil",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "full, pocket",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Noro Kureyon（くれよん）",
-    "Worsted (9 wpi) ?"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
-    "in-the-round",
+    "eyelets",
+    "lace",
+    "one-piece",
     "written-pattern"
   ],
-  "full_text": "Inspired by one of mankind’s oldest works of art, the Venus of Willendorf, this little soft sculpture was my way of celebrating knitting in general and the glorious colors of Noro Kureyon in particular. Everyone needs a knitting goddess now and then. This a particularly hefty pattern at 6 full pages with only 2 pictures. I will have a pocket size up in my projects. This is also the first time I’ve tried to explain some of my thought process as I’m knitting. Hopefully it makes it easier for the newer knitter to attempt something unique and a little bit of a challenge. Increase and decrease are the only shaping tools used other than stitching to create the definition of the soft sculpture. It’s much easier than it looks, so give it a shot! Errata: Row 16 should read as follows: Row 16: K2, ssk, k5, kfb x4, k3, k2tog, k3, kfb x4, k5, k2tog, k2 / k2, ssk, k16 , k2tog, k2 (39/22)",
+  "full_text": "Add these sweet knit roses as a topper or adornment to your shoes, headband, barrette, or tote bag. Easy to make, they are a wonderful way to add a handmade touch to just about anything. Use whatever leftover sock or fingering weight yardage you have to whip a couple of these beauties. Gauge isn’t that important - have fun with them!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/venus-de-merino/comments",
-    "https://www.ravelry.com/patterns/sources/darktwist",
-    "https://www.ravelry.com/patterns/library/bad-hair-day-kerchief",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/yarns",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/threads",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/report",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/editors",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/people",
-    "https://www.ravelry.com/patterns/library/venus-de-merino/posts",
-    "https://www.ravelry.com/patterns/library/dice-bag-of-doom",
-    "https://www.ravelry.com/patterns/library/venus-de-merino",
-    "https://www.ravelry.com/patterns/library/itsy-bitsy-spider-2"
+    "http://www.flaxandtwine.com/2013/04/coming-up-roses-free-knit-pattern.html",
+    "https://www.ravelry.com/patterns/sources/flax--twine-ravelry-store",
+    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/threads",
+    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/report",
+    "https://www.ravelry.com/patterns/library/bennet-bandana",
+    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/people",
+    "https://www.ravelry.com/patterns/library/fade-to-summer-gradient-t-shirt",
+    "https://www.ravelry.com/patterns/library/trellis-stitch-drawstring-bag",
+    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/editors",
+    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower",
+    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/comments",
+    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/yarns"
   ]
 }

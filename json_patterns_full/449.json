@@ -1,42 +1,50 @@
 {
   "pattern_id": 449,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bandana-cowl",
-  "name": "Bandana Cowl",
-  "description": "MATERIALS",
-  "designer": "Purl Soho",
+  "pattern_page": "https://www.ravelry.com/patterns/library/2025-christmas-bauble",
+  "name": "2025 Christmas Bauble",
+  "description": "This little Christmas Bauble is knitted two-stranded in the round on dpns. The motif depicts two pine trees with the numbers 2025 central on the bauble, and it has a ribbon attached to the top for hanging. For these I’ve used fibre filling, but you may also knit around a plastic or glass bauble.",
+  "designer": "Hilde Ropstad",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
-  "sizes_available": "One Size (see Notes)",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English",
-    "Italian"
+    "Norwegian"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Jade Sapphire 8-ply Mongolian Cashmere"
+    "Light Fingering ?",
+    "Filcolana Arwetta"
   ],
   "attributes": [
+    "bottom-up",
+    "chart",
     "in-the-round",
-    "short-rows",
-    "unisex",
+    "norwegian",
+    "one-piece",
+    "phototutorial",
+    "schematic",
+    "seamless",
+    "sphere-shaped",
+    "stranded",
     "written-pattern"
   ],
-  "full_text": "MATERIALS One-Color Version Main Color (MC): 1 skein of Purl Soho’s Plenty , 100% extra fine merino wool. Each skein is 139 yards/ 100 grams; approximately 139 yards required. We used the colors Mint Blue, Lilac Quartz, Red Plum and Ash Gray. Two-Color Version Main Color (MC): 1 skein of Plenty Contrast Color (CC): 1 skein of Plenty For Colorblock Version, approximately 70 yards required of each MC and CC. We used Golden Green and Gray Pearl. For Breton Stripe Version, approximately 115 yards required of MC and 35 yards of CC. We used Sapphire Blue and Pottery Pink. For Transitional Stripe Version, approximately 80 yards required of MC and 65 yards of CC. We used Mint Blue and Plumeria Pink. For Monogram Version, approximately 139 yards required of MC and a few yards of CC. We used Peony Pink and Red Pine. You’ll also need… US 10 (6.0 mm), 16-inch circular needles (Note: Always use the needles that you need to get the correct gauge. In this case, some of our sample makers found a US 10 worked better for them than what Plenty’s label recommends, which is a US 9 for 4 stitches to the inch. If you know you’re a bit of a tight knitter, US 10 needles are more likely to work for you, and if you’re on the loose side, you may prefer a US 9s!) Stitch markers GAUGE 16 stitches and 24 rows = 4 inches in stockinette stitch SIZE Finished Neck Opening: 17¼ inches circumference, comfortably stretching up to 5 inches Finished Height From Point: 13½ inches NOTE: Earlier versions of this pattern used 2 skeins of Jade Sapphire’s 8 Ply Cashmere , 100% Mongolian Cashmere or 1 skein of Swans Island Bulky, undyed 85% Organic Merino and 15% Alpaca; approximately 130 yards required for either yarn. Visit our Jade Sapphire version here , and our Swan’s Island version here ! NOTE: Now available in Italian with great thanks to a friend of The Purl Bee (aka icelandit on Ravelry).",
-  "techniques": [],
-  "shape": "cube",
+  "full_text": "This little Christmas Bauble is knitted two-stranded in the round on dpns. The motif depicts two pine trees with the numbers 2025 central on the bauble, and it has a ribbon attached to the top for hanging. For these I’ve used fibre filling, but you may also knit around a plastic or glass bauble. The pattern is both written and charted. It uses kfb, m1r, m1l (but other increases may be used), and k2tog/SSK for decreases. The pattern is written for dpns, but if you’re more comfortable knitting on magic loop, that’s works too. Size: Height: 6.5 cm/2.5” Circumference: 20 cm/8” Gauge: 32 sts per 10 cm/4” Materials: Yarn: Light Fingering (210 m per 50 gr) in two colours. Approx. 5 grams of each colour. Dpns size 2.5 mm (or circulars) Fibre filling (or bauble approx. 6 cm diametre) Darning needle Yarn suggestions: Arwetta by Filcolana, Flora by Drops, Schachenmayr Sockenwolle 4-ply",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bandana-cowl/posts",
-    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/report",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/threads",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/bandana-cowl",
-    "https://www.ravelry.com/patterns/library/garter-ear-flap-hat",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/editors",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/comments",
-    "https://www.ravelry.com/patterns/library/bandana-cowl/people"
+    "https://www.ravelry.com/patterns/library/2025-christmas-bauble/people",
+    "https://www.ravelry.com/patterns/library/2025-christmas-bauble/editors",
+    "https://www.ravelry.com/patterns/sources/hilde-ropstads-ravelry-store",
+    "https://www.ravelry.com/patterns/library/malthe-baby-selbu-mittens",
+    "https://www.ravelry.com/patterns/library/aksel-selbu-mittens",
+    "https://www.ravelry.com/patterns/library/2025-christmas-bauble/yarns",
+    "https://www.ravelry.com/patterns/library/2025-christmas-bauble/report",
+    "https://www.ravelry.com/patterns/library/2025-christmas-bauble/comments",
+    "https://www.ravelry.com/patterns/library/2024-christmas-bauble",
+    "https://www.ravelry.com/patterns/library/2025-christmas-bauble"
   ]
 }

@@ -1,41 +1,45 @@
 {
   "pattern_id": 1410,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ball-ble",
-  "name": "Ball-ble",
-  "description": "Why not use yarn to knit more yarn? Ball-ble is a little bit silly but very cute and fun. Twisted rib and travelling stitches create a yarn-like texture on the tiniest ball of yarn you ever did see.",
-  "designer": "Lily Kate France",
+  "pattern_page": "https://www.ravelry.com/patterns/library/poppy-prairie-bag",
+  "name": "Poppy Prairie Bag",
+  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
+  "designer": "Bonnica Sjöblom",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "one size (tiny!)",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "35 x 80 cm (before felting)",
   "languages": [
-    "English"
+    "Dutch",
+    "German",
+    "Swedish"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Botanical Yarn Sock 4 ply"
+    "Svarta Fåret Ulrika Natur",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "chart",
-    "ribbed",
-    "seamless",
+    "felted",
+    "in-the-round",
+    "patch-pocket",
+    "schematic",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Why not use yarn to knit more yarn? Ball-ble is a little bit silly but very cute and fun. Twisted rib and travelling stitches create a yarn-like texture on the tiniest ball of yarn you ever did see. YARN: oddments of fingering / 4ply weight yarn. GAUGE: n/a NEEDLES & NOTIONS: 2.5mm DPNs (Note: you could also use a long circular needle for magic loop, but since the pattern is worked in 3 sections, it lends itself to DPNs) Stitch markers Tapestry needle Card for ‘ballband’ Stuffing SIZING: finished bauble measures approx 3.25 “ / 8 cm tall. @lilykatemakes | #Ball -ble",
+  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ball-ble/threads",
-    "https://www.ravelry.com/patterns/library/ball-ble",
-    "https://www.ravelry.com/patterns/library/ball-ble/report",
-    "https://www.ravelry.com/patterns/sources/lily-kate-frances-ravelry-store",
-    "https://www.ravelry.com/patterns/library/knitty-committee-top",
-    "https://www.ravelry.com/patterns/library/lkm-finest-fit-socks",
-    "https://www.ravelry.com/patterns/library/winnie-top-2",
-    "https://www.ravelry.com/patterns/library/ball-ble/comments",
-    "https://www.ravelry.com/patterns/library/ball-ble/editors",
-    "https://www.ravelry.com/patterns/library/ball-ble/yarns",
-    "https://www.ravelry.com/patterns/library/ball-ble/people"
+    "https://www.ravelry.com/patterns/sources/svarta-faret-countryside-escape-aw2024",
+    "https://www.ravelry.com/patterns/library/magvaskan-dagny",
+    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
+    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/people",
+    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/report",
+    "https://www.ravelry.com/patterns/library/berlin---child-backpack",
+    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/editors",
+    "https://www.ravelry.com/patterns/library/poppy-prairie-bag",
+    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/comments",
+    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/yarns",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
+    "https://www.ravelry.com/patterns/library/magvaskan-yvonne"
   ]
 }

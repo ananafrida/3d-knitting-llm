@@ -1,38 +1,42 @@
 {
   "pattern_id": 62,
-  "pattern_page": "https://www.ravelry.com/patterns/library/a-recipe-for-fish",
+  "pattern_page": "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "N/A",
+  "category": "Hat → Beanie, Toque Costume",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Adult",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "",
+    "Fios Pingouin Super Cable",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "motifs",
-    "reversible",
-    "seamed",
-    "worked-flat",
+    "adult",
+    "bottom-up",
+    "in-the-round",
+    "ribbed",
+    "seamless",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "NOT the Knitters Magazine version. To make smaller fish, use thinner yarn and smaller needles. Individual fish to be joined to make an afghan. German version is available here .",
+  "full_text": "Patterns for the corkscrew and leaf are from Knitting on the Edge by Nicky Epstein. For the hat in the photo I made 2 and sewed them together with the wrong-sides on the inside",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/yarns",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/threads",
-    "https://www.ravelry.com/patterns/sources/strick-ideen-bestrickende-anleitungen",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/editors",
-    "https://www.ravelry.com/patterns/sources/knitting-arrows",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/posts",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/report",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/comments",
-    "https://www.ravelry.com/patterns/library/a-recipe-for-fish/people"
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/people",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/editors",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/threads",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/report",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/yarns",
+    "http://www.knitting-and.com/knitting/patterns/hats/pumpkin-hat.htm",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat",
+    "https://www.ravelry.com/patterns/library/gosling-hat",
+    "https://www.ravelry.com/patterns/library/jayne-hat-2",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/posts",
+    "https://www.ravelry.com/patterns/sources/knitting-and",
+    "https://www.ravelry.com/patterns/library/adult-size-pumpkin-hat/comments"
   ],
-  "name": "Ravelry: A Recipe for Fish pattern by April Broken"
+  "name": "Ravelry: Adult Size Pumpkin Hat pattern by Maggie Burns"
 }

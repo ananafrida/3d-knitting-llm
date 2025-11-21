@@ -1,38 +1,47 @@
 {
   "pattern_id": 1560,
-  "pattern_page": "https://www.ravelry.com/patterns/library/munchkin-pumpkin-3",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sockhead-cowl",
+  "name": "Sockhead Cowl",
+  "description": "And it’s about time! Here is a no-nonsense cowl that will match your Sockhead Hat perfectly. In fact, it’s even easier than the hat. No muss, no fuss…just beautiful yarn and cuddles.",
+  "designer": "Kelly McClure",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "approx. 3.5 inches (9 cm) diameter x 2 inches (5 cm) tall",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "adult medium",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "madelinetosh Tosh Sock",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
+    "adult",
+    "bottom-up",
     "in-the-round",
-    "phototutorial",
-    "ribbed",
+    "one-piece",
+    "seamless",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "Get Cozy With This Adorable Pumpkin Knitting Pattern! Ready for a delightfully charming autumn knitting project? This free Munchkin Pumpkin pattern is the perfect companion for your warm cup of cocoa and a crisp, fall evening. Fall in love with this irresistibly cute knitted pumpkin. Whether you’re a beginner or an experienced knitter, you’ll find joy in bringing these adorable pumpkins to life. Customizable and Beginner-Friendly Feel like playing around with sizes and colors? Go ahead! This pattern is as flexible as it is fun. Create a tiny pumpkin for your mantel or a jumbo one for your porch. Choose autumnal oranges or go rogue with unexpected hues! Fast, Fun, and Oh-So Simple With no increasing or decreasing, this cute little pumpkin so so simple to make. You’ll have your own pumpkin patch growing in no time. A couple of hours, some yarn scraps, and voilà - your knitted pumpkin is ready to steal the show! SKILL LEVEL: Beginner SIZE: One Size FINISHED MEASUREMENTS (approx.): 2” (5 cm) high 3.5” (9 cm) diameter YARN: Worsted weight yarn: 45 yds/40 m MC Shown in Cascade 220 (Worsted weight: 100% Wool: 220 yds/200 m per 100g/3.5oz) 1 ball in Jack O’Lantern (7824) NEEDLES: 4 mm (US 6) needles for working in the round Or size needed to obtain gauge GAUGE: 5 sts x 7 rounds = 4 inches (10 cm) in stockinette stitch worked in the round NOTIONS: Stitch marker, tapestry needle, Polyfil or toy stuffing, cinnamon stick or twig, tape measure, scissors",
-  "techniques": [
-    "worked in the round"
-  ],
+  "full_text": "And it’s about time! Here is a no-nonsense cowl that will match your Sockhead Hat perfectly. In fact, it’s even easier than the hat. No muss, no fuss…just beautiful yarn and cuddles. Just like its sister-project, this cowl also has miles and miles of Stockinette Stitch. However, that also makes it an ideal project for travelling or TV knitting. This neckwarmer can be worn a few different ways: fold the ribbed ends (inside or out), fold it in half or just pull it on and get out in the snow! This cowl is knit in one piece in the round. This cowl has one size (adjustable) and no visible seam. Skill Level: Rookie- Apprentice-Virtuoso-Genius Skills: knit, purl Finished Measurements: approx 27 cm wide across middle (not across ribbing) and 50 cm long lying flat after blocking Other Materials: tapestry needle or teeny crochet hook; stitch marker Looking for a matching hat? Try the Sockhead Slouch Hat! Or maybe some matching gloves: Pioneer Gloves!",
+  "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/munchkin-pumpkin-3/report",
-    "https://thesleepystitch.com/knitted-pumpkin-pattern/",
-    "https://www.ravelry.com/patterns/library/munchkin-pumpkin-3/comments",
-    "https://www.ravelry.com/patterns/sources/the-sleepy-stitch",
-    "https://www.ravelry.com/patterns/library/munchkin-pumpkin-3/people",
-    "https://www.ravelry.com/patterns/library/munchkin-pumpkin-3/threads",
-    "https://www.ravelry.com/patterns/library/munchkin-pumpkin-3",
-    "https://www.ravelry.com/patterns/library/munchkin-pumpkin-3/yarns",
-    "https://www.ravelry.com/patterns/library/munchkin-pumpkin-3/editors"
-  ],
-  "name": "Ravelry: Munchkin Pumpkin pattern by The Sleepy Stitch"
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/posts",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/people",
+    "http://www.ravelry.com/patterns/library/pioneer-gloves",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat",
+    "https://www.ravelry.com/bundles/free-patterns-700",
+    "https://www.ravelry.com/patterns/library/pioneer-gloves",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/comments",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/report",
+    "https://www.ravelry.com/patterns/sources/bohoknits-ravelry-emporium",
+    "https://www.ravelry.com/patterns/library/idylluna-shawl",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/threads",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl/editors",
+    "http://www.ravelry.com/patterns/library/sockhead-slouch-hat"
+  ]
 }

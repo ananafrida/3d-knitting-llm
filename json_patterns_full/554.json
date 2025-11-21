@@ -1,41 +1,42 @@
 {
   "pattern_id": 554,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mosaic-blanket-807453",
+  "pattern_page": "https://www.ravelry.com/patterns/library/f592-bowl",
+  "name": "F592 Bowl",
+  "description": "Materials:",
+  "designer": "Plymouth Yarn Design Studio",
   "craft": "Knitting",
-  "category": "Blanket → Throw Blanket → Baby Blanket",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "Baby (Crib, Throw)",
+  "category": "Containers",
+  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
+  "sizes_available": "Approx. 5.5” tall x 9” in diameter after felting",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Purl Soho Worsted Twist"
+    "Super Bulky (5-6 wpi) ?",
+    "Plymouth Yarn Galway Roving"
   ],
   "attributes": [
-    "chart",
-    "mosaic",
-    "rectangle",
-    "video-tutorial",
-    "worked-flat",
+    "3-dimensional",
+    "felted",
+    "icord",
+    "in-the-round",
     "written-pattern"
   ],
-  "full_text": "MATERIALS Color A: 4 (6, 7) skeins of Purl Soho’s Worsted Twist , 100% merino wool. Each skein is 164 yards/ 100 grams; approximately 656 (984, 1148) yards required. Color B: 6 (8, 10) skeins of Purl Soho’s Alpaca Pure , 100% super baby alpaca. Each skein is 109 yards/ 100 grams; approximately 654 (872, 1090) yards required. You will also need… A US 8 (5.0 mm), 24 or 32-inch circular needle GAUGE 19 stitches and 38 rows = 4 inches in Mosaic Stitch, using Colors A and B 15 stitches and 32 rows = 4 inches in garter stitch, using Color A SIZES Baby (Crib, Throw) Approximately 26 x 35 (33½ x 40, 41 x 46½) inches Sample: We knit the Baby size.",
+  "full_text": "Materials: 1-100g ball of Black- color 9 1-100g ball of Grey- color 751 1-100g ball of Teal -color 25. Needles: Size US 15 (10mm) - 16” circular 1 stitch marker.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453/threads",
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453/yarns",
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453/editors",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453",
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453/report",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket",
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453/posts",
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453/people",
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket",
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453/comments",
-    "https://www.ravelry.com/patterns/library/traveling-cable-hat"
-  ],
-  "name": "Ravelry: Mosaic Blanket pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/f867-dotted-swiss-baby-throw",
+    "https://www.ravelry.com/patterns/library/f828-baby-blanket",
+    "https://www.ravelry.com/patterns/library/f592-bowl/yarns",
+    "https://www.ravelry.com/patterns/library/f592-bowl/edit",
+    "https://www.ravelry.com/patterns/periodicals/plymouth-yarn-company",
+    "https://www.ravelry.com/patterns/library/f592-bowl/editors",
+    "https://www.ravelry.com/patterns/sources/plymouth-yarn-company-website",
+    "https://www.ravelry.com/patterns/library/f592-bowl/report",
+    "https://www.ravelry.com/patterns/library/f592-bowl/people",
+    "https://www.ravelry.com/patterns/library/f382-lace-brim-chemo-hat",
+    "https://www.ravelry.com/patterns/library/f592-bowl",
+    "https://www.ravelry.com/patterns/library/f592-bowl/comments"
+  ]
 }

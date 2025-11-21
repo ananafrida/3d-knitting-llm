@@ -1,36 +1,42 @@
 {
   "pattern_id": 323,
-  "pattern_page": "https://www.ravelry.com/patterns/library/20-minute-mouse",
-  "name": "20 Minute Mouse",
-  "description": "This mouse has been tested and pronounced “catproof” ie, it shouldn’t come to pieces with even the most ferocious catnip addict!",
-  "designer": "Sara Hall",
+  "pattern_page": "https://www.ravelry.com/patterns/library/stash-busting-monster",
+  "name": "Stash Busting Monster",
+  "description": "New Pattern for Monster Stash Busting.",
+  "designer": "Kimberly Kwon",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Softies → Doll",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Size varies with weight of the yarn",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Sirdar Double Knitting"
+    "Plymouth Yarn Encore Worsted Solids & Heathers",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "one-piece"
+    "in-the-round",
+    "seamless",
+    "stripes-colorwork",
+    "three-needle-bind",
+    "written-pattern"
   ],
-  "full_text": "This mouse has been tested and pronounced “catproof” ie, it shouldn’t come to pieces with even the most ferocious catnip addict! I make the little catnip sachets by spreading the catnip over one half of a piece (say 30x60cm approx) of loosely woven material and then machine sewing it into little squares approx 3x3cm with criss cross tramlines. Then I cut between these tramlines. It’s quick and not too messy. I can make this mouse in 20 minutes if I have absolutely no interruptions (which is usually impossible to do of course), hence the title of the pattern.",
+  "full_text": "New Pattern for Monster Stash Busting. I had three partial skeins of leftover yarns and wanted to use it for a monster. This pattern is written in general terms as a recipe to create a monster with your own existing yarns from your leftover stash in any you wish. You will need approximately 200 to 250 yards of stash yarn in at least three colors for the pattern. The size of your monster will vary with yarn weight. The pattern includes embedded links for helpful techniques for knitting in the round with dpns or using magic loop. Other techniques mentioned are 3-needle bind off and jogless stripes. For the sample monster in this pattern, I used worsted weight yarn in three different colors, with a US Size 6 needle.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/20-minute-mouse",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/yarns",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/comments",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/editors",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/report",
-    "https://www.ravelry.com/patterns/library/st-sampson-guernsey",
-    "https://www.ravelry.com/patterns/library/shield-lace-cowl-scarf",
-    "https://www.ravelry.com/patterns/sources/the-answer-is-42",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/people",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/threads",
-    "https://www.ravelry.com/patterns/library/titchy-witchy"
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/comments",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/posts",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/people",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster",
+    "https://www.ravelry.com/patterns/sources/kimberly-kwon-designs",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/report",
+    "https://www.ravelry.com/patterns/library/cat-illusion-knit",
+    "https://www.ravelry.com/patterns/library/finding-peace-illusion-knit",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/yarns",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/editors",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/threads",
+    "https://www.ravelry.com/patterns/library/gotta-love-me-monster"
   ]
 }

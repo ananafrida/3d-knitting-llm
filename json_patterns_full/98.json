@@ -1,40 +1,35 @@
 {
   "pattern_id": 98,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cube-thing",
-  "name": "Cube Thing",
-  "description": "At Christmas I was playing with a complicated paper construction I came across online. There was no chance of knitting it because it would simply have tried to deform to be a sphere. It is in the nature of knitting, and crochet, that all regular 3D shapes try to form themselves into spheres.",
-  "designer": "Woolly Thoughts",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-amigurumi-blobcat",
   "craft": "Knitting",
-  "category": "Blocks",
-  "sizes_available": "5 cm (2\")",
+  "category": "Softies → Animal",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "1 size.",
   "languages": [
-    "English"
+    "Japanese"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Sport (12 wpi) ?",
+    "毛糸ピエロ ファインメリノ合太 / PIERROT Fine Merino Sport"
   ],
   "attributes": [
-    "cube-shaped"
+    "bottom-up",
+    "icord",
+    "written-pattern"
   ],
-  "full_text": "At Christmas I was playing with a complicated paper construction I came across online. There was no chance of knitting it because it would simply have tried to deform to be a sphere. It is in the nature of knitting, and crochet, that all regular 3D shapes try to form themselves into spheres. I started to wonder what would happen if I reduced it to its simplest form and kept it very small. I was pleasantly surprised to find that an unstuffed cube is much more robust than I expected. This cube holds its shape very well. You can squash it if you want to but it is easily restored to its original shape. I used about 10 metres of DK yarn in three colours. It would work in any yarn though the size of the cube would vary depending on the thickness of the yarn. 18 January 2018 Some variations have been added to the basic pattern (You can see more photos of them on project pages) Cube Thing - Love Cube Thing - Emojis Cube Thing - Die Cube Thing - Eggs 24 January 2018 I made a video to show how this is related to Borromean Rings. 4 February 2018 I keep seeing photos of a cushion based on the same principle so I made a mock-up using things I already had. It’s a bit squashed and discoloured but demonstrates the principle.",
-  "techniques": [],
+  "full_text": "This knitting pattern is published for personal use. Unauthorized reproduction, distribution, and sale are prohibited. You may freely use the works, including personal use and sale. However, when introducing your work, please refrain from doing anything that undermines your identity as the author @lpre_ys, such as using an ``original pattern that you came up with''. This pattern is a text pattern (no illustrations). Knitting flow: Body → 1st cotton filling → ears → tail → 2nd cotton filling → face/parts. Create your favorite “Blobcat” by combining 2 types of bodies (plump tail/round body) and 3 types of ears (normal, horizontal ears, and standing ears). Thread used: Pierrot Fine Merino Gota 10 Mustard / Needle: No. 3 (circular needle or 5 needle), safety pin marker, black thread for embroidery, etc. Techniques: Magic loop or 5-needle, German short row (turnback knitting), etc. Finished size: approx. 8 cm diameter (with tail) This knitting pattern is published for personal use. Unauthorized redistribution, sharing or sale of the pattern itself is strictly prohibited. You are free to make and sell items made from this pattern. However, please do not present the pattern as “originally designed by you” — the designer is @lpre_ys. Credit to the designer is optional but appreciated! This is a text-only pattern (no charts). Assembly order: body → first stuffing → ears → tail → second stuffing → face & other parts. Variations: two body types (plump tail / round body), three ear types (normal / side ears / upright ears). Use whichever combination you like to knit your own Blobcat. Yarn: PIERROT Fine Merino Medium-Weight #10 Mustard. Needles: Japanese size 3 (≈ US 2.5 mm). Also: stuffing, black embroidery thread, safety-pin markers. Techniques: Magic loop or 5 double-pointed needles, German short rows (short-row shaping). Finished size: approx. 8 cm (including tail).",
+  "techniques": [
+    "short rows"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cube-thing/posts",
-    "https://www.ravelry.com/patterns/library/cube-thing/yarns",
-    "https://www.ravelry.com/patterns/library/cube-thing/people",
-    "https://www.ravelry.com/patterns/library/cube-thing/threads",
-    "https://www.ravelry.com/patterns/library/cube-thing/comments",
-    "https://www.ravelry.com/patterns/library/cube-thing/editors",
-    "https://www.ravelry.com/patterns/library/platonic-spheres",
-    "https://www.ravelry.com/patterns/library/cube-thing",
-    "https://www.ravelry.com/patterns/library/pythagoras-tree",
-    "https://www.ravelry.com/bundles/free-patterns-375",
-    "https://www.ravelry.com/patterns/library/barbie-spirals",
-    "https://www.ravelry.com/patterns/periodicals/woolly-thoughts",
-    "https://www.ravelry.com/patterns/sources/pat-ashforth--steve-plummers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cube-thing/report",
-    "https://www.ravelry.com/patterns/sources/woolly-thoughts-website"
-  ]
+    "https://www.ravelry.com/patterns/library/knitted-amigurumi-blobcat/comments",
+    "https://www.ravelry.com/patterns/library/knitted-amigurumi-blobcat",
+    "https://www.ravelry.com/patterns/library/knitted-amigurumi-blobcat/editors",
+    "https://www.ravelry.com/patterns/sources/lpreys-on-misskey",
+    "https://www.ravelry.com/patterns/library/knitted-amigurumi-blobcat/yarns",
+    "https://www.ravelry.com/patterns/library/knitted-amigurumi-blobcat/people",
+    "https://www.ravelry.com/patterns/library/knitted-amigurumi-blobcat/report"
+  ],
+  "name": "Ravelry: Knitted Amigurumi \"blobcat\" pattern by lpre ys"
 }

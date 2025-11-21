@@ -1,32 +1,37 @@
 {
   "pattern_id": 1485,
-  "pattern_page": "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments",
-  "name": "Charming Mushroom Ornaments",
-  "description": "",
-  "designer": "Jackie Parker",
+  "pattern_page": "https://www.ravelry.com/patterns/library/pentacle",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Berroco Vintage® DK"
+    "Aran / Worsted ?",
+    "Patons North America Classic Wool Merino"
   ],
   "attributes": [
-    "3-dimensional"
+    "felted",
+    "other-colorwork",
+    "pentagon-shape"
   ],
-  "full_text": "These bright and festive mushroom ornaments are fun to give as small gifts, and decorate a tree or wreath. It’s a great way to use of yarn leftovers. I knit using circular needles in magic loop method. Gauge is not important. If you use other weights or knit loosely, size your needles to achieve a relatively tight knit so the polyfill doesn’t show through. The size is approximately 2.5 inches tall.",
+  "full_text": "Felted pentacle bag",
   "techniques": [],
-  "shape": "cone",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/report",
-    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/editors",
-    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/yarns",
-    "https://www.ravelry.com/patterns/sources/jackie-parkers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/people",
-    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments/comments",
-    "https://www.ravelry.com/patterns/library/charming-mushroom-ornaments"
-  ]
+    "https://www.ravelry.com/patterns/library/pentacle/comments",
+    "https://www.ravelry.com/patterns/library/1-ender-bag",
+    "https://www.ravelry.com/patterns/library/pentacle",
+    "https://www.ravelry.com/patterns/library/pentacle/people",
+    "https://www.ravelry.com/patterns/library/pentacle/yarns",
+    "https://www.ravelry.com/patterns/library/pentacle/threads",
+    "https://www.ravelry.com/patterns/library/vinnland",
+    "https://www.ravelry.com/patterns/library/pentacle/report",
+    "https://www.ravelry.com/patterns/library/pentacle/editors",
+    "https://www.ravelry.com/patterns/periodicals/the-anticraft",
+    "https://www.ravelry.com/patterns/sources/the-anticraft-beltane-2007",
+    "https://www.ravelry.com/patterns/library/mini-jayne-hat"
+  ],
+  "name": "Ravelry: Pentacle pattern by Becca Compton"
 }

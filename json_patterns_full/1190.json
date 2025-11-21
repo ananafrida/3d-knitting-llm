@@ -1,41 +1,42 @@
 {
   "pattern_id": 1190,
-  "pattern_page": "https://www.ravelry.com/patterns/library/rainbow-babies",
+  "pattern_page": "https://www.ravelry.com/patterns/library/perfect-knitted-acorn",
+  "name": "Perfect Knitted Acorn",
+  "description": "Here’s a design I came up with, combining (what I consider to be) the best aspects of all of the acorn patterns I’ve found (and adding my own flavor, too). I’m happy to offer the pattern for free.",
+  "designer": "Jessie Driscoll",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Applique / Embellishment",
+  "sizes_available": "any size, dependent on yarn and needles",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Patons North America Astra (Solids)"
+    "any yarn"
   ],
   "attributes": [
-    "seamed",
-    "unisex",
-    "worked-flat",
+    "bottom-up",
+    "icord",
+    "in-the-round",
+    "one-piece",
+    "seamless",
+    "stripes-colorwork",
     "written-pattern"
   ],
-  "full_text": "Description from designer: From our postbag we know that innumerable kind-hearted people knit my dolls and toys to raise much needed funds for charity and other worthwhile causes. With this charity aspect in mind I have designed The Rainbow Babies as the first new and exclusive free pattern on our website. Ideal as fund-raisers, these sweet Babies are quick to knit and each one only requires 25 grams (less than 1 ounce) of yarn and the same amount of stuffing. The doll measures just 17cm (6.75in) high without the cap. The feet, legs, body and head are knitted in one piece and the ‘babygrow’ garment is part of the doll. The only separately knitted pieces are the arms, cap and scarf. You can make pink or brown Babies, but be sure to choose lovely bright colours for the rest of the design, in keeping with the rainbow theme. For extra play value I have also included a cosy rainbow pocket. Popped inside the pocket, every doll becomes part of the RAINBOW! The pocket measures 8cm by 9cm (3in by 3.5in). With your help I hope the Babies will create a beautiful RAINBOW all around the world.",
+  "full_text": "Here’s a design I came up with, combining (what I consider to be) the best aspects of all of the acorn patterns I’ve found (and adding my own flavor, too). I’m happy to offer the pattern for free. I like to knit them from small amounts of handspun and/or luxury yarns, and I like to stuff them with waste fiber from the combing process. :) You can use any yarn, but it’s good to have two colors of the same weight yarn. The size of the acorn will be determined by the thickness of the yarn and size of your needles. Enjoy! And please post your projects so I can see them. :)",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/rainbow-babies/comments",
-    "https://www.ravelry.com/patterns/library/toybox-snowman",
-    "http://jeangreenhowe.com/patterns.html",
-    "https://www.ravelry.com/patterns/periodicals/jean-greenhowe",
-    "https://www.ravelry.com/patterns/library/rainbow-babies",
-    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/yarns",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/posts",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/editors",
-    "https://www.ravelry.com/patterns/library/mirabelle-the-mermaid",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/people",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/edit",
-    "https://www.ravelry.com/patterns/library/dainty-dollies",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/threads",
-    "https://www.ravelry.com/patterns/library/rainbow-babies/report"
-  ],
-  "name": "Ravelry: Rainbow Babies pattern by Jean Greenhowe"
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn",
+    "https://www.ravelry.com/patterns/sources/stash-enhancement",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/report",
+    "https://www.ravelry.com/patterns/library/owl-sweater-for-blythe",
+    "https://www.ravelry.com/patterns/library/finbar-classic-bear",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/yarns",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/posts",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/people",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/editors",
+    "https://www.ravelry.com/patterns/library/linus-elf-hooded-hat-scarf",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/comments",
+    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/threads"
+  ]
 }

@@ -1,50 +1,39 @@
 {
   "pattern_id": 191,
-  "pattern_page": "https://www.ravelry.com/patterns/library/via-diagonale",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig",
+  "name": "Mr. Schnitzel the Pig",
+  "description": "ABOUT THE PATTERN",
+  "designer": "Svitlana Kondratova",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "one size",
+  "category": "Softies → Animal",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "18 cm",
   "languages": [
-    "English"
+    "English",
+    "Russian"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Grignasco Mexico"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Loves You 7"
   ],
   "attributes": [
-    "adult",
-    "icord",
-    "icord-edging",
-    "in-the-round",
-    "lined",
-    "mosaic",
-    "rectangle",
-    "seamless",
-    "slipped-stitches",
-    "teen",
-    "textured",
-    "three-needle-bind",
-    "top-down",
+    "phototutorial",
     "written-pattern"
   ],
-  "full_text": "From Knitty.com: This bag is roomy enough for the necessities and then some. I’ve left the structure rather simple,the shaping coming from the gusset and lining support. I highly suggest lining the bag simply to prolong the life of your knitting (well, that and the added structure and support the lining gives). Applied i-cord edging and i-cord handles give it a finished look. The slip stitch pattern is from Le Dictionnaire Harmony des Points de Tricot Volume III. The textured slip stitch pattern and contrasting colors make for one eye-catching bag. The pattern works beautifully using a solid and variegated yarn combination as well! A Note on Yarn Substitution: If Grignasco Mexico is not available, try Kertzer’s Butterfly Super 10 mercerized cotton or Elann Endless Summer Collection Sonata.",
+  "full_text": "ABOUT THE PATTERN This is a KNITTING PATTERN of a pig named Mr. Schnitzel. It includes a material list, abbreviations, instructions and photos. LANGUAGE: This pattern is written in ENGLISH and RUSSIAN. SKILL LEVEL: Advanced beginner. This pattern includes a material list, abbreviations, instructions and photos. MATERIALS REQUIRED: Sport weight yarn in pink, white and blue approx. 10 g each 2.5 circular knitting needles 2.5 mm two double pointed needles 3 mm crochet hook Darning needle Stuffing Stitch markers 10 pins 4 safety pins or scrap yarn Scrap yarn in red and black Depending on your yarn and needle size, the toy may be larger or smaller. TOY SIZE Approximately 18 cm You may sell the finished toy, provided you give the credit to Svitlana Kondratova as the designer You may not sell or share the pattern. Please don’t forget to tag your creations on Instagram with @im_strickfieber #im_strickfieber #MrSchnitzelThePig If you have any questions please do not hesitate to contact me.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/via-diagonale/yarns",
-    "https://www.ravelry.com/patterns/library/via-diagonale/editors",
-    "https://www.ravelry.com/patterns/library/via-diagonale/people",
-    "https://www.ravelry.com/patterns/library/via-diagonale/report",
-    "https://www.ravelry.com/patterns/library/via-diagonale",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/roxy-lady",
-    "https://www.ravelry.com/patterns/library/via-diagonale/comments",
-    "https://www.ravelry.com/patterns/library/via-diagonale/threads",
-    "https://www.ravelry.com/patterns/sources/knitty-spring-2005",
-    "https://www.ravelry.com/patterns/library/ella",
-    "https://www.ravelry.com/patterns/library/via-diagonale/posts",
-    "https://www.ravelry.com/patterns/library/gioia"
-  ],
-  "name": "Ravelry: Via Diagonale pattern by Wendy Wonnacott"
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig",
+    "https://www.ravelry.com/patterns/library/pandastic-beast",
+    "https://www.ravelry.com/patterns/library/maximilion-a-wild-cat",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/people",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/report",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/yarns",
+    "https://www.ravelry.com/patterns/sources/svitlana-kondratovas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/comments",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/editors",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/threads"
+  ]
 }

@@ -1,50 +1,40 @@
 {
   "pattern_id": 528,
-  "pattern_page": "https://www.ravelry.com/patterns/library/copilot",
-  "name": "Copilot",
-  "description": "I love pretty sock yarn so I buy lots of lovelies and then of course, don’t knit socks with them. So when a shawl is too much, I knit Copilot which is the sister pattern to Autopilot.",
-  "designer": "Dominique Trad",
+  "pattern_page": "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Adjustable",
+  "category": "Containers",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "sizes_available": "medium",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Araucania Yarns Ranco Sock"
+    "Cascade Yarns ® Cascade 220®",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "child",
-    "eyelets",
-    "female",
+    "3-dimensional",
+    "circle-shaped",
+    "felted",
     "in-the-round",
-    "male",
-    "mesh",
-    "one-piece",
     "seamless",
-    "teen",
-    "textured",
-    "unisex",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "I love pretty sock yarn so I buy lots of lovelies and then of course, don’t knit socks with them. So when a shawl is too much, I knit Copilot which is the sister pattern to Autopilot. Equally simple, this design features a garter stitch section separating the mesh for a little structure on a fingering weight (4ply) cowl. It may be adjusted in both length and width according to your taste. The sample (pictured) goes around the neck 3 times and requires 100g of yarn (measures 16cm wide x 180 around). 50g may be used to knit a lovely 1/2 size version. Find link to video from Very Pink Knits for Simple Stretchy Bind Off here or GOOGLE one that works for you.",
+  "full_text": "Actually, I’m not sure I’d call this a bowl if I’m being technical, as it looks a bit more like a vase, but it’s probably closer to a bowl than a vase. I’m using it to hold my reading glasses, so maybe it’s a holder. Both circular and double pointed needles needed.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/copilot/report",
-    "https://www.ravelry.com/patterns/library/copilot/people",
-    "https://www.ravelry.com/patterns/sources/dominique-designs",
-    "https://www.ravelry.com/patterns/library/gatsby-hat-3",
-    "https://www.ravelry.com/patterns/library/copilot",
-    "https://www.ravelry.com/patterns/library/copilot/yarns",
-    "https://www.ravelry.com/patterns/library/copilot/threads",
-    "https://www.ravelry.com/patterns/library/copilot/comments",
-    "https://www.ravelry.com/patterns/library/autopilot",
-    "https://www.ravelry.com/patterns/library/burst-cowl",
-    "https://www.ravelry.com/patterns/library/copilot/posts",
-    "https://www.ravelry.com/patterns/library/copilot/editors"
-  ]
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/yarns",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/comments",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/people",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/report",
+    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-smaller-opening",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/editors",
+    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-bottom-welt",
+    "https://www.ravelry.com/patterns/sources/deborah-does-navel-gazing"
+  ],
+  "name": "Ravelry: Ruffled Felted Bowl pattern by Deborah Gray"
 }

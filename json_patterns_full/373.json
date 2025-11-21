@@ -1,50 +1,38 @@
 {
   "pattern_id": 373,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fly-girl",
-  "name": "Fly Girl",
-  "description": "Fly Girl is an updated flight jacket, knit from the bottom up in 3 pieces (2 fronts, 1 back), sewn together. Short row sleeves are knit right on and easy directions are included. Pockets are sewn onto the front and have contrasting flaps. Fold over collar updates the look. A separating zipper creates a true flight jacket and embroidered (running stitch) “FLY GIRL” can be altered to Cheer Girl, Florida Girl, Barista Girl, etc.",
-  "designer": "Barbara Hurd",
+  "pattern_page": "https://www.ravelry.com/patterns/library/witch-doll-4",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan Coat / Jacket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Softies → Doll",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "Knits a 30 cm/ 12.5\" doll",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Brooklyn Tweed Shelter",
-    "DK (11 wpi) ?"
+    "Sublime Yarns Extra Fine Merino Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "appliqued",
     "bottom-up",
-    "collar",
-    "embroidery",
-    "in-the-round",
-    "long-sleeve",
     "modular",
-    "other-colorwork",
     "seamed",
-    "seamless",
-    "short-rows",
-    "unisex",
-    "worked-flat",
-    "written-pattern",
-    "zipper"
+    "worked-flat"
   ],
-  "full_text": "Fly Girl is an updated flight jacket, knit from the bottom up in 3 pieces (2 fronts, 1 back), sewn together. Short row sleeves are knit right on and easy directions are included. Pockets are sewn onto the front and have contrasting flaps. Fold over collar updates the look. A separating zipper creates a true flight jacket and embroidered (running stitch) “FLY GIRL” can be altered to Cheer Girl, Florida Girl, Barista Girl, etc. Comes in sizes S, M, L, XL; 32-34 (36-38, 40-42, 44-46) Worsted yarn in 2 colors completes the look. (I used a 3rd yarn, acrylic, for the words on the back.) Directions are given for easy assembly and adding zipper, by hand, to the front. This is not a design that has long areas of knitting. The numerous details are easy to manage and offer variety throughout, making it a fun knit. It is a fairly quick sweater to knit. If you can do basic sewing, you can make this sweater. I now design for donations to prevent suicide and for the Salvation Army. Please show your appreciation if able, by donating. Thank you!",
+  "full_text": "It’s easy to make the doll taller or shorter to whatever size you want. Just knit a few extra/ less rows in the legs and body.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/barbara-hurds-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fly-girl/people",
-    "https://www.ravelry.com/patterns/library/fly-fishing-socks",
-    "https://www.ravelry.com/patterns/library/blue-skies-5",
-    "https://www.ravelry.com/patterns/library/fly-girl/yarns",
-    "https://www.ravelry.com/patterns/library/fly-girl/comments",
-    "https://www.ravelry.com/patterns/library/fly-girl/threads",
-    "https://www.ravelry.com/patterns/library/lacy-leaf-shawl",
-    "https://www.ravelry.com/patterns/library/fly-girl/report",
-    "https://www.ravelry.com/patterns/library/fly-girl/editors",
-    "https://www.ravelry.com/patterns/library/fly-girl"
-  ]
+    "https://www.ravelry.com/patterns/library/carrot-18",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/threads",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/people",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/comments",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/report",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/editors",
+    "https://www.ravelry.com/patterns/library/knitted-lavender",
+    "https://www.ravelry.com/patterns/library/witch-doll-4",
+    "https://www.ravelry.com/patterns/library/slouchy-hat-28",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/yarns",
+    "https://www.ravelry.com/patterns/sources/just-saying-"
+  ],
+  "name": "Ravelry: Witch doll pattern by Bonny Bonafilla"
 }

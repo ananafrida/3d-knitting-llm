@@ -1,67 +1,32 @@
 {
   "pattern_id": 436,
-  "pattern_page": "https://www.ravelry.com/patterns/library/134-5-modern-elegance",
+  "pattern_page": "https://www.ravelry.com/patterns/library/strikket-julekrans-2",
+  "name": "Strikket julekrans",
+  "description": "Sød lille letstrikket julekrans.",
+  "designer": "Joy Sanderson",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
-  "sizes_available": "S/M - L - XL/XXL - XXXL",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
-    "Czech",
-    "Danish",
-    "Dutch",
-    "English",
-    "Estonian",
-    "Finnish",
-    "French",
-    "German",
-    "Hungarian",
-    "Icelandic",
-    "Italian",
-    "Norwegian",
-    "Polish",
-    "Portuguese",
-    "Spanish",
-    "Swedish",
-    "...and 16 other languages show hide other languages",
-    "...and 16 other languages show",
-    "hide other languages"
+    "Danish"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Verdi",
-    "Bulky (7 wpi) ?"
+    "yarn held together"
   ],
   "attributes": [
-    "adult",
-    "circle-shaped",
-    "female",
-    "in-the-round",
-    "long-sleeve",
-    "plus",
-    "seamed",
-    "teen",
-    "video-tutorial",
-    "written-pattern"
+    "icord"
   ],
-  "full_text": "Chest measurements: 84/90 - 100 - 110/120 - 136 cm / 33”/35½“ - 39½” - 43½“/47” - 53½ Materials: DROPS VERDI from Garnstudio Color no 03, blue/light blue/beige: 350-350-350-350 g Garment weight: approx. 245-280-315-350 g. DROPS STRAIGHT NEEDLES, DOUBLE POINTED NEEDLES AND CIRCULAR NEEDLE (40 and 80 cm / 16’’ and 32’’) size 7 mm / US 10½ - or size needed to get correct gauge.",
+  "full_text": "Sweet little lightly knitted Christmas wreath. Both wreath and bow are made using icord cord/horsehide cord.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/134-5-modern-elegance/comments",
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/134-5-modern-elegance/people",
-    "https://www.ravelry.com/patterns/library/134-5-modern-elegance/yarns",
-    "https://www.ravelry.com/patterns/library/134-5-modern-elegance/posts",
-    "https://www.ravelry.com/patterns/library/134-5-modern-elegance/report",
-    "https://www.ravelry.com/patterns/library/134-5-modern-elegance/edit",
-    "https://www.ravelry.com/patterns/sources/drops-134",
-    "https://www.ravelry.com/patterns/library/134-5-modern-elegance/threads",
-    "https://www.ravelry.com/patterns/library/134-10-a---rocky-mountain-hat",
-    "https://www.ravelry.com/patterns/library/98-8-stjerneskog",
-    "https://www.ravelry.com/patterns/library/133-1-butterfly-dreams",
-    "http://www.garnstudio.com/lang/us/pattern.php?id=5288&lang=us",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/134-5-modern-elegance/editors",
-    "https://www.ravelry.com/patterns/library/134-5-modern-elegance"
-  ],
-  "name": "Ravelry: 134-5 Modern Elegance pattern by DROPS design"
+    "https://www.ravelry.com/patterns/library/strikket-julekrans-2/yarns",
+    "https://www.ravelry.com/patterns/library/strikket-julekrans-2",
+    "https://www.ravelry.com/patterns/library/strikket-julekrans-2/editors",
+    "https://www.ravelry.com/patterns/sources/knitbyheartdk",
+    "https://www.ravelry.com/patterns/library/strikket-julekrans-2/report",
+    "https://www.ravelry.com/patterns/library/strikket-julekrans-2/edit",
+    "https://www.ravelry.com/patterns/library/strikket-julekrans-2/comments",
+    "https://www.ravelry.com/patterns/library/strikket-julekrans-2/people"
+  ]
 }

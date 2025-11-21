@@ -1,36 +1,39 @@
 {
   "pattern_id": 603,
-  "pattern_page": "https://www.ravelry.com/patterns/library/triss-baby-blanket",
-  "name": "Triss baby blanket",
-  "description": "",
-  "designer": "Agnieszka Wojtkowiak",
+  "pattern_page": "https://www.ravelry.com/patterns/library/korkhenn",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
+  "category": "Softies → Animal Pet → Toys",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Pullet",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "we are knitters The Cotton"
+    "Lily (Spinrite) Sugar'n Cream Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "stripes-colorwork"
+    "3-dimensional",
+    "circle-shaped",
+    "in-the-round",
+    "three-needle-bind",
+    "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "This is another entry to a line of cat toys that can be stuffed with a cork from a wine bottle: Korkfisshe , Korkmauser , and Korkmann . Scroll down for the Sochi Chicken variation at the bottom of the page.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tymek-baby-cardigan",
-    "https://www.ravelry.com/patterns/library/lane-cadigan",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/report",
-    "https://www.ravelry.com/patterns/sources/crepleknits",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/mia-cardigan-4",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket"
-  ]
+    "https://www.ravelry.com/patterns/library/korkfisshe",
+    "https://www.ravelry.com/patterns/library/korkhenn/report",
+    "https://www.ravelry.com/patterns/library/korkhenn/editors",
+    "https://www.ravelry.com/patterns/library/tea-wallet",
+    "https://www.ravelry.com/patterns/sources/peg-of-tilling-does-some-knitting",
+    "https://www.ravelry.com/patterns/library/korkhenn/threads",
+    "https://www.ravelry.com/patterns/library/ruffledy-scarf",
+    "https://www.ravelry.com/patterns/library/korkhenn/yarns",
+    "https://www.ravelry.com/patterns/library/korkhenn/people",
+    "https://www.ravelry.com/patterns/library/korkhenn",
+    "https://www.ravelry.com/patterns/library/korkhenn/comments"
+  ],
+  "name": "Ravelry: Korkhenn pattern by Diane Trap"
 }

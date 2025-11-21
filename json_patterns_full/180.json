@@ -1,36 +1,37 @@
 {
   "pattern_id": 180,
-  "pattern_page": "https://www.ravelry.com/patterns/library/glitter-purse-bag",
+  "pattern_page": "https://www.ravelry.com/patterns/library/seolgi",
+  "name": "Seolgi",
+  "description": "You can see this design on YouTube.",
+  "designer": "mongaknit",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "28X8Cm",
   "languages": [
-    "English"
-  ],
-  "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "So Crafty Tinsel"
+    "English",
+    "Korean"
   ],
   "attributes": [
-    "bottom-up",
-    "seamed",
-    "worked-flat",
+    "amigurumi",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "Easy to make purse bag which can simply adapted to other similar yarns. Knitted in garter stitch throughout. For a longer handle add more rows. Measures approx 14cmx14 cm",
+  "full_text": "You can see this design on YouTube. If you want an organized writing pattern, please purchase it.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/report",
-    "https://www.ravelry.com/patterns/library/monster-high-juniper-dress",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/people",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/yarns",
-    "https://www.ravelry.com/patterns/library/monster-high-mustard-dress",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/comments",
-    "https://www.ravelry.com/patterns/library/bratz-burnt-orange-dress",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/editors",
-    "https://www.ravelry.com/patterns/sources/taffy-lass-knits"
-  ],
-  "name": "Ravelry: Glitter Purse Bag pattern by taffylass knits"
+    "https://www.ravelry.com/patterns/library/seolgi/editors",
+    "https://www.ravelry.com/patterns/library/seolgi/people",
+    "https://www.ravelry.com/patterns/library/seolgi/report",
+    "https://www.ravelry.com/patterns/library/seolgi/threads",
+    "https://www.ravelry.com/patterns/library/seolgi/comments",
+    "https://www.ravelry.com/patterns/library/duusami",
+    "https://www.ravelry.com/patterns/library/nalbongi-knit",
+    "https://www.ravelry.com/patterns/sources/mongaknit-ravelry-store",
+    "https://www.ravelry.com/patterns/library/seolgi/yarns",
+    "https://www.ravelry.com/patterns/sources/mongaknit-on-youtube-",
+    "https://www.ravelry.com/patterns/library/kirico",
+    "https://www.ravelry.com/patterns/library/seolgi"
+  ]
 }

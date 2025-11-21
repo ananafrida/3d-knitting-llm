@@ -1,36 +1,44 @@
 {
   "pattern_id": 1983,
-  "pattern_page": "https://www.ravelry.com/patterns/library/schleudersternspitze",
+  "pattern_page": "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball",
+  "name": "Gevlochten Bal / Braided Ball",
+  "description": "This is a great pattern for leftovers of not too thin (or too thick) yarn. I stumbled upon this ball a few years back, but never found a pattern for it, so I decided to find out how it was made myself, from just a photo. Took me a few nights, but then I had it.",
+  "designer": "Marleen Hartog",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "60/64/68/72 M/sts",
+  "category": "Ball",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
-    "English",
-    "German"
+    "Dutch",
+    "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?"
+    "Wibra Saskia",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "chart",
-    "star-toe",
+    "3-dimensional",
+    "phototutorial",
+    "seamed",
+    "sphere-shaped",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Difficulty level ●○○○○ The instructions are only for the tip. There are different versions of the sling star tip. Since I've been asked several times how I knit the sling star lace, I've written it down for you. There are charts for 60/64/68/72 stitches. This way you can see directly how many laps you have to plan for the top. As the charts speak for themselves, I have only translated the abbreviations into English.",
+  "full_text": "This is a great pattern for leftovers of not too thin (or too thick) yarn. I stumbled upon this ball a few years back, but never found a pattern for it, so I decided to find out how it was made myself, from just a photo. Took me a few nights, but then I had it. I just finished the English translation of this pattern, and it is now available as a free Ravelry-download. Can be knitted in a few hours. Great project for children who just stated learning how to knit as well, although they need a bit of help assembling it. Can also be crocheted, with a little imagination. Update december 2012 : Raveller Cheryl Brunette has made a great instruction-video on how to assemble the ball on Youtube. I thought a picture said more then a thousand words, but a video definitely says more then a thousand pictures ! Find it here : http://www.youtube.com/watch?v=pZA_kgR9bGc&amp;feature=plcp",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/eifelsterns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/schleudersternspitze/comments",
-    "https://www.ravelry.com/patterns/library/schleudersternspitze/yarns",
-    "https://www.ravelry.com/patterns/library/schleudersternspitze/report",
-    "https://www.ravelry.com/patterns/library/schleudersternspitze/editors",
-    "https://www.ravelry.com/patterns/library/zopf-an-zopf-mal-anders",
-    "https://www.ravelry.com/patterns/library/beerige-reste",
-    "https://www.ravelry.com/patterns/library/kleeblatt-glucksbringer",
-    "https://www.ravelry.com/patterns/library/schleudersternspitze",
-    "https://www.ravelry.com/patterns/library/schleudersternspitze/people"
-  ],
-  "name": "Ravelry: Schleudersternspitze pattern by Heike kreativ"
+    "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball/comments",
+    "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball/editors",
+    "https://www.ravelry.com/patterns/sources/leentjes-creacorner",
+    "http://members.home.nl/marleen.hartog/Website%20Marleen/Pagina%27s/Knotted%20of%20Braided%20Ball.pdf",
+    "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball/threads",
+    "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball/report",
+    "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball/yarns",
+    "https://www.ravelry.com/patterns/library/market-bag-41",
+    "https://www.ravelry.com/patterns/library/rabbit-potholders",
+    "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball/posts",
+    "https://www.ravelry.com/patterns/library/bag-of-polyband-or-curling-ribbon",
+    "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball",
+    "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball/people"
+  ]
 }

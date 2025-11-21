@@ -1,38 +1,39 @@
 {
   "pattern_id": 667,
-  "pattern_page": "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen",
-  "name": "wald-zwergenmützchen",
-  "description": "Größe einfach variierbar: je 4 Maschen hinzufügen um das Mützchen größer zu stricken",
-  "designer": "frau kreativberg",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-fish-cat-toy",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "3 monate und älter",
+  "category": "Pet → Toys",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Thread ?",
-    "Silke Peo 30"
+    "Worsted (9 wpi) ?",
+    "100% wool"
   ],
   "attributes": [
+    "felted",
+    "in-the-round",
+    "one-piece",
     "written-pattern"
   ],
-  "full_text": "Size can be easily varied: add 4 stitches each to knit the hat larger",
+  "full_text": "a quick to make and fun toy for your cat. for a smaller fish use smaller yarn and needles, for a bigger fish bigger yarn and needles. make sure that your wool is not super wash or it won’t felt",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/editors",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/comments",
-    "https://www.ravelry.com/patterns/library/stulpen-2",
-    "https://www.ravelry.com/patterns/sources/kreativberg-2",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/people",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/report",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/posts",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen",
-    "https://www.ravelry.com/patterns/library/einfache-herrenmutze",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/yarns",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/threads",
-    "https://www.ravelry.com/patterns/library/kreativbergs-kurbismutze"
-  ]
+    "https://www.ravelry.com/patterns/library/felted-fish-cat-toy/threads",
+    "https://www.ravelry.com/patterns/library/naga-socks",
+    "https://www.ravelry.com/patterns/library/felted-fish-cat-toy/editors",
+    "https://www.ravelry.com/patterns/library/felted-fish-cat-toy/yarns",
+    "https://www.ravelry.com/patterns/library/felted-fish-cat-toy/comments",
+    "https://www.ravelry.com/patterns/library/felted-fish-cat-toy",
+    "https://www.ravelry.com/patterns/library/tashas-cowl",
+    "https://www.ravelry.com/patterns/library/wedding-veil-shawl",
+    "https://www.ravelry.com/patterns/sources/knitting-calendar-2014",
+    "https://www.ravelry.com/patterns/library/felted-fish-cat-toy/report",
+    "https://www.ravelry.com/patterns/library/felted-fish-cat-toy/posts",
+    "https://www.ravelry.com/patterns/sources/a-kitten-knits",
+    "https://www.ravelry.com/patterns/library/felted-fish-cat-toy/people"
+  ],
+  "name": "Ravelry: felted fish cat toy pattern by Alien Sunset"
 }

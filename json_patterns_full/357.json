@@ -1,44 +1,36 @@
 {
   "pattern_id": 357,
-  "pattern_page": "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/andreas-knuddel-doll",
+  "name": "Andrea's Knuddel-Doll",
+  "description": "Die Knuddel-Doll ist das ideale Projekt, um bunte Sockenwoll-Reste ab 5 bzw. 10 g zu verarbeiten.",
+  "designer": "Andrea Baron",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
-  "sizes_available": "one-size, for a pre-school toddler of 1 - 2 years",
+  "category": "Softies → Doll",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
-    "English"
+    "German"
   ],
   "suggested_yarn": [
-    "",
-    "Super Bulky (5-6 wpi) ?"
+    "Zwerger Garn Opal 4-fach | 4-ply",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "buttoned",
-    "female",
-    "front-fastening",
-    "hood",
-    "long-sleeve",
-    "male",
-    "toddler",
-    "unisex",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round",
+    "top-down"
   ],
-  "full_text": "My Babbity Baby Jacket is very popular ! From month to month, it is always in the ‘Top 5’ of favourited designs. This version is new - and can be knitted with or without a hood . This lovely jacket was knitted by Joanne Loasby - a member of my facebook group A lovely cosy gender-neutral jacket :) Requires: 2 strands of DK knitted together (around 330 – 350g) (or one strand of UK chunky weight yarn) 6mm needles 3 buttons So sweet ! To get this free pattern please click on the https link just below ↓",
+  "full_text": "The cuddly doll is the ideal project for using colorful sock yarn leftovers weighing 5 or 10 g or more. It is expressly desired that the dolls also be knitted for charitable purposes... that is exactly why the instructions were created. Have lots of fun with it!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/report",
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/threads",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/yarns",
-    "https://www.ravelry.com/patterns/library/babbity-baby-romper",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/editors",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket",
-    "https://www.ravelry.com/patterns/library/mariannas-little-baby-trousers",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/people",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/comments",
-    "https://www.ravelry.com/patterns/library/dungarews-babys-shortie-dungarees"
-  ],
-  "name": "Ravelry: Babbity Chunky Hooded Jacket pattern by marianna mel"
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/people",
+    "https://www.ravelry.com/patterns/library/andreas-bambusa",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/yarns",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/report",
+    "https://www.ravelry.com/patterns/library/andreas-herbaria",
+    "https://www.ravelry.com/patterns/library/andreas-protea",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll",
+    "https://www.ravelry.com/patterns/sources/andrea-barons-ravelry-store",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/comments",
+    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/editors"
+  ]
 }

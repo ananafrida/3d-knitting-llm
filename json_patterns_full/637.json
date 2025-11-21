@@ -1,43 +1,37 @@
 {
   "pattern_id": 637,
-  "pattern_page": "https://www.ravelry.com/patterns/library/troll-2",
-  "name": "Troll",
-  "description": "Troll is a easy and quick knitted hat for your little troll ;-)",
-  "designer": "Gabriela Widmer-Hanke",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sweetheart-catnip-cuddler",
+  "name": "Sweetheart Catnip Cuddler",
+  "description": "This adorable hand-knit heart is the perfect treat for your feline friend! Made with soft worsted-weight yarn, this simple pattern features easy shaping and straightforward construction. Fill it with stuffing, catnip, and an optional bell to create a fun and engaging toy your cat will love. Perfect for beginners and experienced knitters alike, this quick project makes a great gift or stash-buster.",
+  "designer": "Built by Karen",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
+  "category": "Pet → Toys",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "Baby (Toddler, Child)",
   "languages": [
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "madelinetosh Tosh Chunky",
-    "Aran (8 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Lion Brand Heartland"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
-    "child",
-    "positive-ease",
-    "written-pattern"
+    "seamed",
+    "worked-flat"
   ],
-  "full_text": "Troll is a easy and quick knitted hat for your little troll ;-) It is knitted in rounds from bottom up in stockinet sts. Sizes: Baby (Toddler, Child) Yarn: approx 90 (110, 130) m of aran weight yarn. Errata: decrease Row 4 : k 5 (6, 7) not 5 (5, 6)",
-  "techniques": [],
-  "shape": "sphere",
+  "full_text": "This adorable hand-knit heart is the perfect treat for your feline friend! Made with soft worsted-weight yarn, this simple pattern features easy shaping and straightforward construction. Fill it with stuffing, catnip, and an optional bell to create a fun and engaging toy your cat will love. Perfect for beginners and experienced knitters alike, this quick project makes a great gift or stash-buster. Skill Level: Beginner-friendly Techniques Used: Increases, decreases, simple shaping, seaming",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/troll-2/posts",
-    "https://www.ravelry.com/patterns/library/troll-2/report",
-    "https://www.ravelry.com/patterns/library/stripes-13",
-    "https://www.ravelry.com/patterns/library/troll-2/people",
-    "https://www.ravelry.com/patterns/library/troll-2/threads",
-    "https://www.ravelry.com/patterns/library/wickeljacke-4",
-    "https://www.ravelry.com/patterns/library/troll-2/editors",
-    "https://www.ravelry.com/patterns/library/berry-hat-2",
-    "https://www.ravelry.com/patterns/library/troll-2/comments",
-    "https://www.ravelry.com/patterns/library/troll-2",
-    "https://www.ravelry.com/patterns/library/troll-2/yarns",
-    "https://www.ravelry.com/patterns/sources/gabriela-widmer-hankes-ravelry-store"
+    "https://www.ravelry.com/patterns/library/sweetheart-catnip-cuddler/yarns",
+    "https://www.ravelry.com/patterns/sources/built-by-karen-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sweetheart-catnip-cuddler/editors",
+    "https://www.ravelry.com/patterns/library/sweetheart-catnip-cuddler/report",
+    "https://www.ravelry.com/patterns/library/sweetheart-catnip-cuddler/comments",
+    "https://www.ravelry.com/patterns/library/sweetheart-catnip-cuddler",
+    "https://www.ravelry.com/patterns/library/felted-elf-hat",
+    "https://www.ravelry.com/patterns/library/sweetheart-catnip-cuddler/people"
   ]
 }

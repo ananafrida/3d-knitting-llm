@@ -1,36 +1,41 @@
 {
   "pattern_id": 228,
-  "pattern_page": "https://www.ravelry.com/patterns/library/glitter-purse-bag",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-tassels",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "One Size Only",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "So Crafty Tinsel"
+    "Light Fingering ?",
+    "Qing Fibre Merino Single"
   ],
   "attributes": [
-    "bottom-up",
-    "seamed",
+    "one-piece",
+    "seamless",
+    "triangle-shaped",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Easy to make purse bag which can simply adapted to other similar yarns. Knitted in garter stitch throughout. For a longer handle add more rows. Measures approx 14cmx14 cm",
+  "full_text": "Perfect one skein project. Skills required This pattern is a beginner/ intermediate knitting project. Size One size fits all adults Loop London often has beautiful kits for this project, which includes all of the yarn you need for the MC as well as the tassels, a printed version of the pattern, and a Loop cotton bag.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/report",
-    "https://www.ravelry.com/patterns/library/monster-high-juniper-dress",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/people",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/yarns",
-    "https://www.ravelry.com/patterns/library/monster-high-mustard-dress",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/comments",
-    "https://www.ravelry.com/patterns/library/bratz-burnt-orange-dress",
-    "https://www.ravelry.com/patterns/library/glitter-purse-bag/editors",
-    "https://www.ravelry.com/patterns/sources/taffy-lass-knits"
+    "https://www.ravelry.com/patterns/library/tiny-tassels/report",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/editors",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/threads",
+    "https://www.ravelry.com/patterns/sources/loop-london",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-tassels",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/people",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/posts",
+    "https://www.ravelry.com/patterns/sources/karin-fernandes-ravelry-store",
+    "https://www.ravelry.com/patterns/library/eclair-3",
+    "https://www.ravelry.com/patterns/library/soho-orchid",
+    "https://www.ravelry.com/patterns/library/inovec",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/comments"
   ],
-  "name": "Ravelry: Glitter Purse Bag pattern by taffylass knits"
+  "name": "Ravelry: Tiny Tassels pattern by Karin Fernandes"
 }

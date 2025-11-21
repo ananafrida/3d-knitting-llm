@@ -1,39 +1,44 @@
 {
   "pattern_id": 468,
-  "pattern_page": "https://www.ravelry.com/patterns/library/free-for-all-cowl",
-  "name": "Free For All Cowl",
-  "description": "The FREE FOR ALL cowl is designed to make the most of one skein of worsted weight yarn (200-225 yards) or one skein of fingering weight yarn (400-463 yards, held double). It features an intuitive textured stripe pattern, knit-on I-cord edge for structure and a cozy, throw-on-and-go style. This cowl begins with a provisional cast on and uses Kitchener Stitch to join for a smooth, invisible finish.",
-  "designer": "Jen Peck",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "One size - approx. 9\" wide by 24\" circumference - easily customizable",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Plymouth Yarn Encore Tweed",
-    "Worsted (9 wpi) ?"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "eyelets",
-    "textured"
+    "cables",
+    "chart",
+    "in-the-round",
+    "raglan-sleeve",
+    "ribbed",
+    "seamless",
+    "stranded",
+    "top-down",
+    "written-pattern"
   ],
-  "full_text": "The FREE FOR ALL cowl is designed to make the most of one skein of worsted weight yarn (200-225 yards) or one skein of fingering weight yarn (400-463 yards, held double). It features an intuitive textured stripe pattern, knit-on I-cord edge for structure and a cozy, throw-on-and-go style. This cowl begins with a provisional cast on and uses Kitchener Stitch to join for a smooth, invisible finish. SIZES: One size, easily customized MEASUREMENTS Approximately 9” wide by 24” in circumference YARN REQUIREMENTS Worsted weight yarn approximately 200-225 yards. Alternatively, you can use one skein of Fingering weight yarn (400-463 yards) held double. Yellow sample uses The Dye Project Ecola Merino/Silk Worsted in “Kolsch” (85% merino, 15% silk; 215 yards per 100 grams). Beige sample uses Plymouth Yarn Co. Encore Tweed in “Oatmeal” (75% acrylic, 22% wool, 3% viscose; 200 yards per 100 grams). NEEDLES Suggested 5.0 mm (US 8) circular needles at least 16” long NOTIONS Stitch markers, waste yarn, tapestry needle, blocking materials GAUGE Gauge is not vital for this pattern. Choose a yarn and needle combination that creates a fabric that you like, keeping in mind that this may result in different yardage requirements and garment measurements. If you would like to support me as a designer you can do so via: https://ko-fi.com/websterstreetknittery Thank you!",
-  "techniques": [],
-  "shape": "cube",
+  "full_text": "Materials Fingerling weight yarn & double-pointed needles size 1 or 2 A specific gauge is not needed since these are a decorative ornament. This pattern is a top-down raglan style sweater ornament. It’s a great use for odds and ends of sock yarn. The pattern has basic instructions followed by a stranded colorwork variation and a cabled variation.",
+  "techniques": [
+    "top-down"
+  ],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/larinda-yoke-sweater",
-    "https://www.ravelry.com/patterns/library/lilys-scrap-blanket",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/editors",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/comments",
-    "https://www.ravelry.com/patterns/sources/webster-street-knittery",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/threads",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/report",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/people",
-    "https://www.ravelry.com/patterns/library/gingermint-shawl",
-    "https://www.ravelry.com/patterns/library/free-for-all-cowl/posts"
-  ]
+    "https://www.ravelry.com/patterns/sources/emily-lewis-google-docs",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/comments",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/people",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/posts",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/edit",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/threads",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/editors",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/report",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables/yarns",
+    "https://www.ravelry.com/patterns/sources/greens-and-jeans"
+  ],
+  "name": "Ravelry: Mini Sweater Ornament with Cables pattern by Emily Lewis"
 }

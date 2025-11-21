@@ -1,46 +1,43 @@
 {
   "pattern_id": 248,
-  "pattern_page": "https://www.ravelry.com/patterns/library/little-slip-of-a-thing",
+  "pattern_page": "https://www.ravelry.com/patterns/library/broken-rib-cowl-6",
+  "name": "Broken Rib Cowl",
+  "description": "A quick and easy cowl using exactly one skein of Malabrigo Mecha. Perfect for chilly days.",
+  "designer": "A Twist of Yarn",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "category": "Neck / Torso → Scarf Neck / Torso → Cowl",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Brown Sheep Lamb's Pride Worsted"
+    "Malabrigo Yarn Mecha",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
+    "adult",
     "bottom-up",
-    "felted",
-    "icord",
     "in-the-round",
     "one-piece",
-    "other-colorwork",
-    "seamless",
-    "slipped-stitches",
-    "square",
+    "ribbed",
+    "teen",
+    "textured",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "Description from Knitty.com: This handbag uses Lamb’s Pride by Brown Sheep, a wool/mohair blend. It is a heavier worsted weight yarn, and the mohair lends a pleasing sheen and softness to the final bag. The slip stitch patterns add further rigidity to the final fabric, so you actually CAN make a sturdy bag that sits up on its own with only one strand of yarn. It is easy to change the dimensions of the bag by adding or subtracting groups of 8 stitches when you cast on, or groups of 16 rows as you knit the base. Then simply make the bag as tall as you like by adding additional solid and multi-color rounds.",
+  "full_text": "A quick and easy cowl using exactly one skein of Malabrigo Mecha. Perfect for chilly days. One size only. Materials 1 Skein of Malabrigo Mecha or minimum of 120m /130y of chunky weight yarn 5.0mm and 6.0 mm 16” circular needles or 40” circular for magic loop Stitch marker(s) Darning Needle Note: You can adjust the width/length of the cowl, but you will need to increase your yarn amount. This pattern is designed to use exactly one skein.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-balloon-bag",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/editors",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/posts",
-    "https://www.ravelry.com/patterns/sources/knitty-fall-2006",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/threads",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/comments",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/yarns",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing",
-    "https://www.ravelry.com/patterns/library/starburst-felted-beret-and-classic-felted-beret",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/people",
-    "https://www.ravelry.com/patterns/library/little-slip-of-a-thing/report",
-    "https://www.ravelry.com/patterns/library/mitered-squares-felted-tote-and-flap-bag"
-  ],
-  "name": "Ravelry: Little Slip Of A Thing pattern by Diane Sutliff"
+    "https://www.ravelry.com/patterns/library/easy-top-down-magic-loop-socks",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/yarns",
+    "https://www.ravelry.com/patterns/sources/a-twist-of-yarn",
+    "https://www.ravelry.com/patterns/sources/a-twist-of-yarns-ravelry-store",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/report",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/editors",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/people",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/comments"
+  ]
 }

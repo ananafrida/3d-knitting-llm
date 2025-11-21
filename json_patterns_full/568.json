@@ -1,40 +1,34 @@
 {
   "pattern_id": 568,
-  "pattern_page": "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket",
+  "name": "Perin Knitted Wall Basket",
+  "description": "The Perin Knitted Wall Basket is made using t-shirt yarn and the magic loop method.",
+  "designer": "Alice Quarterman",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "30 inches wide x 30 inches long",
+  "category": "Containers",
+  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Purl Soho Mulberry Merino"
+    "Paintbox Yarns Recycled T-shirt",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "short-rows",
-    "square",
-    "stripes-colorwork",
-    "worked-flat",
+    "in-the-round",
+    "textured",
     "written-pattern"
   ],
-  "full_text": "MATERIALS 7 skeins of Purl Soho’s Mulberry Merino , 80% extra fine merino wool, and 20% mulberry silk; or 7 skeins containing approximately 247 yards each of a sport weight yarn Colors A, C, D, E, F: 1 skein (approximately 101 yards) per color Color B: 2 skeins (approximately 505 yards) required. You will also need: US 5 (3.75 mm), 24-inch circular needles GAUGE 20 stitches and 40 rows = 4 inches in garter stitch SIZE Finished Dimensions: Approximately 30 inches wide x 30 inches long",
+  "full_text": "The Perin Knitted Wall Basket is made using t-shirt yarn and the magic loop method. The pattern can be adjusted to make it whatever size you want. In the pattern as written, the basket is approximately 20cm tall including the hanging loop and protrudes about 15cm from the wall. You will need circular needles with a long cord in whatever size works for you to create a fairly dense fabric (e.g. 9mm or 10mm). Contact me if you require an alt text version of the pdf pattern.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/posts",
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453",
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket",
-    "https://www.ravelry.com/patterns/library/easy-puzzle-blanket",
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket",
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/report"
-  ],
-  "name": "Ravelry: Colorful Wedges Baby Blanket pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/comments",
+    "https://www.ravelry.com/patterns/sources/alice-quartermans-ravelry-store",
+    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/people",
+    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/yarns",
+    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/editors",
+    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket",
+    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/report"
+  ]
 }

@@ -1,38 +1,50 @@
 {
   "pattern_id": 2215,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-3d-glasses",
+  "pattern_page": "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Hat → Pixie",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "19, 22in/48.25, 55.75 cm",
   "languages": [
-    "Danish",
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Zwerger Garn Opal Hundertwasser 4-fach / 4-ply"
+    "Manos del Uruguay Wool Clasica",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "unisex",
+    "adult",
+    "bottom-up",
+    "child",
+    "color-blind-accessible",
+    "low-vision",
+    "ribbed",
+    "seamed",
+    "seamless",
+    "teen",
+    "toddler",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Pattern in English: The pattern is not an actual pattern but more a description of what I did. The pattern should be modified to fit your own toy glasses. Pattern is in Danish. The pattern is purely a description of what I did for a pair of 3D glasses from the cinema. Must be varied for other thickness play glasses.",
-  "techniques": [],
-  "shape": "softie",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/people",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/editors",
-    "http://christunte.blogspot.com/2009/11/sort-of-pattern.html",
-    "https://www.ravelry.com/patterns/sources/strikkoman",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/report",
-    "https://www.ravelry.com/patterns/library/cpap-hat-upwards",
-    "https://www.ravelry.com/patterns/library/teddybear-poncho-sweater",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/comments",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses",
-    "https://www.ravelry.com/patterns/library/angel-touch-scarf",
-    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/threads"
+  "full_text": "’Cos scientists are wizards, no? You can knit it in any colour you want, but green is pretty good. I designed this Hat to support the Scientists March - I won’t be able to march, and this is the least I can do to show solidarity. There are 2 sizes included - 19in (12mth through to small adult) and 22in (average adult female). There are 3 different brim options and 2 different crown options (depending on how much of a point you want to make). And because I want to be as accessible to as many knitters as possible, I’ve included instructions for knitting in the round AND knitting flat. It’s a bumper pattern! I used Manos del Uruguay Wool Clasica as it’s a great woolly chunky yarn that knits up super quick and provides women in Uruguay with social and economic opportunities through the Manos cooperatives. (I’m a big fan of fairtrade yarn, as you know). I’m unable to offer pattern support for my free patterns via Ravelry PM or email - please visit the Wormhead’s Hats group if you have a question about this pattern. Thanks for your understanding! Yarn 100-138 yd/91-126m heavy aran/chunky weight single ply yarn Needles & Notions Set 5mm/UK6/US8 DPNs/circular or size needed to obtain gauge Stitch marker as necessary Tapestry needle Gauge 16 sts x 20 rows to 4in/10cm on 5mm over St.st. 16 sts x 21 rows to 4in/10 cm on 5mm needles over Twisted Rib 16 sts x 32 rows to 4 in/10cm on 5mm needles over Garter St. Sizes To fit sizes: 19 (22) in/48.25 (55.75) cm Finished size: 15 (18) in/38 (45.2) cms Sample details Shown in Manos del Uruguay Wool Clasica (138yd/126m per 100g; 100% wool) Shown in Soft Pixie version with a 1x1 twisted rib in size 22in/55/75cm on model with 22in/55.75cm circumference head Skills required Knit & purl sts, knitting in the round, increases & decreases, twisted stitches, specialist cast-on Accessibility Statement The main PDF for this pattern is colour blind accessible. It uses black text on a white background and does not rely on colour. Published 2017 Product code: WW309FAHatToMakeAPoint",
+  "techniques": [
+    "decreases",
+    "increases"
   ],
-  "name": "Ravelry: Knitted 3D Glasses pattern by Christine R. Hansen"
+  "shape": "sphere",
+  "download_links": [
+    "https://www.ravelry.com/bundles/free-patterns-331",
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/editors",
+    "https://www.ravelry.com/patterns/sources/woolly-wormhead",
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/people",
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/report",
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/yarns",
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point",
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/comments",
+    "https://www.ravelry.com/patterns/library/toph-2",
+    "https://www.ravelry.com/patterns/library/quynn",
+    "https://www.ravelry.com/patterns/library/a-hat-to-make-a-point/threads",
+    "https://www.ravelry.com/patterns/library/feuille"
+  ],
+  "name": "Ravelry: A Hat To Make A Point pattern by Woolly Wormhead"
 }

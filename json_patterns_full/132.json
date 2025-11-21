@@ -1,42 +1,37 @@
 {
   "pattern_id": 132,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cute-baby-blocks",
+  "pattern_page": "https://www.ravelry.com/patterns/library/seolgi",
+  "name": "Seolgi",
+  "description": "You can see this design on YouTube.",
+  "designer": "mongaknit",
   "craft": "Knitting",
-  "category": "Blocks",
+  "category": "Softies → Animal",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "4\" x 4\" x 4\" (10cm x 10cm x 10cm)",
+  "sizes_available": "28X8Cm",
   "languages": [
-    "English"
-  ],
-  "suggested_yarn": [
-    "Plymouth Yarn Encore D.K.",
-    "DK (11 wpi) ?"
+    "English",
+    "Korean"
   ],
   "attributes": [
-    "3-dimensional",
-    "cables",
-    "chart",
-    "cube-shaped",
-    "seamed",
-    "worked-flat"
+    "amigurumi",
+    "video-tutorial",
+    "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "You can see this design on YouTube. If you want an organized writing pattern, please purchase it.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/threads",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/report",
-    "https://www.ravelry.com/patterns/library/father-pullover",
-    "https://www.ravelry.com/patterns/periodicals/canadian-living",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/comments",
-    "https://www.ravelry.com/patterns/sources/canadian-living-online",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/editors",
-    "https://www.ravelry.com/patterns/library/trellis-wrap-9",
-    "https://www.ravelry.com/patterns/sources/continuous-cables",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/yarns",
-    "https://www.ravelry.com/patterns/library/honky-tonk",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/people"
-  ],
-  "name": "Ravelry: Cute Baby Blocks pattern by Melissa Leapman"
+    "https://www.ravelry.com/patterns/library/seolgi/editors",
+    "https://www.ravelry.com/patterns/library/seolgi/people",
+    "https://www.ravelry.com/patterns/library/seolgi/report",
+    "https://www.ravelry.com/patterns/library/seolgi/threads",
+    "https://www.ravelry.com/patterns/library/seolgi/comments",
+    "https://www.ravelry.com/patterns/library/duusami",
+    "https://www.ravelry.com/patterns/library/nalbongi-knit",
+    "https://www.ravelry.com/patterns/sources/mongaknit-ravelry-store",
+    "https://www.ravelry.com/patterns/library/seolgi/yarns",
+    "https://www.ravelry.com/patterns/sources/mongaknit-on-youtube-",
+    "https://www.ravelry.com/patterns/library/kirico",
+    "https://www.ravelry.com/patterns/library/seolgi"
+  ]
 }

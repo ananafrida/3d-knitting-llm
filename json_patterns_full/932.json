@@ -1,39 +1,48 @@
 {
   "pattern_id": 932,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs",
-  "name": "Gruesome Knitted Eyeballs",
-  "description": "Just the thing for Halloween, but good for any occasion! They make great gifts, ornaments and cat toys!",
-  "designer": "Mary Jane Mucklestone",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tearoom-messenger-bag",
+  "name": "Tearoom Messenger Bag",
+  "description": "A Messenger Bag for 20cm/8” Little Tearoom Bears …",
+  "designer": "Susan Hickson",
   "craft": "Knitting",
-  "category": "Ball",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "Suitable for 20cm/8\" Tearoom Bears",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Rauma Finullgarn"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "in-the-round",
-    "sphere-shaped",
+    "phototutorial",
+    "seamed",
+    "twisted-stitches",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Just the thing for Halloween, but good for any occasion! They make great gifts, ornaments and cat toys!",
+  "full_text": "A Messenger Bag for 20cm/8” Little Tearoom Bears … This magical little bag is decorated with twisted stitches, reverse stocking stitch and garter stitch and is finished with a tiny wooden button to keep those most special messages safe on their journey … Experiment with different yarn weights and needle sizes for varying sized bags. Included in the pattern … List of all materials required. Step by step instructions. In progress photos. Useful links to techniques and resources. The Little Tearoom Bear messengers can be found here … Little Tearoom Bears M1 (’In the round’) Little Tearoom Bears M2 (’back & forth’) More places to find Mary Jane’s Tearoom … MjT Ravelry Group Mary Jane’s Tearoom Blog MjT Facebook Knitting Group You are welcome to contact me at any time if you have any questions either before or after downloading your pattern. Copyright © Mary Jane’s TEAROOM ALL RIGHTS RESERVED.",
   "techniques": [],
-  "shape": "softie",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/island-to-island-vest",
-    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/posts",
-    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/editors",
-    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/people",
-    "https://www.ravelry.com/patterns/library/rinner-vest",
-    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/threads",
-    "https://www.ravelry.com/patterns/sources/mary-jane-mucklestone-ravelry-shop",
-    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/yarns",
-    "https://www.ravelry.com/patterns/library/olive-tutorial",
-    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs",
-    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/report",
-    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/comments"
+    "https://www.ravelry.com/patterns/library/tearoom-messenger-bag/yarns",
+    "https://www.ravelry.com/patterns/library/mossy-bear-hat",
+    "https://www.ravelry.com/patterns/library/tearoom-messenger-bag/report",
+    "https://www.ravelry.com/bundles/free-mary-janes-tearoom-patterns",
+    "https://www.ravelry.com/patterns/library/tearoom-messenger-bag/editors",
+    "https://www.ravelry.com/patterns/sources/mary-janes-tearoom-facebook-knitting-group",
+    "https://www.ravelry.com/patterns/sources/mary-janes-tearoom-on-lovecraftsknitting",
+    "https://www.ravelry.com/patterns/library/tearoom-messenger-bag/comments",
+    "https://www.ravelry.com/bundles/free-mjt-knitting-patterns",
+    "https://www.ravelry.com/patterns/sources/mary-janes-tearoom-on-ravelry",
+    "https://www.ravelry.com/patterns/library/little-tearoom-bears-method-2-8",
+    "https://www.ravelry.com/patterns/library/tearoom-messenger-bag/posts",
+    "https://www.ravelry.com/patterns/library/tearoom-messenger-bag/people",
+    "https://www.ravelry.com/patterns/library/little-bear-elf-hat-supplement",
+    "https://www.ravelry.com/patterns/library/tearoom-messenger-bag/threads",
+    "https://www.ravelry.com/patterns/library/little-tearoom-bears-method-1-8",
+    "https://www.ravelry.com/patterns/library/little-bear-jackets",
+    "https://www.ravelry.com/patterns/library/tearoom-messenger-bag"
   ]
 }

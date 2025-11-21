@@ -1,38 +1,43 @@
 {
   "pattern_id": 136,
-  "pattern_page": "https://www.ravelry.com/patterns/library/two-seam-cube",
-  "name": "Two Seam Cube",
-  "description": "Small knitted cubes, only 2.5” tall. These make great baby toys and they really do only have two sewn seams.",
-  "designer": "Clare Doornbos",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-parlor-cat",
+  "name": "Tiny Parlor Cat",
+  "description": "This is a tiny version of my regular Parlor Cat pattern.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "DK (11 wpi) ?"
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "amigurumi",
+    "icord",
     "in-the-round",
-    "worked-flat"
+    "kitchener"
   ],
-  "full_text": "Small knitted cubes, only 2.5” tall. These make great baby toys and they really do only have two sewn seams. For an ADVANCED BEGINNER Knitter, the cubes are partly knitted in the round on double pointed needles and there is some picking up stitches. WHERE IS THE PATTERN? You’ll find the pattern on the Natty Knitter blog in the green sidebar on the right hand side. Click on the image in that sidebar and it will take you to the PDF. If you’re browsing from a cellphone, scroll down through the blog entries and the free patterns are at the bottom of the page. SKILLS REQUIRED Knit Purl Knitting in the round on double pointed needles PU stitches MATERIALS REQUIRED Approx 40 yards of Double Knitting yarn Scrap of contrasting color yarn to mark stitches with US size 3 (3 ¼ mm) double pointed needles or size needed to obtain gauge Tapestry Needle Handful of fiberfill (stuffing) HINTS AND TIPS to help you with this pattern are available on my blog http://nattyknitter.wordpress.com this is mentioned in the pattern.",
-  "techniques": [],
+  "full_text": "This is a tiny version of my regular Parlor Cat pattern. It’s 3 inches long (excluding tail), worked in the round, and all in one piece. It also knits up very quickly! The pattern specifies worsted weight yarn, but you can use whatever you have on hand - just adjust your needle size accordingly.",
+  "techniques": [
+    "worked in the round"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/spider-3",
-    "https://www.ravelry.com/patterns/library/two-seam-cube/people",
-    "https://www.ravelry.com/patterns/library/two-seam-cube/comments",
-    "https://www.ravelry.com/patterns/library/two-seam-cube/threads",
-    "https://www.ravelry.com/patterns/library/two-seam-cube/report",
-    "https://www.ravelry.com/patterns/library/knit-chick",
-    "https://www.ravelry.com/patterns/sources/nattyknitters-blog",
-    "https://www.ravelry.com/patterns/library/two-seam-cube/posts",
-    "https://www.ravelry.com/patterns/library/two-seam-cube",
-    "https://www.ravelry.com/patterns/library/two-seam-cube/editors",
-    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball",
-    "https://www.ravelry.com/patterns/library/two-seam-cube/yarns"
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/report",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/yarns",
+    "https://www.ravelry.com/patterns/sources/victorian-housecats-to-knit",
+    "https://www.ravelry.com/patterns/library/steamed-broccoli-florets",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/comments",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/threads",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/editors",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/people",
+    "https://www.ravelry.com/patterns/library/songbird-6",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/posts",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat"
   ]
 }

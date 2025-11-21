@@ -1,45 +1,45 @@
 {
   "pattern_id": 343,
-  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-mouse-knit",
+  "pattern_page": "https://www.ravelry.com/patterns/library/nurse-mates",
+  "name": "Nurse Mates",
+  "description": "THIS PATTERN IS NOW AVAILABLE IN DANISH! Danish Translation",
+  "designer": "Esther Braithwaite",
   "craft": "Knitting",
-  "category": "Softies → Animal Pet → Toys",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "5\" (10cm) exclusive of tail",
+  "category": "Softies → Doll",
+  "sizes_available": "Fingering 4 3/4\"; DK/Sport 5 1/4\"; Worsted 6\"",
   "languages": [
-    "English"
+    "English",
+    "Italian",
+    "Additional languages which are not in the download: Danish"
   ],
   "suggested_yarn": [
-    "Lion Brand Fun Fur Solid",
-    "Bulky (7 wpi) ?"
+    "",
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
     "3-dimensional",
-    "embroidery",
-    "phototutorial",
-    "seamed",
-    "worked-flat",
-    "written-pattern"
+    "bottom-up",
+    "in-the-round",
+    "worked-flat"
   ],
-  "full_text": "Lion Brand Pattern #: BK4K-0506003-K SKILL LEVEL: Beginner 320-195 Fun Fur Yarn: Hot Pink (1 ball) 320-204 Fun Fur Yarn: Lava (1 ball) Materials are sufficient to make two (1-color) mice. Knitting Needles- Size 8 (5 mm) Crochet Hook - Size F-5 (3.75 mm) for construction Scrap yarn for tail, approximately 24 inches (approximately 70 cm) Scrap yarn for eyes, approximately 4 inches (10 cm) black and white Sewing needle and matching thread 1 package dried catnip See assembly diagrams showing how to fold the ‘cone’ and finish. See also BK4K-0506006-K Pocket Pet: Mouse . It is same pattern except uses stuffing instead of catnip.",
-  "techniques": [],
+  "full_text": "THIS PATTERN IS NOW AVAILABLE IN DANISH! Danish Translation About Earlier this week, I received a request from a nurse in Denmark who asked if I could create a pattern for a nurse-style doll that she could share with her coworkers. These dolls are my gift to her, and were created with great respect and gratitude for all of the medical professionals who are working so tirelessly to keep us safe during this difficult time. Construction Nurse Mates Dolls are knit in one piece from the bottom-up. The doll’s body can be knit flat on straight needles and seamed, or knit in the round on dpns. The optional face mask is knit flat on two needles. Simple sewing techniques are used to define the arms and legs after knitting. Gauge Exact gauge is not important;Choose a needle 2 or 3 sizes smaller than recommended on the ball band to create a dense fabric that will keep the stuffing hidden EXCITING NEWS! This pattern is now available in Italian thanks to Michela (LaMickey) for the translation.",
+  "techniques": [
+    "bottom-up",
+    "seamed"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/threads",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit",
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/comments",
-    "https://www.ravelry.com/patterns/library/case-for-eye-glasses-with-cord",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/editors",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/yarns",
-    "https://cdn.accentuate.io/4679148732509/12378270040157/bk4k-0506006-ka-v1592901571076.pdf",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/report",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/edit",
-    "https://cdn.accentuate.io/4679146602589/12378270040157/knit-pattern-catnip-mouse-knit-bk4k-0506003-k-v1594845591330.pdf",
-    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
-    "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/people"
-  ],
-  "name": "Ravelry: Catnip Mouse (knit) pattern by Lion Brand Yarn"
+    "https://www.ravelry.com/patterns/library/nurse-mates/posts",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+    "https://www.ravelry.com/patterns/library/nurse-mates/people",
+    "https://www.ravelry.com/patterns/library/nurse-mates/threads",
+    "https://www.ravelry.com/patterns/library/nurse-mates/yarns",
+    "https://www.ravelry.com/patterns/library/nurse-mates/report",
+    "https://www.ravelry.com/patterns/library/nurse-mates",
+    "https://www.ravelry.com/patterns/library/nurse-mates/editors",
+    "https://www.ravelry.com/patterns/library/nurse-mates/comments",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls"
+  ]
 }

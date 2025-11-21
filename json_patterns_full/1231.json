@@ -1,38 +1,44 @@
 {
   "pattern_id": 1231,
-  "pattern_page": "https://www.ravelry.com/patterns/library/a-little-kindness-monster",
-  "name": "A Little Kindness Monster",
-  "description": "This pattern is free and always will be. I hope it inspires you. Invite over some friends you haven’t seen in awhile and knit Little Kindnesses together with scraps from your stash. Knit a Little Kindness for someone and drop it in the mail for them with a nice card to let them know you’re thinking of them. Take your neighbor a Little Kindness and a plate of cookies. Just give one to somebody and say, “hey, this silly little thing made me smile and I thought it might make",
-  "designer": "Rachel Borello Carroll",
+  "pattern_page": "https://www.ravelry.com/patterns/library/blooming-breeze-tee",
   "craft": "Knitting",
-  "category": "Softies → Animal",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Tops → Tee",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "XS [S, M, L, XL] [2XL, 3XL, 4XL, 5XL]",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Hedgehog Fibres Oh So Fine Cashmere",
+    "Lace ?"
   ],
   "attributes": [
+    "adult",
+    "female",
     "in-the-round",
+    "one-piece",
+    "positive-ease",
+    "seamless",
+    "top-down",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This pattern is free and always will be. I hope it inspires you. Invite over some friends you haven’t seen in awhile and knit Little Kindnesses together with scraps from your stash. Knit a Little Kindness for someone and drop it in the mail for them with a nice card to let them know you’re thinking of them. Take your neighbor a Little Kindness and a plate of cookies. Just give one to somebody and say, “hey, this silly little thing made me smile and I thought it might make you smile, too.” Because in the end, I don’t think anyone ever wished they hadn’t spent so much time on being kind. Now also available in German thanks to user raeubertoechterch. Thank you Martina! Note: This pattern was previously only available as an in-the-round pattern, but as of March 2021 it has been updated with the option to knit flat on two needles.",
+  "full_text": "Lightweight and delicate short sleeve pattern with a sporty feel. One piece, top down construction, designed to fit loosely for an easy to wear layering top. Yarn: Hedgehog Fibres Oh So Fine Cashmere (30% Cashmere, 70% Merino, 600m/100g). 1 skein of the recommended yarn is required for sizes XS and S; 2 skeins are required for all other sizes M-5XL. The yardage calculations are approximate. Final amounts in g: 82 (94, 104, 120, 133, 145, 159, 171, 180). Lin is 5’2’’ and she’s wearing size S. The second version is pictured in my own handspun using a Lucky Dip Fibre pack by Hedgehog Fibres. I spun a light fingering 2ply. I’m 5’4’’ and I’m wearing size M.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/threads",
-    "https://www.ravelry.com/patterns/library/juniper-moose",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/yarns",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster",
-    "https://www.ravelry.com/patterns/sources/yarnigans-2",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/people",
-    "https://www.ravelry.com/patterns/library/nilla-the-unicorn",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/editors",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/comments",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/posts",
-    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/report",
-    "https://www.ravelry.com/patterns/library/winters-bow"
-  ]
+    "https://www.ravelry.com/patterns/library/blooming-breeze-tee",
+    "https://www.ravelry.com/patterns/library/blooming-breeze-tee/comments",
+    "https://www.ravelry.com/patterns/library/blooming-breeze-tee/threads",
+    "https://www.ravelry.com/patterns/library/blooming-breeze-tee/yarns",
+    "https://www.ravelry.com/patterns/library/tweedy-junior",
+    "https://www.ravelry.com/patterns/library/blooming-breeze-tee/people",
+    "https://www.ravelry.com/patterns/library/blooming-breeze-tee/report",
+    "https://www.ravelry.com/patterns/library/april-scarf-4",
+    "https://www.ravelry.com/patterns/library/cozy-tweedy",
+    "https://www.ravelry.com/patterns/library/blooming-breeze-tee/editors",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/blooming-breeze",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2"
+  ],
+  "name": "Ravelry: Blooming Breeze Tee pattern by Beata Jezek"
 }

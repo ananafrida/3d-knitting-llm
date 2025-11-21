@@ -1,60 +1,38 @@
 {
   "pattern_id": 1477,
-  "pattern_page": "https://www.ravelry.com/patterns/library/0-1636-winter-pine-hearts",
+  "pattern_page": "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag",
+  "name": "Dot-in-Box Felted Bag",
+  "description": "This pattern is now available for free download from our website at www.barenakedwools.com",
+  "designer": "Anne Hanson",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Bag → Purse / Handbag",
   "languages": [
-    "Czech",
-    "Danish",
-    "Dutch",
-    "English",
-    "Estonian",
-    "Finnish",
-    "French",
-    "German",
-    "Hungarian",
-    "Icelandic",
-    "Italian",
-    "Norwegian",
-    "Polish",
-    "Portuguese",
-    "Spanish",
-    "Swedish",
-    "...and 16 other languages show hide other languages",
-    "...and 16 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Garnstudio DROPS Fiesta"
+    "Cascade Yarns ® Cascade 220®",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
+    "felted",
+    "icord",
     "in-the-round",
-    "seamless",
-    "video-tutorial",
-    "written-pattern"
+    "mosaic"
   ],
-  "full_text": "Knitted heart/Christmas decoration in DROPS Fiesta. Work piece in the round in stocking stitch, bottom up. Theme: Christmas. ~~~~~~~~~~~~~~~~~~ #dropswinterpinehearts DROPS design: Pattern fs-018 Yarn group B SIZE: Piece measures approx. Width = 10 cm Height: = 10 cm YARN : DROPS FIESTA from Garnstudio (belongs to yarn group B) 50 g colour 16, herb garden / 20, northern lights / 07, sea green / 13, dark ivy ACCESSORIES : Some cotton wool for filling String or left-over yarn for strap. 1 heart weighs approx. 10 grams with filling. NEEDLES : DROPS DOUBLE POINTED NEEDLES SIZE 3.5 mm KNITTING TENSION: 22 stitches in width and 30 rows vertically in stocking stitch on needle size 3.5 = 10 x 10 cm. NOTE! Remember that needle size is only a suggestion. If you have too many stitches on 10 cm switch to larger needles. If you have too few stitches on 10 cm switch to smaller needles.",
+  "full_text": "This pattern is now available for free download from our website at www.barenakedwools.com A knitting pattern for a bag worked in a mosaic stitch with a single strand of worsted weight throughout, except for handles.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2024",
-    "https://www.ravelry.com/patterns/library/0-1636-winter-pine-hearts/people",
-    "https://www.ravelry.com/patterns/library/0-1636-winter-pine-hearts",
-    "https://www.ravelry.com/patterns/periodicals/drops-christmas-calendar",
-    "https://www.ravelry.com/patterns/library/0-1636-winter-pine-hearts/editors",
-    "https://www.garnstudio.com/pattern.php?id=12070&cid=19",
-    "https://www.ravelry.com/patterns/library/0-1636-winter-pine-hearts/report",
-    "https://www.ravelry.com/patterns/library/0-1442-holiday-face",
-    "https://www.ravelry.com/patterns/library/0-1636-winter-pine-hearts/yarns",
-    "https://www.ravelry.com/patterns/library/0-1101-tip-tip-toe",
-    "https://www.ravelry.com/patterns/library/0-619-molly-smiles-bikini-top",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/0-1636-winter-pine-hearts/edit",
-    "https://www.ravelry.com/patterns/library/0-1636-winter-pine-hearts/comments"
-  ],
-  "name": "Ravelry: 0-1636 Winter Pine Hearts pattern by DROPS design"
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/yarns",
+    "https://www.ravelry.com/patterns/library/black-oak-cardigan",
+    "https://www.ravelry.com/patterns/sources/bare-naked-wools",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/people",
+    "https://www.ravelry.com/patterns/library/brocadia-cap",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/editors",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/report",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag",
+    "https://www.ravelry.com/patterns/sources/knitspot-ravelry-shop",
+    "https://www.ravelry.com/patterns/library/dot-in-box-felted-bag/comments",
+    "https://www.ravelry.com/patterns/library/box-top-smock"
+  ]
 }

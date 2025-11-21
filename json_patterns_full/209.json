@@ -1,38 +1,40 @@
 {
   "pattern_id": 209,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-gallivanter-bag",
-  "name": "The Gallivanter Bag",
-  "description": "Gallivanter is a small cross-body or neck pouch to knit up a couple nights before a trip – or simply use as a handy pouch in your daily life. Designed to fit a large passport wallet and a phone. This pattern is simple enough to personalize and make the bag size you prefer.",
-  "designer": "Anna Kwon",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mini-scarf-pearl",
+  "name": "mini scarf Pearl",
+  "description": "Gauge",
+  "designer": "Veronika Stoncus",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
+  "category": "Neck / Torso → Scarf",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "OS",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Malabrigo Yarn Silky Merino",
-    "DK (11 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Garnstudio DROPS Air"
   ],
   "attributes": [
-    "buttonholes",
-    "icord",
-    "seamed",
-    "selvedge",
+    "chart",
+    "one-piece",
+    "video-tutorial",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Gallivanter is a small cross-body or neck pouch to knit up a couple nights before a trip – or simply use as a handy pouch in your daily life. Designed to fit a large passport wallet and a phone. This pattern is simple enough to personalize and make the bag size you prefer. Skill Level : Beginner Yarn : Malabrigo Silky Merino (51% Silk, 49% Wool – Merino; 150 yds 155m / 50 g) Shade: Tatami 431; 1 skein Or DK weight yarn of choice Needles : Straight or circular needles in size US 6 (4 mm) One set double-pointed needles in size US 6 (4 mm) Or size to obtain gauge Notions : Locking stitch marker Tapestry needle Large button (sample button = 2.4cm) Gauge : 21.5 sts and 41 rows = 4” (10 cm) in seed stitch pattern, after blocking Notes : Front and back are worked separately, then mattress-stitched together. The back is made identical to the front, then extended for the flap. The first and last stitch of each row make up the selvedge stitches for sewing the pieces together. For the strap, stitches are picked up at one side edge and worked using I-cord method until desired length, then sewn onto the remaining side edge.",
+  "full_text": "Gauge 10x10 cm = 20 stitches x 24 rows The sample is knitted in double moss stitch, as shown in the chart on the page 3 . Use size 4 needles (I recommend circular needles with an 80 cm cord, but double-pointed needles can also be used). Size One size / Length: 140 cm (before washing: 112 cm, using Drops Air yarn) / Width: 12 cm. P.S. The length after washing may vary when using different yarn. Yarn Drops Air (65% alpaca, 28% polyamide, 7% wool; 50 g/150 m). You will need 50 g for this project. P.S. If you plan to use a different yarn, you may need slightly more. Drops Air is very light and airy, which is why the required amount is so small. Additional Materials Needed Circular needles size 4 (I recommend a 60/80 cm cord). Scissors. Measuring tape. Row counter. Tapestry needle with a rounded tip. Two markers.",
   "techniques": [],
-  "shape": "cube",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/comments",
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/people",
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/editors",
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/report",
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/yarns",
-    "https://www.ravelry.com/patterns/sources/anna-kwon",
-    "https://www.ravelry.com/patterns/library/the-gallivanter-bag"
+    "https://www.ravelry.com/patterns/library/balaclava-pearl",
+    "https://www.ravelry.com/patterns/sources/veronika-stoncus-ravelry-store",
+    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/comments",
+    "https://www.ravelry.com/patterns/library/summer-top-margarita",
+    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/yarns",
+    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/report",
+    "https://www.ravelry.com/patterns/library/mini-scarf-pearl",
+    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/people",
+    "https://www.ravelry.com/patterns/library/pamela-16",
+    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/editors"
   ]
 }

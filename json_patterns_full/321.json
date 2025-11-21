@@ -1,38 +1,39 @@
 {
   "pattern_id": 321,
-  "pattern_page": "https://www.ravelry.com/patterns/library/honeycomb-10",
+  "pattern_page": "https://www.ravelry.com/patterns/library/dainty-dollies",
   "craft": "Knitting",
-  "category": "Pet → Toys",
+  "category": "Softies → Doll",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "17cm (6¾in) tall",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Any gauge - designed for any gauge ?"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
-    "hexagon",
-    "in-the-round",
-    "kitchener",
-    "one-piece",
-    "seamless",
-    "video-tutorial",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This is an inspired pattern, but I’ve been asked not to mention what inspired me. This is merely a pattern for a hexagon. You can see I used mine for a kitty toy. You can use any size yarn and whatever needles you’re comfortable with.",
+  "full_text": "Description from website: No doubt little girls will love these sweet dollies and they are also perfect for those wonderful knitters who raise funds for charity.",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/honeycomb-10/report",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/comments",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/people",
-    "https://www.ravelry.com/patterns/library/honeycomb-10",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/yarns",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/threads",
-    "https://www.ravelry.com/patterns/sources/purl-oined",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/editors"
+    "https://www.ravelry.com/patterns/library/dainty-dollies/editors",
+    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website",
+    "https://www.ravelry.com/patterns/periodicals/jean-greenhowe",
+    "http://www.jeangreenhowe.com/patterns.html",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/comments",
+    "https://www.ravelry.com/patterns/library/puss-in-boots",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/people",
+    "https://www.ravelry.com/patterns/library/fashion-dolls-miss-amelia",
+    "https://www.ravelry.com/patterns/library/princess-penelope-and-snuggles",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/threads",
+    "https://www.ravelry.com/patterns/library/dainty-dollies",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/edit",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/yarns",
+    "https://www.ravelry.com/patterns/library/dainty-dollies/report"
   ],
-  "name": "Ravelry: honeycomb pattern by purl necklace"
+  "name": "Ravelry: Dainty Dollies pattern by Jean Greenhowe"
 }

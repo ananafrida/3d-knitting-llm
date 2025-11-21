@@ -1,48 +1,35 @@
 {
   "pattern_id": 823,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gjof",
-  "name": "Gjöf",
-  "description": "Body and sleeves are worked in the round from lower edge to underarms, then joined to work yoke in the round.",
-  "designer": "Védís Jónsdóttir for Ístex",
+  "pattern_page": "https://www.ravelry.com/patterns/library/labrador-dog-square",
   "craft": "Knitting",
-  "category": "Sweater → Pullover",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "XS, X, M, L, XL, 2XL, 3XL",
+  "category": "Afghan block",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "8.5\" x 8.5\"",
   "languages": [
-    "Danish",
-    "English",
-    "Icelandic"
+    "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Ístex Léttlopi"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
     "chart",
-    "icelandic",
-    "in-the-round",
-    "teen",
-    "unisex"
+    "written-pattern"
   ],
-  "full_text": "Body and sleeves are worked in the round from lower edge to underarms, then joined to work yoke in the round. Needles needed: Circular needles 4.5 mm, 40 and 80 cm Circular needle 3.5 mm, 80 cm Double pointed needles 4.5 and 3.5 mm Design: Védís Jónsdóttir for Heimilisiðnaðarfélag Íslands - Nordic Craft Week",
-  "techniques": [
-    "worked in the round"
-  ],
-  "shape": "sphere",
+  "full_text": "Knitted Labrador dog square. Great as a dishcloth or washcloth or with other squares to form a blanket. Both chart and written pattern. Required materials: DK or 8 ply knitting yarn and 4 mm (US 6, UK 8) knitting needles. Finished square approximately 22 cm x 22 cm (8.5 inches x 8.5 inches)",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gjof/yarns",
-    "https://www.ravelry.com/patterns/library/sloir-for-kids",
-    "https://www.ravelry.com/patterns/library/gjof",
-    "https://www.ravelry.com/patterns/sources/lopidesign-on-ravelry",
-    "https://www.ravelry.com/patterns/library/riddari---kids-with-fjallalopi",
-    "https://www.ravelry.com/patterns/library/gjof/comments",
-    "https://www.ravelry.com/patterns/library/gjof/report",
-    "https://www.ravelry.com/patterns/library/gjof/editors",
-    "https://www.ravelry.com/patterns/library/gjof/people",
-    "https://www.ravelry.com/patterns/periodicals/stex",
-    "https://www.ravelry.com/patterns/library/goa-3",
-    "https://www.ravelry.com/patterns/sources/lopi-design-website"
-  ]
+    "https://www.ravelry.com/patterns/library/eiffel-tower-square",
+    "https://www.ravelry.com/patterns/library/dog-square",
+    "https://www.ravelry.com/patterns/library/labrador-dog-square/report",
+    "https://www.ravelry.com/patterns/library/labrador-dog-square/comments",
+    "https://www.ravelry.com/patterns/library/labrador-dog-square/yarns",
+    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
+    "https://www.ravelry.com/patterns/library/labrador-dog-square",
+    "https://www.ravelry.com/patterns/library/labrador-dog-square/people",
+    "https://www.ravelry.com/patterns/library/labrador-dog-square/editors",
+    "https://www.ravelry.com/patterns/library/dog-bone-square"
+  ],
+  "name": "Ravelry: Labrador Dog Square pattern by Daisy and Storm"
 }

@@ -1,45 +1,38 @@
 {
   "pattern_id": 682,
-  "pattern_page": "https://www.ravelry.com/patterns/library/emli-bonnet",
+  "pattern_page": "https://www.ravelry.com/patterns/library/two-seam-cube",
+  "name": "Two Seam Cube",
+  "description": "Small knitted cubes, only 2.5” tall. These make great baby toys and they really do only have two sewn seams.",
+  "designer": "Clare Doornbos",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "Length: 7.5\", Circumference: 16\"",
+  "category": "Blocks",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Jaeger Trinity",
-    "DK / Sport ?"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "female",
-    "fitted",
     "in-the-round",
-    "lace",
-    "negative-ease",
-    "ruffles",
-    "top-down",
-    "written-pattern"
+    "worked-flat"
   ],
-  "full_text": "Includes instructions for adjusting size. Inspired by the beautiful embossed leaves sock pattern from Interweave Knits Winter 2005 and Favorite Socks, this baby bonnet has the embossed leaves (“emli” for short) travel down from the top of the hat to a wide brim and delicate picot edge. A fine-gauge cotton yarn is perfect for this lacy summer baby hat. And since there isn’t any typical hat shaping, the pattern is easily adjustable for a different gauge or head size. --From Blue Blog website NOTE: You will need to refer to the magazine or book for the embossed leaves stitch pattern. It is not included in the bonnet pattern.",
+  "full_text": "Small knitted cubes, only 2.5” tall. These make great baby toys and they really do only have two sewn seams. For an ADVANCED BEGINNER Knitter, the cubes are partly knitted in the round on double pointed needles and there is some picking up stitches. WHERE IS THE PATTERN? You’ll find the pattern on the Natty Knitter blog in the green sidebar on the right hand side. Click on the image in that sidebar and it will take you to the PDF. If you’re browsing from a cellphone, scroll down through the blog entries and the free patterns are at the bottom of the page. SKILLS REQUIRED Knit Purl Knitting in the round on double pointed needles PU stitches MATERIALS REQUIRED Approx 40 yards of Double Knitting yarn Scrap of contrasting color yarn to mark stitches with US size 3 (3 ¼ mm) double pointed needles or size needed to obtain gauge Tapestry Needle Handful of fiberfill (stuffing) HINTS AND TIPS to help you with this pattern are available on my blog http://nattyknitter.wordpress.com this is mentioned in the pattern.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/house-hats-beanie-and-beret",
-    "https://www.ravelry.com/patterns/library/emli-bonnet/comments",
-    "https://www.ravelry.com/patterns/library/mini-weasley-sweater-ornaments",
-    "https://www.ravelry.com/patterns/sources/the-blue-blog",
-    "https://www.ravelry.com/patterns/library/emli-bonnet/posts",
-    "https://www.ravelry.com/patterns/library/emli-bonnet/editors",
-    "https://www.ravelry.com/patterns/library/emli-bonnet/people",
-    "https://www.ravelry.com/patterns/library/emli-bonnet/yarns",
-    "https://www.ravelry.com/patterns/library/the-weasley-sweater",
-    "https://www.ravelry.com/patterns/library/emli-bonnet/threads",
-    "https://www.ravelry.com/patterns/library/emli-bonnet/report",
-    "http://alison.knitsmiths.us/pattern_emli_bonnet.html",
-    "https://www.ravelry.com/patterns/library/emli-bonnet"
-  ],
-  "name": "Ravelry: Emli Bonnet pattern by Alison Hansel"
+    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball",
+    "https://www.ravelry.com/patterns/library/two-seam-cube/posts",
+    "https://www.ravelry.com/patterns/library/two-seam-cube/yarns",
+    "https://www.ravelry.com/patterns/library/two-seam-cube",
+    "https://www.ravelry.com/patterns/library/two-seam-cube/people",
+    "https://www.ravelry.com/patterns/library/knit-chick",
+    "https://www.ravelry.com/patterns/sources/nattyknitters-blog",
+    "https://www.ravelry.com/patterns/library/two-seam-cube/comments",
+    "https://www.ravelry.com/patterns/library/two-seam-cube/threads",
+    "https://www.ravelry.com/patterns/library/two-seam-cube/report",
+    "https://www.ravelry.com/patterns/library/spider-3",
+    "https://www.ravelry.com/patterns/library/two-seam-cube/editors"
+  ]
 }

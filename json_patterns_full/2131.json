@@ -1,39 +1,57 @@
 {
   "pattern_id": 2131,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bernoulli-hat",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-dude",
+  "name": "The Dude",
+  "description": "This is a men’s cardigan knit in Cascade Yarns Ecological Wool using stranded color work. It’s worked all in 1x1 rib and has a zipper closure and a short row shawl collar.",
+  "designer": "Andrea Rangel",
   "craft": "Knitting",
-  "category": "Hat → Beanie, Toque",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "Adult S/M (L/XL)",
+  "category": "Coat / Jacket",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "sizes_available": "S (M, L, 1X, 2X); Chest Circumference: 36 (38, 42, 46, 50) in/91.5 (96.5, 106.75, 116.75, 127) cm",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Woolpaka Lite"
+    "Cascade Yarns ® Ecological Wool®",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "adult",
-    "cables",
-    "in-the-round",
-    "written-pattern"
+    "bottom-up",
+    "chart",
+    "collar",
+    "cowichan",
+    "drop-sleeve",
+    "facings",
+    "front-fastening",
+    "long-sleeve",
+    "male",
+    "plus",
+    "positive-ease",
+    "ribbed",
+    "seamed",
+    "stranded",
+    "worked-flat",
+    "written-pattern",
+    "zipper"
   ],
-  "full_text": "DIRECT PATTERN LINK",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "This is a men’s cardigan knit in Cascade Yarns Ecological Wool using stranded color work. It’s worked all in 1x1 rib and has a zipper closure and a short row shawl collar. I also offer Dude-inspired patterns that are worked in the round in plain Stockinette stitch in unisex adult sizes: The Knitter’s Dude , and in baby and kids’ sizes: The Little Dude . They can be purchased separately or together in the ebook, The Royal We . Like my designs? Subscribe to my weekly newsletter to get updates, exclusive sales, and recommendations! Sizes and Finished Measurements Sizes: S (M, L, 1X, 2X) Chest Circumference: 36 (38,42,46, 50) in/91.5 (96.5, 106.75, 116.75, 127) cm Yarn Main Color: 1435 yd/1312 m bulky weight yarn Contrast Color 1: 478 yd/437 m bulky weight yarn Contrast Color 2: 478 yd/ 437 m bulky weight yarn Shown in Cascade Yarns Ecological Wool (100% wool; 478 yd/437 m per 250g skein) Main Color: Vanilla #8014; 3(3, 3,4, 4) skeins Contrast Color 1: Latte #8063; 1 skein Contrast Color 2: Ebony #8095 1 skein Blocked Gauge 21 sts/21 rows = 4in/10 cm in un-stretched 1x1 rib on US #10/6 mm needle Needles and Notions Needle Sizes are recommendations only. Always use needle size necessary to obtain gauge. US #10/6.00 mm 24-32 in/60-80 cm circular needle US#6/4.00 mm 24-32 in/60-80 cm circular needle US #4/3.55 mm 24-32 in/60-80 cm circular needle US #11/8.00mm 24-32 in/60-80 cm circular needle (optional – to maintain gauge over color charts) Circular needles are recommended because the project is quite heavy and circular needles will support this weight more effectively. Share your incredible Dude achievements on the Dude KAL forum thread.",
+  "techniques": [
+    "worked in the round"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bernoulli-hat/report",
-    "https://www.ravelry.com/patterns/library/bernoulli-hat/people",
-    "https://www.ravelry.com/patterns/library/bernoulli-hat",
-    "https://www.ravelry.com/patterns/library/bernoulli-hat/comments",
-    "https://www.ravelry.com/patterns/library/bernoulli-hat/yarns",
-    "https://www.ravelry.com/patterns/library/spiral-twist-hat-2",
-    "https://www.ravelry.com/patterns/library/danny-boy-hat",
-    "https://www.ravelry.com/patterns/library/bernoulli-hat/editors",
-    "https://www.cascadeyarns.com/pattern/bernoulli-hat",
-    "https://www.ravelry.com/patterns/periodicals/cascade-yarns",
-    "https://www.cascadeyarns.com/wp-content/uploads/2025/09/DK823_WoolpakaLite_BernoulliHat.pdf",
-    "https://www.ravelry.com/patterns/library/raspberry-braids-hat",
-    "https://www.ravelry.com/patterns/sources/cascade-yarns-website"
-  ],
-  "name": "Ravelry: Bernoulli Hat pattern by Shannon Dunbabin"
+    "https://www.ravelry.com/patterns/sources/andrea-rangel-knits",
+    "https://www.ravelry.com/patterns/library/the-dude/report",
+    "https://www.ravelry.com/patterns/library/raccoon-socks",
+    "https://www.ravelry.com/patterns/library/the-dude/posts",
+    "https://www.ravelry.com/patterns/library/the-dude",
+    "https://www.ravelry.com/patterns/library/the-dude/threads",
+    "https://www.ravelry.com/patterns/library/the-knitters-dude",
+    "https://www.ravelry.com/patterns/library/the-dude/comments",
+    "https://www.ravelry.com/patterns/library/catknit-pullover",
+    "https://www.ravelry.com/patterns/library/the-dude/people",
+    "https://www.ravelry.com/patterns/library/the-dude/editors",
+    "https://www.ravelry.com/patterns/library/the-dude/yarns"
+  ]
 }

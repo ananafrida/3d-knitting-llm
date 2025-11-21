@@ -1,39 +1,37 @@
 {
   "pattern_id": 1874,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bowl-7",
+  "pattern_page": "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
-  "sizes_available": "5.5” diameter x 4” deep AFTER felting",
+  "category": "Components → Other",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Cascade Yarns ® Lana Grande"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "felted",
-    "in-the-round",
-    "written-pattern"
+    "short-row-toe",
+    "toe-up"
   ],
-  "full_text": "Direct PDF link Skill Level: Easy Materials: Cascade Yarns® Lana Grande; 100% Peruvian Highland Wool; 100 g (3.5 oz)/ 87.5 yds (80 m); 1 skein color #6045 (Latte) US 15 (10 mm) 20” circular knitting needles 1 Stitch marker Yarn needle Finished Measurements: 5.5” diameter x 4” deep AFTER felting Gauge: 10 sts x 16 rows = 4” (10 cm) in stockinette stitch BEFORE felting",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "I like making toe-up socks. I like Judy’s Magic Cast-on, but it always feels awkward to me, manipulating both the tail and the working yarn. So I invented my own. I believe the M1Rm and M1Lg are Cat Bordhi’s (?) lifted increases. This could easily be adapted for any yarn thickness, just stop when you get the right number of stitches on each needle for your pattern. Notes: “as tightly as possible” means tight, but not so tight you break the yarn. Yarn: Any fingering sock yarn, or any size to pattern Needle: 2.25mm circular, or size to your gauge",
+  "techniques": [
+    "increases"
+  ],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bowl-7/editors",
-    "https://www.ravelry.com/patterns/library/bowl-7",
-    "https://www.ravelry.com/patterns/library/cascadechemocap",
-    "https://www.ravelry.com/patterns/library/bernoulli-hat",
-    "https://www.cascadeyarns.com/pattern/bowl",
-    "https://www.ravelry.com/patterns/library/spiral-twist-hat-2",
-    "https://www.ravelry.com/patterns/library/bowl-7/report",
-    "https://www.ravelry.com/patterns/library/bowl-7/yarns",
-    "https://www.ravelry.com/patterns/periodicals/cascade-yarns",
-    "https://www.ravelry.com/patterns/library/bowl-7/comments",
-    "https://www.ravelry.com/patterns/sources/cascade-yarns-website",
-    "https://www.ravelry.com/patterns/library/bowl-7/people",
-    "https://www.cascadeyarns.com/wp-content/uploads/2022/07/B269_LanaGrande_Bowl.pdf"
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/people",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/comments",
+    "https://www.ravelry.com/patterns/library/granny-square-sweater",
+    "https://www.ravelry.com/patterns/library/gull-wing-socks-2",
+    "https://www.ravelry.com/patterns/sources/knitting-crochetty",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/yarns",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/editors",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/report",
+    "https://www.ravelry.com/patterns/library/veronicas-basic-toe-for-toe-up-socks/threads",
+    "https://www.ravelry.com/patterns/library/building-blocks-throw"
   ],
-  "name": "Ravelry: Bowl pattern by Shannon Dunbabin"
+  "name": "Ravelry: Veronica's Basic Toe for Toe-up Socks pattern by Veronica Lacaille (VeeKnits)"
 }

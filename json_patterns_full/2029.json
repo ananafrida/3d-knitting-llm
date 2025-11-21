@@ -1,39 +1,38 @@
 {
   "pattern_id": 2029,
-  "pattern_page": "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks",
+  "pattern_page": "https://www.ravelry.com/patterns/library/berry-balls",
+  "name": "Berry Balls",
+  "description": "Made from simple knitted squares, these balls are given their special shape with a needle and thread after they have been put together. Any yarn and needles can be used to make balls of any size.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "sizes_available": "S, M, L",
+  "category": "Ball",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Fingering (14 wpi) ?"
+    ""
   ],
   "attributes": [
-    "hems",
-    "in-the-round",
-    "one-piece",
-    "short-rows",
+    "3-dimensional",
+    "phototutorial",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Short socks are the bane of my existence because they always fall down into my shoes. A lot of commercially-made socks prevent this with grippy silicone strips on the inside but that doesn’t help when it comes to knitting your own socks. So, I have been on a quest to figure out how to knit no-show socks that don’t fall down after a few steps and I think this is the answer! This “pattern” is only for the cuff and heel tab of the sock and is meant to be used with a flap and gusset heel. You can pair it with your favorite vanilla pattern or even with a patterned sock - just start the patterning after you pick up the gusset stitches for the heel. (Don’t have a favorite vanilla pattern? Try mine - it’s free! )",
+  "full_text": "Made from simple knitted squares, these balls are given their special shape with a needle and thread after they have been put together. Any yarn and needles can be used to make balls of any size. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
   "techniques": [],
-  "shape": "cone",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/editors",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/report",
-    "https://www.ravelry.com/patterns/library/exceedingly-vanilla-socks",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/comments",
-    "https://www.ravelry.com/patterns/library/head-sock",
-    "https://www.ravelry.com/patterns/sources/the-purl-bug",
-    "https://www.ravelry.com/patterns/library/super-simple-sock-shawl",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/threads",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/people",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/yarns",
-    "https://www.ravelry.com/patterns/library/heel-tab-for-short-socks/posts"
-  ],
-  "name": "Ravelry: Heel tab for short socks pattern by Amanda Steck"
+    "https://www.ravelry.com/patterns/library/berry-balls/report",
+    "https://www.ravelry.com/patterns/library/berry-balls/people",
+    "https://www.ravelry.com/patterns/library/berry-balls/editors",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/homespun-monsters",
+    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
+    "https://www.ravelry.com/patterns/library/berry-balls/yarns",
+    "https://www.ravelry.com/patterns/library/ten-stitch-hat",
+    "https://www.ravelry.com/patterns/library/berry-balls/comments",
+    "https://www.ravelry.com/patterns/library/berry-balls",
+    "https://www.ravelry.com/patterns/library/berry-balls/threads"
+  ]
 }

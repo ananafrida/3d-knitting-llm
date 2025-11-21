@@ -1,39 +1,32 @@
 {
   "pattern_id": 39,
-  "pattern_page": "https://www.ravelry.com/patterns/library/frankies-blankie-week-1",
-  "name": "Frankie's Blankie Week 1",
-  "description": "This is the first in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/crusader-cross",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "languages": [
-    "English"
-  ],
+  "category": "Costume",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One size",
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Stylecraft Batik Double Knitting"
+    "Sport (12 wpi) ?",
+    "Patons North America Grace"
   ],
   "attributes": [
-    "reversible",
-    "ribbed",
-    "textured"
+    "child",
+    "toddler",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "This is the first in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares. The first square is knitted in a simple knit and purl stitch pattern called ‘Sailor’s Rib’. It is reversible and lies flat so would also be a good choice for a scarf. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "Something fun to throw in the dress-up box!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/editors",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-5",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/threads",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/comments",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/yarns",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/people",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/report",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/posts"
-  ]
+    "https://www.ravelry.com/patterns/library/crusader-cross/yarns",
+    "https://www.ravelry.com/patterns/library/crusader-cross/editors",
+    "https://www.ravelry.com/patterns/library/owlie-soap-sack",
+    "https://www.ravelry.com/patterns/library/crusader-cross",
+    "https://www.ravelry.com/patterns/library/crusader-cross/people",
+    "https://www.ravelry.com/patterns/library/crusader-cross/comments",
+    "https://www.ravelry.com/patterns/library/crusader-cross/report",
+    "https://www.ravelry.com/patterns/sources/livelovely"
+  ],
+  "name": "Ravelry: Crusader Cross pattern by Rachel Jankovic"
 }

@@ -1,42 +1,43 @@
 {
   "pattern_id": 645,
-  "pattern_page": "https://www.ravelry.com/patterns/library/baby-fishermans-cap",
-  "name": "Baby Fisherman's Cap",
-  "description": "Getting a baby hat to fit well is a challenge because the size of babies’ heads defies prediction. When my doctor could give me zero guidance on how big my twin’s heads would be, I designed this hat to cover all my bases.",
-  "designer": "Cate Carter-Evans",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mouse-ersatz",
+  "name": "Mouse Ersatz",
+  "description": "Two PDFs available, one page with “pithy” instructions, and another for total beginners, two pages with complete explanations on how to knit i-cord, knit front and back increase, knit two together decrease and knitting in the round with 4 double pointed needles.",
+  "designer": "Mer Almagro",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "one size - fits heads 9 to 15.5 inches / 22 to 40 cm circumference",
+  "category": "Pet → Toys",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Infinite Twist Helix"
+    "Rowan Pure Wool 4ply",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "ribbed",
-    "unisex"
+    "3-dimensional",
+    "icord",
+    "in-the-round",
+    "one-piece",
+    "seamless",
+    "stripes",
+    "video-tutorial",
+    "written-pattern"
   ],
-  "full_text": "Getting a baby hat to fit well is a challenge because the size of babies’ heads defies prediction. When my doctor could give me zero guidance on how big my twin’s heads would be, I designed this hat to cover all my bases. This super stretchy hat design fits a wide range of tiny heads from 9 to 15.5 inches / 22 to 40 cm circumference. The average newborn baby’s head is around 13.5 inches / 35 cm. This hat favors babies on the small side of average, which makes it a great pattern for knitting hats for your local hospital or premie charity. The brim rolls up easily, allowing for a variety of depths. It’s also a great hat for new born photos since the cute peaked crown hides the temporary cone-heads and funny skull shapes that frequently afflict the newest members of the human family. Worked in a two-by-two rib with decreases that form lovely arches, this hat is simple, stylish, and truly unisex. About this Pattern Skill Level: Beginner Skills Needed: Basic knitting skills (knit, purl, slip) and basic decreases (ssk, k2tog). Finished Size: Unstretched circumference at brim: 9 inches / 22 cm Depth from peak of crown to brim: 5.5 inches / 14 cm Yarn: Infinite Twist Helix Superwash (two-ply sport weight, 300 y / 100 gm), 75 y / 68 m. Shown in Sunflower. Needles: U.S. size 3 / 3.25 mm dpns, or circular needles to magic loop. Gauge (after blocking): 32 stitches / 46 rows over 4 inches / 10 cm in 2 x 2 ribbing. Notions : At least one stitch marker, yarn needle to weave in ends.",
-  "techniques": [
-    "decreases"
-  ],
+  "full_text": "Two PDFs available, one page with “pithy” instructions, and another for total beginners, two pages with complete explanations on how to knit i-cord, knit front and back increase, knit two together decrease and knitting in the round with 4 double pointed needles. Video coming very soon! If your cat likes these half as much as my cat does, you will be pleased! With the features both the cat and I like: right size, weight and texture (picky cat!) a little bump on one side and a “tail” on the other for easy throwing—nice if your cat likes to play fetch. But most important, since little toys seem to get lost as soon as they are finished, it is streamlined into a quick, 10 minute knit. I does not actually look like a mouse by any stretch of the imagination, but my cat doesn’t seem to mind. Stuff it with catnip, yarn scraps, toy stuffing, or any combination of the above. Stripes obviously optional! Change yarn weight, and needle size accordingly, to knit bigger toys.",
+  "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap",
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/editors",
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/report",
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/people",
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/yarns",
-    "https://www.ravelry.com/patterns/library/opus-the-octopus",
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/threads",
-    "https://www.ravelry.com/patterns/library/baby-fishermans-cap/comments",
-    "https://www.ravelry.com/patterns/library/fishermans-cap-4",
-    "https://www.ravelry.com/patterns/sources/infinite-twist-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tiny-tree-ornament",
-    "https://www.ravelry.com/patterns/sources/infinite-twist-website"
+    "https://www.ravelry.com/patterns/sources/innershelter",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/comments",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/threads",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/editors",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/people",
+    "https://www.ravelry.com/patterns/library/newborn-tristan",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz",
+    "https://www.ravelry.com/patterns/library/esporofits-mitts",
+    "https://www.ravelry.com/patterns/library/somnium-venenum-mitts",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/yarns",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/report"
   ]
 }

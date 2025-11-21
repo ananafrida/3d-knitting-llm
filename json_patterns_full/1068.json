@@ -1,46 +1,45 @@
 {
   "pattern_id": 1068,
-  "pattern_page": "https://www.ravelry.com/patterns/library/community-kal-pullover",
-  "name": "Community KAL Pullover",
-  "description": "Größe",
-  "designer": "Victoria Faßbender",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-airy-blouse",
+  "name": "The Airy Blouse",
+  "description": "Yarn: 50g Midara Silk Mohair 214",
+  "designer": "dragonfruitknit",
   "craft": "Knitting",
-  "category": "Sweater → Pullover Tops → Tee",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "XS (s) M (L) XL (XXL)",
+  "category": "Sweater → Pullover",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "small / medium / large",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Mayflower PREMIUM Cassandra",
-    "yarn held together"
+    "Midara Silk Mohair",
+    "Lace ?"
   ],
   "attributes": [
     "adult",
-    "ballet-neck",
-    "oversized",
+    "cap-sleeve",
+    "crew-neck",
+    "icord",
+    "icord-edging",
+    "in-the-round",
     "positive-ease",
     "raglan-sleeve",
-    "schematic",
-    "short-rows",
+    "seamless",
+    "teen",
     "top-down",
-    "unisex",
-    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "Size I have divided the measurements into these sizes for guidance: Dimensions The sweater and the T-shirt are designed with a freedom of movement (positive ease) of approx. 29 cm, as they are intended to be oversized. In the picture on the left I am wearing the cardigan in size M with a freedom of movement of 28 cm. Find your personal size by measuring your chest circumference (or the widest part of your upper body). Then look at the measurements under “Circumference at chest height” (these are the finished measurements of the cardigan). The range of motion is the difference between your chest circumference and the circumference of the cardigan at chest height. For example, if your chest circumference is 90 cm, you have 28 cm of freedom of movement with size M. (118cm - 90cm = 28cm). Circumference at chest height: 109 (113) 118 (123) 131 (138) cm Sleeve length from armpit: 43 cm (all sizes) Sleeve to neck: 70 (71) 73 (74) 76 (78) cm Length from armpit to waistband: 20 (20) 21 (21) 22 (22) cm Total length: approx. 40 (42) 44 (45) 47 (47.5) cm (The lengths of body and sleeves can be adjusted individually.) Short description The piece is knitted top down. Start at the neckline and use the raglan technique to form the yoke. A neckline is created with the help of turning stitches. The body and sleeves are then knitted individually. The collar on the neck is knitted on afterwards. Yarn CASSANDRA from Mayflower Premium 25 g - 225 m LL T-Shirt Yarn quantity: Approx. 150 (150) 150 (200) 200 (250) g ​​are required. Sweater yarn quantity: Approx. 150 (200) 200 (250) 250 (300) g are required. Needles Circular knitting needle in 5mm, 80 cm long Circular knitting needle in 5mm, 40 cm long for the sleeves (Alternatively, you can also work with the Magic Loop method and use the 80 cm long needle for the sleeves too.) The needle size can be adjusted according to your personal preference. If you knit more loosely, go down a size, if you knit more tightly, then use a larger needle size. Materials In addition to the wool and needles, you will need stitch markers and two stitch holder ropes (alternatively, you can replace them with wool threads). Gauge 17M x 28M stockinette knit with double thread with needle size 5 = 10 x 10 cm",
+  "full_text": "Yarn: 50g Midara Silk Mohair 214 Gauge: 14st by 23 rows Size: small (medium) large Difficulty: ★☆☆☆☆ Construction: top down, raglan Garment Measurements: 94 cm circumference, 36 cm length Materials 5.5 mm circular needles, 40 cm and 80 cm 50g silk mohair yarn Scissors Tapestry needle",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/community-kal-pullover",
-    "https://www.ravelry.com/patterns/library/community-kal-pullover/comments",
-    "https://www.ravelry.com/patterns/library/community-kal-pullover/people",
-    "https://www.ravelry.com/patterns/library/pumpkin-spice-cardigan",
-    "https://www.ravelry.com/patterns/library/community-kal-pullover/editors",
-    "https://www.ravelry.com/patterns/library/community-kal-pullover/yarns",
-    "https://www.ravelry.com/patterns/library/matita-top",
-    "https://www.ravelry.com/patterns/library/sweet-summer-top-2",
-    "https://www.ravelry.com/patterns/library/community-kal-pullover/report",
-    "https://www.ravelry.com/patterns/sources/victoria-fabenders-ravelry-store"
+    "https://www.ravelry.com/patterns/library/the-airy-blouse/yarns",
+    "https://www.ravelry.com/patterns/library/the-airy-blouse/comments",
+    "https://www.ravelry.com/patterns/library/the-airy-blouse/people",
+    "https://www.ravelry.com/patterns/sources/dragonfruitknit-ravelry-store",
+    "https://www.ravelry.com/patterns/library/the-airy-blouse",
+    "https://www.ravelry.com/patterns/library/the-airy-blouse/report",
+    "https://www.ravelry.com/patterns/library/the-airy-blouse/editors",
+    "https://www.ravelry.com/patterns/library/the-airy-blouse/threads"
   ]
 }

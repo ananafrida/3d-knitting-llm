@@ -1,40 +1,42 @@
 {
   "pattern_id": 164,
-  "pattern_page": "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag",
+  "pattern_page": "https://www.ravelry.com/patterns/library/beans-the-cat",
+  "name": "Beans the Cat",
+  "description": "Hello friends, as promised, I have a sweet little cat pattern to share with you today.",
+  "designer": "Linda Dawkins",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
-  "sizes_available": "Approx. 8\" tall x 10¾\" wide",
+  "category": "Softies → Animal",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
-    "English"
+    "English",
+    "Hungarian"
   ],
   "suggested_yarn": [
-    "Bernat Maker",
-    "Bulky (7 wpi) ?"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "phototutorial",
-    "schematic",
-    "seamed",
-    "textured",
-    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Complete your look with the unique style of this cute knit purse. Stitched in Bernat Maker, you’ll reveal an impressive big stitch look as you master simple knit and purl techniques to create the lovely seed stitch fabric. This knit knot purse is so entertaining to make, you’ll surely want to create a few in different colors to match everything in your closet. It’s a great gift option too! MATERIALS Bernat® Maker™ (8.8 oz/250 g; 317 yds/290 m) Jam (06008) 1 ball or 225 yds/206 m MEASUREMENT(S) Body of Bag (excluding straps) Approximately 8” 20.5 cm",
+  "full_text": "Hello friends, as promised, I have a sweet little cat pattern to share with you today. His name is Beans and he is a friendly little fellow:) I have knitted him in the round in the Magic Loop but you can also knit him on dpns in the round or knit him flat and simply sew him up at the back, if you prefer to knit on 2 needles. If this is what you would like to do then just knit the pattern in stocking stitch, flat with 2 needles. Materials: Oddments of variegated dk wool 4mm circular needle or dpns or 4mm straight needles Sewing up needle Fleece for stuffing",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/people",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/yarns",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/comments",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag",
-    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/report",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks",
-    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/editors"
-  ],
-  "name": "Ravelry: Seed Stitch Knot Bag pattern by Yarnspirations Design Studio"
+    "https://www.ravelry.com/patterns/library/pickles-the-cat",
+    "https://www.ravelry.com/patterns/library/beans-the-cat",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/yarns",
+    "http://www.naturalsuburbia.com/2012/06/cat-knitting-pattern-and-tutorial.html",
+    "https://www.ravelry.com/patterns/library/seamus-the-owl",
+    "https://www.ravelry.com/patterns/sources/halloween-knits/patterns",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/threads",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/report",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/posts",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/editors",
+    "https://www.ravelry.com/patterns/library/easter-rabbit-egg-cozy",
+    "https://www.ravelry.com/patterns/sources/natural-suburbia",
+    "https://www.ravelry.com/patterns/sources/halloween-knits",
+    "https://www.ravelry.com/patterns/sources/mamma4earth-on-ravelry",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/people",
+    "https://www.ravelry.com/patterns/library/beans-the-cat/comments"
+  ]
 }

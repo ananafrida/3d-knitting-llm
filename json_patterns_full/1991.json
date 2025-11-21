@@ -1,42 +1,39 @@
 {
   "pattern_id": 1991,
-  "pattern_page": "https://www.ravelry.com/patterns/library/boxed-heels",
-  "name": "Boxed Heels",
-  "description": "I’ve only knit this once and it hasn’t been test knit! Be on the look out for errors.",
-  "designer": "Janel Rockwell",
+  "pattern_page": "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs",
+  "name": "Gruesome Knitted Eyeballs",
+  "description": "Just the thing for Halloween, but good for any occasion! They make great gifts, ornaments and cat toys!",
+  "designer": "Mary Jane Mucklestone",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
-  "sizes_available": "women's medium",
+  "category": "Ball",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Quaere Fibre Self Striping Sock 75/25"
+    "Rauma Finullgarn",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "seamless",
-    "short-rows",
-    "worked-flat",
+    "3-dimensional",
+    "in-the-round",
+    "sphere-shaped",
     "written-pattern"
   ],
-  "full_text": "I’ve only knit this once and it hasn’t been test knit! Be on the look out for errors. I’ve seen some forked short row heels lately, but couldn’t find a pattern so I gave it a shot. This heel creates a “box” for the round part of your heel to sit in creating that extra bit of room that, I feel, short row heels are always lacking. This pattern assumes you are comfortable with heel construction and wraps and turns. It can be knit toe up or cuff down.",
+  "full_text": "Just the thing for Halloween, but good for any occasion! They make great gifts, ornaments and cat toys!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/boxed-heels/threads",
-    "https://www.ravelry.com/patterns/library/boxed-heels/report",
-    "https://www.ravelry.com/patterns/library/iced-coffee-koozie-tall",
-    "https://www.ravelry.com/patterns/library/boxed-heels/yarns",
-    "https://www.ravelry.com/patterns/library/boxed-heels",
-    "https://www.ravelry.com/patterns/library/boxed-heels/people",
-    "https://www.ravelry.com/patterns/sources/quaere",
-    "https://www.ravelry.com/patterns/library/iced-coffee-koozie-short",
-    "https://www.ravelry.com/patterns/library/boxed-heels/editors",
-    "https://www.ravelry.com/patterns/library/boxed-heels/posts",
-    "https://www.ravelry.com/patterns/library/square-toes",
-    "https://www.ravelry.com/patterns/library/boxed-heels/comments"
+    "https://www.ravelry.com/patterns/library/island-to-island-vest",
+    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/posts",
+    "https://www.ravelry.com/patterns/library/rinner-vest",
+    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/threads",
+    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/editors",
+    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/yarns",
+    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/people",
+    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/comments",
+    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs",
+    "https://www.ravelry.com/patterns/library/olive-tutorial",
+    "https://www.ravelry.com/patterns/library/gruesome-knitted-eyeballs/report",
+    "https://www.ravelry.com/patterns/sources/mary-jane-mucklestone-ravelry-shop"
   ]
 }

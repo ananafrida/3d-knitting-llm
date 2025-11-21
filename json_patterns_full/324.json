@@ -1,38 +1,40 @@
 {
   "pattern_id": 324,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy",
-  "name": "Jingle Fish - Cat Toy",
-  "description": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need!",
-  "designer": "Dooley and Spud",
+  "pattern_page": "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Softies → Doll",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Berroco Ultra Alpaca Light",
-    "Sport (12 wpi) ?"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
+    "3-dimensional",
     "phototutorial",
+    "seamed",
+    "stripes-colorwork",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need! Basic Skills Necessary: •knit (knit) •knit front and back (kfb) •knit two together (k2tog) •slip slip knit (ssk) Feel free to sell any of the Jingle Fish you make yourself, but please do not distribute this pattern without my permission. Purchase the full set of Jingle Animals - Cat Toys here: http://www.ravelry.com/patterns/library/jingle-animals---...",
+  "full_text": "To commemorate the happy arrival of the baby princess I have created a FREE knitting pattern for a tiny baby in a Moses basket. The baby measures just 5cm and the basket is 9cm, the perfect size to sit on top of a Christening cake. I’ve dressed the baby in white and she has a pale pink blanket and pillow.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/people",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/report",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy",
-    "https://www.ravelry.com/patterns/library/jingle-bird---cat-toy",
-    "https://www.ravelry.com/patterns/sources/dooley-and-spud",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/threads",
-    "http://www.ravelry.com/patterns/library/jingle-animals---cat-toys",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/yarns",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/comments"
-  ]
+    "https://www.ravelry.com/patterns/library/little-skipping-friends",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/people",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/comments",
+    "http://flutterbypatch.blogspot.co.uk/2015/05/free-pattern-baby-in-basket-crib.html",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/threads",
+    "https://www.ravelry.com/patterns/library/jenny-and-the-jolly-dollies",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/editors",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/report",
+    "https://www.ravelry.com/patterns/sources/flutterby-patch",
+    "https://www.ravelry.com/patterns/library/jolly-dolly-bags",
+    "https://www.ravelry.com/patterns/library/baby-in-a-basket-crib/yarns"
+  ],
+  "name": "Ravelry: Baby in a Basket Crib pattern by Wendy Phillips"
 }

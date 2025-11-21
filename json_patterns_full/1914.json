@@ -1,39 +1,59 @@
 {
   "pattern_id": 1914,
-  "pattern_page": "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones",
-  "name": "Woodland Wreath, Fir Cones",
-  "description": "This is the seventh in a series of twelve linked patterns for a knitted wreath, to be published daily in December 2013.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/callisto---baby-cardigan",
+  "name": "Callisto - baby cardigan",
+  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
+  "designer": "Agnes Brandels",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "50/56 (62/68) 74/80 (86/92) cl",
   "languages": [
-    "English"
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Svarta Fåret Merino",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "short-rows"
+    "baby",
+    "bottom-up",
+    "buttoned",
+    "chart",
+    "long-sleeve",
+    "newborn-size",
+    "one-piece",
+    "raglan-sleeve",
+    "seamless",
+    "straight",
+    "textured",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This is the seventh in a series of twelve linked patterns for a knitted wreath, to be published daily in December 2013. These fir cones add some texture to the wreath; they are a knitted strip, shaped with short rows and then rolled up and sewn to make the cone shape. A picot cast off in a lighter shade gives them that distinctive edge. You can use various shades of brown for your fir cones or, for a frosted effect, you could work the cast off row with cream yarn. There are two sizes of cones in this pattern, the big ones are about 4 cm long and the small ones 3 cm. 40g of yarn will make about a dozen fir cones. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
-  "techniques": [
-    "short rows"
-  ],
-  "shape": "cone",
+  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/comments",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/editors",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/threads",
-    "https://www.ravelry.com/patterns/sources/knit-a-vintage-christmas",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/yarns",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/people",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-mistletoe",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/report",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-holly"
+    "https://www.ravelry.com/patterns/library/hailey---baby-socks",
+    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/comments",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/report",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/editors",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/people",
+    "https://www.ravelry.com/patterns/library/umbriel---pants",
+    "https://www.ravelry.com/patterns/library/callisto---baby-bonnet",
+    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/yarns",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-knit-for-babies",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store"
   ]
 }

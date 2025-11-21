@@ -1,41 +1,39 @@
 {
   "pattern_id": 1384,
-  "pattern_page": "https://www.ravelry.com/patterns/library/acorn-lantern",
-  "name": "Acorn Lantern",
-  "description": "These adorable Acorn Lanterns are knit entirely in the round, from the bottom up, on dpns. The candle is embroidered on using a chain stitch. The bottom has been left open, so that they can stand independently and so the embroidery is easier to do. I hope they bring joy.",
-  "designer": "Natasha Hanson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/heart-7",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "Height without handle: 2.5”/ 6cm, or desired size.",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "one - 4\" wide by 6\" high",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Patons North America Classic Wool Worsted",
-    "Worsted (9 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Fleece Artist Merino 2/6"
   ],
   "attributes": [
-    "bottom-up",
+    "3-dimensional",
     "in-the-round",
-    "one-piece",
-    "seamless",
     "written-pattern"
   ],
-  "full_text": "These adorable Acorn Lanterns are knit entirely in the round, from the bottom up, on dpns. The candle is embroidered on using a chain stitch. The bottom has been left open, so that they can stand independently and so the embroidery is easier to do. I hope they bring joy. Please make as many as you like and feel free to make them to sell :) To make a lantern with a real acorn lid click here! Praise For Acorn Lantern Very cute and quick knit. I absolutely love it! (Adente) What a perfect little lantern! (5kittens) Tiny scraps of yarn used. Very cute little lantern, just right for a mouse! (Bogwoppit) Lovely written pattern. Less than an hour to knit. (bikerhen) Cute little lantern. Good for decoration of all kind. (Saphiera) Scraps used- sweet little lantern. (thrsedge)",
+  "full_text": "From Knitty: I created this heart for Valentine’s Day. I wanted something lovey-dovey to celebrate the day, hold the saccharin! If you too wish to give away your heart to someone, or put it on the shelf, or wear it on your sleeve, this pattern may be the answer. It is a fairly simple construction, knit all in one piece, and is a quick knit project despite the small gauge. Note: Pattern calls for one skein each of two colors but states this will give you enough yarn for three hearts plus leftovers. The yardage entered above is an estimate of how much yarn is needed for a single heart.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/daffodil-bulb-vase",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/people",
-    "https://www.ravelry.com/patterns/library/acorn-lantern",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/report",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/yarns",
-    "https://www.ravelry.com/patterns/library/santa-lucia-4",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/comments",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/threads",
-    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/acorn-lantern/editors"
-  ]
+    "https://www.ravelry.com/patterns/library/heart-7/yarns",
+    "https://www.ravelry.com/patterns/library/heart-7/report",
+    "https://www.ravelry.com/patterns/library/heart-7/threads",
+    "https://www.ravelry.com/patterns/library/heart-7/posts",
+    "https://www.ravelry.com/patterns/library/heart-7/comments",
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2008",
+    "https://www.ravelry.com/patterns/library/heart-7",
+    "https://www.ravelry.com/patterns/library/late-bloomer-mittens",
+    "https://www.ravelry.com/patterns/library/bird-bee",
+    "https://www.ravelry.com/patterns/library/heart-7/editors",
+    "https://www.ravelry.com/patterns/library/cupcake-9",
+    "https://www.ravelry.com/patterns/library/heart-7/people",
+    "https://www.ravelry.com/patterns/periodicals/knitty"
+  ],
+  "name": "Ravelry: Heart pattern by Kristin Ledgett"
 }

@@ -1,33 +1,29 @@
 {
   "pattern_id": 334,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fsh-2",
-  "name": "Fsh",
-  "description": "What do you call a fish with no eyes? A fsh!",
-  "designer": "Blue Crafts",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-mermaid-doll",
+  "name": "Knitted Mermaid Doll",
+  "description": "Difficulty: Medium - Requires ability to change colors, increase, decrease and assemble.",
+  "designer": "Angela chin",
   "craft": "Knitting",
-  "category": "Softies → Animal Pet → Toys",
+  "category": "Softies → Doll",
   "languages": [
     "English"
   ],
-  "suggested_yarn": [
-    "Any gauge - designed for any gauge ?"
-  ],
   "attributes": [
-    "3-dimensional",
-    "in-the-round"
+    "seamed"
   ],
-  "full_text": "What do you call a fish with no eyes? A fsh! Simple little knitted fish I made as toys for my cats.",
+  "full_text": "Difficulty: Medium - Requires ability to change colors, increase, decrease and assemble. Size: Dolls measures 14 inches tall Materials: Worsted Weight yarn – You can mix yarn colors to get the combination you’d like: Beige (for skin of doll) Purple for top) Teal (for body and tail) Red (for hair) Poly-fill stuffing Pair of size 4 (US) knitting needles Yarn needle 9mm doll eyes",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/blue-crafts-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fsh-2/report",
-    "https://www.ravelry.com/patterns/library/cyclists-best-friend",
-    "https://www.ravelry.com/patterns/library/fsh-2/comments",
-    "https://www.ravelry.com/patterns/library/fsh-2/yarns",
-    "https://www.ravelry.com/patterns/library/fsh-2/editors",
-    "https://www.ravelry.com/patterns/library/fsh-2/people",
-    "https://www.ravelry.com/patterns/library/last-minute-snowman-ornament",
-    "https://www.ravelry.com/patterns/library/fsh-2"
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/yarns",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/comments",
+    "https://www.ravelry.com/patterns/sources/angela-chins-ravelry-store",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/report",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/people",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll",
+    "https://www.ravelry.com/patterns/library/pride-and-prejudice-dolls",
+    "https://www.ravelry.com/patterns/library/knitted-sea-witch-doll",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/editors"
   ]
 }

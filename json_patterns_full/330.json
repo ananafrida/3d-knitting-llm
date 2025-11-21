@@ -1,41 +1,40 @@
 {
   "pattern_id": 330,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ulysses-the-mouse",
-  "name": "Ulysses the Mouse",
-  "description": "This is a fairly quick knit (within a few hours), and what cat will be able to resist this adorable toy? It is knit in the round using double pointed needles (dpns) and fingering weight yarn such as leftover stash sock yarn. The tail is knit first as an i-cord and then the stitches begin to increase as the body continues on. The separate ears begin with a Turkish Cast-On (or any cast on method that a knitter might use for toe up socks). This will create nice double thickness ears with stockinette stitch on both side, and they will be sturdy. For added kitty cat appeal, store the stuffed toy in a zipper plastic bag filled with catnip. Oh yeah! People are also attracted to these little mice (don’t store theirs in catnip)!",
-  "designer": "Wendy Prager Goeckner",
+  "pattern_page": "https://www.ravelry.com/patterns/library/friendly-md",
+  "name": "Friendly MD",
+  "description": "About",
+  "designer": "Esther Braithwaite",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
-  "sizes_available": "One Size",
+  "category": "Softies → Doll",
+  "sizes_available": "Fingering 4 3/4\"; DK/Sport 5 1/4\"; Worsted 6\"",
   "languages": [
     "English"
   ],
-  "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Patons North America Kroy Socks"
-  ],
   "attributes": [
+    "Intarsia",
     "bottom-up",
-    "icord",
+    "duplicate-stitch",
     "in-the-round",
-    "three-needle-bind",
-    "written-pattern"
+    "worked-flat"
   ],
-  "full_text": "This is a fairly quick knit (within a few hours), and what cat will be able to resist this adorable toy? It is knit in the round using double pointed needles (dpns) and fingering weight yarn such as leftover stash sock yarn. The tail is knit first as an i-cord and then the stitches begin to increase as the body continues on. The separate ears begin with a Turkish Cast-On (or any cast on method that a knitter might use for toe up socks). This will create nice double thickness ears with stockinette stitch on both side, and they will be sturdy. For added kitty cat appeal, store the stuffed toy in a zipper plastic bag filled with catnip. Oh yeah! People are also attracted to these little mice (don’t store theirs in catnip)!",
-  "techniques": [],
+  "full_text": "About These dolls were created with great respect and gratitude for all of the medical professionals who are working so tirelessly to keep us safe during this difficult time. Construction Friendly M.D. Dolls are knit in one piece from the bottom-up. The doll’s body can be knit flat on straight needles and seamed, or knit in the round on dpns. The optional face mask is knit flat on two needles. Details are added with duplicate stitch and simple sewing techniques are used to define the arms and legs after knitting. Gauge Exact gauge is not important;Choose a needle 2 or 3 sizes smaller than recommended on the ball band to create a dense fabric that will keep the stuffing hidden",
+  "techniques": [
+    "bottom-up",
+    "seamed"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/shaken-not-stirred-socks",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse",
-    "https://www.ravelry.com/patterns/library/hugs--kisses-girls-beanie",
-    "https://www.ravelry.com/patterns/sources/baabaayaya-on-ravelry",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/yarns",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/editors",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/report",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/edit",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/people",
-    "https://www.ravelry.com/patterns/library/basic-toe-up-socks-8",
-    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/comments"
+    "https://www.ravelry.com/patterns/library/friendly-md/people",
+    "https://www.ravelry.com/patterns/library/knitted-nativity-volume-1",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/friendly-md/posts",
+    "https://www.ravelry.com/patterns/library/friendly-md/yarns",
+    "https://www.ravelry.com/patterns/library/friendly-md/report",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/friendly-md",
+    "https://www.ravelry.com/patterns/library/friendly-md/comments",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+    "https://www.ravelry.com/patterns/library/friendly-md/editors",
+    "https://www.ravelry.com/patterns/library/friendly-md/threads"
   ]
 }

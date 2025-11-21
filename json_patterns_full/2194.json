@@ -1,38 +1,46 @@
 {
   "pattern_id": 2194,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fuzzackles",
-  "name": "Fuzzackles",
-  "description": "I was trying to think of the perfect gift for a bachelorette party and I had to do it on a budget. Having a little bit of Lamb’s Pride left over from another project, I decided to knit up a quick pair of kinky handcuffs to spice up their honeymoon. Plus they didn’t have to worry about loosing the keys.",
-  "designer": "Jodie St. Clair",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-gnome-hat",
+  "name": "Felted Gnome Hat",
+  "description": "My sister the daycare teacher wanted a gnome hat for her Halloween costume so I came up with this hat that wouldn’t need stuffing to stand up.",
+  "designer": "Yolanda Leung",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "one size",
+  "category": "Hat → Pixie",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "adult teen child",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Brown Sheep Lamb's Pride Worsted",
+    "Patons North America Classic Wool Worsted",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "adult",
+    "bottom-up",
     "felted",
-    "mature"
+    "female",
+    "in-the-round",
+    "male",
+    "one-piece",
+    "pattern-recipe",
+    "seamless",
+    "teen",
+    "written-pattern"
   ],
-  "full_text": "I was trying to think of the perfect gift for a bachelorette party and I had to do it on a budget. Having a little bit of Lamb’s Pride left over from another project, I decided to knit up a quick pair of kinky handcuffs to spice up their honeymoon. Plus they didn’t have to worry about loosing the keys. This was a great way to introduce myself to the felting process. These cuffs are a quick and easy project that can be done in traditional gray or with your… I mean your friend’s favorite color.",
+  "full_text": "My sister the daycare teacher wanted a gnome hat for her Halloween costume so I came up with this hat that wouldn’t need stuffing to stand up. I think that it will be very versatile in different colours - for elf hats in green, princess hats in pink or blue, traffic cones in orange, even like chocolate kiss in brown (with shorter intervals between decrease rows and an I-cord top!). Because the hat is felted size is not as critical. To change the size increase or decrease the number of stitches cast on stiches and adjust markers as needed. Please have fun and post your photos.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/strings--yarn",
-    "https://www.ravelry.com/patterns/library/globe-trotter-socks",
-    "https://www.ravelry.com/patterns/library/saturday-market-bag",
-    "https://www.ravelry.com/patterns/library/fuzzackles/people",
-    "https://www.ravelry.com/patterns/library/fuzzackles/editors",
-    "https://www.ravelry.com/patterns/library/around-the-world-socks",
-    "https://www.ravelry.com/patterns/library/fuzzackles",
-    "https://www.ravelry.com/patterns/library/fuzzackles/report",
-    "https://www.ravelry.com/patterns/library/fuzzackles/threads",
-    "https://www.ravelry.com/patterns/library/fuzzackles/comments",
-    "https://www.ravelry.com/patterns/library/fuzzackles/yarns"
+    "https://www.ravelry.com/patterns/library/eaten-by-a-shark-slippers",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat/comments",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat/editors",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat/yarns",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat/people",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat/report",
+    "https://www.ravelry.com/patterns/library/felted-gnome-hat",
+    "https://www.ravelry.com/patterns/library/versatile-hat-for-pets",
+    "https://www.ravelry.com/patterns/library/felted-mason-jar-cozy-2",
+    "https://www.ravelry.com/patterns/sources/yolanda-leungs-ravelry-store"
   ]
 }

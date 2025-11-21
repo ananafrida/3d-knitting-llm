@@ -1,45 +1,36 @@
 {
   "pattern_id": 654,
-  "pattern_page": "https://www.ravelry.com/patterns/library/trio-of-hats-pixie",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mouse-cat-toy-4",
+  "name": "Mouse Cat Toy",
+  "description": "A knitted mouse toy for your cat with little bobble ears and a crocheted tail.",
+  "designer": "Patricia Wake",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "Premature (newborn, baby, child, adult)",
+  "category": "Pet → Toys",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Wendy Merino Double Knitting",
-    "DK (11 wpi) ?"
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
-    "adult",
-    "baby",
-    "child",
-    "in-the-round",
-    "newborn-size",
-    "preemie",
+    "one-piece",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This cute little hat makes a great gift - the pattern is sized from baby to adult - and it’s an ideal project to practise the magic loop technique. Errata 19/2/13: the purl round from either side of the yo,k2tog has been omitted; work a purl round before and after this round to achieve the desired the result Support Do you need help with this pattern? We have a specific discussion thread in the Wormhead’s Hats group where you can ask any questions.",
+  "full_text": "A knitted mouse toy for your cat with little bobble ears and a crocheted tail. A great stashbuster. Use up those small leftovers from other projects! Any yarn can be used. The weight of the yarn will determine how small or large the mouse comes out. Other materials needed: Needle size appropriate to obtain a tight gauge. Try one size smaller than the size recommended on the yarn packaging. Crochet hook same size as knitting needles. Tapestry needle. 2-4 cotton balls or fiber fill. Loose leaf catnip. Gauge: not important for sizing, but should be tight enough to prevent filling from coming out through the stitches.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/editors",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-beanie",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/posts",
-    "https://www.ravelry.com/patterns/sources/knit-now-issue-18-february-2013",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/people",
-    "https://www.ravelry.com/patterns/library/ms-beanie",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/yarns",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie",
-    "https://www.ravelry.com/patterns/sources/trio-of-hats",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/report",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/threads",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-square-top",
-    "https://www.ravelry.com/patterns/sources/woolly-wormhead",
-    "https://www.ravelry.com/bundles/free-patterns-331",
-    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/comments"
-  ],
-  "name": "Ravelry: Trio of Hats Pixie pattern by Woolly Wormhead"
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/editors",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4",
+    "https://www.ravelry.com/patterns/library/halloween-shadows",
+    "https://www.ravelry.com/patterns/library/frost-flowers-hand-muff",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/comments",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/report",
+    "https://www.ravelry.com/patterns/sources/patricia-wakes-ravelry-store",
+    "https://www.ravelry.com/patterns/library/frost-flowers-lined-hat",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/yarns",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/people"
+  ]
 }

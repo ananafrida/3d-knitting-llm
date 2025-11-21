@@ -1,37 +1,39 @@
 {
   "pattern_id": 186,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fry-up-bag",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bunny-buddies-2",
+  "name": "Bunny Buddies",
+  "description": "Sometimes you simply need to knit something silly… And these cute little bunny buddies are exactly that! My boys have gone mad over these little gems and I’m sure they’ll brighten up anyone’s day. The best part about these, is that they knit up really quickly and require very little yarn. The perfect tashbusters for those leftover bits of yarn we are all guilty of keeping… just in case :slightly_smiling_face:",
+  "designer": "Cilla Webb",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "one size, round handbag",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "11 cm tall",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Sirdar Double Crepe",
-    "Sport (12 wpi) ?"
+    "Sirdar Snuggly DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "circle-shaped",
     "seamed",
-    "textured",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Pattern originally posted on Cult 45 bookshop ; found on Wayback Machine internet archives. Note that the pattern is still under copyright; obtain a copy of the magazine before knitting. From the pattern: \"WOOL: 3 (40g) balls of Sirdar Double Crepe in Lemon about 350 yards , oddments of DK in beige, brown, pink, white, yellow and green. PLUS: A 15cm nylon zip.\"",
+  "full_text": "Sometimes you simply need to knit something silly… And these cute little bunny buddies are exactly that! My boys have gone mad over these little gems and I’m sure they’ll brighten up anyone’s day. The best part about these, is that they knit up really quickly and require very little yarn. The perfect tashbusters for those leftover bits of yarn we are all guilty of keeping… just in case :slightly_smiling_face: Yarn: 12g Sirdar Snuggly DK yarn per bunny A small amount of black and pink yarn for the facial features. Needles: 3.5mm straight needles Other supplies: Toy stuffing Tapestry needle Size: 11 cm tall Abbreviations x times: Knit the instructions between the brackets x amount of times. * ; rep from * to end: Repeat the instructions between the * and ; until the end of the row. st(s): stitch(es) K: knit,if followed by a number, knit that amount of stitches P: purl St st: stocking stitch: alternate a row of knitting and a row of purling. G st: garter stitch: knit every row K2tog: knit two stitches together knitwise. P2tog: purl two stitches together purlwise. Kfb: knit in the front and back of the stitch, creating an increase.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fry-up-bag/yarns",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/edit",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/editors",
-    "https://www.ravelry.com/patterns/sources/jackie-annual-1979",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/comments",
-    "https://www.ravelry.com/patterns/library/fry-up-bag",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/people",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/report",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/threads"
-  ],
-  "name": "Ravelry: Fry Up! (Bag) pattern by Jackie Magazine"
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2/threads",
+    "https://www.ravelry.com/patterns/library/frankenstitch",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2/comments",
+    "https://www.ravelry.com/patterns/library/tiny-festive-tomte-gnomes",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2/report",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2/yarns",
+    "https://www.ravelry.com/patterns/library/darwin-duck",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2/people",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2/editors",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2",
+    "https://www.ravelry.com/patterns/sources/cillas-purls-ravelry-store"
+  ]
 }

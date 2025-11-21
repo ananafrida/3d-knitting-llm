@@ -1,41 +1,45 @@
 {
   "pattern_id": 61,
-  "pattern_page": "https://www.ravelry.com/patterns/library/domino-box",
-  "name": "Domino Box",
-  "description": "This was fun to knit! This pattern is worked with 2 needles and 2 yarn colors but a variegated yarn is worth considering, too. 3 double decreases are spaced an equal number of stitches apart and there is a decrease at the beginning of each row to make the 4th corner. A small seam is sewn in one corner to finish the square.",
-  "designer": "Vicki Monthei",
+  "pattern_page": "https://www.ravelry.com/patterns/library/a-felted-eye-patch",
   "craft": "Knitting",
-  "category": "Afghan block",
+  "category": "Other Headwear → Eye mask Costume",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "N/A",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand 24/7 Cotton",
+    "",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "motifs",
+    "adult",
+    "child",
+    "felted",
+    "icord",
     "one-piece",
-    "seamed",
-    "worked-flat"
+    "seamless",
+    "unisex",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This was fun to knit! This pattern is worked with 2 needles and 2 yarn colors but a variegated yarn is worth considering, too. 3 double decreases are spaced an equal number of stitches apart and there is a decrease at the beginning of each row to make the 4th corner. A small seam is sewn in one corner to finish the square. A large number of cast-on stitches will dwindle rapidly with all the decreasing. Cast on any multiple of 4 stitches + 11 stitches for the decreases. Design idea: consider sewing together different sizes of squares for more visual interest. I found I needed more than twice the number of stitches to double the size of a Domino Box. Skills needed: cast on, knit, SK2P, k2tog, gathering and securing remaining stitches. (No binding off.) Gauge is not important in this pattern. Any yarn/thread will work. Make a swatch to check gauge and appearance. At my gauge, the 91-stitch, orange and white block is 4.75” square and the 51-stitch blue and white block is 2.75” square. The 91-stitch variegated Kroy Socks yarn block is 3.25” square. About 7 yards of Lion Brand 24/7 yarn will make a 51-stitch Domino Box at gauge.",
-  "techniques": [
-    "decreases"
-  ],
-  "shape": "cube",
+  "full_text": "From Pattern Notes: “Aaarrrggghhh! Avast ye, maties! Be ye wantin’ to live the pirate’s life? Then ye’re goin’ to want to accessorize! If by chance ye’ve still got both yer legs, and two whole hands, and two good eyes - wait a minute! What kind of a pirate be ye?!? Ah, well…we’ve all gotta start swashbucklin’ somewheres, and it takes some time sailin’ the seas afore ye can earn the markin’s of a true pirate. ‘Til then, ye can fake it in gran’ style wi’ this classic eye patch! Knittin’s a fittin’ pastime for those dull moments between lootin’ and plunderin’, and this pattern’s easy to follow, so there’s no excuses for slackin’ off here! So, pick up yer pointy sticks, grab that wad of wool, and cast on, while singin’ Yo Ho! Yo Ho! A Pirate’s Life fer Me!“",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/domino-box",
-    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
-    "https://www.ravelry.com/patterns/library/weldons-wanzer-border",
-    "https://www.ravelry.com/patterns/library/domino-box/editors",
-    "https://www.ravelry.com/patterns/library/big-diagonal-domino",
-    "https://www.ravelry.com/patterns/library/domino-box/yarns",
-    "https://www.ravelry.com/patterns/library/domino-box/comments",
-    "https://www.ravelry.com/patterns/library/domino-box/people",
-    "https://www.ravelry.com/patterns/library/domino-box/report",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store"
-  ]
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/edit",
+    "https://www.ravelry.com/patterns/library/knit-felted-catnip-mice",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/editors",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/yarns",
+    "https://www.ravelry.com/patterns/library/freedom-mitts",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://web.archive.org/web/20120816202602/http://www.folkcatart.com/PDF/Eyepatch.pdf",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/people",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/posts",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/threads",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/report",
+    "https://www.ravelry.com/patterns/sources/crafting-jen",
+    "https://www.ravelry.com/patterns/library/a-felted-eye-patch/comments"
+  ],
+  "name": "Ravelry: A Felted Eye Patch pattern by Jen Kubeck"
 }

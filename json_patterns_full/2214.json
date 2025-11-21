@@ -1,39 +1,41 @@
 {
   "pattern_id": 2214,
-  "pattern_page": "https://www.ravelry.com/patterns/library/childs-lamb-costume",
-  "name": "Child's Lamb Costume",
-  "description": "I originally free-handed this project for my son’s nativity lamb costume, but have recreated it so others can knit it as well. This is the first pattern I have written, so please send me any corrections or suggestions (ravatar: tinto).",
-  "designer": "Margot Stevens",
+  "pattern_page": "https://www.ravelry.com/patterns/library/a-gnomey-hat",
+  "name": "A Gnomey Hat",
+  "description": "Check out the A Gnomey Hat SDK Blog Post for the FREE PATTERN, lots of cute pics of kiddos in Gnomey Hats and yarn ideas.",
+  "designer": "Wool & Wyrd",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "15.0 mm, US 19",
-  "sizes_available": "3-4 year old",
+  "category": "Hat → Pixie",
+  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "sizes_available": "new born, baby, child, adult",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Thick & Quick",
+    "Malabrigo Yarn Rasta",
     "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "baby",
+    "bottom-up",
     "child",
     "in-the-round",
-    "seamed",
-    "textured",
-    "unisex",
-    "written-pattern"
+    "seamless"
   ],
-  "full_text": "I originally free-handed this project for my son’s nativity lamb costume, but have recreated it so others can knit it as well. This is the first pattern I have written, so please send me any corrections or suggestions (ravatar: tinto).",
+  "full_text": "Check out the A Gnomey Hat SDK Blog Post for the FREE PATTERN, lots of cute pics of kiddos in Gnomey Hats and yarn ideas. Raising my children in a Waldorf inspired homeschool community, the little gnomes scampering about were a common site. When they began knitting, these hats were one of their first projects. Not only are they quite simple, they are with super bulky yarn and large needles, making them a super quick knit for an adult or a reasonable undertaking for little hands. I have a lot of warm and fuzzy feelings when it comes to little (and big) gnomes going about their gnomey day and this pattern holds a special place in my heart, honoring that time I had with my boys in the Boreal Forest of Alaska. The Deets: Craft : Knitting Suggested yarn : Malabrigo Yarn Rasta, Freia Handpaints, Lionbrand Freia Ombré Yarn weight : Super Bulky Gauge : 2.5 stitches and 4 rows = 1 inch in Stockinette knit in the round Needle size : US 13 - 9.0 mm Yardage : 90 yards (or one skein) Sizes available : new born, baby, child, adult I love to see your creations. Share on social media and tag me @SunDaughterKnits and use the hashtag #gnomeyhat . Please feel free to reach out to me with any questions or feedback by DM through Instagram @SunDaughterKnits or via email at sun.daughter.knits@gmail.com .",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/margotintos-blog",
-    "https://www.ravelry.com/patterns/library/childs-lamb-costume/threads",
-    "https://www.ravelry.com/patterns/library/childs-lamb-costume/report",
-    "https://www.ravelry.com/patterns/library/childs-lamb-costume/posts",
-    "https://www.ravelry.com/patterns/library/childs-lamb-costume/editors",
-    "https://www.ravelry.com/patterns/library/childs-lamb-costume",
-    "https://www.ravelry.com/patterns/library/childs-lamb-costume/comments",
-    "https://www.ravelry.com/patterns/library/childs-lamb-costume/people",
-    "https://www.ravelry.com/patterns/library/lammekostyme---lamb-costume-in-norwegian",
-    "https://www.ravelry.com/patterns/library/childs-lamb-costume/yarns"
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat/threads",
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat",
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat/report",
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat/people",
+    "https://www.ravelry.com/patterns/library/bluster-bandana-cowl",
+    "https://www.ravelry.com/patterns/library/bluster-legwarmers",
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat/yarns",
+    "https://www.ravelry.com/bundles/quick-knits-and-bulky-patterns",
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat/editors",
+    "https://www.ravelry.com/patterns/library/bluster-shawl",
+    "https://www.ravelry.com/patterns/sources/sundaughterknits-website",
+    "https://www.ravelry.com/patterns/library/a-gnomey-hat/comments"
   ]
 }

@@ -1,47 +1,44 @@
 {
   "pattern_id": 403,
-  "pattern_page": "https://www.ravelry.com/patterns/library/roma-baby-cardigan-jacket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments",
+  "name": "Mini Christmas Stocking Ornaments",
+  "description": "Update November 19th 2015: There is now a free PDF file available for this pattern",
+  "designer": "Julie Williams",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan Coat / Jacket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "medium premature , newborn, 3 - 6 months, 6 - 9 months, 12- 18 months",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "2-3 inches",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Rowan 4 Ply Cotton"
   ],
   "attributes": [
-    "baby",
-    "doll-size",
-    "female",
-    "male",
-    "newborn-size",
-    "one-piece",
-    "preemie",
-    "top-down",
-    "unisex",
+    "chart",
+    "seamed",
+    "seamed-sock",
+    "stranded",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This super cute pattern is so easy to knit Perfect for baby boys or girls Knitted top-down Almost no sewing up! Requires ~ DK (8ply) yarn 4mm needles Cardigan jacket …….. matching hat also available Sizes ~ medium premature, newborn, 3 - 6 months 6 - 9 months, 12 months So sweet! To get this free pattern please click on the https link just below ↓",
-  "techniques": [
-    "top-down"
-  ],
-  "shape": "unknown",
+  "full_text": "Update November 19th 2015: There is now a free PDF file available for this pattern I knit this stocking flat because I don’t enjoy knitting in the round and prefer working fair Isle and intarsia designs this way. I tend to work it on double pointed needles because during heel shaping you need to switch from working one side to the other. You can knit it on regular needles but slide the work across onto a second needle at appropriate time. Apart from the stocking top it is worked in stocking stitch (knit on right side and purl on reverse) …………………………………………………………………….. There are some great charts for other patterns to use on this stocking shared here: http://www.ravelry.com/projects/cozysunnyday/mini-christm...",
+  "techniques": [],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/roma-baby-cardigan-jacket/people",
-    "https://www.ravelry.com/patterns/library/roma-baby-cardigan-jacket/report",
-    "https://www.ravelry.com/patterns/library/roma-baby-hat",
-    "https://www.ravelry.com/patterns/library/ben-baby-cardigan-jacket",
-    "https://www.ravelry.com/patterns/library/roma-baby-cardigan-jacket/comments",
-    "https://www.ravelry.com/patterns/library/roma-baby-cardigan-jacket/editors",
-    "https://www.ravelry.com/patterns/library/roma-baby-cardigan-jacket",
-    "https://www.ravelry.com/patterns/library/roma-baby-cardigan-jacket/yarns",
-    "https://www.ravelry.com/patterns/library/roma-baby-cardigan-jacket/threads",
-    "https://www.ravelry.com/patterns/library/kinzie-baby-cardigan-jacket"
-  ],
-  "name": "Ravelry: ROMA Baby Cardigan Jacket pattern by marianna mel"
+    "https://www.ravelry.com/bundles/free-patterns-441",
+    "https://www.ravelry.com/patterns/library/bunny-in-a-dotty-dress",
+    "https://www.ravelry.com/patterns/library/bunny-with-a-striped-sweater",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/people",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/posts",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/yarns",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/threads",
+    "https://www.ravelry.com/patterns/sources/little-cotton-rabbits",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/comments",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/editors",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments/report",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations"
+  ]
 }

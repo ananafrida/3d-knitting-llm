@@ -1,38 +1,39 @@
 {
   "pattern_id": 1798,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets",
+  "pattern_page": "https://www.ravelry.com/patterns/library/afterthought-everything-recipe",
+  "name": "Afterthought Everything Recipe",
+  "description": "You Tube Video",
+  "designer": "Shelley Dupont",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "small basket",
+  "category": "Components → Other",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Light Fingering ?",
+    "Polka Dot Creek Classic Sock"
   ],
   "attributes": [
-    "one-piece",
-    "seamed",
-    "worked-flat",
-    "written-pattern"
+    "afterthought-heel",
+    "in-the-round",
+    "kitchener",
+    "other-toe"
   ],
-  "full_text": "Such a simple little pattern! Why not give these as sweet little Easter gifts? DK (8ply) yarn 4mm needles Fill them with chocolate mini eggs - sure to be loved! Decorate as desired Easy to follow instructions. To get this free pattern please click on the https link just below ↓",
+  "full_text": "You Tube Video",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/comments",
-    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/yarns",
-    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/editors",
-    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets",
-    "https://www.ravelry.com/patterns/library/mariannas-mini-gift-purses---knit",
-    "https://www.ravelry.com/patterns/library/freya-baby-hat",
-    "https://www.ravelry.com/patterns/library/tiny-baby-nest",
-    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/report",
-    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/people",
-    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/threads"
-  ],
-  "name": "Ravelry: Sweet Little Easter Baskets pattern by marianna mel"
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/editors",
+    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-6",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/people",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe",
+    "https://www.ravelry.com/patterns/sources/polka-dot-creek-on-ravelry",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/threads",
+    "https://www.ravelry.com/patterns/library/cozy-memories-blanket-2",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/report",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/yarns",
+    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/comments",
+    "https://www.ravelry.com/patterns/library/ice-cream-socks-4"
+  ]
 }

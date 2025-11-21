@@ -1,45 +1,37 @@
 {
   "pattern_id": 1433,
-  "pattern_page": "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking",
-  "name": "Holiday Cheer Mini Stocking",
-  "description": "A cute mini stocking that will complement the previously released mini hat, mitt, and sweater patterns. Mix and match your colors and create a beautiful garland. Happy Holidays!",
-  "designer": "Nancy Ekvall",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fry-up-bag",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
+  "category": "Bag → Purse / Handbag",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "3\" x 3½”",
+  "sizes_available": "one size, round handbag",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Blue Sky Fibers Woolstok Bundle",
-    "Worsted (9 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Sirdar Double Crepe"
   ],
   "attributes": [
-    "in-the-round",
-    "stripes-colorwork",
+    "circle-shaped",
+    "seamed",
+    "textured",
     "written-pattern"
   ],
-  "full_text": "A cute mini stocking that will complement the previously released mini hat , mitt , and sweater patterns. Mix and match your colors and create a beautiful garland. Happy Holidays! EXPERIENCE LEVEL: Advanced Beginner MATERIALS * WOOLSTOK (WORSTED) BUNDLE (100% Fine Highland Wool, 21 mini hanks; 5g/12 yards): 1 bundle (Holiday Cheer) FINISHED MEASURMENTS: CIRCUMFERENCE: 3” HEIGHT: 3½” (cuff to toe) COLORS SHOWN: Cast Iron No. 1300 Gravel Road No. 1302 Highland Fleece No. 1303 Wild Thyme No. 1306 Earth Ivy No. 1309 Cranberry Compote No. 1310 Red Rock No. 1315",
+  "full_text": "Pattern originally posted on Cult 45 bookshop ; found on Wayback Machine internet archives. Note that the pattern is still under copyright; obtain a copy of the magazine before knitting. From the pattern: \"WOOL: 3 (40g) balls of Sirdar Double Crepe in Lemon about 350 yards , oddments of DK in beige, brown, pink, white, yellow and green. PLUS: A 15cm nylon zip.\"",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lyle-cap",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking",
-    "https://www.ravelry.com/patterns/library/fall-festival-mini-pumpkins",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/yarns",
-    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/edit",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/people",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-mitt",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/editors",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-hat",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/comments",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
-    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/report",
-    "https://www.ravelry.com/patterns/library/pumpkin-patch-26"
-  ]
+    "https://www.ravelry.com/patterns/library/fry-up-bag/yarns",
+    "https://www.ravelry.com/patterns/library/fry-up-bag/editors",
+    "https://www.ravelry.com/patterns/library/fry-up-bag/comments",
+    "https://www.ravelry.com/patterns/library/fry-up-bag/threads",
+    "https://www.ravelry.com/patterns/library/fry-up-bag/people",
+    "https://www.ravelry.com/patterns/sources/jackie-annual-1979",
+    "https://www.ravelry.com/patterns/library/fry-up-bag/report",
+    "https://www.ravelry.com/patterns/library/fry-up-bag/edit",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/fry-up-bag"
+  ],
+  "name": "Ravelry: Fry Up! (Bag) pattern by Jackie Magazine"
 }

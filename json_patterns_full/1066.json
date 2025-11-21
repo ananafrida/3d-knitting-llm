@@ -1,47 +1,43 @@
 {
   "pattern_id": 1066,
-  "pattern_page": "https://www.ravelry.com/patterns/library/lotus-33",
+  "pattern_page": "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3",
+  "name": "Easy Like Sunday Morning",
+  "description": "EASY LIKE SUNDAY MORNING is a roomy, raglan-style sweater with a portrait neckline, bracelet length sleeves, and a modern silhouette. Worked from the top-down, the neckband is folded in half toward the inside and the cast-on edge is stitched down to finish. Designed with Sunday Morning DK held with Halo from Sonder Yarn Co. this lovely pullover wears like a fancy sweatshirt - effortlessly stylish whether you’re lounging at home or out and about. Easy to knit. Easy to wear.",
+  "designer": "Sonder Yarn Co.",
   "craft": "Knitting",
-  "category": "Tops → Tee",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "S (M) L (XL)",
+  "category": "Sweater → Pullover",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "1 (2, 3, 4, 5) (6, 7, 8, 9)",
   "languages": [
-    "Danish",
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Filcolana Pernilla"
+    "Sonder Yarn Co. Sunday Morning DK",
+    "yarn held together"
   ],
   "attributes": [
-    "adult",
-    "chart",
-    "circular-yoke",
-    "female",
     "in-the-round",
     "seamless",
-    "stranded",
-    "top-down",
-    "written-pattern"
+    "top-down"
   ],
-  "full_text": "Lotus is a short-sleeved blouse with a characteristic Nordic pattern on the circular yoke. The lovely floral motif of the pattern is inspired by Lotus flowers, that symbolize pureness of mind and soul. A short-sleeved sweater with the characteristic Nordic pattern border on the yoke. The beautiful floral pattern is reminiscent of the white lotus flower, which symbolizes the purity of mind and soul. A short blouse with a Nordic characteristic design has a beautiful design. The small flower part is inspired by the high-quality lotus flower, which symbolizes the flowers and the flowers.",
-  "techniques": [],
+  "full_text": "EASY LIKE SUNDAY MORNING is a roomy, raglan-style sweater with a portrait neckline, bracelet length sleeves, and a modern silhouette. Worked from the top-down, the neckband is folded in half toward the inside and the cast-on edge is stitched down to finish. Designed with Sunday Morning DK held with Halo from Sonder Yarn Co. this lovely pullover wears like a fancy sweatshirt - effortlessly stylish whether you’re lounging at home or out and about. Easy to knit. Easy to wear. FIND KITS HERE . SIZES 1 (2, 3, 4, 5) (6, 7, 8, 9) Finished circumference: 43.25 (46.25, 50.25, 52.25, 56) (60, 64, 67, 69)“ 110 (117.5, 127.5, 132.5, 142.5) (152.5, 162.5, 170, 175) cm Measurements above are given for the finished circumference measured at the end of the raglan increases (i.e., at underarms). Sweater is designed to be worn with 14 -18” / 35.5 - 45.75 cm of positive ease; however, this is just a guide. Some people prefer a closer fit; don’t be afraid to select an option that provides somewhat less ease according to your own preferences. YARN Sonder Yarn Co. SUNDAY MORNING DK or SUNDAY MORNING DK (Ecru) (75% Bluefaced Leicester, 25% Masham); 245 m (268 y) / 100 g 3 (3, 3, 3, 4) (5, 6, 7, 7) skeins Or 558 (585, 650, 712, 836) (1160, 1258, 1568, 1661) m / 610 (640, 711, 779, 914) (1269, 1376, 1715, 1816) yds DK weight yarn Sonder Yarn Co. HALO (72% Mohair, 28% Silk); 420 m (459 y) / 50 g 2 (2, 2, 2, 3) (4, 4, 5, 5) skeins Or 622 (653, 725, 795, 933) (1293, 1404, 1750, 1853) m / 680 (714, 793, 869, 1020) (1415, 1536, 1914, 2026) yds fluffy laceweight yarn. VERSIONS SHOWN Both sweaters are Size 4. Green version: Sunday Morning DK in ‘Fresh Sheets’ held with Halo in ‘Cathedrale’ Shown on a 34” bust (Amalia) and 38” bust (Melissa - last photo). Pink version: Sunday Morning DK (Ecru) in ‘RomCom’ held with Halo in ‘Glow-getter’ For this version, note that the body is knit 1” longer and sleeves are knit 3” longer than specified in pattern. Shown on a 38” bust. YARDAGE REQUIREMENTS FOR STRIPED VERSION: Although the pattern is written for a single colour, we’ve calculated the yarn requirements for a striped version like the one shown on Melissa (Size 4 on 38” bust). Note that stripes are 16 rows each. Sunday Morning DK or Sunday Morning DK (Ecru) C1: 2 (2, 2, 2, 3) (3, 4, 4, 5) skeins Shown in Matinee C2: 1 (1, 2, 2, 2) (2, 3, 3, 3) skeins Shown in Flat White OR C1: 361 (379, 421, 461, 541) (751, 814, 1015, 1075) yards C2: 249 (261, 290, 318, 373) (518, 562, 700, 741) yards Halo C1: 1 (1, 1, 2, 2) (2, 2, 3, 3) skeins Shown in Leonard C2: 1 (1, 1, 1, 1) (2, 2, 2, 2) skeins Shown in Chateau OR C1: 385 (404, 449, 492, 577) (801, 869, 1083, 1147) yards C2: 295 (310, 344, 377, 443) (614, 667, 831, 879) yards",
+  "techniques": [
+    "increases",
+    "top-down"
+  ],
   "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lotus-33/editors",
-    "https://www.ravelry.com/patterns/library/christianshavn",
-    "https://www.ravelry.com/patterns/library/lotus-33/report",
-    "https://www.ravelry.com/patterns/library/lotus-33/yarns",
-    "https://www.ravelry.com/patterns/sources/filcolana",
-    "https://www.ravelry.com/patterns/library/nordstrand",
-    "https://www.ravelry.com/patterns/library/lathyrus-2",
-    "https://www.ravelry.com/patterns/library/lotus-33/comments",
-    "https://www.ravelry.com/patterns/library/lotus-33/posts",
-    "https://www.ravelry.com/patterns/library/lotus-33/threads",
-    "https://www.ravelry.com/patterns/sources/flowers--dreams---filcolana-ss21",
-    "https://www.ravelry.com/patterns/library/lotus-33/people",
-    "https://www.ravelry.com/patterns/library/lotus-33"
-  ],
-  "name": "Ravelry: Lotus pattern by Hanne Rimmen"
+    "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3/threads",
+    "https://www.ravelry.com/patterns/library/fiori-8",
+    "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3/editors",
+    "https://www.ravelry.com/patterns/sources/sonder-yarn-co-2",
+    "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3/yarns",
+    "https://www.ravelry.com/patterns/library/turtle-dove-v-neck",
+    "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3/report",
+    "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3/comments",
+    "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3/people",
+    "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3/posts",
+    "https://www.ravelry.com/patterns/library/bobbles-optional",
+    "https://www.ravelry.com/patterns/library/easy-like-sunday-morning-3"
+  ]
 }

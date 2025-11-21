@@ -1,44 +1,48 @@
 {
   "pattern_id": 2115,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jens-half-hour-hat",
-  "name": "Jen's Half Hour Hat",
-  "description": "The perfect hat to knit for yourself or for someone you care about! This is my personal favorite hat – I have knit several of them for myself and for others, and it’s my go-to daily winter extra cozy hat. (The shape and fit are just right!) Knit this hat in a half hour using 100 grams of bulky yarn. (You can knit two hats from one 200 gram skein!) It’s easy to modify by adding or subtracting rows in the ribbed or stockinette section. Lickity split, quick little knit. Happy knitting! Please share your hats online by using the hashtag #jenshalfhourhat – I love seeing your projects!",
-  "designer": "Jen Geigley",
+  "pattern_page": "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie",
+  "name": "Toddler Raglan Hoodie",
+  "description": "April 2011: okerilla has kindly written a Spanish version of the pattern, and posted it on her blog, Juntitos! Gracias Okerilla!",
+  "designer": "Megan Goodacre",
   "craft": "Knitting",
-  "category": "Hat → Beanie, Toque",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
-  "sizes_available": "One size - Adult",
+  "category": "Coat / Jacket",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "12 (18, 24) months",
   "languages": [
-    "English"
+    "English",
+    "Spanish"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Wool and the Gang Crazy Sexy Wool"
+    "Knit Picks Comfy",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "in-the-round",
-    "one-piece",
-    "seamless",
-    "teen",
+    "chart",
+    "hood",
+    "positive-ease",
+    "raglan-sleeve",
+    "stripes-colorwork",
+    "toddler",
+    "top-down",
     "unisex",
     "written-pattern"
   ],
-  "full_text": "The perfect hat to knit for yourself or for someone you care about! This is my personal favorite hat – I have knit several of them for myself and for others, and it’s my go-to daily winter extra cozy hat. (The shape and fit are just right!) Knit this hat in a half hour using 100 grams of bulky yarn. (You can knit two hats from one 200 gram skein!) It’s easy to modify by adding or subtracting rows in the ribbed or stockinette section. Lickity split, quick little knit. Happy knitting! Please share your hats online by using the hashtag #jenshalfhourhat – I love seeing your projects! If you’d like to knit along with me (or see the optional join), here’s a video! https://www.youtube.com/watch?v=BnFy09KHvGI SIZES One size: Adult To fit 18-20” / 45.72-50.8 cm head size FINISHED MEASUREMENTS 18-20” / 45.72-50.8 cm circumference (hat is stretchy) 9” / 23 cm tall YARN Wool and the Gang Crazy Sexy Wool or The Wool from We Are Knitters 100% wool 80m/87 yards = 200 gr super bulky | 4 wpi NEEDLES US 15 / 10 mm 16” circular needle (or size needed to obtain gauge) US 15 / 10 mm DPNs NOTIONS Large sitch marker Tapestry needle GAUGE 5 sts and 6 rnds/rows = 2 in / 5 cm in stockinette stitch on US 15 / 10 mm needles (Use smaller needles for a smaller hat)",
+  "full_text": "April 2011: okerilla has kindly written a Spanish version of the pattern, and posted it on her blog, Juntitos ! Gracias Okerilla! December 2011: A brand new version is now available! Happy new year everyone! Worked from the top down, this raglan hoodie is easy to work up and finish. This makes a great gift, because, well, you can never have enough hoodies.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jens-half-hour-hat/yarns",
-    "https://www.ravelry.com/patterns/library/jens-half-hour-hat/editors",
-    "https://www.ravelry.com/patterns/library/feeling-groovy-side-tie-vest",
-    "https://www.ravelry.com/patterns/library/frances-28",
-    "https://www.ravelry.com/patterns/sources/jen-geigley-knits",
-    "https://www.ravelry.com/patterns/library/jens-half-hour-hat",
-    "https://www.ravelry.com/patterns/library/jens-half-hour-hat/people",
-    "https://www.ravelry.com/patterns/library/jens-half-hour-hat/threads",
-    "https://www.ravelry.com/patterns/library/jens-half-hour-hat/comments",
-    "https://www.ravelry.com/patterns/library/simple-sweater-knitalong",
-    "https://www.ravelry.com/patterns/library/jens-half-hour-hat/report"
+    "https://www.ravelry.com/patterns/library/tiny-pants",
+    "https://www.ravelry.com/patterns/sources/tricksy-knitter-website",
+    "https://www.ravelry.com/patterns/library/botanical-cowl",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/comments",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/people",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/threads",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/posts",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/yarns",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/report",
+    "https://www.ravelry.com/patterns/library/leafy-washcloth",
+    "https://www.ravelry.com/patterns/sources/tricksy-knitter",
+    "https://www.ravelry.com/patterns/library/toddler-raglan-hoodie/editors"
   ]
 }

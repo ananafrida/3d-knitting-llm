@@ -1,41 +1,38 @@
 {
   "pattern_id": 600,
-  "pattern_page": "https://www.ravelry.com/patterns/library/abc-baby-blanket-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy",
+  "name": "Jingle Fish - Cat Toy",
+  "description": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need!",
+  "designer": "Dooley and Spud",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "32.25\" wide x 32\" high",
+  "category": "Pet → Toys",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Knit Picks Comfy",
-    "Worsted (9 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Berroco Ultra Alpaca Light"
   ],
   "attributes": [
-    "chart",
-    "rectangle",
-    "textured",
-    "worked-flat"
+    "in-the-round",
+    "phototutorial",
+    "written-pattern"
   ],
-  "full_text": "Swathed in this blanket knit with the heavenly soft Knit Picks Comfy Worsted, your little one is sure to find sweet dreams. Garter stitch borders surround 9 classic baby blocks including A, B, C, a duck, a sailboat, a heart, a star and two 4-square blocks. Easy enough for a beginner to knit, this blanket is sure to become a treasured favorite.",
+  "full_text": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need! Basic Skills Necessary: •knit (knit) •knit front and back (kfb) •knit two together (k2tog) •slip slip knit (ssk) Feel free to sell any of the Jingle Fish you make yourself, but please do not distribute this pattern without my permission. Purchase the full set of Jingle Animals - Cat Toys here: http://www.ravelry.com/patterns/library/jingle-animals---...",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knit-picks-website",
-    "http://www.knitpicks.com/patterns/ABC_Baby_Blanket__D55656220.html",
-    "https://www.ravelry.com/patterns/library/sedona-sunset-wrap",
-    "https://www.ravelry.com/patterns/library/triangle-and-reindeer-stockings",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/threads",
-    "https://www.ravelry.com/patterns/library/harley-3",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/yarns",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/report",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/posts",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/editors",
-    "https://www.ravelry.com/patterns/periodicals/knit-picks",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/comments",
-    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/people"
-  ],
-  "name": "Ravelry: ABC Baby Blanket pattern by Jenny Williams"
+    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/editors",
+    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/yarns",
+    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy",
+    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/comments",
+    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy",
+    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/report",
+    "https://www.ravelry.com/patterns/library/jingle-bird---cat-toy",
+    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/threads",
+    "https://www.ravelry.com/patterns/sources/dooley-and-spud",
+    "http://www.ravelry.com/patterns/library/jingle-animals---cat-toys",
+    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/people"
+  ]
 }

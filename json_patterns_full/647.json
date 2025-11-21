@@ -1,33 +1,37 @@
 {
   "pattern_id": 647,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pixie-hue",
+  "pattern_page": "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse",
+  "name": "Nom the Catnip Mouse",
+  "description": "Cute little toy for your favorite feline.",
+  "designer": "Merrin Curley",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "0-3mdr (6mdr-1år) 1-2år (3-4år) 5-6 år",
+  "category": "Softies → Animal Pet → Toys",
   "languages": [
-    "Danish"
+    "English"
   ],
   "suggested_yarn": [
-    "Filcolana Arwetta",
-    "yarn held together"
+    ""
   ],
   "attributes": [
-    "seamless",
-    "written-pattern"
+    "icord",
+    "in-the-round",
+    "stripes-colorwork"
   ],
-  "full_text": "",
+  "full_text": "Cute little toy for your favorite feline.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/fantasifabrikken",
-    "https://www.ravelry.com/patterns/library/pixie-hue",
-    "https://www.ravelry.com/patterns/library/pixie-hue/comments",
-    "https://www.ravelry.com/patterns/library/pixie-hue/report",
-    "https://www.ravelry.com/patterns/library/pixie-hue/editors",
-    "https://www.ravelry.com/patterns/library/pixie-hue/yarns",
-    "https://www.ravelry.com/patterns/library/pixie-hue/edit",
-    "https://www.ravelry.com/patterns/library/pixie-hue/people"
-  ],
-  "name": "Ravelry: Pixie hue pattern by Fantasifabrikken"
+    "https://www.ravelry.com/patterns/library/christmas-toadstools",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/comments",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/posts",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/report",
+    "https://www.ravelry.com/patterns/library/bruce-the-tiny-monkey",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/threads",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/editors",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/people",
+    "https://www.ravelry.com/patterns/library/cosmo-the-baby-dragon",
+    "https://www.ravelry.com/patterns/sources/the-ginger-cat-designs",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse"
+  ]
 }

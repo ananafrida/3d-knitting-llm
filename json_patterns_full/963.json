@@ -1,41 +1,40 @@
 {
   "pattern_id": 963,
-  "pattern_page": "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball",
-  "name": "Follow the Bouncing Ball",
-  "description": "Want to save money by putting your scrap yarn to good use?",
-  "designer": "Michelle Miller",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fuzzy-dice-2",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One size",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Moda Dea Espree",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
-    "seamless",
-    "sphere-shaped",
-    "stripes-colorwork",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Want to save money by putting your scrap yarn to good use? Make a toy a child will love! Learn how to knit a child’s toy using your left over yarn with this simple knitting pattern now. Description Follow the Bouncing ball is a seamless ball knit in the round Needles Size US 6/4.0 mm Knitting Needles, or size needed to get gauge. Yarn Worsted weight that achieves gauge given Gauge 4.75 stitches and 9 rows = 1 inch in Stockinette in the round Supplies Fiberfill stuffing, yarn needle for weaving in ends Skills Needed Knitting in the round Increasing and decreasing on DPNs",
+  "full_text": "From Pattern Notes: “Roll with this ultra-cool knit design!” episode DKNG-509 “Designer Kelly Wilson shows how to knit a fantastic throwback design that’s all the rage in rear view mirror decor!” Additional Materials 2, 2” x 2” x 2” upholstery foam blocks 42, 1/2” pompons craft or fabric glue",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/limestone-one-skein-triangle-shawl",
-    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/people",
-    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/yarns",
-    "https://www.ravelry.com/patterns/library/mama-janes",
-    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/comments",
-    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/report",
-    "https://www.ravelry.com/patterns/sources/fickle-knitter-design",
-    "https://www.ravelry.com/patterns/sources/fickle-knitter-website",
-    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/editors",
-    "https://www.ravelry.com/patterns/library/baby-janes",
-    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball"
-  ]
+    "https://www.ravelry.com/patterns/library/fuzzy-dice-2/posts",
+    "https://www.ravelry.com/patterns/periodicals/hg-tv",
+    "https://www.ravelry.com/patterns/library/fuzzy-dice-2/comments",
+    "https://www.ravelry.com/patterns/library/fuzzy-dice-2/report",
+    "https://www.ravelry.com/patterns/library/fuzzy-dice-2/yarns",
+    "https://www.ravelry.com/patterns/library/mai-tai",
+    "https://www.ravelry.com/patterns/library/fuzzy-dice-2/people",
+    "https://www.ravelry.com/patterns/library/fuzzy-steering-wheel-cover",
+    "https://www.ravelry.com/patterns/sources/knitty-gritty",
+    "https://www.ravelry.com/patterns/library/fuzzy-dice-2",
+    "https://www.ravelry.com/patterns/library/ballerina-beauty-booties",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/fuzzy-dice-2/editors",
+    "https://www.ravelry.com/patterns/library/fuzzy-dice-2/threads"
+  ],
+  "name": "Ravelry: Fuzzy Dice pattern by Kelly Wilson"
 }

@@ -1,38 +1,46 @@
 {
   "pattern_id": 177,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sack-de-coeur",
-  "name": "Sack de Coeur",
-  "description": "A sweet little raffia purse for all the lovers &lt;3",
-  "designer": "Elise Lopez",
+  "pattern_page": "https://www.ravelry.com/patterns/library/harold-fatmus",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "10x11\" (24.5 x 28 cm)",
+  "category": "Softies → Animal",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "15cm high",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Wool and the Gang Ra-Ra Raffia",
-    "Sport (12 wpi) ?"
+    "Light Fingering ?",
+    "Wee County Yarns Miniballs"
   ],
   "attributes": [
+    "3-dimensional",
+    "bottom-up",
+    "chart",
+    "fairisle",
+    "icord",
+    "in-the-round",
     "seamed",
-    "worked-flat",
+    "stranded",
     "written-pattern"
   ],
-  "full_text": "A sweet little raffia purse for all the lovers <3 I love to see what you make! Share your project on Instagram using hashtag #SackdeCoeur and tag me @elisemade, or via email to elisemade@gmail.com Size Finished dimensions: 10 x 11” (25.4 x 28 cm) Yarn Wool and the Gang “Ra-Ra Raffia” 273 yards / 120 grams 100% viscose Approximately 180-185 yards / 165-170 meters Needles/Hooks US 7 (4.5 mm) circular needle H/5.0 mm crochet hook for joining Gauge On US 7 (4.5 mm), 13 sts and 22 rows in flat stockinette = 4” Tools Tapestry needle Scissors Key B/O – bind off C/O – cast on K - knit P - purl K2T – knit two sts together; single right-leaning decrease M1L – make one right; single right-leaning increase M1R – make one left; single left-leaning increase PSO – pass stitch over to bind off 1 RS – right side SL1 – slip 1 stitch knitwise SSK – slip 2 stitches knitwise; knit these 2 sts together through the back loops; single left-leaning decrease ST/STS – stitch/stitches SC – single crochet WS – wrong side Construction Two panels are knit flat in a heart shape. Bottom and side panels are knit in one long strip and attached to front and back panels using single crochet stitches. Straps can be worked in either single crochet or knit i-cord by picking up sts in opposite corners, or use a ready-made purse chain or straps.",
-  "techniques": [],
+  "full_text": "Harold is a tubby little mouse with a smart fair isle jumper. Knitted with a small amount of shetland yarn in 5 colours he is made in two pieces (base and upper) and then seamed, but is easily converted into a seamless knit - you’ll just need to sew on the ears and tail. Fill him with beans for added gravitas and he’ll make a lovely door stop. Written instructions with a chart for the colourwork.",
+  "techniques": [
+    "seamed"
+  ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/editors",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/comments",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/yarns",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/people",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur",
-    "https://www.ravelry.com/patterns/library/the-perfect-tea-towel",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/report",
-    "https://www.ravelry.com/patterns/sources/elise-lopezs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-knit-snowman-ornament",
-    "https://www.ravelry.com/patterns/library/i-cord-workout-headband"
-  ]
+    "https://www.ravelry.com/patterns/library/harold-fatmus/yarns",
+    "https://www.ravelry.com/patterns/library/miniball-advent-2020",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/editors",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/report",
+    "https://www.ravelry.com/patterns/library/harold-fatmus",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/people",
+    "https://www.ravelry.com/patterns/library/pic-n-mix",
+    "https://www.ravelry.com/patterns/sources/wee-county-yarns",
+    "https://www.ravelry.com/patterns/library/double-edged-shawl",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/threads",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/comments",
+    "https://wee-county-yarns.co.uk/free-patterns/harold-fatmus-fair-isle-mouse-2139957"
+  ],
+  "name": "Ravelry: Harold Fatmus pattern by Clare Hutchinson"
 }

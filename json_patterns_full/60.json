@@ -1,38 +1,37 @@
 {
   "pattern_id": 60,
-  "pattern_page": "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii",
-  "name": "Weldon's Leaf and Dart II",
-  "description": "I started with Weldon’s Leaf and Dart pattern in Weldon’s Practical Needlework, vol. 3, pp.6-8. It wasn’t quite what I wanted, so I changed some things. The leaf section is larger and the dart section is smaller than the original. I also omitted Weldon’s partial darts.",
-  "designer": "Vicki Monthei",
+  "pattern_page": "https://www.ravelry.com/patterns/library/allete",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "NA",
+  "category": "Costume",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Thread ?",
-    "Aunt Lydia's Classic 10 Crochet Thread"
+    "Lion Brand Wool Ease Solids, Heathers, Twists",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "one-piece",
-    "worked-flat"
+    "lace"
   ],
-  "full_text": "I started with Weldon’s Leaf and Dart pattern in Weldon’s Practical Needlework , vol. 3, pp.6-8. It wasn’t quite what I wanted, so I changed some things. The leaf section is larger and the dart section is smaller than the original. I also omitted Weldon’s partial darts. The afghan block is 5.5 inches square at gauge. Skills needed: cast on, slip, knit, purl, YO, k2tog, SSK, M1 (make 1) and SK2P. Gauge is not important in this pattern. Any block-able yarn/thread will work. Make a swatch to check gauge and appearance.",
+  "full_text": "Make yourself some new extremities. These knitted wings can easily be made into different styles with different yarns. Since gauge is not crucial, use up that stash yarn for some white or black angel wings, or a bit of colorful sparkly yarn to create fairy wings. For a smaller, child size simply work pattern in thinner yarn with appropriate size needles.",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/priscillas-vine-afghan-strip",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii",
-    "https://www.ravelry.com/patterns/library/weldons-branch-block",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/report",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/comments",
-    "https://www.ravelry.com/patterns/library/flat-leaf-on-garter-stitch",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/yarns",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/people",
-    "https://www.ravelry.com/patterns/library/weldons-leaf-and-dart-ii/editors",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store"
-  ]
+    "https://www.ravelry.com/patterns/sources/knitty-summer-2006",
+    "https://www.ravelry.com/patterns/library/allete/posts",
+    "https://www.ravelry.com/patterns/library/allete/comments",
+    "https://www.ravelry.com/patterns/library/allete/report",
+    "https://www.ravelry.com/patterns/library/allete/threads",
+    "https://www.ravelry.com/patterns/library/allete",
+    "https://www.ravelry.com/patterns/library/earthy-mouse-pad-wrist-pillow",
+    "https://www.ravelry.com/patterns/library/allete/yarns",
+    "https://www.ravelry.com/patterns/library/topi",
+    "https://www.ravelry.com/patterns/library/allete/editors",
+    "https://www.ravelry.com/patterns/library/allete/people",
+    "https://www.ravelry.com/patterns/library/subtle-twist-hat",
+    "https://www.ravelry.com/patterns/periodicals/knitty"
+  ],
+  "name": "Ravelry: Allete pattern by Jennifer Tallapaneni"
 }

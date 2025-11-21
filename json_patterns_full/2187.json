@@ -1,37 +1,46 @@
 {
   "pattern_id": 2187,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ninja-mask",
+  "pattern_page": "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat",
+  "name": "Elvish Teeny Tiny Hat",
+  "description": "I have 5 min vlog about this pattern, take a look! link text",
+  "designer": "Alexandra Davidoff",
   "craft": "Knitting",
-  "category": "Costume",
-  "sizes_available": "one fits all",
+  "category": "Hat → Pixie",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lion Brand Microspun"
+    "Cascade Yarns ® 220 Superwash® Merino",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
+    "bottom-up",
+    "eyelets",
+    "icord",
+    "in-the-round",
     "one-piece",
-    "sideways",
-    "unisex",
-    "worked-flat",
+    "preemie",
+    "seamless",
+    "textured",
     "written-pattern"
   ],
-  "full_text": "Perfect for Halloween or Knit-Like-A-Ninja Day! The mask is constructed from end-to-end and can be made in garter or stockinette stitch, depending on your preference. The eye-holes can also be modified to fit various size eyes by adding or subtracting rows around the openings. You can find this pattern on Who Needs Gauge?!",
+  "full_text": "I have 5 min vlog about this pattern, take a look! link text This Elvish teeny tiny hat is designed for preemies and would fit a baby with head circumference up to 12”(30.5cm). Please share this pattern and donate finished hats to teeny tiny ones. Happy Knitting! SIZE: Preemie FINISHED MEASUREMENTS: 4”(10.5cm) long & 8”(20.5cm) circumference YARN: Color: 01 Cream NOTIONS: stitch markers, tapestry needle SKILL LEVEL: Intermediate",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ninja-mask",
-    "https://www.ravelry.com/patterns/sources/who-needs-gauge",
-    "https://www.ravelry.com/patterns/library/ninja-mask/comments",
-    "https://www.ravelry.com/patterns/library/ninja-mask/report",
-    "https://www.ravelry.com/patterns/library/ninja-mask/editors",
-    "https://www.ravelry.com/patterns/library/saffron-hill-mitts",
-    "https://www.ravelry.com/patterns/library/ninja-mask/people",
-    "https://www.ravelry.com/patterns/library/ninja-mask/threads",
-    "https://www.ravelry.com/patterns/library/ninja-mask/yarns"
-  ],
-  "name": "Ravelry: Ninja Mask pattern by Stephanie Davis"
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/report",
+    "https://www.ravelry.com/patterns/library/sasha-knitdenim-scarf",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/people",
+    "https://www.ravelry.com/patterns/library/madina-baby-blanket",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/posts",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/threads",
+    "https://www.ravelry.com/patterns/library/i-am-dragon-2",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/editors",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/yarns",
+    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/comments",
+    "https://www.ravelry.com/patterns/sources/alexandra-davidoff-studio"
+  ]
 }

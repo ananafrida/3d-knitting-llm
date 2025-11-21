@@ -1,41 +1,43 @@
 {
   "pattern_id": 1389,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cup-of-tea-anyone",
-  "name": "Cup of Tea, Anyone?",
-  "description": "These one inch teacups are totally addictive and so much fun to mix and match color combos!",
+  "pattern_page": "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3",
+  "name": "Whimsical Witch Hat",
+  "description": "These hats are fun and quick to make! They are knit entirely in the round on dpns, starting at the brims outward edge, with pretty decreases to the center. A Latvian Braid makes an easy and impressive looking sash (how to video included).",
   "designer": "Natasha Hanson",
   "craft": "Knitting",
   "category": "Softies → Other",
   "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "Height: 1”/ 2.5cm.",
+  "sizes_available": "Diameter & Height: 3”/ 7.5cm, or desired size.",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fleece & Harmony Point Prim Sock",
-    "Any gauge - designed for any gauge ?"
+    "Fingering (14 wpi) ?",
+    "Fleece & Harmony Point Prim Sock"
   ],
   "attributes": [
+    "bottom-up",
     "in-the-round",
+    "latvian",
     "one-piece",
-    "seamless",
-    "top-down",
-    "written-pattern"
+    "seamless"
   ],
-  "full_text": "These one inch teacups are totally addictive and so much fun to mix and match color combos! They are knit entirely in the round, from the top down, in one piece. The handle is made by stretching out a bobble! Hooray for not having to sew on something so tiny! To finish simply weave in any loose ends and give them some steam. Want to make an adorable beer mug? Click here! Big thanks to bonewoman ! Praise for Seamless Teacup Super quick and easy! Isgarner This tea cup is so fast and so cute! edieglass So quick and easy! Elemenopeo Quick knit! It’s so little!! And Cute!! And Fun! MinniStitcher",
-  "techniques": [],
+  "full_text": "These hats are fun and quick to make! They are knit entirely in the round on dpns, starting at the brims outward edge, with pretty decreases to the center. A Latvian Braid makes an easy and impressive looking sash (how to video included). Praise for Decorative Witch Hat Such a fun, little pattern! Made in a minute. And I’ve learned a new technique: the Latvian Braid. (Adente) This little hat can be made in a hour. For the Latvian braid there is good link of how to do it. So no reason to give it a try. (Saphiera) Adorable little witch hat! So easy and quick. I liked the link to the Latvian Braid video-good refresher for the technique. Now to do one more… (thrsedge) Cute little hat and a well written, easy to follow pattern! (MinniStitcher) Knitting the Decorative Witch Hat was so easy, particularly since I already was familiar with knitting in the round. I had never done Latvian Braid stitch before, but the instructions made is really clear, and the results looked great. ( fjorlief)",
+  "techniques": [
+    "decreases"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/comments",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/threads",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/yarns",
-    "https://www.ravelry.com/patterns/library/acorn-lantern",
-    "https://www.ravelry.com/patterns/library/knit-or-stick-acorn-teapot",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/editors",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/people",
-    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/threads",
     "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone/report",
-    "https://www.ravelry.com/patterns/library/cup-of-tea-anyone"
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/report",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/comments",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/editors",
+    "https://www.ravelry.com/patterns/library/santa-lucia-4",
+    "https://www.ravelry.com/patterns/library/acorn-fairies",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/yarns",
+    "https://www.ravelry.com/patterns/library/toadstool-promenade",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3/people",
+    "https://www.ravelry.com/patterns/library/whimsical-witch-hat-3"
   ]
 }

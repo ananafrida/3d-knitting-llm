@@ -1,42 +1,48 @@
 {
   "pattern_id": 456,
-  "pattern_page": "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5",
+  "pattern_page": "https://www.ravelry.com/patterns/library/2024-christmas-bauble",
+  "name": "2024 Christmas Bauble",
+  "description": "This little Christmas Bauble is knitted two-stranded in the round on dpns. The motif depicts snow and snowflakes with the numbers 2024 central on the bauble, and it has a ribbon attached to the top for hanging. For these I’ve used fibre filling, but you may also knit on to a plastic or glass bauble.",
+  "designer": "Hilde Ropstad",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One Size",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "One size",
   "languages": [
-    "English"
+    "English",
+    "Norwegian"
   ],
   "suggested_yarn": [
-    "Purl Soho Novella",
-    "Sport (12 wpi) ?"
+    "Light Fingering ?",
+    "Filcolana Arwetta"
   ],
   "attributes": [
     "bottom-up",
+    "chart",
+    "in-the-round",
     "one-piece",
     "phototutorial",
-    "seamed",
-    "selvedge",
-    "stripes-colorwork",
-    "worked-flat",
+    "seamless",
+    "sphere-shaped",
+    "stranded",
     "written-pattern"
   ],
-  "full_text": "MATERIALS 2 balls of Purl Soho’s Novella , 92% extra fine merino and 8% mulberry silk. Each ball is approximately 142 yards/ 50 grams. Color A: 1 ball; approximately 142 total yards required Color B: 1 ball; approximately 142 total yards required You will also need… US 6 (4 mm), 24-inch circular needles Samples: We used Salt Water Taffy + Flower Patch and Desert Ridge + Heirloom White for our cowls! GAUGE 22 stitches and 44 rows = 4 inches in garter stitch NOTE: We used every last yard for our cowls! To avoid running short, please re-use your swatch yarn (and avoid cutting it, if you can), double check your gauge, and be conservative with tails! SIZE Finished Circumference at Top: 18¼ inches Finished Circumference at Bottom: 24¾ inches Finished Height: 10½ inches Designed by Purl Soho designer, Gianna Mueller . Click here to see even more of Gianna’s designs!",
-  "techniques": [],
+  "full_text": "This little Christmas Bauble is knitted two-stranded in the round on dpns. The motif depicts snow and snowflakes with the numbers 2024 central on the bauble, and it has a ribbon attached to the top for hanging. For these I’ve used fibre filling, but you may also knit on to a plastic or glass bauble. The pattern is both written and charted, and uses Lifted Increases (but other increases may be used), and k2tog/SSK for decreases. The pattern is written for dpns, but if you’re more comfortable knitting on magic loop, that’s works too. Size: Height: 6.5 cm/2.5” Circumference: 20 cm/8” Gauge: 32 sts per 10 cm/4” Materials: Yarn: Light Fingering (210 m per 50 gr). Approx. 5 grams of each colour. Dpns size 2.5 mm (or circulars) Fibre filling (or bauble approx. 6 cm diametre) Darning needle Yarn suggestions: Arwetta by Filcolana, Flora by Drops, Schachenmayr Sockenwolle 4-ply",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/reversible-cross-collar-cowl",
-    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/threads",
-    "https://www.ravelry.com/patterns/library/luster-cowl",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/comments",
-    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/people",
-    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/editors",
-    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/report",
-    "https://www.ravelry.com/patterns/library/pivot-cowl",
-    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/yarns",
-    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5"
-  ],
-  "name": "Ravelry: Candy Stripe Cowl pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/2024-christmas-bauble/yarns",
+    "https://www.ravelry.com/patterns/library/2024-christmas-bauble/editors",
+    "https://www.ravelry.com/patterns/sources/hilde-ropstads-ravelry-store",
+    "https://www.ravelry.com/patterns/library/2024-christmas-bauble/report",
+    "https://www.ravelry.com/patterns/library/aksel-selbu-mittens",
+    "https://www.ravelry.com/patterns/library/2024-christmas-bauble/comments",
+    "https://www.ravelry.com/patterns/library/2025-christmas-bauble",
+    "https://www.ravelry.com/patterns/library/2024-christmas-bauble",
+    "https://www.ravelry.com/patterns/library/2024-christmas-bauble/people",
+    "https://www.ravelry.com/patterns/library/randi-selbu-mittens"
+  ]
 }

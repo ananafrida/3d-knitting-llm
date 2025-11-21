@@ -1,42 +1,38 @@
 {
   "pattern_id": 764,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hildra-wool-jumper",
-  "name": "Hildra Wool Jumper",
-  "description": "Knitted jumper with ruffels. The work is knitted from the top down with a saddle shoulder and ruffles decorating the sleeves.",
-  "designer": "Aurora Amandine",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mitered-squares-2",
+  "name": "Mitered Squares",
+  "description": "The technique is simple, the squares are fun to knit, and the uses are limitless.",
+  "designer": "Staci Perry",
   "craft": "Knitting",
-  "category": "Sweater → Pullover",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "XS-XXXL",
+  "category": "Afghan block",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Trysil Garn Superwash Ullgarn",
-    "DK (11 wpi) ?"
+    "any"
   ],
   "attributes": [
-    "adult",
-    "female",
-    "ruffles",
-    "saddle-shoulder",
-    "top-down"
+    "bias",
+    "stripes-colorwork",
+    "video-tutorial",
+    "written-pattern"
   ],
-  "full_text": "Knitted jumper with ruffels. The work is knitted from the top down with a saddle shoulder and ruffles decorating the sleeves. WORK OVERVIEW: · The work is knitted from the top down with a saddle shoulder. · The neckline and the yoke are worked in the round on a circular needle. · Stitches are increased for the saddle shoulder, then for the sleeves, and finally for the yoke. · The yoke is divided into front and back piece and sleeves. · The front and back piece are worked in the round on the circular needle from the top down. · The sleeves are worked in the round on double pointed needles or a short circular needle from the top down. SIZES AVAILABLE: (XS-XXXL) XS-S-M-L-XL-XXL-XXXL MEASUREMENTS: Total length: 50-52-53-54-57½-58½-60½cm Sleeve length: 41-42-43-44-45-46-47cm Chest width: 42-44½-48-52-59-64-68cm NEEDLES: Circular needles nr. 2.5: 40cm(or Double pointed needles) Circular needles nr. 3.5: 40cm/80cm YARN: TRYSIL GARN Superwash Ullgarn - Turkis/blå multi (500-500-550-600-650-750-800g)",
-  "techniques": [
-    "worked in the round"
-  ],
-  "shape": "sphere",
+  "full_text": "The technique is simple, the squares are fun to knit, and the uses are limitless. The free download includes instructions for the squares pictured above, as well as a basic “recipe” for any size, any yarn, any needle size. Also includes a short video tutorial to get you through the tricky parts. The video can be seen here: http://verypink.com/2012/03/07/mitered-squares/",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/aestra-merino-polo",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/people",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/yarns",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/comments",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/report",
-    "https://www.ravelry.com/patterns/library/her-alpaca-dream-jumper",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper/editors",
-    "https://www.ravelry.com/patterns/sources/aurora-amandines-ravelry-store"
+    "https://www.ravelry.com/patterns/library/mitered-squares-2/comments",
+    "https://www.ravelry.com/patterns/library/mitered-squares-2",
+    "https://www.ravelry.com/patterns/library/mitered-squares-2/yarns",
+    "https://www.ravelry.com/patterns/library/eyelet-baby-blanket-5",
+    "https://www.ravelry.com/patterns/library/mitered-squares-2/editors",
+    "https://www.ravelry.com/patterns/library/mitered-squares-2/threads",
+    "https://www.ravelry.com/patterns/library/mitered-squares-2/people",
+    "https://www.ravelry.com/patterns/library/shaker-dishcloths-and-coasters",
+    "https://www.ravelry.com/patterns/library/mitered-squares-2/report",
+    "https://www.ravelry.com/patterns/sources/v-e-r-y-p-i-n-k",
+    "https://www.ravelry.com/patterns/library/worlds-best-kitchen-scrubbie",
+    "https://www.ravelry.com/patterns/library/mitered-squares-2/posts"
   ]
 }

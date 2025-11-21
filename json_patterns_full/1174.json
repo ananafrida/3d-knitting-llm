@@ -1,40 +1,41 @@
 {
   "pattern_id": 1174,
-  "pattern_page": "https://www.ravelry.com/patterns/library/watchlings",
-  "name": "Watchlings",
-  "description": "When the winter cold sets in and all the little animals start hibernating, that’s when the Watchlings start their vigil. They make sure everyone stays cosy in their burrow, their food stores stay safe and the spring plants don’t sprout too soon. Why not knit some to keep an eye on things for you this winter?",
-  "designer": "Hazel Wadeson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/gift-leaves",
+  "name": "Gift Leaves",
+  "description": "Made from minute quantities of leftover (sock) yarn, these leaves make lovely little gift tags. Or they can become gifts in their own right – ideas and pictures can be found in the pattern. Just the kind of project for a few stolen moments: portable, easy once you’ve made a couple, and finished in no time. The instructions are for three different sizes.",
+  "designer": "Marijke van der Horst",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "S, M and L",
   "languages": [
+    "Dutch",
     "English"
   ],
   "suggested_yarn": [
-    "Stylecraft Special Double Knit",
-    "DK (11 wpi) ?"
+    "Lana Grossa Meilenweit",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "in-the-round",
     "one-piece",
-    "seamed",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "When the winter cold sets in and all the little animals start hibernating, that’s when the Watchlings start their vigil. They make sure everyone stays cosy in their burrow, their food stores stay safe and the spring plants don’t sprout too soon. Why not knit some to keep an eye on things for you this winter? These cute little toys knit up quickly in just one piece, and are a great way to use up your scrap yarn. Watchlings of course love all of the various winter festivities and love to dress in appropriately festive colours so they can join in. The main thing is to play with your yarn and have fun, and in no time you’ll have a whole team of cosy little people to make you smile. This pattern includes instructions for a toy knitted flat, with two small seams to sew at the end and a version knitted in the round, with one small seam to finish. You will need to know how to knit, purl, increase and decrease.",
+  "full_text": "Made from minute quantities of leftover (sock) yarn, these leaves make lovely little gift tags. Or they can become gifts in their own right – ideas and pictures can be found in the pattern. Just the kind of project for a few stolen moments: portable, easy once you’ve made a couple, and finished in no time. The instructions are for three different sizes. Finished measurements Approx. 3 x 4 cm (1.2 x 1.6”); 3.5 x 5.5 cm (1.4 x 2.2”); 4.5 x 6.5 cm (1.8 x 2.6”), width x height for sizes S, M and L respectively, excluding the stalk. More information and inspiration can be found in this blog post . A blog post about how to make an earrings-and-pendant set using this pattern (picture bottom left) can be found here .",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/waveform-hat",
-    "https://www.ravelry.com/patterns/library/watchlings/report",
-    "https://www.ravelry.com/patterns/library/watchlings",
-    "https://www.ravelry.com/patterns/library/skipping-along-hat",
-    "https://www.ravelry.com/patterns/library/watchlings/comments",
-    "https://www.ravelry.com/patterns/library/watchlings/people",
-    "https://www.ravelry.com/patterns/sources/hazel-wadesons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/watchlings/yarns",
-    "https://www.ravelry.com/patterns/library/watchlings/threads",
-    "https://www.ravelry.com/patterns/library/watchlings/editors"
+    "https://www.ravelry.com/patterns/library/gift-leaves/comments",
+    "https://www.ravelry.com/patterns/library/gift-leaves/yarns",
+    "https://www.ravelry.com/patterns/library/gift-leaves/people",
+    "https://www.ravelry.com/patterns/library/gift-leaves/report",
+    "https://www.ravelry.com/patterns/library/mutske",
+    "https://www.ravelry.com/patterns/library/gift-leaves",
+    "https://www.ravelry.com/patterns/library/gift-leaves/threads",
+    "https://www.ravelry.com/patterns/sources/merula-designs-2",
+    "https://www.ravelry.com/patterns/library/gift-leaves/posts",
+    "https://www.ravelry.com/patterns/library/gift-leaves/editors",
+    "https://www.ravelry.com/patterns/library/soothing-sachets",
+    "https://www.ravelry.com/patterns/library/thus"
   ]
 }

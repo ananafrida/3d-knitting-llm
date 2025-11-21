@@ -1,33 +1,52 @@
 {
   "pattern_id": 2208,
-  "pattern_page": "https://www.ravelry.com/patterns/library/harry-potter-inspired-ollivanders-wizard-wand",
-  "name": "Harry Potter inspired Ollivander's Wizard Wand",
-  "description": "I was alittle disappointed that knitted wands had not already been done. But I wanted something for my daughter’s Harry Potter theme birthday.",
-  "designer": "Nancy Fry",
+  "pattern_page": "https://www.ravelry.com/patterns/library/hesh",
+  "name": "Hesh",
+  "description": "Hesh is a variation of a traditional Scandinavian pixie-shaped hat modified for grown ups. The cap is knitted on the bias with perfectly fitted ear flaps, icord ties and tassels, making for a devilish little accessory. This quick hat is a gift-knitter’s dream just in time for the holidays!",
+  "designer": "Malia Mae Joseph",
   "craft": "Knitting",
-  "category": "Costume Toys and Hobbies → Other",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "category": "Hat → Pixie",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "S (M, L)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "",
+    "Malabrigo Yarn Rios",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "in-the-round"
+    "bottom-up",
+    "chevron",
+    "female",
+    "icord",
+    "in-the-round",
+    "male",
+    "one-piece",
+    "stripes-colorwork",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "I was alittle disappointed that knitted wands had not already been done. But I wanted something for my daughter’s Harry Potter theme birthday. This is my harry potter wand. Right now, I used straws within straws as the base but my little 3 year old proved quickly that I need to beef it up alittle or they will all end up like Ron’s. It is nice and soft and knitted up real quick. I think I will just stuff the tip with stuffing to prevent injuries. This one measures 10 inches, but I think I will have fun being a wandmaker. Maybe add a feather, glitter or crystal to the core for more make believe fun. I used 4 strands of yarn so I think I am going to try using more then one color to add depth and the stitching can be twisted in different ways to make it look more organic. I would love to see your designs, so please post pictures. Hope you enjoy becoming a wand maker!",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "Hesh is a variation of a traditional Scandinavian pixie-shaped hat modified for grown ups. The cap is knitted on the bias with perfectly fitted ear flaps, icord ties and tassels, making for a devilish little accessory. This quick hat is a gift-knitter’s dream just in time for the holidays! Sizes S (M, L) Finished Measurements 20” / 51cm circumference, shown on a 22.5” / 57cm head. Yardage Color A - 125yds / 115m Color B: 100 yds / 92m Shown in Malabrigo Rios Color A - Bobby Blue Color B - Sand Bank Needles US 6 / 4mm circular or DPNs using either magic loop method or dons. Notions 1 stitch marker, tapestry needle Gauge 20 sts = 4” / 10cm in stockinette stitch Errata There was a small error in the first pattern release. I released an update that corrects it. The correction was after the first 3 rounds. Here is what it should say: Next round: K1, m1l, k17, s2kp, k17, m1r, ( k1, m1l, k17, s2kp, k17, m1r) twice, k1. Next round: K Repeat last 2 rounds 8(10, 12) times. The sizing is done in various lengths rather than number of stitched cast on. You might be tempted to do more of these two rounds because it seems awfully early to start the decreasing, but you’ll end up with a hat that is too big if you just keep going. The decreases happen slowly. Shop Yarn at Stephen & Penelope Find the perfect yarn for your project at Stephen & Penelope! We ship worldwide! https://www.stephenandpenelope.com/",
+  "techniques": [
+    "decreases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/adnilamyrf",
-    "https://www.ravelry.com/patterns/library/harry-potter-inspired-ollivanders-wizard-wand",
-    "https://www.ravelry.com/patterns/library/twilight-jacob-blacks-la-push-hat-or-rob-ps",
-    "https://www.ravelry.com/patterns/library/harry-potter-inspired-ollivanders-wizard-wand/yarns",
-    "https://www.ravelry.com/patterns/library/harry-potter-inspired-ollivanders-wizard-wand/people",
-    "https://www.ravelry.com/patterns/library/harry-potter-inspired-ollivanders-wizard-wand/report",
-    "https://www.ravelry.com/patterns/library/twilight-eclipse-bellas-green-striped-knit-hat",
-    "https://www.ravelry.com/patterns/library/harry-potter-inspired-ollivanders-wizard-wand/threads",
-    "https://www.ravelry.com/patterns/library/harry-potter-inspired-ollivanders-wizard-wand/editors",
-    "https://www.ravelry.com/patterns/library/harry-potter-inspired-ollivanders-wizard-wand/comments",
-    "https://www.ravelry.com/patterns/library/breaking-dawn-part-2-jasper-alistairs-fingerless-mittens"
+    "https://www.ravelry.com/patterns/library/tiny-kerchiefs",
+    "https://www.ravelry.com/patterns/sources/malia-mae",
+    "https://www.ravelry.com/patterns/library/hesh/editors",
+    "https://www.ravelry.com/patterns/library/hesh/report",
+    "https://www.ravelry.com/patterns/library/gestrikt",
+    "https://www.ravelry.com/patterns/library/hesh/people",
+    "https://www.ravelry.com/patterns/library/hesh/comments",
+    "https://www.ravelry.com/patterns/library/lyr",
+    "https://www.ravelry.com/patterns/library/hesh/yarns",
+    "https://www.ravelry.com/bundles/free-patterns-869",
+    "https://www.ravelry.com/patterns/library/hesh",
+    "https://www.ravelry.com/patterns/sources/westknits-choreokal-stretch-it",
+    "https://www.ravelry.com/patterns/library/hesh/threads",
+    "https://www.ravelry.com/patterns/sources/westknits-on-ravelry",
+    "https://www.ravelry.com/patterns/library/hesh/posts"
   ]
 }

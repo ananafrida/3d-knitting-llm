@@ -1,44 +1,54 @@
 {
   "pattern_id": 1277,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sloth-25",
-  "name": "Sloth",
-  "description": "SLOTH NEWS!",
-  "designer": "Claire Garland",
+  "pattern_page": "https://www.ravelry.com/patterns/library/toscana---t-shirt",
+  "name": "Toscana - t-shirt",
+  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
+  "designer": "Maria Bergman",
   "craft": "Knitting",
-  "category": "Softies → Animal",
-  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
-  "sizes_available": "Finished size of mine (using the gauge mentioned in the pattern) Approx. 15cm/ 6in tall long, from tip of nose to tip of tail",
+  "category": "Tops → Tee",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
   "languages": [
-    "English"
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Alpaca",
-    "Sport (12 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Svarta Fåret Stina"
   ],
   "attributes": [
-    "modular",
-    "one-piece",
+    "adult",
+    "in-the-round",
+    "raglan-sleeve",
+    "seamless",
     "short-rows",
-    "worked-flat",
+    "short-sleeve",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "SLOTH NEWS! Pattern is correct from 9th October 16.00 BST, before then please look at the errata or download again Claire xxx October 2023 #freebeefrIdayknits ** - A FREE SLOTH! I read up about them and: From Wiki: ‘… Sloths are a Neotropical group of xenarthran mammals constituting the suborder Folivora, including the extant arboreal tree sloths and extinct terrestrial ground sloths.’ Hmm! Anyway - my little guy is knitted as small as I could in alpaca yarn (just so he/ she has an element of fluffiness, sloths are soo hairy!) You can, of course choose to knit yours with a larger gauge yarn on larger needles, there are some fine faux fur yarns out there! (… just saying/ would love to see someone knit a big one!) He/ she is knitted in one piece - modular, so joining on parts as you go, as with probably all of my ‘today’ patterns. You’ll need some toy safety eyes - my ones are 8mm ones from Etsy And it would be cool to add some wire or even magnets for huggable arms? On this occasion, I did use a wire armature and the instructions on how I did it and what wire I used are all written, with links to where I bought mine, in the pattern. And to end… some more sloth facts: Everything is sluggish and slow-moving, even food digestion. They spend most of their lives hanging in the trees. They are incredibly picky when it comes to pooping. Hey?! Sloths are surprisingly good at swimming - that I didn’t know! Enjoy yours! x",
-  "techniques": [
-    "modular"
-  ],
-  "shape": "sphere",
+  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sloth-25/threads",
-    "https://www.ravelry.com/patterns/library/sloth-25/report",
-    "https://www.ravelry.com/patterns/library/rabbit-doll",
-    "https://www.ravelry.com/patterns/library/sloth-25/people",
-    "https://www.ravelry.com/patterns/library/sloth-25",
-    "https://www.ravelry.com/patterns/library/sloth-25/comments",
-    "https://www.ravelry.com/patterns/library/chipmunk-5",
-    "https://www.ravelry.com/patterns/library/ladybird-ladybug",
-    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
-    "https://mcusercontent.com/fbb5cf7d2cfc0c4aa23bd8682/files/82bb1d40-45ef-919e-04e5-c885f1e7e5f9/SLOTH_ERRATA.01.pdf",
-    "https://www.ravelry.com/patterns/library/sloth-25/editors",
-    "https://www.ravelry.com/patterns/library/sloth-25/yarns"
+    "https://www.ravelry.com/patterns/library/hven---top",
+    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
+    "https://www.ravelry.com/patterns/library/majkens-kjol",
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt/comments",
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt/report",
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt/yarns",
+    "https://www.ravelry.com/patterns/library/astoria---sweater",
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt/editors",
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt/people",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-city-spring-ss2025",
+    "https://www.ravelry.com/patterns/library/toscana---t-shirt"
   ]
 }

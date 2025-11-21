@@ -1,50 +1,42 @@
 {
   "pattern_id": 1847,
-  "pattern_page": "https://www.ravelry.com/patterns/library/oslo-basket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/boxed-heels",
+  "name": "Boxed Heels",
+  "description": "I’ve only knit this once and it hasn’t been test knit! Be on the look out for errors.",
+  "designer": "Janel Rockwell",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "see notes",
+  "category": "Components → Other",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "sizes_available": "women's medium",
   "languages": [
-    "Danish",
-    "Dutch",
-    "English",
-    "French",
-    "German",
-    "Norwegian",
-    "...and 6 other languages show hide other languages",
-    "...and 6 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Happy Sheep Wool",
-    "Aran (8 wpi) ?"
+    "Quaere Fibre Self Striping Sock 75/25",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "circle-shaped",
-    "felted",
-    "in-the-round",
-    "one-piece",
+    "adult",
     "seamless",
+    "short-rows",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A pretty Oslo basket knitted in Woolpower and then felted in the washing machine. The base of the basket is knitted with double-pointed needles and then circular needles. The basket is both pretty and practical. Happy knitting! Materials: 2 skeins of 100 g Woolpower color 10 DPN and 32” Circular needles US 11 (8 mm) Measurements: Before Felting: Width- measured flat: 21 inches From starting point to top: 15 inches Height of the side: 7,5 inches After Felting: Width- measured flat: 13 inches Height of the side: 4 1⁄4 inches Gauge: 14 sts x 12 rows = 4” x 4” Pattern information: The bottom of the basket is knit on DPNs and switches to the circular needles once there are enough sts. It is knit in the round in garter stitch = knit 1 round, purl 1 round. Wash in a machine on hot cycle in order to felt. Abbreviation of increase stitch: M1 : ​​From the front, lift loop between stitches with left needle, knit into back of loop.",
+  "full_text": "I’ve only knit this once and it hasn’t been test knit! Be on the look out for errors. I’ve seen some forked short row heels lately, but couldn’t find a pattern so I gave it a shot. This heel creates a “box” for the round part of your heel to sit in creating that extra bit of room that, I feel, short row heels are always lacking. This pattern assumes you are comfortable with heel construction and wraps and turns. It can be knit toe up or cuff down.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/oslo-basket/editors",
-    "https://www.ravelry.com/patterns/library/madeline-blouse",
-    "https://hobbii.com/oslo-knit-basket?utm_medium=social&utm_source=ravelry&utm_campaign=pattern&utm_content=oslo-knit-basket&utm_term=laudy",
-    "https://www.ravelry.com/patterns/library/oslo-basket/people",
-    "https://www.ravelry.com/patterns/library/peacock-shawl-10",
-    "https://www.ravelry.com/patterns/library/sebu-ankle-socks",
-    "https://www.ravelry.com/patterns/library/oslo-basket/comments",
-    "https://www.ravelry.com/patterns/library/oslo-basket/yarns",
-    "https://www.ravelry.com/patterns/sources/hobbii-website",
-    "https://www.ravelry.com/patterns/library/oslo-basket",
-    "https://www.ravelry.com/patterns/library/oslo-basket/report",
-    "https://hobbii.com/woolpower?utm_medium=social&utm_source=ravelry&utm_campaign=pattern&utm_content=woolpower&utm_term=laudy"
-  ],
-  "name": "Ravelry: Oslo basket pattern by Sys Fredens"
+    "https://www.ravelry.com/patterns/sources/quaere",
+    "https://www.ravelry.com/patterns/library/iced-coffee-koozie-tall",
+    "https://www.ravelry.com/patterns/library/boxed-heels/threads",
+    "https://www.ravelry.com/patterns/library/boxed-heels/comments",
+    "https://www.ravelry.com/patterns/library/boxed-heels/posts",
+    "https://www.ravelry.com/patterns/library/boxed-heels/report",
+    "https://www.ravelry.com/patterns/library/boxed-heels/people",
+    "https://www.ravelry.com/patterns/library/square-toes",
+    "https://www.ravelry.com/patterns/library/boxed-heels/editors",
+    "https://www.ravelry.com/patterns/library/boxed-heels",
+    "https://www.ravelry.com/patterns/library/boxed-heels/yarns",
+    "https://www.ravelry.com/patterns/library/iced-coffee-koozie-short"
+  ]
 }

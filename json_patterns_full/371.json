@@ -1,47 +1,42 @@
 {
   "pattern_id": 371,
-  "pattern_page": "https://www.ravelry.com/patterns/library/-30-jacke-diversa",
+  "pattern_page": "https://www.ravelry.com/patterns/library/stash-busting-monster",
+  "name": "Stash Busting Monster",
+  "description": "New Pattern for Monster Stash Busting.",
+  "designer": "Kimberly Kwon",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "36/38, 44/46",
+  "category": "Softies → Doll",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Size varies with weight of the yarn",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Lana Grossa Diversa",
-    "Sport (12 wpi) ?"
+    "Plymouth Yarn Encore Worsted Solids & Heathers",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "buttoned",
-    "drop-sleeve",
-    "elbow-sleeve",
-    "eyelets",
-    "female",
-    "lace",
-    "seamed",
-    "v-neck",
-    "worked-flat",
+    "in-the-round",
+    "seamless",
+    "stripes-colorwork",
+    "three-needle-bind",
     "written-pattern"
   ],
-  "full_text": "In the short oversize jacket, different structural patterns merge with a new mélange yarn in mint. Wear them directly against the skin (chic!) or with a bright tank top (cool!). YOU NEED Lana Grossa quality “Diversa” (74% cotton, 26% viscose, LL = approx. 210 m/50 g): approx. 250 (300) g in mint (col. 9); Knitting needles No. 3 and No. 4.5, 1 circular knitting needle No. 3, 120 cm long; 4 mother-of-pearl buttons from Union Knopf, 18 mm Ø, color 76, item 46286.",
+  "full_text": "New Pattern for Monster Stash Busting. I had three partial skeins of leftover yarns and wanted to use it for a monster. This pattern is written in general terms as a recipe to create a monster with your own existing yarns from your leftover stash in any you wish. You will need approximately 200 to 250 yards of stash yarn in at least three colors for the pattern. The size of your monster will vary with yarn weight. The pattern includes embedded links for helpful techniques for knitting in the round with dpns or using magic loop. Other techniques mentioned are 3-needle bind off and jogless stripes. For the sample monster in this pattern, I used worsted weight yarn in three different colors, with a US Size 6 needle.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/editors",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/comments",
-    "https://www.ravelry.com/patterns/library/-30-jacke-bottoni",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/people",
-    "https://www.ravelry.com/patterns/periodicals/lana-grossa",
-    "https://www.ravelry.com/patterns/sources/woolplace-by-lana-grossa",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/report",
-    "https://www.ravelry.com/patterns/library/-16-pullover-elastico",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa",
-    "https://www.ravelry.com/patterns/sources/lana-grossa-filati-magazine-65",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/edit",
-    "https://www.ravelry.com/patterns/library/-30-jacke-diversa/yarns",
-    "https://www.ravelry.com/patterns/library/-58-shirt-maglia"
-  ],
-  "name": "Ravelry: # 30 Jacke Diversa pattern by Lana Grossa"
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/comments",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/posts",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/people",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster",
+    "https://www.ravelry.com/patterns/sources/kimberly-kwon-designs",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/report",
+    "https://www.ravelry.com/patterns/library/cat-illusion-knit",
+    "https://www.ravelry.com/patterns/library/finding-peace-illusion-knit",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/yarns",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/editors",
+    "https://www.ravelry.com/patterns/library/stash-busting-monster/threads",
+    "https://www.ravelry.com/patterns/library/gotta-love-me-monster"
+  ]
 }

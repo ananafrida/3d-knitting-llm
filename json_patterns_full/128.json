@@ -1,40 +1,43 @@
 {
   "pattern_id": 128,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cube-thing",
-  "name": "Cube Thing",
-  "description": "At Christmas I was playing with a complicated paper construction I came across online. There was no chance of knitting it because it would simply have tried to deform to be a sphere. It is in the nature of knitting, and crochet, that all regular 3D shapes try to form themselves into spheres.",
-  "designer": "Woolly Thoughts",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-parlor-cat",
+  "name": "The Parlor Cat",
+  "description": "With paws tucked in and tail to his side, The Parlor Cat makes a very prim and proper house guest. Knit in the round, it is one piece from head to tail, and a befitting 10” long and 7” wide.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Blocks",
-  "sizes_available": "5 cm (2\")",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "DK (11 wpi) ?"
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "cube-shaped"
+    "3-dimensional",
+    "in-the-round",
+    "kitchener",
+    "one-piece",
+    "short-rows"
   ],
-  "full_text": "At Christmas I was playing with a complicated paper construction I came across online. There was no chance of knitting it because it would simply have tried to deform to be a sphere. It is in the nature of knitting, and crochet, that all regular 3D shapes try to form themselves into spheres. I started to wonder what would happen if I reduced it to its simplest form and kept it very small. I was pleasantly surprised to find that an unstuffed cube is much more robust than I expected. This cube holds its shape very well. You can squash it if you want to but it is easily restored to its original shape. I used about 10 metres of DK yarn in three colours. It would work in any yarn though the size of the cube would vary depending on the thickness of the yarn. 18 January 2018 Some variations have been added to the basic pattern (You can see more photos of them on project pages) Cube Thing - Love Cube Thing - Emojis Cube Thing - Die Cube Thing - Eggs 24 January 2018 I made a video to show how this is related to Borromean Rings. 4 February 2018 I keep seeing photos of a cushion based on the same principle so I made a mock-up using things I already had. It’s a bit squashed and discoloured but demonstrates the principle.",
+  "full_text": "With paws tucked in and tail to his side, The Parlor Cat makes a very prim and proper house guest. Knit in the round, it is one piece from head to tail, and a befitting 10” long and 7” wide.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cube-thing/posts",
-    "https://www.ravelry.com/patterns/library/cube-thing/yarns",
-    "https://www.ravelry.com/patterns/library/cube-thing/people",
-    "https://www.ravelry.com/patterns/library/cube-thing/threads",
-    "https://www.ravelry.com/patterns/library/cube-thing/comments",
-    "https://www.ravelry.com/patterns/library/cube-thing/editors",
-    "https://www.ravelry.com/patterns/library/platonic-spheres",
-    "https://www.ravelry.com/patterns/library/cube-thing",
-    "https://www.ravelry.com/patterns/library/pythagoras-tree",
-    "https://www.ravelry.com/bundles/free-patterns-375",
-    "https://www.ravelry.com/patterns/library/barbie-spirals",
-    "https://www.ravelry.com/patterns/periodicals/woolly-thoughts",
-    "https://www.ravelry.com/patterns/sources/pat-ashforth--steve-plummers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cube-thing/report",
-    "https://www.ravelry.com/patterns/sources/woolly-thoughts-website"
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/yarns",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/comments",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/threads",
+    "https://www.ravelry.com/patterns/library/the-window-cat",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/people",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/editors",
+    "https://www.ravelry.com/patterns/sources/knitting-for-beginners---third-edition",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/report",
+    "https://www.ravelry.com/patterns/library/the-parlor-cat/posts",
+    "https://www.ravelry.com/patterns/library/henrys-bunny",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat"
   ]
 }

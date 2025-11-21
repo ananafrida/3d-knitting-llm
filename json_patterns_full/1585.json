@@ -1,41 +1,42 @@
 {
   "pattern_id": 1585,
-  "pattern_page": "https://www.ravelry.com/patterns/library/eierei",
-  "name": "Eierei",
-  "description": "Ziemlich sinnfrei, aber absolut nicht spaßfrei :)",
-  "designer": "Susanne Reese",
+  "pattern_page": "https://www.ravelry.com/patterns/library/hundred-stitch-snood",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "one size",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "Adult (fits all)",
   "languages": [
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Rohrspatz & Wollmeise Pure 100% Merino Superwash"
+    "Sandnes Garn Alpakka Silke",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
+    "adult",
     "in-the-round",
-    "one-piece"
+    "positive-ease",
+    "teen",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "Pretty pointless, but absolutely not fun :) Ms. Strubbeltante tested my notes and didn't discover any major errors. Thank you very much, dear Silke! English instructions included MarianneHo made a danish translation. You can find it here: strikkeglad.dk",
+  "full_text": "Pattern is found on my blog here These snoods are the easiest thing to make, and one of the best things to make for beginners who are just stepping out into circular knitting. You also actually want to wear it, and as a beginners project, that’s a real bonus. The materials list and the notes below are aimed at beginners, so if you’re more experienced, you may think this is a bit over-explained. The finished measurements of this snood are 45 x 22cm. You Will Need: 1x 50g ball of Sandnes Garn Alpakka Silke (pictured is colour 7741), but you can use any 200m of some slightly more luxurious 4ply yarn. Anything with nice drape would work well. A wool/silk blend such as Regia Silk Sock Yarn, a pure silk, a cashmere, a soft merino, a bamboo, a viscose, as long as there’s 200m. Exact gauge isn’t crazy important, but should be around 27 stitches per 10cm once blocked. 1x 3.25mm 40cm circular needle. You absolutely could use a set of DPNs if you felt like it, but you’d make your life easiest by using a circular. The needle needs to be 40cm because when you’re working in the round, the circumference of the needle needs to be the same size or smaller than the circumference of whatever you’re knitting. Darning needle. You won’t need this until the end, this is to weave your ends in once you’ve cast off, so don’t immediately panic if you don’t have one. The blog post the pattern is written on goes really in detail for beginners, you may find the information about skills, suggested youtube videos, washing and blocking super helpful.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/eierei/editors",
-    "https://www.ravelry.com/patterns/sources/jancachas-designs",
-    "https://www.ravelry.com/patterns/library/eierei/threads",
-    "https://www.ravelry.com/patterns/library/eierei/yarns",
-    "https://www.ravelry.com/patterns/library/floreley",
-    "https://www.ravelry.com/patterns/library/eierei/report",
-    "https://www.ravelry.com/patterns/library/tulipan",
-    "https://www.ravelry.com/patterns/library/eierei/posts",
-    "https://www.ravelry.com/patterns/library/karree",
-    "https://www.ravelry.com/patterns/library/eierei",
-    "https://www.ravelry.com/patterns/library/eierei/comments",
-    "https://www.ravelry.com/patterns/library/eierei/people"
-  ]
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/threads",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/comments",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood",
+    "https://www.ravelry.com/patterns/library/the-homebodys-friend",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/people",
+    "https://www.ravelry.com/patterns/sources/no-frills-knitting-ravelry-store",
+    "https://www.ravelry.com/patterns/sources/no-frills-knitting-blog",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/report",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/editors",
+    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/yarns",
+    "https://www.nofrillsknitting.co.uk/blog/free-pattern-hundred-stitch-snood",
+    "https://www.ravelry.com/patterns/library/the-shopkeepers-friend",
+    "https://www.ravelry.com/patterns/library/basic-rib-hat"
+  ],
+  "name": "Ravelry: Hundred Stitch Snood pattern by No Frills Knitting"
 }

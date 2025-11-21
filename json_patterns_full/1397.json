@@ -1,40 +1,39 @@
 {
   "pattern_id": 1397,
-  "pattern_page": "https://www.ravelry.com/patterns/library/winter-hat-garland",
-  "name": "Winter Hat Garland",
-  "description": "I designed these winter hats because I wanted a quicker and easier way to make a perfect, mini pom-pom. I really love how they look on my Christmas tree.",
-  "designer": "Natasha Hanson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/easter-eggs-24",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "Height with pom-pom: 1.5”/ 4cm, or desired size.",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Patons North America Classic Wool Worsted",
+    "",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
+    "3-dimensional",
     "in-the-round",
     "one-piece",
-    "seamless"
+    "stripes-colorwork",
+    "written-pattern"
   ],
-  "full_text": "I designed these winter hats because I wanted a quicker and easier way to make a perfect, mini pom-pom. I really love how they look on my Christmas tree. Praise for Easy Pom Pom Mini Hat Scrap yarn. Fast, and fun. Pattern is perfect! ( Bonewoman ) The pattern is written clearly and easily understandable. (u-wind)",
+  "full_text": "These adorable eggs are quick and easy to knit. They use very little yarn which makes them a great stash buster project. Each finished egg measures about 2.5 inches long and about 6 inches around. They make great Easter basket stuffers, decorations, or toys. Enjoy!",
   "techniques": [],
-  "shape": "cone",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/winter-hat-garland/threads",
-    "https://www.ravelry.com/patterns/library/winter-hat-garland/comments",
-    "https://www.ravelry.com/patterns/library/10-min-mini-basket",
-    "https://www.ravelry.com/patterns/library/winter-hat-garland/report",
-    "https://www.ravelry.com/patterns/library/acorn-lantern",
-    "https://www.ravelry.com/patterns/library/winter-hat-garland/people",
-    "https://www.ravelry.com/patterns/library/winter-hat-garland/editors",
-    "https://www.ravelry.com/patterns/library/winter-hat-garland",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/scandinavian-christmas-dolls",
-    "https://www.ravelry.com/patterns/library/winter-hat-garland/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/easter-eggs-24/comments",
+    "https://www.ravelry.com/patterns/library/easter-eggs-24/people",
+    "https://www.ravelry.com/patterns/library/easter-eggs-24/threads",
+    "https://www.ravelry.com/patterns/library/little-mishka",
+    "https://www.ravelry.com/patterns/library/easter-eggs-24/yarns",
+    "https://www.ravelry.com/patterns/library/easter-eggs-24/editors",
+    "https://www.ravelry.com/patterns/library/easter-eggs-24/report",
+    "http://auntieemsstudio.blogspot.com/2014/04/easter-egg-pattern.html",
+    "https://www.ravelry.com/patterns/library/cottage-kitchen-towel",
+    "https://www.ravelry.com/patterns/library/trail-head-mitts",
+    "https://www.ravelry.com/patterns/sources/emily-kintigh-designs",
+    "https://www.ravelry.com/patterns/library/easter-eggs-24"
+  ],
+  "name": "Ravelry: Easter Eggs pattern by Emily Kintigh"
 }

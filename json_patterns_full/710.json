@@ -1,46 +1,45 @@
 {
   "pattern_id": 710,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pixie-hat-worsted",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bright-baby-block",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "Newborn",
+  "category": "Blocks",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "3\" X 3\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Crystal Palace Yarns Bunny Hop Print"
+    "",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
-    "elastic",
-    "newborn-size",
-    "preemie",
-    "ribbed",
+    "3-dimensional",
+    "Intarsia",
+    "chart",
+    "cube-shaped",
     "seamed",
+    "square",
+    "stranded",
+    "stripes",
     "unisex",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This is the worsted weight version of the original Pixie Hat (Fingering) , one of Crystal Palace Yarns’ original and most knitted patterns, which is made with fingering weight yarn. The pattern says you can make two hats from one skein of the Bunny Hop yarn.",
+  "full_text": "Pattern includes charts for 6 sides and a diagram for construction. Additional materials include either stuffing or a foam block.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/comments",
-    "http://www.knittingonthenet.com/patterns/babyhatpixie.htm",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/threads",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/report",
-    "https://www.ravelry.com/patterns/library/trio-knit-tote-bag",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/posts",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering",
-    "https://www.ravelry.com/patterns/sources/crystal-palace-yarns",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/edit",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/people",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/editors",
-    "https://www.ravelry.com/patterns/sources/knitting-on-the-net",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/yarns",
-    "https://www.ravelry.com/patterns/library/cabled-scarf-34"
+    "https://www.ravelry.com/patterns/library/wrist-yarn-holder",
+    "https://www.ravelry.com/patterns/sources/knituition",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/threads",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/yarns",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/report",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/editors",
+    "https://www.ravelry.com/patterns/library/la-dentelle-belle-scarf",
+    "https://www.ravelry.com/patterns/library/skully-keychain",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/people",
+    "https://www.ravelry.com/patterns/library/bright-baby-block",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/comments"
   ],
-  "name": "Ravelry: Pixie Hat (Worsted) pattern by Crystal Palace Yarns"
+  "name": "Ravelry: Bright Baby Block pattern by Teresa Murphy"
 }

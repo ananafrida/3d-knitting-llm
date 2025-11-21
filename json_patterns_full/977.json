@@ -1,45 +1,41 @@
 {
   "pattern_id": 977,
-  "pattern_page": "https://www.ravelry.com/patterns/library/out-of-yarn",
-  "name": "Out of Yarn",
-  "description": "10 yards (9.144 Meters) in each of 3 colors. (A total of 30 yards (27.5 Meters) of worsted wt yarn.) {Any yarn can be used, as long as you use needles slightly smaller than recommended for that yarn weight.}",
-  "designer": "Audrey Bochantin",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knubbelchen-minis",
+  "name": "Knubbelchen-Minis",
+  "description": "Dieses Mini-Knubbelchen ist ideal zur “Resteverwertung”… jede (Socken-)Wollstärke passt.",
+  "designer": "Alpaka Seide",
   "craft": "Knitting",
-  "category": "Ball Pet → Toys",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
   "languages": [
-    "English"
+    "Danish",
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Rohrspatz & Wollmeise Pure 100% Merino Superwash",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "entrelac",
-    "kitchener",
-    "modular",
     "one-piece",
-    "phototutorial",
-    "provisional",
-    "sphere-shaped",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "10 yards (9.144 Meters) in each of 3 colors. (A total of 30 yards (27.5 Meters) of worsted wt yarn.) {Any yarn can be used, as long as you use needles slightly smaller than recommended for that yarn weight.} You will also need on hand: Stitch holder or waste yarn, and a blunt point tapestry needle.",
+  "full_text": "This mini knob is ideal for “using leftovers”... any thickness of (sock) wool is suitable. They are simply ideal as a bag and/or key ring... and a great “souvenir”. These instructions are a “miniaturization” of the Knubbelchen instructions and were created and published with the kind permission of pezi888. THANKS pezi888: Your instructions for the super cuddly little knobs gave me the idea of ​​knitting the mini knobbies. These instructions are now also available in English. THANKS to Manfredovna for the super fast translation. “Knubblechen Mini, free pattern, now available in English, too”. Many thanks to Manfredovna for the very fast translation… These instructions are now also available in Danish. THANKS to Marianne “Mafimi” for the translation. “Knubblechen Mini, free pattern, now available in Danish, too”. Many thanks to Marianne “Mafimi” for the translation…",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/out-of-yarn/threads",
-    "https://www.ravelry.com/patterns/sources/audreys-patterns",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/yarns",
-    "https://www.ravelry.com/patterns/library/basic-flat-knit-sock",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/people",
-    "https://www.ravelry.com/patterns/library/indoor-flyer",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/editors",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/posts",
-    "https://www.ravelry.com/patterns/library/twisted-monkey-tv-socks",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/report",
-    "https://www.ravelry.com/patterns/library/out-of-yarn",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/comments"
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/people",
+    "https://www.ravelry.com/patterns/library/achat-2",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/editors",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/report",
+    "https://www.ravelry.com/patterns/sources/alpaka-seides-ravelry-store",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/comments",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/threads",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/posts",
+    "https://www.ravelry.com/patterns/library/diagonales",
+    "https://www.ravelry.com/patterns/library/jeanels",
+    "https://www.ravelry.com/patterns/library/knubbelchen-minis/yarns"
   ]
 }

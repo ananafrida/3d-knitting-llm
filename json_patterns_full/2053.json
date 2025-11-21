@@ -1,39 +1,43 @@
 {
   "pattern_id": 2053,
-  "pattern_page": "https://www.ravelry.com/patterns/library/in-dreams-swatch",
-  "name": "In Dreams swatch",
-  "description": "swatch for In Dreams Mystery Shawl",
-  "designer": "Susan Pandorf",
+  "pattern_page": "https://www.ravelry.com/patterns/library/swirl-ball",
   "craft": "Knitting",
-  "category": "Components → Other",
+  "category": "Ball",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "4” - 4½” in diameter",
   "languages": [
-    "English"
+    "English",
+    "Italian"
   ],
   "suggested_yarn": [
-    "The Unique Sheep Eos",
-    "Lace ?"
+    "",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
-    "beads",
     "chart",
-    "lace",
     "one-piece",
+    "seamed",
+    "short-rows",
+    "sphere-shaped",
+    "stripes-colorwork",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "swatch for In Dreams Mystery Shawl",
+  "full_text": "This pattern was inspired by Judy’s 12-Section Yarnball. I’ve copied the instructions for stuffing and bind-off from Judy Gibson, San Diego NHM jgibson@cts.com with her permission. She also test knit this pattern. Judy said “I never did succeed in making it swirl, exactly.” So I took up her challenge and this is the result. This ball has six S shaped sections that swirl around. This ball comes out 4” to 4½” in diameter, about the size of a grapefruit. 4-ply knitting yarn, one or two colors (or more) I used two shades of Rose. Knitting needles size US 4 Polyester fiber filling or other stuffing Optional noise element: Plastic Easter egg or film canister with jingle bell or pebbles inside. Glue egg halves together with model glue. Was previously available in Italian at:: https://docs.google.com/open?id=0B3aoGFBsEQEISFhyU2t2Y3hNUDA",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/people",
-    "https://www.ravelry.com/patterns/library/evenstar-shawl",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/yarns",
-    "https://www.ravelry.com/patterns/library/rivendell-smoke-ring",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/report",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/comments",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/editors",
-    "https://www.ravelry.com/patterns/sources/sunflower-designs",
-    "https://www.ravelry.com/patterns/library/emyn-muil",
-    "https://www.ravelry.com/patterns/library/in-dreams-swatch/threads"
-  ]
+    "https://www.ravelry.com/patterns/library/swirl-ball/people",
+    "https://www.ravelry.com/patterns/library/swirl-ball",
+    "https://www.ravelry.com/patterns/library/swirl-ball/posts",
+    "https://www.ravelry.com/patterns/library/swirl-ball/yarns",
+    "https://www.ravelry.com/patterns/library/swirl-ball/editors",
+    "https://www.ravelry.com/patterns/sources/knitlist",
+    "https://www.ravelry.com/patterns/library/swirl-ball/comments",
+    "https://www.ravelry.com/patterns/library/swirl-ball/threads",
+    "https://www.ravelry.com/patterns/library/swirl-ball/report",
+    "https://www.ravelry.com/patterns/library/swirl-ball/edit",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine"
+  ],
+  "name": "Ravelry: Swirl Ball pattern by Eve Clevenger"
 }

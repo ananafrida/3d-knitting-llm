@@ -1,37 +1,35 @@
 {
   "pattern_id": 1866,
-  "pattern_page": "https://www.ravelry.com/patterns/library/stack-a-bowls",
-  "name": "Stack-A-Bowls",
-  "description": "These make a great gift for the holidays!",
-  "designer": "Yuko Fredrick",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fire-engine",
+  "name": "fire engine",
+  "description": "",
+  "designer": "crafty beggar",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "Comes in 4 sizes to stack together",
+  "category": "Components → Other",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "felted",
-    "in-the-round"
+    "Intarsia",
+    "rectangle",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "These make a great gift for the holidays! You can stuff them with candies or other small gifts. One whole skein will make all 4 sizes plus a little leftover. I collected all leftovers and made striped combo that was very cute. Also, you can add novelty yarn to dress them up too! Have fun!",
+  "full_text": "",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/stack-a-bowls/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-christmas-ornaments-2",
-    "https://www.ravelry.com/patterns/library/stack-a-bowls/people",
-    "https://www.ravelry.com/patterns/library/stack-a-bowls/report",
-    "https://www.ravelry.com/patterns/library/stack-a-bowls",
-    "https://www.ravelry.com/patterns/library/baby-blanket-72",
-    "https://www.ravelry.com/patterns/sources/yuko-fredricks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/stack-a-bowls/comments",
-    "https://www.ravelry.com/patterns/library/knitted-utility-basket",
-    "https://www.ravelry.com/patterns/library/stack-a-bowls/editors"
+    "https://www.ravelry.com/patterns/library/fire-engine/people",
+    "https://www.ravelry.com/patterns/library/fire-engine/report",
+    "https://www.ravelry.com/patterns/library/fire-engine/yarns",
+    "https://www.ravelry.com/patterns/library/fire-engine",
+    "https://www.ravelry.com/patterns/sources/crafty-beggar-designs",
+    "https://www.ravelry.com/patterns/library/fire-engine/comments",
+    "https://www.ravelry.com/patterns/library/fire-engine/editors"
   ]
 }

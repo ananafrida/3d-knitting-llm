@@ -1,45 +1,41 @@
 {
   "pattern_id": 133,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bright-baby-block",
+  "pattern_page": "https://www.ravelry.com/patterns/library/short-dog-long-dog",
+  "name": "Short Dog, Long Dog",
+  "description": "These dogs come straight out of my new picture book! Short Dog, Long Dog is a book all about dogs doing opposites. Because dogs come in all shapes, sizes, barks, and personalities—from huge and tiny to itchy on the head and scratchy on the hiney—they’re the perfect subjects on the topic of antonyms! Find it at Amazon and other major booksellers, and hopefully also at your local bookstore and yarn shop too. (If not, ask them to get it!)",
+  "designer": "Anna Hrachovec",
   "craft": "Knitting",
-  "category": "Blocks",
+  "category": "Softies → Animal",
   "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "3\" X 3\"",
+  "sizes_available": "A short dog is about 2” (5cm) long; a long dog can be as long as you like!",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Sport (12 wpi) ?"
+    "Cascade Yarns ® Cascade 220®",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
-    "Intarsia",
-    "chart",
-    "cube-shaped",
-    "seamed",
-    "square",
-    "stranded",
-    "stripes",
-    "unisex",
-    "worked-flat",
-    "written-pattern"
+    "icord",
+    "in-the-round"
   ],
-  "full_text": "Pattern includes charts for 6 sides and a diagram for construction. Additional materials include either stuffing or a foam block.",
+  "full_text": "These dogs come straight out of my new picture book! Short Dog, Long Dog is a book all about dogs doing opposites. Because dogs come in all shapes, sizes, barks, and personalities—from huge and tiny to itchy on the head and scratchy on the hiney—they’re the perfect subjects on the topic of antonyms! Find it at Amazon and other major booksellers, and hopefully also at your local bookstore and yarn shop too. (If not, ask them to get it!) This free pattern is a quick, simple project that will make a short dog or a long dog—your choice! Either or both will make a fun gift to go with Short Dog, Long Dog . Enjoy!",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bright-baby-block/report",
-    "https://www.ravelry.com/patterns/library/la-dentelle-belle-scarf",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/editors",
-    "https://www.ravelry.com/patterns/library/skully-keychain",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/yarns",
-    "https://www.ravelry.com/patterns/sources/knituition",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/threads",
-    "https://www.ravelry.com/patterns/library/bright-baby-block",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/people",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/comments",
-    "https://www.ravelry.com/patterns/library/wrist-yarn-holder"
-  ],
-  "name": "Ravelry: Bright Baby Block pattern by Teresa Murphy"
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/editors",
+    "https://www.ravelry.com/patterns/library/inside-cat",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/threads",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/report",
+    "https://www.ravelry.com/patterns/sources/mochimochi-land-ravelry-store",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/yarns",
+    "https://www.ravelry.com/patterns/library/little-dreidel",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/people",
+    "https://www.ravelry.com/patterns/library/cat-in-a-box",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/comments",
+    "https://mochimochiland.com/2025/02/free-pattern-short-dog-long-dog/",
+    "https://www.ravelry.com/patterns/sources/mochimochi-land-website"
+  ]
 }

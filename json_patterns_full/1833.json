@@ -1,40 +1,48 @@
 {
   "pattern_id": 1833,
-  "pattern_page": "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder",
+  "pattern_page": "https://www.ravelry.com/patterns/library/quickolino",
+  "name": "Quickolino",
+  "description": "Quickolino, the fast sock.",
+  "designer": "Tuna :-)",
   "craft": "Knitting",
-  "category": "Containers",
+  "category": "Components → Other",
   "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "37-45, 5-12",
   "languages": [
-    "English"
+    "English",
+    "Additional languages which are not in the download: Universal"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Garnstudio DROPS Big Fabel"
   ],
   "attributes": [
-    "eyelets",
-    "in-the-round",
-    "mesh",
-    "written-pattern"
+    "adult",
+    "chart",
+    "one-piece",
+    "provisional",
+    "seamless",
+    "short-row-toe",
+    "teen",
+    "worked-flat"
   ],
-  "full_text": "Materials: 1 Ball worsted weight yarn. 5mm Double Pointed Needles 5mm Crochet Hook 14” length of ¼“ elastic",
-  "techniques": [],
-  "shape": "sphere",
+  "full_text": "Quickolino, the fast sock. Simple garter stitch in rows, seamless without kitchener stitch and needle play. In the description of the pattern, the top and bottom part of the sock for 4 sizes are included. Techniques used: Garter stitch Cuff in right / left provisional cast on Elastic bind off with yarn over Increases and decreases Short rows with double stitch The basis for this sock is the guidance of Drops Design Nightfall 142-34. The sock was used here for a hat shoe. :-) :-)------------------------------------------------ Quickolino, the fast sock. Simply knit in garter stitch in rows, without needles and stitch stitch. The description includes the knitting charts for the top and bottom of the sock for 4 sizes. Techniques used: garter stitch, right/left cuffs, provisional cast on, elastic cast-off with yarn over, increases and decreases, shortened rows with double stitch. The basis for this sock was the instructions from Drops Design for Nightfall 142-34. The sock was used here for a slipper.",
+  "techniques": [
+    "decreases",
+    "increases",
+    "short rows"
+  ],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder/people",
-    "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder/posts",
-    "https://www.ravelry.com/patterns/library/breast-cancer-awareness",
-    "https://www.ravelry.com/patterns/library/pumpkin-washcloth",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder/comments",
-    "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder/report",
-    "https://www.ravelry.com/patterns/sources/knitwits-heaven-2",
-    "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder/edit",
-    "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder",
-    "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder/yarns",
-    "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder/editors",
-    "https://www.ravelry.com/patterns/library/pocketbook-slippers",
-    "https://www.ravelry.com/patterns/library/lacy-grocery-bag-holder/threads"
-  ],
-  "name": "Ravelry: Lacy Grocery Bag Holder pattern by Lisa Vienneau & Allison Barrett"
+    "https://www.ravelry.com/patterns/library/ducky-anita",
+    "https://www.ravelry.com/patterns/library/quickolino/report",
+    "https://www.ravelry.com/patterns/library/quickolino/yarns",
+    "https://www.ravelry.com/patterns/library/quickolino/comments",
+    "https://www.ravelry.com/patterns/library/quickolino",
+    "https://www.ravelry.com/patterns/library/quickolino/editors",
+    "https://www.ravelry.com/patterns/library/tomma",
+    "https://www.ravelry.com/patterns/library/quickolino/people",
+    "https://www.ravelry.com/patterns/sources/tuna---s-ravelry-store",
+    "https://www.ravelry.com/patterns/library/meschugge"
+  ]
 }

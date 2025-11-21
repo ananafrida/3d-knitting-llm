@@ -1,48 +1,42 @@
 {
   "pattern_id": 1365,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hearts-28",
-  "name": "Hearts",
-  "description": "Each of these little puffy Hearts can be finished in about 30 minutes give or take, and make super projects for using up odds and ends of your yarn stash.",
-  "designer": "Amanda Berry",
+  "pattern_page": "https://www.ravelry.com/patterns/library/labubu-11",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "The finished heart is approximately 6.5cm high x 6.5cm wide.",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "One sized",
   "languages": [
-    "Dutch",
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Deramores Studio Anti-Pilling DK"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
-    "low-vision",
-    "screen-reader",
+    "amigurumi",
+    "bottom-up",
     "seamed",
+    "stripes-colorwork",
+    "video-tutorial",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Each of these little puffy Hearts can be finished in about 30 minutes give or take, and make super projects for using up odds and ends of your yarn stash. Designed by Amanda Berry @fluffandfuzz, the hearts are knitted in acrylic DK yarns on single pointed needles (not in the round). Each is knitted in stockinette stitch in one piece, stuffed, and seamed up the back to make a puffy heart shape. Since its launch this pattern has been used to support many charitable causes, and sharing this pattern to raise funds for charities is encouraged to spread love and kindness. However, reselling this free pattern is not permitted. Choose from the English pattern, Dutch translation, or for knitters with visual impairments choose the “Hearts Accessible” pattern which is written with screen reader accessibility in mind. I am still learning how to make my patterns accessible for people with visual impairments, so any feedback to improve this version is welcomed. NEEDLES A pair of 3.75mm straight single pointed knitting needles (US 5) RECOMMENDED YARN Acrylic DK yarns; double knitting/light worsted weight; a few grammes per heart. NOTIONS Tapestry needle, stitch holder, and a small handful of toy filling or cotton wool balls to stuff. SIZES One size only - 6.5cm high x 6.5cm wide. TECHNIQUES For confident beginners and above, other techniques used include casting on and off, knits, purls, make 1 increase, decreases, and a little seaming to finish. PATTERN INFO Patterns for personal use only; not for resale. Copyright © 2016 Amanda Berry; All rights reserved.",
-  "techniques": [
-    "decreases",
-    "seamed"
-  ],
-  "shape": "sphere",
+  "full_text": "Very little yarn needed. You will need a flesh colour, and a thin velvet yarn for the body.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hearts-28/comments",
-    "https://www.ravelry.com/patterns/library/hearts-28/editors",
-    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
-    "https://www.ravelry.com/bundles/free-patterns-500",
-    "https://www.ravelry.com/patterns/library/hearts-28",
-    "https://www.ravelry.com/patterns/library/hearts-28/yarns",
-    "https://www.ravelry.com/patterns/library/hearts-28/posts",
-    "https://www.ravelry.com/patterns/library/rainbow-35",
-    "https://www.ravelry.com/patterns/library/hearts-28/people",
-    "https://www.ravelry.com/patterns/library/hearts-28/threads",
-    "https://www.ravelry.com/patterns/library/mini-mittens-13",
-    "https://www.ravelry.com/patterns/library/hearts-28/report",
-    "https://www.ravelry.com/patterns/library/starfish-24"
-  ]
+    "https://www.ravelry.com/patterns/library/labubu-cable-cardi",
+    "https://www.ravelry.com/patterns/library/labubu-11/editors",
+    "https://www.ravelry.com/patterns/library/labubu-11/yarns",
+    "https://www.ravelry.com/patterns/library/labubu-11/people",
+    "https://www.ravelry.com/patterns/library/cabled-beanie-21",
+    "https://www.ravelry.com/patterns/library/labubu-11",
+    "https://theknitguru.com/2025/07/14/labubu-free-knitting-pattern/",
+    "https://www.ravelry.com/patterns/sources/the-knit-guru-2",
+    "https://www.ravelry.com/patterns/library/labubu-11/comments",
+    "https://www.ravelry.com/patterns/library/labubu-11/report",
+    "https://www.ravelry.com/patterns/library/basic-hot-water-bottle-cover-2"
+  ],
+  "name": "Ravelry: Labubu pattern by The Knit Guru"
 }

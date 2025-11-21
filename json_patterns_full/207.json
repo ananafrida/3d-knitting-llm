@@ -1,34 +1,42 @@
 {
   "pattern_id": 207,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-hand-bag-cyc-2025",
-  "name": "Knitted Hand Bag CYC 2025",
-  "description": "We are pleased to present this pattern for the 2025 Chicago Yarn Crawl. This special breed specific yarn is ideal for bags and blankets.",
-  "designer": "Amalia Malos",
+  "pattern_page": "https://www.ravelry.com/patterns/library/hood-scarf-4",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "1 size adjustable",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Adult X-Small/Small (Adult Medium/Large)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Rosa Pomar Cobertor",
-    "Bulky (7 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Purl Soho Season Alpaca"
   ],
   "attributes": [
-    "embroidery"
+    "bottom-up",
+    "hood",
+    "one-piece",
+    "ribbed",
+    "short-rows",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "We are pleased to present this pattern for the 2025 Chicago Yarn Crawl. This special breed specific yarn is ideal for bags and blankets. If altering the pattern or enlarging the size of the bag, please be sure to reserve approximately 20gr of yarn for the embroidery pattern.",
+  "full_text": "MATERIALS 4 (5) skeins of Purl Soho’s Season Alpaca , 100% super baby alpaca. Each skein is 218 yards/ 100 grams; approximately 775 (905) total yards required. We used True Turquoise for one version and River Pink (no longer available) for the other. US 4 (3.5 mm), 24-inch circular needles A stitch marker GAUGE 42 stitches and 29 rows = 4 inches in 2 x 2 ribbing, unstretched SIZES Adult X-Small/Small (Adult Medium/Large) To fit head circumference of 18–22 (22–26) inches Finished Length of Scarf at Neck Edge: 74 (79½) inches Finished Depth from Top of Hood to Neck Edge: 11½ (13¼) inches Finished Width of Scarf: 5¾ inches SAMPLES: We knit the True Turquoise sample in the Adult X-Small/Small size and the River Pink sample in the Adult Medium/Large size. Designed for Purl Soho by Lili Tobias . Lili spends most of her time knitting, listening to music, or doing both at the same time. She also happens to be our wonderful Customer Service Coordinator! All Images ©️ Copyright Purl Soho",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-hand-bag-cyc-2025/threads",
-    "https://www.ravelry.com/patterns/library/knitted-hand-bag-cyc-2025/people",
-    "https://www.ravelry.com/patterns/library/knitted-hand-bag-cyc-2025/editors",
-    "https://www.ravelry.com/patterns/sources/evanston-stitchworks",
-    "https://www.ravelry.com/patterns/library/knitted-hand-bag-cyc-2025",
-    "https://www.ravelry.com/patterns/library/knitted-hand-bag-cyc-2025/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-hand-bag-cyc-2025/comments",
-    "https://www.ravelry.com/patterns/library/knitted-hand-bag-cyc-2025/report"
-  ]
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/edit",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/people",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/threads",
+    "https://www.ravelry.com/patterns/library/easy-hat-mittens--hand-warmers",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/yarns",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/comments",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/editors",
+    "https://www.ravelry.com/patterns/library/all-roads-hat--mittens",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/report",
+    "https://www.ravelry.com/patterns/library/darling-hat--hand-warmers",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: Hood Scarf pattern by Lili Tobias"
 }

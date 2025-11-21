@@ -1,49 +1,39 @@
 {
   "pattern_id": 831,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-simple-thing",
-  "name": "The Simple Thing",
-  "description": "It is not a scarf, it is not a shawl, it is just a simple little knitted thing in-between that can be easily knitted from one to infinite skeins of yarn.",
-  "designer": "Melina Brell",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sliding-is-fun",
+  "name": "Sliding is fun",
+  "description": "You: “I need to make a baby blanket.”",
+  "designer": "srossinifaust",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "uni",
+  "category": "Blanket → Baby Blanket",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "26\" x 29\"",
   "languages": [
-    "Dutch",
-    "English",
-    "French",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Heathland Knits BFL DK"
+    "Aran (8 wpi) ?",
+    "Juniper Moon Farm Cumulus"
   ],
   "attributes": [
-    "icord-edging",
-    "kitchener",
-    "one-piece",
-    "seamless",
-    "sideways",
-    "unisex",
-    "worked-flat"
+    "rectangle",
+    "stripes-colorwork"
   ],
-  "full_text": "It is not a scarf, it is not a shawl, it is just a simple little knitted thing in-between that can be easily knitted from one to infinite skeins of yarn. This small scarf-like shawl is worked sideways in rows starting and ending at a narrow tip. The shawl is worked in garter stitch. Needed skills are therefore basically knitting a stitch, knitting two stitches together, and slipping stitches. The edges are worked as i-cords. The shawl can be made from only one skein of yarn. The pattern allows for easy adaptation to knit it longer, shorter, wider or narrower from any desired amount of yarn The sample size is knitted from one skein of DK weight blue Bluefaced Leicester yarn and measures 140 x 24 cm but the pattern can be adapted to various sizes, yarn weight, color depending on personal preferences. This shawl is the simplified version of my One Skein Cheshire Cat Shawl I published two years ago. If you are looking for a Stockinette version with slipped stitch edges, try that one. Please check the video on youtube for help with the setup of the shawl: https://youtu.be/b6S-7X6z1WM and grafting together the last stitches: https://youtu.be/CJiUMEMo9SM Feel free to get me a virtual coffee",
-  "techniques": [
-    "grafting"
-  ],
-  "shape": "cylinder",
+  "full_text": "You: “I need to make a baby blanket.” Me: “When is the baby shower?” You: “2 weeks from today!” Me: “I have just the kit for you.” We’ve just put together our latest kit, Sliding is Fun! A baby blanket, perfect for the stroller or car seat. 26” x 29” Soft and cozy. We machine wash and dry this yarn on delicate in a SOAK Eco Wash Bag . One skein each of Juniper Moon Farms Cumulus Rainbow and Solid . 94% cotton with a touch of nylon for strength. Knit on a US8 needle, this blanket knits up fast. It’s just the knit stitch, but we slide the stitches to the opposite end of the needle to work the next color, creating a stockinette stitch section between each ridge. We love how this shows off the gradient color in such a fun way. We hope you love our color combinations as much as we do. Click here to see all available kits. The Ravelry download includes two copies of the pattern. Please feel free to share with a friend!!",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-simple-thing/people",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/yarns",
-    "https://www.ravelry.com/patterns/library/the-simple-thing",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/threads",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/posts",
-    "https://www.ravelry.com/patterns/library/spiral-yarn-cozy-2",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/comments",
-    "https://www.ravelry.com/patterns/sources/melina-brells-ravelry-store",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/editors",
-    "https://www.ravelry.com/patterns/library/the-simple-thing/report",
-    "https://www.ravelry.com/patterns/library/fingering-yarn-cozy",
-    "https://www.ravelry.com/patterns/library/skinny-ninny-mk"
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/editors",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/yarns",
+    "https://www.ravelry.com/patterns/library/darn-knit-stripe-it",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/report",
+    "https://www.ravelry.com/patterns/library/darn-knit-shade-it",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/threads",
+    "https://www.ravelry.com/patterns/library/it-took-two",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/people",
+    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/comments",
+    "https://www.ravelry.com/patterns/library/sliding-is-fun/edit"
   ]
 }

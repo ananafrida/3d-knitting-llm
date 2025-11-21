@@ -1,38 +1,45 @@
 {
   "pattern_id": 225,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sack-de-coeur",
-  "name": "Sack de Coeur",
-  "description": "A sweet little raffia purse for all the lovers &lt;3",
-  "designer": "Elise Lopez",
+  "pattern_page": "https://www.ravelry.com/patterns/library/born-slippy",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
+  "category": "Neck / Torso → Scarf",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "10x11\" (24.5 x 28 cm)",
+  "sizes_available": "190cm x 37cm (75 inches x 15 inches)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Wool and the Gang Ra-Ra Raffia",
-    "Sport (12 wpi) ?"
+    "DK (11 wpi) ?",
+    "Hedgehog Fibres Merino DK"
   ],
   "attributes": [
-    "seamed",
+    "adult",
+    "mosaic",
+    "one-piece",
+    "sideways",
+    "slipped-stitches",
+    "stripes-colorwork",
+    "triangle-shaped",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A sweet little raffia purse for all the lovers <3 I love to see what you make! Share your project on Instagram using hashtag #SackdeCoeur and tag me @elisemade, or via email to elisemade@gmail.com Size Finished dimensions: 10 x 11” (25.4 x 28 cm) Yarn Wool and the Gang “Ra-Ra Raffia” 273 yards / 120 grams 100% viscose Approximately 180-185 yards / 165-170 meters Needles/Hooks US 7 (4.5 mm) circular needle H/5.0 mm crochet hook for joining Gauge On US 7 (4.5 mm), 13 sts and 22 rows in flat stockinette = 4” Tools Tapestry needle Scissors Key B/O – bind off C/O – cast on K - knit P - purl K2T – knit two sts together; single right-leaning decrease M1L – make one right; single right-leaning increase M1R – make one left; single left-leaning increase PSO – pass stitch over to bind off 1 RS – right side SL1 – slip 1 stitch knitwise SSK – slip 2 stitches knitwise; knit these 2 sts together through the back loops; single left-leaning decrease ST/STS – stitch/stitches SC – single crochet WS – wrong side Construction Two panels are knit flat in a heart shape. Bottom and side panels are knit in one long strip and attached to front and back panels using single crochet stitches. Straps can be worked in either single crochet or knit i-cord by picking up sts in opposite corners, or use a ready-made purse chain or straps.",
+  "full_text": "Beginner friendly slip stitch scarf that lets your yarn shine. Combine Hedgehog Fibres Tweedy colourway of choice with a variegated or speckled Merino DK colourway that you love and watch the multi-coloured blips emerge. Size: 190cm x 37cm (75 inches x 15 inches) Yarn: Colour A: 2 skeins of Hedgehog Fibres Tweedy (230m/100g). Colourway pictured: Connemara. Colour B: 1 skein of Hedgehog Fibres Merino DK (200m/100g). Colourway pictured: Oyster",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/editors",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/comments",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/yarns",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/people",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur",
-    "https://www.ravelry.com/patterns/library/the-perfect-tea-towel",
-    "https://www.ravelry.com/patterns/library/sack-de-coeur/report",
-    "https://www.ravelry.com/patterns/sources/elise-lopezs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-knit-snowman-ornament",
-    "https://www.ravelry.com/patterns/library/i-cord-workout-headband"
-  ]
+    "https://www.ravelry.com/patterns/library/born-slippy",
+    "https://www.ravelry.com/patterns/library/born-slippy/report",
+    "https://www.ravelry.com/patterns/library/born-slippy/comments",
+    "https://www.ravelry.com/patterns/library/born-slippy/editors",
+    "https://www.ravelry.com/patterns/library/born-slippy/threads",
+    "https://www.ravelry.com/patterns/library/electric-sheep",
+    "https://www.ravelry.com/patterns/library/plush-cardigan-2",
+    "https://www.ravelry.com/patterns/library/april-scarf-4",
+    "https://www.ravelry.com/patterns/library/born-slippy/yarns",
+    "https://www.ravelry.com/patterns/library/born-slippy/people",
+    "https://www.ravelry.com/patterns/library/born-slippy/posts",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/born-slippy"
+  ],
+  "name": "Ravelry: Born Slippy pattern by Beata Jezek"
 }

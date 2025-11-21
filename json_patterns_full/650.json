@@ -1,36 +1,39 @@
 {
   "pattern_id": 650,
-  "pattern_page": "https://www.ravelry.com/patterns/library/baby-pixie-hat-4",
+  "pattern_page": "https://www.ravelry.com/patterns/library/refillable-catnip-mouse",
+  "name": "Refillable Catnip Mouse",
+  "description": "Here is a catnip mouse toy that you can refill with fresh catnip!",
+  "designer": "Laura Magdycz",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Pet → Toys",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Garnstudio DROPS Nepal"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "baby",
+    "3-dimensional",
+    "icord",
     "in-the-round",
-    "one-piece",
-    "written-pattern"
+    "modular",
+    "seamless"
   ],
-  "full_text": "The pattern for these cute knitted Baby Pixie Hats is available on my blog for free in size 0-3 months, 3-6 months and 6-12 months. The hats are made in Drops Nepal, an Aran weight yarn in 35% Alpaca and 65% wool. The yarn is soft and non-itchy. I use 5 mm double pointed needles for the hats. You can make up the colour ways yourself, I tend to make them so they match the colours of my crochet Noella Baby Booties. Please respect copyright and share photos if you make the hats!",
+  "full_text": "Here is a catnip mouse toy that you can refill with fresh catnip! It’s great for scraps of leftover sock yarn and gauge doesn’t matter. The mouse opens near the tail and uses two sets of small snaps to fasten the opening. Enjoy!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/yarns",
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/people",
-    "https://www.ravelry.com/patterns/sources/saraphir",
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/report",
-    "https://www.ravelry.com/patterns/library/striped-baby-booties-in-4-sizes",
-    "https://www.ravelry.com/patterns/library/iris-tealight-holder",
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4",
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/comments",
-    "https://www.ravelry.com/patterns/library/andesite-fair-isle-winter-hat",
-    "https://www.ravelry.com/patterns/library/baby-pixie-hat-4/editors"
-  ],
-  "name": "Ravelry: Baby Pixie Hat pattern by Saraphir Legind"
+    "https://www.ravelry.com/patterns/sources/laura-magdyczs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/toe-up-two-at-a-time-wave-socks",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/threads",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/comments",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/report",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/editors",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse/people",
+    "https://www.ravelry.com/patterns/library/simple-soap-saver-2",
+    "https://www.ravelry.com/patterns/library/refillable-catnip-mouse"
+  ]
 }

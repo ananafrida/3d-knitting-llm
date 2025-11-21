@@ -1,33 +1,40 @@
 {
   "pattern_id": 2065,
-  "pattern_page": "https://www.ravelry.com/patterns/library/joinasyougo-knitted-vertical-stripes",
+  "pattern_page": "https://www.ravelry.com/patterns/library/hackey-sacks-2",
   "craft": "Knitting",
-  "category": "Components → Other",
+  "category": "Ball",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "modular"
+    "3-dimensional",
+    "one-piece",
+    "seamed",
+    "sphere-shaped",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This “pattern” is actually a blog post with videos and written instructions on how to do this technique, it is not a pattern for a finished item. These videos will help you to create vertical knit stripes which are made one at a time, and connected to each other as they are knit. There are typed directions as well. This technique can be used as an alternate way to join the skirt panels on my Kat Coat pattern. Find Kat on Ravelry , Craftsy , and Etsy It is also used in the adult version ~ the Katherine Coat, which has a planned release for Easter.",
+  "full_text": "My son wanted to sell hackey sacks at his school fair and after many attempts at getting the size correct this is the pattern for them. I stuffed them with bear pellets, available from craft shops, you could use beans, rice or wheat. A bit of patience is required with the first few rows, knitting a bit looser than normal helps until all the stitches are increased. A great pattern for using up those scraps of leftover yarns.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jacobs-treasure-afghan-square",
-    "http://www.shareasale.com/r.cfm?u=722478&b=253536&m=29190&afftrack=&urllink=www%2Ecraftsy%2Ecom%2Fpattern%2Fknitting%2Fouterwear%2Fkat%2D%2D%2Dchild%2Dfaerie%2Dfrock%2Dwith%2Dvariations%2F12227",
-    "https://www.ravelry.com/patterns/library/joinasyougo-knitted-vertical-stripes/comments",
-    "https://www.ravelry.com/patterns/library/dragon-wing-cowl",
-    "http://www.ravelry.com/patterns/library/kat---a-lovely-faerie-frock-with-many-variations-in-child-sizes-3-12",
-    "https://www.ravelry.com/patterns/library/joinasyougo-knitted-vertical-stripes/editors",
-    "https://www.ravelry.com/patterns/library/retro-ornament---graphic-fall-throw",
-    "https://www.ravelry.com/patterns/library/joinasyougo-knitted-vertical-stripes/yarns",
-    "https://www.ravelry.com/patterns/library/joinasyougo-knitted-vertical-stripes",
-    "https://www.ravelry.com/patterns/library/joinasyougo-knitted-vertical-stripes/report",
-    "https://www.ravelry.com/patterns/sources/jessieathome",
-    "https://www.ravelry.com/patterns/library/joinasyougo-knitted-vertical-stripes/people"
+    "https://www.ravelry.com/patterns/sources/shazzas-patterns",
+    "http://shazzaspatterns.blogspot.com/2005/11/hackey-sacks.html",
+    "https://www.ravelry.com/patterns/library/hackey-sacks-2/yarns",
+    "https://www.ravelry.com/patterns/library/hackey-sacks-2/editors",
+    "https://www.ravelry.com/patterns/library/shazzas-bucket-hat",
+    "https://www.ravelry.com/patterns/library/golf-club-covers-20",
+    "https://www.ravelry.com/patterns/library/hackey-sacks-2/comments",
+    "https://www.ravelry.com/patterns/library/shazzas-socks-mens-version",
+    "https://www.ravelry.com/patterns/library/hackey-sacks-2/report",
+    "https://www.ravelry.com/patterns/library/hackey-sacks-2",
+    "https://www.ravelry.com/patterns/library/hackey-sacks-2/people",
+    "https://www.ravelry.com/patterns/library/hackey-sacks-2/threads"
   ],
-  "name": "Ravelry: Join~As~You~Go Knitted Vertical Stripes pattern by Jessie Rayot"
+  "name": "Ravelry: Hackey Sacks pattern by Sharon - Shazzas Knits"
 }

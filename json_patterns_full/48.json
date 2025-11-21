@@ -1,39 +1,45 @@
 {
   "pattern_id": 48,
-  "pattern_page": "https://www.ravelry.com/patterns/library/frankies-blankie-week-37",
-  "name": "Frankie's Blankie Week 37",
-  "description": "This is the 37th in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/little-princess-knitted-crown",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Costume",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Stylecraft Batik Double Knitting"
+    "Dream in Color Classy",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "chart",
-    "reversible",
-    "textured",
+    "child",
+    "elastic",
+    "eyelets",
+    "female",
+    "one-piece",
+    "seamed",
+    "sideways",
+    "toddler",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This is the 37th in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares. ‘Small Squares’ is another easy basketweave stitch pattern made up of knit and purl stitches. It is reversible and will lie flat. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "When thinking up ways to bless my little Princess for her sixth birthday, I came up with this nifty little crown. I thought that since she liked it so much, perhaps you know a little girl who would love it, too.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/people",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-25",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/yarns",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/threads",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/report",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/comments",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/editors",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-33",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-45"
-  ]
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/editors",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/comments",
+    "https://www.ravelry.com/patterns/library/cast-iron-pan-handle-cozy-2",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/people",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/yarns",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/report",
+    "https://web.archive.org/web/20110811073119/https://woolandchocolate.wordpress.com/2010/10/01/princess-crown-free-knit-pattern/",
+    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/edit",
+    "https://www.ravelry.com/patterns/library/natalie-headband",
+    "https://www.ravelry.com/patterns/sources/wool-and-chocolate",
+    "https://www.ravelry.com/patterns/library/flower-garden-stitch-markers"
+  ],
+  "name": "Ravelry: Little Princess Knitted Crown pattern by Shelly Jackson"
 }

@@ -1,30 +1,51 @@
 {
   "pattern_id": 2149,
-  "pattern_page": "https://www.ravelry.com/patterns/library/amico-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/-24-jacke-per-tutti",
   "craft": "Knitting",
-  "category": "Hat → Beanie, Toque",
+  "category": "Coat / Jacket",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "36/38, 40/42, 44/46, 48/50",
   "languages": [
-    "English"
+    "German"
+  ],
+  "suggested_yarn": [
+    "Super Bulky (5-6 wpi) ?",
+    "Lana Grossa Ragazza Pertutti"
   ],
   "attributes": [
-    "in-the-round",
-    "mosaic"
+    "adult",
+    "bottom-up",
+    "buttoned",
+    "drop-sleeve",
+    "elbow-sleeve",
+    "female",
+    "plus",
+    "schematic",
+    "seamed",
+    "straight",
+    "v-neck",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This pattern was designed for Delaware Head Huggers and includes instructions for most yarn weights.",
+  "full_text": "Straight parts make the small striped jacket beautifully uncomplicated. Sophistication comes from the hole pattern and an effect yarn that alternates between smooth and fringed parts. YOU NEED Lana Grossa “Per Tutti” (70% cotton, 30% polyamide, yardage 180 m/50 g), 100 (100 – 150 – 150) g cream (color 1), 100 g light beige (color 2), 100 g mint green (color 3), 100 (100 – 150 – 150) g yellow-green (color 4), 100 (100 – 150 – 150) g blue (color 7), knitting no. 3 and 4; 5 buttons diameter 15 mm. Free pattern on Woolplace / Free Pattern on Woolplace (German only)",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitting-with-schnapps",
-    "https://knittingwithschnapps.blogspot.com/2025/10/the-12-weeks-of-hat-patterns-2025.html",
-    "https://www.ravelry.com/patterns/library/drukkie",
-    "https://www.ravelry.com/patterns/library/amico-2/people",
-    "https://www.ravelry.com/patterns/library/amico-2/report",
-    "https://www.ravelry.com/patterns/library/amico-2",
-    "https://www.ravelry.com/patterns/library/amico-2/yarns",
-    "https://www.ravelry.com/patterns/library/bronntanas-2",
-    "https://www.ravelry.com/patterns/library/amico-2/comments",
-    "https://www.ravelry.com/patterns/library/ven",
-    "https://www.ravelry.com/patterns/library/amico-2/editors"
+    "https://www.ravelry.com/patterns/library/-24-jacke-per-tutti/yarns",
+    "https://www.ravelry.com/patterns/library/-24-jacke-per-tutti/comments",
+    "https://www.ravelry.com/patterns/library/-24-jacke-per-tutti/edit",
+    "https://www.ravelry.com/patterns/sources/woolplace-by-lana-grossa",
+    "https://www.ravelry.com/patterns/library/-05-pullover-cara",
+    "https://www.ravelry.com/patterns/library/-24-jacke-per-tutti",
+    "https://www.ravelry.com/patterns/periodicals/lana-grossa-filati-magazine",
+    "https://www.ravelry.com/patterns/library/-24-jacke-per-tutti/editors",
+    "https://www.ravelry.com/patterns/library/-14-pulli-2",
+    "https://www.ravelry.com/patterns/sources/filati-pocket-no-27",
+    "https://www.ravelry.com/patterns/library/-65-pullover-avio",
+    "https://www.ravelry.com/patterns/sources/lana-grossa-filati-magazine-67",
+    "https://www.ravelry.com/patterns/library/-24-jacke-per-tutti/people",
+    "https://www.ravelry.com/patterns/sources/lana-grossa-website",
+    "https://www.ravelry.com/patterns/library/-24-jacke-per-tutti/report"
   ],
-  "name": "Ravelry: Amico pattern by Robin Celli"
+  "name": "Ravelry: # 24 Jacke Per Tutti pattern by Lana Grossa"
 }

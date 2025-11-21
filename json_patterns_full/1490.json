@@ -1,43 +1,47 @@
 {
   "pattern_id": 1490,
-  "pattern_page": "https://www.ravelry.com/patterns/library/balls-up-",
-  "name": "Balls Up !",
-  "description": "Yeah - because the world totally needs another Christmas ornament pattern…",
-  "designer": "General Hogbuffer",
+  "pattern_page": "https://www.ravelry.com/patterns/library/brea-bag",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "11\" wide by 7\" high by 2 1/2\" deep",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Fingering (14 wpi) ?"
+    "Berroco Ultra Alpaca",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "bottom-up",
+    "buttoned",
+    "cables",
     "chart",
-    "fairisle",
-    "icord",
-    "in-the-round",
-    "seamless",
-    "sphere-shaped",
-    "stranded"
+    "gusset",
+    "seamed",
+    "textured",
+    "triangle-shaped",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Yeah - because the world totally needs another Christmas ornament pattern… A simple sphere pattern with notes on how to personalise. Currently only for 7 cm ornaments, but I am working on other sizes… Update: I have added a chart for 1/8 off the ball, just in case you want to get your crayons out… Update November 2014: I have uploaded another file with additional charts. Please read more about the design here: http://www.ravelry.com/projects/braindead/balls-up--2 Update December 2020: Apparently this pattern is offered for sale online; please note that this is NOT me and NOT authorised; the pattern is and shall remain free, and I hope nobody has been duped into paying for it. Happy Holidays!!!",
+  "full_text": "From berroco.com : \"The front and back of our crescent shaped bag are each comprised of four segments of a hexagon, knit from the outside in. A simple cable pattern repeated four times combines to resemble a lotus flower.\" Additional materials needed : Crochet hook, size 4.00 mm (F), handle, one 1 1/2” button. Love free patterns? Sign up for Berroco’s weekly newsletter and you’ll have access to all of our free Friday patterns!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/skandium",
-    "https://www.ravelry.com/patterns/library/balls-up-/editors",
-    "https://www.ravelry.com/patterns/library/balls-up-/posts",
-    "https://www.ravelry.com/patterns/library/balls-up-/report",
-    "https://www.ravelry.com/patterns/library/balls-up-/comments",
-    "https://www.ravelry.com/patterns/sources/the-house-of-hogbuffer",
-    "https://www.ravelry.com/patterns/library/balls-up-/threads",
-    "https://www.ravelry.com/patterns/library/squircle-2",
-    "https://www.ravelry.com/patterns/library/onopordum",
-    "https://www.ravelry.com/patterns/library/balls-up-/people",
-    "https://www.ravelry.com/patterns/library/balls-up-",
-    "https://www.ravelry.com/patterns/library/balls-up-/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/brea-bag/threads",
+    "https://www.ravelry.com/patterns/library/brea-bag/editors",
+    "https://www.ravelry.com/patterns/library/brea-bag/report",
+    "https://www.ravelry.com/patterns/library/lamina-5",
+    "https://www.ravelry.com/patterns/library/morahan",
+    "https://www.ravelry.com/patterns/library/brea-bag/posts",
+    "https://www.ravelry.com/patterns/library/brea-bag/yarns",
+    "https://www.ravelry.com/patterns/library/brea-bag/people",
+    "https://berroco.com/patterns/brea/",
+    "https://www.ravelry.com/patterns/library/brea-bag/comments",
+    "https://www.ravelry.com/patterns/library/brea-bag",
+    "https://www.ravelry.com/patterns/library/bolin-cardigan",
+    "https://www.ravelry.com/patterns/periodicals/berroco",
+    "https://www.ravelry.com/patterns/sources/berroco-website"
+  ],
+  "name": "Ravelry: Brea Bag pattern by Norah Gaughan"
 }

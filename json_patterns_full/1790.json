@@ -1,39 +1,46 @@
 {
   "pattern_id": 1790,
-  "pattern_page": "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
-  "name": "It's Just a Knit Basket",
-  "description": "Our July Makers Kit is not a shawl, cowl, or hat! It’s Just a Basket!!",
-  "designer": "Aimee Pelletier",
+  "pattern_page": "https://www.ravelry.com/patterns/library/steady-stockinette-hat",
+  "name": "Steady Stockinette Hat",
+  "description": "The basic stockinette hat that I just can’t stop making. Last winter after making one of these hats for everyone in my family, I decided it was time to figure out the pattern for any size I’d need. Enjoy knitting your Steady Stockinette Hat!",
+  "designer": "Allison Schmidt",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "8\" x 8\"",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "Newborn, Baby, Toddler, Child, (Adult Small, Medium, Large)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Berroco Macro",
-    "Jumbo (0-4 wpi) ?"
+    "DK (11 wpi) ?",
+    "Hedgehog Fibres Tweedy"
   ],
   "attributes": [
+    "adult",
+    "baby",
     "bottom-up",
+    "child",
     "in-the-round",
-    "one-piece"
+    "newborn-size",
+    "one-piece",
+    "teen",
+    "toddler",
+    "written-pattern"
   ],
-  "full_text": "Our July Makers Kit is not a shawl, cowl, or hat! It’s Just a Basket!! The basket is about 8” tall and 8” in diameter. An easy pattern! We love the loop and closure detail too. So you can close it up if you want to bring it along somewhere and use it like a yarn bowl! Looking for a kit? Click here. There is also a crochet version. Find that here.",
+  "full_text": "The basic stockinette hat that I just can’t stop making. Last winter after making one of these hats for everyone in my family, I decided it was time to figure out the pattern for any size I’d need. Enjoy knitting your Steady Stockinette Hat! Sizes: Newborn, Baby, Toddler, Child, (Adult Small, Medium, Large) This hat is intended to have 1-2 inches (2.5-5 cm) of negative ease. Circumference inches: 12, 15, 17, 18 (19, 20, 22) or 30.5, 38, 43, 46 (48, 50, 56) cm. Yarn requirements: DK weight yarn, I used Hedgehog Fibers tweedy (100g = 250 yards) 88, 125, 175, 190, (237, 275, 325) yards US size #3 (3.25 mm) circular needles, or needles needed to get gauge. Hat can be knit in magic loop or DPNs Gauge: 21 sts x 32 rows = 4 inches (10 cm) in stockinette. Notions: 5 removable stitch markers, tapestry needle, scissors. Pattern offers 3 instructions for creating the brim.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/versa-cowl",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
-    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
-    "https://www.ravelry.com/patterns/library/lollygag",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/comments",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/people",
-    "https://www.ravelry.com/patterns/library/its-just-a-crochet-basket",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/editors",
-    "https://www.ravelry.com/patterns/library/quick-bulky-mitten",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/report",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/yarns"
+    "https://www.ravelry.com/patterns/library/steady-stockinette-hat",
+    "https://www.ravelry.com/patterns/library/steady-stockinette-hat/people",
+    "https://www.ravelry.com/patterns/library/steady-stockinette-hat/threads",
+    "https://www.ravelry.com/patterns/library/steady-stockinette-hat/comments",
+    "https://www.ravelry.com/patterns/library/steady-stockinette-hat/yarns",
+    "https://www.ravelry.com/patterns/library/cedarwood-cowl-3",
+    "https://www.ravelry.com/patterns/sources/allison-schmidts-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ripple-wrap-9",
+    "https://www.ravelry.com/patterns/library/steady-stockinette-hat/report",
+    "https://www.ravelry.com/patterns/library/steady-stockinette-hat/editors",
+    "https://www.ravelry.com/patterns/library/icing-socks"
   ]
 }

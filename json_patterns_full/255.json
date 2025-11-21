@@ -1,39 +1,42 @@
 {
   "pattern_id": 255,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy",
-  "name": "Jingle Mouse - Cat Toy",
-  "description": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need!",
-  "designer": "Dooley and Spud",
+  "pattern_page": "https://www.ravelry.com/patterns/library/hood-scarf-4",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Adult X-Small/Small (Adult Medium/Large)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Berroco Ultra Alpaca Light",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Purl Soho Season Alpaca"
   ],
   "attributes": [
-    "3-dimensional",
-    "in-the-round",
-    "phototutorial",
+    "bottom-up",
+    "hood",
+    "one-piece",
+    "ribbed",
+    "short-rows",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need! Basic Skills Necessary: •knit (knit) •knit front and back (kfb) •knit two together (k2tog) •slip slip knit (ssk) Feel free to sell any of the Jingle Mice you make yourself, but please do not distribute this pattern without my permission. Purchase the full set of Jingle Animals - Cat Toys here: http://www.ravelry.com/patterns/library/jingle-animals---...",
+  "full_text": "MATERIALS 4 (5) skeins of Purl Soho’s Season Alpaca , 100% super baby alpaca. Each skein is 218 yards/ 100 grams; approximately 775 (905) total yards required. We used True Turquoise for one version and River Pink (no longer available) for the other. US 4 (3.5 mm), 24-inch circular needles A stitch marker GAUGE 42 stitches and 29 rows = 4 inches in 2 x 2 ribbing, unstretched SIZES Adult X-Small/Small (Adult Medium/Large) To fit head circumference of 18–22 (22–26) inches Finished Length of Scarf at Neck Edge: 74 (79½) inches Finished Depth from Top of Hood to Neck Edge: 11½ (13¼) inches Finished Width of Scarf: 5¾ inches SAMPLES: We knit the True Turquoise sample in the Adult X-Small/Small size and the River Pink sample in the Adult Medium/Large size. Designed for Purl Soho by Lili Tobias . Lili spends most of her time knitting, listening to music, or doing both at the same time. She also happens to be our wonderful Customer Service Coordinator! All Images ©️ Copyright Purl Soho",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/report",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy",
-    "https://www.ravelry.com/patterns/library/jingle-bird---cat-toy",
-    "https://www.ravelry.com/patterns/sources/dooley-and-spud",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/yarns",
-    "http://www.ravelry.com/patterns/library/jingle-animals---cat-toys",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/threads",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/comments",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/people",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy"
-  ]
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/edit",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/people",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/threads",
+    "https://www.ravelry.com/patterns/library/easy-hat-mittens--hand-warmers",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/yarns",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/comments",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/editors",
+    "https://www.ravelry.com/patterns/library/all-roads-hat--mittens",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4/report",
+    "https://www.ravelry.com/patterns/library/darling-hat--hand-warmers",
+    "https://www.ravelry.com/patterns/library/hood-scarf-4",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: Hood Scarf pattern by Lili Tobias"
 }

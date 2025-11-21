@@ -1,44 +1,50 @@
 {
   "pattern_id": 1935,
-  "pattern_page": "https://www.ravelry.com/patterns/library/holly-bow",
-  "name": "Holly Bow",
-  "description": "Holly Bow consists of a bow made with 4 cm [1½ inches] wide decorative ribbon with wire edges, two knitted leaves and a bling button.",
-  "designer": "PetiteKnit",
+  "pattern_page": "https://www.ravelry.com/patterns/library/round-neck-cardigan---7283",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "one size",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "76 (81, 86, 91, 97, 102, 107, 112)cm / 30 (32, 34, 36, 38, 40, 42, 44)\"",
   "languages": [
-    "Danish",
-    "English",
-    "German",
-    "Norwegian",
-    "Swedish",
-    "...and 5 other languages show hide other languages",
-    "...and 5 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lang Yarns Cashmere Premium"
+    "Aran (8 wpi) ?",
+    "Yarnsmiths (UK) Merino Aran SW"
   ],
   "attributes": [
+    "adult",
+    "bottom-up",
+    "buttoned",
+    "crew-neck",
+    "female",
+    "fitted",
+    "front-fastening",
+    "long-sleeve",
+    "positive-ease",
+    "raglan-sleeve",
+    "seamed",
+    "single-breasted",
+    "teen",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Holly Bow consists of a bow made with 4 cm [1½ inches] wide decorative ribbon with wire edges, two knitted leaves and a bling button. Size: One size Needles: 3 mm [US2½] double-pointed needles Materials: Approx. 2 g Cashmere by Mondial (25 g = 115 m [126 yds]) or Cashmere Classic by Cardiff (25 g = 112 m [122 yds]) or Cashmere Premium by Lang Yarn (25 g = 115 m [126 yds]) or Pure Cashmere by Sysleriget (50 g = 224 m [245 yds]) 4 cm [1½ inches] wide decorative ribbon with wire edges, 1 bling button (Ø = 20 mm) Difficulty: ★ (1 out of 5) See the classification of difficulty here. The white leaf is knitted in Cashmere by Mondial in the color 938. The green leaf is knitted in Pure Cashmere by Sysleriget in the color Dusty green. The brown leaf is knitted in Cashmere Premium by Lang Yarn in the color 139. The bright green leaf is knitted in Pure Cashmere by Sysleriget in the color Emerald green.",
+  "full_text": "To fit bust: 76 (81, 86, 91, 97, 102, 107, 112)cm 30 (32, 34, 36, 38, 40, 42, 44)“ Actual measurements: 77 (84, 87, 91.5, 97, 102, 107, 112)cm 30¼ (33, 34¼, 36, 38¼, 40, 42, 44)” Yarnsmiths Merino Aran Superwash 82yrds/75m (1.75oz/50g) Chocolate Brown (4080) - 11, 11, 14, 14, 14, 16, 16, 19 balls Knitting needles sizes 3.75mm and 4.5mm Tension: 18 stitches x 24 rows = 4” / 10cm in Stocking Stitch on 4.5mm needles 8 Buttons",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/holly-bow/threads",
-    "https://www.ravelry.com/patterns/library/sophie-shawl-2",
-    "https://www.ravelry.com/patterns/library/holly-bow/people",
-    "https://www.ravelry.com/patterns/library/sophie-hood",
-    "https://www.ravelry.com/patterns/library/holly-bow/yarns",
-    "https://www.ravelry.com/patterns/library/holly-bow/editors",
-    "https://www.ravelry.com/patterns/library/sophie-scarf-2",
-    "https://www.ravelry.com/patterns/sources/petiteknit-ravelry-store",
-    "https://www.ravelry.com/patterns/library/holly-bow/comments",
-    "https://www.ravelry.com/patterns/library/holly-bow",
-    "https://www.ravelry.com/patterns/library/holly-bow/report"
-  ]
+    "https://www.ravelry.com/patterns/library/round-neck-cardigan---7283/people",
+    "https://www.ravelry.com/patterns/sources/wool-warehouse",
+    "https://www.ravelry.com/patterns/library/sydney-cardigan-and-tank-top---7152",
+    "https://www.ravelry.com/patterns/library/round-neck-cardigan---7283/yarns",
+    "https://www.ravelry.com/patterns/library/womens-cardigan---7258",
+    "https://www.woolwarehouse.co.uk/patterns-and-books/yarnsmiths-7283-round-neck-cardigan-downloadable-pdf",
+    "https://www.ravelry.com/patterns/library/round-neck-cardigan---7283/report",
+    "https://www.ravelry.com/patterns/library/round-neck-cardigan---7283/comments",
+    "https://www.ravelry.com/patterns/library/rosebud-socks---7239",
+    "https://www.ravelry.com/patterns/library/round-neck-cardigan---7283",
+    "https://www.ravelry.com/patterns/library/round-neck-cardigan---7283/editors",
+    "https://www.ravelry.com/patterns/library/round-neck-cardigan---7283/edit"
+  ],
+  "name": "Ravelry: Round Neck Cardigan - 7283 pattern by Yarnsmiths"
 }

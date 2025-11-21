@@ -1,38 +1,50 @@
 {
   "pattern_id": 101,
-  "pattern_page": "https://www.ravelry.com/patterns/library/zs-baby-blocks",
-  "name": "Z's Baby Blocks",
-  "description": "This was my very first pattern. I liked making them because it allowed me to do simple squares, but to not make another scarf or blanket. My cousin’s little boy (and husband) loved them.",
-  "designer": "Sara Marks",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bamsen---softie",
+  "name": "Bamsen - softie",
+  "description": "Astrid Lindgren (1907-2002) and Ilon Wikland",
+  "designer": "Agnes Brandels",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "17 x 26 cm",
   "languages": [
-    "English"
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 8 other languages show hide other languages",
+    "...and 8 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "Lion Brand Homespun Baby",
-    "Bulky (7 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Järbo Astrid Lindgren & Ilon Wikland 50g"
   ],
   "attributes": [
-    "worked-flat",
+    "in-the-round",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "This was my very first pattern. I liked making them because it allowed me to do simple squares, but to not make another scarf or blanket. My cousin’s little boy (and husband) loved them.",
+  "full_text": "Astrid Lindgren (1907-2002) and Ilon Wikland (1930-) worked together on a number of classical children’s books, written by Astrid and illustrated by Ilon. The work of Astrid Lindgren is unique and significant, and her books have been translated to more than 100 languages and sold in more than 165 million copies around the world. Astrid Lindgren and Ilon Wikland began their collaboration in the mid-1950s at the publishing house Rabén & Sjögren. Together they created a magical world that has touched generations of readers and ensured that Astrid Lindgren’s stories continue to be loved all over the world. Järbo has now been granted the opportunity to create a unique collection of yarns and knitting kits with some of the most beloved children’s books characters as inspiration. Illustrations: © Design Ilon Wikland AB The Children of Noisy Village, Karlsson on the Roof, Lotta on Troublemaker Street, Madicken, Seacrow Island, Ronja the Robber’s Daughter: TM and © The Astrid Lindgren Company We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Järbo on Instagram Reseller map jarbo.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be Järbo is a Swedish brand established in 1896. We offer nordic design, selected yarns and accessories in stores and online.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/interlocking-key-chains",
-    "https://www.ravelry.com/patterns/library/gradient-blanket",
-    "https://www.ravelry.com/patterns/sources/sara-marks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/editors",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/threads",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/report",
-    "https://www.ravelry.com/patterns/library/wavy-gravy-scarf",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/comments",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/yarns",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/posts",
-    "https://www.ravelry.com/patterns/library/zs-baby-blocks/people"
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan",
+    "https://www.ravelry.com/patterns/library/bamsen---softie/yarns",
+    "https://www.ravelry.com/patterns/library/vinge---socks",
+    "https://www.ravelry.com/patterns/library/bamsen---softie/comments",
+    "https://www.ravelry.com/patterns/library/bamsen---softie/threads",
+    "https://www.ravelry.com/patterns/library/bamsen---softie",
+    "https://www.ravelry.com/patterns/library/bamsen---softie/report",
+    "https://www.ravelry.com/patterns/library/lotta---dress",
+    "https://www.ravelry.com/patterns/library/bamsen---softie/people",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
+    "https://www.ravelry.com/patterns/library/bamsen---softie/editors",
+    "https://www.ravelry.com/patterns/sources/jarbo-astrid-lindgren--ilon-wikland"
   ]
 }

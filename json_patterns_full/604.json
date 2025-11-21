@@ -1,42 +1,42 @@
 {
   "pattern_id": 604,
-  "pattern_page": "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tossortug-to-knit",
+  "name": "TossOrTug to Knit",
+  "description": "Tons of fun for dogs! I make an indoor version by omitting the tennis ball.",
+  "designer": "Annie Dempsey",
   "craft": "Knitting",
-  "category": "Blanket → Throw Blanket → Baby Blanket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Crib (Throw)",
+  "category": "Pet → Toys",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "sizes_available": "One size, about 17\" long",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Purl Soho Knitting Yarn DK"
+    "Lily (Spinrite) Sugar'n Cream Ombres",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "modular",
+    "in-the-round",
     "one-piece",
-    "rectangle",
-    "selvedge",
-    "stripes-colorwork",
-    "worked-flat",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "MATERIALS 8 (14) skeins of Purl Soho’s Knitting Yarn DK , 100% merino wool. Each skein is 219 yards/ 100 grams. Color A: 4 (7) skeins; approximately 835 (1525) yards required. We used Heirloom White. Color B: 4 (7) skeins; approximately 800 (1330) yards required. We used Violet Sea for the Crib size and Flax Flower Blue for the Throw size. You’ll also need… US 6 (4 mm), 40- or 47- inch circular needles Stitch markers or scrap yarn We also love how this pattern works up in Heirloom White plus New Leaf Green or Piglet Pink, but with 20 colors of Knitting Yarn DK to choose from, the options are endless! GAUGE 21 stitches and 40 rows = 4 inches in garter stitch SIZES Crib (Throw) Finished Dimensions: Approximately 30 (40) inches wide x 40 (53) inches long Designed by Purl Soho designer, Hiromi Glover , based on the original Little Mitered Stripes Scarf by Jake Canton . Click here to see even more of Hiromi’s work!",
+  "full_text": "Tons of fun for dogs! I make an indoor version by omitting the tennis ball. Materials: 95 yards cotton worsted weight yarn Four double pointed knitting needles size 10.5 (US) [6.5mm] 1 tennis ball",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/embossed-triangles-blanket",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/editors",
-    "https://www.ravelry.com/patterns/library/tonal-blanket",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/comments",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/report",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/people",
-    "https://www.ravelry.com/patterns/library/portal-blanket",
-    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/threads"
-  ],
-  "name": "Ravelry: Little Mitered Stripes Blanket pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/periodicals/oat-couture-patterns",
+    "https://www.ravelry.com/patterns/library/curlicue-coverlet",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/report",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/comments",
+    "https://www.ravelry.com/patterns/library/pinwheel-afghan-solid",
+    "https://www.ravelry.com/patterns/sources/oat-couture-yf003",
+    "https://www.ravelry.com/patterns/library/prairie-blanket",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/yarns",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/threads",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/people",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/editors",
+    "https://www.ravelry.com/patterns/sources/oat-couture-on-ravelry"
+  ]
 }

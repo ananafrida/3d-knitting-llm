@@ -1,45 +1,31 @@
 {
   "pattern_id": 1827,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-gift-basket",
-  "name": "Knitted Gift Basket",
-  "description": "We are always looking for fashionable and functional ways to package gifts to eliminate the need for one-time use gift wrap. Our Knitted Gift Basket is a great solution for small gifts. Not only does it have a sweet, handmade touch, but it can serve as a basket for any number of things, including knitting notions or jewelry.",
-  "designer": "Billy and Baa",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sunshine-hexipuff",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "4\" x 4\" x 2.5\"",
+  "category": "Components → Other",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Ewe Ewe Yarns Baa Baa Bulky",
-    "Bulky (7 wpi) ?"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "in-the-round",
-    "phototutorial",
-    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "We are always looking for fashionable and functional ways to package gifts to eliminate the need for one-time use gift wrap. Our Knitted Gift Basket is a great solution for small gifts. Not only does it have a sweet, handmade touch, but it can serve as a basket for any number of things, including knitting notions or jewelry. CONSTRUCTION: The base of the basket is worked flat. Pick up stitches around the square base to create the walls, which are knit in the round. SIZE: approx. 4” x 4” x 2.5” NOTIONS: 4 stitch markers YARN: 75 yards of bulky weight yarn. Sample shown in: Ewe Ewe Baa Baa Bulky * (bulky weight; 100% superwash merino wool; 132 yards (120 m) in Charcoal colorway.* NEEDLES: US 6 (4 mm) and US 5 (3.75 mm). Larger needles are used to work the base and the walls of the basket, while the smaller needles are used to work the lip. Double points or circular needles can be used. See this pattern on www.billyandbaa.com .",
-  "techniques": [
-    "pick up stitches",
-    "worked flat"
-  ],
-  "shape": "sphere",
+  "full_text": "How I modified the Bee Keeper’s Quilt hexipuffs to make a sun-puff. Does not include information on how to make original puff but rather how to build upon a puff.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-gift-basket/editors",
-    "https://www.ravelry.com/patterns/library/knitted-gift-basket/threads",
-    "https://www.ravelry.com/patterns/library/pom-pom-gnome",
-    "https://www.ravelry.com/patterns/sources/billy-and-baa-on-ravelry",
-    "https://www.ravelry.com/patterns/library/knitted-gift-basket/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-gift-basket",
-    "https://www.ravelry.com/patterns/library/pin-pennant",
-    "https://www.ravelry.com/patterns/library/sweater-on-the-elf",
-    "https://www.ravelry.com/patterns/sources/billy-and-baa-website",
-    "https://www.ravelry.com/patterns/library/knitted-gift-basket/report",
-    "https://www.ravelry.com/patterns/library/knitted-gift-basket/comments",
-    "https://www.ravelry.com/patterns/library/knitted-gift-basket/people"
-  ]
+    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/threads",
+    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/editors",
+    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/report",
+    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/yarns",
+    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/people",
+    "https://www.ravelry.com/patterns/sources/ways-to-knit-forever",
+    "https://www.ravelry.com/patterns/library/sunshine-hexipuff",
+    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/comments"
+  ],
+  "name": "Ravelry: Sunshine Hexipuff pattern by Ailish Kelly"
 }

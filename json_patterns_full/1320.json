@@ -1,43 +1,34 @@
 {
   "pattern_id": 1320,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-f-bomb",
-  "name": "The F Bomb",
-  "description": "ERRATA: Row 11 should read K5, not K4. I will edit the .pdf and release an update as soon as I can!",
-  "designer": "Jenifer Spock-Rank",
+  "pattern_page": "https://www.ravelry.com/patterns/library/marshmallows-4",
+  "name": "Marshmallows",
+  "description": "Little knitted marshmallows knitted in dk on 3mm needles but larger /smaller needles can be used",
+  "designer": "Jenny Church",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One Size",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    ""
   ],
   "attributes": [
-    "bottom-up",
-    "duplicate-stitch",
-    "in-the-round",
-    "other-colorwork",
-    "sphere-shaped",
-    "written-pattern"
+    "3-dimensional"
   ],
-  "full_text": "ERRATA: Row 11 should read K5, not K4. I will edit the .pdf and release an update as soon as I can! A super fun stuffed “bomb” - perfect for throwing at those that are irritating you… Finished size is between a baseball and softball, depending on how generous you are with your stuffing. Gauge is not critical to this project. Please note, if you use a larger size needle, you need to go up in yarn weight - a smaller needle helps keep the stuffing inside, without gaps. A small amount of crochet knowledge is helpful, though not necessary - you can always substitute a small icord for the crochet chain that is the fuse. This is not a huge project - I got about 7 bombs out of a skein of Vanna’s Choice.",
+  "full_text": "Little knitted marshmallows knitted in dk on 3mm needles but larger /smaller needles can be used",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-f-bomb/threads",
-    "https://www.ravelry.com/patterns/library/the-f-bomb",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/report",
-    "https://www.ravelry.com/patterns/library/the-thirty-minute-headband",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/yarns",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/editors",
-    "https://www.ravelry.com/patterns/library/sack-o-suds",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/comments",
-    "https://www.ravelry.com/patterns/library/simple-eyelet-dishcloth",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/people",
-    "https://www.ravelry.com/patterns/library/the-f-bomb/posts",
-    "https://www.ravelry.com/patterns/sources/kusala-knitworks-ravelry-store"
+    "https://www.ravelry.com/patterns/library/marshmallows-4/people",
+    "https://www.ravelry.com/patterns/library/marshmallows-4/yarns",
+    "https://www.ravelry.com/patterns/library/marshmallows-4/comments",
+    "https://www.ravelry.com/patterns/library/marshmallows-4",
+    "https://www.ravelry.com/patterns/library/marshmallows-4/report",
+    "https://www.ravelry.com/patterns/library/pumpkin-spice-latte-10",
+    "https://www.ravelry.com/patterns/library/knitted-teabag",
+    "https://www.ravelry.com/patterns/library/marshmallows-4/editors",
+    "https://www.ravelry.com/patterns/library/little-knitted-coffee",
+    "https://www.ravelry.com/patterns/sources/jenny-churchs-ravelry-store"
   ]
 }

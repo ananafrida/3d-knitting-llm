@@ -1,40 +1,35 @@
 {
   "pattern_id": 1138,
-  "pattern_page": "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll",
-  "name": "Poppet the Voodoo Doll",
-  "description": "This fun and easy doll can be completed easily in an evening.",
-  "designer": "Woolly Wiccan",
+  "pattern_page": "https://www.ravelry.com/patterns/library/butterfly-topper",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "Height 6\" (15cm)",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "The Women’s Institute Soft & Silky",
-    "Fingering (14 wpi) ?"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
     "seamed",
+    "sideways",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This fun and easy doll can be completed easily in an evening. There is definitely nothing sinister about this cute doll and is purely just for fun. The pattern is simple to follow - the legs, body and head are completed in one piece, with only the arms joined on separately. Size and gauge isn’t too important on this project and a larger doll can be achieved using a different weight of yarn with the recommended size needles. I am listing this pattern for free so download, cast on and have fun!",
+  "full_text": "Simple to make little butterflies which can be attached to a gift. By adding a ribbon loop you can hang them Uses knit stitches throughout and good for using up scraps of yarn.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/woolly-wiccans-ravelry-store",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/comments",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/editors",
-    "https://www.ravelry.com/patterns/library/wiccan-full-length-robe-cloak",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/threads",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/people",
-    "https://www.ravelry.com/patterns/library/detachable-hood-3",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/report",
-    "https://www.ravelry.com/patterns/library/wiccan-short-length-robe-cloak",
-    "https://www.ravelry.com/patterns/library/poppet-the-voodoo-doll/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/butterfly-topper/editors",
+    "https://www.ravelry.com/patterns/library/butterfly-topper/comments",
+    "https://www.ravelry.com/patterns/library/jumper-for-barbie",
+    "https://www.ravelry.com/patterns/library/easter-outfit-for-5-baby-doll",
+    "https://www.ravelry.com/patterns/library/butterfly-topper/people",
+    "https://www.ravelry.com/patterns/library/butterfly-topper/yarns",
+    "https://www.ravelry.com/patterns/sources/taffy-lass-knits",
+    "https://www.ravelry.com/patterns/library/sweet-pocket-baby",
+    "https://www.ravelry.com/patterns/library/butterfly-topper/report",
+    "https://www.ravelry.com/patterns/library/butterfly-topper"
+  ],
+  "name": "Ravelry: Butterfly Topper pattern by taffylass knits"
 }

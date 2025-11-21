@@ -1,38 +1,35 @@
 {
   "pattern_id": 247,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cabled-bag-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/crosswinds-cowl-2",
+  "name": "Crosswinds Cowl",
+  "description": "Crosswinds Cowl was inspired by my area’s windy climate and the airport by my home - I watch planes all the time from my backyard and on windy days I wonder what it’s like to be in the pilot’s seat. With this cowl, I can think about the wind while not being affected by it!",
+  "designer": "Lauren K",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Thick & Quick",
-    "Super Bulky (5-6 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Lion Brand Schitt's Creek"
   ],
   "attributes": [
-    "cables",
-    "chart",
-    "phototutorial",
-    "seamed",
-    "worked-flat",
-    "written-pattern"
+    "cables"
   ],
-  "full_text": "One skein will make a purse the bag portion of which is 9” wide and 7” deep. Two skeins may be used to make a tote that is 9” wide by 15” deep.",
+  "full_text": "Crosswinds Cowl was inspired by my area’s windy climate and the airport by my home - I watch planes all the time from my backyard and on windy days I wonder what it’s like to be in the pilot’s seat. With this cowl, I can think about the wind while not being affected by it! I used less than an entire ball of my yarn for this, and as gauge isn’t important, you can really use anything as long as you reach the size and width you like. My hope is this cowl will keep you warm and that the process of making it will be super fun!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/edit",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/report",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/people",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/editors",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/yarns",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2",
-    "https://www.ravelry.com/patterns/sources/philos-miscellany",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/comments",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/posts",
-    "https://www.ravelry.com/patterns/library/cabled-bag-2/threads"
-  ],
-  "name": "Ravelry: Cabled Bag pattern by Princess Philo"
+    "https://www.ravelry.com/patterns/library/grandmas-blanket",
+    "https://www.ravelry.com/patterns/library/hourglass-bobble-pillow",
+    "https://www.ravelry.com/patterns/sources/lauren-k-designs-2",
+    "https://www.ravelry.com/patterns/library/crosswinds-cowl-2/people",
+    "https://www.ravelry.com/patterns/library/crosswinds-cowl-2/editors",
+    "https://www.ravelry.com/patterns/library/little-cables-headband",
+    "https://www.ravelry.com/patterns/library/crosswinds-cowl-2/yarns",
+    "https://www.ravelry.com/patterns/library/crosswinds-cowl-2/comments",
+    "https://www.ravelry.com/patterns/library/crosswinds-cowl-2/report",
+    "https://www.ravelry.com/patterns/library/crosswinds-cowl-2"
+  ]
 }

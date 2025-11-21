@@ -1,40 +1,36 @@
 {
   "pattern_id": 1900,
-  "pattern_page": "https://www.ravelry.com/patterns/library/shamrock-12",
-  "name": "Shamrock",
-  "description": "Shamrock - seamróg",
-  "designer": "Samuele Scomparin",
+  "pattern_page": "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "Customisable",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "0-6 months",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Light Fingering ?",
-    "Adriafil Calzasocks"
+    "DK (11 wpi) ?",
+    "Yarn Bee Bamboo-tiful"
   ],
   "attributes": [
-    "in-the-round",
-    "written-pattern"
+    "baby",
+    "seamless",
+    "top-down"
   ],
-  "full_text": "Shamrock - seamróg I love to play with shapes in my knitting and the beauty of increasing and decreasing gives you unexpected wonderful structures. Here’s a little shamrock to celebrate St. Patrick’s day. It is an easy and quick project but the impact is assured! No matter if you turn this into a brooch or an applique, or simply a piece of decoration…once you knit up one, you can’t stop making more. Happy St. Patrick,s Day! CHeck the video tutorial: https://www.youtube.com/watch?v=JIL6f9BnTbI On the construction This pattern is worked in the round, using the magic loop technique on one long circular needle. The Stitches are divided by the two-needle (N1, and N2). Sizes The sizes are customisable. Changing needle size and yarn weigh you can create as many sizes as you wish. The example is knitted in 4 ply sock yarn, on a 2.5mm (US 2) needle, resulting in a 4cm (1.5inch) shamrock. Yarn For this pattern I used Adriafil Calzasocks, 75% superwash virgin wool, 25% nylon polyamide. 50g skein = 210 m (229 yd). Yarn Requirements MC: 1, 50g ball, Adriafil Calzasocks in Acid Green 34 Tension The tension and gauge is based on the type of needle and yarn you’d decide to use. For this project I will give you the power of NOT SWATCHING!!!! Needles Suggestion 2.5mm(US1.5) Long Circular Needles Notions Darning needle Scissors A brooch backing or a safety pin",
-  "techniques": [
-    "worked in the round"
-  ],
-  "shape": "sphere",
+  "full_text": "This adorable and versatile sweater is knit from the top down using size US4 and US6 needles and lightweight yarn. The body of the sweater boasts a cute Estonian Button Stitch pattern that adds the perfect amount of interest. Pattern is for size 0-6 months and makes a wonderful baby shower gift.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cor-cordis",
-    "https://www.ravelry.com/patterns/sources/samuele-scomparins-ravelry-store",
-    "https://www.ravelry.com/patterns/library/shamrock-12/people",
-    "https://www.ravelry.com/patterns/library/shamrock-12/yarns",
-    "https://www.ravelry.com/patterns/library/shamrock-12/comments",
-    "https://www.ravelry.com/patterns/library/alpine-hat-20",
-    "https://www.ravelry.com/patterns/library/shamrock-12",
-    "https://www.ravelry.com/patterns/library/macnas-socks",
-    "https://www.ravelry.com/patterns/library/shamrock-12/report",
-    "https://www.ravelry.com/patterns/library/shamrock-12/threads",
-    "https://www.ravelry.com/patterns/library/shamrock-12/editors"
-  ]
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/classic-crochet-teddy-bear",
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/people",
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan",
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/comments",
+    "https://www.ravelry.com/patterns/library/sweet-ruffle-cardigan",
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/report",
+    "https://www.ravelry.com/patterns/library/hooded-baby-teddy-bear-sweater",
+    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/editors",
+    "https://www.ravelry.com/patterns/sources/knit-paint-sew"
+  ],
+  "name": "Ravelry: Button stitch baby cardigan pattern by Knit Paint Sew"
 }

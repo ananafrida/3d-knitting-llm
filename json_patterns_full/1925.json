@@ -1,37 +1,59 @@
 {
   "pattern_id": 1925,
-  "pattern_page": "https://www.ravelry.com/patterns/library/rainbow-heart-7",
+  "pattern_page": "https://www.ravelry.com/patterns/library/konfekt---cardigan",
+  "name": "Konfekt - cardigan",
+  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
+  "designer": "Agnes Brandels",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
+  "category": "Sweater → Cardigan",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "Width 4¾”, Height 4½”",
+  "sizes_available": "98/104 (110/116) 122/128 (134/140) 146/152 cl XS (S) M (L) XL (2XL) 3XL (4XL)",
   "languages": [
-    "English"
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Svarta Fåret Merino",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "adult",
+    "bottom-up",
+    "buttoned",
+    "buttonholes",
+    "chart",
+    "child",
+    "in-the-round",
+    "long-sleeve",
     "seamless",
-    "top-down",
-    "worked-flat",
+    "steeks",
+    "straight",
+    "stranded",
+    "teen",
     "written-pattern"
   ],
-  "full_text": "A friend asked me this week if I could knit her a little rainbow heart. She wants to add it to a plain cream blanket she is making for a ‘Rainbow Baby’ I thought this was such a lovely idea - so here is my pattern Size: Width 4¾”, Height 4½” Requirements: Small amounts of Red, Orange, Yellow, Green, Blue, Indigo, Violet yarn 3.5mm needles So cute! Perfect for a Rainbow Baby And perhaps for a Pride Decoration too ! To get this free pattern please click on the https link just below ↓",
+  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/letter-square---letter-b",
-    "https://www.ravelry.com/patterns/library/dolls-dress-for-a-5-doll",
-    "https://www.ravelry.com/patterns/library/rainbow-heart-7",
-    "https://www.ravelry.com/patterns/library/rainbow-heart-7/comments",
-    "https://www.ravelry.com/patterns/library/freya-baby-mittens",
-    "https://www.ravelry.com/patterns/library/rainbow-heart-7/people",
-    "https://www.ravelry.com/patterns/library/rainbow-heart-7/editors",
-    "https://www.ravelry.com/patterns/library/rainbow-heart-7/report",
-    "https://www.ravelry.com/patterns/library/rainbow-heart-7/yarns"
-  ],
-  "name": "Ravelry: Rainbow Heart pattern by marianna mel"
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan/report",
+    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
+    "https://www.ravelry.com/patterns/library/vallingby---sweater",
+    "https://www.ravelry.com/patterns/library/rapallo---tights",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan/editors",
+    "https://www.ravelry.com/patterns/library/timmer---socks",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan/people",
+    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
+    "https://www.ravelry.com/patterns/library/konfekt---cardigan/comments"
+  ]
 }

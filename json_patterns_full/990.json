@@ -1,45 +1,39 @@
 {
   "pattern_id": 990,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy",
-  "name": "pokeball pokemon toy",
-  "description": "Knit your own pokeball! This stuffed toy isperfect for catching your very own pokemon.",
-  "designer": "Emma Whittle",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cradle-bag-2",
+  "name": "Cradle Bag",
+  "description": "This knitted cradle, complete with a set of matching bedding, will fit a 5” baby doll or similar size toy. The sides of the cradle fold up over the doll to make a bag and drawstrings keep everything safe inside. An ideal present for a child who can’t leave home without a doll.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
-  "category": "Ball",
+  "category": "Toys and Hobbies → Other",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
-    "English"
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Hayfield Bonus DK"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "amigurumi",
-    "modular",
-    "phototutorial",
-    "seamed",
-    "sphere-shaped",
-    "stranded",
-    "worked-flat",
-    "written-pattern"
+    "icord",
+    "short-rows",
+    "worked-flat"
   ],
-  "full_text": "Knit your own pokeball! This stuffed toy isperfect for catching your very own pokemon. This is a quick and easy to follow knitting pattern suitable for beginners. Everything is knitted flat and sewn together. All you will need is small amounts of DK yarn, US size 6 needles (4mm needles) scissors and a yarn needle. After purchase you will be sent a link to download the pattern and you will have your very own pokeball in no time. Copyright laws apply.",
+  "full_text": "This knitted cradle, complete with a set of matching bedding, will fit a 5” baby doll or similar size toy. The sides of the cradle fold up over the doll to make a bag and drawstrings keep everything safe inside. An ideal present for a child who can’t leave home without a doll. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/people",
-    "https://www.ravelry.com/patterns/library/gyarados-pokemon-toy-plushie",
-    "https://www.ravelry.com/patterns/library/charmander-pokemon-amigurumi-2",
-    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/report",
-    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy",
-    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/threads",
-    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/editors",
-    "https://www.ravelry.com/patterns/sources/littlewhitsknits",
-    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/yarns",
-    "https://www.ravelry.com/patterns/library/pikachu-pokemon-soft-toy-amigurumi",
-    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/comments",
-    "https://www.ravelry.com/patterns/library/pokeball-pokemon-toy/posts"
+    "https://www.ravelry.com/patterns/library/cradle-bag-2/yarns",
+    "https://www.ravelry.com/patterns/library/cradle-bag-2",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/mini-doll-winter-time",
+    "https://www.ravelry.com/patterns/library/mini-doll-summer-time",
+    "https://www.ravelry.com/patterns/library/cradle-bag-2/report",
+    "https://www.ravelry.com/patterns/library/mini-doll-bedtime",
+    "https://www.ravelry.com/patterns/library/cradle-bag-2/threads",
+    "https://www.ravelry.com/patterns/library/cradle-bag-2/editors",
+    "https://www.ravelry.com/patterns/library/cradle-bag-2/comments",
+    "https://www.ravelry.com/patterns/library/cradle-bag-2/people"
   ]
 }

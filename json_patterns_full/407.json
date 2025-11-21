@@ -1,50 +1,40 @@
 {
   "pattern_id": 407,
-  "pattern_page": "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood",
+  "pattern_page": "https://www.ravelry.com/patterns/library/snowy-mountain-ornament",
+  "name": "Snowy Mountain ornament",
+  "description": "The Snowy Mountain ornament is an easy cute pattern, suitable for the beginners.",
+  "designer": "Ekaterina Vorobeva",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "6, 12, 18, 24 months",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "S, L",
   "languages": [
-    "English"
+    "English",
+    "Additional languages which are not in the download: Russian"
   ],
   "suggested_yarn": [
-    "Bernat Forever Fleece Finest",
-    "Worsted (9 wpi) ?"
+    "Garnstudio DROPS Karisma",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "buttoned",
-    "hood",
-    "in-the-round",
-    "long-sleeve",
-    "one-piece",
-    "schematic",
-    "seamless",
-    "tassel",
-    "toddler",
-    "top-down",
-    "unisex",
-    "worked-flat",
+    "chart",
+    "stranded",
+    "triangle-shaped",
     "written-pattern"
   ],
-  "full_text": "Make a seamless knit jacket for your active little toddler. Knit top-down and featuring the beautifully soft and fleecy texture of Bernat Forever Fleece Finest, the hood is picked up along the neck edge and shaped as you knit. Practice knit, knit 2 together, slip slip knit, and increase techniques. Available in 6-24 month sizes, this pattern makes a great first garment project. MATERIALS Bernat® Forever Fleece Finest™ (9.9 oz/280 g; 888 yds/812 m) Sizes 6 12 18 24 mos Aqua Heather (18001) 1 1 1 1 ball Finished chest 6 mos 20” 51 cm 12 mos 22” 56 cm 18 mos 23” 58.5 cm 24 mos 25” 63.5 cm",
-  "techniques": [
-    "top-down"
-  ],
+  "full_text": "The Snowy Mountain ornament is an easy cute pattern, suitable for the beginners. You can hang a finished mountains on your Christmas tree or make a year-around garland. There are 2 sizes of the mountains in the pattern. Smaller is 7 cm high and the bigger is 10 cm high. It´s not required to meet the established gauge, you can use any kind of yarn, but the size of the finished item will change accordingly. The pattern is a great stash buster! Find me on Instagram: @thiscosynest",
+  "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/editors",
-    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/people",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/comments",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/report",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/yarns",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks"
-  ],
-  "name": "Ravelry: Top Down Jacket with Hood pattern by Yarnspirations Design Studio"
+    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/report",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
+    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/people",
+    "https://www.ravelry.com/patterns/library/provence-blouse",
+    "https://www.ravelry.com/patterns/sources/ekaterina-vorobevas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament",
+    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/editors",
+    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/comments",
+    "https://www.ravelry.com/patterns/library/provence-top",
+    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/yarns"
+  ]
 }

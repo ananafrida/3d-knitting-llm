@@ -1,38 +1,45 @@
 {
   "pattern_id": 1121,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mini-snowbuddies",
-  "name": "Mini Snowbuddies",
-  "description": "Construction",
-  "designer": "Esther Braithwaite",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fck-ice-frog-mod",
+  "name": "FCK ICE Frog Mod",
+  "description": "This is an any-gauge pattern for frog eyes which can be sewn onto the top of a hat, balaclava, or headband. It’s kind of meant to pair with my old balaclava pattern Freak Out!, which has now been made free, so go grab that and you’ll have everything you need to make a frog mask! Make the Freak Out piece (also designed for any gauge) in green yarn, then use the same yarn for the eyes, along with white, black, and optional red yarns in the same weight.",
+  "designer": "Lee Meredith",
   "craft": "Knitting",
-  "category": "Softies → Doll",
+  "category": "Applique / Embellishment",
+  "sizes_available": "size as you like",
   "languages": [
     "English"
   ],
+  "suggested_yarn": [
+    "",
+    "Any gauge - designed for any gauge ?"
+  ],
   "attributes": [
-    "bottom-up",
     "in-the-round",
+    "modular",
     "one-piece",
-    "worked-flat"
+    "seamless",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Construction Mini Snowbuddies are knit in one piece from the bottom-up. The doll’s body can be knit flat on straight needles and seamed, or knit in the round on dpns. Simple sewing techniques are used to define the arms and legs after knitting. Very fast and fun to knit, these dolls are designed to be sturdy, safe, and perfect for even the littlest hands to hold. Gauge Exact gauge is not important. Choose a needle 2 or 3 sizes smaller than recommended on the ball band to create a dense fabric that will keep the stuffing hidden Yarn Models are knit from DK yarn on 3.25 mm needles and measure 10cm (4 inches) tall. Abbreviations CO = cast on; K = knit; K2tog = Knit 2 stitches together; Kfb = Knit front and back of the same stitch; P = purl; RS = right side; St(s) = stitch(es); WS = wrong side",
-  "techniques": [
-    "bottom-up",
-    "seamed"
-  ],
-  "shape": "sphere",
+  "full_text": "This is an any-gauge pattern for frog eyes which can be sewn onto the top of a hat, balaclava, or headband. It’s kind of meant to pair with my old balaclava pattern Freak Out! , which has now been made free, so go grab that and you’ll have everything you need to make a frog mask! Make the Freak Out piece (also designed for any gauge) in green yarn, then use the same yarn for the eyes, along with white, black, and optional red yarns in the same weight. The way this pattern works to get any size eyes with any weight yarn (with no gauge swatch!) is to start at the center of the back side of the eye, work your way outwards until it’s the size you want, then switch to the front-eye colors and work your way inwards, mirroring the back half.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/people",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/editors",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/report",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/comments",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/threads",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/posts",
-    "https://www.ravelry.com/patterns/library/winter-folk-friends",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies/yarns",
-    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends"
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/report",
+    "https://www.ravelry.com/patterns/library/pop-hat-4",
+    "https://www.ravelry.com/patterns/sources/lee-merediths-ravelry-store",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/yarns",
+    "https://www.ravelry.com/patterns/sources/lee-meredith-on-payhip",
+    "https://www.ravelry.com/patterns/library/freak-out",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/editors",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/people",
+    "https://www.ravelry.com/patterns/sources/lee-does-stuff-patreon",
+    "https://www.ravelry.com/patterns/library/katarina-hat-2",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/comments",
+    "https://www.ravelry.com/patterns/library/red-nicks-fancy-hat",
+    "https://www.ravelry.com/patterns/sources/lees-ravelry-store",
+    "https://www.ravelry.com/patterns/library/fck-ice-frog-mod/threads"
   ]
 }

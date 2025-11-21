@@ -1,45 +1,42 @@
 {
   "pattern_id": 103,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bright-baby-block",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4",
+  "name": "Bluebird of Happiness",
+  "description": "This little bird will bring you happiness when you make it, and happiness to the one you make it for. Knit in the round, it is one piece from head to tail (which means no seaming), and easily made in an hour or two.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "3\" X 3\"",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
+    "Dutch",
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Sport (12 wpi) ?"
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "Intarsia",
-    "chart",
-    "cube-shaped",
-    "seamed",
-    "square",
-    "stranded",
-    "stripes",
-    "unisex",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round",
+    "one-piece",
+    "seamless",
+    "short-rows"
   ],
-  "full_text": "Pattern includes charts for 6 sides and a diagram for construction. Additional materials include either stuffing or a foam block.",
+  "full_text": "This little bird will bring you happiness when you make it, and happiness to the one you make it for. Knit in the round, it is one piece from head to tail (which means no seaming), and easily made in an hour or two.",
   "techniques": [],
-  "shape": "cube",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bright-baby-block/report",
-    "https://www.ravelry.com/patterns/library/la-dentelle-belle-scarf",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/editors",
-    "https://www.ravelry.com/patterns/library/skully-keychain",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/yarns",
-    "https://www.ravelry.com/patterns/sources/knituition",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/threads",
-    "https://www.ravelry.com/patterns/library/bright-baby-block",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/people",
-    "https://www.ravelry.com/patterns/library/bright-baby-block/comments",
-    "https://www.ravelry.com/patterns/library/wrist-yarn-holder"
-  ],
-  "name": "Ravelry: Bright Baby Block pattern by Teresa Murphy"
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/threads",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/posts",
+    "https://www.ravelry.com/patterns/library/rats",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/yarns",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/report",
+    "https://www.ravelry.com/patterns/sources/knitting-for-beginners---third-edition",
+    "https://www.ravelry.com/patterns/library/henrys-bunny",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/comments",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/editors",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/people",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat"
+  ]
 }

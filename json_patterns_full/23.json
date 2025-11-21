@@ -1,42 +1,44 @@
 {
   "pattern_id": 23,
-  "pattern_page": "https://www.ravelry.com/patterns/library/garter-blanket-square",
-  "name": "Garter Blanket Square",
-  "description": "This is the first blanket square in a project called the “Textured Swatches Blanket”. I’m creating this design to practice my knitting skills and learn new stitches, and I hope you’ll join me on this journey.",
-  "designer": "Jodie Morgan",
+  "pattern_page": "https://www.ravelry.com/patterns/library/spock",
+  "name": "S(p)ock",
+  "description": "Got left-over sock yarn? Looking for something to knit while watching your favorite Sci-Fi or Fantasy movies? How about your own set of pointy ears!",
+  "designer": "Josie Mercier",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "One size fits all",
+  "category": "Costume",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "Adult",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Knit Picks Brava Bulky",
-    "Bulky (7 wpi) ?"
+    "Scheepjes Invicta Extra",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "one-piece",
-    "reversible",
-    "seamless",
-    "square",
-    "textured",
-    "video-tutorial",
-    "worked-flat",
+    "3-dimensional",
+    "adult",
+    "embroidery",
+    "in-the-round",
+    "short-rows",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "This is the first blanket square in a project called the “Textured Swatches Blanket” . I’m creating this design to practice my knitting skills and learn new stitches, and I hope you’ll join me on this journey. The stitch used in this blanket square is called the “Garter Stitch.” I’ll have the full pattern for the blanket ready soon. If you’d like an easy-to-follow tutorial for the stitch used in this pattern for other projects, follow the links below. WRITTEN TUTORIAL - https://knitlikegranny.com/garter-stitch/ VIDEO TUTORIAL - https://youtu.be/FwkavR-cRN0 KNITTING TECHNIQUES YOU NEED TO KNOW The Long Tail Cast On The Knit Stitch Casting Off MATERIALS YOU NEED Straight Knitting Needles Bulky Weight Yarn Scissors A tapestry/yarn needle",
+  "full_text": "Got left-over sock yarn? Looking for something to knit while watching your favorite Sci-Fi or Fantasy movies? How about your own set of pointy ears!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/garter-blanket-square",
-    "https://www.ravelry.com/patterns/library/mini-christmas-bauble-2",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/editors",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/report",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/comments",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/yarns",
-    "https://www.ravelry.com/patterns/library/garter-blanket-square/people",
-    "https://www.ravelry.com/patterns/sources/jodie-morgans-ravelry-store"
+    "https://www.ravelry.com/patterns/sources/yarn-songs",
+    "https://www.ravelry.com/patterns/library/frost-and-twilight-mitts",
+    "https://www.ravelry.com/patterns/library/spock/threads",
+    "https://www.ravelry.com/patterns/library/spock/yarns",
+    "https://www.ravelry.com/patterns/library/spock/people",
+    "https://www.ravelry.com/patterns/library/felted-cloche-10",
+    "https://www.ravelry.com/patterns/library/spock",
+    "https://www.ravelry.com/patterns/library/spock/comments",
+    "https://www.ravelry.com/patterns/library/spock/editors",
+    "https://www.ravelry.com/patterns/library/coffee-and-cream-beanie",
+    "https://www.ravelry.com/patterns/library/spock/report",
+    "https://www.ravelry.com/patterns/sources/mercier-knitting-patterns"
   ]
 }

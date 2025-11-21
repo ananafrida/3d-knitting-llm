@@ -1,36 +1,38 @@
 {
   "pattern_id": 952,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pygmy-puff",
+  "pattern_page": "https://www.ravelry.com/patterns/library/diamond-brocade-blanket",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "14\": adjustable",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Berroco Plush",
-    "Super Bulky (5-6 wpi) ?"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "one-piece",
-    "seamed",
-    "short-rows",
-    "sphere-shaped",
-    "worked-flat"
+    "doll-size",
+    "textured",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "This is a very pretty blanket - perfect for doll’s, preemies and newborn babies. Requirements: DK yarn ~ around 60g for the smallest size, 240g for the biggest size 4mm needles Size: Width – 14” Length – 14” So sweet. To get this free pattern please click on the https link just below ↓",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pygmy-puff/yarns",
-    "https://www.ravelry.com/patterns/library/pygmy-puff/edit",
-    "https://www.ravelry.com/patterns/library/pygmy-puff/report",
-    "https://www.ravelry.com/patterns/library/pygmy-puff/editors",
-    "https://www.ravelry.com/patterns/library/pygmy-puff/threads",
-    "https://www.ravelry.com/patterns/sources/mollys-needles",
-    "https://www.ravelry.com/patterns/library/pygmy-puff/comments",
-    "https://www.ravelry.com/patterns/library/pygmy-puff/people",
-    "https://www.ravelry.com/patterns/library/pygmy-puff"
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket",
+    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
+    "https://www.ravelry.com/patterns/library/mimi-baby-hats",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/comments",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/threads",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/report",
+    "https://www.ravelry.com/patterns/library/carla-premature-baby-hats",
+    "https://www.ravelry.com/patterns/library/old-shale-lace-cardigan",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/editors",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/diamond-brocade-blanket/people"
   ],
-  "name": "Ravelry: Pygmy Puff pattern by Erin (Molly's Needles)"
+  "name": "Ravelry: Diamond Brocade Blanket pattern by marianna mel"
 }

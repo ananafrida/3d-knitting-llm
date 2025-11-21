@@ -1,38 +1,40 @@
 {
   "pattern_id": 905,
-  "pattern_page": "https://www.ravelry.com/patterns/library/avenue-3",
-  "name": "Avenue",
-  "description": "Make the most of that special skein of fingering yarn with the Avenue Scarf! It’s simple garter stitch scarf, with a few polished details, that maximizes the use of yardage and shows of the yarn’s own colours.",
-  "designer": "Galt House of Yarn",
+  "pattern_page": "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Blanket → Baby Blanket",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "30 inches wide x 30 inches long",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Filcolana Tilia"
+    "Sport (12 wpi) ?",
+    "Purl Soho Mulberry Merino"
   ],
   "attributes": [
-    "icord-edging",
-    "one-piece",
-    "worked-flat"
+    "short-rows",
+    "square",
+    "stripes-colorwork",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Make the most of that special skein of fingering yarn with the Avenue Scarf! It’s simple garter stitch scarf, with a few polished details, that maximizes the use of yardage and shows of the yarn’s own colours. Choose from Fingering Weight on its own (A) or add a strand of mohair for a little extra fuzz (B). This scarf is very adaptable for other weights, yarn combinations, or dimensions.",
+  "full_text": "MATERIALS 7 skeins of Purl Soho’s Mulberry Merino , 80% extra fine merino wool, and 20% mulberry silk; or 7 skeins containing approximately 247 yards each of a sport weight yarn Colors A, C, D, E, F: 1 skein (approximately 101 yards) per color Color B: 2 skeins (approximately 505 yards) required. You will also need: US 5 (3.75 mm), 24-inch circular needles GAUGE 20 stitches and 40 rows = 4 inches in garter stitch SIZE Finished Dimensions: Approximately 30 inches wide x 30 inches long",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/avenue-3/editors",
-    "https://www.ravelry.com/patterns/library/avenue-3/report",
-    "https://www.ravelry.com/patterns/library/avenue-3/people",
-    "https://www.ravelry.com/patterns/library/avenue-3",
-    "https://www.ravelry.com/patterns/library/kinbridge",
-    "https://www.ravelry.com/patterns/library/house-hat-3",
-    "https://www.ravelry.com/patterns/library/avenue-3/threads",
-    "https://www.ravelry.com/patterns/library/avenue-3/yarns",
-    "https://www.ravelry.com/patterns/library/avenue-3/comments",
-    "https://www.ravelry.com/patterns/library/selkirk",
-    "https://www.ravelry.com/patterns/sources/galt-house-of-yarn"
-  ]
+    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket",
+    "https://www.ravelry.com/patterns/library/easy-puzzle-blanket",
+    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/posts",
+    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/editors",
+    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/threads",
+    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/people",
+    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/comments",
+    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/report",
+    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket",
+    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: Colorful Wedges Baby Blanket pattern by Purl Soho"
 }

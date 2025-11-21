@@ -1,41 +1,41 @@
 {
   "pattern_id": 337,
-  "pattern_page": "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie",
-  "name": "Elephant Kitty Stuffie",
-  "description": "Will work with any yarn/gauge, adjust to the size you want.",
-  "designer": "LizzieKnits",
+  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-gnome-mouse",
   "craft": "Knitting",
-  "category": "Pet → Toys",
+  "category": "Softies → Doll",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Garnstudio DROPS Kid-Silk",
+    "yarn held together"
   ],
   "attributes": [
-    "embroidery",
+    "3-dimensional",
     "in-the-round",
-    "oval",
-    "seamed",
+    "kitchener",
     "written-pattern"
   ],
-  "full_text": "Will work with any yarn/gauge, adjust to the size you want. Also available at the Craftster forum .",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "Knitting Pattern: Christmas Gnome Mouse Christmas is the perfect time to add a touch of handmade charm to your home. This year, meet your newest festive friend — a sweet little Christmas Gnome Mouse! Dressed in cozy holiday colors, this Free Christmas Gnome Mouse Knitting Pattern is fun, quick, and designed especially for advanced beginners looking to challenge themselves just a bit. Whether you want to hang it on your tree, gift it to a loved one, or enjoy a cozy evening of knitting, this mouse will bring a smile to everyone who sees it. Finished Size 16 cm / 6¼ in Skill Level Advanced beginner Techniques ● Long-tail cast on & Circular cast on ● Knit in the round ● Simple increases and decreases ● Kitchener stitch (for binding off ) ● Mattress stitch (for sewing)",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/yarns",
-    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/people",
-    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/threads",
-    "https://www.ravelry.com/patterns/sources/craftster",
-    "https://www.ravelry.com/patterns/library/breastfeeding-advocacy-dishcloth",
-    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/posts",
-    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/editors",
-    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie",
-    "https://www.ravelry.com/patterns/library/beware",
-    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/comments",
-    "https://www.ravelry.com/patterns/library/breastfeeding-advocacy-dishcloth-tandem-nursing-version",
-    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/report",
-    "https://www.ravelry.com/patterns/sources/suzy-q-homemaker",
-    "http://www.suzyqhomemaker.com/blog/free-pattern-elephant-kitty-stuffie/"
-  ]
+    "https://www.ravelry.com/patterns/library/christmas-gnome-mouse",
+    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs",
+    "https://www.ravelry.com/patterns/library/christmas-gnome-mouse/people",
+    "https://www.ravelry.com/patterns/sources/mou-mou-knits",
+    "https://www.ravelry.com/patterns/library/pinchy-the-crab",
+    "https://www.moumouknits.com/post/a-festive-little-friend-free-christmas-gnome-mouse-knitting-pattern",
+    "https://www.ravelry.com/patterns/library/christmas-gnome-mouse/comments",
+    "https://www.ravelry.com/patterns/library/christmas-gnome-mouse/report",
+    "https://www.ravelry.com/patterns/library/christmas-gnome-mouse/editors",
+    "https://www.ravelry.com/patterns/library/bear-toy-3",
+    "https://www.ravelry.com/patterns/library/christmas-gnome-mouse/yarns"
+  ],
+  "name": "Ravelry: Christmas Gnome Mouse pattern by Mou Mou Knits"
 }

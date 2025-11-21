@@ -1,43 +1,39 @@
 {
   "pattern_id": 728,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mary-pixie",
+  "pattern_page": "https://www.ravelry.com/patterns/library/squishy-baby-blocks",
+  "name": "Squishy Baby Blocks",
+  "description": "I was looking for a pattern for simple, 2” blocks to knit. I found lots of patterns, but none was quite what I wanted, so I just sat down with needles and yarn and put this together. I hope you like it!",
+  "designer": "PJ Allen",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "newborn, infant, sitter/crawler, toddler, child",
+  "category": "Blocks",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Willow Yarns Farmhouse Cotton"
+    "Any Worsted Weight Yarn",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "female",
-    "icord",
-    "lace",
-    "newborn-size",
-    "one-piece",
+    "cube-shaped",
     "seamed",
-    "toddler",
-    "worked-flat"
+    "written-pattern"
   ],
-  "full_text": "Mary Pixie is a classic styled pixie bonnet with a and a simple lace body. I chose to use a cotton yarn so to make it a summer sun protection bonnet, but she would look beautiful in a merino as well. Materials – appx 65-150yds sport weight (size 3) yarn (I used Willow yarns Farmhouse Cotton), size 4 (3.5mm) straight AND dpn, 2 stitch markers, yarn needle Gauge -6sts/in Sizes – newborn, 0-3mth, (3-6mth, 6-12m), toddler, child Appx Finished Measurements – Newborn 5x5ins, infant 6x6ins, sitter/crawler 6.5x6.5ins, toddler 7x7ins, child 7.5x7.5ins (measurements are for bonnet when laid flat) Download this free pattern here",
+  "full_text": "I was looking for a pattern for simple, 2” blocks to knit. I found lots of patterns, but none was quite what I wanted, so I just sat down with needles and yarn and put this together. I hope you like it! As you can see, I chose to embroider uppercase letters on my blocks. If you wish to do the same, just pick a stitch you like (I used the lazy daisy chain stitch ) and go for it! You may stuff with fiberfill, if you wish. I wanted a little more structure, so I cut up 2” upholstery foam to put inside my blocks. I really like it a lot better than using fiberfill for this project. Disclaimer: For all the complaining I did about cutting the foam, it really isn’t hard. DO NOT let that stop you. My complaining is because I wanted my cubes to be 100% perfect, like me…lol! But really, it’s not hard, I promise. You can totally do it! :) Any worsted-weight yarn will do. As a matter of fact, ANY yarn can work! Just make sure that when you knit your squares, they will cover a side of your cube, plus an extra row/column for seaming. Have fun with it!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mary-pixie/yarns",
-    "https://www.ravelry.com/patterns/library/judah-socks",
-    "https://www.ravelry.com/patterns/library/mary-pixie/people",
-    "https://www.ravelry.com/patterns/library/mary-pixie/report",
-    "https://amandammorse.com/free-knitting-pattern-mary-pixie-bonnet/",
-    "https://www.ravelry.com/patterns/library/lil-kitty-hat",
-    "https://www.ravelry.com/patterns/sources/knit-in-the-womb-designs-website",
-    "https://www.ravelry.com/patterns/library/mary-pixie/editors",
-    "https://www.ravelry.com/patterns/library/mary-pixie/comments",
-    "https://www.ravelry.com/patterns/library/peace-beanie-2",
-    "https://www.ravelry.com/patterns/library/mary-pixie",
-    "https://www.ravelry.com/patterns/sources/knit-in-the-womb-designs-ravelry-store"
-  ],
-  "name": "Ravelry: Mary Pixie pattern by Amanda Morse"
+    "https://www.ravelry.com/patterns/sources/prettyknittyjewelry-designs",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/editors",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/threads",
+    "https://www.ravelry.com/patterns/library/easy-peasy-christmas-trees-y-tutorial",
+    "https://www.ravelry.com/patterns/library/mittens-with-a-flap",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/comments",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/report",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/posts",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/yarns",
+    "https://www.ravelry.com/patterns/library/grammas-dishcloth-grandmothers-2nd-favorite",
+    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/people"
+  ]
 }

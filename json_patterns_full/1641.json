@@ -1,59 +1,35 @@
 {
   "pattern_id": 1641,
-  "pattern_page": "https://www.ravelry.com/patterns/library/callisto---baby-cardigan",
-  "name": "Callisto - baby cardigan",
-  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
-  "designer": "Agnes Brandels",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin",
+  "name": "Bring It On, Pumpkin!",
+  "description": "PSL. Pumpkin Pie. Pumpkin carving.",
+  "designer": "Corinne Hawari",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "50/56 (62/68) 74/80 (86/92) cl",
+  "category": "Decorative → Other",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
-    "Danish",
-    "Dutch",
-    "English",
-    "Finnish",
-    "German",
-    "Norwegian",
-    "Swedish",
-    "...and 7 other languages show hide other languages",
-    "...and 7 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Svarta Fåret Merino",
-    "Worsted (9 wpi) ?"
+    "Hawari Bazaar Sultan Chunky",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
-    "buttoned",
-    "chart",
-    "long-sleeve",
-    "newborn-size",
-    "one-piece",
-    "raglan-sleeve",
-    "seamless",
-    "straight",
-    "textured",
-    "worked-flat",
-    "written-pattern"
+    "icord"
   ],
-  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
+  "full_text": "PSL. Pumpkin Pie. Pumpkin carving. You can’t spell autumn without – well, nvm. My point is, autumn would be boring without this gorgeous, bulbous fruit in our pastries, on our stoops and decorating our mantles. The beauty of this pumpkin pattern, besides being so cute, is that its totally customizable. There’s almost no wrong way to make these little guys! The possibilities are practically endless. For example, you can: Cast on any number of stitches you want. Knit as many rows as you’d like. Use any weight of yarn or base you fancy. Flip the tube inside out for a purled pumpkin. Use up your scraps. Marled pumpkins! In this pattern, I’ve suggested a stitch count to go with chunky/bulky weight yarn, but don’t let that stop you from experimenting with your stash! I’d love to see your pumpkins! Feel free to tag me in you makes or use any of our hashtags so I can see you work! @hawaribazaaryarnco on Instagram hawaribazaar, #hawaribazaaryarn , #hawaribazaardesigns I hope you enjoy whipping up these fun little pumpkins! Corinne",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/callisto---baby-bonnet",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/yarns",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/people",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/editors",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-knit-for-babies",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/report",
-    "https://www.ravelry.com/patterns/library/arkiv---vest",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/callisto---baby-cardigan/comments",
-    "https://www.ravelry.com/patterns/library/hailey---baby-socks",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store"
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin",
+    "https://www.ravelry.com/patterns/sources/corinne-hawaris-ravelry-store",
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/people",
+    "https://www.ravelry.com/patterns/library/orbital-mitts",
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/editors",
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/report",
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/comments",
+    "https://www.ravelry.com/patterns/library/bring-it-on-pumpkin/yarns",
+    "https://www.ravelry.com/patterns/library/bonedancer-socks",
+    "https://www.ravelry.com/patterns/library/cielo-mitts"
   ]
 }

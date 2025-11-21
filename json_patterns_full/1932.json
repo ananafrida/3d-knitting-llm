@@ -1,38 +1,56 @@
 {
   "pattern_id": 1932,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knit-flower",
+  "pattern_page": "https://www.ravelry.com/patterns/library/wasaga-cardigan-junior",
+  "name": "Wasaga Cardigan Junior",
+  "description": "Note: The pattern is only free on Ravelry for 24 hours after the pattern release!",
+  "designer": "Vibely Strik",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Sweater → Cardigan",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "1 month -11 years",
   "languages": [
+    "Danish",
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Light Fingering ?",
+    "Lang Yarns Jawoll Superwash 75/25"
   ],
   "attributes": [
+    "baby",
+    "buttonholes",
+    "child",
+    "collar",
+    "icord",
+    "icord-edging",
+    "in-the-round",
+    "long-sleeve",
+    "phototutorial",
+    "positive-ease",
+    "short-rows",
+    "stripes",
+    "stripes-colorwork",
+    "top-down",
+    "video-tutorial",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "No specific yarn, gauge or yardage given. (but it shouldn’t take very much) This flower is fairly small and perfect for embellishing hats.",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/knit-flower/threads",
-    "https://www.ravelry.com/patterns/library/knit-flower",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/the-no-hair-day-hairy-chemo-cap",
-    "https://www.ravelry.com/patterns/library/knit-flower/editors",
-    "https://www.ravelry.com/patterns/library/knit-flower/comments",
-    "https://www.ravelry.com/patterns/library/knit-flower/report",
-    "https://www.ravelry.com/patterns/sources/head-huggers",
-    "https://web.archive.org/web/20190703205523/http://www.headhuggers.org/patterns/flower02k.htm",
-    "https://www.ravelry.com/patterns/library/knit-flower/yarns",
-    "https://www.ravelry.com/patterns/library/knit-flower/posts",
-    "https://www.ravelry.com/patterns/library/knit-flower/people",
-    "https://www.ravelry.com/patterns/library/knit-flower/edit",
-    "https://www.ravelry.com/patterns/library/rolled-brim-chemo-cap",
-    "https://www.ravelry.com/patterns/library/crochet-bunting-2"
+  "full_text": "Note: The pattern is only free on Ravelry for 24 hours after the pattern release! Wasaga Cardigan junior & baby is a light raglan cardigan worked from top to bottom back and forth, in stockinette. This children’s cardigan has the characteristic Wasaga stripes on the sleeve, a deep neck opening for the older sizes and i-cord finishing on the sleeves and body. Since the cardigan is worked top down, it can be tried on along the way, allowing you to customize the sleeve and body length. Workflow: First the back piece and sleeves are shaped with raglan increases and new stitches are cast on for the front pieces. Then sleeve stitches are placed on hold while the rest of the body is worked. The body is then finished with a ribbing edge and i-cord. Sleeves are then worked individually with classic Wasaga stripes on the lower part of the sleeve. Each sleeve is finished with ribbing and an i-cord bind off. Stitches are picked up around the neck and the neckline is then worked in 1x1 ribbing, double knitting and Italian bind off. Stiches are picked up on each side and the button band is then worked in ribbing with buttonholes on the left side and finished with beautiful double knitting and Italian bind off.",
+  "techniques": [
+    "increases"
   ],
-  "name": "Ravelry: Knit Flower pattern by Sue W. Thompson"
+  "shape": "sphere",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/wasaga-cardigan-junior",
+    "https://www.ravelry.com/patterns/sources/vibely-strik",
+    "https://www.ravelry.com/patterns/library/wasaga-cardigan-junior/comments",
+    "https://www.ravelry.com/patterns/library/wasaga-sweater",
+    "https://www.ravelry.com/patterns/library/wasaga-cardigan-junior/people",
+    "https://www.ravelry.com/patterns/library/baden-sweater-mini",
+    "https://www.vibelystrik.eu/patterns/p/wasaga-cardigan-junior-english",
+    "https://www.ravelry.com/patterns/library/hedelyng-slipover-child",
+    "https://www.ravelry.com/patterns/library/wasaga-cardigan-junior/report",
+    "https://www.ravelry.com/patterns/library/wasaga-cardigan-junior/editors",
+    "https://www.ravelry.com/patterns/library/wasaga-cardigan-junior/yarns"
+  ]
 }

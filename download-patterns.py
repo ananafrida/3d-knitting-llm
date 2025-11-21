@@ -202,7 +202,8 @@ def parse_pattern_html(html_text):
     if (not title or title == "") and h1:
         title = h1.get_text(strip=True)
 
-    craft, category = "", ""
+    # ---------Craft----------
+    craft = ""
     field_blocks = soup.find_all("div", class_="field core_item_content__field")
     for fb in field_blocks:
         lab = fb.find("label", class_="core_item_content__label")
@@ -212,14 +213,21 @@ def parse_pattern_html(html_text):
         lab_text = lab.get_text(strip=True).lower()
         if lab_text == "craft":
             craft = val.get_text(strip=True)
-        elif lab_text == "category":
-            spans = val.find_all("span")
-            if spans:
-                category = " → ".join([s.get_text(strip=True) for s in spans if s.get_text(strip=True)])
-            else:
-                category = val.get_text(strip=True)
 
-    return title, craft, category
+    # ---------Category----------
+    categories = []
+
+    category_divs = soup.find_all("div", class_="category")
+
+    for div in category_divs:
+        spans = div.find_all("span")
+        if spans:
+            cat = " → ".join(
+                [s.get_text(strip=True) for s in spans if s.get_text(strip=True)]
+            )
+            if cat:
+                categories.append(cat)
+    return title, craft, categories
 
 # --------------------------
 # Main

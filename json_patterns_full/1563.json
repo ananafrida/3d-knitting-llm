@@ -1,43 +1,49 @@
 {
   "pattern_id": 1563,
-  "pattern_page": "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin",
-  "name": "Handsome Cable Pumpkin",
-  "description": "Perfect for fall! So handsome! So squishy!",
-  "designer": "Sara Kiesel",
+  "pattern_page": "https://www.ravelry.com/patterns/library/port-vell-cowl",
+  "name": "Port Vell Cowl",
+  "description": "Port Vell is the official pattern of the seventh edition of Barcelona Knits Festival, which will take place in Barcelona, Spain, from November 16th-17th.",
+  "designer": "Vanessa Pellisa",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "One size",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "Finished circumference: approx. 50 (115) cm / 20 (46)”.",
   "languages": [
-    "English"
+    "English",
+    "Spanish"
   ],
   "suggested_yarn": [
-    "Lily (Spinrite) Sugar'n Cream Crafter's Cotton Make it Quick Solids",
-    "Worsted (9 wpi) ?"
+    "Lalanalú Nadir",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "cables",
+    "adult",
+    "bottom-up",
+    "chart",
+    "chevron",
     "in-the-round",
     "one-piece",
+    "ribbed",
     "seamless",
-    "sphere-shaped",
+    "textured",
+    "unisex",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "Perfect for fall! So handsome! So squishy! The perfect combination of fall decor and cozy cables. Final pumpkin size is roughly 12-14 inches in diameter, but could vary widely depending on stuffing. Materials needed: Orange worsted weight yarn for pumpkin ~600 yds Brown worsted weight yarn for stem ~25 yds (Stiff yarn will help the stem hold its shape.) Size 2 DPNs Size 6 circular needles (16 or 24 inch should work) Cable needle or extra DPN Stitch markers Stuffing Crochet hook or darning needle Please note: This is my first pattern written and hasn’t been through test knitting. I am not a professional. Please reach out if you run into typos or issues. It’s free for this reason. Update 9/4/21: Revised due to typos at rounds 104 to 107, 115, and 124. Special thanks to RamonaAnne for helping to catch them!",
+  "full_text": "Port Vell is the official pattern of the seventh edition of Barcelona Knits Festival, which will take place in Barcelona, Spain, from November 16th-17th. The pattern is available as a free download from the festival’s website. Click here. En castellano, aquí: https://www.barcelonaknits.com/patron-barcelona-knits-2024/ English version here: https://www.barcelonaknits.com/barcelona-knits-2024-patte... Port Vell is a seamless cowl worked bottom up in the round. It combines three panels of textured motifs framed by ‘welts’ (or ‘tucks’) and 2x2 ribbing edges. The cowl comes in two sizes. The textured panels are inspired by the timeless knit and purl motives of gansey sweaters, which I adore! Also, it is super fun to knit! MEASUREMENTS Size 1 is for a regular-sized cowl. Size 2 can be wrapped around your neck twice. Finished circumference: approx. 50 (115) cm / 20 (46)”. Height: approx. 32.5 (32.5) cm / 13 (13)”. YARN AND YARDAGE Approx 290 (710) m of fingering-weight yarn or 320 (760) m of sport-weight yarn. Sample is knit in Nadir by Lalanalu in colorway ‘Crudo’ (100% Merino Wool, 100 grams, 380 meters). NEEDLES ­— 3.25 mm circular needle (or needle size to obtain gauge). ­— if working the purl welt, 3 mm circular needle (or a size below gauge size needle). Swatch to find the right needle size for your own tension and yarn choice. GAUGE 30 sts x 40 rounds = 10 x 10 cm / 4 x 4” in stockinette stitch on larger needle after blocking. Gauge is not crucial for this project but it will affect yardage and the finished measurements. NOTIONS Blocking tools, scissors, tapestry needle, stitch markers, and tape measure. A row counter might come in handy. Optional: a second set of gauge-size or below-gauge-size needles to work the welts and tubular cast on. Optional: scrap yarn (for the tubular cast-on).",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/posts",
-    "https://www.ravelry.com/patterns/library/socks-machina-socks",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/people",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/report",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/yarns",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin",
-    "https://www.ravelry.com/patterns/sources/sara-kiesels-ravelry-store",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/comments",
-    "https://www.ravelry.com/patterns/library/faux-bow-hairband",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/editors",
-    "https://www.ravelry.com/patterns/library/handsome-cable-pumpkin/threads"
+    "https://www.ravelry.com/patterns/library/port-vell-cowl/editors",
+    "https://www.ravelry.com/patterns/sources/barcelona-knits-festival",
+    "https://www.ravelry.com/patterns/library/marta-beanie",
+    "https://www.ravelry.com/patterns/library/port-vell-cowl",
+    "https://www.barcelonaknits.com/barcelona-knits-2024-pattern/?lang=en",
+    "https://www.ravelry.com/patterns/library/port-vell-cowl/people",
+    "https://www.ravelry.com/patterns/library/port-vell-cowl/report",
+    "https://www.ravelry.com/patterns/library/port-vell-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/vistula-shawl",
+    "https://www.ravelry.com/patterns/library/nicola-hood",
+    "https://www.ravelry.com/patterns/library/port-vell-cowl/comments"
   ]
 }

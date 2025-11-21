@@ -1,56 +1,36 @@
 {
   "pattern_id": 1667,
-  "pattern_page": "https://www.ravelry.com/patterns/library/maja---cardigan",
-  "name": "Maja - cardigan",
-  "description": "Free pattern from Järbo.",
-  "designer": "Hélène Magnússon",
+  "pattern_page": "https://www.ravelry.com/patterns/library/gansey-herring",
+  "name": "Gansey Herring",
+  "description": "The ‘Gansey Herrings’ were created for the Crafting History project at the Time and Tide Museum of Great Yarmouth Life, funded by the Heritage Lottery Fund.",
+  "designer": "Nita Bruce",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "category": "Decorative → Other",
   "languages": [
-    "Danish",
-    "Dutch",
-    "English",
-    "Finnish",
-    "French",
-    "German",
-    "Icelandic",
-    "Norwegian",
-    "Swedish",
-    "...and 9 other languages show hide other languages",
-    "...and 9 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Ístex Léttlopi"
+    "",
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "circular-yoke",
+    "chart",
     "in-the-round",
     "seamless",
-    "stranded",
-    "stripes-colorwork"
+    "written-pattern"
   ],
-  "full_text": "Free pattern from Järbo. January 2022: Some of you seemed to have problems increasing in the sleeves within the motif so I draw a chart for each size: you will find it here . Hope that helps! Kindly, Hélène January 2025: if you like the Maja cardigan, you may enjoy as well Maja Light , the top down DK version (instructions are both for a pullover and cardigan). Warmly, Hélène We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Järbo on Instagram Reseller map jarbo.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be Järbo is a Swedish brand established in 1896. We offer nordic design, selected yarns and accessories in stores and online.",
+  "full_text": "The ‘Gansey Herrings’ were created for the Crafting History project at the Time and Tide Museum of Great Yarmouth Life, funded by the Heritage Lottery Fund. The ‘Gansey Herrings’ celebrate the herring industry in Great Yarmouth and the fisher girls who gutted and knitted their way along the coast following the fish. Each has a unique pattern, adapted from either a traditional fisherman’s gansey design or a pattern created to reference the collections in the museum and surrounding area. Inspiration for these new patterns ranges from the nets, ropes and baskets used in the fishing industry to a butterfly bomb and off-shore wind farm. I have released the pattern to the public, in the spirit of the herring girls sharing their stitch patterns along the coast. Feel free to make your own variations on the herring pattern, but please do not reproduce the pattern for commercial use or personal gain. Charity Donation Although free, if you enjoy this pattern, please consider making a donation to the Marine Conservation Society in celebration of the silver darling that is the herring on my Just Giving page or alternatively, Paypal Me and I will make sure the funds are transferred to MCS Additional Notes The pattern is both charted and written out in full. It includes a full chart/instructions for a ‘Tree of Life’ gansey herring, with an additional ideas sheet for other stitch patterns. The pattern does not include the gill slit for hanging on a speet, as the instructions are quite complex to write out and I didnt expect there to be much demand! However, I will write them up so let me know if you want them!",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/maja-light",
-    "https://www.ravelry.com/patterns/library/maja---cardigan/posts",
-    "https://www.ravelry.com/patterns/library/maja---cardigan/editors",
-    "https://www.ravelry.com/patterns/library/maja---cardigan/report",
-    "https://www.ravelry.com/patterns/library/maja---cardigan",
-    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
-    "https://www.ravelry.com/patterns/library/crowberry-sweater",
-    "https://www.ravelry.com/patterns/library/kristylopi",
-    "https://www.ravelry.com/patterns/library/around-the-world-6",
-    "https://www.ravelry.com/patterns/library/maja---cardigan/people",
-    "https://www.ravelry.com/patterns/library/maja---cardigan/comments",
-    "https://www.ravelry.com/patterns/library/maja---cardigan/threads",
-    "https://www.ravelry.com/patterns/library/maja---cardigan/yarns"
+    "https://www.ravelry.com/patterns/library/gansey-herring/editors",
+    "https://www.ravelry.com/patterns/sources/nita-bruces-ravelry-store",
+    "https://www.ravelry.com/patterns/library/gansey-herring",
+    "https://www.ravelry.com/patterns/library/gansey-herring/comments",
+    "https://www.ravelry.com/patterns/library/gansey-herring/report",
+    "https://www.ravelry.com/patterns/library/gansey-herring/posts",
+    "https://www.ravelry.com/patterns/library/gansey-herring/threads",
+    "https://www.ravelry.com/patterns/library/gansey-herring/yarns",
+    "https://www.ravelry.com/patterns/library/gansey-herring/people"
   ]
 }

@@ -1,39 +1,33 @@
 {
   "pattern_id": 609,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sweet-pea-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fsh-2",
+  "name": "Fsh",
+  "description": "What do you call a fish with no eyes? A fsh!",
+  "designer": "Blue Crafts",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "30\" wide x 40\" long",
+  "category": "Softies → Animal Pet → Toys",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Blue Sky Fibers Multi Cotton",
-    "Worsted (9 wpi) ?"
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
-    "one-piece",
-    "rectangle",
-    "ripple",
-    "worked-flat"
+    "3-dimensional",
+    "in-the-round"
   ],
-  "full_text": "yarn Blue Sky Alpacas Worsted Cotton Multi (100% Cotton; 150 yds / 67 g) 6 skeins, shown in 6804 - Limeade Note:** If you substitute the cotton worsted solid color you may only need 4 skeins.*",
+  "full_text": "What do you call a fish with no eyes? A fsh! Simple little knitted fish I made as toys for my cats.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sweet-pea-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/library/sweet-bon-bon-baby-blanket",
-    "https://www.ravelry.com/patterns/library/sweet-pea-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/madison-scarf-4",
-    "https://www.ravelry.com/patterns/library/sweet-pea-baby-blanket/posts",
-    "https://www.ravelry.com/patterns/library/a-biased-scarf",
-    "https://www.ravelry.com/patterns/library/sweet-pea-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/sweet-pea-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/sweet-pea-baby-blanket",
-    "https://www.ravelry.com/patterns/sources/hill-country-weavers",
-    "https://www.ravelry.com/patterns/library/sweet-pea-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/sweet-pea-baby-blanket/editors"
-  ],
-  "name": "Ravelry: Sweet Pea Baby Blanket pattern by Suzanne Middlebrooks"
+    "https://www.ravelry.com/patterns/library/fsh-2/report",
+    "https://www.ravelry.com/patterns/library/cyclists-best-friend",
+    "https://www.ravelry.com/patterns/library/fsh-2",
+    "https://www.ravelry.com/patterns/library/fsh-2/people",
+    "https://www.ravelry.com/patterns/library/last-minute-snowman-ornament",
+    "https://www.ravelry.com/patterns/library/fsh-2/yarns",
+    "https://www.ravelry.com/patterns/library/fsh-2/editors",
+    "https://www.ravelry.com/patterns/sources/blue-crafts-ravelry-store",
+    "https://www.ravelry.com/patterns/library/fsh-2/comments"
+  ]
 }

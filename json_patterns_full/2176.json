@@ -1,42 +1,47 @@
 {
   "pattern_id": 2176,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hallowig",
+  "pattern_page": "https://www.ravelry.com/patterns/library/dixie-pixie-hat",
+  "name": "Dixie Pixie Hat",
+  "description": "This is a simple Pixie Hat and a lovely pattern that suits both boys and girls.",
+  "designer": "Sandra Magalhães",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Hat → Pixie",
   "languages": [
-    "English"
+    "English",
+    "Portuguese"
   ],
   "suggested_yarn": [
-    "Red Heart Kids Solid",
-    "Aran (8 wpi) ?"
+    "Debbie Bliss Baby Cashmerino",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "negative-ease",
-    "ribbed",
-    "three-needle-bind",
+    "baby",
+    "child",
+    "one-piece",
+    "phototutorial",
+    "toddler",
     "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Description from Knitty.com: I found myself wondering just what I could do with all that cheap, bright acrylic yarn one finds in craft shops. I also found myself thinking about Halloween. Add in a bad hair day and this is what I got. T his wig is worked from the bottom up, the bound off edge is the center part.",
-  "techniques": [],
+  "full_text": "This is a simple Pixie Hat and a lovely pattern that suits both boys and girls. It is worked in one flat piece from the casting on edge rib and working in stocking stitch towards the back of the bonnet, where it has a soft shaping, for the cute pixie peak effect. The hat is then folded in half with a back seam. The bonnet also has a bottom garter stitch edge picked up and knitted afterwards with two straps. The step by step instructions have lots of photos and size colour codes to help you through your knitting project. PATTERN INFORMATION: Available Sizes: 0-3 months, 3-6 months, 6-12 months, 1-2 years, 2-4 years, 4-6 years, 6-10 years. Construction: Knitted flat. Experience level: Advanced Beginner. Yarn: DK weight yarn. Tension: 25 stitches x 34 rows = 10cm / 4” in stocking stitch with 3,5mm (US 4) needles. Yardage: approx. 90 meters-150 meters depending on size. Needles: - 3,5mm (US 4) circular needles. Knitting techniques: Knit, Purl, Ktbl (optional), Ptbl (optional), simple increases and decreases. Language: English and Portuguese. THIS IS A DIGITAL FILE, NOT the actual finished item. YOU CANNOT RESELL MY PATTERN, HOWEVER YOU CAN SELL THE FINISHED ITEM. ©Agasalhos e Bugalhos All Rights Reserved. If you need any information or have any questions regarding this pattern , feel free to contact me. I will be happy to help. Share your finished projects on Instagram tagging @agasalhosebugalhos. I hope you enjoy this pattern!! With love Sandra",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hallowig/posts",
-    "https://www.ravelry.com/patterns/library/hallowig/comments",
-    "https://www.ravelry.com/patterns/library/hallowig/people",
-    "https://www.ravelry.com/patterns/library/hallowig/editors",
-    "https://www.ravelry.com/patterns/library/funny-hat",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/hallowig/yarns",
-    "https://www.ravelry.com/patterns/library/hallowig",
-    "https://www.ravelry.com/patterns/library/hallowig/threads",
-    "https://www.ravelry.com/patterns/sources/knitty-fall-2004",
-    "https://www.ravelry.com/patterns/library/hallowig/report",
-    "https://www.ravelry.com/patterns/library/free-standing-muffler",
-    "https://www.ravelry.com/patterns/library/shocking-pink-coif"
-  ],
-  "name": "Ravelry: Hallowig pattern by Megan Reardon"
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/editors",
+    "https://www.ravelry.com/patterns/library/clover-baby-diaper-cover-20",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/people",
+    "https://www.ravelry.com/patterns/sources/sandra-magalhaes-ravelry-store",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/threads",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/yarns",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/report",
+    "https://www.ravelry.com/patterns/library/maple-baby-overalls",
+    "https://www.ravelry.com/patterns/library/calendula-kids-cardigan",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/comments",
+    "https://www.ravelry.com/patterns/library/dixie-pixie-hat/posts"
+  ]
 }

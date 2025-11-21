@@ -1,32 +1,38 @@
 {
   "pattern_id": 119,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mini-cat-7",
+  "name": "mini cat",
+  "description": "Toy stuffing",
+  "designer": "A knitter",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "4cm",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Banul (바늘이야기) High Soft (하이소프트)"
   ],
   "attributes": [
-    "one-piece",
-    "worked-flat"
+    "video-tutorial",
+    "written-pattern"
   ],
-  "full_text": "This pattern is interchangeable with all types of needles and yarn, as long as the final dimensions are 6 inches across by 3 inches tall. The pattern provided is what we have been using in the office. Once your brick is finished, mail it into: Secular Coalition for America 1012 14th St. NW Suite 205 Washington, DC 20005 https://www.facebook.com/SecularCoalition/photos/gm.65234...",
+  "full_text": "Toy stuffing Tapestry needle 2 Black Doll Eyes size 3mm Pink colored pencil for cheek",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/editors",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/comments",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/people",
-    "https://www.ravelry.com/patterns/sources/secular-coalition-for-america",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/report",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/threads",
-    "https://www.ravelry.com/patterns/library/hobby-lobby-made-me-knitabrick/yarns"
-  ],
-  "name": "Ravelry: Hobby Lobby Made Me #KnitABrick pattern by Secular Coalition for America"
+    "https://www.ravelry.com/patterns/library/sunday-girl-5",
+    "https://www.ravelry.com/patterns/library/mini-cat-7/threads",
+    "https://www.ravelry.com/patterns/library/mini-cat-7",
+    "https://www.ravelry.com/patterns/sources/a-knitter-ravelry-store",
+    "https://www.ravelry.com/patterns/library/little-witch-17",
+    "https://www.ravelry.com/patterns/library/juicy-2",
+    "https://www.ravelry.com/patterns/library/mini-cat-7/yarns",
+    "https://www.ravelry.com/patterns/library/mini-cat-7/report",
+    "https://www.ravelry.com/patterns/library/mini-cat-7/editors",
+    "https://www.ravelry.com/patterns/library/mini-cat-7/people",
+    "https://www.ravelry.com/patterns/library/mini-cat-7/comments"
+  ]
 }

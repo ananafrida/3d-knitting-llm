@@ -1,37 +1,54 @@
 {
   "pattern_id": 22,
-  "pattern_page": "https://www.ravelry.com/patterns/library/easy-c2c-squares",
-  "name": "Easy C2C Squares",
-  "description": "As my store name suggests, I am not really a knitter, I specialise in crochet design… However, I decided to take on a charity challenge to knit every day in October 2022.",
-  "designer": "Rosina Plane",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-halloween-crown",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "squares measure 12 x 12 cm",
+  "category": "Costume",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "Baby, Child, Adult",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Stylecraft Special Double Knit",
-    "DK (11 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Lion Brand Lion Wool Solids"
   ],
   "attributes": [
+    "adult",
+    "baby",
+    "child",
+    "felted",
+    "negative-ease",
+    "one-piece",
+    "seamed",
+    "sideways",
+    "teen",
+    "toddler",
+    "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "As my store name suggests, I am not really a knitter, I specialise in crochet design… However, I decided to take on a charity challenge to knit every day in October 2022. I hadn’t picked up knitting needles for many years, but I did remember making simple corner-to-corner garter stitch squares years ago, and figured that would be an easy project. I also added a simple crochet moss-st edging, but you could add your own favourite knitted border if you prefer. So many people have asked me for the pattern, that I thought I had better write it up! Yarn Requirements You can use any yarn you wish, just make sure the needles you use are appropriate to the yarn. I used a collection of DK (#3 weight) yarn scraps (mainly Stylecraft Special DK) from my stash, and 4.5mm needles. Each square uses around 25m of yarn in total, weighing around 8g when worked with the Special DK",
-  "techniques": [],
+  "full_text": "Lion Brand Pattern #: 70449AD SKILL LEVEL: Easy SIZE: One Size Baby (Child, Adult) Finished Circumference after felting 16 (18, 20) in. 40.5 (45.5, 51) cm Finished Height after felting 5 (6, 7) in. 12.5 (15, 18) cm Lion® Wool (Article #820) 1 (1, 2) balls Knitting Needles - Size 9 [5.5 mm] Needle and sewing thread 3 in. (7.5 cm) length of hook and loop tape Worked flat in garter stitch. Felt the piece (instructions are provided). Sew hook and loop tape to ends of Crown to finish. Crochet version: 70448AD Felted Fall Foilage Crown",
+  "techniques": [
+    "worked flat"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fairy-dust-mosaic",
-    "https://www.ravelry.com/patterns/library/waterside-mosaic",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/threads",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/comments",
-    "https://www.ravelry.com/patterns/sources/rosina-crochets",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/editors",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/people",
-    "https://www.ravelry.com/patterns/library/boo-halloween-mosaic",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/yarns",
-    "https://www.ravelry.com/patterns/library/easy-c2c-squares/report"
-  ]
+    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
+    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
+    "http://www.ravelry.com/patterns/library/felted-fall-foilage-crown",
+    "https://www.ravelry.com/patterns/library/felted-halloween-crown/report",
+    "https://www.ravelry.com/patterns/library/felted-halloween-crown/posts",
+    "https://www.ravelry.com/patterns/library/felted-halloween-crown/editors",
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.ravelry.com/patterns/library/diagonal-eyelet-baby-blanket-2",
+    "https://www.ravelry.com/patterns/library/felted-halloween-crown/edit",
+    "https://www.ravelry.com/patterns/library/felted-halloween-crown/people",
+    "https://www.ravelry.com/patterns/library/felted-halloween-crown/comments",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://www.ravelry.com/patterns/library/felted-halloween-crown",
+    "https://www.ravelry.com/patterns/library/felted-halloween-crown/threads",
+    "https://www.ravelry.com/patterns/library/felted-halloween-crown/yarns",
+    "https://www.lionbrand.com/products/knitting-pattern-felted-halloween-crown-1"
+  ],
+  "name": "Ravelry: Felted Halloween Crown pattern by Lion Brand Yarn"
 }

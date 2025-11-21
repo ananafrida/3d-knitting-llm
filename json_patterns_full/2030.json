@@ -1,39 +1,35 @@
 {
   "pattern_id": 2030,
-  "pattern_page": "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes",
+  "pattern_page": "https://www.ravelry.com/patterns/library/soccer-ball-3",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
-  "sizes_available": "64 (72) st",
-  "languages": [
-    "English"
-  ],
+  "category": "Ball",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "West Yorkshire Spinners Signature 4 ply Self Striping or Patterning"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "pattern-recipe",
-    "video-tutorial",
+    "3-dimensional",
+    "modular",
+    "seamed",
+    "sphere-shaped",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "There are more pattern helps and videos at LiftBridgeYarns.com ! This pattern contains instructions for turning a hand cranked sock tube into a pair of socks! Find all you need in terms of sizing, worksheet/pattern info, and helpful videos for each step of the process at Lift Bridge Yarns . ● Techniques used: Dividing a sock tube, picking up stitches, adding an afterthought heel, adding cuff ribbing, adding a toe. ● Two circular needles or double pointed needles a size or two smaller than you plan to knit with (for picking up stitches). ● Long circular needles or double pointed needles in your preferred sock knitting size. ● Gauge: Average knitters try a US 1, tight knitters try a US 1.5 or 2, loose knitters try a US 0. Try swatching with different needle sizes to match the gauge of your sock tube. As you knit more socks from tubes you’ll figure out which size needle works best for you. ● Scissors ● Tapestry needle",
+  "full_text": "You can use any yarn you want. It’s just a toy.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-signature-4-ply-self-striping-or-patterning/projects",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/edit",
-    "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-signature-4-ply-self-striping-or-patterning",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/comments",
-    "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-signature-4-ply-self-striping-or-patterning/stashes",
-    "https://www.ravelry.com/patterns/sources/lift-bridge-yarns",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/people",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/yarns",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/threads",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/report",
-    "https://www.ravelry.com/patterns/library/making-socks-from-sock-tubes/editors",
-    "https://www.liftbridgeyarns.com/pages/download-free-sock-tube-tutorials"
+    "https://www.ravelry.com/patterns/library/soccer-ball-3/people",
+    "https://www.ravelry.com/patterns/library/soccer-ball-3",
+    "https://www.ravelry.com/patterns/library/soccer-ball-3/yarns",
+    "https://www.ravelry.com/patterns/library/minecraft-pickaxe",
+    "https://www.ravelry.com/patterns/library/soccer-ball-3/editors",
+    "https://www.ravelry.com/patterns/library/monkey-finger-puppet",
+    "https://www.ravelry.com/patterns/library/soccer-ball-3/comments",
+    "https://www.ravelry.com/patterns/sources/yes-i-knit",
+    "https://www.ravelry.com/patterns/library/soccer-ball-3/report",
+    "https://www.ravelry.com/patterns/library/pennys-hat"
   ],
-  "name": "Ravelry: Making Socks from Sock Tubes pattern by Lift Bridge Yarns"
+  "name": "Ravelry: Soccer Ball pattern by Tommy Smith"
 }

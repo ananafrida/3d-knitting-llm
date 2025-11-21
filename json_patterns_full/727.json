@@ -1,40 +1,32 @@
 {
   "pattern_id": 727,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gorro-trasno",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cube-toy-with-heart",
+  "name": "Cube Toy with Heart",
+  "description": "Knitted Cube Toy size: 3.5” x 3.5” x 3.5”",
+  "designer": "knitvana",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "3-6 meses de edad",
+  "category": "Blocks",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "3.5” x 3.5” x 3.5”",
   "languages": [
-    "Spanish"
-  ],
-  "suggested_yarn": [
-    "Garnstudio DROPS Lima",
-    "Sport (12 wpi) ?"
+    "English"
   ],
   "attributes": [
-    "baby",
-    "captioned-video",
-    "icord",
-    "one-piece",
-    "phototutorial",
-    "video-tutorial",
-    "written-pattern"
+    "cube-shaped"
   ],
-  "full_text": "The Trasno hat pattern is completely in Spanish, with step-by-step instructions and tutorial videos where I explain the most difficult parts. With a ball of the Drops design Lima quality I knitted the body of the hat, I had to start another ball to be able to make the i-cord. It is a very quick hat to knit. You can find the pattern completely free on my website, if you need help, contact me",
+  "full_text": "Knitted Cube Toy size: 3.5” x 3.5” x 3.5”",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gorro-trasno/yarns",
-    "https://www.ravelry.com/patterns/library/dave-octopus",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/people",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/report",
-    "https://www.ravelry.com/patterns/library/baby-boots-16",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/editors",
-    "https://www.ravelry.com/patterns/library/gorro-trasno",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/comments",
-    "https://www.ravelry.com/patterns/library/jacket-with-braid",
-    "https://www.ravelry.com/patterns/sources/molan-mis-calcetas"
-  ],
-  "name": "Ravelry: Gorro Trasno pattern by Ana Alfonsin"
+    "https://www.ravelry.com/patterns/library/cube-toy-with-heart",
+    "https://www.ravelry.com/patterns/library/cube-toy-with-heart/editors",
+    "https://www.ravelry.com/patterns/library/cube-toy-with-heart/comments",
+    "https://www.ravelry.com/patterns/sources/knitvanas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/kgeometry-placemat-rectangle-with-99-rhombuses",
+    "https://www.ravelry.com/patterns/library/cube-toy-with-heart/yarns",
+    "https://www.ravelry.com/patterns/library/4-venn-diagrams-pot-holders--coasters",
+    "https://www.ravelry.com/patterns/library/kgeometry-36-squares-placemat-and-pot-holder",
+    "https://www.ravelry.com/patterns/library/cube-toy-with-heart/people",
+    "https://www.ravelry.com/patterns/library/cube-toy-with-heart/report"
+  ]
 }

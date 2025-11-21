@@ -1,37 +1,41 @@
 {
   "pattern_id": 21,
-  "pattern_page": "https://www.ravelry.com/patterns/library/duck-picture-square",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mutant-bunny-hat",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "one-size",
+  "category": "Costume Hat → Other",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "yarn held together",
+    "Malabrigo Yarn Worsted"
   ],
   "attributes": [
-    "seamless",
-    "worked-flat",
+    "adult",
+    "doubleknit",
+    "in-the-round",
+    "teen",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "A cute little duck square ! Requirements: a small amount of DK yarn (around 12g - 15g if you are using acrylic DK)……… a plain self-coloured yarn is best (and probably not black or navy). 4mm needles This is Part 3 of an on-going Friday Night Mystery Knit - a new part will be added each Friday Night for the next few weeks. Each square can be used separately, or together as part of a bigger project. Thank you for joining in. Have fun! And have a great weekend. M To get this free pattern please click on the https link just below ↓",
+  "full_text": "I designed this as a Chanukkah gift for my little sister, and decided to write it up for the world to see. Enjoy! In mine, I used the malabrigo held double and Blizzard singly.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/editors",
-    "https://www.ravelry.com/patterns/library/duck-picture-square",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/threads",
-    "https://www.ravelry.com/patterns/library/whale-picture-square",
-    "https://www.ravelry.com/patterns/library/star-picture-square",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/yarns",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/report",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/comments",
-    "https://www.ravelry.com/patterns/library/duck-picture-square/people",
-    "https://www.ravelry.com/patterns/library/sailboat-picture-square"
+    "http://fiberfiend6891.wordpress.com/free-patterns/mutant-bunny-hat/",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/people",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/comments",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat",
+    "https://www.ravelry.com/patterns/library/rachels-knitting-olympics-poncho",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/editors",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/posts",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/threads",
+    "https://www.ravelry.com/patterns/sources/rachels-ramblings-fiberfiend6891",
+    "https://www.ravelry.com/patterns/library/almost-fingerless-gloves",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/yarns",
+    "https://www.ravelry.com/patterns/library/celtic-socks-2",
+    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/report"
   ],
-  "name": "Ravelry: Duck Picture Square pattern by marianna mel"
+  "name": "Ravelry: Mutant Bunny Hat pattern by Rachel Kurchin"
 }

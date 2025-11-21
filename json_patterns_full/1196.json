@@ -1,10 +1,12 @@
 {
   "pattern_id": 1196,
-  "pattern_page": "https://www.ravelry.com/patterns/library/basic-knit-doll-in-6-sizes",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy",
+  "name": "knit flat, no-sew poppy",
+  "description": "A poppy knit flat that looks like it was knit in the round.",
+  "designer": "Suzanne Resaul",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "5\" toddler, 8\" child, 10\" mother, 12\" father, 4\" baby, 3\" dolly",
+  "category": "Applique / Embellishment",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
@@ -13,28 +15,32 @@
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "circle-shaped",
-    "seamed",
-    "triangle-shaped",
+    "modular",
+    "one-piece",
+    "seamless",
+    "short-rows",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Few things bring more joy to a child than snuggling with their special doll. We have created a basic doll pattern in 6 sizes: 12”, 10”, 8”, 5”, 4”, and 3”, enough to create a whole family or village. THIS IS OUR BASIC KNIT DOLL PATTERN. Over time we will be using this basic pattern to make many different dolls. When we do, we will refer you back to this pattern, and share alterations, embellishments, and perhaps a story or two :)",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/sources/wee-folk-art",
-    "https://www.ravelry.com/patterns/library/basket-weave-dishcloth-13",
-    "https://www.ravelry.com/patterns/library/basic-knit-doll-in-6-sizes/people",
-    "https://www.ravelry.com/patterns/library/wee-folk-art-baby-doll-in-the-round",
-    "https://www.ravelry.com/patterns/library/basic-knit-doll-in-6-sizes/editors",
-    "https://www.ravelry.com/patterns/library/basic-knit-doll-in-6-sizes/posts",
-    "https://www.ravelry.com/patterns/library/basic-knit-doll-in-6-sizes/threads",
-    "https://www.ravelry.com/patterns/library/wool-felted-mitered-bowls",
-    "https://www.ravelry.com/patterns/library/basic-knit-doll-in-6-sizes",
-    "https://www.ravelry.com/patterns/library/basic-knit-doll-in-6-sizes/yarns",
-    "https://www.ravelry.com/patterns/library/basic-knit-doll-in-6-sizes/report",
-    "https://www.ravelry.com/patterns/library/basic-knit-doll-in-6-sizes/comments"
+  "full_text": "A poppy knit flat that looks like it was knit in the round. We made these for an art installation , not to wear. Materials: 9 to 10m of red worsted yarn (I used Red Heart Soft Touch) 1m of black worsted yarn 3.0mm needles yarn needle for weaving ends Pattern Notes: This poppy is worked flat, in garter stitch. Short rows, decreases and wrap & turns shape the petals. There are 2 ways to do this: 1) cast on all 84 sts and work each petal over 21 sts. 2) cast on 21 sts and work 1 petal, then cast on another 21 sts and work the next petal, etc. The only difference in the pattern instructions is that if you do cast on the petals one by one, there is 1 extra row to work before you can CO the next petal. There is no need to pick up the wraps from the W+Ts. Making other sizes with larger or smaller yarn: Use a needle size smaller than the yarn ball suggests. For larger yarns, chunky and bulky, I added 1 more straight row to the black centre before the decrease row, done purls to the front/right side, then if needed, did the decreases as P2tog or K2tog to match right side. Update: 10-Nov-2013 There something going on with one of the last W&Ts of petal 4 (my thanks to jillyflower653 ) where on row 9 you can’t make the W&T so I think I may have just slipped the st and kept going. I’ll try to find time to fix the pattern/file, thought I should mention it here for now at least. 02-Nov-2020 So I should apologize for not trying to fix the error sooner. I’m working on it today and hope to update asap. I think ??? that Rows 9 and 10 should both read K4 where they currently read “K5” and then the w+t works out. OK, I fixed it and changed the pdf. Also I added st counts for each row. I tried to “publish an update” BUT I have no idea if it worked. :(",
+  "techniques": [
+    "decreases",
+    "short rows",
+    "worked flat"
   ],
-  "name": "Ravelry: Basic Knit Doll in 6 Sizes pattern by Kimara Wee Folk Art"
+  "shape": "sphere",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/comments",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/threads",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/editors",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/yarns",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/report",
+    "https://www.ravelry.com/patterns/library/baby-converse-3",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/posts",
+    "https://www.ravelry.com/patterns/sources/loopysue-designs",
+    "https://www.ravelry.com/patterns/library/teapot-turtleneck",
+    "https://www.ravelry.com/patterns/library/knit-flat-no-sew-poppy/people",
+    "https://www.ravelry.com/patterns/library/convertible-halter-tunic-cowl-scarf"
+  ]
 }

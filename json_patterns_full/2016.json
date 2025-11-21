@@ -1,45 +1,38 @@
 {
   "pattern_id": 2016,
-  "pattern_page": "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip",
-  "name": "abgerundete Sockenspitze/rounded sock tip",
-  "description": "Auf der Suche nach einer alternativen Sockenspitze für Socken im Netz, habe ich diverse Spitzen gefunden und auch nachgestrickt. Jedoch liefen mir die meisten zu spitz zu, wodurch mir der Sitz der Socken dann nicht gefiel. Nach einigen Tests habe ich meine eigene Spitze entwickelt, die etwas abgerundeter ist und nicht so spitz zuläuft. Diese Sockenspitze wird nur über 8 bis 12 Runden gestrickt.",
-  "designer": "Bettina Koschlig",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-golden-snitch-2",
+  "name": "The Golden Snitch",
+  "description": "",
+  "designer": "Mandy Harvey",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "Für 36 bis 72 Maschen",
+  "category": "Ball",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "",
-    "Fingering (14 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Paton’s Brilliance"
   ],
   "attributes": [
     "in-the-round",
-    "one-piece",
-    "other-toe",
-    "phototutorial",
-    "top-cuff-down",
-    "top-down",
-    "wide-toe",
+    "seamed",
     "written-pattern"
   ],
-  "full_text": "When I was looking for an alternative sock lace for socks online, I found various lace and also knitted it. However, most of them were too pointed for me, which meant I didn't like the fit of the socks. After some testing, I developed my own tip that is a little more rounded and not so tapered. This sock toe is only knitted over 8 to 12 rounds. Material required: sock yarn, 1 set of needles, 1 crochet hook, 1 needle. The instructions are for 36, 40, 44, 48, 52, 56, 60, 64, 68 and 72 stitches. Looking for an alternative sock tip in the net, I have found various tips and also knitted. However, most of me ran too pointedly, which made me dislike the socks. After some tests, I developed my own tip, which is a little more rounded and not so pointed. This sock tip is only knitted for 8 to 12 rounds. Materials needed: Yarn for socks, 1 double pointed needles, 1 crochet hook, 1 needle This pattern is for 36, 40, 44, 48, 52, 56, 60, 64, 68 and 72 stitches.",
+  "full_text": "",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/posts",
-    "https://www.ravelry.com/patterns/sources/bettina-koschligs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/comments",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/people",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/editors",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/yarns",
-    "https://www.ravelry.com/patterns/library/socken-faaborg",
-    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/report",
-    "https://www.ravelry.com/patterns/library/brioche-me",
-    "https://www.ravelry.com/patterns/library/armband-pamela"
+    "https://www.ravelry.com/patterns/library/pygmy-puff-3",
+    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/people",
+    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/threads",
+    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/editors",
+    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/comments",
+    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/report",
+    "https://www.ravelry.com/patterns/library/pink-squared",
+    "https://www.ravelry.com/patterns/library/mandys-footie-socks",
+    "https://www.ravelry.com/patterns/library/the-golden-snitch-2",
+    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/yarns",
+    "https://www.ravelry.com/patterns/sources/mandys-knits"
   ]
 }

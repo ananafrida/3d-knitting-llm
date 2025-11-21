@@ -1,47 +1,40 @@
 {
   "pattern_id": 576,
-  "pattern_page": "https://www.ravelry.com/patterns/library/malt-2",
-  "name": "Malt",
-  "description": "",
-  "designer": "tincanknits",
+  "pattern_page": "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
   "craft": "Knitting",
-  "category": "Blanket → Throw Blanket → Baby Blanket",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "Stroller (Baby, Crib, Throw)",
+  "category": "Containers",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "sizes_available": "medium",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Sweet Fiber Yarns Cashmerino Worsted",
+    "Cascade Yarns ® Cascade 220®",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "one-piece",
-    "ribbed",
-    "schematic",
+    "3-dimensional",
+    "circle-shaped",
+    "felted",
+    "in-the-round",
     "seamless",
-    "worked-flat",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "Malt - by Tin Can Knits The Malt blanket pattern is now available in the FREE Tin Can Knits app! Click here to download the app, or to learn more. • only see the size instructions you need • tick through the pattern and make notes • support is just a tap away • adjust the settings to suit you! Learn to knit with Alexa and Emily! The Malt Blanket is the first project in The Simple Collection - a learn to knit series with excellent free patterns and clear tutorials. From your first scarf, to mittens, socks, and sweaters, learn all you need to know to make modern seamless knits for the entire family! Want to keep up with Tin Can Knits? Sign up for our email updates and we will let you know about our new designs and great in-depth tutorials . PATTERN INFO Sizing Stroller (Baby, Crib, Throw) Finished blanket measures 26 (30, 36, 48)” wide by 28 (32, 40, 52)” long. Yarn 600 (750, 1200, 2000) yards worsted/aran weight yarn (sample shown in Sweet Fiber Cashmerino Worsted in ‘tea leaves’) Needles US #8 / 5.0 mm needles, 32-48” circular (or as required to meet gauge) Gauge 18 sts and 24 rows/ 4” in stockinette stitch Notions stitch markers, darning needle Helpful Tutorials How to cast on Knit Purl Bind off For all pattern abbreviations, techniques, and to contact us, visit www.tincanknits.com",
+  "full_text": "Actually, I’m not sure I’d call this a bowl if I’m being technical, as it looks a bit more like a vase, but it’s probably closer to a bowl than a vase. I’m using it to hold my reading glasses, so maybe it’s a holder. Both circular and double pointed needles needed.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/malt-2/comments",
-    "https://www.tincanknits.com/pattern/malt?g=1",
-    "https://www.ravelry.com/patterns/library/malt-2/posts",
-    "https://www.ravelry.com/patterns/library/malt-2/people",
-    "https://www.ravelry.com/patterns/library/malt-2/editors",
-    "https://www.ravelry.com/patterns/library/maize-3",
-    "https://www.ravelry.com/patterns/library/wheat-4",
-    "https://www.ravelry.com/patterns/sources/the-simple-collection",
-    "https://www.ravelry.com/bundles/app-patterns",
-    "https://www.ravelry.com/patterns/library/oats",
-    "https://www.ravelry.com/patterns/library/malt-2/threads",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
-    "https://www.ravelry.com/patterns/library/malt-2/report",
-    "https://www.ravelry.com/patterns/library/malt-2/yarns",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/malt-2"
-  ]
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/yarns",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/comments",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/people",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/report",
+    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-smaller-opening",
+    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
+    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/editors",
+    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-bottom-welt",
+    "https://www.ravelry.com/patterns/sources/deborah-does-navel-gazing"
+  ],
+  "name": "Ravelry: Ruffled Felted Bowl pattern by Deborah Gray"
 }

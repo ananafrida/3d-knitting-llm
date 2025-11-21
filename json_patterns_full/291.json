@@ -1,39 +1,41 @@
 {
   "pattern_id": 291,
-  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-mice-2",
-  "name": "Catnip Mice",
-  "description": "",
-  "designer": "Samantha Rogers",
+  "pattern_page": "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
+  "name": "Pretty Izzy Dolls",
+  "description": "Add personality to your charity knitting with new options for dresses and hair.",
+  "designer": "Esther Braithwaite",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Softies → Doll",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "languages": [
-    "English"
+    "English",
+    "Additional languages which are not in the download: Danish"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "seamed",
-    "worked-flat",
+    "chart",
+    "in-the-round",
+    "phototutorial",
     "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "Add personality to your charity knitting with new options for dresses and hair. For more information about the history and legacy of Izzy Dolls in Canada please visit: https://www.hpicanada.ca/ DANISH version now available here: https://strikkeglad.dk/22353/pretty-izzy-dukker/",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/catnip-mice-2/comments",
-    "https://www.ravelry.com/patterns/sources/samanthar5",
-    "https://www.ravelry.com/patterns/library/catnip-mice-2/report",
-    "https://www.ravelry.com/patterns/library/baby-trekkie-washcloth",
-    "https://www.ravelry.com/patterns/library/catnip-mice-2/yarns",
-    "https://www.ravelry.com/patterns/library/catnip-mice-2/threads",
-    "https://www.ravelry.com/patterns/library/catnip-mice-2",
-    "https://www.ravelry.com/patterns/library/fuzzy-brim-baby-bonnet",
-    "https://www.ravelry.com/patterns/library/kinseys-cable-scarf",
-    "https://www.ravelry.com/patterns/library/catnip-mice-2/editors",
-    "https://www.ravelry.com/patterns/library/catnip-mice-2/people"
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/report",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/people",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/posts",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/yarns",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/comments",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/threads",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls/editors"
   ]
 }

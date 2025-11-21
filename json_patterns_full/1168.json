@@ -1,39 +1,39 @@
 {
   "pattern_id": 1168,
-  "pattern_page": "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
-  "name": "Izzy Buddy Boy Dolls",
-  "description": "Add personality to your charity knitting project with instructions for knitting in the round and four sweater options with colourwork and cables.",
-  "designer": "Esther Braithwaite",
+  "pattern_page": "https://www.ravelry.com/patterns/library/everyday-bow",
+  "name": "Èveryday Bow",
+  "description": "The Èveryday Bow was created",
+  "designer": "Èveryday Knits",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "category": "Cozy → Hanger Cover Other Headwear → Other Jewelry → Other Accessories → Other Applique / Embellishment",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "sizes_available": "one size But customizable",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Paintbox Yarns Simply DK"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "cables",
-    "chart",
-    "in-the-round"
+    "rectangle"
   ],
-  "full_text": "Add personality to your charity knitting project with instructions for knitting in the round and four sweater options with colourwork and cables. For more information about the history and legacy of Izzy Dolls in Canada please visit: https://www.hpicanada.ca/",
-  "techniques": [],
-  "shape": "sphere",
+  "full_text": "The Èveryday Bow was created The bow starts at a single point and grows with increases, knit flat in garter stitch. The body has a subtle tilt, giving it a playful, interesting shape. Decreases are worked at the opposite end, keeping the points aligned. The piece is finished with a crochet edge. It’s a small, fun project that’s quick to knit and perfect for a hair elastic, bag, or anywhere you like. Finished Size Length (flat, side to side): approximately 28″ / 71 cm Width (flat, top to bottom): varies slightly depending on gauge and yarn Gauge Measured over garter stitch: varies depending on yarn and needle choice Yarn Worsted weight yarn: 40 g / 75–85 m for main color Optional contrast color: 5 g / 5–10 m Materials 6 mm / US 10 knitting needles Crochet hook no.3 Weaving needle 1 stitch marker Difficulty ★☆☆☆☆- Perfect for beginners",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/threads",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/posts",
-    "https://www.ravelry.com/patterns/library/flower-girls",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/yarns",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/report",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/comments",
-    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/people",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/editors",
-    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls"
+    "https://www.ravelry.com/patterns/library/right-angle-bag",
+    "https://www.ravelry.com/patterns/library/leftover-candy-socks",
+    "https://www.ravelry.com/patterns/library/everyday-bow",
+    "https://www.ravelry.com/patterns/library/everyday-knit-hat",
+    "https://www.ravelry.com/patterns/library/everyday-bow/yarns",
+    "https://www.ravelry.com/patterns/library/everyday-bow/report",
+    "https://www.ravelry.com/patterns/library/everyday-bow/people",
+    "https://www.ravelry.com/patterns/library/everyday-bow/comments",
+    "https://www.ravelry.com/patterns/sources/everyday-knits-ravelry-store",
+    "https://www.ravelry.com/patterns/library/everyday-bow/editors"
   ]
 }

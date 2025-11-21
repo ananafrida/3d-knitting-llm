@@ -1,37 +1,39 @@
 {
   "pattern_id": 1356,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-plumps",
-  "name": "The Plumps",
-  "description": "The name says it all really. These little creatures fit in your hand but will also stand up on their own. They are easy to knit and only use about 20g of yarn. You could make a whole family of Plumps, each with their own personality.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/my-basil-is-haunted-by-a-little-ghost",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "about 7 inches tall",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Caron Simply Soft",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "worked-flat",
+    "amigurumi",
+    "bottom-up",
+    "in-the-round",
+    "one-piece",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "The name says it all really. These little creatures fit in your hand but will also stand up on their own. They are easy to knit and only use about 20g of yarn. You could make a whole family of Plumps, each with their own personality. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "Skills required: knitting in the round, knit into front and back of stitch, knit 2 together. Additional materials required: polyfill stuffing, tapestry needle for finishing, scrap black yarn or fabric paint for face, and yarn or ribbon for around neck. Direct PDF download: My Basil is haunted by a little Ghost!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-plumps/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/homespun-monsters",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/the-plumps/editors",
-    "https://www.ravelry.com/patterns/library/the-plumps/comments",
-    "https://www.ravelry.com/patterns/library/the-plumps/report",
-    "https://www.ravelry.com/patterns/library/the-plumps",
-    "https://www.ravelry.com/patterns/library/the-plumps/people",
-    "https://www.ravelry.com/patterns/library/cobblestone-mats",
-    "https://www.ravelry.com/patterns/library/the-plumps/threads"
-  ]
+    "https://www.ravelry.com/patterns/library/my-basil-is-haunted-by-a-little-ghost/comments",
+    "https://www.ravelry.com/patterns/library/my-basil-is-haunted-by-a-little-ghost/report",
+    "https://www.ravelry.com/patterns/library/my-basil-is-haunted-by-a-little-ghost/yarns",
+    "http://magandmick.files.wordpress.com/2008/10/ghost.pdf",
+    "https://www.ravelry.com/patterns/library/my-basil-is-haunted-by-a-little-ghost",
+    "https://www.ravelry.com/patterns/library/my-basil-is-haunted-by-a-little-ghost/people",
+    "https://www.ravelry.com/patterns/library/my-basil-is-haunted-by-a-little-ghost/threads",
+    "https://www.ravelry.com/patterns/library/my-basil-is-haunted-by-a-little-ghost/edit",
+    "https://www.ravelry.com/patterns/library/my-basil-is-haunted-by-a-little-ghost/editors",
+    "https://www.ravelry.com/patterns/sources/knit-and-rant"
+  ],
+  "name": "Ravelry: My Basil is haunted by a little Ghost! pattern by Trish Albanese"
 }

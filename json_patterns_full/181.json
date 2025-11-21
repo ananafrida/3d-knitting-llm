@@ -1,37 +1,41 @@
 {
   "pattern_id": 181,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cocktail-monkey-bag",
+  "pattern_page": "https://www.ravelry.com/patterns/library/short-dog-long-dog",
+  "name": "Short Dog, Long Dog",
+  "description": "These dogs come straight out of my new picture book! Short Dog, Long Dog is a book all about dogs doing opposites. Because dogs come in all shapes, sizes, barks, and personalities—from huge and tiny to itchy on the head and scratchy on the hiney—they’re the perfect subjects on the topic of antonyms! Find it at Amazon and other major booksellers, and hopefully also at your local bookstore and yarn shop too. (If not, ask them to get it!)",
+  "designer": "Anna Hrachovec",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "A short dog is about 2” (5cm) long; a long dog can be as long as you like!",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Darice Hemp Cord 48 lb."
+    "Cascade Yarns ® Cascade 220®",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "3-dimensional",
     "icord",
-    "in-the-round",
-    "written-pattern"
+    "in-the-round"
   ],
-  "full_text": "Description from Knitty.com: Knit from the bottom up on double point needles, the natural hemp twine gives it that jungle-y look that monkeys love. Although the hemp is stiffer than standard yarn, it is quite workable and provides a sturdy framework for the bag.",
+  "full_text": "These dogs come straight out of my new picture book! Short Dog, Long Dog is a book all about dogs doing opposites. Because dogs come in all shapes, sizes, barks, and personalities—from huge and tiny to itchy on the head and scratchy on the hiney—they’re the perfect subjects on the topic of antonyms! Find it at Amazon and other major booksellers, and hopefully also at your local bookstore and yarn shop too. (If not, ask them to get it!) This free pattern is a quick, simple project that will make a short dog or a long dog—your choice! Either or both will make a fun gift to go with Short Dog, Long Dog . Enjoy!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/yarns",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/editors",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/report",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/threads",
-    "https://www.ravelry.com/patterns/library/wild-stripes",
-    "https://www.ravelry.com/patterns/library/best-friend",
-    "https://www.ravelry.com/patterns/library/oomingmacks",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/comments",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/people",
-    "https://www.ravelry.com/patterns/sources/knitty-spring-2005",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag"
-  ],
-  "name": "Ravelry: Cocktail Monkey Bag pattern by Kristin Goedert"
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/editors",
+    "https://www.ravelry.com/patterns/library/inside-cat",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/threads",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/report",
+    "https://www.ravelry.com/patterns/sources/mochimochi-land-ravelry-store",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/yarns",
+    "https://www.ravelry.com/patterns/library/little-dreidel",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/people",
+    "https://www.ravelry.com/patterns/library/cat-in-a-box",
+    "https://www.ravelry.com/patterns/library/short-dog-long-dog/comments",
+    "https://mochimochiland.com/2025/02/free-pattern-short-dog-long-dog/",
+    "https://www.ravelry.com/patterns/sources/mochimochi-land-website"
+  ]
 }

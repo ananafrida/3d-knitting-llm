@@ -1,39 +1,35 @@
 {
   "pattern_id": 1212,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bottom-up-betty",
-  "name": "bottom up betty",
-  "description": "Using circular needles, the doll is knitted from the feet up.",
-  "designer": "Sarah Walpole",
+  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen",
+  "name": "Christmas Wreath, Santas & Snowmen",
+  "description": "This is the fifth in a series of six patterns for a Christmas Wreath published gradually in December 2022.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "the doll is 10 inches tall",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "in-the-round",
-    "seamless",
-    "short-rows",
-    "written-pattern"
+    "phototutorial"
   ],
-  "full_text": "Using circular needles, the doll is knitted from the feet up. She is ten inches tall - if you want her taller, just make the legs longer. Less than one ball of dk is required, plus wool of your choice for the hair. Also toy stuffing. The face can be embroidered however the fancy takes you. She can be made with or without internal pipe-cleaners.",
+  "full_text": "This is the fifth in a series of six patterns for a Christmas Wreath published gradually in December 2022. Time to add some jollity to the wreath with these little triangular Santas and some snowmen wrapped up with warm scarves and hats. Both of these decorations are knitted with 4 ply yarn - I used yarn with about 400 m / 100g but just use what you have. You will also need some small black seed beads (or replace them with french knots). All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/report",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/yarns",
-    "https://www.ravelry.com/patterns/library/lace-coat-for-doll",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/comments",
-    "https://www.ravelry.com/patterns/sources/knichets-patterns",
-    "https://www.ravelry.com/patterns/library/kate-greenaway-dress-for-doll",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/editors",
-    "https://www.ravelry.com/patterns/library/churros-three-ways",
-    "https://www.ravelry.com/patterns/library/bottom-up-betty/people"
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/yarns",
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/report",
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/editors",
+    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/comments",
+    "https://www.ravelry.com/patterns/library/ten-stitch-hat",
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen",
+    "https://www.ravelry.com/patterns/library/christmas-wreath-santas--snowmen/people",
+    "https://www.ravelry.com/patterns/library/weavies"
   ]
 }

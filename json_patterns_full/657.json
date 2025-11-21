@@ -1,46 +1,33 @@
 {
   "pattern_id": 657,
-  "pattern_page": "https://www.ravelry.com/patterns/library/felted-gnome-hat",
-  "name": "Felted Gnome Hat",
-  "description": "My sister the daycare teacher wanted a gnome hat for her Halloween costume so I came up with this hat that wouldn’t need stuffing to stand up.",
-  "designer": "Yolanda Leung",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fsh-2",
+  "name": "Fsh",
+  "description": "What do you call a fish with no eyes? A fsh!",
+  "designer": "Blue Crafts",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "adult teen child",
+  "category": "Softies → Animal Pet → Toys",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Patons North America Classic Wool Worsted",
-    "Worsted (9 wpi) ?"
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "felted",
-    "female",
-    "in-the-round",
-    "male",
-    "one-piece",
-    "pattern-recipe",
-    "seamless",
-    "teen",
-    "written-pattern"
+    "3-dimensional",
+    "in-the-round"
   ],
-  "full_text": "My sister the daycare teacher wanted a gnome hat for her Halloween costume so I came up with this hat that wouldn’t need stuffing to stand up. I think that it will be very versatile in different colours - for elf hats in green, princess hats in pink or blue, traffic cones in orange, even like chocolate kiss in brown (with shorter intervals between decrease rows and an I-cord top!). Because the hat is felted size is not as critical. To change the size increase or decrease the number of stitches cast on stiches and adjust markers as needed. Please have fun and post your photos.",
+  "full_text": "What do you call a fish with no eyes? A fsh! Simple little knitted fish I made as toys for my cats.",
   "techniques": [],
-  "shape": "cone",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat",
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat/people",
-    "https://www.ravelry.com/patterns/library/versatile-hat-for-pets",
-    "https://www.ravelry.com/patterns/library/felted-mason-jar-cozy-2",
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat/comments",
-    "https://www.ravelry.com/patterns/sources/yolanda-leungs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/eaten-by-a-shark-slippers",
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat/editors",
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat/yarns",
-    "https://www.ravelry.com/patterns/library/felted-gnome-hat/report"
+    "https://www.ravelry.com/patterns/library/fsh-2/report",
+    "https://www.ravelry.com/patterns/library/cyclists-best-friend",
+    "https://www.ravelry.com/patterns/library/fsh-2",
+    "https://www.ravelry.com/patterns/library/fsh-2/people",
+    "https://www.ravelry.com/patterns/library/last-minute-snowman-ornament",
+    "https://www.ravelry.com/patterns/library/fsh-2/yarns",
+    "https://www.ravelry.com/patterns/library/fsh-2/editors",
+    "https://www.ravelry.com/patterns/sources/blue-crafts-ravelry-store",
+    "https://www.ravelry.com/patterns/library/fsh-2/comments"
   ]
 }

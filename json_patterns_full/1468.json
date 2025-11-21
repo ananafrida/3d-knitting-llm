@@ -1,40 +1,39 @@
 {
   "pattern_id": 1468,
-  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-sweaters",
-  "name": "Tiny Sweaters",
-  "description": "Quick handmade gifts for Christmas!",
-  "designer": "Malia Mae Joseph",
+  "pattern_page": "https://www.ravelry.com/patterns/library/folded-purse-2",
+  "name": "Folded Purse",
+  "description": "Purse begins as a long tube with a flap. This is folded in half and sewn to make 3 pockets. The flap forms the closure.",
+  "designer": "Lorna Miser",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "10\" wide by 10\" tall",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "West Wool Tandem",
-    "DK (11 wpi) ?"
+    "Brown Sheep Lana Bouclé",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
-    "raglan-sleeve"
+    "lace"
   ],
-  "full_text": "Quick handmade gifts for Christmas! Tiny Sweaters make delightful little christmas ornaments! They also make great practice projects for those who have never knitted a sweater before and want to give it a try before launching into a larger project.",
+  "full_text": "Purse begins as a long tube with a flap. This is folded in half and sewn to make 3 pockets. The flap forms the closure.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/malia-mae",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters",
-    "https://www.ravelry.com/patterns/library/tiny-kerchiefs",
-    "https://www.ravelry.com/patterns/sources/stephen--penelope",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/yarns",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/report",
-    "https://www.ravelry.com/patterns/library/i-can-knit-myself-flowers",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/people",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/comments",
-    "https://www.ravelry.com/patterns/library/keating-blanket",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/posts",
-    "https://www.ravelry.com/bundles/free-patterns-869",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/threads",
-    "https://www.ravelry.com/patterns/library/tiny-sweaters/editors"
+    "https://www.ravelry.com/patterns/library/folded-purse-2/threads",
+    "https://www.ravelry.com/patterns/library/folded-purse-2",
+    "https://www.ravelry.com/patterns/periodicals/brown-sheep-company",
+    "https://www.ravelry.com/patterns/sources/brown-sheep-company-website",
+    "https://www.ravelry.com/patterns/library/folded-purse-2/comments",
+    "https://www.ravelry.com/patterns/sources/brown-sheep-originals-ravelry-store",
+    "https://www.ravelry.com/patterns/library/folded-purse-2/yarns",
+    "https://www.ravelry.com/patterns/library/special-stripe-sock",
+    "https://www.ravelry.com/patterns/library/baby-bear-knit-hoodie",
+    "https://www.ravelry.com/patterns/library/folded-purse-2/report",
+    "https://www.ravelry.com/patterns/library/folded-purse-2/editors",
+    "https://www.ravelry.com/patterns/library/folded-purse-2/people",
+    "https://www.ravelry.com/patterns/library/baby-bear-crochet-hoodie"
   ]
 }

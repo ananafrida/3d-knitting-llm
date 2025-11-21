@@ -1,29 +1,37 @@
 {
   "pattern_id": 1184,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-mermaid-doll",
-  "name": "Knitted Mermaid Doll",
-  "description": "Difficulty: Medium - Requires ability to change colors, increase, decrease and assemble.",
-  "designer": "Angela chin",
+  "pattern_page": "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt",
+  "name": "Nie wieder ist jetzt",
+  "description": "Nie wieder ist jetzt",
+  "designer": "Daniela Mühlbauer",
   "craft": "Knitting",
-  "category": "Softies → Doll",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Größe je nach Garnstärke und Spruch",
   "languages": [
-    "English"
+    "German"
+  ],
+  "suggested_yarn": [
+    "every yarn"
   ],
   "attributes": [
-    "seamed"
+    "chart",
+    "stranded"
   ],
-  "full_text": "Difficulty: Medium - Requires ability to change colors, increase, decrease and assemble. Size: Dolls measures 14 inches tall Materials: Worsted Weight yarn – You can mix yarn colors to get the combination you’d like: Beige (for skin of doll) Purple for top) Teal (for body and tail) Red (for hair) Poly-fill stuffing Pair of size 4 (US) knitting needles Yarn needle 9mm doll eyes",
+  "full_text": "Never again is now With this template you can knit patches with different sayings against the right. You can then sew the patches onto your hat, clothing, backpack or bag. The template is also suitable for embroidering the sayings in stitches on knitted items or for cross-stitching textiles. You can also put the sayings into your own project, e.g. B. Integrate socks, hats, sweaters and use them as a knitting pattern. What else you can do: Go to demos and demonstrate against the right! Get involved in our democracy, even on a small scale. Show a clear stance against fascism. Size of the patches: depending on the yarn thickness Stitch sample: not important Yarn: any yarn is suitable, you need at least 2 colors of the same yarn size with good contrast Consumption: my patches weigh between 7 and 10 grams Needles and accessories: knitting needles that match your yarn size. I knitted with leftovers in DK thickness (200m/100g) and a 4 mm needle, sewing needle, scissors “Never again is now” means “Never again is now”. It is a slogan against the extreme right.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/editors",
-    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll",
-    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/comments",
-    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/report",
-    "https://www.ravelry.com/patterns/sources/angela-chins-ravelry-store",
-    "https://www.ravelry.com/patterns/library/knitted-sea-witch-doll",
-    "https://www.ravelry.com/patterns/library/pride-and-prejudice-dolls",
-    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/people",
-    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/yarns"
+    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/report",
+    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/comments",
+    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt",
+    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/editors",
+    "https://www.ravelry.com/patterns/sources/daniela-muhlbauers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tennissocken",
+    "https://www.ravelry.com/patterns/library/malabar-cowl",
+    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/yarns",
+    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/people",
+    "https://www.ravelry.com/patterns/library/fck-nzs--stabil",
+    "https://www.ravelry.com/patterns/library/nie-wieder-ist-jetzt/threads"
   ]
 }

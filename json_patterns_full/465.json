@@ -1,45 +1,38 @@
 {
   "pattern_id": 465,
-  "pattern_page": "https://www.ravelry.com/patterns/library/light-as-a-feather-cowl-2",
-  "name": "Light As A Feather Cowl",
-  "description": "The Light As A Feather Cowl design is a collaboration with Campfiber Yarns to explore their gorgeous new Yak Silk DK yarn. The result is a soft, stretchy, lightweight, easy-to-wear cowl, full of beautiful texture. This tube cowl is knit in one solid colour from bottom to top, featuring ribbing on both ends, and deliciously squishy waffle texture in the middle.",
-  "designer": "Katie Herrod",
+  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
+  "name": "Christmas Candle ornament",
+  "description": "The cutest and essential Christmas ornament! The candle is knitted bottom up in the round, easy to work on and suitable for the beginners.",
+  "designer": "Ekaterina Vorobeva",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One size: 22” circumference x 10” tall",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "S",
   "languages": [
-    "English"
+    "English",
+    "Russian"
   ],
   "suggested_yarn": [
-    "Campfiber Yarns Yak DK",
+    "Garnstudio DROPS Karisma",
     "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "in-the-round",
-    "one-piece",
-    "positive-ease",
-    "ribbed",
-    "seamless",
-    "teen",
-    "textured",
     "written-pattern"
   ],
-  "full_text": "The Light As A Feather Cowl design is a collaboration with Campfiber Yarns to explore their gorgeous new Yak Silk DK yarn. The result is a soft, stretchy, lightweight, easy-to-wear cowl, full of beautiful texture. This tube cowl is knit in one solid colour from bottom to top, featuring ribbing on both ends, and deliciously squishy waffle texture in the middle. Look for my other patterns in the Light As A Feather family! SIZE 22” circumference x 10” tall YARN Approximately 215 yards/195 meters of DK weight yarn, recommended in a solid or tonal colour to show the texture Sample shown in Campfiber Yarns Yak Silk DK in Night Flight (231 yards/211 meters/100 grams) SUGGESTED NEEDLES US 6/4.0 mm (or size required to obtain gauge) 16”/40 cm circular needle, DPNs, or long circular needles for the “magic loop” method GAUGE 21 sts and 35 rows per 4”/10 cm, measured over waffle stitch knit in the round, after blocking This pattern has been thoroughly test knit by knitters with a variety of experience.",
+  "full_text": "The cutest and essential Christmas ornament! The candle is knitted bottom up in the round, easy to work on and suitable for the beginners. You can hang a candle on your Christmas tree or make a garland. It´s not required to meet the established gauge, you can use any kind of yarn, but the size of the finished item will change accordingly. The pattern is a great stash buster! Find me on Instagram: @thiscosynest",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/light-as-a-feather-hat-dk",
-    "https://www.ravelry.com/patterns/library/light-as-a-feather-cowl-2/yarns",
-    "https://www.ravelry.com/patterns/library/light-as-a-feather-cowl-2/people",
-    "https://www.ravelry.com/patterns/sources/songbird-handmade-ravelry-store",
-    "https://www.ravelry.com/patterns/library/light-as-a-feather-cowl-2/report",
-    "https://www.ravelry.com/patterns/library/light-as-a-feather-mitts",
-    "https://www.ravelry.com/patterns/library/light-as-a-feather-cowl-2",
-    "https://www.ravelry.com/patterns/library/light-as-a-feather-cowl-2/editors",
-    "https://www.ravelry.com/patterns/library/mimidae-socks",
-    "https://www.ravelry.com/patterns/library/light-as-a-feather-cowl-2/comments"
+    "https://www.ravelry.com/patterns/library/normandie-tee",
+    "https://www.ravelry.com/patterns/sources/ekaterina-vorobevas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sweet-home-sweater-3",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/people",
+    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/yarns",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/editors",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/report",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/threads",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/comments",
+    "https://www.ravelry.com/patterns/library/christmas-candle-ornament"
   ]
 }

@@ -1,41 +1,40 @@
 {
   "pattern_id": 640,
-  "pattern_page": "https://www.ravelry.com/patterns/library/freds-hat",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mini-traffic-cones",
+  "name": "Mini Traffic Cones",
+  "description": "A quick knit using just a bit of any worsted weight yarn. Fun for cat toys, or human toys.",
+  "designer": "Sarah Jenkins",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
-  "sizes_available": "one size, very stretchy",
+  "category": "Pet → Toys Toys and Hobbies → Other",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Hedgehog Fibres Super Bulky",
-    "Super Bulky (5-6 wpi) ?"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
+    "3-dimensional",
     "in-the-round",
-    "one-piece"
+    "seamless",
+    "written-pattern"
   ],
-  "full_text": "Quick and fun ribbed baby hat One size only, but very stretchy fabric will fit a variety of baby head sizes Our model Freddie is 6 months old in these pictures. Yarn: 1 skein of Hedgehog Fibres Super Bulky (82m/150g) Colourway pictured: Fool’s Gold Needle: 10mm / US 15 circular or double pointed needles, the hat is worked in the round. Adjust needle size to obtain correct gauge. Gauge: 13 stitches and 13 rows = 4’’/10cm in 1x1 rib pattern, unstretched.",
-  "techniques": [
-    "worked in the round"
-  ],
-  "shape": "sphere",
+  "full_text": "A quick knit using just a bit of any worsted weight yarn. Fun for cat toys, or human toys.",
+  "techniques": [],
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/freds-hat/threads",
-    "https://www.ravelry.com/patterns/library/freds-hat/people",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
-    "https://www.ravelry.com/patterns/library/tweedy-junior",
-    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
-    "https://www.ravelry.com/patterns/library/freds-hat/comments",
-    "https://www.ravelry.com/patterns/library/freds-hat/report",
-    "https://www.ravelry.com/patterns/library/souffle-tee",
-    "https://www.ravelry.com/patterns/library/freds-hat",
-    "https://www.ravelry.com/patterns/library/freds-hat/yarns",
-    "https://www.ravelry.com/patterns/library/freds-hat/editors",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/freds-hat"
-  ],
-  "name": "Ravelry: Fred's Hat pattern by Beata Jezek"
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/editors",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/yarns",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/threads",
+    "https://www.ravelry.com/patterns/library/library-socks",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/people",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/posts",
+    "https://www.ravelry.com/patterns/library/bel-ami-beret",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/comments",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones/report",
+    "https://www.ravelry.com/patterns/library/bel-ami-mitts",
+    "https://www.ravelry.com/patterns/sources/prairie-knitters-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/mini-traffic-cones"
+  ]
 }

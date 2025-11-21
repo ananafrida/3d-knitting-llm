@@ -1,48 +1,39 @@
 {
   "pattern_id": 538,
-  "pattern_page": "https://www.ravelry.com/patterns/library/apiarist-cowl",
-  "name": "Apiarist Cowl",
-  "description": "The Apiarist Cowl boasts loads of texture, in a fun honeycomb formation throughout, with a simple, versatile ribbed cuff on both ends. Created with DK and Mohair, it offers the perfect sense of cozy for those cooler months, while not being overbearing or having shawl ends always coming untucked. Quick, simple, yet oh so satisfying.",
-  "designer": "Claire Borchardt",
+  "pattern_page": "https://www.ravelry.com/patterns/library/dotty-pots",
+  "name": "Dotty Pots",
+  "description": "These little pots fit in the palm of your hand but are sturdy enough to stand up on their own. You will only need about 15g of double knitting weight yarn to knit a Dotty Pot and a much smaller amount of variegated yarn for the dots. They are knitted in the round and are fun to knit - much easier than they look. Instructions are also included for a bigger pot.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One size - Teen / Adult",
+  "category": "Containers",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "yarn held together"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "cables",
-    "chart",
-    "female",
     "in-the-round",
-    "ribbed",
-    "slipped-stitches",
-    "teen",
-    "textured",
-    "written-pattern"
+    "one-piece",
+    "slipped-stitches"
   ],
-  "full_text": "The Apiarist Cowl boasts loads of texture, in a fun honeycomb formation throughout, with a simple, versatile ribbed cuff on both ends. Created with DK and Mohair, it offers the perfect sense of cozy for those cooler months, while not being overbearing or having shawl ends always coming untucked. Quick, simple, yet oh so satisfying. Yarn: You’ll need a full skein of DK (appx 230+ yards) and a skein of Mohair or Suri Silk. If mohair isn’t your thing (or allergies), you can knit it with a single strand of worsted weight yarn. Needles: 20” US6/4mm US6/4mm DPNs (optional) Cable Needle",
+  "full_text": "These little pots fit in the palm of your hand but are sturdy enough to stand up on their own. You will only need about 15g of double knitting weight yarn to knit a Dotty Pot and a much smaller amount of variegated yarn for the dots. They are knitted in the round and are fun to knit - much easier than they look. Instructions are also included for a bigger pot. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/apiarist-cowl/comments",
-    "https://www.ravelry.com/patterns/sources/autumn-and-indigo-ravelry-store",
-    "https://www.ravelry.com/patterns/library/northbound-mitts-2",
-    "https://www.ravelry.com/patterns/library/color-block-beanie-4",
-    "https://www.ravelry.com/patterns/library/apiarist-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/apiarist-cowl/posts",
-    "https://www.ravelry.com/patterns/library/apiarist-cowl/people",
-    "https://www.ravelry.com/patterns/library/apiarist-cowl/editors",
-    "https://www.ravelry.com/patterns/library/apiarist-cowl/report",
-    "https://www.ravelry.com/patterns/library/apiarist-cowl/threads",
-    "https://www.ravelry.com/patterns/library/but-first-socks",
-    "https://www.ravelry.com/patterns/library/apiarist-cowl"
+    "https://www.ravelry.com/patterns/library/dotty-pots",
+    "https://www.ravelry.com/patterns/library/needle-tree",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/dotty-pots/posts",
+    "https://www.ravelry.com/patterns/library/dotty-pots/editors",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak",
+    "https://www.ravelry.com/patterns/library/dotty-pots/comments",
+    "https://www.ravelry.com/patterns/library/dotty-pots/threads",
+    "https://www.ravelry.com/patterns/library/dotty-pots/people",
+    "https://www.ravelry.com/patterns/library/dotty-pots/report",
+    "https://www.ravelry.com/patterns/library/dotty-bag-2",
+    "https://www.ravelry.com/patterns/library/dotty-pots/yarns"
   ]
 }

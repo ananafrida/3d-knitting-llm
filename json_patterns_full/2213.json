@@ -1,42 +1,50 @@
 {
   "pattern_id": 2213,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jordannas-beard",
-  "name": "Jordanna's Beard",
-  "description": "My friend Jordanna has always wanted a beard. All of her male relatives have luxurious beards and she can’t have one because she’s a girl.",
-  "designer": "Jessica Bechard",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap",
+  "name": "Lizzikin's Pixie Cap",
+  "description": "A fun to wear pixie style cap featuring purl ridge rings around the bottom of the cap, and an i-cord and tassel to complete the top.",
+  "designer": "YaYa Lovestoknit",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "one size",
+  "category": "Hat → Pixie",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "teen/small adult",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Bernat Cottontots Solid",
-    "Worsted (9 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Queensland Collection Brisbane"
   ],
   "attributes": [
+    "adult",
     "bottom-up",
-    "seamed",
-    "selvedge",
-    "triangle-shaped",
-    "worked-flat",
+    "child",
+    "icord",
+    "in-the-round",
+    "one-piece",
+    "ribbed",
+    "seamless",
+    "teen",
+    "unisex",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "My friend Jordanna has always wanted a beard. All of her male relatives have luxurious beards and she can’t have one because she’s a girl. So I made her a beard.",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "A fun to wear pixie style cap featuring purl ridge rings around the bottom of the cap, and an i-cord and tassel to complete the top. The hat is knit in the round using simple knit and purl stitches, and easy decreases to create the top of the hat. Links are included to tutorials for knitting the i-cord and making the tassel. The sample hat was knit using a self-striping yarn, but this pattern would be suitable for anyone wishing to use up leftover balls of yarn.",
+  "techniques": [
+    "decreases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jordannas-beard/people",
-    "https://www.ravelry.com/patterns/library/jordannas-beard/posts",
-    "https://www.ravelry.com/patterns/library/jordannas-beard",
-    "https://www.ravelry.com/patterns/library/ben--jerrys-cozy",
-    "https://www.ravelry.com/patterns/library/lt-dan",
-    "https://www.ravelry.com/patterns/library/jordannas-beard/report",
-    "https://www.ravelry.com/patterns/library/water-pistol-cozy",
-    "https://www.ravelry.com/patterns/library/jordannas-beard/editors",
-    "https://www.ravelry.com/patterns/library/jordannas-beard/comments",
-    "https://www.ravelry.com/patterns/library/jordannas-beard/yarns",
-    "https://www.ravelry.com/patterns/sources/que-sera-sera--what-have-you"
+    "https://www.ravelry.com/patterns/library/crossing-the-tracks",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/threads",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/editors",
+    "https://www.ravelry.com/patterns/library/x-marks-the-spot-7",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/yarns",
+    "https://www.ravelry.com/patterns/sources/yaya-lovestoknit",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap",
+    "https://www.ravelry.com/patterns/library/sea-cruise",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/report",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/comments",
+    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/people"
   ]
 }

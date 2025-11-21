@@ -1,43 +1,38 @@
 {
   "pattern_id": 661,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jester-hat",
-  "name": "Jester Hat",
-  "description": "The Jester is a quick-to-knit and whimsical hat, knit in the round, with I-cord and attached ball on top. Choose a soft super-bulky yarn and knit tightly to keep out the wind and cold. The idea of knitting a ball as a hat topper came Anna Zilboorg’s 45 Fine and Fanciful Hats.",
-  "designer": "Elizabeth Morrison",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-mouse",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "Adult sizes M & L",
+  "category": "Pet → Toys",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Super Bulky (5-6 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Brown Sheep Nature Spun Sport"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
+    "bobble-or-popcorn",
+    "felted",
     "icord",
-    "in-the-round",
-    "seamless",
-    "tassel"
+    "seamed",
+    "worked-flat"
   ],
-  "full_text": "The Jester is a quick-to-knit and whimsical hat, knit in the round, with I-cord and attached ball on top. Choose a soft super-bulky yarn and knit tightly to keep out the wind and cold. The idea of knitting a ball as a hat topper came Anna Zilboorg’s 45 Fine and Fanciful Hats. 2 adult sizes, M and L with 22 and 24 inch circumfrences respectively. Many have modified for babies and children by using worsted weight yarn and smaller needles. Requires 100 grams of bulky weight yarn, no yardage given.",
+  "full_text": "No yardage or gauge given. Pattern notes that any sportweight, 100% wool yarn that is feltable can be used. Additional Materials: Small amount of embroidery floss, pearl cotton or matt embroidery cotton for eyes and whiskers (optional as these are for cats to chew on) Unspun wool and catnip for stuffing (you could also use fiber fill or cotton balls)",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jester-hat/editors",
-    "https://www.ravelry.com/patterns/library/jester-hat/comments",
-    "https://www.ravelry.com/patterns/library/jester-hat",
-    "https://www.ravelry.com/patterns/sources/sweater-studio-2",
-    "https://www.ravelry.com/patterns/library/scrappy-tube-scarf",
-    "https://www.ravelry.com/patterns/library/jester-hat/yarns",
-    "https://www.ravelry.com/patterns/library/jester-hat/posts",
-    "https://www.ravelry.com/patterns/library/jester-hat/report",
-    "https://www.ravelry.com/patterns/library/scrappy-toque",
-    "https://www.ravelry.com/patterns/library/easy-pussy-hat",
-    "https://www.ravelry.com/patterns/library/jester-hat/threads",
-    "https://www.ravelry.com/patterns/library/jester-hat/people"
-  ]
+    "https://www.ravelry.com/patterns/sources/knitting-on-the-net",
+    "https://www.ravelry.com/patterns/library/felted-mouse/editors",
+    "https://www.ravelry.com/patterns/library/felted-mouse/edit",
+    "https://www.ravelry.com/patterns/library/felted-mouse/threads",
+    "http://www.knittingonthenet.com/patterns/petsmouse.htm",
+    "https://www.ravelry.com/patterns/library/felted-mouse/posts",
+    "https://www.ravelry.com/patterns/library/felted-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/felted-mouse/report",
+    "https://www.ravelry.com/patterns/library/felted-mouse",
+    "https://www.ravelry.com/patterns/library/felted-mouse/comments",
+    "https://www.ravelry.com/patterns/library/felted-mouse/people"
+  ],
+  "name": "Ravelry: Felted Mouse pattern by Jo Chandler"
 }

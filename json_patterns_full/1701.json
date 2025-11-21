@@ -1,39 +1,51 @@
 {
   "pattern_id": 1701,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes",
-  "name": "Mini Loaves and Fishes",
-  "description": "This pattern is for making small plush loaves and fishes. Great for Sunday School lessons (please stitch on eyes rather than using the plastic kind if you are using these with small children); or for anyone who just needs a reminder to be faithful with your offering, and to let God do the rest.",
-  "designer": "Jennifer Tricarico",
+  "pattern_page": "https://www.ravelry.com/patterns/library/barley-dk",
+  "name": "Barley DK",
+  "description": "",
+  "designer": "tincanknits",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Newborn (Baby, Toddler, Child, Adult S, M, L)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Sport (12 wpi) ?"
+    "DK (11 wpi) ?",
+    "Rainbow Heirloom Sweater"
   ],
   "attributes": [
-    "3-dimensional",
-    "circle-shaped",
+    "adult",
+    "baby",
+    "bottom-up",
+    "child",
     "in-the-round",
-    "kitchener",
-    "modular",
-    "oval",
-    "worked-flat"
+    "newborn-size",
+    "schematic",
+    "seamless",
+    "teen",
+    "toddler",
+    "written-pattern"
   ],
-  "full_text": "This pattern is for making small plush loaves and fishes. Great for Sunday School lessons (please stitch on eyes rather than using the plastic kind if you are using these with small children); or for anyone who just needs a reminder to be faithful with your offering, and to let God do the rest. I used scrap yarn in my stash for this pattern - one skein of whatever yarn you choose for the bread is likely more than enough. I’m not a professional pattern writer and I’m guessing on yarn quantity! The fish were made out of spare sock yarn I had laying around. These were a little fiddly, but so worth it. I’m sure you can make a large sized set just by using larger needles and more substantial yarn. I’d love to see your projects! Blessings, Jennifer",
+  "full_text": "Barley DK - by Tin Can Knits The Barley DK pattern is now available in the FREE Tin Can Knits app! Click here to download the app, or to learn more. • only see the size instructions you need • tick through the pattern and make notes • support is just a tap away • adjust the settings to suit you! Learn to knit with Alexa and Emily! The Barley hat is the fourth project in The Simple Collection - a learn to knit series with excellent free patterns and clear tutorials. From your first scarf, to mittens, socks, and sweaters, learn everything you need to know to make modern seamless knits for all of your loved ones. Want to keep up with Tin Can Knits? Sign up for our email updates and we will let you know about our new designs and great in-depth tutorials . PATTERN INFO Note: Looking for a lightweight version of this hat? Check out the Barley Light hat here. Sizing Newborn (Baby, Toddler, Child, Adult S, M, L ) Fits head approximately 14 (16, 17.5, 19, 21, 22.5, 23.5 )” around. note about samples - the hat can be knit as a snug beanie by knitting to length per the pattern. For a slouchier hat simply knit an extra inch or so in length before decreasing. Yarn: 100 (120, 140, 160, 190, 220, 240 ) yards DK weight yarn Gauge: 22 sts and 30 rounds/ 4” in stockinette stitch on larger needles Needles: US #4 / 3.5mm US #6 / 4mm (or as required to meet gauge) Newborn & Baby sizes: you will need either DPNs or a long circular for magic loop technique in each size. Toddler to Adult L: you will need a 16” circular and either DPNs or a long circular for magic loop technique in each size. Notions: stitch markers, darning needle Helpful tutorials Let’s Knit a Hat For all pattern abbreviations, techniques, and to contact us, visit www.tincanknits.com",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/yarns",
-    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/report",
-    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/comments",
-    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes",
-    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/people",
-    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/threads",
-    "https://www.ravelry.com/patterns/library/mini-loaves-and-fishes/editors",
-    "https://www.ravelry.com/patterns/sources/jennifer-tricaricos-ravelry-store"
+    "https://www.ravelry.com/patterns/library/barley-dk/posts",
+    "https://www.ravelry.com/patterns/library/oats",
+    "https://www.ravelry.com/patterns/library/barley-dk/report",
+    "https://www.ravelry.com/patterns/library/barley-dk/people",
+    "https://www.ravelry.com/patterns/library/barley-dk/editors",
+    "https://www.ravelry.com/patterns/library/barley-dk",
+    "https://www.ravelry.com/patterns/library/barley-dk/comments",
+    "https://www.ravelry.com/patterns/library/barley-light",
+    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "https://www.ravelry.com/patterns/library/barley-sock",
+    "https://www.ravelry.com/patterns/library/flax-dk",
+    "https://www.ravelry.com/patterns/library/barley-dk/yarns",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/barley-dk/threads",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry"
   ]
 }

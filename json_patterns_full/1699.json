@@ -1,38 +1,47 @@
 {
   "pattern_id": 1699,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy",
-  "name": "Sleeping Bag for small toy",
-  "description": "small sleeping bag for 23cm toy.",
-  "designer": "Liesbeth Braam",
+  "pattern_page": "https://www.ravelry.com/patterns/library/two-by-two-2",
+  "name": "Two by Two",
+  "description": "The pattern is now available in Dutch. Thank you Ingrid for all your hard work!",
+  "designer": "Anne Gagnon",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
+    "Dutch",
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Red Heart Super Saver (solids)"
+    "Cascade Yarns ® Cascade 220®",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "buttoned",
-    "buttonholes",
-    "kitchener",
+    "adult",
+    "bottom-up",
+    "female",
+    "in-the-round",
+    "male",
+    "ribbed",
+    "seamless",
+    "teen",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "small sleeping bag for 23cm toy. Choice between a pillow or a hood.",
+  "full_text": "The pattern is now available in Dutch. Thank you Ingrid for all your hard work! Because of the ribbing, the hat will fit a size 21/22” head and stretch to a 23/24” head with changes to the length before crown.",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/crafty-braams-ravelry-store",
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/yarns",
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy",
-    "https://www.ravelry.com/patterns/library/halloween-party-2",
-    "https://www.ravelry.com/patterns/library/seamless-baby-booties-3",
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/people",
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/report",
-    "https://www.ravelry.com/patterns/library/toy-shoes",
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/editors",
-    "https://www.ravelry.com/patterns/library/sleeping-bag-for-small-toy/comments"
+    "https://www.ravelry.com/patterns/library/ribs-n-cables-beanie",
+    "https://www.ravelry.com/patterns/sources/anne-gs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ditto-3",
+    "https://www.ravelry.com/patterns/library/ribelation",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/people",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/posts",
+    "https://www.ravelry.com/patterns/library/two-by-two-2",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/editors",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/comments",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/report",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/threads",
+    "https://www.ravelry.com/patterns/library/two-by-two-2/yarns"
   ]
 }

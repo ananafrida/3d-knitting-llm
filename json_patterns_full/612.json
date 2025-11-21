@@ -1,40 +1,41 @@
 {
   "pattern_id": 612,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie",
+  "name": "Elephant Kitty Stuffie",
+  "description": "Will work with any yarn/gauge, adjust to the size you want.",
+  "designer": "LizzieKnits",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "36 (52) inches square",
+  "category": "Pet → Toys",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Purl Soho Linen Quill"
+    ""
   ],
   "attributes": [
-    "modular",
-    "other-colorwork",
-    "reversible",
-    "square",
+    "embroidery",
+    "in-the-round",
+    "oval",
+    "seamed",
     "written-pattern"
   ],
-  "full_text": "MATERIALS 4 (8) skeins of Purl Soho’s Linen Quill , 50% fine highland wool, 35% alpaca, and 15% linen. Each skein is 439 yards/ 100 grams; approximately 360 (810) yards required per color. We used Pale Oats, Lavender Opal, Heirloom White, and Oatmeal Gray. US 3 (3.25 mm), 32-inch circular needles GAUGE 26 stitches and 52 rows = 4 inches in garter stitch SIZE Crib Size (Throw Size) Finished Dimensions: Approximately 36 x 36 inches (52 x 52 inches)",
+  "full_text": "Will work with any yarn/gauge, adjust to the size you want. Also available at the Craftster forum .",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/four-points-baby-blanket-in-super-soft-merino",
-    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket",
-    "https://www.ravelry.com/patterns/library/easy-puzzle-blanket",
-    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/colorful-wedges-baby-blanket",
-    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/knit-four-points-baby-blanket/posts"
-  ],
-  "name": "Ravelry: Knit Four Points Baby Blanket pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/threads",
+    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/comments",
+    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie",
+    "https://www.ravelry.com/patterns/sources/suzy-q-homemaker",
+    "http://www.suzyqhomemaker.com/blog/free-pattern-elephant-kitty-stuffie/",
+    "https://www.ravelry.com/patterns/library/beware",
+    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/posts",
+    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/yarns",
+    "https://www.ravelry.com/patterns/sources/craftster",
+    "https://www.ravelry.com/patterns/library/breastfeeding-advocacy-dishcloth",
+    "https://www.ravelry.com/patterns/library/breastfeeding-advocacy-dishcloth-tandem-nursing-version",
+    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/people",
+    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/editors",
+    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie/report"
+  ]
 }

@@ -1,42 +1,37 @@
 {
   "pattern_id": 1851,
-  "pattern_page": "https://www.ravelry.com/patterns/library/round-nesting-baskets-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/hippezippes-miniruesche",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "3\", 4\", 5\"",
+  "category": "Components → Other",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
-    "English"
+    "German"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "yarn held together"
+    "Zwerger Garn Opal 4-fach | 4-ply",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
     "in-the-round",
-    "one-piece",
-    "seamless",
-    "stripes-colorwork",
-    "written-pattern"
+    "other-edging",
+    "pattern-recipe",
+    "ribbed",
+    "seamless"
   ],
-  "full_text": "Three cute little round nesting baskets knit bottom up with 2 strands of worsted weight wool yarn at the same time in garter stitch for texture and strength. Small decreases at the bottom and top of the sides give them a sturdy structure. Sizes: Small – circumference 3.5″ (9 cm), height 3″ (7.5 cm) Medium – circumference 4.5″ (11.5cm) , height 4″ (10 cm) Large – circumference 5.5″ (14cm) height 5″ (12.5 cm)",
-  "techniques": [
-    "decreases"
-  ],
-  "shape": "sphere",
+  "full_text": "This is not truly a pattern, just the directions for the special sock cuff.",
+  "techniques": [],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/yarns",
-    "https://www.ravelry.com/patterns/sources/handknit-hugs",
-    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/comments",
-    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/report",
-    "https://www.ravelry.com/patterns/library/round-rug-coasters",
-    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/editors",
-    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/people",
-    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/posts",
-    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2",
-    "https://www.ravelry.com/patterns/library/santa-stocking-hat-5",
-    "https://www.ravelry.com/patterns/library/fisherman-cable-beanie"
+    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/report",
+    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/threads",
+    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/people",
+    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche",
+    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/editors",
+    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/edit",
+    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/comments",
+    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/posts",
+    "https://www.ravelry.com/patterns/sources/hippezippe",
+    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/yarns"
   ],
-  "name": "Ravelry: Round Nesting Baskets pattern by Heather Pelletier"
+  "name": "Ravelry: Hippezippe's Miniruesche pattern by Hippezippe"
 }

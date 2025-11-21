@@ -1,41 +1,43 @@
 {
   "pattern_id": 597,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sunny-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mouse-ersatz",
+  "name": "Mouse Ersatz",
+  "description": "Two PDFs available, one page with “pithy” instructions, and another for total beginners, two pages with complete explanations on how to knit i-cord, knit front and back increase, knit two together decrease and knitting in the round with 4 double pointed needles.",
+  "designer": "Mer Almagro",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "30.25\" x 34\"",
+  "category": "Pet → Toys",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Plymouth Yarn Encore Worsted Solids & Heathers",
-    "Worsted (9 wpi) ?"
+    "Rowan Pure Wool 4ply",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "rectangle",
-    "textured",
+    "3-dimensional",
+    "icord",
+    "in-the-round",
+    "one-piece",
+    "seamless",
+    "stripes",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "From the pattern description: Of course this blanket can be knit in any color you please, but bright yellow brings an extra spark of joy and light. A pretty textured pattern makes it even livelier. The more you wash this yarn, the softer it gets. 29” circular needle recommended in pattern instructions. Blanket is knit flat. Finished size: 30-1/2 x 34” (77.5x86.5cm)",
+  "full_text": "Two PDFs available, one page with “pithy” instructions, and another for total beginners, two pages with complete explanations on how to knit i-cord, knit front and back increase, knit two together decrease and knitting in the round with 4 double pointed needles. Video coming very soon! If your cat likes these half as much as my cat does, you will be pleased! With the features both the cat and I like: right size, weight and texture (picky cat!) a little bump on one side and a “tail” on the other for easy throwing—nice if your cat likes to play fetch. But most important, since little toys seem to get lost as soon as they are finished, it is streamlined into a quick, 10 minute knit. I does not actually look like a mouse by any stretch of the imagination, but my cat doesn’t seem to mind. Stuff it with catnip, yarn scraps, toy stuffing, or any combination of the above. Stripes obviously optional! Change yarn weight, and needle size accordingly, to knit bigger toys.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://lifestyle.howstuffworks.com/crafts/knitting/free-knitting-patterns-for-baby-blankets2.htm",
-    "https://www.ravelry.com/patterns/library/mary-jane-booties-5",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/sources/simple-1-2-3-knitting",
-    "https://www.ravelry.com/patterns/sources/knitting-for-babies-blankets-booties-bibs--more",
-    "https://www.ravelry.com/patterns/library/hooded-jacket-3",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/posts",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/teddy-bear-2",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/sources/howstuffworks"
-  ],
-  "name": "Ravelry: Sunny Baby Blanket pattern by Lucie Sinkler"
+    "https://www.ravelry.com/patterns/sources/innershelter",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/comments",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/threads",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/editors",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/people",
+    "https://www.ravelry.com/patterns/library/newborn-tristan",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz",
+    "https://www.ravelry.com/patterns/library/esporofits-mitts",
+    "https://www.ravelry.com/patterns/library/somnium-venenum-mitts",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/yarns",
+    "https://www.ravelry.com/patterns/library/mouse-ersatz/report"
+  ]
 }

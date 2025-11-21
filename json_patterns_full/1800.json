@@ -1,50 +1,40 @@
 {
   "pattern_id": 1800,
-  "pattern_page": "https://www.ravelry.com/patterns/library/linen-stitch-basket-2",
-  "name": "Linen Stitch Basket",
-  "description": "This practical and elegant basket works up fairly quickly and is really easy to knit. It is worked top down, beginning at the top edge of the basket, similar in construction to my Easy Bubble Basket. There are several customizable options for sizing and details, too!",
-  "designer": "Lizzie Rose Knits",
+  "pattern_page": "https://www.ravelry.com/patterns/library/anatomical-sock-toes",
+  "name": "Anatomical Sock Toes",
+  "description": "I had to restart a pair of toe-up socks because I had the wrong number of stitches, so I decided to restart the socks with an anatomical sock toe! I printed out the special gauge grid paper and tracked my foot on to it. Figured out where the increases needed to go, typed up the instructions and knit up a pair of socks with toes that fit me perfectly!",
+  "designer": "Alison Frayne",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "Two Sizes: Small or Large basket (desired height)",
+  "category": "Components → Other",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "Adjustable",
   "languages": [
-    "English",
-    "French",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Thick & Quick",
-    "Super Bulky (5-6 wpi) ?"
+    "Light Fingering ?",
+    "Schachenmayr Regia Design Line by Arne & Carlos 4-fädig / 4-ply"
   ],
   "attributes": [
-    "icord",
     "in-the-round",
-    "kitchener",
-    "one-piece",
-    "seamless",
-    "slipped-stitches",
-    "top-down",
+    "other-toe",
+    "toe-up",
     "written-pattern"
   ],
-  "full_text": "This practical and elegant basket works up fairly quickly and is really easy to knit. It is worked top down, beginning at the top edge of the basket, similar in construction to my Easy Bubble Basket . There are several customizable options for sizing and details, too! There are two options for sizing this little basket, Small or Large. You may need a second skein of the bulky yarn if you make the larger size. It is worked to the desired height. Two sizes: small, 8” circumference, 12” tall, large, 10” circumference, 12” tall The Small basket is shown in photos. Linen stitch, which provides minimum stretch, is excellent for a basket like this. It’s perfect because you don’t want a basket to stretch! The materials you’ll need are pretty simple: A single skein of Lion Brand Wool-Ease Thick and Quick for Small, or two skeins for Size Large. Any colorway may be used, OR you can use another super bulky yarn, preferably with wool content A 18” - 24” circular knitting needle, or preferred method of working with a large circumference in the round A set of 2 dpns for the i-cord handles A large-eye yarn needle A pair of scissors If you downloaded this pattern while it was free for a limited time, thanks for supporting me - I was overwhelmed by all of the attention this pattern received but just recently decided to not charge any money for this design. Thank you all for your support! Many thanks to Jofraima for tech editing this and translating this into German. She has an awesome eye for details that I totally would have missed, and her translation is great. Thanks, Jofraima ! Also thank you so much Mimi91 for translating this pattern into French! Thanks, Myriam! Save to Pinterest here ! https://www.pinterest.com/pin/697635798508119278/ Save to LoveCrafts here ! https://www.lovecrafts.com/en-us/p/linen-stitch-basket-kn...",
-  "techniques": [],
-  "shape": "sphere",
+  "full_text": "I had to restart a pair of toe-up socks because I had the wrong number of stitches, so I decided to restart the socks with an anatomical sock toe! I printed out the special gauge grid paper and tracked my foot on to it. Figured out where the increases needed to go, typed up the instructions and knit up a pair of socks with toes that fit me perfectly! Please Note: I have a Greek shaped foot meaning that my second toe is slightly longer than my big toe. If you have an Egyptian foot shape or a Roman foot shape (or any other foot shape), this pattern might not work for you. This is not meant to be an end all be all anatomical sock toe pattern, rather this meant to be a starting point. When I started my anatomical sock toe pattern I had known idea where to start or how to start. So hopeful this pattern can help you know where and how to start creating a sock toe pattern that works perfectly for the socks you are knitting! Information: The sample sock is knit in stockinette stitch, with 1x1 ribbing for the cuff, and the heel is from the ‘Avocado Socks’ pattern by Georgiana Russell-Head. You can find it here: Avocado Socks It is a wonderful pattern, especially if like me, you have a high instep. This pattern is written for knitting two-at-a-time sock with the magic loop method, but you do not have to knit two-at-a-time or use the magic loop method. NOTE: This pattern has not been tested, so please let me know if anything doesn’t make sense or if there are any mistakes. Feel free to reach out to me on Ravelry if you have any question Alisoncfrayne",
+  "techniques": [
+    "increases"
+  ],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easy-bubble-basket",
-    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/editors",
-    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/people",
-    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/comments",
-    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/report",
-    "https://www.ravelry.com/patterns/library/that-simple-hat",
-    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2",
-    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/yarns",
-    "https://www.ravelry.com/patterns/sources/true-north-knits-on-ravelry",
-    "https://www.ravelry.com/patterns/sources/true-north-knits-on-lovecrafts",
-    "https://www.ravelry.com/patterns/library/lavenders-bookmark",
-    "https://www.lovecrafts.com/en-us/p/linen-stitch-basket-knitting-pattern-by-elizabeth-caneday",
-    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/threads",
-    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/edit",
-    "https://www.ravelry.com/patterns/library/ginnys-bookmark"
+    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/editors",
+    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/threads",
+    "https://www.ravelry.com/patterns/sources/alison-fraynes-ravelry-store",
+    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/people",
+    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/report",
+    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/comments",
+    "https://www.ravelry.com/patterns/library/anatomical-sock-toes",
+    "https://www.ravelry.com/patterns/library/avocado-socks",
+    "https://www.ravelry.com/patterns/library/anatomical-sock-toes/yarns"
   ]
 }

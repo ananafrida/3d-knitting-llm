@@ -1,38 +1,46 @@
 {
   "pattern_id": 1262,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-  "name": "Knitted Yo-Yos",
-  "description": "This pattern shows you how to knit a gathered circle, known as a yo-yo or Suffolk Puff. Instructions are given for my own version of a drawstring cast on which makes these simple to knit.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/easy-street-tee",
+  "name": "Easy Street Tee",
+  "description": "You can find the free pattern here -",
+  "designer": "Rachel Alford",
   "craft": "Knitting",
-  "category": "Softies → Animal Home → Other",
+  "category": "Tops → Tee",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "XS (S, M, L, XL, 2X, 3X, 4X, 5X)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Lion Brand Cotton Hemp",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "circle-shaped",
-    "in-the-round",
+    "fitted",
     "one-piece",
-    "phototutorial"
+    "other-edging",
+    "positive-ease",
+    "raglan-sleeve",
+    "ribbed",
+    "top-down",
+    "written-pattern"
   ],
-  "full_text": "This pattern shows you how to knit a gathered circle, known as a yo-yo or Suffolk Puff. Instructions are given for my own version of a drawstring cast on which makes these simple to knit. The yo-yos are knitted in the round on short double pointed needles and can be made in various sizes, either by changing the weight of the yarn or the number of stitches. Details of this are in the pattern. I also show how different effects can be achieved, depending on how the circles are sewn together and explain how to turn the yo-yos into flowers. Finally, there are instructions for two projects made with my knitted yo-yos: a Very Hungry Caterpillar and a large patchwork table mat. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
-  "techniques": [],
+  "full_text": "You can find the free pattern here - https://cozynooksdesigns.com/EasyStreetTee/ * You can find the Lion Brand Yarn kit here - lionbrand.sjv.io/LKEkGV The Easy Street Tee is a breathable summer knit perfect for staying cool in warmer weather. Its top-down raglan construction lets you try it on as you go for a custom fit, and the twisted rib edging adds a crisp, polished finish. With a just-right neckline—not too wide, low, or tight—this tee is easy to dress up or down and wear through multiple seasons. 9 sizes are included in the design. Considered Easy level. PATTERN INCLUDES - Instant download PDF file Professionally Tech-Edited Pattern Gauge Level - BEGINNER MATERIALS - 540 (620, 710, 790, 870, 970, 1060, 1160, 1190) yds/ 4 (4, 5, 5, 6, 6, 7, 7, 8) balls) weight 4 Cotton Hemp yarn in the color “Cherry” US 7/4.5 mm circular knitting needles (24”) US 7/4.5 mm circular knitting needles (36”) US 6/4.0 mm circular knitting needles (24”) US 6/4.0 mm circular knitting needles (36”) Stitch Holders or Waste Yarn Stitch Markers Scissors Tapestry Needle 9 sizes: Xsmall, Small, Medium, Large, X-Large, 2X, 3X, 4X, and 5X. This pattern has been professionally tech-edited. To see more pictures and videos, see here – https://cozynooksdesigns.com/EasyStreetTee You can purchase the Lion Brand Yarn kit (pattern and yarn colors of you choice) here - lionbrand.sjv.io/LKEkGV If you buy 2 patterns - Use code 2PATTERNS for 10% off If you buy 3 patterns - Use code 3PATTERNS for 15% off If you buy 4 patterns - Use code 4PATTERNS for 20% off",
+  "techniques": [
+    "top-down"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
-    "https://www.ravelry.com/patterns/library/homespun-monsters",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos/editors",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos/comments",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos/report",
-    "https://www.ravelry.com/patterns/library/ten-stitch-hat",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos/people"
+    "https://www.ravelry.com/patterns/sources/cozy-nooks-designs-website",
+    "https://www.ravelry.com/patterns/library/easy-street-tee",
+    "https://www.ravelry.com/patterns/library/taylors-version-pillow",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/comments",
+    "https://www.ravelry.com/patterns/library/taylors-version-pillow-knit",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/report",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/yarns",
+    "https://www.ravelry.com/patterns/sources/cozy-nooks-designs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/people",
+    "https://www.ravelry.com/patterns/library/easy-street-tee/editors",
+    "https://www.ravelry.com/patterns/library/triple-cord-cardi"
   ]
 }

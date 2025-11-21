@@ -1,42 +1,42 @@
 {
   "pattern_id": 102,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cute-baby-blocks",
+  "pattern_page": "https://www.ravelry.com/patterns/library/little-knit-fish-2",
+  "name": "Little Knit Fish",
+  "description": "The Little Knit Fish are the perfect way to use up your leftover sock yarn. You know, the little pieces that are too small to do anything else with? Make the most of your yarn with a little aquatic friend, perfect as decoration, cat toys, or simply wee stuffed animals.",
+  "designer": "Teresa Runnett",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "4\" x 4\" x 4\" (10cm x 10cm x 10cm)",
+  "category": "Softies → Animal Pet → Toys",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "One Size",
   "languages": [
-    "English"
+    "English",
+    "French"
   ],
   "suggested_yarn": [
-    "Plymouth Yarn Encore D.K.",
-    "DK (11 wpi) ?"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "cables",
-    "chart",
-    "cube-shaped",
     "seamed",
-    "worked-flat"
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "The Little Knit Fish are the perfect way to use up your leftover sock yarn. You know, the little pieces that are too small to do anything else with? Make the most of your yarn with a little aquatic friend, perfect as decoration, cat toys, or simply wee stuffed animals. This pattern is also available for free on my blog ! Size The finished fish is approximately 11-12cm / 4.5-4.75” from end to end, and 7.5-8.5cm / 3-3.5” around at the widest point. Yarn and Yardage At least 3g of fingering weight sock yarn, or 12 yards. If working a two-tone fish, you’ll need 6 yards of C1 and 6 yards of C2. Sock yarn with nylon is preferred, as it will be more durable. Black embroidery thread or scraps of black fingering weight yarn is needed for the eyes. Needles and Gauge US 1/2.5mm, or size needed to achieve a tight fabric. Exact gauge isn’t important for this pattern, but the fabric should be tight enough not to show stuffing. I find for most yarn, US 0/2.0mm or US 1/2.25mm is the best choice. Notions Knitting needles for knitting flat, darning needle, polyfill for stuffing, and black embroidery thread or scrap pieces of fingering weight yarn for eyes. Les Petits Poissons Tricotés sont idéaux pour utiliser vos restes de laine à bas. Vous savez, les petites longueurs qui sont trop courtes pour être utilisées autrement ? Tirez le meilleur parti de votre fil avec un petit ami aquatique, parfait pour la décoration, les jouets pour chats ou tout simplement comme petite peluche. Une version gratuite de ce patron est disponible sur mon blogue ! Taille Le poisson terminé a une longueur d’approx. 11 cm-12cm et une circonférence de 7,5-8,5 cm au point le plus large. Laine et métrage Le poisson est réalisé avec un fil à chaussettes de poids « fingering » et requiert ~12 vg/3 g. Pour un poisson deux couleurs, vous aurez besoin de 6 vg de C1 et 6 vg de C2. Une laine contenant du nylon ou de la soie, ou twistée serrée sera préférable pour la durabilité. Du fil à broder noir ou des longueurs de laine de poids « fingering » noire sont nécessaires pour les yeux. Fournitures Aiguilles à tricoter (tricot à plat), aiguille à laine, deux longueurs de laine de poids « fingering » noire pour les yeux, bourre. Techniques Ce patron est tricoté à plat puis assemblé avec le point matelas. C’est une bonne introduction au tricot d’animaux rembourrés. Traduction par Julie Desjardins www.accrochet.com",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/threads",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/report",
-    "https://www.ravelry.com/patterns/library/father-pullover",
-    "https://www.ravelry.com/patterns/periodicals/canadian-living",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/comments",
-    "https://www.ravelry.com/patterns/sources/canadian-living-online",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/editors",
-    "https://www.ravelry.com/patterns/library/trellis-wrap-9",
-    "https://www.ravelry.com/patterns/sources/continuous-cables",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/yarns",
-    "https://www.ravelry.com/patterns/library/honky-tonk",
-    "https://www.ravelry.com/patterns/library/cute-baby-blocks/people"
-  ],
-  "name": "Ravelry: Cute Baby Blocks pattern by Melissa Leapman"
+    "https://www.ravelry.com/patterns/library/small-moments",
+    "https://www.ravelry.com/patterns/sources/classical-songbird-designs-blog",
+    "https://www.ravelry.com/patterns/library/little-knit-fish-2/people",
+    "https://www.ravelry.com/patterns/library/little-knit-fish-2/editors",
+    "https://www.ravelry.com/patterns/library/little-knit-fish-2/yarns",
+    "https://www.ravelry.com/patterns/library/little-knit-fish-2",
+    "https://www.ravelry.com/patterns/library/little-knit-fish-2/comments",
+    "https://www.ravelry.com/patterns/library/little-knit-fish-2/report",
+    "https://www.ravelry.com/patterns/library/uszka-bunny",
+    "https://www.ravelry.com/patterns/sources/classical-songbird-designs",
+    "https://www.classicsongbird.ca/blog/free-knitting-pattern-little-knit-fish",
+    "https://www.ravelry.com/patterns/library/little-knit-fish-2/posts",
+    "https://www.ravelry.com/patterns/library/tulips-31"
+  ]
 }

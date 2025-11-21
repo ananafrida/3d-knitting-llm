@@ -1,45 +1,38 @@
 {
   "pattern_id": 162,
-  "pattern_page": "https://www.ravelry.com/patterns/library/poppy-prairie-bag",
-  "name": "Poppy Prairie Bag",
-  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
-  "designer": "Bonnica Sjöblom",
+  "pattern_page": "https://www.ravelry.com/patterns/library/a-little-kindness-monster",
+  "name": "A Little Kindness Monster",
+  "description": "This pattern is free and always will be. I hope it inspires you. Invite over some friends you haven’t seen in awhile and knit Little Kindnesses together with scraps from your stash. Knit a Little Kindness for someone and drop it in the mail for them with a nice card to let them know you’re thinking of them. Take your neighbor a Little Kindness and a plate of cookies. Just give one to somebody and say, “hey, this silly little thing made me smile and I thought it might make",
+  "designer": "Rachel Borello Carroll",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "35 x 80 cm (before felting)",
+  "category": "Softies → Animal",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
-    "Dutch",
-    "German",
-    "Swedish"
+    "English"
   ],
   "suggested_yarn": [
-    "Svarta Fåret Ulrika Natur",
+    "Cascade Yarns ® Cascade 220®",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "felted",
     "in-the-round",
-    "patch-pocket",
-    "schematic",
-    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
+  "full_text": "This pattern is free and always will be. I hope it inspires you. Invite over some friends you haven’t seen in awhile and knit Little Kindnesses together with scraps from your stash. Knit a Little Kindness for someone and drop it in the mail for them with a nice card to let them know you’re thinking of them. Take your neighbor a Little Kindness and a plate of cookies. Just give one to somebody and say, “hey, this silly little thing made me smile and I thought it might make you smile, too.” Because in the end, I don’t think anyone ever wished they hadn’t spent so much time on being kind. Now also available in German thanks to user raeubertoechterch. Thank you Martina! Note: This pattern was previously only available as an in-the-round pattern, but as of March 2021 it has been updated with the option to knit flat on two needles.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/magvaskan-yvonne",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-countryside-escape-aw2024",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/people",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/editors",
-    "https://www.ravelry.com/patterns/library/froken-london---bag",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/comments",
-    "https://www.ravelry.com/patterns/library/magvaskan-dagny",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/report",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/poppy-prairie-bag/yarns"
+    "https://www.ravelry.com/patterns/library/nilla-the-unicorn",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/people",
+    "https://www.ravelry.com/patterns/library/winters-bow",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/yarns",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/report",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/posts",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/editors",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/comments",
+    "https://www.ravelry.com/patterns/library/juniper-moose",
+    "https://www.ravelry.com/patterns/library/a-little-kindness-monster/threads",
+    "https://www.ravelry.com/patterns/sources/yarnigans-2"
   ]
 }

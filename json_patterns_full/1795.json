@@ -1,42 +1,37 @@
 {
   "pattern_id": 1795,
-  "pattern_page": "https://www.ravelry.com/patterns/library/felted-bowls-5",
-  "name": "Felted Bowls",
-  "description": "Simple, versatile bowls in two sizes.",
-  "designer": "Kelly Kingston",
+  "pattern_page": "https://www.ravelry.com/patterns/library/rounded-toe-recipe",
+  "name": "Rounded Toe Recipe",
+  "description": "Rounded toe recipe for socks knit toe up.",
+  "designer": "Jane Bass",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "category": "Components → Other",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "felted",
     "in-the-round",
-    "one-piece",
-    "seamless",
-    "sphere-shaped",
-    "top-down"
+    "pattern-recipe",
+    "video-tutorial",
+    "written-pattern"
   ],
-  "full_text": "Simple, versatile bowls in two sizes. Worsted weight (held with yarn double stranded): approximately 7cm height, 13cm diameter. Uses 130m/65g Super Bulky weight: approximately 8cm height, 16cm diameter. Uses 100m/120g. Ideal for first time knitting in the round or felting. Gauge is not critical for this pattern, as long as you are happy with the fabric created. This may affect the final size of the project along with the yarn amounts required.",
+  "full_text": "Rounded toe recipe for socks knit toe up. This is a brief recipe outlining how I knit my rounded toe. It is not intended to be a full pattern. You will need to be familiar with toe up sock knitting, including casting on. You can knit this toe using the yarn of your choice with your preferred needle size. The instructions are written for magic loop knitting but can be adapted for other methods, such as DPNs.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/people",
-    "https://www.ravelry.com/patterns/library/missoni-inspired-chevron-blanket",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/comments",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-paper-chains",
-    "https://www.ravelry.com/patterns/library/dew-drop-cowl",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/threads",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/editors",
-    "https://www.ravelry.com/patterns/sources/designs-by-tangled",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/posts",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5/report",
-    "https://www.ravelry.com/patterns/library/felted-bowls-5"
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/editors",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/people",
+    "https://www.ravelry.com/patterns/sources/jane-bass-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tunisian-twiddle-muff",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/comments",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/yarns",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/threads",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe",
+    "https://www.ravelry.com/patterns/library/rounded-toe-recipe/report"
   ]
 }

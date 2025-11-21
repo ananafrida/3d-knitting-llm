@@ -1,48 +1,39 @@
 {
   "pattern_id": 651,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pixie-hat-fingering",
+  "pattern_page": "https://www.ravelry.com/patterns/library/korkhenn",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Softies → Animal Pet → Toys",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Pullet",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Crystal Palace Yarns Baby Georgia"
+    "Lily (Spinrite) Sugar'n Cream Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "newborn-size",
-    "preemie",
-    "ribbed",
-    "seamed",
-    "tied",
-    "toddler",
-    "worked-flat",
+    "3-dimensional",
+    "circle-shaped",
+    "in-the-round",
+    "three-needle-bind",
     "written-pattern"
   ],
-  "full_text": "No gauge listed for the fingering weight version. There is a newer pattern (pictured) available for worsted weight yarn: Bunny Hop Pixie Hat , which uses Bunny Hop angora blend (113 yds.) and US 7 / 4.5 mm needles. 14 sts = 2\" A bulky weight version for adults is also available. A german version - with permission from Crystal Palace - is available since June 2011 at Kirschkernzeit (knitted with Lang Yarns Omega, 3.5mm). Eine deutschsprachige Version - mit Genehmigung von Crystal Palace - ist seit Juni 2011 erhältlich bei Kirschkernzeit (gestrickt aus Lang Yarns Omega, 3.5mm).",
+  "full_text": "This is another entry to a line of cat toys that can be stuffed with a cork from a wine bottle: Korkfisshe , Korkmauser , and Korkmann . Scroll down for the Sochi Chicken variation at the bottom of the page.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://web.archive.org/web/20161023163600/http://www.straw.com/cpy/patterns/baby_pixiehat2.html",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering/edit",
-    "http://www.ravelry.com/patterns/library/bunny-hop-baby-pixie-hat",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/trio-knit-tote-bag",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering/threads",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering/editors",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering",
-    "https://www.ravelry.com/patterns/sources/crystal-palace-yarns",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering/posts",
-    "http://www.ravelry.com/patterns/library/pixie-ribbed-hat-adult",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering/report",
-    "https://www.ravelry.com/patterns/library/pixie-hat-worsted",
-    "https://www.ravelry.com/patterns/library/cabled-scarf-34",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering/comments",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering/yarns",
-    "https://www.ravelry.com/patterns/library/pixie-hat-fingering/people"
+    "https://www.ravelry.com/patterns/library/korkfisshe",
+    "https://www.ravelry.com/patterns/library/korkhenn/report",
+    "https://www.ravelry.com/patterns/library/korkhenn/editors",
+    "https://www.ravelry.com/patterns/library/tea-wallet",
+    "https://www.ravelry.com/patterns/sources/peg-of-tilling-does-some-knitting",
+    "https://www.ravelry.com/patterns/library/korkhenn/threads",
+    "https://www.ravelry.com/patterns/library/ruffledy-scarf",
+    "https://www.ravelry.com/patterns/library/korkhenn/yarns",
+    "https://www.ravelry.com/patterns/library/korkhenn/people",
+    "https://www.ravelry.com/patterns/library/korkhenn",
+    "https://www.ravelry.com/patterns/library/korkhenn/comments"
   ],
-  "name": "Ravelry: Pixie Hat (Fingering) pattern by Crystal Palace Yarns"
+  "name": "Ravelry: Korkhenn pattern by Diane Trap"
 }

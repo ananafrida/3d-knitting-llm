@@ -1,46 +1,38 @@
 {
   "pattern_id": 649,
-  "pattern_page": "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat",
-  "name": "Elvish Teeny Tiny Hat",
-  "description": "I have 5 min vlog about this pattern, take a look! link text",
-  "designer": "Alexandra Davidoff",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
+  "category": "Pet → Toys",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "one size",
-  "languages": [
-    "English"
-  ],
+  "sizes_available": "One size",
   "suggested_yarn": [
-    "Cascade Yarns ® 220 Superwash® Merino",
-    "Worsted (9 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Herrschners Worsted Weight"
   ],
   "attributes": [
-    "bottom-up",
-    "eyelets",
-    "icord",
-    "in-the-round",
+    "3-dimensional",
     "one-piece",
-    "preemie",
-    "seamless",
-    "textured",
+    "ribbed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "I have 5 min vlog about this pattern, take a look! link text This Elvish teeny tiny hat is designed for preemies and would fit a baby with head circumference up to 12”(30.5cm). Please share this pattern and donate finished hats to teeny tiny ones. Happy Knitting! SIZE: Preemie FINISHED MEASUREMENTS: 4”(10.5cm) long & 8”(20.5cm) circumference YARN: Color: 01 Cream NOTIONS: stitch markers, tapestry needle SKILL LEVEL: Intermediate",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "Worked flat in one piece. The ball end is stuffed with polyester fiberbill or waste yarn and a jingle bell, and sewn shut. Finished length is about 24”; ball is about 5” in circumfrence Getting an exact gauge is not that important, but fabric should be firm enough to hold stuffing invisibly.",
+  "techniques": [
+    "worked flat"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/alexandra-davidoff-studio",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/people",
-    "https://www.ravelry.com/patterns/library/sasha-knitdenim-scarf",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/posts",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/report",
-    "https://www.ravelry.com/patterns/library/madina-baby-blanket",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/yarns",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/comments",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/threads",
-    "https://www.ravelry.com/patterns/library/i-am-dragon-2",
-    "https://www.ravelry.com/patterns/library/elvish-teeny-tiny-hat/editors"
-  ]
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/editors",
+    "https://www.ravelry.com/patterns/library/stashbuster-stripe-dishcloth",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/report",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/people",
+    "https://www.ravelry.com/patterns/sources/fun-things-to-do-while-youre-waiting",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/yarns",
+    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy",
+    "https://www.ravelry.com/patterns/library/mitred-square-dishcloth",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/threads",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/comments"
+  ],
+  "name": "Ravelry: Knitted Bouncy Door Hanger Cat Toy pattern by Sheila Ralston"
 }

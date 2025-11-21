@@ -1,41 +1,45 @@
 {
   "pattern_id": 356,
-  "pattern_page": "https://www.ravelry.com/patterns/library/classic-knit-jacket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jingles-the-elf",
+  "name": "Jingles the Elf",
+  "description": "Jingles the Elf is a quick to knit doll for your festive decorations. Jingles’ collar uses a picot cast on, and instructions are included in the pattern. Designed by Amanda Berry @fluffandfuzz, this elf is knitted in acrylic DK yarns on single pointed needles (not in the round).",
+  "designer": "Amanda Berry",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
-  "sizes_available": "36 (39¼, 42½, 45½) (48¾, 52, 55¼) (59¼, 62½, 65½, 68¾)",
+  "category": "Softies → Doll",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "26cm tall",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Purl Soho Lanecardate Feltro"
+    "Paintbox Yarns Simply DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "icord-edging",
-    "long-sleeve",
-    "phototutorial",
-    "top-down",
+    "3-dimensional",
+    "picots",
+    "seamed",
+    "stripes-colorwork",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "MATERIALS 6 (7, 7, 8) (9, 9, 10) (10, 11, 12, 12) skeins of Purl Soho’s Lanecardate Feltro , 75% superfine wool, 25% Caregora angora. Each skein is approximately 98 yards/100 grams; approximately 585 (635, 685, 750) (795, 860, 915) (965, 1020, 1085, 1140) yards required. We used the color Medium Gray, Grigio 3. US 15 (10 mm), 32-inch circular needles US 15, 16-inch circular needles A set of US 15 double pointed needles Two jumbo stitch markers Stitch holders or scrap yarn GAUGE 10 stitches and 14 rows = 4 inches in stockinette stitch SIZES 36 (39¼, 42½, 45½) (48¾, 52, 55¼) (59¼, 62½, 65½, 68¾) To fit actual chest circumference of approximately 30–32 (33–35, 36–38, 39–41) (42–44¾, 45¾–48, 49–51¼) (52¼–55, 56–58, 59–61½, 62½–64¾) inches, with 4–7 inches of positive ease Finished Chest Circumference: 36 (39¼, 42½, 45½) (48¾, 52, 55¼) (59¼, 62½, 65½, 68¾) inches Finished Length from Shoulder to Bottom Edge: 22 (22¼, 22½, 22¾) (23, 23½, 24) (24½, 25, 25½, 26) inches Finished Length from Underarm to Bottom Edge: 13½ (13¼, 13¼, 13) (12¾, 12¾, 13¼) (13½, 13¾, 14, 14¼) inches Finished Length from Underarm to Cuff: 16¾ (17, 17, 17½) (17½, 18, 18) (18¼, 18½, 18¾, 19) inches SAMPLE: The sweater shown here is size 42½, worn with 6 inches of ease.",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/classic-knit-jacket/threads",
-    "https://www.ravelry.com/patterns/library/drift-vest",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/classic-knit-jacket/people",
-    "https://www.ravelry.com/patterns/library/classic-knit-jacket/yarns",
-    "https://www.ravelry.com/patterns/library/classic-knit-jacket/posts",
-    "https://www.ravelry.com/patterns/library/linen-tunic",
-    "https://www.ravelry.com/patterns/library/felted-bell-ornaments",
-    "https://www.ravelry.com/patterns/library/classic-knit-jacket/editors",
-    "https://www.ravelry.com/patterns/library/classic-knit-jacket/comments",
-    "https://www.ravelry.com/patterns/library/classic-knit-jacket/report",
-    "https://www.ravelry.com/patterns/library/classic-knit-jacket"
+  "full_text": "Jingles the Elf is a quick to knit doll for your festive decorations. Jingles’ collar uses a picot cast on, and instructions are included in the pattern. Designed by Amanda Berry @fluffandfuzz, this elf is knitted in acrylic DK yarns on single pointed needles (not in the round). NEEDLES A pair of 3.5mm single pointed knitting needles (US 4). RECOMMENDED YARN Paintbox Yarns Simply DK; double knitting/light worsted weight; 100% acrylic; one 100g/276m skein in each colour. NOTIONS Tapestry needle, toy filling, and 5mm black beads for eyes. SIZES One size only - 26cm tall. TECHNIQUES For confident beginners and above, other techniques used include casting on and off, knits, purls, increases and decreases, knitting stripes, and seaming to finish. PATTERN INFO This knitting pattern is a pdf download, 4 pages, and written in English. Patterns for personal use only; not for resale. Copyright © 2016 Amanda Berry; All rights reserved.",
+  "techniques": [
+    "decreases",
+    "increases"
   ],
-  "name": "Ravelry: Classic Knit Jacket pattern by Purl Soho"
+  "shape": "sphere",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/butternut-squash-5",
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/report",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/comments",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/threads",
+    "https://www.ravelry.com/patterns/library/starfish-24",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/yarns",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/people",
+    "https://www.ravelry.com/patterns/library/chestnut-mushrooms",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/editors"
+  ]
 }

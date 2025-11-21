@@ -1,47 +1,41 @@
 {
   "pattern_id": 2087,
-  "pattern_page": "https://www.ravelry.com/patterns/library/two-by-two-2",
-  "name": "Two by Two",
-  "description": "The pattern is now available in Dutch. Thank you Ingrid for all your hard work!",
-  "designer": "Anne Gagnon",
+  "pattern_page": "https://www.ravelry.com/patterns/library/classic-knit-jacket",
   "craft": "Knitting",
-  "category": "Hat → Beanie, Toque",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Coat / Jacket",
+  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
+  "sizes_available": "36 (39¼, 42½, 45½) (48¾, 52, 55¼) (59¼, 62½, 65½, 68¾)",
   "languages": [
-    "Dutch",
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Super Bulky (5-6 wpi) ?",
+    "Purl Soho Lanecardate Feltro"
   ],
   "attributes": [
     "adult",
-    "bottom-up",
-    "female",
-    "in-the-round",
-    "male",
-    "ribbed",
-    "seamless",
-    "teen",
-    "unisex",
+    "icord-edging",
+    "long-sleeve",
+    "phototutorial",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "The pattern is now available in Dutch. Thank you Ingrid for all your hard work! Because of the ribbing, the hat will fit a size 21/22” head and stretch to a 23/24” head with changes to the length before crown.",
+  "full_text": "MATERIALS 6 (7, 7, 8) (9, 9, 10) (10, 11, 12, 12) skeins of Purl Soho’s Lanecardate Feltro , 75% superfine wool, 25% Caregora angora. Each skein is approximately 98 yards/100 grams; approximately 585 (635, 685, 750) (795, 860, 915) (965, 1020, 1085, 1140) yards required. We used the color Medium Gray, Grigio 3. US 15 (10 mm), 32-inch circular needles US 15, 16-inch circular needles A set of US 15 double pointed needles Two jumbo stitch markers Stitch holders or scrap yarn GAUGE 10 stitches and 14 rows = 4 inches in stockinette stitch SIZES 36 (39¼, 42½, 45½) (48¾, 52, 55¼) (59¼, 62½, 65½, 68¾) To fit actual chest circumference of approximately 30–32 (33–35, 36–38, 39–41) (42–44¾, 45¾–48, 49–51¼) (52¼–55, 56–58, 59–61½, 62½–64¾) inches, with 4–7 inches of positive ease Finished Chest Circumference: 36 (39¼, 42½, 45½) (48¾, 52, 55¼) (59¼, 62½, 65½, 68¾) inches Finished Length from Shoulder to Bottom Edge: 22 (22¼, 22½, 22¾) (23, 23½, 24) (24½, 25, 25½, 26) inches Finished Length from Underarm to Bottom Edge: 13½ (13¼, 13¼, 13) (12¾, 12¾, 13¼) (13½, 13¾, 14, 14¼) inches Finished Length from Underarm to Cuff: 16¾ (17, 17, 17½) (17½, 18, 18) (18¼, 18½, 18¾, 19) inches SAMPLE: The sweater shown here is size 42½, worn with 6 inches of ease.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/two-by-two-2/yarns",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/comments",
-    "https://www.ravelry.com/patterns/library/ditto-3",
-    "https://www.ravelry.com/patterns/library/two-by-two-2",
-    "https://www.ravelry.com/patterns/library/ribs-n-cables-beanie",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/report",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/posts",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/threads",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/editors",
-    "https://www.ravelry.com/patterns/library/two-by-two-2/people",
-    "https://www.ravelry.com/patterns/sources/anne-gs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ribelation"
-  ]
+    "https://www.ravelry.com/patterns/library/classic-knit-jacket/report",
+    "https://www.ravelry.com/patterns/library/classic-knit-jacket/threads",
+    "https://www.ravelry.com/patterns/library/super-soft-merino-hand-warmers",
+    "https://www.ravelry.com/patterns/library/classic-knit-jacket",
+    "https://www.ravelry.com/patterns/library/drift-vest",
+    "https://www.ravelry.com/patterns/library/classic-knit-jacket/yarns",
+    "https://www.ravelry.com/patterns/library/classic-knit-jacket/people",
+    "https://www.ravelry.com/patterns/library/classic-knit-jacket/editors",
+    "https://www.ravelry.com/patterns/library/classic-knit-jacket/comments",
+    "https://www.ravelry.com/patterns/library/classic-knit-jacket/posts",
+    "https://www.ravelry.com/patterns/library/linen-tunic",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: Classic Knit Jacket pattern by Purl Soho"
 }

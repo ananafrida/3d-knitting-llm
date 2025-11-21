@@ -1,39 +1,41 @@
 {
   "pattern_id": 1380,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hearts",
-  "name": "Hearts",
-  "description": "June 2020 Update: I’ve revised this pattern to include circular knitting instructions! The new version is now available as a free download here.",
-  "designer": "Anna Hrachovec",
+  "pattern_page": "https://www.ravelry.com/patterns/library/colorful-fairy-doors",
+  "name": "Colorful Fairy Doors",
+  "description": "The fairy village of Cypress Knee is famous for its bright colored doors. Little Folk travel far and wide to take photos near their favorites.",
+  "designer": "Natasha Hanson",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "Height: 2”/ 5cm. Width: 1.5”/ 4cm.",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Rowan Scottish Tweed 4 Ply"
+    "Patons North America Classic Wool Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "embroidery",
-    "felted",
-    "seamed",
-    "worked-flat",
+    "bottom-up",
+    "in-the-round",
+    "one-piece",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "June 2020 Update: I’ve revised this pattern to include circular knitting instructions! The new version is now available as a free download here. For anyone looking for a last-minute hand-made Valentine’s Day gift idea, done and done! These little hearts make a perfect topper for a box of chocolates, or a little handful of them will make your sweetie smile. You’ll need about 6 yards of yarn per heart, and a foot or two of black yarn for eyes. Choose needles (straight, circular, or double-pointed) that are 2-3 sizes smaller than the standard recommendation for the yarn you’re using, to get a tight gauge. You’ll need a pinch of stuffing or scrap yarn for plump, squeezable hearts.",
+  "full_text": "The fairy village of Cypress Knee is famous for its bright colored doors. Little Folk travel far and wide to take photos near their favorites. These thumb-sized fairy doors are a super, quick knit. They are knit in the round on dpns. Because they have a front and a back they don’t need blocking. Their wooden frames and brass door knobs are done with simple embroidery. I hope you enjoy this free pattern! Happy Knitting! Natasha Praise for Colorful Fairy Doors Fun!! Very quick and easy project! ( MinniStitcher ) Super Quick Well written w/ links to embroidery tutorials. ( RandyRatCraft ) Quick knit. ( bonewoman ) A very quick, cute little knit. (Bogwoppit) This is a very quick fun project. (Omissi) I’m glad to have a door anywhere! Especially in spring, I feel like there are fairies everywhere. Even I completed it in less than 30 minutes. It could have been earlier. (mirihi) Such a tiny little door! Made for fairies, only.( Saphiera) A wonderful pattern that is very quick to knit and leaves room for your own embellishments. (kleinesundfeines)",
   "techniques": [],
-  "shape": "cube",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tiny-cupcake",
-    "https://www.ravelry.com/patterns/library/hearts",
-    "https://www.ravelry.com/patterns/library/tiny-baby-bunnies",
-    "https://www.ravelry.com/patterns/library/hearts/comments",
-    "https://www.ravelry.com/patterns/library/tiny-chickens",
-    "https://www.ravelry.com/patterns/library/hearts/editors",
-    "https://www.ravelry.com/patterns/library/hearts/people",
-    "https://www.ravelry.com/patterns/library/hearts/yarns",
-    "https://www.ravelry.com/patterns/library/hearts/threads",
-    "https://www.ravelry.com/patterns/library/hearts/report",
-    "https://www.ravelry.com/patterns/sources/mochimochi-land-website",
-    "http://mochimochiland.com/weblog/2007/02/free-pattern-hearts/",
-    "https://www.ravelry.com/patterns/library/hearts/posts"
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/yarns",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/comments",
+    "https://www.ravelry.com/patterns/library/4-season-hobbit-hole",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/people",
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/santa-lucia-4",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/report",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/threads",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors/editors",
+    "https://www.ravelry.com/patterns/library/colorful-fairy-doors",
+    "https://www.ravelry.com/patterns/library/daffodil-bulb-vase"
   ]
 }

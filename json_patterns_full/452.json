@@ -1,44 +1,39 @@
 {
   "pattern_id": 452,
-  "pattern_page": "https://www.ravelry.com/patterns/library/honey-cowl",
+  "pattern_page": "https://www.ravelry.com/patterns/library/santas-laundry-line",
+  "name": "Santa's Laundry Line",
+  "description": "Looking for some non-breakable, (more or less) cat-proof Christmas decorations, I found inspiration in all the wonderful ornament patterns out there. Since I don’t have a Christmas tree, I decided to knit some pieces to make a garland. I don’t like seaming; therefore they are all constructed to be knit in the round. I also tried to keep the individual pieces in proportion to each other.",
+  "designer": "Eleonore von Castelmur",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "short version and longer version",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "madelinetosh Tosh DK"
+    "Fingering (14 wpi) ?",
+    "Schoppel-Wolle Admiral 4 fach/4 ply"
   ],
   "attributes": [
-    "adult",
-    "female",
-    "in-the-round",
+    "icord",
+    "kitchener",
     "one-piece",
     "seamless",
-    "slipped-stitches",
-    "textured",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "▲ PATTERN NOTES A simple slip stitch pattern cowl creates a dense waffle-like fabric for warmth and supple drape. This flexible pattern can be worked in four different sizes using just one or two skeins of yarn. Both short and longer versions are lovely viewed on both sides. This cowl is perfect for a bright pop of color and a warm hug around your neck. For an in-between size: 1 skein at 160 sts will create a 32 inch long by 8 inch wide cowl. 2 skeins at 160 sts will create a 32 inch long by 16 inch wide cowl. ▲ SIZES Short (Long) Short version: 22” length Longer version: 44” length ▲ YARN Madelinetosh Tosh DK (100% superwash merino; 100g / 225 yds) 1 (2) skeins ▲ NOTIONS Stitch marker, tapestry needle ▲ GAUGE 20 sts = 4 inches ▲ NEEDLES US Size 8 (5.0 mm) 16” circular for short version, or US Size 8 (5.0 mm) 32” circular for long version, or size needed to obtain gauge",
+  "full_text": "Looking for some non-breakable, (more or less) cat-proof Christmas decorations, I found inspiration in all the wonderful ornament patterns out there. Since I don’t have a Christmas tree, I decided to knit some pieces to make a garland. I don’t like seaming; therefore they are all constructed to be knit in the round. I also tried to keep the individual pieces in proportion to each other. Gauge is not important, just go for the yarn and needles that give you a fabric that you like. To give you an idea regarding size though, the clothes depicted in the pattern were knitted using 4ply sock yarn. The longjohns are about 15 cm (6 in) tall, and fit into the coat and trousers. All you need to make a set yourself is some yarn, a set of 5 double pointed needles (or circulars for magic loop) and some time. It’s up to you if you want to knit just one garment or a few, use them as decoration for the tree, as tags for gifts or make your own garland with some cooking twine for the laundry line and small clothes pins (as sold to hang up holiday cards). Rather than selling the pattern and donating the proceeds to charity, I’ve decided to ask for donations - so if you enjoyed knitting this, please consider spreading the love and holiday cheer by donating to my fundraising page for Médecins Sans Frontières A big Thank You also to Frankie Brown for letting me use her stocking pattern for the boots",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/madelinetosh-tm",
-    "https://www.ravelry.com/patterns/library/honey-cowl/report",
-    "https://www.ravelry.com/patterns/library/honey-cowl/comments",
-    "https://www.ravelry.com/patterns/library/serena-shadow-shawl",
-    "https://www.ravelry.com/patterns/library/honey-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/honey-cowl/people",
-    "https://www.ravelry.com/patterns/library/repose-10",
-    "https://www.ravelry.com/patterns/library/hello-cowl",
-    "https://www.ravelry.com/patterns/library/honey-cowl",
-    "https://www.ravelry.com/patterns/library/honey-cowl/threads",
-    "https://www.ravelry.com/patterns/library/honey-cowl/editors",
-    "https://madelinetosh.myshopify.com/collections/patterns/products/honey-cowl",
-    "https://www.ravelry.com/patterns/library/honey-cowl/posts"
-  ],
-  "name": "Ravelry: Honey Cowl pattern by Antonia Shankland"
+    "https://www.ravelry.com/patterns/library/santas-laundry-line",
+    "https://www.ravelry.com/patterns/library/santas-laundry-line/people",
+    "https://www.ravelry.com/patterns/library/santas-laundry-line/comments",
+    "https://www.ravelry.com/patterns/library/santas-laundry-line/report",
+    "https://www.ravelry.com/patterns/library/santas-laundry-line/editors",
+    "https://www.ravelry.com/patterns/library/santas-laundry-line/yarns",
+    "https://www.ravelry.com/patterns/library/santas-laundry-line/threads",
+    "https://www.ravelry.com/patterns/library/santas-laundry-line/posts",
+    "https://www.ravelry.com/patterns/sources/eleonore-von-castelmurs-ravelry-store"
+  ]
 }

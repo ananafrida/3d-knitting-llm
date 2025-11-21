@@ -1,36 +1,33 @@
 {
   "pattern_id": 89,
-  "pattern_page": "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
-  "name": "Frankie's Blankie Week 3",
-  "description": "This is the third in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mad-eyes-mad-eye",
+  "name": "Mad Eye's Mad Eye",
+  "description": "I came up with this pattern in August of 2009 and just had to share it!",
+  "designer": "CellistaLinnea",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "languages": [
-    "English"
-  ],
+  "category": "Costume",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Stylecraft Batik Double Knitting"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bobble-or-popcorn"
+    "adult",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "This is the third in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares. This stitch pattern consists of tiny bobbles, sprinkled over the surface of the knitting and, fittingly, I’ve called it ‘Sprinkles’. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "I came up with this pattern in August of 2009 and just had to share it! It is a perfect quick-knit for fun stash-busting, Harry Potter themed swaps, costume parties, and general magical mayhem! If you happen to find any problems with the pattern, please send me a message on Ravelry! Mad Eye's Mad Eye by Linnea Tracy is licensed under a Creative Commons Attribution-Share Alike 3.0 United States License .",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3/editors",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-5",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3/report",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3/yarns",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-4",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3/people",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3/comments",
-    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3/threads"
+    "https://www.ravelry.com/patterns/library/mad-eyes-mad-eye/threads",
+    "https://www.ravelry.com/patterns/library/mad-eyes-mad-eye/editors",
+    "https://www.ravelry.com/patterns/library/mad-eyes-mad-eye/yarns",
+    "http://www.ravelry.com/patterns/library/mad-eyes-mad-eye",
+    "https://www.ravelry.com/patterns/sources/cellistalinnea-designs",
+    "https://www.ravelry.com/patterns/library/mad-eyes-mad-eye/people",
+    "https://www.ravelry.com/patterns/library/mad-eyes-mad-eye",
+    "https://www.ravelry.com/patterns/library/mad-eyes-mad-eye/report",
+    "https://www.ravelry.com/patterns/library/mad-eyes-mad-eye/comments"
   ]
 }

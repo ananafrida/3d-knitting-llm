@@ -1,38 +1,37 @@
 {
   "pattern_id": 959,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-golden-snitch-2",
-  "name": "The Golden Snitch",
-  "description": "",
-  "designer": "Mandy Harvey",
+  "pattern_page": "https://www.ravelry.com/patterns/library/colorful-egg",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Toys and Hobbies → Other",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Paton’s Brilliance",
-    "Sport (12 wpi) ?"
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
+    "3-dimensional",
     "in-the-round",
-    "seamed",
-    "written-pattern"
+    "one-piece"
   ],
-  "full_text": "",
+  "full_text": "From the pattern: You can knit this egg using any yarn, any gauge, any double-pointed needles you desire. I used worsted weight yarn on size 8s.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/people",
-    "https://www.ravelry.com/patterns/sources/mandys-knits",
-    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/report",
-    "https://www.ravelry.com/patterns/library/pink-squared",
-    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/threads",
-    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/editors",
-    "https://www.ravelry.com/patterns/library/mandys-footie-socks",
-    "https://www.ravelry.com/patterns/library/pygmy-puff-3",
-    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/yarns",
-    "https://www.ravelry.com/patterns/library/the-golden-snitch-2/comments",
-    "https://www.ravelry.com/patterns/library/the-golden-snitch-2"
-  ]
+    "https://www.ravelry.com/patterns/library/colorful-egg/editors",
+    "https://www.ravelry.com/patterns/library/pumpkin-2",
+    "https://www.ravelry.com/patterns/library/soaker-3",
+    "https://www.ravelry.com/patterns/library/colorful-egg/threads",
+    "https://www.ravelry.com/patterns/library/colorful-egg/yarns",
+    "https://www.ravelry.com/patterns/library/colorful-egg/people",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/colorful-egg/posts",
+    "https://www.ravelry.com/patterns/library/colorful-egg",
+    "https://www.ravelry.com/patterns/library/colorful-egg/report",
+    "https://www.ravelry.com/patterns/library/polly-polipo",
+    "https://web.archive.org/web/20111030183616/http://www.curlypurly.com/pdf/egg.pdf",
+    "https://www.ravelry.com/patterns/library/colorful-egg/comments",
+    "https://www.ravelry.com/patterns/sources/curly-purly"
+  ],
+  "name": "Ravelry: Colorful Egg pattern by Marnie Ann Joyce"
 }

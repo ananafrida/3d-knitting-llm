@@ -1,41 +1,39 @@
 {
   "pattern_id": 549,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sunny-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-basket-2",
+  "name": "Felted Basket",
+  "description": "A felted basket - perfect for displaying your fiber!",
+  "designer": "Laura Bosch",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "30.25\" x 34\"",
+  "category": "Containers",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Plymouth Yarn Encore Worsted Solids & Heathers",
-    "Worsted (9 wpi) ?"
+    "Ístex Álafosslopi",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "rectangle",
-    "textured",
+    "3-dimensional",
+    "felted",
+    "in-the-round",
     "written-pattern"
   ],
-  "full_text": "From the pattern description: Of course this blanket can be knit in any color you please, but bright yellow brings an extra spark of joy and light. A pretty textured pattern makes it even livelier. The more you wash this yarn, the softer it gets. 29” circular needle recommended in pattern instructions. Blanket is knit flat. Finished size: 30-1/2 x 34” (77.5x86.5cm)",
+  "full_text": "A felted basket - perfect for displaying your fiber!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://lifestyle.howstuffworks.com/crafts/knitting/free-knitting-patterns-for-baby-blankets2.htm",
-    "https://www.ravelry.com/patterns/library/mary-jane-booties-5",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/sources/simple-1-2-3-knitting",
-    "https://www.ravelry.com/patterns/sources/knitting-for-babies-blankets-booties-bibs--more",
-    "https://www.ravelry.com/patterns/library/hooded-jacket-3",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/posts",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/teddy-bear-2",
-    "https://www.ravelry.com/patterns/library/sunny-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/sources/howstuffworks"
-  ],
-  "name": "Ravelry: Sunny Baby Blanket pattern by Lucie Sinkler"
+    "https://www.ravelry.com/patterns/library/fur-trimmed-doll-coat-18-doll",
+    "https://www.ravelry.com/patterns/library/felted-basket-2",
+    "https://www.ravelry.com/patterns/library/skein-brassiere",
+    "https://www.ravelry.com/patterns/sources/rippit-knits",
+    "https://www.ravelry.com/patterns/library/felted-basket-2/editors",
+    "https://www.ravelry.com/patterns/library/felted-basket-2/report",
+    "https://www.ravelry.com/patterns/library/sock-monkey-ears",
+    "https://www.ravelry.com/patterns/library/felted-basket-2/people",
+    "https://www.ravelry.com/patterns/library/felted-basket-2/posts",
+    "https://www.ravelry.com/patterns/library/felted-basket-2/comments",
+    "https://www.ravelry.com/patterns/library/felted-basket-2/yarns"
+  ]
 }

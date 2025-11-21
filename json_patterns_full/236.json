@@ -1,39 +1,35 @@
 {
   "pattern_id": 236,
-  "pattern_page": "https://www.ravelry.com/patterns/library/aline",
+  "pattern_page": "https://www.ravelry.com/patterns/library/druvsocker",
+  "name": "Druvsocker",
+  "description": "Mönstret släpps i samband med Världsdiabetesdagen den 14 november och ska föreställa kolhydratstrukturer. Sjalen är ett sätt att uppmärksamma diabetes och en särskild hyllning till min son Nils. Mönstret är gratis att ladda ner, men skänk gärna valfri summa till Barndiabetesfonden via denna insamling:",
+  "designer": "Charlotte Backlund",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "one size",
   "languages": [
-    "English"
+    "Swedish"
   ],
   "suggested_yarn": [
-    "any raffia yarn *(paper, plastic, or a mixture)",
-    "Bulky (7 wpi) ?"
+    "Isager Yarn Alpaca 2",
+    "yarn held together"
   ],
   "attributes": [
-    "adult",
-    "front-fastening",
-    "lace",
-    "lined",
-    "teen"
+    "icord",
+    "kitchener",
+    "worked-flat"
   ],
-  "full_text": "Description from Knitty.com: Small purses are fun, raffia is fun - together this is the Doublemint of fun summer purse projects! Lace is also fun, and easier than one might think! Work this up with the lace, or without for a simpler project. The lining is rayon ribbon and is worked in a mirror image of the purse.",
+  "full_text": "The pattern will be released in conjunction with World Diabetes Day on November 14 and will represent carbohydrate structures. The scarf is a way to draw attention to diabetes and a special tribute to my son Nils. The pattern is free to download, but feel free to donate any amount to the Child Diabetes Foundation via this fundraiser: link to fundraiser The Grape Sugar shawl consists of a structural pattern in straight and purl stitches that are meant to resemble grape sugar. The shawl is knitted back and forth on circular needles from tip to tip while an i-cord is knitted along the edges. Finished measurements: Width: 12 cm, length 140 cm Yarn quality and stitch size can be varied but will affect the final size, it is fine to adjust the width and length based on your own wishes, please note that the yarn consumption will then change. Yarn: 50 g Isager Alpaca 2 (250m/50g) and 25 g Isager silk mohair (212m/25g Or 50 g Sandnes thin Peer Gynt (205m/50g) and 25g Sandnes thin silk mohair (212m/25g)",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/swan-lake-wimple",
-    "https://www.ravelry.com/patterns/library/backyard-leaves",
-    "https://www.ravelry.com/patterns/library/aline/report",
-    "https://www.ravelry.com/patterns/library/aline/people",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/aline/threads",
-    "https://www.ravelry.com/patterns/sources/knitty-summer-2003",
-    "https://www.ravelry.com/patterns/library/aline/yarns",
-    "https://www.ravelry.com/patterns/library/slippy-cowl",
-    "https://www.ravelry.com/patterns/library/aline/comments",
-    "https://www.ravelry.com/patterns/library/aline",
-    "https://www.ravelry.com/patterns/library/aline/editors"
-  ],
-  "name": "Ravelry: Aline pattern by Annie Modesitt"
+    "https://www.ravelry.com/patterns/sources/charlotte-backlunds-ravelry-store",
+    "https://www.ravelry.com/patterns/library/druvsocker/yarns",
+    "https://www.ravelry.com/patterns/library/druvsocker/report",
+    "https://www.ravelry.com/patterns/library/druvsocker",
+    "https://www.ravelry.com/patterns/library/druvsocker/comments",
+    "https://www.ravelry.com/patterns/library/druvsocker/editors",
+    "https://www.ravelry.com/patterns/library/druvsocker/people"
+  ]
 }

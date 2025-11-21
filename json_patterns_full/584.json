@@ -1,44 +1,43 @@
 {
   "pattern_id": 584,
-  "pattern_page": "https://www.ravelry.com/patterns/library/party-heart-y-mosaic-knit",
+  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-bunny",
+  "name": "Catnip Bunny",
+  "description": "A rainbow of bunnies, filled with catnip to treat your kitty at Easter. Pattern has only the tiniest amount of seaming on the ears, otherwise it’s seam free and knitting on two needles.",
+  "designer": "Selina Kyle",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "Approx 35½\" x 39\" [90 x 99 cm]",
+  "category": "Pet → Toys",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "Kitty size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Bernat Baby Velvet",
-    "Bulky (7 wpi) ?"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "chart",
-    "mosaic",
-    "one-piece",
-    "rectangle",
+    "3-dimensional",
+    "bottom-up",
+    "phototutorial",
     "seamless",
-    "straight",
-    "stripes",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Intricate hearts adorn this softer-than-velvet knit blanket that’s a warm addition to baby’s world. Created in Bernat Baby Velvet yarn, you’ll soon discover that the fascinating design is actually easier than it looks to achieve. Using a slipped-stitch mosaic knitting technique, each color is worked individually in pairs of rows, ensuring that you’re only ever working with one strand of yarn at a time. It’s an interesting project that you can customize to match any nursery or playroom, so give this blanket with love. Materials: Size U.S. 7 (4.5 mm) circular knitting needle 36” 91.5 cm long",
+  "full_text": "A rainbow of bunnies, filled with catnip to treat your kitty at Easter. Pattern has only the tiniest amount of seaming on the ears, otherwise it’s seam free and knitting on two needles. Pattern is written up (badly - I’m a novice!) on my blog, with lots of pictures to make it even easier. Update - now available as a Ravelry pdf download :) This would also be a great pattern to knit for young children - a string of them as a pram toy, or to learn colours etc. Edited to add: Please feel free to make these to raise funds for charity. :)",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/party-heart-y-mosaic-knit/threads",
-    "https://www.ravelry.com/patterns/library/party-heart-y-mosaic-knit",
-    "https://www.ravelry.com/patterns/library/mosaic-stripe-and-chevron-blanket",
-    "https://www.ravelry.com/patterns/library/party-heart-y-mosaic-knit/yarns",
-    "https://www.ravelry.com/patterns/library/party-heart-y-mosaic-knit/comments",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/let-it-slip-knit-blanket",
-    "https://www.ravelry.com/patterns/library/party-heart-y-mosaic-knit/report",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/party-heart-y-mosaic-knit/editors",
-    "https://www.ravelry.com/patterns/library/party-heart-y-mosaic-knit/people",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks"
-  ],
-  "name": "Ravelry: Party Heart-Y Mosaic (Knit) pattern by Yarnspirations Design Studio"
+    "https://www.ravelry.com/patterns/library/lace-mesh-wash-cloth-dish-cloth",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/posts",
+    "https://www.ravelry.com/patterns/sources/coffee-and-cream",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/threads",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/people",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/editors",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/yarns",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/report",
+    "https://www.ravelry.com/patterns/library/liquid-soap-sleeve",
+    "https://www.ravelry.com/patterns/library/catnip-bunny/comments",
+    "https://www.ravelry.com/patterns/library/baby-doll-set",
+    "https://www.ravelry.com/patterns/library/catnip-bunny",
+    "https://www.ravelry.com/patterns/sources/coffee-and-cream-blog"
+  ]
 }

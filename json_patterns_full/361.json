@@ -1,49 +1,42 @@
 {
   "pattern_id": 361,
-  "pattern_page": "https://www.ravelry.com/patterns/library/show-your-stripes-jacket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/doll-diaper-2",
+  "name": "Doll Diaper",
+  "description": "My granddaughter requested diapers for some dolls I recently made her (Oak Folk by Sandra Magalhães - here is Ravelry Link). They are adorable.",
+  "designer": "J.G. Miller",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "17\" (18\")",
+  "category": "Softies → Doll",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Bernat Softee Baby Colors",
+    "",
     "DK (11 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "buttonholes",
-    "female",
-    "hood",
-    "long-sleeve",
-    "male",
-    "one-piece",
-    "seamed",
-    "sideways",
-    "toddler",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round",
+    "kitchener",
+    "modular",
+    "seamless",
+    "top-down"
   ],
-  "full_text": "This fun hooded jacket, knit in Bernat® Softee® Baby Colors™, is stitched in modern and bright shades. Note: Jacket is worked in 1 piece from cuff to cuff. Yarn for model: Bernat®Softee®Baby Colors™ (4.2 oz/120 g; 310 yds/284 m) Contrast A Pink Rainbow (51002) 1 ball Contrast B Teal Rainbow (51007) 1 ball SIZES To fit chest measurement: 6 mos. 17” 43 cm 12 mos. 18” 45 cm Finished chest measurement: 6 mos. 17” 43 cm 12 mos. 20” 51 cm size U.S. 6 (4 mm) circular knitting needle 29” 74 cm long Gauge: 21 sts and 40 rows = 4”/10cm in garter st a stitch marker, a stitch holder, and 3 buttons for this project.",
-  "techniques": [],
+  "full_text": "My granddaughter requested diapers for some dolls I recently made her (Oak Folk by Sandra Magalhães - here is Ravelry Link). They are adorable. https://www.ravelry.com/patterns/library/the-oak-folk-dol... I looked for a diaper that had what I wanted (mostly in the round, with angled legs) but didn’t find anything I really liked. So, after some trial and error, here’s what I came up with. Construction - you cast on and work in the round until the legs. Then you work the front only (like if you were doing a sock heel). When finished with the front, you add yarn and work the back the same way. Crotch is closed with kitchener stitch. For the flaps, you pick up stitches vertically, knit them and then sew them down. Takes approximately 5 grams of yarn.",
+  "techniques": [
+    "pick up stitches"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/little-gnome-hat-4",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/edit",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/people",
-    "https://www.ravelry.com/patterns/sources/bernat-yarn-wrapper-or-free-paper-leaflets",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/comments",
-    "https://www.ravelry.com/patterns/library/garter-stitch-corner-to-corner-blanket",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/yarns",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/report",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/editors",
-    "http://www.yarnspirations.com/patterns/bernat-show-your-stripes-knit-jacket.html",
-    "https://www.ravelry.com/patterns/library/star-blanket-6",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2"
-  ],
-  "name": "Ravelry: Show Your Stripes Jacket pattern by Bernat Design Studio"
+    "https://www.ravelry.com/patterns/library/hat-23-cool-slips-d",
+    "https://www.ravelry.com/patterns/library/hat-26-lace-ladders",
+    "https://www.ravelry.com/patterns/library/hat-30-lace-a",
+    "https://www.ravelry.com/patterns/library/the-oak-folk-doll-body",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/yarns",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/comments",
+    "https://www.ravelry.com/patterns/sources/jg-millers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/editors",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/people",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/report"
+  ]
 }

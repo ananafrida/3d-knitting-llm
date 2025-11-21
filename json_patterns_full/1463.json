@@ -1,41 +1,39 @@
 {
   "pattern_id": 1463,
-  "pattern_page": "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes",
-  "name": "Holiday Frost Snowflakes",
-  "description": "Add joy to your holidays with these beautiful knit snowflakes. Three festive designs to pick from and each one takes only one mini.",
-  "designer": "Bobbi IntVeld",
+  "pattern_page": "https://www.ravelry.com/patterns/library/summit-class-pouch",
+  "name": "Summit Class Pouch",
+  "description": "This sweet beginner bag will give new knitters lots of practice with new stitch patterns. Feel free to use this for yourself or to teach others.",
+  "designer": "Elizabeth Carley",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Blue Sky Fibers Woolstok Bundle",
-    "Worsted (9 wpi) ?"
+    "Bulky (7 wpi) ?",
+    "Valley Yarns Haydenville Bulky"
   ],
   "attributes": [
-    "worked-flat",
+    "ribbed",
+    "textured",
     "written-pattern"
   ],
-  "full_text": "Add joy to your holidays with these beautiful knit snowflakes. Three festive designs to pick from and each one takes only one mini. EXPERIENCE LEVEL Advanced beginner MATERIALS WOOLSTOK (WORSTED) BUNDLE (100% Fine Highland Wool, 21 mini hanks; 5g/12yds): 1 bundle (Holiday Frost) Tapestry needle FINISHED DIMENSIONS SNOWFLAKE 1: 4½” SNOWFLAKE 2: 5¼” SNOWFLAKE 3: 5” COLOR SHOWN Storm Cloud No. 1301 Thermal Spring No. 1318 October Sky No. 1305 Spring Ice No. 1320 Drift Wood No. 1312 Highland Fleece No. 1303 Grey Harbor No. 1304",
+  "full_text": "This sweet beginner bag will give new knitters lots of practice with new stitch patterns. Feel free to use this for yourself or to teach others.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/27-color-crochet-hat",
-    "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes/threads",
-    "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes",
-    "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes/report",
-    "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes/yarns",
-    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
-    "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes/people",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
-    "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes/comments",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fall-leaves-13",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
-    "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes/editors"
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/report",
+    "https://www.ravelry.com/patterns/library/peak-cozy-redux",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/comments",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/people",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/threads",
+    "https://www.ravelry.com/patterns/library/zenith-cowl--scarf",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/yarns",
+    "https://www.ravelry.com/patterns/library/finger-blankets",
+    "https://www.ravelry.com/patterns/library/summit-class-pouch/editors",
+    "https://www.ravelry.com/patterns/sources/elizabeth-carleys-ravelry-store"
   ]
 }

@@ -1,43 +1,40 @@
 {
   "pattern_id": 1291,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-parlor-cat",
-  "name": "The Parlor Cat",
-  "description": "With paws tucked in and tail to his side, The Parlor Cat makes a very prim and proper house guest. Knit in the round, it is one piece from head to tail, and a befitting 10” long and 7” wide.",
-  "designer": "Sara Elizabeth Kellner",
+  "pattern_page": "https://www.ravelry.com/patterns/library/souffle-tee",
   "craft": "Knitting",
-  "category": "Softies → Animal",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "one size",
+  "category": "Tops → Tee",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "XS [S, M, L, XL] [2XL, 3XL, 4XL, 5XL]",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Hedgehog Fibres Oh So Fine Soufflé"
   ],
   "attributes": [
-    "3-dimensional",
+    "adult",
     "in-the-round",
-    "kitchener",
-    "one-piece",
-    "short-rows"
+    "positive-ease",
+    "top-down",
+    "worked-flat"
   ],
-  "full_text": "With paws tucked in and tail to his side, The Parlor Cat makes a very prim and proper house guest. Knit in the round, it is one piece from head to tail, and a befitting 10” long and 7” wide.",
+  "full_text": "Lightweight and delicate short sleeve pattern with a whimsical and fluffy texture. One piece, top down construction, designed to fit loosely for an easy to wear layering top. Colourway pictured is Peony.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitting-for-beginners---third-edition",
-    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat",
-    "https://www.ravelry.com/patterns/library/tiny-parlor-cat",
-    "https://www.ravelry.com/patterns/library/henrys-bunny",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/threads",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/report",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/posts",
-    "https://www.ravelry.com/patterns/library/the-window-cat",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/editors",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/yarns",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/comments",
-    "https://www.ravelry.com/patterns/library/the-parlor-cat/people"
-  ]
+    "https://www.ravelry.com/patterns/library/souffle-tee/comments",
+    "https://www.ravelry.com/patterns/library/souffle-tee/report",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/souffle-tee",
+    "https://www.ravelry.com/patterns/library/tweedy-junior",
+    "https://www.ravelry.com/patterns/library/souffle-tee/yarns",
+    "https://www.ravelry.com/patterns/library/souffle-tee",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/faefolk-hood",
+    "https://www.ravelry.com/patterns/library/souffle-tee/threads",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/souffle-tee/editors",
+    "https://www.ravelry.com/patterns/library/souffle-tee/people"
+  ],
+  "name": "Ravelry: Soufflé Tee pattern by Beata Jezek"
 }

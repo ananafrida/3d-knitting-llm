@@ -1,47 +1,45 @@
 {
   "pattern_id": 1630,
-  "pattern_page": "https://www.ravelry.com/patterns/library/babbity-baby-jacket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/autumn-pumpkins",
+  "name": "Autumn Pumpkins",
+  "description": "I wasn’t happy with the pumpkin patterns that I found so I created one of my own. This is an intermediate pattern which includes working in the round, increases and decreases, provisional CO, and I-cord. I prefer the two circular method of knitting in the round, but you may use DPNs or Magic Loop if you prefer.",
+  "designer": "Jan Lewis",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan",
+  "category": "Decorative → Other",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Newborn, 3 months, 6 - 9 months, 9 - 12 months",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Plymouth Yarn Encore Worsted Solids & Heathers",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "female",
-    "long-sleeve",
-    "male",
-    "newborn-size",
-    "seamless",
-    "top-down",
-    "unisex",
-    "worked-flat",
+    "icord",
+    "in-the-round",
+    "provisional",
+    "ribbed",
     "written-pattern"
   ],
-  "full_text": "This is a very popular, easy-to-knit little baby cardigan jacket. Great for a new baby - boy or girl. Knitted top-down with a garter stitch yoke A simple and elegant design Add cute buttons for a contemporary look Sizes: Newborn, 3 months, 6 - 9 months, 9 - 12 months (preemie sizes also available) Requirements: DK (8ply) yarn 4mm needles 3 or 6 buttons To get this free pattern please click on the https link just below ↓ The original pattern was for a 3 button version. And - due to popular demand I have now added a fully-buttoned version too! Matching hat, and booties are also available, if you wish to make a little set.. A lovely gender-neutral design.",
+  "full_text": "I wasn’t happy with the pumpkin patterns that I found so I created one of my own. This is an intermediate pattern which includes working in the round, increases and decreases, provisional CO, and I-cord. I prefer the two circular method of knitting in the round, but you may use DPNs or Magic Loop if you prefer. 10/25/2013 - most of you figured out the small error, but it’s now been corrected. 11/19/2016 - After making several of these I’ve discovered that decreasing a few rows at the bottom before filling and closing makes the close better for heavier yarn. I just decreased each rib down to 3 then down to 2 before ending. If you prefer you can do this on other weights as well. I’ll update the pattern soon.",
   "techniques": [
-    "top-down"
+    "decreases",
+    "increases"
   ],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/babbity-baby-hat",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/people",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/threads",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/comments",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/posts",
-    "https://www.ravelry.com/patterns/library/mariannas-lazy-daisy-all-in-one-top-down-cardigan",
-    "https://www.ravelry.com/patterns/library/all-in-one-baby-top",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/report",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/yarns",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/editors"
-  ],
-  "name": "Ravelry: Babbity Baby Jacket pattern by marianna mel"
+    "https://www.ravelry.com/patterns/library/autumn-pumpkins/yarns",
+    "https://www.ravelry.com/patterns/library/autumn-pumpkins/posts",
+    "https://www.ravelry.com/patterns/library/autumn-pumpkins",
+    "https://www.ravelry.com/patterns/sources/jans-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/autumn-pumpkins/editors",
+    "https://www.ravelry.com/patterns/library/seamless-mini-christmas-stocking-v-2",
+    "https://www.ravelry.com/patterns/library/autumn-pumpkins/comments",
+    "https://www.ravelry.com/patterns/library/textured-windows-scarf",
+    "https://www.ravelry.com/patterns/library/autumn-pumpkins/threads",
+    "https://www.ravelry.com/patterns/library/autumn-pumpkins/people",
+    "https://www.ravelry.com/patterns/library/autumn-pumpkins/report",
+    "http://members.cox.net/janlewis1/Autumn%20Pumpkins.pdf"
+  ]
 }

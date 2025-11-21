@@ -1,39 +1,36 @@
 {
   "pattern_id": 1796,
-  "pattern_page": "https://www.ravelry.com/patterns/library/dotty-pots",
-  "name": "Dotty Pots",
-  "description": "These little pots fit in the palm of your hand but are sturdy enough to stand up on their own. You will only need about 15g of double knitting weight yarn to knit a Dotty Pot and a much smaller amount of variegated yarn for the dots. They are knitted in the round and are fun to knit - much easier than they look. Instructions are also included for a bigger pot.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme",
+  "name": "Ferse ohne Fersenwand mit Maschenaufnahme",
+  "description": "Update V2 - V3: Seite 2 die Zunahme bei Nadel 4 verbessert, war missverständlich.",
+  "designer": "Uli Feiler",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Components → Other",
   "languages": [
-    "English"
+    "German"
   ],
   "suggested_yarn": [
     "",
-    "DK (11 wpi) ?"
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
     "in-the-round",
-    "one-piece",
-    "slipped-stitches"
+    "schematic",
+    "written-pattern"
   ],
-  "full_text": "These little pots fit in the palm of your hand but are sturdy enough to stand up on their own. You will only need about 15g of double knitting weight yarn to knit a Dotty Pot and a much smaller amount of variegated yarn for the dots. They are knitted in the round and are fun to knit - much easier than they look. Instructions are also included for a bigger pot. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
-  "techniques": [],
-  "shape": "sphere",
+  "full_text": "Update V2 - V3: Page 2 improved the increase on needle 4, was misleading. Page 1 shows better that the increases apply to all three variations. This is the heel that my grandma showed me for knitting socks. It saves you the heel wall and the hassle of picking up stitches and has so far suited all foot shapes, even those with a high instep. For me the biggest advantage: One basic principle and depending on where the stitches are increased, three different heels are created. I've tried a lot of other heel designs so far, but I always come back to this one. It doesn't matter whether you knit with 4, 6 or 8 ply sock yarn, no matter what needle size. It just depends on the number of stitches per needle. This brings us to the only catch: I learned to knit the heel with double pointed needles, and I still prefer to knit socks with double pointed needles. I have now tried to formulate this for the circular needle knitters, so the needle change is then marked with stitch markers. At the same time, I tried to schematically visualize the principle of increasing stitches at the right place.",
+  "techniques": [
+    "increases"
+  ],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/dotty-pots/posts",
-    "https://www.ravelry.com/patterns/library/dotty-bag-2",
-    "https://www.ravelry.com/patterns/library/dotty-pots/yarns",
-    "https://www.ravelry.com/patterns/library/needle-tree",
-    "https://www.ravelry.com/patterns/library/dotty-pots/report",
-    "https://www.ravelry.com/patterns/library/dotty-pots/editors",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/dotty-pots",
-    "https://www.ravelry.com/patterns/library/dotty-pots/threads",
-    "https://www.ravelry.com/patterns/library/dotty-pots/comments",
-    "https://www.ravelry.com/patterns/library/dotty-pots/people",
-    "https://www.ravelry.com/patterns/library/the-night-before-christmas-2"
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/threads",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/report",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/editors",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/comments",
+    "https://www.ravelry.com/patterns/sources/uli-feilers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/yarns",
+    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/people"
   ]
 }

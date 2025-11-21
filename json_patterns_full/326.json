@@ -1,42 +1,43 @@
 {
   "pattern_id": 326,
-  "pattern_page": "https://www.ravelry.com/patterns/library/under-door-two-cat-toy",
+  "pattern_page": "https://www.ravelry.com/patterns/library/daisy-may",
+  "name": "Daisy May",
+  "description": "Daisy May is a sweet little doll, and makes a quick knitting project to use up odds and ends of yarn. Designed by Amanda Berry @fluffandfuzz, the doll is knitted in acrylic DK yarns on single pointed needles (not in the round).",
+  "designer": "Amanda Berry",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "One size",
+  "category": "Softies → Doll",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "15cm tall",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Herrschners Worsted Weight"
+    "DK (11 wpi) ?",
+    "Adriafil Mirage"
   ],
   "attributes": [
-    "icord",
-    "one-piece",
     "seamed",
-    "sphere-shaped",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The two balls are worked flat and connected by a length of i-cord, worked all in one piece Pictured toy is about 10” long. Ball ends are stuffed with polyester fiber-fill or waste yarn and a jingle bell, then sewn shut. Gauge is not important, but fabric should be firm enough to hold stuffing invisibly.",
+  "full_text": "Daisy May is a sweet little doll, and makes a quick knitting project to use up odds and ends of yarn. Designed by Amanda Berry @fluffandfuzz, the doll is knitted in acrylic DK yarns on single pointed needles (not in the round). NEEDLES A pair of 4mm single pointed knitting needles (US 6). RECOMMENDED YARN Adriafil Mirage DK; double knitting/light worsted weight; 55% merino/45% acrylic; less than 25g in each shade, NOTIONS Tapestry needle, toy filling, black beads for eyes, and a stitch holder. SIZES One size only - 15cm tall. TECHNIQUES For confident beginners and above, other techniques used include casting on and off, knits, purls, increases and decreases, and seaming to finish. PATTERN INFO This knitting pattern is a pdf download, 3 pages, and written in English. Patterns for personal use only; not for resale. Copyright © 2014 Amanda Berry; All rights reserved.",
   "techniques": [
-    "worked flat"
+    "decreases",
+    "increases"
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/people",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/comments",
-    "https://www.ravelry.com/patterns/library/stashbuster-stripe-dishcloth",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/threads",
-    "https://www.ravelry.com/patterns/library/mitred-square-butterfly-blanket",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/yarns",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/report",
-    "https://www.ravelry.com/patterns/sources/fun-things-to-do-while-youre-waiting",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy"
-  ],
-  "name": "Ravelry: Under Door Two-Cat Toy pattern by Sheila Ralston"
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/patterns/library/daisy-may/threads",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/daisy-may/report",
+    "https://www.ravelry.com/patterns/library/daisy-may/editors",
+    "https://www.ravelry.com/patterns/library/kevin-the-penguin",
+    "https://www.ravelry.com/patterns/library/dinky-reindeer",
+    "https://www.ravelry.com/patterns/library/daisy-may/yarns",
+    "https://www.ravelry.com/patterns/library/santa-and-snowman",
+    "https://www.ravelry.com/patterns/library/daisy-may/people",
+    "https://www.ravelry.com/patterns/library/daisy-may/comments",
+    "https://www.ravelry.com/patterns/library/daisy-may"
+  ]
 }

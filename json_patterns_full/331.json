@@ -1,36 +1,41 @@
 {
   "pattern_id": 331,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mouse-cat-toy-4",
-  "name": "Mouse Cat Toy",
-  "description": "A knitted mouse toy for your cat with little bobble ears and a crocheted tail.",
-  "designer": "Patricia Wake",
+  "pattern_page": "https://www.ravelry.com/patterns/library/greta-thunberg",
   "craft": "Knitting",
-  "category": "Pet → Toys",
+  "category": "Softies → Doll",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Any gauge - designed for any gauge ?"
+    "DK (11 wpi) ?",
+    "Paintbox Yarns Cotton DK"
   ],
   "attributes": [
-    "one-piece",
+    "3-dimensional",
     "seamed",
+    "stripes-colorwork",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A knitted mouse toy for your cat with little bobble ears and a crocheted tail. A great stashbuster. Use up those small leftovers from other projects! Any yarn can be used. The weight of the yarn will determine how small or large the mouse comes out. Other materials needed: Needle size appropriate to obtain a tight gauge. Try one size smaller than the size recommended on the yarn packaging. Crochet hook same size as knitting needles. Tapestry needle. 2-4 cotton balls or fiber fill. Loose leaf catnip. Gauge: not important for sizing, but should be tight enough to prevent filling from coming out through the stitches.",
+  "full_text": "Knit your own Greta Thunberg! The Greta Thunberg doll by Amanda Berry is part of ‘Today’s Inspiring Women’ - an exclusive LoveCrafts pattern collection. The collection, launched 8th March 2020 for International Women’s Day.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/yarns",
-    "https://www.ravelry.com/patterns/library/frost-flowers-lined-hat",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/people",
-    "https://www.ravelry.com/patterns/sources/patricia-wakes-ravelry-store",
-    "https://www.ravelry.com/patterns/library/frost-flowers-hand-muff",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/comments",
-    "https://www.ravelry.com/patterns/library/halloween-shadows",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/editors",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/report",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4"
-  ]
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/sources/amanda-berry-on-lovecrafts",
+    "https://www.lovecrafts.com/en-gb/p/greta-thunberg-todays-inspiring-women-knitting-pattern-by-lovecrafts?utm_medium=affiliate&a_aid=166045df",
+    "https://www.ravelry.com/patterns/library/greta-thunberg/comments",
+    "https://www.ravelry.com/patterns/library/greta-thunberg/threads",
+    "https://www.ravelry.com/patterns/library/greta-thunberg",
+    "https://www.ravelry.com/patterns/library/greta-thunberg/yarns",
+    "https://www.ravelry.com/patterns/library/greta-thunberg/editors",
+    "https://www.ravelry.com/patterns/library/radishes",
+    "https://www.ravelry.com/patterns/library/tom-daley-gold-medal",
+    "https://www.ravelry.com/patterns/library/granny-3",
+    "https://www.ravelry.com/patterns/library/greta-thunberg/report",
+    "https://www.ravelry.com/patterns/library/greta-thunberg/people"
+  ],
+  "name": "Ravelry: Greta Thunberg pattern by Amanda Berry"
 }

@@ -1,52 +1,36 @@
 {
   "pattern_id": 668,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hesh",
-  "name": "Hesh",
-  "description": "Hesh is a variation of a traditional Scandinavian pixie-shaped hat modified for grown ups. The cap is knitted on the bias with perfectly fitted ear flaps, icord ties and tassels, making for a devilish little accessory. This quick hat is a gift-knitter’s dream just in time for the holidays!",
-  "designer": "Malia Mae Joseph",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cat-nip-mouse",
+  "name": "Cat Nip Mouse",
+  "description": "The pattern is free but if I find out the pattern is being sold for profit, watch out",
+  "designer": "Coral Bale",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "S (M, L)",
+  "category": "Pet → Toys",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Malabrigo Yarn Rios",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Twilleys of Stamford Freedom Spirit"
   ],
   "attributes": [
-    "bottom-up",
-    "chevron",
-    "female",
-    "icord",
-    "in-the-round",
-    "male",
-    "one-piece",
-    "stripes-colorwork",
-    "unisex",
-    "written-pattern"
+    "seamed",
+    "worked-flat"
   ],
-  "full_text": "Hesh is a variation of a traditional Scandinavian pixie-shaped hat modified for grown ups. The cap is knitted on the bias with perfectly fitted ear flaps, icord ties and tassels, making for a devilish little accessory. This quick hat is a gift-knitter’s dream just in time for the holidays! Sizes S (M, L) Finished Measurements 20” / 51cm circumference, shown on a 22.5” / 57cm head. Yardage Color A - 125yds / 115m Color B: 100 yds / 92m Shown in Malabrigo Rios Color A - Bobby Blue Color B - Sand Bank Needles US 6 / 4mm circular or DPNs using either magic loop method or dons. Notions 1 stitch marker, tapestry needle Gauge 20 sts = 4” / 10cm in stockinette stitch Errata There was a small error in the first pattern release. I released an update that corrects it. The correction was after the first 3 rounds. Here is what it should say: Next round: K1, m1l, k17, s2kp, k17, m1r, ( k1, m1l, k17, s2kp, k17, m1r) twice, k1. Next round: K Repeat last 2 rounds 8(10, 12) times. The sizing is done in various lengths rather than number of stitched cast on. You might be tempted to do more of these two rounds because it seems awfully early to start the decreasing, but you’ll end up with a hat that is too big if you just keep going. The decreases happen slowly. Shop Yarn at Stephen & Penelope Find the perfect yarn for your project at Stephen & Penelope! We ship worldwide! https://www.stephenandpenelope.com/",
-  "techniques": [
-    "decreases"
-  ],
-  "shape": "sphere",
+  "full_text": "The pattern is free but if I find out the pattern is being sold for profit, watch out",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/malia-mae",
-    "https://www.ravelry.com/patterns/library/hesh/report",
-    "https://www.ravelry.com/patterns/sources/westknits-choreokal-stretch-it",
-    "https://www.ravelry.com/patterns/library/hesh/posts",
-    "https://www.ravelry.com/patterns/library/gestrikt",
-    "https://www.ravelry.com/patterns/library/lyr",
-    "https://www.ravelry.com/patterns/library/tiny-kerchiefs",
-    "https://www.ravelry.com/patterns/library/hesh/yarns",
-    "https://www.ravelry.com/patterns/sources/westknits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/hesh/comments",
-    "https://www.ravelry.com/patterns/library/hesh/editors",
-    "https://www.ravelry.com/bundles/free-patterns-869",
-    "https://www.ravelry.com/patterns/library/hesh/threads",
-    "https://www.ravelry.com/patterns/library/hesh",
-    "https://www.ravelry.com/patterns/library/hesh/people"
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/report",
+    "https://www.ravelry.com/patterns/library/tissue-pouch",
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/editors",
+    "https://www.ravelry.com/patterns/sources/reefgirls-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/the-stig",
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/comments",
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse/people",
+    "https://www.ravelry.com/patterns/library/preemie-beanie-2",
+    "https://www.ravelry.com/patterns/library/cat-nip-mouse"
   ]
 }

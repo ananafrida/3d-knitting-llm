@@ -1,36 +1,37 @@
 {
   "pattern_id": 17,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cat-square-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/ninja-mask",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "8.5\" x 8.5\"",
+  "category": "Costume",
+  "sizes_available": "one fits all",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Lion Brand Microspun"
   ],
   "attributes": [
-    "chart",
+    "adult",
+    "one-piece",
+    "sideways",
+    "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Pattern for a Cat square. Great as a dishcloth, washcloth or with other squares to form a blanket or afghan. There are lots more free knitted square patterns available on my website. Both chart and written pattern are included and are very easy - just knit and purl stitches. Finished square: using DK (light worsted weight) yarn and 4 mm - US6, UK8 - needles approximately 22 cm x 22 cm (8.5 inches x 8.5 inches) using Worsted weight yarn and 4.5 mm knitting needles (US size 7, UK size 7) finished square is approximately 26 cm x 26 cm (10 inches x 10 inches) Of course you can use any plain yarn with the manufacturers recommended needle size, but if it is a different weight yarn it will change the size of the square. Light, plain coloured yarns show up the image best. This square is the same size as my other free squares - together they could make a fantastic afghan!",
+  "full_text": "Perfect for Halloween or Knit-Like-A-Ninja Day! The mask is constructed from end-to-end and can be made in garter or stockinette stitch, depending on your preference. The eye-holes can also be modified to fit various size eyes by adding or subtracting rows around the openings. You can find this pattern on Who Needs Gauge?!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cat-square-2/editors",
-    "https://www.ravelry.com/patterns/library/paw-print-square",
-    "https://www.ravelry.com/patterns/library/cat-square-2",
-    "https://www.ravelry.com/patterns/library/cat-square-2/comments",
-    "https://www.ravelry.com/patterns/library/snake-square",
-    "https://www.ravelry.com/patterns/library/cat-square-2/threads",
-    "https://www.ravelry.com/patterns/library/cat-square-2/yarns",
-    "https://www.ravelry.com/patterns/library/cat-square-2/report",
-    "https://www.ravelry.com/patterns/library/cat-square-2/people",
-    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
-    "https://www.ravelry.com/patterns/library/interlocking-hearts-square"
+    "https://www.ravelry.com/patterns/library/ninja-mask/people",
+    "https://www.ravelry.com/patterns/library/ninja-mask/comments",
+    "https://www.ravelry.com/patterns/library/ninja-mask/threads",
+    "https://www.ravelry.com/patterns/library/saffron-hill-mitts",
+    "https://www.ravelry.com/patterns/sources/who-needs-gauge",
+    "https://www.ravelry.com/patterns/library/ninja-mask/editors",
+    "https://www.ravelry.com/patterns/library/ninja-mask",
+    "https://www.ravelry.com/patterns/library/ninja-mask/yarns",
+    "https://www.ravelry.com/patterns/library/ninja-mask/report"
   ],
-  "name": "Ravelry: Cat Square pattern by Daisy and Storm"
+  "name": "Ravelry: Ninja Mask pattern by Stephanie Davis"
 }

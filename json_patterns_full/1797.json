@@ -1,40 +1,38 @@
 {
   "pattern_id": 1797,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pyramid-pods",
-  "name": "Pyramid Pods",
-  "description": "Little gift/storage pods. Decorated with a little loop at the top and toggle closure.",
-  "designer": "Ellen Kapusniak",
+  "pattern_page": "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks",
+  "name": "THIK (This is How I Knit) Socks",
+  "description": "This pattern is also available for FREE via the plank &amp; stella Ko-fi shop.",
+  "designer": "Melissa Lambino",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "Small, Medium, Large.",
+  "category": "Components → Other",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Sublime Yarns Extra Fine Merino Wool DK",
-    "DK (11 wpi) ?"
+    "Light Fingering ?",
+    "plank & stella DK"
   ],
   "attributes": [
-    "one-piece",
-    "pyramid",
-    "seamed",
-    "worked-flat"
+    "afterthought-heel",
+    "in-the-round",
+    "kitchener",
+    "written-pattern"
   ],
-  "full_text": "Little gift/storage pods. Decorated with a little loop at the top and toggle closure. Small: 10 cm/4 in. (Medium: 11.5 cm/4.5 in., Large: 12.5 cm/5 in.). Measurements are for length of opening. Requires 47 (59, 77) metres/51 (64, 84) yards of DK weight yarn. This is a beginner/easy level pattern. The pods are super simple to knit. All you need to know is how to cast-on, bind-off, knit and purl. The shape comes from the way they are sewn up, with just two easy straight seams. Pattern includes not only the knitting instructions, but tips for success, and assembly diagrams. Also includes sewing stitch instructions/tips, and comprehensive customisation information, so you can resize or adapt the basic pod design to work using different yarn weights and stitch patterns.",
+  "full_text": "This pattern is also available for FREE via the plank & stella Ko-fi shop . THIK (This is How I Knit) Socks, is how I knit socks that I’ve cranked from a tube. Well…mostly…I don’t bother with waste yarn because I like to live on the edge with live stitches waving around. This pattern is for afterthought everything using just the yarn from the knit tube. But you could easily sub in contrast yarn for some or all parts. Yarn: shown in plank & stella 4-ply sock - approx. 300 - 350 yards used from 463 yards What You’ll Need: 100g knit tube cranked by plank & stella contrast yarn (optional) US 1.5 32” circular needles (fingering) US 4 32” circular needles (DK) 1 removable stitch marker tapestry needle",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pyramid-pods/editors",
-    "https://www.ravelry.com/patterns/sources/knitti-politi",
-    "https://www.ravelry.com/patterns/library/the-little-friar",
-    "https://www.ravelry.com/patterns/library/pyramid-pods/comments",
-    "https://www.ravelry.com/patterns/library/point-5-hand-felted-trinket-box",
-    "https://www.ravelry.com/patterns/library/pyramid-pods",
-    "https://www.ravelry.com/patterns/library/pyramid-pods/threads",
-    "https://www.ravelry.com/patterns/library/mini-waffle-duffle",
-    "https://www.ravelry.com/patterns/library/pyramid-pods/people",
-    "https://www.ravelry.com/patterns/library/pyramid-pods/report",
-    "https://www.ravelry.com/patterns/library/pyramid-pods/yarns"
+    "https://www.ravelry.com/patterns/library/little-in-the-middle-hat",
+    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/editors",
+    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/people",
+    "https://www.ravelry.com/patterns/library/one-two-three-and-to-the-four",
+    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks",
+    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/yarns",
+    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/report",
+    "https://www.ravelry.com/patterns/library/welcome-to-the-squish-show",
+    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/comments",
+    "https://www.ravelry.com/patterns/sources/plank--stella"
   ]
 }

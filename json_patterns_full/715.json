@@ -1,38 +1,45 @@
 {
   "pattern_id": 715,
-  "pattern_page": "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen",
-  "name": "wald-zwergenmützchen",
-  "description": "Größe einfach variierbar: je 4 Maschen hinzufügen um das Mützchen größer zu stricken",
-  "designer": "frau kreativberg",
+  "pattern_page": "https://www.ravelry.com/patterns/library/baby-building-block-cube",
+  "name": "Baby building block cube",
+  "description": "Pattern gives Instructions to make a 6x6 inches Aran (worsted weight), 5x5 inches DK (sport weight), 4x4 inches 4Ply (fingering weight) cube.",
+  "designer": "Fiona Kelly",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "3 monate und älter",
+  "category": "Blocks",
+  "sizes_available": "6x6 inches, 5x5 inches, 4x4 inches square",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Thread ?",
-    "Silke Peo 30"
+    "Rico Design Essentials Cotton DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
+    "3-dimensional",
+    "chart",
+    "cube-shaped",
+    "duplicate-stitch",
+    "embroidery",
+    "other-colorwork",
+    "phototutorial",
+    "textured",
     "written-pattern"
   ],
-  "full_text": "Size can be easily varied: add 4 stitches each to knit the hat larger",
+  "full_text": "Pattern gives Instructions to make a 6x6 inches Aran (worsted weight), 5x5 inches DK (sport weight), 4x4 inches 4Ply (fingering weight) cube. This knitted cube toy is an ideal project for a beginner to make. It is simple & easy to knit & embroider. Each letter and picture motif is duplicate stitch embroidered (UK Swiss Darn) onto a single colour knitted square. To ensure the finished cube has flat stable sides & keeps its shape I suggest using foam precut to the required size inside rather than loose stuffing. This is a simple and delightful toy that any precious new arrival will treasure, love & have many hours of fun with over the years. EU ravelry members will be re-directed to loveknitting to complete their pattern purchase",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/editors",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/comments",
-    "https://www.ravelry.com/patterns/library/stulpen-2",
-    "https://www.ravelry.com/patterns/sources/kreativberg-2",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/people",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/report",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/posts",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen",
-    "https://www.ravelry.com/patterns/library/einfache-herrenmutze",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/yarns",
-    "https://www.ravelry.com/patterns/library/wald-zwergenmutzchen/threads",
-    "https://www.ravelry.com/patterns/library/kreativbergs-kurbismutze"
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/threads",
+    "https://www.ravelry.com/patterns/sources/tangled-blossoms-designs",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/people",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/editors",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/comments",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/report",
+    "https://www.ravelry.com/patterns/library/multi-colour-flower-blanket-square",
+    "https://www.ravelry.com/patterns/library/songbird-blanket-square",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/posts",
+    "https://www.ravelry.com/patterns/library/baby-building-block-cube/yarns",
+    "https://www.ravelry.com/patterns/library/marlion"
   ]
 }

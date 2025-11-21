@@ -1,39 +1,47 @@
 {
   "pattern_id": 1303,
-  "pattern_page": "https://www.ravelry.com/patterns/library/which-came-first-4",
-  "name": "Which Came First?",
-  "description": "I’ve recently been inspired to work through my stash and experiment with freeform knitting.",
-  "designer": "Dee Frey",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lotus-33",
   "craft": "Knitting",
-  "category": "Softies → Animal",
+  "category": "Tops → Tee",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "S (M) L (XL)",
   "languages": [
-    "English"
+    "Danish",
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "",
-    "Any gauge - designed for any gauge ?"
+    "DK (11 wpi) ?",
+    "Filcolana Pernilla"
   ],
   "attributes": [
-    "3-dimensional",
+    "adult",
+    "chart",
+    "circular-yoke",
+    "female",
     "in-the-round",
-    "modular",
-    "one-piece",
+    "seamless",
+    "stranded",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "I’ve recently been inspired to work through my stash and experiment with freeform knitting. This chicken and egg pattern came to life from the experiment and my current obsession with chickens (our flock of 51 will expand again this year). Chickens in the photos were knitted from a variety of yarn weights, from double-stranded fingering to bulky stranded with fingering and/or worsted weights. Stranding different weights together produces a much different effect than the same weights held together. Some clarification if you’re confused, each row is a new line in the pattern. For the first, KFB through each stitch; the second, KFB, K1, PM, repeat to end, etc. I hope this helps with any possible confusion, it’s been a while since I’ve written a new pattern.",
+  "full_text": "Lotus is a short-sleeved blouse with a characteristic Nordic pattern on the circular yoke. The lovely floral motif of the pattern is inspired by Lotus flowers, that symbolize pureness of mind and soul. A short-sleeved sweater with the characteristic Nordic pattern border on the yoke. The beautiful floral pattern is reminiscent of the white lotus flower, which symbolizes the purity of mind and soul. A short blouse with a Nordic characteristic design has a beautiful design. The small flower part is inspired by the high-quality lotus flower, which symbolizes the flowers and the flowers.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/blackraynes-ravelry-downloads",
-    "https://www.ravelry.com/patterns/library/which-came-first-4",
-    "https://www.ravelry.com/patterns/library/dobby-style-sockmark",
-    "https://www.ravelry.com/patterns/library/which-came-first-4/report",
-    "https://www.ravelry.com/patterns/library/which-came-first-4/editors",
-    "https://www.ravelry.com/patterns/library/which-came-first-4/yarns",
-    "https://www.ravelry.com/patterns/library/which-came-first-4/people",
-    "https://www.ravelry.com/patterns/library/kitty-dishcloth",
-    "https://www.ravelry.com/patterns/library/which-came-first-4/comments",
-    "https://www.ravelry.com/patterns/library/which-came-first-4/threads",
-    "https://www.ravelry.com/patterns/library/skully-dishcloth"
-  ]
+    "https://www.ravelry.com/patterns/library/lotus-33",
+    "https://www.ravelry.com/patterns/library/lotus-33/threads",
+    "https://www.ravelry.com/patterns/library/lotus-33/yarns",
+    "https://www.ravelry.com/patterns/library/nordstrand",
+    "https://www.ravelry.com/patterns/library/lotus-33/comments",
+    "https://www.ravelry.com/patterns/library/lotus-33/editors",
+    "https://www.ravelry.com/patterns/library/lathyrus-2",
+    "https://www.ravelry.com/patterns/library/rimfrost-sweater",
+    "https://www.ravelry.com/patterns/sources/filcolana",
+    "https://www.ravelry.com/patterns/library/lotus-33/people",
+    "https://www.ravelry.com/patterns/library/lotus-33/posts",
+    "https://www.ravelry.com/patterns/library/lotus-33/report",
+    "https://www.ravelry.com/patterns/sources/flowers--dreams---filcolana-ss21"
+  ],
+  "name": "Ravelry: Lotus pattern by Hanne Rimmen"
 }

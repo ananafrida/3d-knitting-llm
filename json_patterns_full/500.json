@@ -1,44 +1,37 @@
 {
   "pattern_id": 500,
-  "pattern_page": "https://www.ravelry.com/patterns/library/honey-cowl",
+  "pattern_page": "https://www.ravelry.com/patterns/library/grocery-bag-caddy",
+  "name": "Grocery Bag Caddy",
+  "description": "Sample shown in dishcloth cotton.",
+  "designer": "Susan Carnegie",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "short version and longer version",
-  "languages": [
-    "English"
-  ],
+  "category": "Containers",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "madelinetosh Tosh DK"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "female",
     "in-the-round",
+    "mesh",
     "one-piece",
+    "ribbed",
     "seamless",
-    "slipped-stitches",
-    "textured",
     "written-pattern"
   ],
-  "full_text": "▲ PATTERN NOTES A simple slip stitch pattern cowl creates a dense waffle-like fabric for warmth and supple drape. This flexible pattern can be worked in four different sizes using just one or two skeins of yarn. Both short and longer versions are lovely viewed on both sides. This cowl is perfect for a bright pop of color and a warm hug around your neck. For an in-between size: 1 skein at 160 sts will create a 32 inch long by 8 inch wide cowl. 2 skeins at 160 sts will create a 32 inch long by 16 inch wide cowl. ▲ SIZES Short (Long) Short version: 22” length Longer version: 44” length ▲ YARN Madelinetosh Tosh DK (100% superwash merino; 100g / 225 yds) 1 (2) skeins ▲ NOTIONS Stitch marker, tapestry needle ▲ GAUGE 20 sts = 4 inches ▲ NEEDLES US Size 8 (5.0 mm) 16” circular for short version, or US Size 8 (5.0 mm) 32” circular for long version, or size needed to obtain gauge",
+  "full_text": "Sample shown in dishcloth cotton. I had been thinking about this grocery bag caddy for a while, inspired by a sleeve, and my love of market bags. The bag caddy I had previously was made of fabric, and the plastic grocery bags were always falling out the end. I figured if I made what was essentially a sleeve, with ribbing at both ends and market bag mesh in the middle, it would solve the problem of getting the bags in to the top (stretchy ribbing) holding them in at the bottom (again, stretchy ribbing), and holding a bunch of bags (stretchy mesh middle).",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/madelinetosh-tm",
-    "https://www.ravelry.com/patterns/library/honey-cowl/report",
-    "https://www.ravelry.com/patterns/library/honey-cowl/comments",
-    "https://www.ravelry.com/patterns/library/serena-shadow-shawl",
-    "https://www.ravelry.com/patterns/library/honey-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/honey-cowl/people",
-    "https://www.ravelry.com/patterns/library/repose-10",
-    "https://www.ravelry.com/patterns/library/hello-cowl",
-    "https://www.ravelry.com/patterns/library/honey-cowl",
-    "https://www.ravelry.com/patterns/library/honey-cowl/threads",
-    "https://www.ravelry.com/patterns/library/honey-cowl/editors",
-    "https://madelinetosh.myshopify.com/collections/patterns/products/honey-cowl",
-    "https://www.ravelry.com/patterns/library/honey-cowl/posts"
-  ],
-  "name": "Ravelry: Honey Cowl pattern by Antonia Shankland"
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/comments",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/report",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/editors",
+    "https://www.ravelry.com/patterns/library/lets-do-lunch-bag",
+    "https://www.ravelry.com/patterns/library/jackies-goodie-bag",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/yarns",
+    "https://www.ravelry.com/patterns/sources/carknitgiehaul",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/threads",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/people",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy"
+  ]
 }

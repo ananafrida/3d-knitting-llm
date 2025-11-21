@@ -1,50 +1,38 @@
 {
   "pattern_id": 421,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fly-girl",
-  "name": "Fly Girl",
-  "description": "Fly Girl is an updated flight jacket, knit from the bottom up in 3 pieces (2 fronts, 1 back), sewn together. Short row sleeves are knit right on and easy directions are included. Pockets are sewn onto the front and have contrasting flaps. Fold over collar updates the look. A separating zipper creates a true flight jacket and embroidered (running stitch) “FLY GIRL” can be altered to Cheer Girl, Florida Girl, Barista Girl, etc.",
-  "designer": "Barbara Hurd",
+  "pattern_page": "https://www.ravelry.com/patterns/library/little-tannenbaum",
+  "name": "Little Tannenbaum",
+  "description": "The Little Tannenbaum ornament is a simple conifer-shaped holiday decoration that is “spruced” up with little buttons. These are super quick to knit up and are really cute decorative ornaments for the holiday season!",
+  "designer": "Alexandria Wenninger",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan Coat / Jacket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Brooklyn Tweed Shelter",
-    "DK (11 wpi) ?"
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "appliqued",
     "bottom-up",
-    "collar",
-    "embroidery",
-    "in-the-round",
-    "long-sleeve",
-    "modular",
-    "other-colorwork",
-    "seamed",
-    "seamless",
-    "short-rows",
-    "unisex",
+    "one-piece",
     "worked-flat",
-    "written-pattern",
-    "zipper"
+    "written-pattern"
   ],
-  "full_text": "Fly Girl is an updated flight jacket, knit from the bottom up in 3 pieces (2 fronts, 1 back), sewn together. Short row sleeves are knit right on and easy directions are included. Pockets are sewn onto the front and have contrasting flaps. Fold over collar updates the look. A separating zipper creates a true flight jacket and embroidered (running stitch) “FLY GIRL” can be altered to Cheer Girl, Florida Girl, Barista Girl, etc. Comes in sizes S, M, L, XL; 32-34 (36-38, 40-42, 44-46) Worsted yarn in 2 colors completes the look. (I used a 3rd yarn, acrylic, for the words on the back.) Directions are given for easy assembly and adding zipper, by hand, to the front. This is not a design that has long areas of knitting. The numerous details are easy to manage and offer variety throughout, making it a fun knit. It is a fairly quick sweater to knit. If you can do basic sewing, you can make this sweater. I now design for donations to prevent suicide and for the Salvation Army. Please show your appreciation if able, by donating. Thank you!",
+  "full_text": "The Little Tannenbaum ornament is a simple conifer-shaped holiday decoration that is “spruced” up with little buttons. These are super quick to knit up and are really cute decorative ornaments for the holiday season! Finished height of the ornament is approximately 4-5” (10-12cm) tall depending on how tightly you knit. Share your projects on Instagram with #LittleTannenbaumOrnament or @wee_ewe_knits, I love to see your pics ♥️",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/barbara-hurds-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fly-girl/people",
-    "https://www.ravelry.com/patterns/library/fly-fishing-socks",
-    "https://www.ravelry.com/patterns/library/blue-skies-5",
-    "https://www.ravelry.com/patterns/library/fly-girl/yarns",
-    "https://www.ravelry.com/patterns/library/fly-girl/comments",
-    "https://www.ravelry.com/patterns/library/fly-girl/threads",
-    "https://www.ravelry.com/patterns/library/lacy-leaf-shawl",
-    "https://www.ravelry.com/patterns/library/fly-girl/report",
-    "https://www.ravelry.com/patterns/library/fly-girl/editors",
-    "https://www.ravelry.com/patterns/library/fly-girl"
+    "https://www.ravelry.com/patterns/library/coldfoot-cowl",
+    "https://www.ravelry.com/patterns/library/little-tannenbaum",
+    "https://www.ravelry.com/patterns/library/little-tannenbaum/comments",
+    "https://www.ravelry.com/patterns/library/little-tannenbaum/people",
+    "https://www.ravelry.com/patterns/library/little-tannenbaum/editors",
+    "https://www.ravelry.com/patterns/library/rigging-beanie",
+    "https://www.ravelry.com/patterns/library/little-tannenbaum/threads",
+    "https://www.ravelry.com/patterns/library/little-tannenbaum/yarns",
+    "https://www.ravelry.com/patterns/library/little-tannenbaum/report",
+    "https://www.ravelry.com/patterns/sources/wee-ewe-knits",
+    "https://www.ravelry.com/patterns/library/arktikos-headband"
   ]
 }

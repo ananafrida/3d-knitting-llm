@@ -1,39 +1,40 @@
 {
   "pattern_id": 303,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy",
-  "name": "Jingle Mouse - Cat Toy",
-  "description": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need!",
-  "designer": "Dooley and Spud",
+  "pattern_page": "https://www.ravelry.com/patterns/library/halloweenies-2",
+  "name": "Halloweenies",
+  "description": "Autumn is such a magical time of the year. It washes away the last remnants of summer with plenty of cold, wet showers and brings along the promise of chilly winter nights snuggled under blankets with a cup of hot chocolate!",
+  "designer": "Cilla Webb",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Softies → Doll",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "12 cm tall",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Berroco Ultra Alpaca Light",
-    "Sport (12 wpi) ?"
+    "Sirdar Snuggly DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "in-the-round",
-    "phototutorial",
+    "amigurumi",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need! Basic Skills Necessary: •knit (knit) •knit front and back (kfb) •knit two together (k2tog) •slip slip knit (ssk) Feel free to sell any of the Jingle Mice you make yourself, but please do not distribute this pattern without my permission. Purchase the full set of Jingle Animals - Cat Toys here: http://www.ravelry.com/patterns/library/jingle-animals---...",
+  "full_text": "Autumn is such a magical time of the year. It washes away the last remnants of summer with plenty of cold, wet showers and brings along the promise of chilly winter nights snuggled under blankets with a cup of hot chocolate! But before we reach the depths of winter, there’s Halloween! As a child growing up in Belgium, it wasn’t really celebrated, so now I take every opportunity to carve pumpkins (and make pumpkin pie!) and take my boys trick or treating while they still love to dress up! Yarn: 20g Sirdar Snuggly DK yarn per voodoo doll A small amount of red yarn for the details Needles : 3.5mm straight needles Other supplies: Toy stuffing Tapestry needle 4 mm toy safety eyes small buttons black embroidery thread Size: 12 cm tall Abbreviations x times: Knit the instructions between the brackets x amount of times. * ; rep from * to end: Repeat the instructions between the * and ; until the end of the row. st(s): stitch(es) K: knit, if followed by a number, knit that amount of stitches P: purl St st: stocking stitch: alternate a row of knitting and a row of purling. G st: garter stitch: knit every row K2tog: knit two stitches together knitwise. P2tog: purl two stitches together purlwise. Kfb: knit in the front and back of the stitch, creating an increase.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/report",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy",
-    "https://www.ravelry.com/patterns/library/jingle-bird---cat-toy",
-    "https://www.ravelry.com/patterns/sources/dooley-and-spud",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/yarns",
-    "http://www.ravelry.com/patterns/library/jingle-animals---cat-toys",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/threads",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/comments",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/people",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy"
+    "https://www.ravelry.com/patterns/library/halloweenies-2/yarns",
+    "https://www.ravelry.com/patterns/library/halloweenies-2",
+    "https://www.ravelry.com/patterns/library/halloweenies-2/report",
+    "https://www.ravelry.com/patterns/library/stevie-sloth",
+    "https://www.ravelry.com/patterns/library/halloweenies-2/comments",
+    "https://www.ravelry.com/patterns/library/halloweenies-2/editors",
+    "https://www.ravelry.com/patterns/library/halloweenies-2/people",
+    "https://www.ravelry.com/patterns/library/halloweenies-2/threads",
+    "https://www.ravelry.com/patterns/library/noel-the-christmas-bear",
+    "https://www.ravelry.com/patterns/library/bunny-buddies-2",
+    "https://www.ravelry.com/patterns/sources/cillas-purls-ravelry-store"
   ]
 }

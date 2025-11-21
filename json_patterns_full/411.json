@@ -1,49 +1,39 @@
 {
   "pattern_id": 411,
-  "pattern_page": "https://www.ravelry.com/patterns/library/squared-4",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sweater-bag-charm",
+  "name": "Sweater Bag Charm",
+  "description": "Bag charms are back in a big way, baby! Or in this case, a little way, baby! Knit your own little sweater charm &amp; identify yourself as a knitter with their finger on the pulse of contemporary trends &lt;3",
+  "designer": "Emma Oldehoeft",
   "craft": "Knitting",
-  "category": "Shrug / Bolero Coat / Jacket Neck / Torso → Poncho",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "one size",
+  "category": "Decorative → Hanging Ornament Accessories → Other",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "OS",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Hedgehog Fibres Sock",
-    "yarn held together"
+    "Fingering (14 wpi) ?",
+    "Knit Picks Palette"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "female",
-    "icord",
-    "modular",
-    "other-colorwork",
-    "rectangle",
-    "schematic",
-    "unisex",
-    "worked-flat",
+    "in-the-round",
+    "seamless",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "Simple modular poncho design with an applied i-cord border. No need to pick up stitches all the way around, yay! You will be holding two strands of different colours for a marled effect. The poncho is knitted in sections that are attached as you go. Easy and fun project, incorporating lots of different colours of fingering weight, so go dive into that stash! Approximate yardage requirements for the squares: Smaller square: 36g of Sock Yarn held double, 72m of each colour. Bigger rectangle: 72g of Sock Yarn held double, 144m of each colour. Please note - the yarn is held double, so while you need around 850g of yarn, you will be knitting only around 1700m. So i you decide to go for a DK weight instead of fingering doubled you will need about 1700m.",
-  "techniques": [
-    "modular",
-    "pick up stitches"
-  ],
-  "shape": "sphere",
+  "full_text": "Bag charms are back in a big way, baby! Or in this case, a little way, baby! Knit your own little sweater charm & identify yourself as a knitter with their finger on the pulse of contemporary trends <3 Seamlessly knit from the top down, the boxy shape of this sweater allows for more room to embellish your project with duplicate stitch, embroidery, bead work, etc. gauge is not particularly important for this project. Techniques used: long tail cast on 1x1 ribbing kfb increase bind off knitwise Notions and Materials: size US 1 (2.25mm)32” or longer circular needle for magic loop 35 yards (32 meters) of fingering weight yarn 4 stitch markers, 1 unique for BOR darning needle to weave in ends ~3 inches (8cm) of 1/4” wide ribbon Sewing needle and thread key ring and clasp (optional) for attaching your sweater to bags/keychains/belt loops. This pattern has not been tech edited, please reach out if you have questions and I will do my best to assist you. I would love to see your finished projects on Ravelry or Instagram @oldehoeft",
+  "techniques": [],
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/scarfy-thing-2",
-    "https://www.ravelry.com/patterns/library/squared-4/yarns",
-    "https://www.ravelry.com/patterns/library/squared-4/threads",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
-    "https://www.ravelry.com/patterns/library/squared-4/comments",
-    "https://www.ravelry.com/patterns/library/flying-fringe",
-    "https://www.ravelry.com/patterns/library/squared-4/editors",
-    "https://www.ravelry.com/patterns/library/squared-4/people",
-    "https://www.ravelry.com/patterns/library/squared-4/report",
-    "https://www.ravelry.com/patterns/library/squared-4",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/squared",
-    "https://www.ravelry.com/patterns/library/baseline"
-  ],
-  "name": "Ravelry: Squared pattern by Beata Jezek"
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm/people",
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm/yarns",
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm/editors",
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm/report",
+    "https://www.ravelry.com/patterns/sources/emma-oldehoefts-ravelry-store",
+    "https://www.ravelry.com/patterns/library/missouri-mariner",
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm/comments",
+    "https://www.ravelry.com/patterns/library/sweater-bag-charm",
+    "https://www.ravelry.com/patterns/library/the-terrace-beanie",
+    "https://www.ravelry.com/patterns/library/acute-bonnet"
+  ]
 }

@@ -1,43 +1,40 @@
 {
   "pattern_id": 261,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jiaozi-dumplings",
-  "name": "Jiaozi (dumplings)",
-  "description": "This needs at least 4 dpns and a cable needle or 5 dpns. It can be worked magic loop or any other way for small circles in the round, but it will still need a spare needle to work the pleats.",
-  "designer": "Dale Hwang",
+  "pattern_page": "https://www.ravelry.com/patterns/library/missmarple-scarf",
+  "name": "MissMarple Scarf",
+  "description": "A scarf that stays perfect around your neck by using the keyhole. The middle section of the scarf is wider so your shoulders can stay warm too and you can also create a little collar. You can wear the scarf in many different ways, just the way you like it. And over your cloths of under your coat.",
+  "designer": "SusanneS-vV",
   "craft": "Knitting",
-  "category": "Food Pet → Toys",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "20 cm wide and 80 cm long",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Rowan Lima",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "in-the-round",
     "one-piece",
+    "ribbed",
     "seamless",
-    "video-tutorial",
+    "short-rows",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This needs at least 4 dpns and a cable needle or 5 dpns. It can be worked magic loop or any other way for small circles in the round, but it will still need a spare needle to work the pleats. Stitches/techniques - Knit, purl, ssk. Working a flat circle in the round. Increasing without a hole. Lighter circular cast-on or any preferred circular cast-on. Knitting together one stitch each from two separate needles.",
+  "full_text": "A scarf that stays perfect around your neck by using the keyhole. The middle section of the scarf is wider so your shoulders can stay warm too and you can also create a little collar. You can wear the scarf in many different ways, just the way you like it. And over your cloths of under your coat. Easy knit, mostly in garter stitch and little piece ribbing. Finished measurements: 20 cm wide and 80 cm long (no need for blocking). Materials: 2 skeins Rowan Lima (used color on the picture: Argentina 893) Needle sizes: 4.5 mm (dpn) and 5.5 mm straight needles Skills: Garter stitch Ribbing Dividing and rejoin (both explained in the pattern)",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/editors",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/posts",
-    "https://www.ravelry.com/patterns/sources/djinnjs-channel--youtube",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/threads",
-    "https://www.ravelry.com/patterns/library/weasley-twins-ski-cap",
-    "https://www.ravelry.com/patterns/library/lupin-scarf",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/yarns",
-    "https://www.ravelry.com/patterns/sources/dale-hwangs-ravelry-downloads",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/report",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/people",
-    "https://www.ravelry.com/patterns/library/puffskein",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings/comments",
-    "https://www.ravelry.com/patterns/library/jiaozi-dumplings"
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/people",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/comments",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/posts",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/threads",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/report",
+    "https://www.ravelry.com/patterns/sources/susannes-vv-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/editors",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf"
   ]
 }

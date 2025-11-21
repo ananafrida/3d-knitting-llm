@@ -1,42 +1,41 @@
 {
   "pattern_id": 134,
-  "pattern_page": "https://www.ravelry.com/patterns/library/felted-block-set",
+  "pattern_page": "https://www.ravelry.com/patterns/library/new-born-puppy",
+  "name": "New Born Puppy",
+  "description": "I designed this puppy via my Domestika ‘How to Knit a Puppy Course’.",
+  "designer": "Claire Garland",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "Small, Medium, Large",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Finished Size: Body length (not including the tail) measures 23cm/ 9in long",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Knit Picks Wool of the Andes Worsted",
-    "Worsted (9 wpi) ?"
+    "Garnstudio DROPS Kid-Silk",
+    "yarn held together"
   ],
   "attributes": [
-    "3-dimensional",
-    "cube-shaped",
-    "felted",
-    "seamed",
+    "modular",
+    "short-rows",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Blocks are roughly 3x3, 4x4, and 5x5 after felting. Blocks are stuffed with fiberfill stuffing. Pattern assumes knowledge of felting with a washing machine.",
+  "full_text": "I designed this puppy via my Domestika ‘How to Knit a Puppy Course’. I changed the body and head shape slightly but the basics are still similar if you want to be taught, in your own time, how to knit it. In the course you’ll learn my finishing techniques and all important shaping techniques and for you there’s a 15% discount with the code CLAIRE_GARLAND-DISCOUNT tap the link below to learn more ⬇️ https://www.domestika.org/en/courses/2611-knitting-realistic-stuffed-animals-make-a-puppy-from-yarn/claire_garland",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/felted-block-set",
-    "https://www.ravelry.com/patterns/library/felted-block-set/edit",
-    "https://www.ravelry.com/patterns/library/felted-block-set/editors",
-    "https://www.ravelry.com/patterns/library/striped-scarf-3",
-    "http://home.howstuffworks.com/free-baby-toys-knitting-patterns2.htm",
-    "https://www.ravelry.com/patterns/library/babys-best-booties-2",
-    "https://www.ravelry.com/patterns/library/felted-block-set/report",
-    "https://www.ravelry.com/patterns/library/felted-block-set/yarns",
-    "https://www.ravelry.com/patterns/library/felted-block-set/threads",
-    "https://www.ravelry.com/patterns/library/felted-block-set/people",
-    "https://www.ravelry.com/patterns/library/striped-wine-sack",
-    "https://www.ravelry.com/patterns/sources/howstuffworks",
-    "https://www.ravelry.com/patterns/library/felted-block-set/comments"
-  ],
-  "name": "Ravelry: Felted Block Set pattern by Publications International, Ltd."
+    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/new-born-puppy/yarns",
+    "https://www.ravelry.com/patterns/library/new-born-puppy/editors",
+    "https://www.ravelry.com/patterns/library/new-born-puppy/people",
+    "https://www.ravelry.com/patterns/library/miniature-fallow-deer",
+    "https://www.ravelry.com/patterns/library/piglet-doll-2",
+    "https://www.ravelry.com/patterns/library/chipmunk-5",
+    "https://www.ravelry.com/patterns/library/new-born-puppy/threads",
+    "https://www.ravelry.com/patterns/library/new-born-puppy/report",
+    "https://www.ravelry.com/patterns/library/new-born-puppy",
+    "https://www.ravelry.com/patterns/library/new-born-puppy/comments",
+    "https://www.ravelry.com/patterns/library/new-born-puppy/posts"
+  ]
 }

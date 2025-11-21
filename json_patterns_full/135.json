@@ -1,45 +1,47 @@
 {
   "pattern_id": 135,
-  "pattern_page": "https://www.ravelry.com/patterns/library/babycakes-blocks",
+  "pattern_page": "https://www.ravelry.com/patterns/library/wol-the-owl",
+  "name": "Wol the Owl",
+  "description": "“W-O-L, that spells owl. Owl: Bless my soul, so it does.”",
+  "designer": "Claire Garland",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "4-1/2 in. (11.5 cm) square",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Finished size approx. 15cm/ 9in tall from top of head to point of the claws",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lion Brand LB Collection Superwash Merino"
+    "Cardiff Cashmere Classic",
+    "yarn held together"
   ],
   "attributes": [
-    "chart",
-    "cube-shaped",
-    "duplicate-stitch",
-    "seamed",
-    "textured",
+    "icord",
+    "one-piece",
+    "short-rows",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "These cozy baby blocks are the perfect toys for girls and boys. (Lion Brand Yarn) Lion Brand Pattern #: 90506AD CORRECTIONS: (applied Feb 8, 2010) SKILL LEVEL: Intermediate LB Collection® Superwash Merino (Article #486) 4 colors, 1 ball each Shown in Spring Leaf, Denim, Dijon, Ivory Materials are sufficient to make 3 blocks Knitting Needles - Size 5 [3.75 mm] Knitting Needles - Size 6 [4.00 mm] Cable Needle 3/4 yard (3/4 meter) of 45 in. (114.5 cm) washable cotton fabric Fiberfill stuffing Sewing needle and thread Knit blocks are assembled over inner fabric blocks, for which fabric squares are seamed together and stuffed. If desired, knit pieces can be assembled over foam blocks. You will need three foam blocks cut to 4-1/2 in. (11.5) cm square. Stitches: Cross Rib pattern - 10 rows (multiple of 7 sts + 1) Stockinette Stitch Garter Ridge Garter and Rib ’Star’ and letter ‘B’ are worked in duplicate stitch. Charts are provided. Some assembly required to finish.",
+  "full_text": "“W-O-L, that spells owl. Owl: Bless my soul, so it does.” Said Eeyore. Welcome Wol! Knitting-wise He’s knitted and shaped with short rows and pick up stitches - as are all of my patterns. I’ve listed the yarn I knitted him in within the pattern but you can adapt yarn choices to suit yourself - there is also a KIT available HERE And if you’d like to knit his sweet-piglety companion then that pattern is here - ( Also don’t forget Pooh - he’s here And Roo - who’s free here And of course Eeyore who’s here there’s also a kit for him too and last but not least (for now) - Tigger! I hope you love your Wol as much as I love mine… and follow along with my Instagram @doptpebbles_knits for the last up and coming other character to complete this series !",
   "techniques": [
-    "seamed"
+    "pick up stitches",
+    "short rows"
   ],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/yarns",
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/editors",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/report",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/people",
-    "https://www.ravelry.com/patterns/library/miss-mousie",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "http://www.lionbrand.com/patterns/90506AD.html",
-    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/edit",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks",
-    "https://www.ravelry.com/patterns/library/babycakes-blocks/comments"
-  ],
-  "name": "Ravelry: Babycakes Blocks pattern by Lion Brand Yarn"
+    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/wol-the-owl",
+    "https://www.ravelry.com/patterns/library/wol-the-owl/comments",
+    "https://www.ravelry.com/patterns/library/wol-the-owl/people",
+    "https://www.ravelry.com/patterns/library/wol-the-owl/report",
+    "https://www.ravelry.com/patterns/library/pooh-bear-4",
+    "https://www.ravelry.com/patterns/library/wol-the-owl/editors",
+    "https://www.ravelry.com/patterns/library/piglet-doll-2",
+    "https://www.ravelry.com/patterns/library/kanga-kangaroo",
+    "https://www.ravelry.com/patterns/library/tigger-18",
+    "https://www.ravelry.com/patterns/library/roo-from-winnie-the-pooh",
+    "https://www.ravelry.com/patterns/library/wol-the-owl/threads",
+    "https://www.ravelry.com/patterns/library/wol-the-owl/yarns",
+    "https://www.ravelry.com/patterns/library/eeyore-20"
+  ]
 }

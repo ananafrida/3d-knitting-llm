@@ -1,46 +1,35 @@
 {
   "pattern_id": 284,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bunny-squared",
-  "name": "Bunny Squared",
-  "description": "Get ready to knit the cutest Bunny Squared toy with this beginner-friendly pattern! The Bunny Squared pattern is perfect for knitters looking to create a charming 3-dimensional bunny in various sizes. This pattern includes detailed instructions, a photo tutorial, and a written pattern to guide you through the process. Whether you’re a seasoned knitter or just starting out, this pattern is sure to bring joy and creativity to your knitting projects. Customize your Bunny Squared in different sizes to suit your preferences and create a delightful toy for yourself or as a gift for a loved one. Unique Features- • Key Features: • Beginner level pattern suitable for all skill levels • Available in multiple sizes (Square 4 (6, 8)” Bunny 3 (5, 6)”) • Constructed using seamed and one-piece techniques • Worked flat with a garter stitch pattern • Features a 3-dimensional design • Made with high-quality Simply DK yarn for a soft and durable finish Materials Needed- • Yarn: Simply DK by Paintbox Yarns (DK weight, 20-100 yards) • Stitch markers • Scissors • Needle: 4mm (US Size 6.0) • Gauge: 23 Stitches by 46 Row = 4 Inches in Garter",
-  "designer": "Jessie Rayot",
+  "pattern_page": "https://www.ravelry.com/patterns/library/druvsocker",
+  "name": "Druvsocker",
+  "description": "Mönstret släpps i samband med Världsdiabetesdagen den 14 november och ska föreställa kolhydratstrukturer. Sjalen är ett sätt att uppmärksamma diabetes och en särskild hyllning till min son Nils. Mönstret är gratis att ladda ner, men skänk gärna valfri summa till Barndiabetesfonden via denna insamling:",
+  "designer": "Charlotte Backlund",
   "craft": "Knitting",
-  "category": "Softies → Animal Pet → Toys",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Square 4 (6, 8)” Bunny 3 (5, 6)”",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "one size",
   "languages": [
-    "English"
+    "Swedish"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Paintbox Yarns Simply DK"
+    "Isager Yarn Alpaca 2",
+    "yarn held together"
   ],
   "attributes": [
-    "3-dimensional",
-    "one-piece",
-    "phototutorial",
-    "seamed",
-    "square",
-    "worked-flat",
-    "written-pattern"
+    "icord",
+    "kitchener",
+    "worked-flat"
   ],
-  "full_text": "Get ready to knit the cutest Bunny Squared toy with this beginner-friendly pattern! The Bunny Squared pattern is perfect for knitters looking to create a charming 3-dimensional bunny in various sizes. This pattern includes detailed instructions, a photo tutorial, and a written pattern to guide you through the process. Whether you’re a seasoned knitter or just starting out, this pattern is sure to bring joy and creativity to your knitting projects. Customize your Bunny Squared in different sizes to suit your preferences and create a delightful toy for yourself or as a gift for a loved one. Unique Features- • Key Features: • Beginner level pattern suitable for all skill levels • Available in multiple sizes (Square 4 (6, 8)” Bunny 3 (5, 6)”) • Constructed using seamed and one-piece techniques • Worked flat with a garter stitch pattern • Features a 3-dimensional design • Made with high-quality Simply DK yarn for a soft and durable finish Materials Needed- • Yarn: Simply DK by Paintbox Yarns (DK weight, 20-100 yards) • Stitch markers • Scissors • Needle: 4mm (US Size 6.0) • Gauge: 23 Stitches by 46 Row = 4 Inches in Garter",
-  "techniques": [
-    "seamed",
-    "worked flat"
-  ],
-  "shape": "cube",
+  "full_text": "The pattern will be released in conjunction with World Diabetes Day on November 14 and will represent carbohydrate structures. The scarf is a way to draw attention to diabetes and a special tribute to my son Nils. The pattern is free to download, but feel free to donate any amount to the Child Diabetes Foundation via this fundraiser: link to fundraiser The Grape Sugar shawl consists of a structural pattern in straight and purl stitches that are meant to resemble grape sugar. The shawl is knitted back and forth on circular needles from tip to tip while an i-cord is knitted along the edges. Finished measurements: Width: 12 cm, length 140 cm Yarn quality and stitch size can be varied but will affect the final size, it is fine to adjust the width and length based on your own wishes, please note that the yarn consumption will then change. Yarn: 50 g Isager Alpaca 2 (250m/50g) and 25 g Isager silk mohair (212m/25g Or 50 g Sandnes thin Peer Gynt (205m/50g) and 25g Sandnes thin silk mohair (212m/25g)",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jacobs-treasure-afghan-square",
-    "https://www.ravelry.com/patterns/library/bunny-squared",
-    "https://www.ravelry.com/patterns/library/dragon-wing-cowl",
-    "https://www.ravelry.com/patterns/library/bunny-squared/yarns",
-    "https://www.ravelry.com/patterns/sources/jessieathome-on-ravelry-2",
-    "https://www.ravelry.com/patterns/library/bunny-squared/report",
-    "https://www.ravelry.com/patterns/sources/jessieathome",
-    "https://www.ravelry.com/patterns/library/bunny-squared/editors",
-    "https://www.ravelry.com/patterns/library/retro-ornament---graphic-fall-throw",
-    "https://www.ravelry.com/patterns/library/bunny-squared/people",
-    "https://www.ravelry.com/patterns/library/bunny-squared/comments"
+    "https://www.ravelry.com/patterns/sources/charlotte-backlunds-ravelry-store",
+    "https://www.ravelry.com/patterns/library/druvsocker/yarns",
+    "https://www.ravelry.com/patterns/library/druvsocker/report",
+    "https://www.ravelry.com/patterns/library/druvsocker",
+    "https://www.ravelry.com/patterns/library/druvsocker/comments",
+    "https://www.ravelry.com/patterns/library/druvsocker/editors",
+    "https://www.ravelry.com/patterns/library/druvsocker/people"
   ]
 }

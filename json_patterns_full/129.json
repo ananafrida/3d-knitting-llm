@@ -1,44 +1,46 @@
 {
   "pattern_id": 129,
-  "pattern_page": "https://www.ravelry.com/patterns/library/play-cubes",
+  "pattern_page": "https://www.ravelry.com/patterns/library/harold-fatmus",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "15cm high",
   "languages": [
-    "Dutch",
-    "English",
-    "French",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Rowan Handknit Cotton",
-    "DK (11 wpi) ?"
+    "Light Fingering ?",
+    "Wee County Yarns Miniballs"
   ],
   "attributes": [
-    "pockets",
+    "3-dimensional",
+    "bottom-up",
+    "chart",
+    "fairisle",
+    "icord",
+    "in-the-round",
     "seamed",
-    "stripes"
+    "stranded",
+    "written-pattern"
   ],
-  "full_text": "Rowan International Members pattern for March 2005 Description from book: These cubes are the perfect height for toddlers to sit on and have a useful side pocket for storing books and toys. They are fun and functional and can be stacked to save space. Errata Play cubes Basic square – use 4mm (US 6) needles",
-  "techniques": [],
-  "shape": "cube",
+  "full_text": "Harold is a tubby little mouse with a smart fair isle jumper. Knitted with a small amount of shetland yarn in 5 colours he is made in two pieces (base and upper) and then seamed, but is easily converted into a seamless knit - you’ll just need to sew on the ears and tail. Fill him with beans for added gravitas and he’ll make a lovely door stop. Written instructions with a chart for the colourwork.",
+  "techniques": [
+    "seamed"
+  ],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/play-cubes/editors",
-    "https://www.ravelry.com/patterns/library/play-cubes/yarns",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/discuss/pattern-errata-and-mods/713179/1-25",
-    "https://www.ravelry.com/patterns/library/play-cubes/people",
-    "https://www.ravelry.com/patterns/sources/nursery-knits-zoe-mellor",
-    "https://web.archive.org/web/20051103005525/http://www.knitrowan.com/images/freepattern/playcubes_mar_05.pdf",
-    "https://www.ravelry.com/patterns/library/my-own-puppet-theatre",
-    "https://www.ravelry.com/patterns/library/play-cubes/edit",
-    "https://www.ravelry.com/patterns/sources/rowan-subscriptions-members",
-    "https://www.ravelry.com/patterns/library/snowflake-hat-7",
-    "https://www.ravelry.com/patterns/library/play-cubes",
-    "https://www.ravelry.com/patterns/library/play-cubes/comments",
-    "https://www.ravelry.com/patterns/library/play-cubes/report",
-    "https://www.ravelry.com/patterns/library/chunky-cabled-sweater",
-    "https://www.ravelry.com/patterns/sources/the-big-book-of-kids-knits"
+    "https://www.ravelry.com/patterns/library/harold-fatmus/yarns",
+    "https://www.ravelry.com/patterns/library/miniball-advent-2020",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/editors",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/report",
+    "https://www.ravelry.com/patterns/library/harold-fatmus",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/people",
+    "https://www.ravelry.com/patterns/library/pic-n-mix",
+    "https://www.ravelry.com/patterns/sources/wee-county-yarns",
+    "https://www.ravelry.com/patterns/library/double-edged-shawl",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/threads",
+    "https://www.ravelry.com/patterns/library/harold-fatmus/comments",
+    "https://wee-county-yarns.co.uk/free-patterns/harold-fatmus-fair-isle-mouse-2139957"
   ],
-  "name": "Ravelry: Play Cubes pattern by Zoë Mellor"
+  "name": "Ravelry: Harold Fatmus pattern by Clare Hutchinson"
 }

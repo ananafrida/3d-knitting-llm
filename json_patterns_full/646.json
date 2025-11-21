@@ -1,40 +1,36 @@
 {
   "pattern_id": 646,
-  "pattern_page": "https://www.ravelry.com/patterns/library/candy-corn-hat",
-  "name": "Candy Corn Hat",
-  "description": "Worth mentioning - 10/8/14: Over the years lots of knitters have found this hat to run very small. This was my first pattern and the first yarn I worked with when writing up notes was a very squeaky acrylic. The gauges listed were what I found to be true for me.",
-  "designer": "Sarah Sagaser",
+  "pattern_page": "https://www.ravelry.com/patterns/library/20-minute-mouse",
+  "name": "20 Minute Mouse",
+  "description": "This mouse has been tested and pronounced “catproof” ie, it shouldn’t come to pieces with even the most ferocious catnip addict!",
+  "designer": "Sara Hall",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "Medium - Youth",
+  "category": "Pet → Toys",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Plymouth Yarn Encore Worsted Solids & Heathers",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Sirdar Double Knitting"
   ],
   "attributes": [
-    "in-the-round"
+    "one-piece"
   ],
-  "full_text": "Worth mentioning - 10/8/14: Over the years lots of knitters have found this hat to run very small. This was my first pattern and the first yarn I worked with when writing up notes was a very squeaky acrylic. The gauges listed were what I found to be true for me. What I tend to recommend if you have plenty of yarn is to knit the middle size first. It’s a quick knit and when you figure out what size that makes with your yarn and your style of knitting, you’ll know whether to knit the next smaller or larger! You can always find a head to gift it to if it doesn’t fit your first intended recipient! ;) If you need larger than the written instructions for the large, add 10 stitches and a handful more rows for length before starting the decreases. If you like the pointier finish that the medium size makes, increase in multiples of 12 and follow the Menum instructions, adding more length before the decreases, as needed. The gauge shown is for the Medium Size in the suggested yarn. The Large size (on size US 8 needles) had a gauge of 10 sts and 13 rows per 2 inches. A quick and fun knit, popular for all ages in the fall.",
-  "techniques": [
-    "decreases"
-  ],
+  "full_text": "This mouse has been tested and pronounced “catproof” ie, it shouldn’t come to pieces with even the most ferocious catnip addict! I make the little catnip sachets by spreading the catnip over one half of a piece (say 30x60cm approx) of loosely woven material and then machine sewing it into little squares approx 3x3cm with criss cross tramlines. Then I cut between these tramlines. It’s quick and not too messy. I can make this mouse in 20 minutes if I have absolutely no interruptions (which is usually impossible to do of course), hence the title of the pattern.",
+  "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/comments",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/threads",
-    "https://www.ravelry.com/patterns/library/fresh-again",
-    "https://www.ravelry.com/patterns/library/three-musketeers-coffee-mitts",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/posts",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/people",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/report",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/yarns",
-    "https://www.ravelry.com/patterns/library/cowslip",
-    "https://www.ravelry.com/patterns/library/candy-corn-hat/editors",
-    "https://www.ravelry.com/patterns/sources/skeins-and-beans"
+    "https://www.ravelry.com/patterns/library/20-minute-mouse/threads",
+    "https://www.ravelry.com/patterns/library/20-minute-mouse/people",
+    "https://www.ravelry.com/patterns/library/20-minute-mouse/editors",
+    "https://www.ravelry.com/patterns/library/shield-lace-cowl-scarf",
+    "https://www.ravelry.com/patterns/library/20-minute-mouse/comments",
+    "https://www.ravelry.com/patterns/sources/the-answer-is-42",
+    "https://www.ravelry.com/patterns/library/20-minute-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/20-minute-mouse",
+    "https://www.ravelry.com/patterns/library/st-sampson-guernsey",
+    "https://www.ravelry.com/patterns/library/20-minute-mouse/report",
+    "https://www.ravelry.com/patterns/library/titchy-witchy"
   ]
 }

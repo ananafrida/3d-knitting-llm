@@ -1,38 +1,39 @@
 {
   "pattern_id": 659,
-  "pattern_page": "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn",
-  "name": "Baby Tassel Hat with Sock Yarn",
-  "description": "My first published pattern. In the process of designing and knitting a baby cardigan pattern, I decided to make a matching hat pattern that looked a little different.",
-  "designer": "Kristin Carroll",
+  "pattern_page": "https://www.ravelry.com/patterns/library/feline-dim-sum",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "Newborn, 3-6 months",
+  "category": "Pet → Toys",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Fingering (14 wpi) ?"
+    "Plymouth Yarn Encore Worsted Solids & Heathers",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "icord",
-    "in-the-round",
-    "newborn-size",
+    "3-dimensional",
+    "one-piece",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "My first published pattern. In the process of designing and knitting a baby cardigan pattern, I decided to make a matching hat pattern that looked a little different. This is actually knitted with less than half a 50 gram skein of leftover sock yarn. It is easy to increase size…just add 12 stitches to the given number to go up a size. I just haven’t tested it with live babies yet. My niece is having a baby in November so hope to have modeled photos soon.",
+  "full_text": "Additional materials: stuffing, catnip Two patterns: eggroll and wonton.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/comments",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/yarns",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/report",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/threads",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/people",
-    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/editors",
-    "https://www.ravelry.com/patterns/sources/kristin-carrolls-ravelry-store"
-  ]
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/people",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/threads",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/report",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/yarns",
+    "https://www.ravelry.com/patterns/sources/knitty-spring-2003",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/posts",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/comments",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/edit",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/editors",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/kitty-dim-sum"
+  ],
+  "name": "Ravelry: Feline Dim Sum pattern by Julie Falatko"
 }

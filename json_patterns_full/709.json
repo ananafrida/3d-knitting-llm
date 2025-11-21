@@ -1,43 +1,42 @@
 {
   "pattern_id": 709,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jester-hat",
-  "name": "Jester Hat",
-  "description": "The Jester is a quick-to-knit and whimsical hat, knit in the round, with I-cord and attached ball on top. Choose a soft super-bulky yarn and knit tightly to keep out the wind and cold. The idea of knitting a ball as a hat topper came Anna Zilboorg’s 45 Fine and Fanciful Hats.",
-  "designer": "Elizabeth Morrison",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cute-baby-blocks",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "Adult sizes M & L",
+  "category": "Blocks",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "4\" x 4\" x 4\" (10cm x 10cm x 10cm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Super Bulky (5-6 wpi) ?"
+    "Plymouth Yarn Encore D.K.",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "icord",
-    "in-the-round",
-    "seamless",
-    "tassel"
+    "3-dimensional",
+    "cables",
+    "chart",
+    "cube-shaped",
+    "seamed",
+    "worked-flat"
   ],
-  "full_text": "The Jester is a quick-to-knit and whimsical hat, knit in the round, with I-cord and attached ball on top. Choose a soft super-bulky yarn and knit tightly to keep out the wind and cold. The idea of knitting a ball as a hat topper came Anna Zilboorg’s 45 Fine and Fanciful Hats. 2 adult sizes, M and L with 22 and 24 inch circumfrences respectively. Many have modified for babies and children by using worsted weight yarn and smaller needles. Requires 100 grams of bulky weight yarn, no yardage given.",
+  "full_text": "",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jester-hat/editors",
-    "https://www.ravelry.com/patterns/library/jester-hat/comments",
-    "https://www.ravelry.com/patterns/library/jester-hat",
-    "https://www.ravelry.com/patterns/sources/sweater-studio-2",
-    "https://www.ravelry.com/patterns/library/scrappy-tube-scarf",
-    "https://www.ravelry.com/patterns/library/jester-hat/yarns",
-    "https://www.ravelry.com/patterns/library/jester-hat/posts",
-    "https://www.ravelry.com/patterns/library/jester-hat/report",
-    "https://www.ravelry.com/patterns/library/scrappy-toque",
-    "https://www.ravelry.com/patterns/library/easy-pussy-hat",
-    "https://www.ravelry.com/patterns/library/jester-hat/threads",
-    "https://www.ravelry.com/patterns/library/jester-hat/people"
-  ]
+    "https://www.ravelry.com/patterns/library/trellis-wrap-9",
+    "https://www.ravelry.com/patterns/library/cute-baby-blocks/people",
+    "https://www.ravelry.com/patterns/library/honky-tonk",
+    "https://www.ravelry.com/patterns/library/cute-baby-blocks",
+    "https://www.ravelry.com/patterns/library/cute-baby-blocks/editors",
+    "https://www.ravelry.com/patterns/sources/continuous-cables",
+    "https://www.ravelry.com/patterns/sources/canadian-living-online",
+    "https://www.ravelry.com/patterns/library/cute-baby-blocks/comments",
+    "https://www.ravelry.com/patterns/library/cute-baby-blocks/yarns",
+    "https://www.ravelry.com/patterns/library/cute-baby-blocks/report",
+    "https://www.ravelry.com/patterns/periodicals/canadian-living",
+    "https://www.ravelry.com/patterns/library/cute-baby-blocks/threads",
+    "https://www.ravelry.com/patterns/library/father-pullover"
+  ],
+  "name": "Ravelry: Cute Baby Blocks pattern by Melissa Leapman"
 }

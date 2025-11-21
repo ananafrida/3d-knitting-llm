@@ -1,35 +1,39 @@
 {
   "pattern_id": 482,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cozy-up-cowl",
+  "pattern_page": "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
+  "name": "It's Just a Knit Basket",
+  "description": "Our July Makers Kit is not a shawl, cowl, or hat! It’s Just a Basket!!",
+  "designer": "Aimee Pelletier",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
+  "category": "Containers",
   "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "One Size",
+  "sizes_available": "8\" x 8\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Purl Soho Pouf"
+    "Jumbo (0-4 wpi) ?",
+    "Berroco Macro"
   ],
   "attributes": [
+    "bottom-up",
     "in-the-round",
-    "written-pattern"
+    "one-piece"
   ],
-  "full_text": "MATERIALS 2 balls of Purl Soho’s Pouf , 50% alpaca and 50% Andean highland wool. Each ball of this super bulky-weight yarn is approximately 108 yards/ 100 grams; approximately 175 yards required. We used the colors Crocus Bud, Golden Green, and High Tide. US 11 (8 mm), 16-inch circular knitting needles A stitch marker A US 13 (9 mm) or US 15 (10 mm) knitting needle , any type, for binding off GAUGE 11 stitches and 15 rounds = 4 inches in stockinette stitch SIZE Finished Circumference at Bottom: 22½ inches Finished Circumference at Top: 19½ inches Finished Height: 21 inches Designed by Purl Soho designer, Hiromi Glover . See even more of Hiromi’s work on her Instagram !",
+  "full_text": "Our July Makers Kit is not a shawl, cowl, or hat! It’s Just a Basket!! The basket is about 8” tall and 8” in diameter. An easy pattern! We love the loop and closure detail too. So you can close it up if you want to bring it along somewhere and use it like a yarn bowl! Looking for a kit? Click here. There is also a crochet version. Find that here.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl",
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl/report",
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl/editors",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl/people",
-    "https://www.ravelry.com/patterns/library/cozy-up-cowl/comments",
-    "https://www.ravelry.com/patterns/library/knit-linen-market-bag",
-    "https://www.ravelry.com/patterns/library/toasty-hat--mittens",
-    "https://www.ravelry.com/patterns/library/softest-cotton-washcloth--bath-mat"
-  ],
-  "name": "Ravelry: Cozy Up Cowl pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/report",
+    "https://www.ravelry.com/patterns/library/quick-bulky-mitten",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/editors",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/people",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/comments",
+    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/yarns",
+    "https://www.ravelry.com/patterns/library/its-just-a-crochet-basket",
+    "https://www.ravelry.com/patterns/library/versa-cowl",
+    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
+    "https://www.ravelry.com/patterns/library/lollygag"
+  ]
 }

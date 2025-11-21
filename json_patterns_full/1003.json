@@ -1,44 +1,40 @@
 {
   "pattern_id": 1003,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sputnik-ball",
+  "pattern_page": "https://www.ravelry.com/patterns/library/multi-pack-band-aid",
+  "name": "Multi Pack Band-Aid",
+  "description": "These band-aids could be used to patch any ouchies on your stuffed animals, clothes, or anything else you could imagine. They would also make a fun addition to a first aid play kit.",
+  "designer": "Brandi Dixon",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Red Heart Super Saver (solids)"
+    "Caron Simply Soft",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
-    "kitchener",
+    "bottom-up",
+    "doll-size",
     "modular",
-    "moebius",
-    "provisional",
+    "phototutorial",
+    "rectangle",
     "seamed",
-    "short-rows",
-    "sphere-shaped",
-    "textured",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "These band-aids could be used to patch any ouchies on your stuffed animals, clothes, or anything else you could imagine. They would also make a fun addition to a first aid play kit.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sputnik-ball/comments",
-    "https://www.ravelry.com/patterns/library/sputnik-ball/editors",
-    "https://www.ravelry.com/patterns/library/sputnik-ball/people",
-    "https://www.ravelry.com/patterns/library/sputnik-ball/threads",
-    "https://www.ravelry.com/patterns/library/caterpillar-10",
-    "https://www.ravelry.com/patterns/library/sputnik-ball/yarns",
-    "https://www.ravelry.com/patterns/library/babys-first-dna-model",
-    "https://www.ravelry.com/patterns/library/christmas-lights",
-    "http://kimberlychapman.com/crafts/knit-patterns-sputnik.html",
-    "https://www.ravelry.com/patterns/library/sputnik-ball/report",
-    "https://www.ravelry.com/patterns/sources/kimberly-chapmans-website",
-    "https://www.ravelry.com/patterns/library/sputnik-ball"
-  ],
-  "name": "Ravelry: Sputnik Ball pattern by Kimberly Chapman"
+    "https://www.ravelry.com/patterns/library/multi-pack-band-aid",
+    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/yarns",
+    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/report",
+    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/people",
+    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/editors",
+    "https://www.ravelry.com/patterns/library/cable-round-the-brim",
+    "https://www.ravelry.com/patterns/sources/brandi-dixons-ravelry-store",
+    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/comments"
+  ]
 }

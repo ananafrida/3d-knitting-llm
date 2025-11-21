@@ -1,50 +1,38 @@
 {
   "pattern_id": 514,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cuello-principiante",
-  "name": "Cuello Principiante",
-  "description": "[[English below]]",
-  "designer": "Belén Fernández",
+  "pattern_page": "https://www.ravelry.com/patterns/library/easy-peasy-string-bag",
+  "name": "Easy-peasy string bag",
+  "description": "This string bag is extremely simple to make, it knits up in just a few hours. The secret is how it expands when you’re done, the bag will treble in size! It is perfect for produce or as a gift bag. It is loose and stretchy, so will hold a surprising amount.",
+  "designer": "Sarah Smithies",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "Talla única",
+  "category": "Containers",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "languages": [
-    "English",
-    "Spanish"
+    "English"
   ],
   "suggested_yarn": [
-    "Rico Design Creative Melange Chunky",
-    "Bulky (7 wpi) ?"
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "chart",
-    "female",
+    "bottom-up",
+    "dropped-stitches",
     "in-the-round",
-    "male",
+    "mesh",
     "one-piece",
-    "schematic",
     "seamless",
-    "teen",
-    "unisex",
-    "video-tutorial",
-    "written-pattern"
+    "three-needle-bind",
+    "top-down"
   ],
-  "full_text": "[[English below]] This is a beginner's neck. The pattern accompanies a series of videos to learn how to knit. With this pattern you will learn to: cast on stitches with the long strand method knit in a circular knit make elastics knit stitch purl stitch join a new ball correct errors close stitches cast off ends You can find all the videos that accompany this pattern at http://www.tejereningles.es/aprende-tejer-1 “Cuello Principiante” means Beginner Cowl in Spanish. I designed this cowl to be an ideal first knitting project. I have made a series of videos showing all the techniques but I'm afraid these are all in Spanish. If you are still interested in watching them, you can find them at www.tejereningles.es/aprende-tejer-1, but you can still follow the pattern without watching the videos.",
+  "full_text": "This string bag is extremely simple to make, it knits up in just a few hours. The secret is how it expands when you’re done, the bag will treble in size! It is perfect for produce or as a gift bag. It is loose and stretchy, so will hold a surprising amount. This pattern is very forgiving, tension is not important as the bag is made to be very loose and stretchy. It uses a 3-needle bind-off, but a normal bind-off can be used and the bottom of the bag sewn together if preferred. The pattern calls for 4-ply yarn, but will work with any light-weight yarn, perfect for using up scraps!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pumarada",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/editors",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/yarns",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/comments",
-    "https://www.ravelry.com/patterns/library/cuello-principiante",
-    "https://www.ravelry.com/patterns/sources/belen-fernandezs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/posts",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/report",
-    "https://www.ravelry.com/patterns/library/80s-retro-2",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/threads",
-    "https://www.ravelry.com/patterns/library/andecha",
-    "https://www.ravelry.com/patterns/library/cuello-principiante/people"
+    "https://www.ravelry.com/patterns/sources/sarah-smithies-ravelry-store",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/comments",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/editors",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/yarns",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/report",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/people"
   ]
 }

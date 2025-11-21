@@ -1,43 +1,46 @@
 {
   "pattern_id": 308,
-  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-bunny",
-  "name": "Catnip Bunny",
-  "description": "A rainbow of bunnies, filled with catnip to treat your kitty at Easter. Pattern has only the tiniest amount of seaming on the ears, otherwise it’s seam free and knitting on two needles.",
-  "designer": "Selina Kyle",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jingles-the-elf",
+  "name": "Jingles the Elf",
+  "description": "Jingles the Elf is a quick to knit doll for your festive decorations. Jingles’ collar uses a picot cast on, and instructions are included in the pattern. Designed by Amanda Berry @fluffandfuzz, this elf is knitted in acrylic DK yarns on single pointed needles (not in the round).",
+  "designer": "Amanda Berry",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "Kitty size",
+  "category": "Softies → Doll",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "26cm tall",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
+    "Paintbox Yarns Simply DK",
     "DK (11 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
-    "bottom-up",
-    "phototutorial",
-    "seamless",
+    "picots",
+    "seamed",
+    "stripes-colorwork",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A rainbow of bunnies, filled with catnip to treat your kitty at Easter. Pattern has only the tiniest amount of seaming on the ears, otherwise it’s seam free and knitting on two needles. Pattern is written up (badly - I’m a novice!) on my blog, with lots of pictures to make it even easier. Update - now available as a Ravelry pdf download :) This would also be a great pattern to knit for young children - a string of them as a pram toy, or to learn colours etc. Edited to add: Please feel free to make these to raise funds for charity. :)",
-  "techniques": [],
-  "shape": "softie",
+  "full_text": "Jingles the Elf is a quick to knit doll for your festive decorations. Jingles’ collar uses a picot cast on, and instructions are included in the pattern. Designed by Amanda Berry @fluffandfuzz, this elf is knitted in acrylic DK yarns on single pointed needles (not in the round). NEEDLES A pair of 3.5mm single pointed knitting needles (US 4). RECOMMENDED YARN Paintbox Yarns Simply DK; double knitting/light worsted weight; 100% acrylic; one 100g/276m skein in each colour. NOTIONS Tapestry needle, toy filling, and 5mm black beads for eyes. SIZES One size only - 26cm tall. TECHNIQUES For confident beginners and above, other techniques used include casting on and off, knits, purls, increases and decreases, knitting stripes, and seaming to finish. PATTERN INFO This knitting pattern is a pdf download, 4 pages, and written in English. Patterns for personal use only; not for resale. Copyright © 2016 Amanda Berry; All rights reserved.",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/liquid-soap-sleeve",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/people",
-    "https://www.ravelry.com/patterns/library/lace-mesh-wash-cloth-dish-cloth",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/posts",
-    "https://www.ravelry.com/patterns/sources/coffee-and-cream-blog",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/editors",
-    "https://www.ravelry.com/patterns/sources/coffee-and-cream",
-    "https://www.ravelry.com/patterns/library/baby-doll-set",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/comments",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/yarns",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/report",
-    "https://www.ravelry.com/patterns/library/catnip-bunny",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/threads"
+    "https://www.ravelry.com/patterns/library/butternut-squash-5",
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/report",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/comments",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/threads",
+    "https://www.ravelry.com/patterns/library/starfish-24",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/yarns",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/people",
+    "https://www.ravelry.com/patterns/library/chestnut-mushrooms",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf",
+    "https://www.ravelry.com/patterns/library/jingles-the-elf/editors"
   ]
 }

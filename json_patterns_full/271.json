@@ -1,41 +1,40 @@
 {
   "pattern_id": 271,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fishies-5",
-  "name": "Fishies",
-  "description": "These cute little fishies are fun and easy to knit. Using only a small amount of yarn, they are ideal for those little bits of leftover yarn.",
-  "designer": "Jackie Ziegler",
+  "pattern_page": "https://www.ravelry.com/patterns/library/meadow-scarf-5",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Annabel Williams Perendale DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "felted",
-    "in-the-round",
-    "one-piece",
-    "unisex",
+    "cables",
+    "chart",
+    "lace",
     "written-pattern"
   ],
-  "full_text": "These cute little fishies are fun and easy to knit. Using only a small amount of yarn, they are ideal for those little bits of leftover yarn. They are knitted in one piece with only a little sewing up at the tail end. Stuff them with a little catnip and you have a fun and addicting toy for your cat! Knit several of them for a decoration or you can turn them into a fishing game with a fishing rod and a bit of velcro. The ideas are endless! Materials : any worsted pure wool which is feltable. Fiber fill or dried catnip to stuff fish. Needles : US size 2.5 (3 mm) dpns Gauge : exact gauge isn’t important. Finished Size : approximately 2 inches (5 cm) felted and 3 inches (7 cm) unfelted",
-  "techniques": [],
-  "shape": "softie",
+  "full_text": "Haven’t received the pattern after signing up? Please send a private message or personal email, as I can’t respond to comments. This is my first scarf design, inspired by the newness of spring and the long-awaited flowers that are about to blossom into a beautiful meadow. The scarf is designed with my Perendale DK yarn, which is a 100% Perendale wool sourced from a wonderful farm in Darwin, Falkland, and spun in Devon, UK. The yarn has a beautiful texture that highlights the cable pattern and is also soft enough to wear against your skin. The pattern starts from the tip and gradually increases until the midpoint where you will then decrease towards the endpoint. The cables and simple lace design create an addictive pattern that you’ll love knitting, and you will just want to knit one more row before the end of the day. It’s a short scarf, meant for throwing over your shoulders and tying just once at the front or side of your neck. Instructions are given for adding repeats, which allows you to go from a small quick knit to a long cosy wrap-around shawl. It’s a pattern that can be adapted to any season and I hope will become your go-to scarf for spring or winter. Sizes: One size (Instructions included for adding repeats) Finished measurements: Length 115 cm/45” Width 23 cm/9” Needles: Size 3.5 mm (US 4) circular needles, 80 cm/32” long or needle size to obtain gauge Cable needle if not using the ‘no cable needle’ method Notions: Sewing needle, cable needle Gauge: 30 sts x 26 rows = 10cm/4” in cable pattern Yarn: Annabel Williams Perendale DK (DK weight, 100% wool, 245m/268 yds per 100g/3.5oz skein) 1 skein Light beige sample shown in Spring Jasmine Length 115cm/45” Width 23cm/9” Sample took 230m/251 yds (1 skein) Tips: How to work the 3/2 LC and 3/2 RC Cable without a cable needle - https://youtu.be/56f1usq5b7M This pattern is available for free on sign up. Future patterns are shared with subscribers as they are released. If you’d like access to additional patterns from my collection, they are available via a contribution through Ko-fi: https://ko-fi.com/annabelwilliamsyarn",
+  "techniques": [
+    "increases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/love-hearts",
-    "https://www.ravelry.com/patterns/library/pitter-patter-socks",
-    "https://www.ravelry.com/patterns/library/fishies-5",
-    "https://www.ravelry.com/patterns/library/little-trinket-bag",
-    "https://www.ravelry.com/patterns/library/fishies-5/editors",
-    "https://www.ravelry.com/patterns/library/fishies-5/yarns",
-    "https://www.ravelry.com/patterns/library/fishies-5/report",
-    "https://www.ravelry.com/patterns/sources/jackie-z-knits",
-    "https://www.ravelry.com/patterns/library/fishies-5/threads",
-    "https://www.ravelry.com/patterns/library/fishies-5/people",
-    "https://www.ravelry.com/patterns/library/fishies-5/comments",
-    "https://www.ravelry.com/patterns/library/fishies-5/posts"
-  ]
+    "https://www.ravelry.com/patterns/library/meadow-scarf-5/comments",
+    "https://www.ravelry.com/patterns/library/meadow-scarf-5/yarns",
+    "https://www.ravelry.com/patterns/library/meadow-scarf-5",
+    "https://www.ravelry.com/patterns/library/meadow-scarf-5/editors",
+    "https://www.ravelry.com/patterns/library/severnside-beanie-hat",
+    "https://www.ravelry.com/patterns/library/severnside-mitts",
+    "https://www.ravelry.com/patterns/library/meadow-scarf-5/people",
+    "https://www.ravelry.com/patterns/sources/annabel-williams",
+    "https://www.ravelry.com/patterns/library/meadow-scarf-5/report",
+    "https://www.ravelry.com/patterns/library/meadow-scarf-5/threads",
+    "https://www.ravelry.com/patterns/library/sally-vest"
+  ],
+  "name": "Ravelry: Meadow scarf pattern by Annabel Williams"
 }

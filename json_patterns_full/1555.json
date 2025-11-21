@@ -1,45 +1,43 @@
 {
   "pattern_id": 1555,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pumpkin-number-one",
-  "name": "Pumpkin Number One",
-  "description": "Pumpkin Number One is a project worked in the round on 2.5 mm US 1½ / UK – double-pointed knitting needles. It features a combination of knits and purls only, so it is a very beginner-friendly project that will help you make use of your scrap yarn.",
-  "designer": "Ewelina Wojsz Designs",
+  "pattern_page": "https://www.ravelry.com/patterns/library/broken-rib-cowl-6",
+  "name": "Broken Rib Cowl",
+  "description": "A quick and easy cowl using exactly one skein of Malabrigo Mecha. Perfect for chilly days.",
+  "designer": "A Twist of Yarn",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "One size only – H=5 cm [2\"], W= 8.5 cm [3¼\"]",
+  "category": "Neck / Torso → Scarf Neck / Torso → Cowl",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Nord",
-    "Fingering (14 wpi) ?"
+    "Malabrigo Yarn Mecha",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
+    "adult",
     "bottom-up",
     "in-the-round",
     "one-piece",
-    "phototutorial",
     "ribbed",
-    "seamless",
+    "teen",
+    "textured",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "Pumpkin Number One is a project worked in the round on 2.5 mm US 1½ / UK – double-pointed knitting needles. It features a combination of knits and purls only, so it is a very beginner-friendly project that will help you make use of your scrap yarn. This pattern is written for one size only, but to make a bigger pumpkin you could just use a thicker yarn and larger knitting needles (TIP: just get your yarn and pick a bit smaller knitting needles size than what the yarn label suggests – this way sts would be dense enough not to let the filling stick though them) and follow the knitting instructions in the same exact way. Essential skills: cast on knit (in the round on DPNs) purl Yarn: Nord by DROPS – 50 g 1.8 oz = approx. 170 m 186 yds – about 12 g 0.42 oz Notions: 1 stitch marker a pair of scissors a darning needle (a long one) some polyester stuffing 1 coconut shell button – 15 mm ½“ a sharpened piece of stick – 40 x 7 mm 1½ x ¼“ a hot glue gun with a glue stick This free knitting pattern is the property of Ewelina Wojsz (Ewelina Wojsz Designs) and is for personal use only. You cannot modify, sell or share this pattern. You can sell finished items handmade from this pattern, made in a limited number. My dream is to build a friendly and supportive knitting community that celebrates both the knitting process and the finished item, therefore please share your progress on social media with #PumpkinNumberOne and tag me with @ewelinawojszdesigns , so I could keep track of your knits <3 Thank you for respecting me and my work!",
-  "techniques": [
-    "worked in the round"
-  ],
-  "shape": "sphere",
+  "full_text": "A quick and easy cowl using exactly one skein of Malabrigo Mecha. Perfect for chilly days. One size only. Materials 1 Skein of Malabrigo Mecha or minimum of 120m /130y of chunky weight yarn 5.0mm and 6.0 mm 16” circular needles or 40” circular for magic loop Stitch marker(s) Darning Needle Note: You can adjust the width/length of the cowl, but you will need to increase your yarn amount. This pattern is designed to use exactly one skein.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/ewelina-wojsz-designs",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one/comments",
-    "https://www.ravelry.com/patterns/library/swirly-twirly-skirt",
-    "https://www.ravelry.com/patterns/library/one-line-hat",
-    "https://www.ravelry.com/patterns/library/must-have-baby-hat",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one/people",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one/editors",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one/report",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one/yarns",
-    "https://www.ravelry.com/patterns/library/pumpkin-number-one"
+    "https://www.ravelry.com/patterns/library/easy-top-down-magic-loop-socks",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/yarns",
+    "https://www.ravelry.com/patterns/sources/a-twist-of-yarn",
+    "https://www.ravelry.com/patterns/sources/a-twist-of-yarns-ravelry-store",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/report",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/editors",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/people",
+    "https://www.ravelry.com/patterns/library/broken-rib-cowl-6/comments"
   ]
 }

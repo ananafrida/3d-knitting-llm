@@ -1,37 +1,41 @@
 {
   "pattern_id": 1920,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mini-rainbow-3",
-  "name": "Mini Rainbow",
-  "description": "Cute little rainbow, perfect for making into a badge, a garland or sewing on a garment to add some fun!",
-  "designer": "Amanda Berry",
+  "pattern_page": "https://www.ravelry.com/patterns/library/gingersnap-2",
+  "name": "Gingersnap",
+  "description": "I made my sweaters from scraps of Rowan Pure Wool Superwash Worsted leftover from the Martin Storey Afghan KAL and the Kaffe Fassett KAL. In the model sweater, I used a fourth color for the back, but the pattern is written for three colors. This is meant to be a real scrappy sweater and as long as you make gauge and use a soft, machine-washable yarn (it’s for baby after all), you can be thrifty and raid your stash using 3, 4, 5 or more colors. The color possibilities are endless and I can’t wait to see what you come up with! If you would like a summer sweater, I suggest Rowan Handknit Cotton or Rowan Softknit Cotton. Both will give you gauge and both are machine washable.",
+  "designer": "Kristen Rettig",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "one year (6 mos., see note below)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Qing Fibre Classic DK"
+    "Rowan Handknit Cotton",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "baby",
+    "seamed",
+    "stripes-colorwork",
     "worked-flat"
   ],
-  "full_text": "Cute little rainbow, perfect for making into a badge, a garland or sewing on a garment to add some fun! Needle size: 3mm Yarn: Qing Fibre Classic DK - a few grams of each colour, scraps are perfect for this! Notions: +Filling - scrap yarn can work well +Tapestry needle to sew up your mini In collaboration with the amazing Amanda Berry - Instagram and Ravelry",
+  "full_text": "I made my sweaters from scraps of Rowan Pure Wool Superwash Worsted leftover from the Martin Storey Afghan KAL and the Kaffe Fassett KAL. In the model sweater, I used a fourth color for the back, but the pattern is written for three colors. This is meant to be a real scrappy sweater and as long as you make gauge and use a soft, machine-washable yarn (it’s for baby after all), you can be thrifty and raid your stash using 3, 4, 5 or more colors. The color possibilities are endless and I can’t wait to see what you come up with! If you would like a summer sweater, I suggest Rowan Handknit Cotton or Rowan Softknit Cotton. Both will give you gauge and both are machine washable. I’ve sized Gingersnap for one year, which is my favorite size to knit for baby. Hear me out: At one year old, babies are sitting up, walking about, smiling and laughing, clapping their hands, and generally causing a lot of commotion and attention to themselves, and thereby, giving a lot of attention to your nice sweater! You can purchase Gingersnap for Bigger Kids sized from 1 to 8 years with a bonus 6 mos size here: https://www.ravelry.com/patterns/library/gingersnap-for-b...",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/threads",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/report",
-    "https://www.ravelry.com/patterns/library/little-saturn",
-    "https://www.ravelry.com/patterns/library/weather-cushions-2",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/people",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/comments",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/editors",
-    "https://www.qingfibre.com/products/mini-rainbow-pattern-download",
-    "https://www.ravelry.com/patterns/library/ice-cream-treats-2",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3/yarns",
-    "https://www.ravelry.com/patterns/sources/qing-fibres-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-rainbow-3"
+    "https://www.ravelry.com/patterns/library/gingersnap-2",
+    "https://www.ravelry.com/patterns/library/gingersnap-2/people",
+    "https://www.ravelry.com/patterns/library/wee-gingersnap-for-dolly",
+    "https://www.ravelry.com/patterns/library/gingersnap-2/threads",
+    "https://www.ravelry.com/patterns/library/gingersnap-for-bigger-kids",
+    "https://www.ravelry.com/patterns/library/gingersnap-2/report",
+    "https://www.ravelry.com/patterns/library/gingersnap-2/editors",
+    "https://www.ravelry.com/patterns/library/gingersnap-2/yarns",
+    "https://www.ravelry.com/patterns/library/gingersnap-2/comments",
+    "https://www.ravelry.com/patterns/library/gingersnap-2/posts",
+    "https://www.ravelry.com/patterns/sources/kristen-rettigs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tiny-tot-2"
   ]
 }

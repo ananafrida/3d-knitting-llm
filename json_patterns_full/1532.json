@@ -1,42 +1,50 @@
 {
   "pattern_id": 1532,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pick-knit-your-own-pumpkins",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cuello-principiante",
+  "name": "Cuello Principiante",
+  "description": "[[English below]]",
+  "designer": "Belén Fernández",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "Mini, Small, Medium",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "sizes_available": "Talla única",
   "languages": [
-    "English"
+    "English",
+    "Spanish"
   ],
   "suggested_yarn": [
-    "",
-    "yarn held together"
+    "Rico Design Creative Melange Chunky",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
+    "adult",
+    "chart",
+    "female",
     "in-the-round",
+    "male",
     "one-piece",
-    "ribbed",
-    "seamed",
+    "schematic",
     "seamless",
-    "slipped-stitches",
-    "textured",
-    "worked-flat",
+    "teen",
+    "unisex",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "Knit your own pumpkin in a choice of textures and sizes! Mini/Small/Medium Garter Stitch, Stockinette, Ribbed & Slip Stitch Pumpkin Scrap yarn is great for this project! Aim for about Aran weight yarn or slightly thicker. Combining different colour and weight yarns gives great dimension for the pumpkins, i.e. 3 strands of 4-ply, a strand of 4-ply and DK, two strands of DK etc or variegated/speckled/colour changing Aran weight yarn bring great natural looking results. You will only need a very small amount of yarn for each pumpkin, approximately 15g for the mini, 30g for the small and 45g for the medium one. This pattern was created for our knit group and they enjoyed it so much more that we’ve decided to share it here! Feel free to use this pattern to make and sell the pumpkins.",
+  "full_text": "[[English below]] This is a beginner's neck. The pattern accompanies a series of videos to learn how to knit. With this pattern you will learn to: cast on stitches with the long strand method knit in a circular knit make elastics knit stitch purl stitch join a new ball correct errors close stitches cast off ends You can find all the videos that accompany this pattern at http://www.tejereningles.es/aprende-tejer-1 “Cuello Principiante” means Beginner Cowl in Spanish. I designed this cowl to be an ideal first knitting project. I have made a series of videos showing all the techniques but I'm afraid these are all in Spanish. If you are still interested in watching them, you can find them at www.tejereningles.es/aprende-tejer-1, but you can still follow the pattern without watching the videos.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pick-knit-your-own-pumpkins/editors",
-    "https://www.dropbox.com/scl/fi/n1dhudj4aukk3tsu1cmqg/Pumpkin-Pattern-14.pdf?rlkey=0lc94l6d8yth3zobq65tz6awa&st=5v5qompt&dl=0",
-    "https://www.ravelry.com/patterns/library/pick-knit-your-own-pumpkins/report",
-    "https://www.ravelry.com/patterns/library/pick-knit-your-own-pumpkins/comments",
-    "https://www.ravelry.com/patterns/sources/castle-craft-collectives-ravelry-store",
-    "https://www.ravelry.com/patterns/library/absolute-beginners-textured-scarf-2",
-    "https://www.ravelry.com/patterns/library/pick-knit-your-own-pumpkins",
-    "https://www.ravelry.com/patterns/library/pick-knit-your-own-pumpkins/yarns",
-    "https://www.ravelry.com/patterns/library/pick-knit-your-own-pumpkins/people"
-  ],
-  "name": "Ravelry: Pick (Knit) Your Own Pumpkins pattern by Castle Craft Collective"
+    "https://www.ravelry.com/patterns/library/cuello-principiante/people",
+    "https://www.ravelry.com/patterns/library/cuello-principiante",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/editors",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/report",
+    "https://www.ravelry.com/patterns/sources/belen-fernandezs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/80s-retro-2",
+    "https://www.ravelry.com/patterns/library/andecha",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/comments",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/posts",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/yarns",
+    "https://www.ravelry.com/patterns/library/cuello-principiante/threads",
+    "https://www.ravelry.com/patterns/library/pumarada"
+  ]
 }

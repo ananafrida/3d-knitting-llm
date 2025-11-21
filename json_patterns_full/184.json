@@ -1,35 +1,43 @@
 {
   "pattern_id": 184,
-  "pattern_page": "https://www.ravelry.com/patterns/library/entangled-roses-purse",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-parlor-cat",
+  "name": "Tiny Parlor Cat",
+  "description": "This is a tiny version of my regular Parlor Cat pattern.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Artfibers Tesla"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "lined"
+    "amigurumi",
+    "icord",
+    "in-the-round",
+    "kitchener"
   ],
-  "full_text": "Pattern Description from MarnieMacLean.com: “This piece was surprisingly hard to name. The yarn defies easy description. It’s a mix of stainless steel and cotton, a combination sure to surprise. When laid flat, the piece looks dense and organic, but held up to the light, the effect is almost lacelike. Perhaps one sees the silhouettes of leaves in a tree canopy in autumn, or, as the name of this purse suggests, rose buds weaving in and out of chain link. Others still, see rare and lovely rubies cut and set as cabochons, while others see blood. Because of it’s complex nature, the yarn really asks to be the focal point on it’s own. The pattern is simple and easy to adapt to different sizes, but I do recommend that you splurge on a proper purse handle. Many knit purses end up too droopy and floppy to stand up to normal usage. A purse handle gives a more professional touch. The added benefit to using Tesla is that the cotton and stainless steel not only looks stunning, but it makes for a strong and sturdy purse. Those of you with great sewing skills should consider making a proper lining, but for those with more basic sewing skills, this pattern is sure to be within your skill set.“ Gauge: Working 45 stitches in a bias pattern (described below) should be about 7.5”-8” wide. The final piece will be a little wider in front but will be cinched in by the purse frame. Supplies: 2 skeins of Tesla yarn (Cotton and Stainless Steel) in color of choice 1 pair of US #10.5 straight needles 1 stitch marker Tapestry needle 1 Purse frame. I bought mine here, item # LV62 One way stretch fusible interfacing in black (optional) Black grosgrain ribbon (optional) Sewing needle and thread Yarn Substitution: It will be hard to find a yarn quite like this for substituting. Tesla is made of stainless steel and cotton and has a great thick and thin quality. However, if you’d like to achieve a similar effect, you could combine a light weight, smooth, metallic yarn with a thick and thin or boucle yarn. Stitches Used: (K) Knit (P) Purl (Inc) Increase in front and back of stitch (k2tog and SSK) Decrease (DD) Double Decrease —slip 2 as if to k2tog, k1, pass 2 stitches over Gauge: You will not be required to work to a particular gauge. Supplies: This piece was worked with Artfiber’s yarn, Mousse, which is now discontinued. While you can choose almost any yarn, I would recommend a light, drapy, ribbon yarn made of rayon or linen. I needed less than 100 grams to complete the whole piece. Crochet hook of a size appropriate to yarn. I used a size E which was slightly smaller than the size normally used for that yarn. Optional: 1-1” button",
-  "techniques": [],
-  "shape": "cone",
+  "full_text": "This is a tiny version of my regular Parlor Cat pattern. It’s 3 inches long (excluding tail), worked in the round, and all in one piece. It also knits up very quickly! The pattern specifies worsted weight yarn, but you can use whatever you have on hand - just adjust your needle size accordingly.",
+  "techniques": [
+    "worked in the round"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/entangled-roses-purse/comments",
-    "https://www.ravelry.com/patterns/library/entangled-roses-purse/report",
-    "https://www.ravelry.com/patterns/library/entangled-roses-purse/threads",
-    "http://marniemaclean.com/patterns/Entangled/index.html",
-    "https://www.ravelry.com/patterns/library/hooray-for-me-gloves",
-    "https://www.ravelry.com/patterns/library/drake-the-dreaded-dragon-backpack",
-    "https://www.ravelry.com/patterns/library/entangled-roses-purse",
-    "https://www.ravelry.com/patterns/library/entangled-roses-purse/editors",
-    "https://www.ravelry.com/patterns/library/entangled-roses-purse/people",
-    "https://www.ravelry.com/patterns/library/itty-bitty-kitty-puuuurse",
-    "https://www.ravelry.com/patterns/library/entangled-roses-purse/yarns",
-    "https://www.ravelry.com/patterns/sources/marnie-maclean-designs"
-  ],
-  "name": "Ravelry: Entangled Roses Purse pattern by Marnie MacLean"
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/report",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/yarns",
+    "https://www.ravelry.com/patterns/sources/victorian-housecats-to-knit",
+    "https://www.ravelry.com/patterns/library/steamed-broccoli-florets",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/comments",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/threads",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/editors",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/people",
+    "https://www.ravelry.com/patterns/library/songbird-6",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat/posts",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat"
+  ]
 }

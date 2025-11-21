@@ -1,46 +1,29 @@
 {
   "pattern_id": 382,
-  "pattern_page": "https://www.ravelry.com/patterns/library/linos-coat",
-  "name": "Lino's Coat",
-  "description": "The full and improved version of the pattern, in a wide range of sizes, is now available on Ravelry: Jules",
-  "designer": "Julie Partie",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-mermaid-doll",
+  "name": "Knitted Mermaid Doll",
+  "description": "Difficulty: Medium - Requires ability to change colors, increase, decrease and assemble.",
+  "designer": "Angela chin",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
-  "sizes_available": "+/- 9/12 mths",
+  "category": "Softies → Doll",
   "languages": [
-    "French",
-    "Additional languages which are not in the download: English"
-  ],
-  "suggested_yarn": [
-    "Cascade Yarns ® Ecological Wool®",
-    "Bulky (7 wpi) ?"
+    "English"
   ],
   "attributes": [
-    "baby",
-    "buttoned",
-    "buttonholes",
-    "child",
-    "hood",
-    "textured"
+    "seamed"
   ],
-  "full_text": "The full and improved version of the pattern, in a wide range of sizes, is now available on Ravelry: Jules Pattern is available in French & in English in the same file!",
+  "full_text": "Difficulty: Medium - Requires ability to change colors, increase, decrease and assemble. Size: Dolls measures 14 inches tall Materials: Worsted Weight yarn – You can mix yarn colors to get the combination you’d like: Beige (for skin of doll) Purple for top) Teal (for body and tail) Red (for hair) Poly-fill stuffing Pair of size 4 (US) knitting needles Yarn needle 9mm doll eyes",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/linos-coat/yarns",
-    "https://www.ravelry.com/patterns/library/linos-coat/posts",
-    "https://www.ravelry.com/patterns/library/linos-coat/editors",
-    "https://www.ravelry.com/patterns/library/jules-7",
-    "https://www.ravelry.com/patterns/library/linos-coat/threads",
-    "https://www.ravelry.com/patterns/library/linos-coat/report",
-    "https://www.ravelry.com/patterns/sources/lili-comme-tout-on-ravelry",
-    "http://storage.canalblog.com/27/50/504345/53936512.pdf",
-    "https://www.ravelry.com/patterns/library/lil-kimonos",
-    "https://www.ravelry.com/patterns/library/beguin-de-printemps",
-    "https://www.ravelry.com/patterns/library/linos-coat/comments",
-    "http://www.ravelry.com/patterns/library/jules-3",
-    "https://www.ravelry.com/patterns/library/linos-coat/people",
-    "https://www.ravelry.com/patterns/library/linos-coat"
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/yarns",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/comments",
+    "https://www.ravelry.com/patterns/sources/angela-chins-ravelry-store",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/report",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/people",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll",
+    "https://www.ravelry.com/patterns/library/pride-and-prejudice-dolls",
+    "https://www.ravelry.com/patterns/library/knitted-sea-witch-doll",
+    "https://www.ravelry.com/patterns/library/knitted-mermaid-doll/editors"
   ]
 }

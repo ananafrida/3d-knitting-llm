@@ -1,36 +1,41 @@
 {
   "pattern_id": 964,
-  "pattern_page": "https://www.ravelry.com/patterns/library/entrelac-cube-with-continuous-cables",
-  "name": "Entrelac Cube with continuous cables",
-  "description": "This pattern is very much a schematic.",
-  "designer": "Jay Petersen",
+  "pattern_page": "https://www.ravelry.com/patterns/library/uterus",
   "craft": "Knitting",
-  "category": "Ball",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "sphere-shaped"
+    "female",
+    "in-the-round",
+    "mature",
+    "one-piece",
+    "ribbed",
+    "seamless",
+    "written-pattern"
   ],
-  "full_text": "This pattern is very much a schematic. Best approached as a puzzle. Have you knitted lots of entrelac? Have you read a lot of Barbara Walker books? Have you read a lot of Elizabeth Zimmerman? Do you like to figure things out? I welcome contributions to this pattern. I am good at making drawings and diagrams, and bad at creating narrative directions. Update: I found a few errors in the diagram. Probably not show-stoppers, but if you have downloaded the first version, please replace the PDF file with the one that contains “ver. 1.1” in the name.",
+  "full_text": "This pattern is also available on the Birthsource website .",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/entrelac-cube-with-continuous-cables",
-    "https://www.ravelry.com/patterns/library/entrelac-cube-with-continuous-cables/posts",
-    "https://www.ravelry.com/patterns/library/entrelac-cube-with-continuous-cables/threads",
-    "https://www.ravelry.com/patterns/library/entrelac-five-pointed-star",
-    "https://www.ravelry.com/patterns/library/entrelac-cube-with-continuous-cables/yarns",
-    "https://www.ravelry.com/patterns/library/greek-key-lace-scarf",
-    "https://www.ravelry.com/patterns/library/heart-mesh",
-    "https://www.ravelry.com/patterns/library/entrelac-cube-with-continuous-cables/editors",
-    "https://www.ravelry.com/patterns/sources/fuzzy-logic",
-    "https://www.ravelry.com/patterns/library/entrelac-cube-with-continuous-cables/comments",
-    "https://www.ravelry.com/patterns/sources/fuzzyjays-flickr-photostream",
-    "https://www.ravelry.com/patterns/library/entrelac-cube-with-continuous-cables/people",
-    "https://www.ravelry.com/patterns/library/entrelac-cube-with-continuous-cables/report"
-  ]
+    "https://www.ravelry.com/patterns/library/uterus/yarns",
+    "https://www.ravelry.com/patterns/library/uterus/edit",
+    "https://www.ravelry.com/patterns/library/uterus/posts",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/uterus/threads",
+    "https://www.ravelry.com/patterns/sources/mother-care-canadian-birth-professionals",
+    "https://www.ravelry.com/patterns/library/uterus/editors",
+    "https://www.ravelry.com/patterns/library/uterus/people",
+    "https://www.ravelry.com/patterns/library/uterus",
+    "https://www.ravelry.com/patterns/sources/birthsource",
+    "https://www.ravelry.com/patterns/library/uterus/comments",
+    "https://www.ravelry.com/patterns/library/uterus/report"
+  ],
+  "name": "Ravelry: Uterus pattern by Connie Banack"
 }

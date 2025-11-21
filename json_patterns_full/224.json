@@ -1,48 +1,38 @@
 {
   "pattern_id": 224,
-  "pattern_page": "https://www.ravelry.com/patterns/library/astra---purse",
-  "name": "Astra - purse",
-  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
-  "designer": "Essy Winnerholt",
+  "pattern_page": "https://www.ravelry.com/patterns/library/avenue-3",
+  "name": "Avenue",
+  "description": "Make the most of that special skein of fingering yarn with the Avenue Scarf! It’s simple garter stitch scarf, with a few polished details, that maximizes the use of yardage and shows of the yarn’s own colours.",
+  "designer": "Galt House of Yarn",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
+  "category": "Neck / Torso → Scarf",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "18 x 13 cm",
   "languages": [
-    "Danish",
-    "Dutch",
-    "Finnish",
-    "German",
-    "Norwegian",
-    "Swedish",
-    "...and 6 other languages show hide other languages",
-    "...and 6 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Svarta Fåret Tencel Blow",
-    "yarn held together"
+    "Filcolana Tilia",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "in-the-round",
-    "twisted-stitches",
-    "written-pattern"
+    "icord-edging",
+    "one-piece",
+    "worked-flat"
   ],
-  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Svarta Fåret on Instagram Reseller map svartafaret.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be",
+  "full_text": "Make the most of that special skein of fingering yarn with the Avenue Scarf! It’s simple garter stitch scarf, with a few polished details, that maximizes the use of yardage and shows of the yarn’s own colours. Choose from Fingering Weight on its own (A) or add a strand of mohair for a little extra fuzz (B). This scarf is very adaptable for other weights, yarn combinations, or dimensions.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/astra---purse/people",
-    "https://www.ravelry.com/patterns/library/astra---purse/comments",
-    "https://www.ravelry.com/patterns/library/astra---purse/yarns",
-    "https://www.ravelry.com/patterns/library/astra---purse/report",
-    "https://www.ravelry.com/patterns/library/astra---purse/editors",
-    "https://www.ravelry.com/patterns/library/astra---purse",
-    "https://www.ravelry.com/patterns/library/yyteri---cardigan",
-    "https://www.ravelry.com/patterns/library/rebbelino",
-    "https://www.ravelry.com/patterns/periodicals/svarta-faret",
-    "https://www.ravelry.com/patterns/library/fleurir-shopper",
-    "https://www.ravelry.com/patterns/sources/svarta-faret-ravelry-store"
+    "https://www.ravelry.com/patterns/sources/galt-house-of-yarn",
+    "https://www.ravelry.com/patterns/library/avenue-3/yarns",
+    "https://www.ravelry.com/patterns/library/avenue-3/comments",
+    "https://www.ravelry.com/patterns/library/avenue-3/editors",
+    "https://www.ravelry.com/patterns/library/avenue-3/report",
+    "https://www.ravelry.com/patterns/library/hillcrest-2",
+    "https://www.ravelry.com/patterns/library/avenue-3/threads",
+    "https://www.ravelry.com/patterns/library/avenue-3/people",
+    "https://www.ravelry.com/patterns/library/avenue-3",
+    "https://www.ravelry.com/patterns/library/kinbridge",
+    "https://www.ravelry.com/patterns/library/selkirk"
   ]
 }

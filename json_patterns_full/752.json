@@ -1,51 +1,39 @@
 {
   "pattern_id": 752,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pine-sweater-6",
-  "name": "Pine Sweater",
-  "description": "",
-  "designer": "Alaza Knit",
+  "pattern_page": "https://www.ravelry.com/patterns/library/quarantine-mystery-kal",
   "craft": "Knitting",
-  "category": "Sweater → Pullover",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "2 years / 4 years / 6 years / 8 years / 10 years / 12 years",
+  "category": "Afghan block",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "13 cm wide x 14 cm long",
   "languages": [
-    "English"
+    "Universal"
   ],
   "suggested_yarn": [
-    "Etrofil Baby Joy",
+    "",
     "DK (11 wpi) ?"
   ],
   "attributes": [
-    "baby",
     "chart",
-    "child",
-    "circular-yoke",
-    "fairisle",
-    "in-the-round",
-    "long-sleeve",
-    "one-piece",
-    "ribbed",
-    "seamless",
-    "short-rows",
-    "stripes-colorwork",
-    "toddler",
-    "top-down",
-    "unisex",
-    "video-tutorial",
-    "written-pattern"
+    "stranded"
   ],
-  "full_text": "",
+  "full_text": "Our first ARNE & CARLOS Daily Quarantine Knitting Podcast and the pattern for the first clue of our Mystery Knit Along have now been published on our YouTube Channel and Blog ! Pattern is also called “Hug Me Later”. It’s absolutely free to join and we’d love as many of you to take part in the mystery KAL, so that we may all support, encourage and help each other stay sane during this terrible crisis! Materials : Any DK yarn in any quality, texture or any colour. It’s really up to you! The gauge of the yarn you are looking for in your stash is approximately 22 stitches and 30 rows to 10 cms/ 4 inches. However, dot worry if it’s not exactly this, everything will work. We promise! You will need yarn in 2 different colours for each daily clue and the quantities per colour per clue are going to be very small, about 6 – 8 grams per colour. Needles : 2 needles size 4.0 mm / U.S. Size 6. We are working with 2 dpns in 20 cm length / U.S. 8”. Since we will be knitting back and forth, you can use other, longer needles if you like, but the shortest size should be 20cm / 8”. Don’t go for anything shorter than this! Circular needles can also be used. Finished size of our squares: After blocking them, our squares are 13cm wide x 14 cm long. Do not worry if your squares are not the same size as our’s. The project will be individually tailored to your yarn and there are no sizes to worry about.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pine-sweater-6/people",
-    "https://www.ravelry.com/patterns/library/pine-sweater-6/yarns",
-    "https://www.ravelry.com/patterns/library/pine-sweater-6/editors",
-    "https://www.ravelry.com/patterns/library/3-granny-squares-bag",
-    "https://www.ravelry.com/patterns/sources/alaza-orgus-ravelry-store",
-    "https://www.ravelry.com/patterns/library/lili-vest-2",
-    "https://www.ravelry.com/patterns/library/pine-sweater-6/comments",
-    "https://www.ravelry.com/patterns/library/pine-sweater-6/report",
-    "https://www.ravelry.com/patterns/library/pine-sweater-6"
-  ]
+    "https://www.ravelry.com/patterns/library/quarantine-mystery-kal/people",
+    "https://www.ravelry.com/patterns/library/quarantine-mystery-kal/report",
+    "https://www.ravelry.com/patterns/sources/arne--carlos-blog",
+    "https://www.ravelry.com/patterns/library/quarantine-mystery-kal/editors",
+    "https://www.ravelry.com/patterns/library/24109-paskeegg-easter-balls-and-easter-eggs",
+    "https://www.ravelry.com/patterns/library/quarantine-mystery-kal/edit",
+    "https://arnecarlos.com/the-arne-carlos-quarantine-knitting-kal-hug-me-later-pattern/",
+    "https://www.ravelry.com/patterns/library/quarantine-mystery-kal",
+    "https://www.ravelry.com/patterns/library/quarantine-mystery-kal/threads",
+    "https://www.ravelry.com/patterns/library/the-children-dance-around-the-trees-stocking",
+    "https://www.ravelry.com/patterns/library/christmas-balls-2020",
+    "https://www.ravelry.com/patterns/library/quarantine-mystery-kal/comments",
+    "https://www.ravelry.com/patterns/library/quarantine-mystery-kal/posts",
+    "https://www.ravelry.com/patterns/library/quarantine-mystery-kal/yarns"
+  ],
+  "name": "Ravelry: Quarantine Mystery KAL pattern by Arne & Carlos"
 }

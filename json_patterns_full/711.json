@@ -1,38 +1,42 @@
 {
   "pattern_id": 711,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fuzzy-little-shapka",
-  "name": "Fuzzy Little Shapka",
-  "description": "Shapka: big furry hat in Ukrainian. These are of the smaller and fuzzier variety. A cute little toque (hat) quickly knit up for tiny preemie sizes through adult. Very cute on babies and little kids, and amusing on adults too. Every baby I know has a hat like this.",
-  "designer": "Jennifer Shapka",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-block-set",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "tiny-adult",
+  "category": "Blocks",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "Small, Medium, Large",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Lion Brand Jiffy Solid",
-    "Bulky (7 wpi) ?"
+    "Knit Picks Wool of the Andes Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "baby",
-    "bottom-up",
-    "child",
-    "in-the-round",
-    "one-piece",
-    "textured",
+    "3-dimensional",
+    "cube-shaped",
+    "felted",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Shapka: big furry hat in Ukrainian. These are of the smaller and fuzzier variety. A cute little toque (hat) quickly knit up for tiny preemie sizes through adult. Very cute on babies and little kids, and amusing on adults too. Every baby I know has a hat like this. The ridged purl round in this pattern (done in a contrasting colour in the picture) shows up best when done with smooth yarn, and is lost if using textured bobbly yarn. If you like an extra pointy point on top, do an extra round or two even when you’re down to 9 or 6 sts. Yardage is very approximate.",
+  "full_text": "Blocks are roughly 3x3, 4x4, and 5x5 after felting. Blocks are stuffed with fiberfill stuffing. Pattern assumes knowledge of felting with a washing machine.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/threads",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/people",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/editors",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/report",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/yarns",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/comments",
-    "https://www.ravelry.com/patterns/sources/dragonfireknits",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka"
-  ]
+    "https://www.ravelry.com/patterns/library/felted-block-set/edit",
+    "https://www.ravelry.com/patterns/library/striped-scarf-3",
+    "https://www.ravelry.com/patterns/sources/howstuffworks",
+    "https://www.ravelry.com/patterns/library/striped-wine-sack",
+    "https://www.ravelry.com/patterns/library/felted-block-set/comments",
+    "https://www.ravelry.com/patterns/library/felted-block-set/threads",
+    "https://www.ravelry.com/patterns/library/felted-block-set/people",
+    "https://www.ravelry.com/patterns/library/felted-block-set/report",
+    "https://www.ravelry.com/patterns/library/felted-block-set/editors",
+    "https://www.ravelry.com/patterns/library/babys-best-booties-2",
+    "https://www.ravelry.com/patterns/library/felted-block-set/yarns",
+    "https://www.ravelry.com/patterns/library/felted-block-set",
+    "http://home.howstuffworks.com/free-baby-toys-knitting-patterns2.htm"
+  ],
+  "name": "Ravelry: Felted Block Set pattern by Publications International, Ltd."
 }

@@ -1,36 +1,45 @@
 {
   "pattern_id": 283,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mouse-cat-toy-4",
-  "name": "Mouse Cat Toy",
-  "description": "A knitted mouse toy for your cat with little bobble ears and a crocheted tail.",
-  "designer": "Patricia Wake",
+  "pattern_page": "https://www.ravelry.com/patterns/library/rombscarf",
+  "name": "Rombscarf",
+  "description": "UPDATE Sep 15th, 2025: Pattern now available in English!",
+  "designer": "Ida Hed Myrberg",
   "craft": "Knitting",
-  "category": "Pet → Toys",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Length 115 cm / Width 12.5 cm",
   "languages": [
-    "English"
+    "English",
+    "Swedish"
   ],
   "suggested_yarn": [
-    "Any gauge - designed for any gauge ?"
+    "Fingering (14 wpi) ?",
+    "Filcolana Pernilla"
   ],
   "attributes": [
+    "adult",
+    "chart",
+    "doubleknit",
+    "no-ease",
     "one-piece",
-    "seamed",
+    "seamless",
+    "teen",
+    "textured",
+    "triangle-shaped",
+    "unisex",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A knitted mouse toy for your cat with little bobble ears and a crocheted tail. A great stashbuster. Use up those small leftovers from other projects! Any yarn can be used. The weight of the yarn will determine how small or large the mouse comes out. Other materials needed: Needle size appropriate to obtain a tight gauge. Try one size smaller than the size recommended on the yarn packaging. Crochet hook same size as knitting needles. Tapestry needle. 2-4 cotton balls or fiber fill. Loose leaf catnip. Gauge: not important for sizing, but should be tight enough to prevent filling from coming out through the stitches.",
+  "full_text": "UPDATE Sep 15th, 2025: Pattern now available in English! Overview The scarf is knitted from end to end in a rhombus textured pattern involving only knits and purls, and a double-knitted edging. The pattern includes a chart that covers every row of the scarf. Measurements of finished object After blocking, the finished scarf has length 115 cm and width 12.5 cm at the widest point. Gauge 28 stitches x 40 rows = 10 x 10 cm Needles 3.5 mm circular needle or straight needles Yarn 1 ball of Filcolana Pernilla (50 g = 175 m, 3-ply yarn, Peruvian highland wool) Colour 337 Bright Cobalt Included techniques The textured pattern includes only knits and purls. The techniques double-knitted edging, left-leaning increase, right-leaning increase, and left-leaning decrease are all explained in the pattern.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/yarns",
-    "https://www.ravelry.com/patterns/library/frost-flowers-lined-hat",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/people",
-    "https://www.ravelry.com/patterns/sources/patricia-wakes-ravelry-store",
-    "https://www.ravelry.com/patterns/library/frost-flowers-hand-muff",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/comments",
-    "https://www.ravelry.com/patterns/library/halloween-shadows",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/editors",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/report",
-    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4"
+    "https://www.ravelry.com/patterns/library/rombscarf",
+    "https://www.ravelry.com/patterns/library/rombscarf/report",
+    "https://www.ravelry.com/patterns/library/rombscarf/people",
+    "https://www.ravelry.com/patterns/library/rombscarf/editors",
+    "https://www.ravelry.com/patterns/sources/ida-hed-myrbergs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/rombscarf/comments",
+    "https://www.ravelry.com/patterns/library/rombscarf/yarns"
   ]
 }

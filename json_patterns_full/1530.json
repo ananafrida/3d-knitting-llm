@@ -1,38 +1,37 @@
 {
   "pattern_id": 1530,
-  "pattern_page": "https://www.ravelry.com/patterns/library/big-porch-pumpkins",
+  "pattern_page": "https://www.ravelry.com/patterns/library/litmus-cowl",
+  "name": "Litmus Cowl",
+  "description": "The Litmus Cowl is a basic recipe for creating a fun striped cowl. It’s something I improvised to work on while I was travelling and I got so many questions about it, I thought I’d write up what I did.",
+  "designer": "Jude Harper",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
-  "sizes_available": "9\" 11\" 13\" diameter",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Patons North America Classic Wool Worsted",
-    "yarn held together"
+    "Fingering (14 wpi) ?",
+    "Canon Hand Dyes Bruce Yak Merino Fingering"
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
     "in-the-round",
-    "ribbed",
-    "written-pattern"
+    "kitchener",
+    "provisional"
   ],
-  "full_text": "This pattern is knit up quick with two strands of worsted weight wool held together. Knit one up this weekend. Perfect for Fall, Halloween, and Thanksgiving decor. These also make a great hostess gift or toy stuffy for a little pumpkin lover. Sizes Small (Medium, Large) Approximate Measurements: Small - 9” (23cm) diameter, 5.5” (14cm) tall Medium - 11” (28cm) diameter, 6.5” (16.5cm) tall Large - 13” (33cm) diameter, 7.5” (19cm) tall Pumpkin in featured photo is medium size Notes included in the instructions to make bigger and taller Yarn and Materials Knit with 2 strands of worsted weight yarn held together You will need approximately 122 yd (164 yd, 192 yd) / 112m (150m, 175m) each of 2 colours for the main pumpkin. The stem is also knit with 2 strands held together, you will need a small amount of each colour. Poly-fil: approximately 3.5oz(5.3oz, 7oz) / 100g (150g, 200g) for the main pumpkin and a small amount for the stem Needles, Tools and Notions: Set of US10.5 (6.5mm) Double Point Needles US 10.5 (6.5mm) Circular Needle, 16” (40cm) Removable stitch marker Darning Needle Ribs of the pumpkin are separated by a line of purl stitches which are wrapped with yarn later for shaping. The stem is knit separately and sewn onto the pumpkin at the end.",
+  "full_text": "The Litmus Cowl is a basic recipe for creating a fun striped cowl. It’s something I improvised to work on while I was travelling and I got so many questions about it, I thought I’d write up what I did. I knit mine using a mini skein kit from Canon Hand Dyes and a skein of undyed Merino Yak Nylon, but it’s perfect for using up leftover fingering weight yarn. I used 24 5g mini skeins for the contrast colours and one full skein of the undyed yarn as the main colour. The finished measurements (when grafted together) are 75cm long by 18cm wide - it’s perfect to wear wrapped twice. Gauge isn’t super important with this pattern - just knit to the length you’re happy with before you graft the ends together.",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/handknit-hugs",
-    "https://www.ravelry.com/patterns/library/big-porch-pumpkins/editors",
-    "https://www.ravelry.com/patterns/library/big-porch-pumpkins/yarns",
-    "https://www.ravelry.com/patterns/library/big-porch-pumpkins",
-    "https://www.ravelry.com/patterns/library/big-porch-pumpkins/report",
-    "https://www.ravelry.com/patterns/library/favourite-bulky-ribbed-beanie",
-    "https://www.ravelry.com/patterns/library/little-wool-hearts",
-    "https://www.ravelry.com/patterns/library/big-porch-pumpkins/people",
-    "https://www.ravelry.com/patterns/library/big-porch-pumpkins/comments",
-    "https://www.ravelry.com/patterns/library/santa-stocking-hat-5"
-  ],
-  "name": "Ravelry: Big Porch Pumpkins pattern by Heather Pelletier"
+    "https://www.ravelry.com/patterns/library/litmus-cowl/yarns",
+    "https://www.ravelry.com/patterns/sources/stranded-dyeworks",
+    "https://www.ravelry.com/patterns/library/litmus-cowl/comments",
+    "https://www.ravelry.com/patterns/library/litmus-cowl/threads",
+    "https://www.ravelry.com/patterns/library/litmus-cowl/report",
+    "https://www.ravelry.com/patterns/library/litmus-cowl/editors",
+    "https://www.ravelry.com/patterns/library/litmus-cowl/people",
+    "https://www.ravelry.com/patterns/library/litmus-cowl/posts",
+    "https://www.ravelry.com/patterns/library/litmus-cowl"
+  ]
 }

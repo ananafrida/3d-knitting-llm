@@ -1,40 +1,52 @@
 {
   "pattern_id": 1573,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hobbit-hole-fairy-doors",
-  "name": "Hobbit Hole Fairy Doors",
-  "description": "Currently this pattern is just for the",
-  "designer": "Natasha Hanson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/grabo---faux-turtleneck",
+  "name": "Gråbo - faux turtleneck",
+  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
+  "designer": "Maja Karlsson",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "Diameter: 2.5”/ 6cm, or desired size.",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "Onesize",
   "languages": [
-    "English"
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "Patons North America Classic Wool Worsted",
+    "Järbo Select No 5 - Botanically Dyed Alpaca Blend",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "adult",
     "in-the-round",
-    "one-piece",
-    "seamless"
+    "ribbed",
+    "seamless",
+    "top-down",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Currently this pattern is just for the door. I am updating it in the fall (2025) to include the windows and chimney! My Hobbit Hole Fairy Doors are my attempt to bring The Shire to my suburban backyard. When I knit them I am instantly transported there and it makes my heart leap for joy. Plus they are a one evening knit! Shire here we come! Construction The door is knit entirely in the round on dpns beginning at the center back and ending with pretty decreases at the center front. The brass door knob is made with a French Knot. Because there is a front and a back there is no need to block!",
-  "techniques": [
-    "decreases"
-  ],
-  "shape": "sphere",
+  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Järbo on Instagram Reseller map jarbo.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be Järbo is a Swedish brand established in 1896. We offer nordic design, selected yarns and accessories in stores and online.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fern-heart",
-    "https://www.ravelry.com/patterns/library/hobbit-hole-fairy-doors/editors",
-    "https://www.ravelry.com/patterns/library/mini-hobbit-hole",
-    "https://www.ravelry.com/patterns/library/hobbit-hole-fairy-doors/report",
-    "https://www.ravelry.com/patterns/library/hobbit-hole-fairy-doors/comments",
-    "https://www.ravelry.com/patterns/library/hobbit-hole-fairy-doors",
-    "https://www.ravelry.com/patterns/library/flower-petal-fairy-wings",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/hobbit-hole-fairy-doors/yarns",
-    "https://www.ravelry.com/patterns/library/hobbit-hole-fairy-doors/people"
+    "https://www.ravelry.com/patterns/library/grabo---faux-turtleneck",
+    "https://www.ravelry.com/patterns/library/grabo---faux-turtleneck/people",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025",
+    "https://www.ravelry.com/patterns/library/smide---mittens",
+    "https://www.ravelry.com/patterns/library/grabo---faux-turtleneck/yarns",
+    "https://www.ravelry.com/patterns/library/grabo---faux-turtleneck/comments",
+    "https://www.ravelry.com/patterns/library/grabo---faux-turtleneck/editors",
+    "https://www.ravelry.com/patterns/sources/jarbo-select-beta",
+    "https://www.ravelry.com/patterns/library/julvanten-2024",
+    "https://www.ravelry.com/patterns/library/grabo---faux-turtleneck/report",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store"
   ]
 }

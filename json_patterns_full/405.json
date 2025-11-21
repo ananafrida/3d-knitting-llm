@@ -1,44 +1,40 @@
 {
   "pattern_id": 405,
-  "pattern_page": "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-sweaters",
+  "name": "Tiny Sweaters",
+  "description": "Quick handmade gifts for Christmas!",
+  "designer": "Malia Mae Joseph",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
-  "sizes_available": "one-size, for a pre-school toddler of 1 - 2 years",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Super Bulky (5-6 wpi) ?"
+    "DK (11 wpi) ?",
+    "West Wool Tandem"
   ],
   "attributes": [
-    "buttoned",
-    "female",
-    "front-fastening",
-    "hood",
-    "long-sleeve",
-    "male",
-    "toddler",
-    "unisex",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round",
+    "raglan-sleeve"
   ],
-  "full_text": "My Babbity Baby Jacket is very popular ! From month to month, it is always in the ‘Top 5’ of favourited designs. This version is new - and can be knitted with or without a hood . This lovely jacket was knitted by Joanne Loasby - a member of my facebook group A lovely cosy gender-neutral jacket :) Requires: 2 strands of DK knitted together (around 330 – 350g) (or one strand of UK chunky weight yarn) 6mm needles 3 buttons So sweet ! To get this free pattern please click on the https link just below ↓",
+  "full_text": "Quick handmade gifts for Christmas! Tiny Sweaters make delightful little christmas ornaments! They also make great practice projects for those who have never knitted a sweater before and want to give it a try before launching into a larger project.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/report",
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/threads",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/yarns",
-    "https://www.ravelry.com/patterns/library/babbity-baby-romper",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/editors",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket",
-    "https://www.ravelry.com/patterns/library/mariannas-little-baby-trousers",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/people",
-    "https://www.ravelry.com/patterns/library/babbity-chunky-hooded-jacket/comments",
-    "https://www.ravelry.com/patterns/library/dungarews-babys-shortie-dungarees"
-  ],
-  "name": "Ravelry: Babbity Chunky Hooded Jacket pattern by marianna mel"
+    "https://www.ravelry.com/patterns/library/tiny-kerchiefs",
+    "https://www.ravelry.com/patterns/sources/malia-mae",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/editors",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/report",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/posts",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/comments",
+    "https://www.ravelry.com/patterns/library/i-can-knit-myself-flowers",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/threads",
+    "https://www.ravelry.com/bundles/free-patterns-869",
+    "https://www.ravelry.com/patterns/sources/stephen--penelope",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/people",
+    "https://www.ravelry.com/patterns/library/mautinoa"
+  ]
 }

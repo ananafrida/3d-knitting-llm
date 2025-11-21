@@ -1,42 +1,37 @@
 {
   "pattern_id": 474,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hundred-stitch-snood",
+  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-toadstools",
+  "name": "Christmas Toadstools",
+  "description": "these little toadstools are a quick little Christmas ornament to make. Buy leaving off the hanging loop and filled with a little catnip they also make great cat toys.You only need a small amount of yarn so great for using up little bits.",
+  "designer": "Merrin Curley",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
+  "category": "Decorative → Hanging Ornament",
   "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "Adult (fits all)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Sandnes Garn Alpakka Silke"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
     "in-the-round",
-    "positive-ease",
-    "teen",
-    "unisex",
     "written-pattern"
   ],
-  "full_text": "Pattern is found on my blog here These snoods are the easiest thing to make, and one of the best things to make for beginners who are just stepping out into circular knitting. You also actually want to wear it, and as a beginners project, that’s a real bonus. The materials list and the notes below are aimed at beginners, so if you’re more experienced, you may think this is a bit over-explained. The finished measurements of this snood are 45 x 22cm. You Will Need: 1x 50g ball of Sandnes Garn Alpakka Silke (pictured is colour 7741), but you can use any 200m of some slightly more luxurious 4ply yarn. Anything with nice drape would work well. A wool/silk blend such as Regia Silk Sock Yarn, a pure silk, a cashmere, a soft merino, a bamboo, a viscose, as long as there’s 200m. Exact gauge isn’t crazy important, but should be around 27 stitches per 10cm once blocked. 1x 3.25mm 40cm circular needle. You absolutely could use a set of DPNs if you felt like it, but you’d make your life easiest by using a circular. The needle needs to be 40cm because when you’re working in the round, the circumference of the needle needs to be the same size or smaller than the circumference of whatever you’re knitting. Darning needle. You won’t need this until the end, this is to weave your ends in once you’ve cast off, so don’t immediately panic if you don’t have one. The blog post the pattern is written on goes really in detail for beginners, you may find the information about skills, suggested youtube videos, washing and blocking super helpful.",
+  "full_text": "these little toadstools are a quick little Christmas ornament to make. Buy leaving off the hanging loop and filled with a little catnip they also make great cat toys.You only need a small amount of yarn so great for using up little bits.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/report",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/comments",
-    "https://www.ravelry.com/patterns/library/basic-rib-hat",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/threads",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/yarns",
-    "https://www.nofrillsknitting.co.uk/blog/free-pattern-hundred-stitch-snood",
-    "https://www.ravelry.com/patterns/library/the-homebodys-friend",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/editors",
-    "https://www.ravelry.com/patterns/library/hundred-stitch-snood/people",
-    "https://www.ravelry.com/patterns/library/the-shopkeepers-friend",
-    "https://www.ravelry.com/patterns/sources/no-frills-knitting-blog",
-    "https://www.ravelry.com/patterns/sources/no-frills-knittings-ravelry-store"
-  ],
-  "name": "Ravelry: Hundred Stitch Snood pattern by No Frills Knitting"
+    "https://www.ravelry.com/patterns/library/christmas-toadstools",
+    "https://www.ravelry.com/patterns/library/christmas-toadstools/people",
+    "https://www.ravelry.com/patterns/library/christmas-toadstools/editors",
+    "https://www.ravelry.com/patterns/library/bruce-the-tiny-monkey",
+    "https://www.ravelry.com/patterns/library/christmas-toadstools/yarns",
+    "https://www.ravelry.com/patterns/library/christmas-toadstools/comments",
+    "https://www.ravelry.com/patterns/library/christmas-toadstools/threads",
+    "https://www.ravelry.com/patterns/library/christmas-toadstools/report",
+    "https://www.ravelry.com/patterns/library/cosmo-the-baby-dragon",
+    "https://www.ravelry.com/patterns/sources/the-ginger-cat-designs",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse"
+  ]
 }

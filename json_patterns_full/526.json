@@ -1,45 +1,39 @@
 {
   "pattern_id": 526,
-  "pattern_page": "https://www.ravelry.com/patterns/library/flying-solo",
-  "name": "Flying Solo",
-  "description": "Espace Tricot is a yarn store in",
-  "designer": "Espace Tricot",
+  "pattern_page": "https://www.ravelry.com/patterns/library/raku-bowls",
+  "name": "Raku Bowls",
+  "description": "Raku is a process that potters use where they place red-hot clay bowls in a bucket of dry leaves. The process creates beautiful one-of-a-kind results. They never know what the end result will look like. Felting your knitted items that are knit in multicolored yarns is much the same as you never know what you’re going to get, but it is all beautiful.",
+  "designer": "Terry Morris",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "one size",
+  "category": "Containers",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "languages": [
-    "English",
-    "French"
+    "English"
   ],
   "suggested_yarn": [
-    "ArtFil Solo",
-    "yarn held together"
+    "Noro Kureyon（くれよん）",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
+    "felted",
     "in-the-round",
-    "kitchener",
-    "one-piece",
-    "ribbed",
-    "stripes-colorwork",
-    "unisex"
+    "written-pattern"
   ],
-  "full_text": "Espace Tricot is a yarn store in Montreal, Canada. Discover our yarns here! www.espacetricot.com FLYING SOLO is a chic and minimalist unisex ribbed cowl knit with three colours of Artfil Solo. Two strands are held together throughout the project with one strand being changed at a time to create a series of ombre stripes. The cowl is knit from the bottom up with the front and back flap knit separately and then joined to knit in the round. While we chose a neutral palette, we think this cowl would be stunning worked up with a series of saturated and/or speckled hand-dyed Solo colourways in brights and jewel tones. Artfil Solo is a lusciously soft single-ply merino and is a perfect choice for accessories and garments that will be worn next to the skin.",
+  "full_text": "Raku is a process that potters use where they place red-hot clay bowls in a bucket of dry leaves. The process creates beautiful one-of-a-kind results. They never know what the end result will look like. Felting your knitted items that are knit in multicolored yarns is much the same as you never know what you’re going to get, but it is all beautiful. Let the yarn do the talking in these simple-to-knit rolled-edge felted bowls. Plus, after knitting and before felting, add interesting “bobbles” by using river rock or marbles tied into the fabric with rubber bands if you want a truly freeform look! Bowls are knit in the round from the top down.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bolton-pass-hat",
-    "https://www.ravelry.com/patterns/library/flying-solo/people",
-    "https://www.ravelry.com/patterns/library/flying-solo/posts",
-    "https://www.ravelry.com/patterns/library/the-classic-2",
-    "https://www.ravelry.com/patterns/library/flying-solo",
-    "https://www.ravelry.com/patterns/library/flying-solo/threads",
-    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm",
-    "https://www.ravelry.com/patterns/library/flying-solo/yarns",
-    "https://www.ravelry.com/patterns/sources/espace-tricot-ravelry-store",
-    "https://www.ravelry.com/patterns/library/flying-solo/editors",
-    "https://www.ravelry.com/patterns/library/flying-solo/comments",
-    "https://www.ravelry.com/patterns/library/flying-solo/report"
+    "https://www.ravelry.com/patterns/library/raku-bowls/comments",
+    "https://www.ravelry.com/patterns/sources/terry-morris-designs",
+    "https://www.ravelry.com/patterns/library/raku-bowls/threads",
+    "https://www.ravelry.com/patterns/library/raku-bowls/report",
+    "https://www.ravelry.com/patterns/library/raku-bowls/yarns",
+    "https://www.ravelry.com/patterns/library/mix-it-up-christmas-stocking-stranded-colorwork",
+    "https://www.ravelry.com/patterns/library/raku-bowls/editors",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery",
+    "https://www.ravelry.com/patterns/library/soupr-bowl-cozy",
+    "https://www.ravelry.com/patterns/library/raku-bowls",
+    "https://www.ravelry.com/patterns/library/raku-bowls/posts",
+    "https://www.ravelry.com/patterns/library/raku-bowls/people"
   ]
 }

@@ -1,38 +1,36 @@
 {
   "pattern_id": 606,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jordan-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mouse-cat-toy-4",
+  "name": "Mouse Cat Toy",
+  "description": "A knitted mouse toy for your cat with little bobble ears and a crocheted tail.",
+  "designer": "Patricia Wake",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "15\", 18\", 24\", 30\" - easy to adjust",
+  "category": "Pet → Toys",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
-    "bottom-up",
     "one-piece",
+    "seamed",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This is a really cute little baby blanket Just 15” x 15” - for a Premature or Angel baby - or doll Fun to knit ! Requires ~ DK yarn - around 70g 4mm needles Tension/Gauge ~ 24sts = 4” (10cm) Easy to adjust for bigger sizes - Stitches given for 18”, 24” and 30” baby blankets So sweet PLEASE NOTE ** There was originally an error in this pattern ~ The purl rows should read S1, k5, purl to last 6sts, k6 Sorry. I have corrected the instructions now. To get this free pattern please click on the https link just below ↓",
+  "full_text": "A knitted mouse toy for your cat with little bobble ears and a crocheted tail. A great stashbuster. Use up those small leftovers from other projects! Any yarn can be used. The weight of the yarn will determine how small or large the mouse comes out. Other materials needed: Needle size appropriate to obtain a tight gauge. Try one size smaller than the size recommended on the yarn packaging. Crochet hook same size as knitting needles. Tapestry needle. 2-4 cotton balls or fiber fill. Loose leaf catnip. Gauge: not important for sizing, but should be tight enough to prevent filling from coming out through the stitches.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/babbity-baby-hat",
-    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/library/iona-baby-cardigan-jacket",
-    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/jordan-baby-blanket",
-    "https://www.ravelry.com/patterns/library/babbity-baby-jacket",
-    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/comments"
-  ],
-  "name": "Ravelry: Jordan Baby Blanket pattern by marianna mel"
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/editors",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4",
+    "https://www.ravelry.com/patterns/library/halloween-shadows",
+    "https://www.ravelry.com/patterns/library/frost-flowers-hand-muff",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/comments",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/report",
+    "https://www.ravelry.com/patterns/sources/patricia-wakes-ravelry-store",
+    "https://www.ravelry.com/patterns/library/frost-flowers-lined-hat",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/yarns",
+    "https://www.ravelry.com/patterns/library/mouse-cat-toy-4/people"
+  ]
 }

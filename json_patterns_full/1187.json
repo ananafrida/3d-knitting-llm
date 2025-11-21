@@ -1,37 +1,37 @@
 {
   "pattern_id": 1187,
-  "pattern_page": "https://www.ravelry.com/patterns/library/spooky-ghost-6",
+  "pattern_page": "https://www.ravelry.com/patterns/library/garter-stitch-leaf",
+  "name": "Garter Stitch Leaf",
+  "description": "",
+  "designer": "Jan Eaton",
   "craft": "Knitting",
-  "category": "Softies → Doll Decorative → Other",
-  "sizes_available": "one size",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Garnstudio DROPS Baby Merino"
+    "Yarn scraps in Aran, DK, sock, mohair"
   ],
   "attributes": [
-    "doll-size",
-    "in-the-round",
-    "lace",
+    "motifs",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Are you ready to add a touch of spookiness to your Halloween decor? Look no further! In this step-by-step tutorial, I’ll guide you on how to knit a charming Halloween ghost to adorn your home during the spooky season. This Spooky Halloween Ghost Knitting Pattern is perfect for all knitting enthusiasts looking to enhance their Halloween knit decor. So gather your yarn and needles, and let’s get started on this fun and creative endeavor!",
+  "full_text": "",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6/editors",
-    "https://www.ravelry.com/patterns/library/bear-toy-3",
-    "https://www.moumouknits.com/post/how-to-knit-a-spooky-halloween-ghost-for-your-decor-a-step-by-step-knitting-pattern-tutorial",
-    "https://www.ravelry.com/patterns/library/pinchy-the-crab",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6/yarns",
-    "https://www.ravelry.com/patterns/library/rabbits--easter-eggs",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6/people",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6/report",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6/comments",
-    "https://www.ravelry.com/patterns/library/spooky-ghost-6",
-    "https://www.ravelry.com/patterns/sources/mou-mou-knits"
-  ],
-  "name": "Ravelry: Spooky Ghost pattern by Mou Mou Knits"
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/yarns",
+    "https://www.ravelry.com/patterns/sources/jan-eatons-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/leaf-lace-washcloth",
+    "https://www.ravelry.com/patterns/library/willow",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/threads",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/comments",
+    "https://www.ravelry.com/patterns/library/tricolor-square",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/editors",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/people",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf/report",
+    "https://www.ravelry.com/patterns/library/garter-stitch-leaf"
+  ]
 }

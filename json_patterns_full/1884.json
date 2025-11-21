@@ -1,10 +1,13 @@
 {
   "pattern_id": 1884,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-floral-accents",
+  "name": "Felted Floral Accents",
+  "description": "This pattern includes instructions for three different felted flower accent pieces and two different felted leaf accents. These can be used felted or unfelted and can add a decorative touch to pillows, bags, hats, sweaters and more.",
+  "designer": "Tandy Imhoff Designs",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "medium",
+  "category": "Components → Other",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "Various",
   "languages": [
     "English"
   ],
@@ -13,28 +16,30 @@
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "circle-shaped",
     "felted",
-    "in-the-round",
-    "seamless",
-    "top-down",
+    "icord",
+    "motifs",
+    "one-piece",
+    "short-rows",
+    "video-tutorial",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Actually, I’m not sure I’d call this a bowl if I’m being technical, as it looks a bit more like a vase, but it’s probably closer to a bowl than a vase. I’m using it to hold my reading glasses, so maybe it’s a holder. Both circular and double pointed needles needed.",
+  "full_text": "This pattern includes instructions for three different felted flower accent pieces and two different felted leaf accents. These can be used felted or unfelted and can add a decorative touch to pillows, bags, hats, sweaters and more. These are available as a five item download on Ravelry or may be purchased individually as a kit (with yarn included) from Mad Cow Yarn in Bothell, WA. Please give them a call or email for more details. Released in May 2015 as part of the North Puget Sound LYS tour, to complement the Blue Bottomed Booty Bag (pattern exclusively available from Mad Cow Yarn).",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/comments",
-    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/report",
-    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-bottom-welt",
-    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/people",
-    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/editors",
-    "https://www.ravelry.com/patterns/sources/deborah-does-navel-gazing",
-    "https://www.ravelry.com/patterns/library/large-shallow-felted-bowl-2",
-    "https://www.ravelry.com/patterns/library/knitted-felted-bowl-with-smaller-opening",
-    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl",
-    "https://www.ravelry.com/patterns/library/ruffled-felted-bowl/yarns"
-  ],
-  "name": "Ravelry: Ruffled Felted Bowl pattern by Deborah Gray"
+    "https://www.ravelry.com/patterns/library/felted-floral-accents/yarns",
+    "https://www.ravelry.com/patterns/library/felted-floral-accents/people",
+    "https://www.ravelry.com/patterns/library/felted-floral-accents/threads",
+    "https://www.ravelry.com/patterns/library/raceway-baby-afghan",
+    "https://www.ravelry.com/patterns/library/felted-floral-accents/report",
+    "https://www.ravelry.com/patterns/library/felted-floral-accents",
+    "https://www.ravelry.com/patterns/sources/smartcats-ravelry-store",
+    "https://www.ravelry.com/patterns/sources/mad-cow-yarn-in-bothell",
+    "https://www.ravelry.com/patterns/library/felted-floral-accents/comments",
+    "https://www.ravelry.com/patterns/library/double-thick-potholders",
+    "https://www.ravelry.com/patterns/library/taylors-hat",
+    "https://www.ravelry.com/patterns/library/felted-floral-accents/editors"
+  ]
 }

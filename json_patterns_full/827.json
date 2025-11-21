@@ -1,46 +1,39 @@
 {
   "pattern_id": 827,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pull-marin-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/frankies-blankie-week-37",
+  "name": "Frankie's Blankie Week 37",
+  "description": "This is the 37th in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
-  "category": "Sweater → Pullover",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "S à XXL",
+  "category": "Afghan block",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
-    "Chinese",
-    "French",
-    "German",
-    "Italian",
-    "Norwegian",
-    "Portuguese",
-    "Spanish",
-    "Turkish",
-    "...and 8 other languages show hide other languages",
-    "...and 8 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Belle",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Stylecraft Batik Double Knitting"
   ],
   "attributes": [
-    "adult",
-    "top-down"
+    "chart",
+    "reversible",
+    "textured",
+    "written-pattern"
   ],
-  "full_text": "Free step-by-step tutorial: https://www.youtube.com/watch?v=rDluB6xL2f8&amp;t=1031s",
+  "full_text": "This is the 37th in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares. ‘Small Squares’ is another easy basketweave stitch pattern made up of knit and purl stitches. It is reversible and will lie flat. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cardigan-mimosa",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/comments",
-    "https://www.ravelry.com/patterns/library/gilet-laurier-rose",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/editors",
-    "https://www.ravelry.com/patterns/sources/stephalinemade-on-youtube",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/yarns",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/threads",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/report",
-    "https://www.ravelry.com/patterns/library/cerise-tee",
-    "https://www.ravelry.com/patterns/library/pull-marin-2",
-    "https://www.ravelry.com/patterns/library/pull-marin-2/people"
-  ],
-  "name": "Ravelry: Pull Marin pattern by Stéphanie L"
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/yarns",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-45",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/report",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/people",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-33",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-25",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/comments",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/threads",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-37/editors"
+  ]
 }

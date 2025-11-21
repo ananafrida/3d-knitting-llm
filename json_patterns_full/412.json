@@ -1,40 +1,43 @@
 {
   "pattern_id": 412,
-  "pattern_page": "https://www.ravelry.com/patterns/library/five-hour-baby-jacket-franklin-variation",
+  "pattern_page": "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater",
+  "name": "Holiday Cheer Mini Sweater",
+  "description": "A cute mini sweater that will complement the previously released mini hat and mini mitts patterns. Mix and match your colors or try some fun embroidery, the options are endless. Happy Holidays!",
+  "designer": "Nancy Ekvall",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
+  "category": "Decorative → Hanging Ornament",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Baby",
+  "sizes_available": "2½” x 3\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Zitron gesa & flo",
-    "yarn held together"
+    "Worsted (9 wpi) ?",
+    "Blue Sky Fibers Woolstok Bundle"
   ],
   "attributes": [
-    "baby",
-    "one-piece",
-    "seamed",
-    "top-down",
-    "worked-flat",
+    "in-the-round",
+    "stripes-colorwork",
     "written-pattern"
   ],
-  "full_text": "IMPORTANT NOTE: The yarn used in the sample was HELD DOUBLE THROUGHOUT to achieve the stated gauge. Other worsted weight yarns, such as HiKoo Simpliworsted and HiKoo CoBaSi, would make excellent single-strand substitutions; they would also require less yardage. This is my adaptation, one of many, based on the excellent and legendary original Five-Hour Baby Sweater/Jacket pattern. For the history/background of that pattern, see the first column in which I plan the project. The optional embroidery was done with Schoppell-Wolle Edition 6 yarn. Full notes on it are included in the “Fridays with Franklin” series via the pattern link. My adaptation does not include buttonholes, but substitutes a single loop closure. This and other changes are all outlined in detail in the column itself.",
+  "full_text": "A cute mini sweater that will complement the previously released mini hat and mini mitts patterns. Mix and match your colors or try some fun embroidery, the options are endless. Happy Holidays! EXPERIENCE LEVEL: Advanced beginner MATERIALS: WOOLSTOK (WORSTED) BUNDLE (100% Fine Highland Wool, 21 mini hanks; 5g/12 yards): 1 bundle (Holiday Cheer) Tapestry needle FINISHED MEASUREMENTS: CIRCUMFERENCE: 3”, HEIGHT: 2½” COLOR SHOWN: Cast Iron No. 1300 Gravel Road No. 1302 Highland Fleece No. 1303 Wild Thyme No. 1306 Earth Ivy No. 1309 Cranberry Compote No. 1310 Red Rock No. 1315",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/five-hour-baby-jacket-franklin-variation/threads",
-    "https://www.ravelry.com/patterns/library/uhlan-cap-stitches-in-time",
-    "https://www.ravelry.com/patterns/library/victorian-duet-scarf",
-    "https://www.ravelry.com/patterns/library/five-hour-baby-jacket-franklin-variation",
-    "https://www.ravelry.com/patterns/library/five-hour-baby-jacket-franklin-variation/yarns",
-    "https://www.ravelry.com/patterns/sources/fridays-with-franklin",
-    "https://www.ravelry.com/patterns/library/five-hour-baby-jacket-franklin-variation/editors",
-    "https://www.ravelry.com/patterns/library/five-hour-baby-jacket-franklin-variation/comments",
-    "https://www.ravelry.com/patterns/library/five-hour-baby-jacket-franklin-variation/people",
-    "https://www.ravelry.com/patterns/library/five-hour-baby-jacket-franklin-variation/report",
-    "https://www.ravelry.com/patterns/library/dolores-26-notorious-robe"
-  ],
-  "name": "Ravelry: Five-Hour Baby Jacket (Franklin Variation) pattern by Franklin Habit"
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/comments",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
+    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/editors",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-mitt",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-hat",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/threads",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/report",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/edit",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/yarns",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater/people"
+  ]
 }

@@ -1,36 +1,42 @@
 {
   "pattern_id": 2037,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme",
-  "name": "Ferse ohne Fersenwand mit Maschenaufnahme",
-  "description": "Update V2 - V3: Seite 2 die Zunahme bei Nadel 4 verbessert, war missverständlich.",
-  "designer": "Uli Feiler",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lil-football",
+  "name": "Lil' Football",
+  "description": "NOTE: This pattern is KNIT IN THE ROUND, using Magic Loop (or DPNs could be substituted).",
+  "designer": "Lorraine Pistorio",
   "craft": "Knitting",
-  "category": "Components → Other",
+  "category": "Ball",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Approx. 6 ½” long, depending on type of yarn, needles used, and personal tension.",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "",
-    "Any gauge - designed for any gauge ?"
+    "Lion Brand Vanna's Choice",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
-    "schematic",
+    "one-piece",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "Update V2 - V3: Page 2 improved the increase on needle 4, was misleading. Page 1 shows better that the increases apply to all three variations. This is the heel that my grandma showed me for knitting socks. It saves you the heel wall and the hassle of picking up stitches and has so far suited all foot shapes, even those with a high instep. For me the biggest advantage: One basic principle and depending on where the stitches are increased, three different heels are created. I've tried a lot of other heel designs so far, but I always come back to this one. It doesn't matter whether you knit with 4, 6 or 8 ply sock yarn, no matter what needle size. It just depends on the number of stitches per needle. This brings us to the only catch: I learned to knit the heel with double pointed needles, and I still prefer to knit socks with double pointed needles. I have now tried to formulate this for the circular needle knitters, so the needle change is then marked with stitch markers. At the same time, I tried to schematically visualize the principle of increasing stitches at the right place.",
-  "techniques": [
-    "increases"
-  ],
-  "shape": "cylinder",
+  "full_text": "NOTE: This pattern is KNIT IN THE ROUND, using Magic Loop (or DPNs could be substituted). This soft little football will delight a special little one. Worked in #4-worsted wt. (Aran/10-ply) yarn, it uses little yarn and works up quick. Knit one up and let the fun begin! This would make a great gift together with Knit Baby Football Shoes found here: http://www.craftsy.com/pattern/knitting/clothing/knit-bab...",
+  "techniques": [],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/comments",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/threads",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/yarns",
-    "https://www.ravelry.com/patterns/sources/uli-feilers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/report",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/editors",
-    "https://www.ravelry.com/patterns/library/ferse-ohne-fersenwand-mit-maschenaufnahme/people"
+    "https://www.ravelry.com/patterns/library/baby-football-shoes",
+    "https://www.ravelry.com/patterns/library/lil-football/comments",
+    "https://www.ravelry.com/patterns/library/puppy-love-23",
+    "https://www.ravelry.com/patterns/library/lil-football/threads",
+    "https://www.ravelry.com/patterns/library/lil-football/report",
+    "https://www.ravelry.com/patterns/library/little-sea-creatures",
+    "https://www.ravelry.com/patterns/library/lil-football",
+    "https://www.ravelry.com/patterns/sources/rainebo-designs",
+    "https://www.ravelry.com/patterns/library/lil-football/people",
+    "https://www.ravelry.com/patterns/library/lil-football/yarns",
+    "https://www.ravelry.com/patterns/library/lil-football/posts",
+    "https://www.ravelry.com/patterns/library/lil-football/editors",
+    "http://www.craftsy.com/pattern/knitting/clothing/knit-baby-football-shoes/127327"
   ]
 }

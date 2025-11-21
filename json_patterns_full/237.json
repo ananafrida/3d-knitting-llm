@@ -1,36 +1,46 @@
 {
   "pattern_id": 237,
-  "pattern_page": "https://www.ravelry.com/patterns/library/tasha",
+  "pattern_page": "https://www.ravelry.com/patterns/library/irish-hiking-scarf",
+  "name": "Irish Hiking Scarf",
+  "description": "This is a great beginner cabling pattern.",
+  "designer": "Adrian Bizilia",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag Bag → Messenger",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "approx. 5 ½\" x 55\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Rowan Denim",
+    "",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "other-edging"
+    "adult",
+    "cables",
+    "child",
+    "one-piece",
+    "seamless",
+    "teen",
+    "unisex",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Description from Knitty, Summer 2003: I designed this bag to wear slung across the chest, keeping your hands free. Perhaps it can carry your latest small project to the shore or to the park on a Saturday morning. Tasha could even hold your yarn while you stand and knit, waiting for the train or the weekend beach bus. The denim yarn wears well and has a faded, comfortable look. The Loose Five-Rib Braid Cable was taken from Barbara Walker's Second Treasury of Knitting Patterns .",
+  "full_text": "This is a great beginner cabling pattern. Size 8 US needles and a cable needle or one double pointed needle Adrian says, “Feel free to use chubbier yarn and/or larger needles to make a giant scarf. It will look just as lovely!”",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tasha/editors",
-    "https://www.ravelry.com/patterns/library/sprout",
-    "https://www.ravelry.com/patterns/library/tasha",
-    "https://www.ravelry.com/patterns/library/accordion-toddler-version",
-    "https://www.ravelry.com/patterns/library/accordion-adult-version",
-    "https://www.ravelry.com/patterns/library/tasha/posts",
-    "https://www.ravelry.com/patterns/library/tasha/report",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/tasha/comments",
-    "https://www.ravelry.com/patterns/sources/knitty-summer-2003",
-    "https://www.ravelry.com/patterns/library/tasha/threads",
-    "https://www.ravelry.com/patterns/library/tasha/yarns",
-    "https://www.ravelry.com/patterns/library/tasha/people"
-  ],
-  "name": "Ravelry: Tasha pattern by Leigh Spencer"
+    "https://www.ravelry.com/patterns/library/irish-hiking-scarf",
+    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/posts",
+    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/comments",
+    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/editors",
+    "https://www.ravelry.com/patterns/sources/hello-yarn",
+    "https://www.ravelry.com/patterns/library/fiddlehead-mittens",
+    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/people",
+    "https://www.ravelry.com/patterns/library/fulled-lopi-tote",
+    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/report",
+    "https://www.ravelry.com/patterns/library/we-call-them-pirates",
+    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/threads"
+  ]
 }

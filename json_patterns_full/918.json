@@ -1,40 +1,43 @@
 {
   "pattern_id": 918,
-  "pattern_page": "https://www.ravelry.com/patterns/library/easypeasy-scarf",
-  "name": "EASYPEASY Scarf",
-  "description": "Der EASYPEASY Scarf ist ein schlichtes Dreieckstuch, dass sich aufgrund seiner Größe auch hervorragend als Schal für kühlere Tage eignet.",
-  "designer": "Susanne Müller",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-boulevard-blanket",
+  "name": "The Boulevard Blanket",
+  "description": "The Boulevard Blanket….it’s quick, easy, chunky, warm and reversible!",
+  "designer": "Fifty Four Ten Studio",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "One size",
+  "category": "Blanket → Throw Blanket → Baby Blanket",
+  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "sizes_available": "Six Sizes: Baby, Small, Medium, Large, XL & XXL (see dimensions below)",
   "languages": [
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Lamana Como",
-    "Lace ?"
+    "Plymouth Yarn Encore Mega",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
+    "one-piece",
+    "rectangle",
+    "reversible",
+    "seamless",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The EASYPEASY Scarf is a simple triangular scarf that, due to its size, is also ideal as a scarf for cooler days. As the name suggests, the EASYPEASY Scarf is super easy to knit and therefore perfect for beginners. The shawl is knitted crosswise, i.e. starting at the right tip, increasing to the widest point, the middle tip, then decreasing until the left tip is reached. Techniques used: yarn overs, stitches crossed left and right, decreases inclined to the left. Size Length: approx. 220 cm Width (middle tip): approx. 66 cm Measured after washing and stretching. The size of the scarf is variable; depending on your preference, it can also be knitted larger or smaller. Simply knit fewer or more increases until the middle. Stitch sample stockinette stitch with 'Compatible Cashmere' and needle size 3.5 mm: 22 sts x 35 rows = 10 x 10 cm (measured washed). Stockinette stitch with 'Fine Fine Merino' + 'Baby Alpaca Loves Silk' and needle size 4.0 mm: 19 sts x 27 rows = 10 x 10 cm (measured washed). The stitch sample does not have to fit exactly, it serves more as a guide. Needles circular knitting needle 3.5 - 4.0 mm (60 - 80 cm), depending on the yarn used. Other material Sewing needle, stitch marker if necessary Yarn 250 g 'Compatible Cashmere' from Knitting for Olive (100% cashmere; LL 187 m/25 g), in the title photo in the color Gray Lamb, knitted double-thread with Nd 3.5 mm. or for a slightly 'fluffier' version with: 150 g of 'Essentials Fine Fine Merino' from Rico Design (100% virgin wool; LL 200 m/50 g), in the photo above in color 09 together with 75 g of 'Essentials Baby Alpaca Loves Silk' from Rico Design (75% alpaca, 25% silk; 200 m/25 g), here color. 02 knitted with Nd 4 mm. Numerous other yarns or yarn combinations are possible for the cloth, here are a few more ideas: 150 g 'Como' from Lamana (100% virgin wool; LL 120 m/25 g) knitted in one thread with Nd 3.5 - 4 mm. 150 g 'Cashmere 6/28' from Pascuali (100% cashmere; LL 112 m/25 g) single thread knitted with needle thread 3.5 mm. 100 g 'Milano' from Lamana (90% virgin wool, 10% cashmere; LL 180 m / 25 g) knitted together with 75 g 'Premia' from Lamana (60% mohair, 40% silk; 300 m / 25 g) with needle thread 3.5 - 4 mm.",
-  "techniques": [
-    "decreases",
-    "increases"
-  ],
-  "shape": "unknown",
+  "full_text": "The Boulevard Blanket….it’s quick, easy, chunky, warm and reversible! At first glance you might think this pattern is just simple garter stitch. Look again! An easy K3, P3 repeat pattern creates a subtle striping effect. The name of this pattern is inspired by the beautiful tree lined boulevards of my hometown….Kansas City. For more info see my blog post at FiftyFourTenStudio.com . Once in a while knitters have trouble getting on track with this pattern. I have created a free PDF tutorial for The Boulevard Blanket to address the most common mistakes. SIX SIZES: Baby/Infant Blanket: 28” wide x 28” long Small (Crib/Lap): 35” wide x 40” long Medium Throw: 38” wide x 46” long Large Throw: 44” wide x 50” long XL Afghan: 47” wide x 55” long XXL Afghan: 53” wide x 60” long SUPER BULKY YARN: Baby: 320 - 330 yards Small: 590 - 600 yards Medium: 730 - 740 yards Large: 925 - 940 yards XL: 1100 - 1150 yards XXL: 1350 - 1400 yards This pattern is knit with super bulky yarn so you’ll have this blanket knit up in no time. If you prefer a lighter weight yarn (worsted weight or similar) see my free Meadow Lane blanket knitting pattern . NEEDLES: The blanket is knit in one piece, back and forth on 32” long circular knitting needles US size 13 or 15. GAUGE: Exact gauge is not essential. However, knitting should be fairly tight for desired appearance. SKILL LEVEL: Beginner / Easy You will need to know how to cast on stitches, knit and purl confidently, bind of stitches and weave in ends. This pattern is written in standard U.S. knitting terms.",
+  "techniques": [],
+  "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf",
-    "https://www.ravelry.com/patterns/library/lasse-hat",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/report",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/editors",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/comments",
-    "https://www.ravelry.com/patterns/library/clara-cardigan-4",
-    "https://www.ravelry.com/patterns/library/basic--favourite-mittens",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/people",
-    "https://www.ravelry.com/patterns/sources/paulam-ravelry-store",
-    "https://www.ravelry.com/patterns/library/easypeasy-scarf/yarns"
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/people",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/comments",
+    "https://www.ravelry.com/patterns/library/meadow-lane",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/report",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/threads",
+    "https://www.ravelry.com/patterns/library/making-plans",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/editors",
+    "https://www.ravelry.com/patterns/sources/fifty-four-ten-studio",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket",
+    "https://www.ravelry.com/patterns/library/the-boulevard-blanket/posts",
+    "https://www.ravelry.com/patterns/library/on-the-porch"
   ]
 }

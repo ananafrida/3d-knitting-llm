@@ -1,39 +1,31 @@
 {
   "pattern_id": 1838,
-  "pattern_page": "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
-  "name": "It's Just a Knit Basket",
-  "description": "Our July Makers Kit is not a shawl, cowl, or hat! It’s Just a Basket!!",
-  "designer": "Aimee Pelletier",
+  "pattern_page": "https://www.ravelry.com/patterns/library/getting-to-the-heart-of-the-matter-kv",
+  "name": "Getting To The Heart Of The Matter, KV",
+  "description": "This scrumble was made for the KAL, Cell-a-Brate, being held in the International Freeform Forum Group.",
+  "designer": "Melba Vincent",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "8\" x 8\"",
+  "category": "Components → Other",
   "languages": [
     "English"
   ],
-  "suggested_yarn": [
-    "Berroco Macro",
-    "Jumbo (0-4 wpi) ?"
-  ],
   "attributes": [
-    "bottom-up",
-    "in-the-round",
-    "one-piece"
+    "written-pattern"
   ],
-  "full_text": "Our July Makers Kit is not a shawl, cowl, or hat! It’s Just a Basket!! The basket is about 8” tall and 8” in diameter. An easy pattern! We love the loop and closure detail too. So you can close it up if you want to bring it along somewhere and use it like a yarn bowl! Looking for a kit? Click here. There is also a crochet version. Find that here.",
+  "full_text": "This scrumble was made for the KAL, Cell-a-Brate , being held in the International Freeform Forum Group. It requires small amounts of scrap yarn. Needle size depends on the weight of the yarn used.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/versa-cowl",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket",
-    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
-    "https://www.ravelry.com/patterns/library/lollygag",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/comments",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/people",
-    "https://www.ravelry.com/patterns/library/its-just-a-crochet-basket",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/editors",
-    "https://www.ravelry.com/patterns/library/quick-bulky-mitten",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/report",
-    "https://www.ravelry.com/patterns/library/its-just-a-knit-basket/yarns"
+    "https://www.ravelry.com/patterns/sources/grammys-textiles-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/getting-to-the-heart-of-the-matter-kv/people",
+    "https://www.ravelry.com/patterns/library/grammys-crazy-lace-pocket-totes",
+    "https://www.ravelry.com/patterns/library/getting-to-the-heart-of-the-matter-kv/yarns",
+    "https://www.ravelry.com/patterns/library/getting-to-the-heart-of-the-matter-kv/threads",
+    "https://www.ravelry.com/patterns/library/random-lace-pocket-tote",
+    "https://www.ravelry.com/patterns/library/getting-to-the-heart-of-the-matter-kv/report",
+    "https://www.ravelry.com/patterns/library/a-pocket-full-of-knitted-crazy-lace",
+    "https://www.ravelry.com/patterns/library/getting-to-the-heart-of-the-matter-kv/editors",
+    "https://www.ravelry.com/patterns/library/getting-to-the-heart-of-the-matter-kv/comments",
+    "https://www.ravelry.com/patterns/library/getting-to-the-heart-of-the-matter-kv"
   ]
 }

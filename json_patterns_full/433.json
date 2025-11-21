@@ -1,58 +1,29 @@
 {
   "pattern_id": 433,
-  "pattern_page": "https://www.ravelry.com/patterns/library/raglan-baby-cardigan-top-down",
-  "name": "Raglan Baby Cardigan (Top-Down)",
-  "description": "Note: A few helpful ravelers have pointed out minor weaknesses in this pattern which will be corrected when our knitting course comes out of hiatus. Attentive knitters will probably troubleshoot around these issues with ease.",
-  "designer": "The Students of Subway Academy II",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mini-sweater-14",
+  "name": "Mini Sweater",
+  "description": "En lille mini sweater, der strikkes som en raglan sweater.",
+  "designer": "Joy Diana Sanderson",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan Coat / Jacket",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "S / 6 months / 19.5\" chest (M / 2 years / 23\" chest)",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
-    "English",
-    "Italian"
-  ],
-  "suggested_yarn": [
-    "Pisgah Yarn & Dyeing Co. Peaches & Creme Ombres",
-    "Worsted (9 wpi) ?"
+    "Danish"
   ],
   "attributes": [
-    "baby",
-    "buttoned",
-    "buttonholes",
-    "crew-neck",
-    "front-fastening",
-    "in-the-round",
-    "one-piece",
-    "patch-pocket",
-    "positive-ease",
-    "raglan-sleeve",
-    "seamless",
-    "single-breasted",
-    "sleeves",
-    "toddler",
-    "top-down",
-    "unisex",
-    "worked-flat",
-    "written-pattern"
-  ],
-  "full_text": "Note: A few helpful ravelers have pointed out minor weaknesses in this pattern which will be corrected when our knitting course comes out of hiatus. Attentive knitters will probably troubleshoot around these issues with ease. The construction of this knit follows a basic raglan construction that can be used for many different baby and child-sized cardigans, with opportunities for adjusting vertical sizing as well as for working in a dash of texture or colour. Call it a vanilla pattern for a top-down cardigan, with room for your choice of sprinkles or chocolate sauce. Once you have worked through it, you may also be able to see how to adjust the numbers used throughout the pattern in order to control width and proportion. Then you won’t ever need a pattern to knit a baby cardie that you like! Update: the download now also offers an Italian pdf option! Translation and formatting courtesy of the enterprising ajroldi .",
-  "techniques": [
     "top-down"
   ],
-  "shape": "sphere",
+  "full_text": "A small mini sweater that is knitted like a raglan sweater. Absolutely perfect for Christmas, or maybe in yellow for the Tour de France.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sabas-doggie-sweater",
-    "https://www.ravelry.com/patterns/library/raglan-baby-cardigan-top-down/yarns",
-    "https://www.ravelry.com/patterns/library/teddy-bears-chart",
-    "https://www.ravelry.com/patterns/library/raglan-baby-cardigan-top-down/report",
-    "https://www.ravelry.com/patterns/library/raglan-baby-cardigan-top-down/threads",
-    "https://www.ravelry.com/patterns/library/raglan-baby-cardigan-top-down",
-    "https://www.ravelry.com/patterns/library/raglan-baby-cardigan-top-down/editors",
-    "https://www.ravelry.com/patterns/library/simple-mittens-worked-flat",
-    "https://www.ravelry.com/patterns/library/raglan-baby-cardigan-top-down/comments",
-    "https://www.ravelry.com/patterns/library/raglan-baby-cardigan-top-down/people",
-    "https://www.ravelry.com/patterns/library/raglan-baby-cardigan-top-down/posts",
-    "https://www.ravelry.com/patterns/sources/subway-academy-ii"
+    "https://www.ravelry.com/patterns/library/mini-sweater-14/comments",
+    "https://www.ravelry.com/patterns/library/mini-sweater-14",
+    "https://www.ravelry.com/patterns/sources/knitbyheartdk",
+    "https://www.ravelry.com/patterns/library/mini-sweater-14/people",
+    "https://www.ravelry.com/patterns/library/mini-sweater-14/editors",
+    "https://www.ravelry.com/patterns/library/mini-sweater-14/report",
+    "https://www.ravelry.com/patterns/library/mini-sweater-14/edit",
+    "https://www.ravelry.com/patterns/library/mini-sweater-14/yarns"
   ]
 }

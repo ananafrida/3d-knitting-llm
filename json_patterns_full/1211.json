@@ -1,32 +1,36 @@
 {
   "pattern_id": 1211,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gnorman",
+  "pattern_page": "https://www.ravelry.com/patterns/library/butterfly-123",
+  "name": "Butterfly",
+  "description": "A free, flitty, flighty pattern for you…",
+  "designer": "Claire Garland",
   "craft": "Knitting",
-  "category": "Softies → Doll",
+  "category": "Applique / Embellishment",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
-    "worked-flat"
+    "one-piece",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "DK in all 6 colours I have used colour change/muticoloured for base of main shape 2 complementary colours for hat, (I also used one of these colours for belt and shoes). Skin tone for hands, nose and head cream for shirt. Red for heart eyelash wool for beard (tinsel and faux fur wool can also be used) 3mm needles through out",
+  "full_text": "A free, flitty, flighty pattern for you… perfect for summer knitting and a little adornment - for a hat, or a blanket perhaps or just something fun to photograph. Whatever plans you have for yours I hope you have fun knitting and manage to use up some of your lace or 4-ply stash in the process!! This butterfly is knitted as one piece. I haven’t specified any yarn type here although in the pattern I’ve suggested knitting with alpaca 4-ply and kid-silk held together but please feel as free as a butterfly to experiment. I’d love to see your butterflies and moths so please do share #imadethisbutterfly over on Instagram (I’m @dotpbbles_knits) Also, on IG, I am in the process of creating a how-to video should you need it!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gnorman/comments",
-    "https://www.ravelry.com/patterns/library/gnorman/people",
-    "https://www.ravelry.com/patterns/library/gnorman/editors",
-    "https://www.ravelry.com/patterns/library/santa-and-sleigh",
-    "https://www.ravelry.com/patterns/library/gnorman/report",
-    "https://www.ravelry.com/patterns/library/water-babies-2",
-    "https://www.ravelry.com/patterns/library/gnorman/yarns",
-    "https://www.ravelry.com/patterns/library/gnorman",
-    "https://www.ravelry.com/patterns/library/sleigh-reindeer",
-    "https://www.ravelry.com/patterns/sources/kaz-kew-knits-and-bits"
-  ],
-  "name": "Ravelry: Gnorman pattern by Kaz kew"
+    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/butterfly-123",
+    "https://www.ravelry.com/patterns/library/butterfly-123/threads",
+    "https://www.ravelry.com/patterns/library/butterfly-123/comments",
+    "https://www.ravelry.com/patterns/library/butterfly-123/editors",
+    "https://www.ravelry.com/patterns/library/shrew",
+    "https://www.ravelry.com/patterns/library/butterfly-123/people",
+    "https://www.ravelry.com/patterns/library/chipmunk-5",
+    "https://www.ravelry.com/patterns/library/croc-doll",
+    "https://www.ravelry.com/patterns/library/butterfly-123/report",
+    "https://www.ravelry.com/patterns/library/butterfly-123/yarns"
+  ]
 }

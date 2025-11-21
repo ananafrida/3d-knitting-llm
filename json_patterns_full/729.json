@@ -1,41 +1,40 @@
 {
   "pattern_id": 729,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gnomey-hat",
+  "pattern_page": "https://www.ravelry.com/patterns/library/baby-blocks-21",
+  "name": "Baby Blocks",
+  "description": "Using this free knitting pattern for a cube as a template, get creative by incorporating stripes or Swiss darning embroidery to decorate and personalise your baby block cubes.",
+  "designer": "Amanda Berry",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "category": "Blocks",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Aran (8 wpi) ?"
+    "Paintbox Yarns Simply DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "in-the-round",
-    "no-ease",
-    "unisex",
+    "cube-shaped",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Sizes: 13\", 14\", 15\", 16\" - corresponds to 0-3 mo., 3-6 mo., 6-9 mo., 9-12 mo. This hat was reverse engineered from a Norwegian pattern in Gros Blog . The original pattern is available in Norwegian and English for fingering weight yarn: Norwegian Sweet Baby Cap / Djevellue pattern.",
+  "full_text": "Using this free knitting pattern for a cube as a template, get creative by incorporating stripes or Swiss darning embroidery to decorate and personalise your baby block cubes. Designed by Amanda Berry @fluffandfuzz, these blocks are knitted in acrylic DK yarns on single pointed needles. NEEDLES A pair of 4mm single pointed knitting needles (US 6). RECOMMENDED YARN Paintbox Yarns Simply DK; double knitting/light worsted weight; 100% acrylic; one 100g/276m skein in each colour. NOTIONS Tapestry needle and toy filling. SIZES One size only - 10cm square faces for the cube. TECHNIQUES For beginners and above, other techniques used include casting on and off, knits, purls, and seaming to finish. PATTERN INFO This knitting pattern is a pdf download, 2 pages, and written in English. Patterns for personal use only; not for resale. Copyright © 2017 Amanda Berry; All rights reserved.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gnomey-hat/threads",
-    "https://www.ravelry.com/patterns/library/gnomey-hat",
-    "https://www.ravelry.com/patterns/library/book-strap",
-    "http://www.ravelry.com/patterns/library/norwegian-sweet-baby-cap---djevellue",
-    "https://www.ravelry.com/patterns/library/converse-baby-booties",
-    "https://www.ravelry.com/patterns/sources/shadkitty-knitty",
-    "https://www.ravelry.com/patterns/library/gnomey-hat/yarns",
-    "https://www.ravelry.com/patterns/library/gnomey-hat/report",
-    "https://www.ravelry.com/patterns/library/buggerloo",
-    "http://shadkittypatterns.blogspot.com/2009/02/norwegian-baby-hat.html",
-    "https://www.ravelry.com/patterns/library/gnomey-hat/people",
-    "https://www.ravelry.com/patterns/library/gnomey-hat/editors",
-    "https://www.ravelry.com/patterns/library/gnomey-hat/comments",
-    "https://www.ravelry.com/patterns/library/gnomey-hat/posts"
-  ],
-  "name": "Ravelry: Gnomey Hat pattern by Crystal Breaux"
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/comments",
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/yarns",
+    "https://www.ravelry.com/patterns/library/living-colour-chameleon",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/editors",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21",
+    "https://www.ravelry.com/patterns/library/rocket-cushion",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/people",
+    "https://www.ravelry.com/patterns/library/barnyard-buddies-5",
+    "https://www.ravelry.com/patterns/library/baby-blocks-21/report"
+  ]
 }

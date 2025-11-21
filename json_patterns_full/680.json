@@ -1,43 +1,42 @@
 {
   "pattern_id": 680,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mary-pixie",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-block-set",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "newborn, infant, sitter/crawler, toddler, child",
+  "category": "Blocks",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "Small, Medium, Large",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Willow Yarns Farmhouse Cotton"
+    "Knit Picks Wool of the Andes Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "female",
-    "icord",
-    "lace",
-    "newborn-size",
-    "one-piece",
+    "3-dimensional",
+    "cube-shaped",
+    "felted",
     "seamed",
-    "toddler",
-    "worked-flat"
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Mary Pixie is a classic styled pixie bonnet with a and a simple lace body. I chose to use a cotton yarn so to make it a summer sun protection bonnet, but she would look beautiful in a merino as well. Materials – appx 65-150yds sport weight (size 3) yarn (I used Willow yarns Farmhouse Cotton), size 4 (3.5mm) straight AND dpn, 2 stitch markers, yarn needle Gauge -6sts/in Sizes – newborn, 0-3mth, (3-6mth, 6-12m), toddler, child Appx Finished Measurements – Newborn 5x5ins, infant 6x6ins, sitter/crawler 6.5x6.5ins, toddler 7x7ins, child 7.5x7.5ins (measurements are for bonnet when laid flat) Download this free pattern here",
+  "full_text": "Blocks are roughly 3x3, 4x4, and 5x5 after felting. Blocks are stuffed with fiberfill stuffing. Pattern assumes knowledge of felting with a washing machine.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mary-pixie/yarns",
-    "https://www.ravelry.com/patterns/library/judah-socks",
-    "https://www.ravelry.com/patterns/library/mary-pixie/people",
-    "https://www.ravelry.com/patterns/library/mary-pixie/report",
-    "https://amandammorse.com/free-knitting-pattern-mary-pixie-bonnet/",
-    "https://www.ravelry.com/patterns/library/lil-kitty-hat",
-    "https://www.ravelry.com/patterns/sources/knit-in-the-womb-designs-website",
-    "https://www.ravelry.com/patterns/library/mary-pixie/editors",
-    "https://www.ravelry.com/patterns/library/mary-pixie/comments",
-    "https://www.ravelry.com/patterns/library/peace-beanie-2",
-    "https://www.ravelry.com/patterns/library/mary-pixie",
-    "https://www.ravelry.com/patterns/sources/knit-in-the-womb-designs-ravelry-store"
+    "https://www.ravelry.com/patterns/library/felted-block-set/edit",
+    "https://www.ravelry.com/patterns/library/striped-scarf-3",
+    "https://www.ravelry.com/patterns/sources/howstuffworks",
+    "https://www.ravelry.com/patterns/library/striped-wine-sack",
+    "https://www.ravelry.com/patterns/library/felted-block-set/comments",
+    "https://www.ravelry.com/patterns/library/felted-block-set/threads",
+    "https://www.ravelry.com/patterns/library/felted-block-set/people",
+    "https://www.ravelry.com/patterns/library/felted-block-set/report",
+    "https://www.ravelry.com/patterns/library/felted-block-set/editors",
+    "https://www.ravelry.com/patterns/library/babys-best-booties-2",
+    "https://www.ravelry.com/patterns/library/felted-block-set/yarns",
+    "https://www.ravelry.com/patterns/library/felted-block-set",
+    "http://home.howstuffworks.com/free-baby-toys-knitting-patterns2.htm"
   ],
-  "name": "Ravelry: Mary Pixie pattern by Amanda Morse"
+  "name": "Ravelry: Felted Block Set pattern by Publications International, Ltd."
 }

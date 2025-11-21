@@ -1,41 +1,46 @@
 {
   "pattern_id": 714,
-  "pattern_page": "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat",
+  "pattern_page": "https://www.ravelry.com/patterns/library/a---apple-b---ball-c---car-building-block-cube",
+  "name": "A - Apple B - Ball C - Car Building block cube",
+  "description": "Pattern gives Instructions to make a 6x6 inches Aran (worsted weight), 5x5 inches DK (sport weight), 4x4 inches 4Ply (fingering weight) cube.",
+  "designer": "Fiona Kelly",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "sizes_available": "baby",
+  "category": "Blocks Softies → Other",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "6x6 inches, 5x5 inches, 4x4 inches square",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Classic Elite Yarns Wool Bam Boo"
+    "Debbie Bliss Eco Aran",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
-    "in-the-round",
-    "ribbed",
-    "seamless",
-    "unisex",
+    "3-dimensional",
+    "chart",
+    "cube-shaped",
+    "duplicate-stitch",
+    "embroidery",
+    "other-colorwork",
+    "phototutorial",
+    "textured",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "delightfully simple, versatile, and easy-to-fit… hope you love this quick little knit… happy knitting! this pattern was featured in Classic Elite Yarn’s weekly web letter #263",
+  "full_text": "Pattern gives Instructions to make a 6x6 inches Aran (worsted weight), 5x5 inches DK (sport weight), 4x4 inches 4Ply (fingering weight) cube. This knitted cube toy is an ideal project for a beginner to make. It is simple & easy to knit & embroider. Each letter and picture motif is duplicate stitch embroidered (UK Swiss Darn) onto a single colour knitted square. To ensure the finished cube has flat stable sides & keeps its shape I suggest using foam precut to the required size inside rather than loose stuffing. This is a simple and delightful toy that any precious new arrival will treasure, love & have many hours of fun with over the years. EU ravelry customers will be directed to loveknitting to complete their pattern purchase",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/yarns",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/posts",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/editors",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/people",
-    "https://www.ravelry.com/patterns/library/cable-baby-2",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/report",
-    "https://www.ravelry.com/patterns/library/warrens-man-mitts",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat",
-    "https://www.ravelry.com/patterns/library/pixie-love",
-    "https://www.ravelry.com/patterns/sources/tangled",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/threads",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/comments"
-  ],
-  "name": "Ravelry: a perfectly simple baby hat... pattern by pamela w allen"
+    "https://www.ravelry.com/patterns/library/a---apple-b---ball-c---car-building-block-cube/comments",
+    "https://www.ravelry.com/patterns/library/a---apple-b---ball-c---car-building-block-cube/people",
+    "https://www.ravelry.com/patterns/sources/tangled-blossoms-designs",
+    "https://www.ravelry.com/patterns/library/a---apple-b---ball-c---car-building-block-cube/editors",
+    "https://www.ravelry.com/patterns/library/a---apple-b---ball-c---car-building-block-cube/report",
+    "https://www.ravelry.com/patterns/library/a---apple-b---ball-c---car-building-block-cube/yarns",
+    "https://www.ravelry.com/patterns/library/multi-colour-flower-blanket-square",
+    "https://www.ravelry.com/patterns/library/songbird-blanket-square",
+    "https://www.ravelry.com/patterns/library/a---apple-b---ball-c---car-building-block-cube/posts",
+    "https://www.ravelry.com/patterns/library/a---apple-b---ball-c---car-building-block-cube",
+    "https://www.ravelry.com/patterns/library/marlion"
+  ]
 }

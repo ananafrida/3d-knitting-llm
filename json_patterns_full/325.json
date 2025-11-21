@@ -1,38 +1,38 @@
 {
   "pattern_id": 325,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy",
+  "pattern_page": "https://www.ravelry.com/patterns/library/witch-doll-4",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "One size",
+  "category": "Softies → Doll",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "Knits a 30 cm/ 12.5\" doll",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Herrschners Worsted Weight"
+    "Sublime Yarns Extra Fine Merino Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "one-piece",
-    "ribbed",
-    "worked-flat",
-    "written-pattern"
+    "bottom-up",
+    "modular",
+    "seamed",
+    "worked-flat"
   ],
-  "full_text": "Worked flat in one piece. The ball end is stuffed with polyester fiberbill or waste yarn and a jingle bell, and sewn shut. Finished length is about 24”; ball is about 5” in circumfrence Getting an exact gauge is not that important, but fabric should be firm enough to hold stuffing invisibly.",
-  "techniques": [
-    "worked flat"
-  ],
-  "shape": "sphere",
+  "full_text": "It’s easy to make the doll taller or shorter to whatever size you want. Just knit a few extra/ less rows in the legs and body.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/stashbuster-stripe-dishcloth",
-    "https://www.ravelry.com/patterns/library/mitred-square-dishcloth",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/people",
-    "https://www.ravelry.com/patterns/sources/fun-things-to-do-while-youre-waiting",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/report",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/comments",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/threads"
+    "https://www.ravelry.com/patterns/library/carrot-18",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/threads",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/people",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/comments",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/report",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/editors",
+    "https://www.ravelry.com/patterns/library/knitted-lavender",
+    "https://www.ravelry.com/patterns/library/witch-doll-4",
+    "https://www.ravelry.com/patterns/library/slouchy-hat-28",
+    "https://www.ravelry.com/patterns/library/witch-doll-4/yarns",
+    "https://www.ravelry.com/patterns/sources/just-saying-"
   ],
-  "name": "Ravelry: Knitted Bouncy Door Hanger Cat Toy pattern by Sheila Ralston"
+  "name": "Ravelry: Witch doll pattern by Bonny Bonafilla"
 }

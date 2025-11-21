@@ -1,35 +1,40 @@
 {
   "pattern_id": 1736,
-  "pattern_page": "https://www.ravelry.com/patterns/library/projective-plane",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mixed-rib-hat",
   "craft": "Knitting",
-  "category": "Decorative → Other Toys and Hobbies → Other",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Baby (Kid, Adult Small, Adult Large)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Aran (8 wpi) ?",
+    "Purl Soho Yonder"
   ],
   "attributes": [
+    "bottom-up",
     "in-the-round",
-    "moebius",
-    "reversible",
-    "textured",
+    "one-piece",
+    "ribbed",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "This is really a recipe rather than a pattern---you get to decide on your yarn, needles, and gauge. The number of stitches you cast on determines the diameter of the finished object.",
+  "full_text": "MATERIALS 1 (1, 2, 2) skein(s) of Purl Soho’s Yonder , 50% alpaca and 50% highland wool. Each skein is 140 yards/100 grams; approximately 115 (140, 190, 245) total yards required. We used the colors Pink Quartz, Heirloom White, Winter Sage, and Pink Earth (NOTE: Some colors may no longer be available). US 6 (4 mm), 16-inch (or 12-inch for Baby size) circular needles , if working optional Tubular Cast On US 7 (4.5 mm), 16-inch (or 12-inch for Baby size) circular needles A set of US 7 double pointed needles A stitch marker A cable stitch holder NOTE: We used every last yard for our Kid sized hat! To avoid running short, be sure to check your gauge, reuse your swatch yarn, and keep tails short. Or, consider ordering an extra skein just for swatching. If you don’t end up needing it, you can return unwound yarn for a refund within 30 days of purchase, or within 6 months for store credit. Our Return Policy has all the details! GAUGE 28 stitches and 27 rounds = 4 inches in 5 x 3 rib on larger needles, unstretched SIZES Baby (Kid, Adult Small, Adult Large) To fit actual head circumference of 13­–15 (16–18½, 19½–22, 23–26) inches Finished Circumference: 9¼ (11½, 13¾, 16) inches, unstretched Finished Height: 10 (11, 12, 13) inches, uncuffed SAMPLES: The Pink Quartz hat is the Baby size, Heirloom White is the Kid size, Winter Sage is Adult Small, and Pink Earth is Adult Large. Designed for Purl Soho by Tayler Harris . Based in Utah, Tayler finds inspiration for her designs from the unique landscapes of her home state. From the beautiful mountains and canyons to the national parks and natural landscapes, she loves to incorporate the colors, textures, and shapes of her favorite places. All Images ©️ Copyright Purl Soho",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pseudosphere",
-    "https://www.ravelry.com/patterns/library/projective-plane/people",
-    "https://www.ravelry.com/patterns/library/projective-plane/yarns",
-    "https://www.ravelry.com/patterns/library/klein-bottle",
-    "https://www.ravelry.com/patterns/library/torus",
-    "https://www.ravelry.com/patterns/sources/sarah-maries-mathematical-knitting-pages",
-    "https://www.ravelry.com/patterns/library/projective-plane/comments",
-    "https://www.ravelry.com/patterns/library/projective-plane/report",
-    "https://www.ravelry.com/patterns/library/projective-plane",
-    "https://www.ravelry.com/patterns/library/projective-plane/editors"
+    "https://www.ravelry.com/patterns/library/high-seas-hat",
+    "https://www.ravelry.com/patterns/library/mixed-rib-hat/threads",
+    "https://www.ravelry.com/patterns/library/mixed-rib-hat/editors",
+    "https://www.ravelry.com/patterns/library/mixed-rib-hat",
+    "https://www.ravelry.com/patterns/library/pierpont-2",
+    "https://www.ravelry.com/patterns/library/mixed-rib-hat/yarns",
+    "https://www.ravelry.com/patterns/library/mixed-rib-hat/report",
+    "https://www.ravelry.com/patterns/library/mixed-rib-hat/comments",
+    "https://www.ravelry.com/patterns/library/mixed-rib-hat/people",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/far--wide-hat"
   ],
-  "name": "Ravelry: Projective Plane pattern by sarah-marie belcastro"
+  "name": "Ravelry: Mixed Rib Hat pattern by Tayler Harris"
 }

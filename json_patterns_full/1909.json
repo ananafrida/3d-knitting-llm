@@ -1,40 +1,50 @@
 {
   "pattern_id": 1909,
-  "pattern_page": "https://www.ravelry.com/patterns/library/domino-heart",
-  "name": "Domino Heart",
-  "description": "Errata: * 16.12.2012: patternwhisperer noticed, that the instructions lack the information on how to make the second lobe! I corrected it and loaded a new pdf.*",
-  "designer": "Johanna Mäki",
+  "pattern_page": "https://www.ravelry.com/patterns/library/wren-22",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "to fit (3, 6, 9) [12, 18, 24] months",
   "languages": [
-    "English",
-    "Finnish"
+    "English"
   ],
   "suggested_yarn": [
-    ""
+    "Berroco Vintage® Baby",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "modular",
-    "motifs",
-    "square",
-    "worked-flat",
-    "written-pattern"
+    "baby",
+    "buttoned",
+    "buttonholes",
+    "in-the-round",
+    "long-sleeve",
+    "one-piece",
+    "patch-pocket",
+    "raglan-sleeve",
+    "toddler",
+    "top-down",
+    "unisex",
+    "worked-flat"
   ],
-  "full_text": "Errata: * 16.12.2012: patternwhisperer noticed, that the instructions lack the information on how to make the second lobe! I corrected it and loaded a new pdf.* Knit a cute heart for Christmas! With the heart you can decorate presents or Christmas trees. Or use hearts to embellish mittens or blankets. I´m dreaming of a blanket full of hearts in different sizes and colors. You can knit this heart in almost any yarn and you don´t have to worry about the gauge! The heart is knit entirely in garter stitch. At first you knit a basic Domino square (also known as mitered square) and then add \"ears\" to two sides. Knit a hearty domino square for Christmas! Make hearts, for example, to decorate gift packages or the moon. The hearts also look adorable when sewn onto the back of the mittens or a blanket. I myself dreamed of a simple dozing blanket that would be full of hearts of different colors and sizes. You can make a heart with almost any yarn, you don't have to worry about the knitting density and the whole heart is made in garter stitch. The base of the heart is an ordinary domino square, to which \"ears\" are knitted on two sides. The instructions for the heart in Finnish can be found on my blog (link below).",
-  "techniques": [],
-  "shape": "cone",
+  "full_text": "This versatile baby cardigan is the perfect mix of playful and practical with its colorful yarn pairing and classic crewneck style. Wren features contrasting color trims and an adorable pocket for thoughtful touches that make this a great choice for special little ones in your life! With vibrant Vintage Baby Handpaint for the body and solid Vintage Baby accents, the combinations are nearly endless and easy to customize too! Wren is knit from the top down with raglan shaping and the sleeves are worked in the round to the wrist after the body is complete. SIZES (3, 6, 9) (12, 18, 24) months Shown in size 3 months FINISHED MEASUREMENTS Chest: (18¾, 19¼, 20¾) (21½, 22¼, 23¾)” / (47.5, 49, 52.5) (54.5, 56.5, 60.5) cm (with buttonbands overlapped) Length: (11¼, 11¾, 12½) (13, 13½,14½)” / (28.5, 30, 32) (33, 34.5, 37) cm YARN BERROCO VINTAGE BABY HANDPAINT (50 grs): (2, 2, 2) (3, 3, 3) hanks #10197 Creamsicle (MC) BERROCO VINTAGE BABY (50 grs): 1 ball #10076 Peony (CC) NEEDLES and NOTIONS Knitting needles, sizes 4 / 3.5 mm and 6 / 4 mm or size to obtain gauge 1 set each double-pointed needles or preferred needles for working small circumferences in the round, sizes 4 / 3.5 mm and 6 / 4 mm Waste yarn to hold stitches Stitch markers Removeable stitch markers Five ½” buttons GAUGE 22 sts and 28 rows = 4” / 10 cm in St st on larger needles Gauge is measured after blocking. To save time and ensure accurate measurements, take time to check gauge.",
+  "techniques": [
+    "worked in the round"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/domino-heart/report",
-    "https://www.ravelry.com/patterns/library/domino-heart/people",
-    "https://www.ravelry.com/patterns/library/domino-heart",
-    "https://www.ravelry.com/patterns/library/hiljaista-kuin-huopatossutehtaalla",
-    "https://www.ravelry.com/patterns/sources/mcin-blogi",
-    "https://www.ravelry.com/patterns/library/domino-heart/comments",
-    "https://www.ravelry.com/patterns/library/domino-heart/threads",
-    "https://www.ravelry.com/patterns/library/domino-heart/posts",
-    "https://www.ravelry.com/patterns/library/domino-heart/yarns",
-    "https://www.ravelry.com/patterns/library/domino-heart/editors",
-    "https://www.ravelry.com/patterns/library/nappipo",
-    "https://www.ravelry.com/patterns/library/kierrehuivi"
-  ]
+    "https://www.ravelry.com/patterns/library/summit-9",
+    "https://www.ravelry.com/patterns/periodicals/berroco",
+    "https://www.ravelry.com/patterns/library/wren-22",
+    "https://www.ravelry.com/patterns/library/wren-22/report",
+    "https://www.ravelry.com/patterns/library/kirby-18",
+    "https://www.ravelry.com/patterns/library/wren-22/people",
+    "https://www.ravelry.com/patterns/library/wren-22/threads",
+    "https://www.ravelry.com/patterns/library/billie-17",
+    "https://www.ravelry.com/patterns/library/wren-22/editors",
+    "https://berroco.com/patterns/wren",
+    "https://www.ravelry.com/patterns/library/wren-22/comments",
+    "https://www.ravelry.com/patterns/library/wren-22/yarns",
+    "https://www.ravelry.com/patterns/sources/berroco-website"
+  ],
+  "name": "Ravelry: Wren pattern by Åsa Buchta"
 }

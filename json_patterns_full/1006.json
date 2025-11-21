@@ -1,44 +1,41 @@
 {
   "pattern_id": 1006,
-  "pattern_page": "https://www.ravelry.com/patterns/library/juggling-ball-knit",
+  "pattern_page": "https://www.ravelry.com/patterns/library/toasty-pocket-creatures",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "Cube 2 inches [5 cm] per side",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Microspun",
-    "Sport (12 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Karabella Yarns Aurora 8"
   ],
   "attributes": [
-    "cube-shaped",
-    "phototutorial",
-    "seamed",
-    "worked-flat",
+    "3-dimensional",
+    "icord",
+    "in-the-round",
     "written-pattern"
   ],
-  "full_text": "These great hackysack-style juggling blocks are easy to make. (Lion Brand Yarn) Lion Brand Pattern #: BK4K-0508006-k kms-jugglingBalls.pdf SKILL LEVEL: Beginner PUBLISHED IN: By Kids, For Kids Microspun (Article #910) 6 colors, 1 ball each Knitting Needles - Size 7 [4.5 mm] Plastic pellets (from fabric store or upholstery store) or beans for stuffing. . Crochet version: Juggling Ball (Crochet)",
+  "full_text": "Small knit creatures with rice inside - microwave or freeze to apply temperature changes.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ripple-afghan-70409ad",
-    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/comments",
-    "http://www.ravelry.com/patterns/library/juggling-ball-crochet",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/people",
-    "https://web.archive.org/web/20060207063636/http://cache.lionbrand.com/patterns/kms-jugglingBalls.html",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/editors",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/yarns",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/threads",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/edit",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit/report",
-    "https://www.ravelry.com/patterns/library/juggling-ball-knit",
-    "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue",
-    "https://www.ravelry.com/patterns/library/hat--wrapover-scarf-hat"
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2005",
+    "https://www.ravelry.com/patterns/library/toasty-pocket-creatures/edit",
+    "https://www.ravelry.com/patterns/library/flora",
+    "https://www.ravelry.com/patterns/library/23-tangelo",
+    "https://www.ravelry.com/patterns/library/toasty-pocket-creatures/yarns",
+    "https://www.ravelry.com/patterns/library/toasty-pocket-creatures/comments",
+    "https://www.ravelry.com/patterns/library/toasty-pocket-creatures/report",
+    "https://www.ravelry.com/patterns/library/toasty-pocket-creatures/threads",
+    "https://www.ravelry.com/patterns/library/toasty-pocket-creatures",
+    "https://www.ravelry.com/patterns/library/toasty-pocket-creatures/posts",
+    "https://www.ravelry.com/patterns/library/toasty-pocket-creatures/editors",
+    "https://www.ravelry.com/patterns/library/toasty-pocket-creatures/people",
+    "https://www.ravelry.com/patterns/library/charcoal-ribbed-cardigan",
+    "https://www.ravelry.com/patterns/periodicals/knitty"
   ],
-  "name": "Ravelry: Juggling Ball (Knit) pattern by Lion Brand Yarn"
+  "name": "Ravelry: Toasty Pocket Creatures pattern by Kate Kuckro"
 }

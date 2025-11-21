@@ -1,35 +1,38 @@
 {
   "pattern_id": 1696,
-  "pattern_page": "https://www.ravelry.com/patterns/library/doudou-carre",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lorelai-hat-2",
+  "name": "Lorelai Hat",
+  "description": "The Lorelai Hat has an accompanying video tutorial on my youtube. If you ever feel stuck in the written pattern, the video is there to clear things up! Each section of the written pattern has corresponding instructions in the video, you will see the time stamps for each section written in italics (0:00).",
+  "designer": "Tattgerine",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "Taille Unique",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One size",
   "languages": [
-    "French"
+    "English"
   ],
   "suggested_yarn": [
-    "Phildar Phil Partner 6",
-    "Bulky (7 wpi) ?"
+    "Knitting for Olive Heavy Merino",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "reversible",
-    "worked-flat"
+    "adult",
+    "bottom-up",
+    "negative-ease",
+    "unisex"
   ],
-  "full_text": "Small square comforter with an opening to put a teething ring. You can play on the visuals and make several cuddly toys with very contrasting colors. Or play with textures by making a cuddly toy in jersey, one in wheat or seedling stitch to bring a different feel. 1 ball for a cuddly toy. However, it is easy to adapt to your quantity of wool, you increase until you reach half of your wool before starting the decreases.",
+  "full_text": "The Lorelai Hat has an accompanying video tutorial on my youtube. If you ever feel stuck in the written pattern, the video is there to clear things up! Each section of the written pattern has corresponding instructions in the video, you will see the time stamps for each section written in italics (0:00). You can find the video tutorial here . Materials needed: 4 mm circular knitting needles on a 40 cm cord 4 mm dpns Stitch marker Tapestry/Yarn needle Approximately 50 g of Knitting For Olive Heavy Merino (or any worsted weight yarn of your choice) ABBREVIATIONS USED k- knit p- purl sm- slip marker st- stitch/es dpn- double pointed needles k2tog- knit two together ssk- slip, slip, knit rnd: round n1, n2, n3, n4: needle one, needle two, needle three, needle four GAUGE 10 st x 16 rows should = 2x2 inches. (without blocking) Note this pattern is written in one size for an average head circumference between 22-23. Here are some notes if you are wanting to adjust the size of the hat. According to my testing, I wanted my hat (pre-block) to measure 14.5% less than my actual head circumference (this allows for a snug, well-fitted hat). My head circumference is 22” therefore I wanted my hat to have a circumference of 18.5” at its widest point. My calculations looked as follows: 22 (head circumference) - 14.5% = 18.81 (goal circumference) I rounded the number down to allow for a more snug fitting hat and settled for an ideal circumference of 18.5”. With my new goal circumference I was able to calculate the necessary cast on stitches knowing that my gauge was hitting at 5 stitches per inch. My calculations for cast on stitches looked as follows. 5 (st per inch) x 18.5” (goal circumference) = 92.5 (cast on stitches) I shaved off the extra 0.5 st to have a nice even cast on of 92 st. REMEMBER your final cast on sts must be a number divisible by 4 for both the 2x2 rib to be even AND for the decreases to be even. Adjust your final sum by rounding up or down as needed for it to become a number divisible by 4.",
   "techniques": [
     "decreases"
   ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/petite-couverture-bebe",
-    "https://www.ravelry.com/patterns/library/doudou-carre/report",
-    "https://www.ravelry.com/patterns/library/doudou-carre/comments",
-    "https://www.ravelry.com/patterns/library/doudou-carre/yarns",
-    "https://www.ravelry.com/patterns/sources/blog-de-laudemoizelle",
-    "https://www.ravelry.com/patterns/library/doudou-carre",
-    "https://www.ravelry.com/patterns/library/doudou-carre/people",
-    "https://www.ravelry.com/patterns/library/doudou-carre/editors"
-  ],
-  "name": "Ravelry: Doudou Carré pattern by Lau Demoizelle"
+    "https://www.ravelry.com/patterns/library/lorelai-hat-2/report",
+    "https://www.ravelry.com/patterns/library/lorelai-hat-2/editors",
+    "https://www.ravelry.com/patterns/library/lorelai-hat-2/people",
+    "https://www.ravelry.com/patterns/library/lorelai-hat-2/comments",
+    "https://www.ravelry.com/patterns/library/lorelai-hat-2/yarns",
+    "https://www.ravelry.com/patterns/sources/tattgerines-ravelry-store",
+    "https://www.ravelry.com/patterns/library/lorelai-hat-2"
+  ]
 }

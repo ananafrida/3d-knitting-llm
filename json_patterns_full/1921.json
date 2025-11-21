@@ -1,36 +1,54 @@
 {
   "pattern_id": 1921,
-  "pattern_page": "https://www.ravelry.com/patterns/library/donnas-vine-leaves",
-  "name": "Donna's Vine Leaves",
-  "description": "I wanted flat knitted leaves to decorate a tree, but didn’t want to be sewing them together or tying off the ends. I wound up with a small combination of crochet (chain and slip stitch only) to join the leaves together. This works well for me. The leaves are essentially flat, about 5cm (2 inches) long in the materials used. 50m makes a lot of leaves!",
-  "designer": "Donna Galley",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lille-crispin",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Sweater → Cardigan",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "3 months (6 months) 1year (2years)",
   "languages": [
-    "English"
+    "Danish",
+    "English",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 5 other languages show hide other languages",
+    "...and 5 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "4 Seasons Marvel 8 ply"
+    "Light Fingering ?",
+    "Filcolana Anina"
   ],
   "attributes": [
-    "worked-flat"
+    "baby",
+    "chart",
+    "raglan-sleeve",
+    "seamless",
+    "textured",
+    "toddler",
+    "top-down",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "I wanted flat knitted leaves to decorate a tree, but didn’t want to be sewing them together or tying off the ends. I wound up with a small combination of crochet (chain and slip stitch only) to join the leaves together. This works well for me. The leaves are essentially flat, about 5cm (2 inches) long in the materials used. 50m makes a lot of leaves!",
-  "techniques": [],
-  "shape": "cone",
+  "full_text": "Here is a much underplayed circus theme. Just like in Crispin, the subtle harlequin pattern appears, creating a classic baby and children's cardigan that can easily be used for both girls and boys. Workflow: Lille Crispin is knitted flat, from the top and down. First sts are cast on for the rib, and next the yoke is worked in structured pattern with raglan increases. Then the sleeve stitches rest while the body is finished in structured pattern and finished with a rib edge. Finally, sleeves are worked with decreases and finished with a rib edge. Here the circus theme is implemented a little more subtly. As with the Crispin version for adults, the structural pattern is reminiscent of the harlequin suits, but the calm colors and constant repetition of the pattern give the baby and children's cardigan a classic expression. It can be worn by both girls and boys. Elaboration: Lille Crispin is worked in rows from top to bottom. First, stitches are cast on for the ribbed cuff and the yoke is made in a structured pattern with raglan increases. The sleeve stitches are then put aside and the torso is worked downwards. The sleeves are knitted with decreases and finished with a ribbed cuff. Her er et helt underspillet circustema. This is the Crispin's harlequin jacket, and it's a classic baby and børne cardigan, but it can't be worn until it's bad and drenched. Work: Lille Crispin strictly oppefra og ned, frem og tilbage. The slås op til ribkant, and bærestykket strikkes in strukturmønster med raglanudtagninger. Hereafter hviler ærmernes masker, mens kroppen strikkes lige ned in structuration monsters and afsluttes with a ribbed. Ærmerne strikes with indtagninger and afsluttes with en ribkant.",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/donnas-vine-leaves/report",
-    "https://www.ravelry.com/patterns/library/donnas-vine-leaves/yarns",
-    "https://www.ravelry.com/patterns/library/donnas-vine-leaves",
-    "https://www.ravelry.com/patterns/library/tardis-jumper---doctor-who",
-    "https://www.ravelry.com/patterns/library/donnas-knitted-poppy",
-    "https://www.ravelry.com/patterns/sources/donna-galleys-ravelry-store",
-    "https://www.ravelry.com/patterns/library/donnas-vine-leaves/comments",
-    "https://www.ravelry.com/patterns/library/donnas-vine-leaves/editors",
-    "https://www.ravelry.com/patterns/library/donnas-vine-leaves/people",
-    "https://www.ravelry.com/patterns/library/donnas-vine-leaves-variation",
-    "https://www.ravelry.com/patterns/library/donnas-vine-leaves/threads"
-  ]
+    "https://www.ravelry.com/patterns/library/lyon-5",
+    "https://www.ravelry.com/patterns/library/lille-crispin/threads",
+    "https://www.ravelry.com/patterns/sources/into-the-circus---filcolana-ss22",
+    "https://www.ravelry.com/patterns/library/lille-crispin/comments",
+    "https://www.ravelry.com/patterns/library/lille-crispin/yarns",
+    "https://www.ravelry.com/patterns/sources/filcolana",
+    "https://www.ravelry.com/patterns/library/lille-crispin/report",
+    "https://www.ravelry.com/patterns/library/arni-6",
+    "https://www.ravelry.com/patterns/library/lille-crispin",
+    "https://www.ravelry.com/patterns/library/lille-crispin/editors",
+    "https://www.ravelry.com/patterns/library/dinard-2",
+    "https://www.ravelry.com/patterns/library/lille-crispin/people"
+  ],
+  "name": "Ravelry: Lille Crispin pattern by Rachel Søgaard"
 }

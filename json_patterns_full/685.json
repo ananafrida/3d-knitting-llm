@@ -1,43 +1,42 @@
 {
   "pattern_id": 685,
-  "pattern_page": "https://www.ravelry.com/patterns/library/troll-2",
-  "name": "Troll",
-  "description": "Troll is a easy and quick knitted hat for your little troll ;-)",
-  "designer": "Gabriela Widmer-Hanke",
+  "pattern_page": "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table",
+  "name": "Atomic Blocks: The Periodic Table",
+  "description": "Stack up the periodic table with these squishy toy blocks! Each block face features the atomic number and symbol of a different element. The pattern includes instructions for plain blocks and color charts for the elements Hydrogen (1) through Neodymium (60). The color on these blocks was worked in duplicate stitch for texture; however, the pattern can easily be adjusted for stranded color knitting by working each face separately.",
+  "designer": "Alegria DaSilva",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "Baby (Toddler, Child)",
+  "category": "Blocks",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "one size",
   "languages": [
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "madelinetosh Tosh Chunky",
-    "Aran (8 wpi) ?"
+    "Lion Brand Cotton-Ease 50/50",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
-    "child",
-    "positive-ease",
+    "chart",
+    "cube-shaped",
+    "duplicate-stitch",
+    "one-piece",
+    "other-colorwork",
     "written-pattern"
   ],
-  "full_text": "Troll is a easy and quick knitted hat for your little troll ;-) It is knitted in rounds from bottom up in stockinet sts. Sizes: Baby (Toddler, Child) Yarn: approx 90 (110, 130) m of aran weight yarn. Errata: decrease Row 4 : k 5 (6, 7) not 5 (5, 6)",
+  "full_text": "Stack up the periodic table with these squishy toy blocks! Each block face features the atomic number and symbol of a different element. The pattern includes instructions for plain blocks and color charts for the elements Hydrogen (1) through Neodymium (60). The color on these blocks was worked in duplicate stitch for texture; however, the pattern can easily be adjusted for stranded color knitting by working each face separately. Oops! Element 47 should be Ag (Silver) not Au (Gold). A lowercase g can be found in chart 12 (Mg). Sorry!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/troll-2/posts",
-    "https://www.ravelry.com/patterns/library/troll-2/report",
-    "https://www.ravelry.com/patterns/library/stripes-13",
-    "https://www.ravelry.com/patterns/library/troll-2/people",
-    "https://www.ravelry.com/patterns/library/troll-2/threads",
-    "https://www.ravelry.com/patterns/library/wickeljacke-4",
-    "https://www.ravelry.com/patterns/library/troll-2/editors",
-    "https://www.ravelry.com/patterns/library/berry-hat-2",
-    "https://www.ravelry.com/patterns/library/troll-2/comments",
-    "https://www.ravelry.com/patterns/library/troll-2",
-    "https://www.ravelry.com/patterns/library/troll-2/yarns",
-    "https://www.ravelry.com/patterns/sources/gabriela-widmer-hankes-ravelry-store"
+    "https://www.ravelry.com/patterns/sources/spotted-dog",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/people",
+    "https://www.ravelry.com/patterns/library/compass-rose-4",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/threads",
+    "https://www.ravelry.com/patterns/library/fall-semester",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/yarns",
+    "https://www.ravelry.com/patterns/library/spring-semester",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/comments",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/editors",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/report"
   ]
 }

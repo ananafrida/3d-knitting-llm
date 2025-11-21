@@ -1,46 +1,45 @@
 {
   "pattern_id": 676,
-  "pattern_page": "https://www.ravelry.com/patterns/library/treetop-hats",
-  "name": "Treetop Hats",
-  "description": "The Treetops Project is a craftivism movement to fight for climate action. The hats are designed to mimic the shape of an evergreen tree, and to be worn en masse at climate and science marches around the world.",
-  "designer": "Alice Hale",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-alphabet-blocks",
+  "name": "Felted Alphabet Blocks",
+  "description": "Hopefully these felted alphabet blocks will become a favorite toy for whomever they’re made for.",
+  "designer": "Jessica Sant",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "small and large",
+  "category": "Blocks",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "sizes_available": "3\" square",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
+    "Patons North America Classic Wool Merino",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "in-the-round",
-    "one-piece",
-    "ribbed",
+    "cube-shaped",
+    "felted",
+    "other-colorwork",
+    "phototutorial",
     "seamed",
-    "seamless",
-    "unisex",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The Treetops Project is a craftivism movement to fight for climate action. The hats are designed to mimic the shape of an evergreen tree, and to be worn en masse at climate and science marches around the world. There are three versions of the pattern: the Classic Pattern, which is knit in worsted weight yarn and worked in the round; the Chunky Classic Pattern, which looks the same as the Classic Pattern, but uses chunky weight yarn; and the Flat-Out Simple Pattern, which is beginner-friendly, and worked flat in garter stitch using chunky weight yarn. These patterns are intended as an accessible starting place, so feel free to get creative and experiment with stitch patterns, yarns, and techniques. Play around with colorwork! Why not throw in some cables? Have fun with it. For more information about the project, visit www.treetopsproject.com . Spread the word about this movement and show off your own hats on social media using #TreetopsProject .",
-  "techniques": [
-    "worked flat",
-    "worked in the round"
-  ],
-  "shape": "sphere",
+  "full_text": "Hopefully these felted alphabet blocks will become a favorite toy for whomever they’re made for. To make this project you will do several things: knit, wet felt, needle felt, and sew. If you don’t know how to wet felt or needle felt -- don’t be afraid of this project, its actually quite easy and there will be plenty of time to practice as you’ll be doing those steps multiple times. I’ve done my best to explain each technique (with pictures!) in the pattern, please let me know if you don’t understand something. Enjoy!",
+  "techniques": [],
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/treetop-hats",
-    "https://www.ravelry.com/patterns/library/treetop-hats/yarns",
-    "https://www.ravelry.com/patterns/library/treetop-hats/people",
-    "https://www.treetopsproject.com/patterns",
-    "https://www.ravelry.com/patterns/library/treetop-hats/editors",
-    "https://www.ravelry.com/patterns/library/treetop-hats/comments",
-    "https://www.ravelry.com/patterns/library/treetop-hats/report",
-    "https://www.ravelry.com/patterns/sources/the-treetops-project"
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/comments",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/threads",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/report",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/editors",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/yarns",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/people",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks",
+    "https://www.ravelry.com/patterns/library/vw-hat",
+    "https://www.ravelry.com/patterns/library/rosehip-hat",
+    "https://www.ravelry.com/patterns/library/felted-alphabet-blocks/posts",
+    "https://www.ravelry.com/patterns/sources/jess-knit-climb-java",
+    "https://www.ravelry.com/patterns/sources/jessica-sant-designs",
+    "https://www.ravelry.com/patterns/library/braided-cable-hat-2"
   ]
 }

@@ -1,50 +1,44 @@
 {
   "pattern_id": 721,
-  "pattern_page": "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap",
-  "name": "Lizzikin's Pixie Cap",
-  "description": "A fun to wear pixie style cap featuring purl ridge rings around the bottom of the cap, and an i-cord and tassel to complete the top.",
-  "designer": "YaYa Lovestoknit",
+  "pattern_page": "https://www.ravelry.com/patterns/library/embroidered-baby-blocks",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "teen/small adult",
+  "category": "Blocks",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "6 x 6 x 6 in. (15 x 15 x 15 cm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Queensland Collection Brisbane"
+    "Lion Brand Pound of Love",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "child",
-    "icord",
-    "in-the-round",
-    "one-piece",
-    "ribbed",
-    "seamless",
-    "teen",
-    "unisex",
-    "video-tutorial",
+    "cube-shaped",
+    "embroidery",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A fun to wear pixie style cap featuring purl ridge rings around the bottom of the cap, and an i-cord and tassel to complete the top. The hat is knit in the round using simple knit and purl stitches, and easy decreases to create the top of the hat. Links are included to tutorials for knitting the i-cord and making the tassel. The sample hat was knit using a self-striping yarn, but this pattern would be suitable for anyone wishing to use up leftover balls of yarn.",
-  "techniques": [
-    "decreases"
-  ],
+  "full_text": "Lion Brand Pattern #: L20407 SKILL LEVEL: Beginner 550-099 Pound of Love Yarn: Antique White (1) ball 601-620 Bonbons Yarn: Pastels (1) set (for embroidery) Knitting Needles - Size 9 [5.5 mm] 3 foam blocks, cut to 6 x 6 x 6 in. (15 x 15 x 15 cm) The pattern makes 3 Blocks. For each Block, a rectangle is worked to cover 4 sides of the foam block, then 2 squares are worked to cover the remaining sides of the foam block. Flowers are embroidered following photo or as desired. See also: L20332 Monogrammed Baby Blanket (crochet) L20334 Embroidered Baby Blanket (knit) L20335 Dotty Baby Wall Hanging (knit)",
+  "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/editors",
-    "https://www.ravelry.com/patterns/library/x-marks-the-spot-7",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/comments",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/report",
-    "https://www.ravelry.com/patterns/sources/yaya-lovestoknit",
-    "https://www.ravelry.com/patterns/library/sea-cruise",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/people",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/threads",
-    "https://www.ravelry.com/patterns/library/crossing-the-tracks",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap",
-    "https://www.ravelry.com/patterns/library/lizzikins-pixie-cap/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
+    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
+    "http://www.ravelry.com/patterns/library/dotty-baby-wall-hanging",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/people",
+    "http://www.ravelry.com/patterns/library/embroidered-baby-blanket-l20334",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/report",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/edit",
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.ravelry.com/patterns/library/diagonal-eyelet-baby-blanket-2",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/yarns",
+    "http://www.lionbrand.com/patterns/L20407.html",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/comments",
+    "http://www.ravelry.com/patterns/library/monogrammed-baby-blanket-l20332",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks/editors",
+    "https://www.ravelry.com/patterns/library/embroidered-baby-blocks"
+  ],
+  "name": "Ravelry: Embroidered Baby Blocks pattern by Lion Brand Yarn"
 }

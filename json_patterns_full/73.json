@@ -1,38 +1,36 @@
 {
   "pattern_id": 73,
-  "pattern_page": "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon",
-  "name": "Weldon's Dahlia Hexagon",
-  "description": "Here’s a show stopper from Weldon’s Practical Needlework, Volume 8! Originally meant as a doily, I blocked the piece as a hexagon for an afghan. The original pattern was error-free until row 43. From there, I had to improvise the instructions to match the engraving as much as possible.",
-  "designer": "Vicki Monthei",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fu-manchu-mustache",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "NA",
+  "category": "Costume",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Thread ?",
-    "Aunt Lydia's Classic 10 Crochet Thread"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
-    "motifs",
-    "one-piece"
+    "icord",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "Here’s a show stopper from Weldon’s Practical Needlework , Volume 8! Originally meant as a doily, I blocked the piece as a hexagon for an afghan. The original pattern was error-free until row 43. From there, I had to improvise the instructions to match the engraving as much as possible. Worked to gauge, the hexagon is 10.5” across, measured point to point. The original edging for Weldon’s Dahlia pattern is posted separately in Ravelry. Skills needed: long-tail cast on, slip, knit, purl, YO (yarn over), SKP (slip 1 knit-wise, knit 1, PSSO), K2tog, K3tog, SK2P (slip 1 knit-wise, knit 2 together, slip slipped stitch over the k2tog) and bind off in knit stitch or Jeny’s Surprisingly Stretchy Bind Off. Gauge is not important in this pattern. Any block-able yarn/thread will work. Make a swatch to check size and appearance. Errata notice: a corrected PDF has been uploaded as of 9/12/23. Please update your copy if you downloaded this pattern before 9/12/23.",
+  "full_text": "",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/editors",
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/comments",
-    "https://www.ravelry.com/patterns/library/mitten-prints",
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/people",
-    "https://www.ravelry.com/patterns/library/weldons-wrinkled-shell-ii",
-    "https://www.ravelry.com/patterns/library/beetons-dahlia-doily",
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/yarns",
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon",
-    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/report",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store"
-  ]
+    "https://www.ravelry.com/patterns/library/pajaki",
+    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/report",
+    "https://www.ravelry.com/patterns/library/sock-wave-head-scarf",
+    "https://www.ravelry.com/patterns/sources/sweet-little-domestic-life",
+    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/editors",
+    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/yarns",
+    "https://www.ravelry.com/patterns/library/this-cosy-is-da-bomb",
+    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/people",
+    "https://www.ravelry.com/patterns/library/fu-manchu-mustache",
+    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/comments",
+    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/threads"
+  ],
+  "name": "Ravelry: Fu Manchu Mustache pattern by Robyn Wade"
 }

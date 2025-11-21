@@ -1,39 +1,59 @@
 {
   "pattern_id": 1306,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bunny-buddies-2",
-  "name": "Bunny Buddies",
-  "description": "Sometimes you simply need to knit something silly… And these cute little bunny buddies are exactly that! My boys have gone mad over these little gems and I’m sure they’ll brighten up anyone’s day. The best part about these, is that they knit up really quickly and require very little yarn. The perfect tashbusters for those leftover bits of yarn we are all guilty of keeping… just in case :slightly_smiling_face:",
-  "designer": "Cilla Webb",
+  "pattern_page": "https://www.ravelry.com/patterns/library/berry-t-shirt",
   "craft": "Knitting",
-  "category": "Softies → Animal",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "11 cm tall",
+  "category": "Tops → Tee",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "XS (S, M, L, XL, 2XL)",
   "languages": [
-    "English"
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Spanish",
+    "Swedish",
+    "...and 11 other languages show hide other languages",
+    "...and 11 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Sirdar Snuggly DK"
+    "Hobbii Friends Kid Silk",
+    "yarn held together"
   ],
   "attributes": [
-    "seamed",
-    "worked-flat",
+    "adult",
+    "female",
+    "in-the-round",
+    "one-piece",
+    "raglan-sleeve",
+    "seamless",
+    "short-sleeve",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "Sometimes you simply need to knit something silly… And these cute little bunny buddies are exactly that! My boys have gone mad over these little gems and I’m sure they’ll brighten up anyone’s day. The best part about these, is that they knit up really quickly and require very little yarn. The perfect tashbusters for those leftover bits of yarn we are all guilty of keeping… just in case :slightly_smiling_face: Yarn: 12g Sirdar Snuggly DK yarn per bunny A small amount of black and pink yarn for the facial features. Needles: 3.5mm straight needles Other supplies: Toy stuffing Tapestry needle Size: 11 cm tall Abbreviations x times: Knit the instructions between the brackets x amount of times. * ; rep from * to end: Repeat the instructions between the * and ; until the end of the row. st(s): stitch(es) K: knit,if followed by a number, knit that amount of stitches P: purl St st: stocking stitch: alternate a row of knitting and a row of purling. G st: garter stitch: knit every row K2tog: knit two stitches together knitwise. P2tog: purl two stitches together purlwise. Kfb: knit in the front and back of the stitch, creating an increase.",
-  "techniques": [],
-  "shape": "softie",
+  "full_text": "Lovely, striped raglan-t-shirt worked top-down in 2 strands of Friends Kid Silk and 1 strand of Pearly Haze.",
+  "techniques": [
+    "top-down"
+  ],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2/report",
-    "https://www.ravelry.com/patterns/library/frankenstitch",
-    "https://www.ravelry.com/patterns/library/tiny-festive-tomte-gnomes",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2/yarns",
-    "https://www.ravelry.com/patterns/library/sparky-the-baby-dragon",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2/people",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2/comments",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2/editors",
-    "https://www.ravelry.com/patterns/library/bunny-buddies-2/threads",
-    "https://www.ravelry.com/patterns/sources/cillas-purls-ravelry-store"
-  ]
+    "https://www.ravelry.com/patterns/library/berry-t-shirt",
+    "https://www.ravelry.com/patterns/library/copenhagen-slipover",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/comments",
+    "https://www.ravelry.com/patterns/library/summer-lotus",
+    "https://www.ravelry.com/patterns/library/bobbie-13",
+    "https://www.ravelry.com/patterns/sources/hobbii-website",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/editors",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/report",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/posts",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/yarns",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/edit",
+    "https://www.ravelry.com/patterns/library/berry-t-shirt/people"
+  ],
+  "name": "Ravelry: Berry T-Shirt pattern by Maria Sølvtofte"
 }

@@ -1,37 +1,42 @@
 {
   "pattern_id": 2043,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hippezippes-miniruesche",
+  "pattern_page": "https://www.ravelry.com/patterns/library/smock-ball",
+  "name": "Smock ball",
+  "description": "Fint mønster, hvis du liker å utfordre deg selv litt. Mønsteret benytter rett, vrang, kast, omvendt kast, 2 rett sammen, 2 og 3 vrang sammen i skjønn forening og tidvis samtidig med smock.",
+  "designer": "Eva Kloster",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "category": "Ball",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "9 cm i diameter",
   "languages": [
-    "German"
+    "English",
+    "Norwegian"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Zwerger Garn Opal 4-fach | 4-ply"
+    "Dale Garn Tynn Kidsilk Erle",
+    "yarn held together"
   ],
   "attributes": [
+    "chart",
     "in-the-round",
-    "other-edging",
-    "pattern-recipe",
-    "ribbed",
-    "seamless"
+    "seamless",
+    "smocked",
+    "sphere-shaped",
+    "written-pattern"
   ],
-  "full_text": "This is not truly a pattern, just the directions for the special sock cuff.",
+  "full_text": "Nice pattern, if you like to challenge yourself a bit. The pattern uses knit, purl, yarn over, reverse yarn over, knit 2 together, purl 2 and 3 together in a nice combination and sometimes at the same time with smock. The knitting strength is not important. Nice pattern if you'd like to challenge yourself a bit. The pattern uses knit, purl, yo, M1T, k2tog, p2tog, p3tog in a lovely blend and sometimes in a smock. Gauge is not important.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche",
-    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/report",
-    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/people",
-    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/threads",
-    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/comments",
-    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/posts",
-    "https://www.ravelry.com/patterns/sources/hippezippe",
-    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/edit",
-    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/editors",
-    "https://www.ravelry.com/patterns/library/hippezippes-miniruesche/yarns"
-  ],
-  "name": "Ravelry: Hippezippe's Miniruesche pattern by Hippezippe"
+    "https://www.ravelry.com/patterns/library/smock-ball/yarns",
+    "https://www.ravelry.com/patterns/library/smock-ball/comments",
+    "https://www.ravelry.com/patterns/library/bruserup",
+    "https://www.ravelry.com/patterns/library/smock-ball/people",
+    "https://www.ravelry.com/patterns/sources/eva-klosters-ravelry-store",
+    "https://www.ravelry.com/patterns/library/smock-ball/editors",
+    "https://www.ravelry.com/patterns/library/smock-ball",
+    "https://www.ravelry.com/patterns/library/maiblomst",
+    "https://www.ravelry.com/patterns/library/smock-ball/report",
+    "https://www.ravelry.com/patterns/library/neve-9"
+  ]
 }

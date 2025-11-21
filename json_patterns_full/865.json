@@ -1,40 +1,47 @@
 {
   "pattern_id": 865,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-bright-side",
-  "name": "The Bright Side",
-  "description": "This pattern was written specifically for using the Dark Side of the Moon yarn by Alexandra-The Art of Yarns. This yarn is dyed predominantly one color with just a small spattering of a contrast color, such that a 2”-3” section of color appears periodically as you knit.",
-  "designer": "Lori B",
+  "pattern_page": "https://www.ravelry.com/patterns/library/malt-2",
+  "name": "Malt",
+  "description": "",
+  "designer": "tincanknits",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "Finished measurements: 67\" x 14\"",
+  "category": "Blanket → Throw Blanket → Baby Blanket",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "Stroller (Baby, Crib, Throw)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Alexandra the Art of Yarn Dark Side of the Moon"
+    "Sweet Fiber Yarns Cashmerino Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "textured",
-    "triangle-shaped",
+    "one-piece",
+    "ribbed",
+    "schematic",
+    "seamless",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This pattern was written specifically for using the Dark Side of the Moon yarn by Alexandra-The Art of Yarns. This yarn is dyed predominantly one color with just a small spattering of a contrast color, such that a 2”-3” section of color appears periodically as you knit. The Bright Side is knitted in stockinette stitch, purling the little stretch of color on the right side and knitting it on the wrong side--thus creating a randomly textured fabric. This is a simple one-skein design, easy to wear, and fun to knit! Enjoy this one on me!",
+  "full_text": "Malt - by Tin Can Knits The Malt blanket pattern is now available in the FREE Tin Can Knits app! Click here to download the app, or to learn more. • only see the size instructions you need • tick through the pattern and make notes • support is just a tap away • adjust the settings to suit you! Learn to knit with Alexa and Emily! The Malt Blanket is the first project in The Simple Collection - a learn to knit series with excellent free patterns and clear tutorials. From your first scarf, to mittens, socks, and sweaters, learn all you need to know to make modern seamless knits for the entire family! Want to keep up with Tin Can Knits? Sign up for our email updates and we will let you know about our new designs and great in-depth tutorials . PATTERN INFO Sizing Stroller (Baby, Crib, Throw) Finished blanket measures 26 (30, 36, 48)” wide by 28 (32, 40, 52)” long. Yarn 600 (750, 1200, 2000) yards worsted/aran weight yarn (sample shown in Sweet Fiber Cashmerino Worsted in ‘tea leaves’) Needles US #8 / 5.0 mm needles, 32-48” circular (or as required to meet gauge) Gauge 18 sts and 24 rows/ 4” in stockinette stitch Notions stitch markers, darning needle Helpful Tutorials How to cast on Knit Purl Bind off For all pattern abbreviations, techniques, and to contact us, visit www.tincanknits.com",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-bright-side/people",
-    "https://www.ravelry.com/patterns/library/the-bright-side/report",
-    "https://www.ravelry.com/patterns/library/happy-medium",
-    "https://www.ravelry.com/patterns/library/the-bright-side/comments",
-    "https://www.ravelry.com/patterns/library/the-bright-side",
-    "https://www.ravelry.com/patterns/library/the-bright-side/threads",
-    "https://www.ravelry.com/patterns/library/the-bright-side/yarns",
-    "https://www.ravelry.com/patterns/library/the-bright-side/posts",
-    "https://www.ravelry.com/patterns/library/the-bright-side/editors",
-    "https://www.ravelry.com/patterns/library/k1fade1",
-    "https://www.ravelry.com/patterns/sources/k1love1-ravelry-store-2",
-    "https://www.ravelry.com/patterns/library/june-skies"
+    "https://www.ravelry.com/patterns/library/oats",
+    "https://www.ravelry.com/patterns/library/wheat-4",
+    "https://www.ravelry.com/patterns/library/malt-2/editors",
+    "https://www.ravelry.com/patterns/library/malt-2/yarns",
+    "https://www.ravelry.com/patterns/library/malt-2/report",
+    "https://www.ravelry.com/patterns/library/maize-3",
+    "https://www.ravelry.com/patterns/library/malt-2/people",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/malt-2/threads",
+    "https://www.ravelry.com/patterns/library/malt-2/posts",
+    "https://www.ravelry.com/patterns/library/malt-2",
+    "https://www.ravelry.com/patterns/library/malt-2/comments",
+    "https://www.ravelry.com/bundles/app-patterns",
+    "https://www.ravelry.com/patterns/sources/the-simple-collection",
+    "https://www.tincanknits.com/pattern/malt?g=1"
   ]
 }

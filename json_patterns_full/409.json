@@ -1,49 +1,38 @@
 {
   "pattern_id": 409,
-  "pattern_page": "https://www.ravelry.com/patterns/library/show-your-stripes-jacket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/woven-stars",
+  "name": "Woven Stars",
+  "description": "Woven Stars are very quick to knit and use less than 5 g of DK weight yarn all together. They are made up of two triangles, knitted flat and then woven together.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "17\" (18\")",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Bernat Softee Baby Colors",
+    "",
     "DK (11 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "buttonholes",
-    "female",
-    "hood",
-    "long-sleeve",
-    "male",
-    "one-piece",
-    "seamed",
-    "sideways",
-    "toddler",
-    "worked-flat",
-    "written-pattern"
+    "star-shaped",
+    "worked-flat"
   ],
-  "full_text": "This fun hooded jacket, knit in Bernat® Softee® Baby Colors™, is stitched in modern and bright shades. Note: Jacket is worked in 1 piece from cuff to cuff. Yarn for model: Bernat®Softee®Baby Colors™ (4.2 oz/120 g; 310 yds/284 m) Contrast A Pink Rainbow (51002) 1 ball Contrast B Teal Rainbow (51007) 1 ball SIZES To fit chest measurement: 6 mos. 17” 43 cm 12 mos. 18” 45 cm Finished chest measurement: 6 mos. 17” 43 cm 12 mos. 20” 51 cm size U.S. 6 (4 mm) circular knitting needle 29” 74 cm long Gauge: 21 sts and 40 rows = 4”/10cm in garter st a stitch marker, a stitch holder, and 3 buttons for this project.",
+  "full_text": "Woven Stars are very quick to knit and use less than 5 g of DK weight yarn all together. They are made up of two triangles, knitted flat and then woven together. The finished stars measure about 9 cm across at their widest point but you can knit different sizes by using other weights of yarn. Knit them in two shades of one colour as I have or use a variegated yarn for a different effect. You could decorate the finished stars with beads and buttons too. These would be a useful contribution to a fundraising stall and you are welcome to knit them to sell to raise money for any charity. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/little-gnome-hat-4",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/edit",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/people",
-    "https://www.ravelry.com/patterns/sources/bernat-yarn-wrapper-or-free-paper-leaflets",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/comments",
-    "https://www.ravelry.com/patterns/library/garter-stitch-corner-to-corner-blanket",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/yarns",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/report",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket",
-    "https://www.ravelry.com/patterns/library/show-your-stripes-jacket/editors",
-    "http://www.yarnspirations.com/patterns/bernat-show-your-stripes-knit-jacket.html",
-    "https://www.ravelry.com/patterns/library/star-blanket-6",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2"
-  ],
-  "name": "Ravelry: Show Your Stripes Jacket pattern by Bernat Design Studio"
+    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3",
+    "https://www.ravelry.com/patterns/library/woven-stars/report",
+    "https://www.ravelry.com/patterns/library/feathers-12",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-oak",
+    "https://www.ravelry.com/patterns/library/woven-stars/threads",
+    "https://www.ravelry.com/patterns/library/woven-stars/yarns",
+    "https://www.ravelry.com/patterns/library/woven-stars/people",
+    "https://www.ravelry.com/patterns/library/woven-stars/comments",
+    "https://www.ravelry.com/patterns/library/woven-stars/posts",
+    "https://www.ravelry.com/patterns/library/woven-stars",
+    "https://www.ravelry.com/patterns/library/woven-stars/editors"
+  ]
 }

@@ -1,37 +1,44 @@
 {
   "pattern_id": 1541,
-  "pattern_page": "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg",
-  "name": "Glitzerspiral-Osterei / GlitterSpiral EasterEgg",
-  "description": "Das Glitzerspiral-Osterei ist eine schnell gestrickte Osterdekoration für die man sehr gut Wollreste verarbeiten kann.",
-  "designer": "Kikos Designs",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fair-enough-cowl",
+  "name": "Fair Enough Cowl",
+  "description": "Fair Enough Cowl is knitted in Fair Isle technique with a combination of colorwork patterns. In each panel the pattern is repeated every 2, 4 or 6 stitches, which makes it easy to remember the rhythm of every round. There are no more than 3 stitches of one color next to each other, so there’s no need to catch floats. The pattern is friendly for beginners in stranded colorwork knitting.",
+  "designer": "Home of Cords",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "57 cm (22”) circumference x 25 cm (10”) height",
   "languages": [
     "English",
-    "German"
+    "Polish"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Zwerger Garn Opal 4-fach | 4-ply"
+    "Garnstudio DROPS Karisma",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
+    "adult",
+    "chart",
+    "fairisle",
     "in-the-round",
-    "one-piece"
+    "seamless",
+    "stranded",
+    "written-pattern"
   ],
-  "full_text": "The glitter spiral Easter egg is a quick-knit Easter decoration that you can easily use leftover wool for. The Glitter Spiral Easter Egg is a quick knit for a nice Easter decoration that can be done with scraps.",
+  "full_text": "Fair Enough Cowl is knitted in Fair Isle technique with a combination of colorwork patterns. In each panel the pattern is repeated every 2, 4 or 6 stitches, which makes it easy to remember the rhythm of every round. There are no more than 3 stitches of one color next to each other, so there’s no need to catch floats. The pattern is friendly for beginners in stranded colorwork knitting. Size One size (adult): 57 cm (22”) circumference x 25 cm (10”) height. The pattern includes instructions on how to easily adjust the size of the cowl if you prefer other dimensions. Yarn Background color - 1 skein of Gabo Wool Baby Alpaca no. 1427 Main color - 1 skein of Gabo Wool Baby Alpaca no. 1565. Or any DK/worsted yarn with 100-110 m (109-120 y) per 50 g should be ok. Needles Circular 60 cm (24”) 4.5 mm (US #7) and 5 mm (US #8) or other to fit the gauge. Gauge 21 sts and 25 rnds in 10 cm/4” on 5 mm/US #8 needles, in stranded colorwork, in the round, after blocking. Fair Enough Cowl to miękki i ciepły komin, ozdobiony żakardowymi wzorami w technice Fair Isle. W każdym panelu wzór powtarza się co 2, 4 lub 6 oczek, co sprawia, że łatwo zapamiętać rytm kolejnych okrążeń. Obok siebie nie występują więcej niż 3 oczka jednego koloru, nie ma więc potrzeby przeplatania nitek na lewej stronie. Ze wzorem bez problemu poradzi sobie nowicjusz w żakardach. Rozmiar Uniwersalny dla dorosłych: 57 cm obwodu x 25 cm wysokości. Wzór zawiera wskazówki jak dopasować rozmiar komina, jeśli wolisz inne wymiary. Włóczka Kolor tła: 1 motek Gabo Wool Baby Alpaca nr 1427 Kolor główny - 1 motek Gabo Wool Baby Alpaca nr 1565. Lub inna włóczka o grubości DK/worsted (ok. 100-110 m w 50 g). Druty Druty na żyłce 60 cm rozmiar 5 mm i 4,5 mm (lub inny, by uzyskać odpowiednią próbkę). Próbka 21 o. x 25 okr. = 10 x 10 cm, na drutach 5 mm, wzorem żakardowym, na okrągło, po blokowaniu.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/comments",
-    "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/editors",
-    "https://www.ravelry.com/patterns/library/glitzerspiralkugel",
-    "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/people",
-    "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg",
-    "https://www.ravelry.com/patterns/sources/kikos-designs",
-    "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/threads",
-    "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/yarns",
-    "https://www.ravelry.com/patterns/library/glitzerspiral-osterei---glitterspiral-easteregg/report"
+    "https://www.ravelry.com/patterns/sources/agnieszka-dzikiewicz-krawczyks-ravelry-store",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/threads",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/people",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/report",
+    "https://www.ravelry.com/patterns/library/penguime-socks",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/comments",
+    "https://www.ravelry.com/patterns/library/enchanted-flowers-socks",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl",
+    "https://www.ravelry.com/patterns/library/fair-enough-cowl/editors",
+    "https://www.ravelry.com/patterns/library/snowy-forest-cowl"
   ]
 }

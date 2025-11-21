@@ -1,34 +1,41 @@
 {
   "pattern_id": 1314,
-  "pattern_page": "https://www.ravelry.com/patterns/library/marshmallows-4",
-  "name": "Marshmallows",
-  "description": "Little knitted marshmallows knitted in dk on 3mm needles but larger /smaller needles can be used",
-  "designer": "Jenny Church",
+  "pattern_page": "https://www.ravelry.com/patterns/library/grinch-15",
   "craft": "Knitting",
   "category": "Softies → Other",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "approx.38cm/15inches",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Cascade Yarns ® Cascade 220®",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional"
+    "3-dimensional",
+    "in-the-round",
+    "stripes",
+    "stripes-colorwork",
+    "video-tutorial",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Little knitted marshmallows knitted in dk on 3mm needles but larger /smaller needles can be used",
+  "full_text": "ABOUT PATTERN Stitch-by-stitch Knitting Pattern Video Tutorials (how to assemble + knitting stitches) Process Photos Detailed How-To Assemble Instructions All yarn parameters are given so you can choose the yarn from your stash as well Tools recommendations Knitted flat on 2 needles + Knitted in the round version for most of toy’s parts Wishing you all a holiday season filled with joy, but don’t forget, the Grinch is always lurking nearby!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/marshmallows-4",
-    "https://www.ravelry.com/patterns/sources/jenny-churchs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/knitted-teabag",
-    "https://www.ravelry.com/patterns/library/marshmallows-4/yarns",
-    "https://www.ravelry.com/patterns/library/marshmallows-4/people",
-    "https://www.ravelry.com/patterns/library/marshmallows-4/comments",
-    "https://www.ravelry.com/patterns/library/knitted-sushi",
-    "https://www.ravelry.com/patterns/library/marshmallows-4/editors",
-    "https://www.ravelry.com/patterns/library/pumpkin-spice-latte-10",
-    "https://www.ravelry.com/patterns/library/marshmallows-4/report"
-  ]
+    "https://www.ravelry.com/patterns/library/grinch-15/comments",
+    "https://www.ravelry.com/patterns/library/grinch-15/yarns",
+    "https://www.ravelry.com/patterns/library/grinch-15",
+    "https://www.ravelry.com/patterns/sources/polushkabunny-website",
+    "https://www.ravelry.com/patterns/library/grinch-15/threads",
+    "https://www.ravelry.com/patterns/library/grinch-15/people",
+    "https://www.ravelry.com/patterns/library/goose-toy",
+    "https://www.ravelry.com/patterns/library/baby-duck-806",
+    "https://www.ravelry.com/patterns/library/grinch-15/report",
+    "https://www.ravelry.com/patterns/library/large-monkey-2",
+    "https://www.ravelry.com/patterns/library/grinch-15/editors"
+  ],
+  "name": "Ravelry: Grinch pattern by Maria Ermolova"
 }

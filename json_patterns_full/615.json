@@ -1,38 +1,40 @@
 {
   "pattern_id": 615,
-  "pattern_page": "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-daily-wool-worsted",
+  "pattern_page": "https://www.ravelry.com/patterns/library/henrys-toy-snake",
+  "name": "Henry's Toy Snake",
+  "description": "Also needed:",
+  "designer": "Monnibo Designs",
   "craft": "Knitting",
-  "category": "Blanket → Throw Blanket → Baby Blanket",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "Crib (Throw)",
+  "category": "Pet → Toys",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Purl Soho Daily Wool Worsted",
+    "TLC Essentials Solid",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "rectangle",
-    "stripes-colorwork",
+    "one-piece",
+    "seamed",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "MATERIALS To make your own Crib (Throw) size blanket, you’ll need… 1 (2) of Purl Soho’s Super Easy Baby Blanket in Daily Wool Worsted Bundles . One bundle includes 7 skeins of Daily Wool Worsted , 100% superwash wool yarn. Each skein of this worsted/aran-weight yarn is 164 yards/ 100 grams; approximately 1,148 (2,290) total yards required. We used the Tea Party, Patio, and Swimming Hole bundles for our samples. You’ll also need… US 8 (5 mm), 32- or 40-inch circular needles GAUGE 18 stitches and 36 rows (18 ridges) = 4 inches in garter stitch SIZES Crib (Throw) Finished Dimensions: 30 inches wide x 35¾ inches long (40 inches wide x 49 inches long) Samples: We knit the Crib size. Prefer to crochet this blanket instead? We’ve also designed a crochet version !",
+  "full_text": "Also needed: Fibre fill Small amounts of black yarn / or 2 buttons Small amount of red yarn (tongue) Optional: catnip",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/crochet-super-easy-baby-blanket-in-daily-wool",
-    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-daily-wool-worsted/people",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-daily-wool-worsted",
-    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-daily-wool-worsted/editors",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-daily-wool-worsted/report",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-daily-wool-worsted/comments",
-    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-daily-wool-worsted/yarns"
-  ],
-  "name": "Ravelry: Super Easy Baby Blanket in Daily Wool Worsted pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/people",
+    "https://www.ravelry.com/patterns/library/snowflake-dishcloth-4",
+    "https://www.ravelry.com/patterns/library/eyelet-capelet",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/threads",
+    "https://www.ravelry.com/patterns/sources/monnibo-designs",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/report",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/editors",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/comments",
+    "https://www.ravelry.com/patterns/library/hot-water-bottle-cosy",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/yarns",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/posts"
+  ]
 }

@@ -1,38 +1,36 @@
 {
   "pattern_id": 1484,
-  "pattern_page": "https://www.ravelry.com/patterns/library/little-cottage",
-  "name": "Little Cottage",
-  "description": "Little Cottage is a pattern for very quick home decorative project. You may knit it both for yourself and as a gift.",
-  "designer": "Aga Tutak",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tasha",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "7/5,5 cm",
+  "category": "Bag → Purse / Handbag Bag → Messenger",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Karisma",
-    "DK (11 wpi) ?"
+    "Rowan Denim",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "written-pattern"
+    "other-edging"
   ],
-  "full_text": "Little Cottage is a pattern for very quick home decorative project. You may knit it both for yourself and as a gift. Yarn needed : Drops Karisma no. 72 (about 5 - 7 metres), Drops Karisma no. 60 (about 5 metres) or two contrast colours of any DK yarn, a little bit of black thread for window embroidery. Materials needed : double pointed needles size 2.5; durning needle, stitch marker, twine, little carabiner, decorative pendant.",
+  "full_text": "Description from Knitty, Summer 2003: I designed this bag to wear slung across the chest, keeping your hands free. Perhaps it can carry your latest small project to the shore or to the park on a Saturday morning. Tasha could even hold your yarn while you stand and knit, waiting for the train or the weekend beach bus. The denim yarn wears well and has a faded, comfortable look. The Loose Five-Rib Braid Cable was taken from Barbara Walker's Second Treasury of Knitting Patterns .",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/striped-stuffed-heart",
-    "https://www.ravelry.com/patterns/library/little-cottage",
-    "https://www.ravelry.com/patterns/library/little-cottage/editors",
-    "https://www.ravelry.com/patterns/library/little-cottage/threads",
-    "https://www.ravelry.com/patterns/library/little-cottage/people",
-    "https://www.ravelry.com/patterns/library/little-cottage/report",
-    "https://www.ravelry.com/patterns/sources/aga-tutaks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/agas-knitted-christmas-tree",
-    "https://www.ravelry.com/patterns/library/easter-egg-36",
-    "https://www.ravelry.com/patterns/library/little-cottage/yarns",
-    "https://www.ravelry.com/patterns/library/little-cottage/comments"
-  ]
+    "https://www.ravelry.com/patterns/library/tasha/people",
+    "https://www.ravelry.com/patterns/library/tasha/threads",
+    "https://www.ravelry.com/patterns/library/accordion-toddler-version",
+    "https://www.ravelry.com/patterns/library/tasha/editors",
+    "https://www.ravelry.com/patterns/library/tasha/yarns",
+    "https://www.ravelry.com/patterns/library/tasha/report",
+    "https://www.ravelry.com/patterns/library/accordion-adult-version",
+    "https://www.ravelry.com/patterns/library/sprout",
+    "https://www.ravelry.com/patterns/sources/knitty-summer-2003",
+    "https://www.ravelry.com/patterns/library/tasha/posts",
+    "https://www.ravelry.com/patterns/library/tasha",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/tasha/comments"
+  ],
+  "name": "Ravelry: Tasha pattern by Leigh Spencer"
 }

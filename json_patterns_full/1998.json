@@ -1,39 +1,36 @@
 {
   "pattern_id": 1998,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mitten-topz",
-  "name": "Mitten Topz",
-  "description": "Sometimes fingerless mitts are great, sometimes you’re finger tips want to be warm! Attach these fun mitten topz to keep warm! The thumb is still available for texting!",
-  "designer": "Melissa Sibley Designs",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "category": "Ball",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Plymouth Yarn Baby Alpaca Grande",
-    "Bulky (7 wpi) ?"
+    "Lily (Spinrite) Sugar'n Cream Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "buttonholes",
-    "one-piece",
-    "seamless",
-    "written-pattern"
+    "in-the-round",
+    "seamless"
   ],
-  "full_text": "Sometimes fingerless mitts are great, sometimes you’re finger tips want to be warm! Attach these fun mitten topz to keep warm! The thumb is still available for texting!",
+  "full_text": "This is a super simple hacky sack pattern that I slapped together to use up some of my old cotton bits and pieces. You can make the sack of one kind of yarn or do stripes, go crazy! Make a million, I’m well on my way to that!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mitten-topz/editors",
-    "https://www.ravelry.com/patterns/library/atlantic-current-socks",
-    "https://www.ravelry.com/patterns/library/pedestrian-crossing-cowl",
-    "https://www.ravelry.com/patterns/library/mitten-topz/people",
-    "https://www.ravelry.com/patterns/library/mitten-topz/threads",
-    "https://www.ravelry.com/patterns/library/farmington-hills-lace-cloth",
-    "https://www.ravelry.com/patterns/library/mitten-topz",
-    "https://www.ravelry.com/patterns/library/mitten-topz/report",
-    "https://www.ravelry.com/patterns/library/mitten-topz/comments",
-    "https://www.ravelry.com/patterns/sources/keegan-lane-designs",
-    "https://www.ravelry.com/patterns/library/mitten-topz/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/proton-stream-convergence",
+    "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/report",
+    "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/editors",
+    "https://www.ravelry.com/patterns/sources/diagnosis-knitter",
+    "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/yarns",
+    "https://www.ravelry.com/patterns/library/pea-pod-snuggle-sack",
+    "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack",
+    "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/comments",
+    "http://diagnosisknitter.wordpress.com/2011/07/10/im-so-lazy-heres-a-hacky-sack-pattern/",
+    "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/people",
+    "https://www.ravelry.com/patterns/library/the-all-good-hacky-sack/threads",
+    "https://www.ravelry.com/patterns/library/four-cables-slouch"
+  ],
+  "name": "Ravelry: The All Good Hacky Sack pattern by Gillian Kratzer"
 }

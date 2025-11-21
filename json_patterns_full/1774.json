@@ -1,49 +1,42 @@
 {
   "pattern_id": 1774,
-  "pattern_page": "https://www.ravelry.com/patterns/library/book-of-knitty",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bewind-hat",
+  "name": "Bewind Hat",
+  "description": "HELPFUL NOTES:",
+  "designer": "Lynnell Koser",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "Child (Adult S/M, Adult L, Adult XL)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lily (Spinrite) Sugar'n Cream Solids"
+    "Yarn Hero Fiber Arts Merge Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "cables",
-    "chart",
-    "dropped-stitches",
-    "duplicate-stitch",
-    "embroidery",
-    "eyelets",
+    "adult",
+    "child",
     "in-the-round",
-    "other-colorwork",
-    "rectangle",
-    "ribbed",
-    "seamed",
-    "worked-flat",
-    "written-pattern"
+    "seamless",
+    "slipped-stitches",
+    "teen",
+    "twisted-stitches"
   ],
-  "full_text": "",
+  "full_text": "HELPFUL NOTES: These are the answers to the questions I am asked over and over. Hopefully this will help for smooth knitting. :smiley: After you work your ribbing, make sure you work the Set Up Round. In order to get the swirl, you have to start with an odd number of stitches. The SETUP ROUND will bring your stitch count to an odd number if you are not there already. When you begin the twisted stitch repeats, you are going to have 1 stitch left before the marker. You will IGNORE the marker from here on out! If you feel like the marker is going to be a mental block, (it can also be a pain when you have to twist where the marker is), then use a removable marker a row or two down instead, and just move it up a few rows at a time until you are ready to start the crown. The Bewind Hat uses a simple twisted stitch pattern to create a lovely winding motif that spirals its way up to the top of the crown. If you can work a knit 2 together (k2tog), then you can knit the twisted stitch. Beginner friendly! Choose one skein of your favorite worsted weight yarn and you’ll have a new favorite winter hat in no time!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/grow-with-me",
-    "https://www.ravelry.com/patterns/library/book-of-knitty/report",
-    "https://www.ravelry.com/patterns/library/book-of-knitty/threads",
-    "https://www.ravelry.com/patterns/sources/knitty-winter-2006",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/book-of-knitty/posts",
-    "https://www.ravelry.com/patterns/library/halweh",
-    "https://www.ravelry.com/patterns/library/cloverly",
-    "https://www.ravelry.com/patterns/library/book-of-knitty/yarns",
-    "https://www.ravelry.com/patterns/library/book-of-knitty",
-    "https://www.ravelry.com/patterns/library/book-of-knitty/editors",
-    "https://www.ravelry.com/patterns/library/book-of-knitty/people",
-    "https://www.ravelry.com/patterns/library/book-of-knitty/comments"
-  ],
-  "name": "Ravelry: Book of Knitty pattern by Laura Brown"
+    "https://www.ravelry.com/patterns/library/bewind-hat/editors",
+    "https://www.ravelry.com/patterns/library/bewind-hat/people",
+    "https://www.ravelry.com/patterns/library/bewind-hat/report",
+    "https://www.ravelry.com/patterns/sources/yarn-hero-fiber-arts",
+    "https://www.ravelry.com/patterns/library/bewind-hat/comments",
+    "https://www.ravelry.com/patterns/library/bewind-hat/threads",
+    "https://www.ravelry.com/patterns/library/forward-march",
+    "https://www.ravelry.com/patterns/library/gridster-cowl-2",
+    "https://www.ravelry.com/patterns/library/bewind-hat/yarns",
+    "https://www.ravelry.com/patterns/library/bewind-hat"
+  ]
 }

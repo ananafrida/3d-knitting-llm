@@ -1,41 +1,38 @@
 {
   "pattern_id": 562,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gluckskind-2",
-  "name": "Glückskind",
-  "description": "Glückskind ist eine Babydecke aus Merino HighTwist. Dieses Garn ist weich, in der Maschine im Wollwaschgang waschbar und somit super für unser Baby geeignet.",
-  "designer": "knitcats Design",
+  "pattern_page": "https://www.ravelry.com/patterns/library/easy-peasy-string-bag",
+  "name": "Easy-peasy string bag",
+  "description": "This string bag is extremely simple to make, it knits up in just a few hours. The secret is how it expands when you’re done, the bag will treble in size! It is perfect for produce or as a gift bag. It is loose and stretchy, so will hold a surprising amount.",
+  "designer": "Sarah Smithies",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "ca. 80 x 80 cm",
+  "category": "Containers",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
   "languages": [
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Zitron Wolkenspiel"
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
+    "bottom-up",
+    "dropped-stitches",
     "in-the-round",
-    "textured"
+    "mesh",
+    "one-piece",
+    "seamless",
+    "three-needle-bind",
+    "top-down"
   ],
-  "full_text": "Glückskind is a baby blanket made from Merino HighTwist. This yarn is soft, machine washable on the wool cycle and therefore great for our baby. The blanket is started in the middle and knitted outwards using increases and different patterns. This makes the blanket square and the same length on all sides. After washing (in the machine) my blanket is 80 cm square. Just right for the little lucky child.",
-  "techniques": [
-    "increases"
-  ],
+  "full_text": "This string bag is extremely simple to make, it knits up in just a few hours. The secret is how it expands when you’re done, the bag will treble in size! It is perfect for produce or as a gift bag. It is loose and stretchy, so will hold a surprising amount. This pattern is very forgiving, tension is not important as the bag is made to be very loose and stretchy. It uses a 3-needle bind-off, but a normal bind-off can be used and the bottom of the bag sewn together if preferred. The pattern calls for 4-ply yarn, but will work with any light-weight yarn, perfect for using up scraps!",
+  "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/florentines-ravelry-store",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/editors",
-    "https://www.ravelry.com/patterns/library/armelitas",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/people",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/comments",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/report",
-    "https://www.ravelry.com/patterns/library/marktfrauen-handschuhe",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/threads",
-    "https://www.ravelry.com/patterns/library/gluckskind-2",
-    "https://www.ravelry.com/patterns/library/lebensfreude",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/yarns"
+    "https://www.ravelry.com/patterns/sources/sarah-smithies-ravelry-store",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/comments",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/editors",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/yarns",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/report",
+    "https://www.ravelry.com/patterns/library/easy-peasy-string-bag/people"
   ]
 }

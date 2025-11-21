@@ -1,36 +1,47 @@
 {
   "pattern_id": 2195,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fu-manchu-mustache",
+  "pattern_page": "https://www.ravelry.com/patterns/library/little-elf-baby-hat",
   "craft": "Knitting",
-  "category": "Costume",
-  "sizes_available": "one size",
+  "category": "Hat → Pixie",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "newborn baby & premature baby",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "icord",
+    "baby",
+    "bottom-up",
+    "doll-size",
+    "female",
+    "male",
+    "newborn-size",
+    "one-piece",
+    "preemie",
+    "seamed",
+    "stripes-colorwork",
     "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "Just how cute would a newborn look in one of these little Elf Hats? Super cute! This is a fun hat for a newborn baby Requires - DK yarn (8ply) ~ around 12g for the small size, 16g for newborn 3.25mm & 4mm needles A small pom-pom Use 1,2 or 3 colours in stripes - or knit without the stripes if you prefer Have fun :) To get this free pattern please click on the https link just below ↓",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/people",
-    "https://www.ravelry.com/patterns/sources/sweet-little-domestic-life",
-    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/threads",
-    "https://www.ravelry.com/patterns/library/this-cosy-is-da-bomb",
-    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/report",
-    "https://www.ravelry.com/patterns/library/fu-manchu-mustache",
-    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/editors",
-    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/comments",
-    "https://www.ravelry.com/patterns/library/sock-wave-head-scarf",
-    "https://www.ravelry.com/patterns/library/pajaki",
-    "https://www.ravelry.com/patterns/library/fu-manchu-mustache/yarns"
+    "https://www.ravelry.com/patterns/library/mariannas-little-baby-trousers",
+    "https://www.ravelry.com/patterns/library/grace-baby-hat",
+    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
+    "https://www.ravelry.com/patterns/library/little-elf-baby-hat/comments",
+    "https://www.ravelry.com/patterns/library/little-elf-baby-hat/editors",
+    "https://www.ravelry.com/patterns/library/little-elf-baby-hat/report",
+    "https://www.ravelry.com/patterns/library/duet-baby-hat",
+    "https://www.ravelry.com/patterns/library/little-elf-baby-hat/yarns",
+    "https://www.ravelry.com/patterns/library/little-elf-baby-hat/threads",
+    "https://www.ravelry.com/patterns/library/little-elf-baby-hat/people",
+    "https://www.ravelry.com/patterns/library/little-elf-baby-hat"
   ],
-  "name": "Ravelry: Fu Manchu Mustache pattern by Robyn Wade"
+  "name": "Ravelry: LITTLE ELF Baby Hat pattern by marianna mel"
 }

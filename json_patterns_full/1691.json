@@ -1,54 +1,41 @@
 {
   "pattern_id": 1691,
-  "pattern_page": "https://www.ravelry.com/patterns/library/lille-crispin",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fall-harvest-3",
+  "name": "Fall Harvest",
+  "description": "Let’s knit a bushel of fall fruits! This fun, free pattern offers two gourd-geous shape variations. Knit the apple with horizontal stitches, or try the vertical pumpkin pattern, perfect for showcasing self-striping yarn that’ll have your project looking like the pick of the patch. Once the knitting is complete, stick a small branch or cinnamon stick into the center for a fabulous finish. Worked in Luv &amp; Lee by Zitron, there should be enough yarn in each 50g ball to make two pieces. Embrace the fall vibes and add a touch of coziness to your home with a collection of these high-fiber fruits.",
+  "designer": "Makers' Mercantile",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "3 months (6 months) 1year (2years)",
+  "category": "Decorative → Other",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "about 3.5\" diameter x 2.5\" high",
   "languages": [
-    "Danish",
-    "English",
-    "German",
-    "Norwegian",
-    "Swedish",
-    "...and 5 other languages show hide other languages",
-    "...and 5 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Light Fingering ?",
-    "Filcolana Anina"
+    "Aran (8 wpi) ?",
+    "Zitron luv & lee"
   ],
   "attributes": [
-    "baby",
-    "chart",
-    "raglan-sleeve",
-    "seamless",
-    "textured",
-    "toddler",
-    "top-down",
-    "worked-flat",
-    "written-pattern"
+    "one-piece",
+    "seamed",
+    "worked-flat"
   ],
-  "full_text": "Here is a much underplayed circus theme. Just like in Crispin, the subtle harlequin pattern appears, creating a classic baby and children's cardigan that can easily be used for both girls and boys. Workflow: Lille Crispin is knitted flat, from the top and down. First sts are cast on for the rib, and next the yoke is worked in structured pattern with raglan increases. Then the sleeve stitches rest while the body is finished in structured pattern and finished with a rib edge. Finally, sleeves are worked with decreases and finished with a rib edge. Here the circus theme is implemented a little more subtly. As with the Crispin version for adults, the structural pattern is reminiscent of the harlequin suits, but the calm colors and constant repetition of the pattern give the baby and children's cardigan a classic expression. It can be worn by both girls and boys. Elaboration: Lille Crispin is worked in rows from top to bottom. First, stitches are cast on for the ribbed cuff and the yoke is made in a structured pattern with raglan increases. The sleeve stitches are then put aside and the torso is worked downwards. The sleeves are knitted with decreases and finished with a ribbed cuff. Her er et helt underspillet circustema. This is the Crispin's harlequin jacket, and it's a classic baby and børne cardigan, but it can't be worn until it's bad and drenched. Work: Lille Crispin strictly oppefra og ned, frem og tilbage. The slås op til ribkant, and bærestykket strikkes in strukturmønster med raglanudtagninger. Hereafter hviler ærmernes masker, mens kroppen strikkes lige ned in structuration monsters and afsluttes with a ribbed. Ærmerne strikes with indtagninger and afsluttes with en ribkant.",
+  "full_text": "Let’s knit a bushel of fall fruits! This fun, free pattern offers two gourd-geous shape variations. Knit the apple with horizontal stitches, or try the vertical pumpkin pattern, perfect for showcasing self-striping yarn that’ll have your project looking like the pick of the patch. Once the knitting is complete, stick a small branch or cinnamon stick into the center for a fabulous finish. Worked in Luv & Lee by Zitron, there should be enough yarn in each 50g ball to make two pieces. Embrace the fall vibes and add a touch of coziness to your home with a collection of these high-fiber fruits. This project is worked flat using the following techniques: • Long tail cast on • Knit/Purl • Simple finishing Want the yarn to make these fall fruits? We used Luv & Lee; a wonderful 100% merino single ply yarn that also happens to be on clearance! Get it HERE .",
   "techniques": [
-    "decreases",
-    "increases"
+    "worked flat"
   ],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lille-crispin/comments",
-    "https://www.ravelry.com/patterns/library/lille-crispin/yarns",
-    "https://www.ravelry.com/patterns/library/lille-crispin/report",
-    "https://www.ravelry.com/patterns/library/lille-crispin/threads",
-    "https://www.ravelry.com/patterns/library/lille-crispin/editors",
-    "https://www.ravelry.com/patterns/library/dinard-2",
-    "https://www.ravelry.com/patterns/sources/filcolana",
-    "https://www.ravelry.com/patterns/library/thorsminde",
-    "https://www.ravelry.com/patterns/library/lille-crispin",
-    "https://www.ravelry.com/patterns/library/lille-crispin/people",
-    "https://www.ravelry.com/patterns/library/arni-6",
-    "https://www.ravelry.com/patterns/sources/into-the-circus---filcolana-ss22"
-  ],
-  "name": "Ravelry: Lille Crispin pattern by Rachel Søgaard"
+    "https://www.ravelry.com/patterns/library/fall-harvest-3/report",
+    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7",
+    "https://www.ravelry.com/patterns/library/progress-pride-wristband",
+    "https://www.ravelry.com/patterns/sources/makers-mercantile",
+    "https://www.ravelry.com/patterns/library/fall-harvest-3/threads",
+    "https://www.ravelry.com/patterns/library/fall-harvest-3/editors",
+    "https://www.ravelry.com/patterns/library/silk-rope-summer-cowl",
+    "https://www.ravelry.com/patterns/library/fall-harvest-3/comments",
+    "https://www.ravelry.com/patterns/library/fall-harvest-3/yarns",
+    "https://www.ravelry.com/patterns/library/fall-harvest-3",
+    "https://www.ravelry.com/patterns/library/fall-harvest-3/people"
+  ]
 }

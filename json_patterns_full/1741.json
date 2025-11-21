@@ -1,38 +1,41 @@
 {
   "pattern_id": 1741,
-  "pattern_page": "https://www.ravelry.com/patterns/library/goostavo-porch-goose-sweater",
-  "name": "Goostavo Porch Goose Sweater",
-  "description": "I just got into the Porch Goose craze, so when I received my goose for Christmas, I wanted to make him a sweater ASAP. I’m a bit PSU fan, so I added the lettering from a cross stitch design website, however this pattern is so easy, it can be modified in many different ways.",
-  "designer": "Amanda J. Smith",
+  "pattern_page": "https://www.ravelry.com/patterns/library/wool-standard-hat",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "Goose Size",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Baby/Toddler (Kid/Adult Small, Adult Medium/Large)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Red Heart Super Saver (solids)"
+    "Purl Soho Big Mountain Cormo Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "adult",
+    "baby",
+    "bottom-up",
+    "child",
+    "in-the-round",
     "ribbed",
-    "rolled",
-    "unisex"
+    "toddler",
+    "written-pattern"
   ],
-  "full_text": "I just got into the Porch Goose craze, so when I received my goose for Christmas, I wanted to make him a sweater ASAP. I’m a bit PSU fan, so I added the lettering from a cross stitch design website, however this pattern is so easy, it can be modified in many different ways. Please let me know if there are any errors. I was “winging” it (tee hee) and I would love to improve where possible. Post your pictures and let me see your warm porch geese!",
+  "full_text": "MATERIALS 1 (2, 2) skein(s) of Purl Soho and Earthstar Farm’s Big Mountain Cormo Worsted , 100% undyed Cormo wool yarn. Each skein of this worsted/aran-weight yarn is 110 yards/ 50 grams; approximately 110 (185, 220) total yards required. We knit a sample in every color! US 6 (4 mm) 12- or 16-inch circular knitting needles OR US 6, 32-inch circular needles for Magic Loop If using short circular needles: A set of US 6 double pointed needles Stitch markers , including one unique GAUGE 20 stitches and 29 rounds = 4 inches in stockinette stitch 22 stitches and 34 rounds = 4 inches in 3×3 rib stitch SIZES For help choosing a hat size, check out our complete guide on How to Knit the Right Hat Size ! Baby/Toddler (Kid/Adult Small, Adult Medium/Large) To fit actual head circumference of 14–17 (17–20, 20–23) inches Finished Body Circumference: 14½ (18, 21½) inches Finished Cuff Circumference: 13 (16¼, 19¾) inches, with stretch Finished Height: 8½ (11½, 12) inches, uncuffed Samples: We knit the Baby/Toddler size in the colors Swan and Merlin, and the Kid/Adult Small size in the colors Dove, Eiderdown, and Raven Pattern designed and written by Purl Soho designer, Gianna Mueller . See even more of Gianna’s work on her Instagram !",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/goostavo-porch-goose-sweater/editors",
-    "https://www.ravelry.com/patterns/library/wicker-pattern-mittens",
-    "https://www.ravelry.com/patterns/library/goostavo-porch-goose-sweater/comments",
-    "https://www.ravelry.com/patterns/library/goostavo-porch-goose-sweater/yarns",
-    "https://www.ravelry.com/patterns/library/goostavo-porch-goose-sweater",
-    "https://www.ravelry.com/patterns/library/diamond-brocade-baby-blanket",
-    "https://www.ravelry.com/patterns/library/goostavo-porch-goose-sweater/report",
-    "https://www.ravelry.com/patterns/library/baby-gingham-hat",
-    "https://www.ravelry.com/patterns/sources/amanda-j-smiths-ravelry-store",
-    "https://www.ravelry.com/patterns/library/goostavo-porch-goose-sweater/people"
-  ]
+    "https://www.ravelry.com/patterns/library/easy-heel-colorblock-socks-in-fine-print",
+    "https://www.ravelry.com/patterns/library/wool-standard-hat/editors",
+    "https://www.ravelry.com/patterns/library/wool-standard-hat",
+    "https://www.ravelry.com/patterns/library/wool-standard-hat/people",
+    "https://www.ravelry.com/patterns/library/big-cuff-hat",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/wool-standard-hat/yarns",
+    "https://www.ravelry.com/patterns/library/wool-standard-hat/report",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/wool-standard-hat/comments"
+  ],
+  "name": "Ravelry: Wool Standard Hat pattern by Purl Soho"
 }

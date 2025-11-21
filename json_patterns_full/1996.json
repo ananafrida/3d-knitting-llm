@@ -1,35 +1,47 @@
 {
   "pattern_id": 1996,
-  "pattern_page": "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes",
+  "pattern_page": "https://www.ravelry.com/patterns/library/celestine",
   "craft": "Knitting",
-  "category": "Components → Other",
+  "category": "Ball",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "about 10\" point to point",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Fingering (14 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Berroco Ultra Alpaca Light"
   ],
   "attributes": [
-    "other-toe",
-    "top-down"
+    "3-dimensional",
+    "in-the-round",
+    "modular",
+    "seamless",
+    "written-pattern"
   ],
-  "full_text": "These are instructions for making the toes of socks so that they fit well on people whose big toes are longer than the rest of their toes.",
+  "full_text": "It’s a stellated dodecahedron! Celestine is a dodecahedron star that is a tree topper or stuffed toy. Description and photos at Knitting Daily",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/persnickety-knitter",
-    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/people",
-    "https://www.ravelry.com/patterns/library/zigzag-lace-scarf",
-    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/report",
-    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/threads",
-    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/comments",
-    "https://www.ravelry.com/patterns/library/brioche-stitch-ritratto-scarf",
-    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/editors",
-    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/yarns",
-    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes",
-    "https://www.ravelry.com/patterns/library/arrowhead-lace-headband",
-    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/posts"
+    "https://www.ravelry.com/patterns/sources/knitting-daily-tv-website",
+    "https://www.ravelry.com/patterns/sources/interweave-online-store--website",
+    "https://www.ravelry.com/patterns/library/celestine/people",
+    "https://www.ravelry.com/patterns/sources/knitting-gifts-4-one-skein-knitting-patterns--3-bonus-holiday-projects",
+    "https://www.ravelry.com/patterns/library/morahan",
+    "https://www.ravelry.com/patterns/sources/berroco-website",
+    "https://www.ravelry.com/patterns/library/lamina-5",
+    "https://www.ravelry.com/patterns/library/celestine/yarns",
+    "https://www.ravelry.com/patterns/library/celestine/editors",
+    "https://www.ravelry.com/patterns/sources/knitting-daily-website",
+    "https://www.ravelry.com/patterns/sources/knitting-daily-tv-series-200-free-knitting-patterns",
+    "https://www.ravelry.com/patterns/library/bolin-cardigan",
+    "https://www.ravelry.com/patterns/library/celestine/comments",
+    "https://berroco.com/patterns/celestine/",
+    "https://www.ravelry.com/patterns/library/celestine",
+    "https://www.ravelry.com/patterns/library/celestine/report",
+    "https://www.ravelry.com/patterns/library/celestine/threads",
+    "https://www.ravelry.com/patterns/library/celestine/posts",
+    "https://www.ravelry.com/patterns/periodicals/berroco"
   ],
-  "name": "Ravelry: Anatomically Correct Sock Toes pattern by Tamara Stone-Snyder"
+  "name": "Ravelry: Celestine pattern by Norah Gaughan"
 }

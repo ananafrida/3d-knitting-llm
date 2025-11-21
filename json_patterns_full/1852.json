@@ -1,40 +1,35 @@
 {
   "pattern_id": 1852,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hillman-felted-vessels",
-  "name": "Hillman Felted Vessels",
-  "description": "Knit with 100% Fine Highland Wool, when felted and air dried, this piece takes on a beautiful organic vessel shape. Add color as desired to create your perfect trio.",
-  "designer": "J.H. Walter",
+  "pattern_page": "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
-  "sizes_available": "Small (Large)",
+  "category": "Components → Other",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Blue Sky Fibers Woolstok Worsted",
-    "yarn held together"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "felted",
-    "written-pattern"
+    "other-toe",
+    "top-down"
   ],
-  "full_text": "Knit with 100% Fine Highland Wool, when felted and air dried, this piece takes on a beautiful organic vessel shape. Add color as desired to create your perfect trio. Vessels are worked with two strands of yarn held together throughout changing colors as desired.The small vessel used approximately 27 grams and the large vessel used approximately 30 grams. EXPERIENCE LEVEL Advanced Beginner MATERIALS Woolstok (Worsted) (100% Fine Highland Wool); 50g/123yds): 3 hanks Stitch marker Tapestry needle FINISHED MEASUREMENTS Outside circumference felted: 10 (12)” Outside height felted: 2½ (3)” COLORS SHOWN Highland Fleece No. 1303 Gravel Road No. 1302 Ember Glow No. 1323",
+  "full_text": "These are instructions for making the toes of socks so that they fit well on people whose big toes are longer than the rest of their toes.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/editors",
-    "https://www.ravelry.com/patterns/library/tulsa-tank",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/report",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
-    "https://www.ravelry.com/patterns/library/linda-hat-2",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/yarns",
-    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/urbana-scarf",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/comments",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/edit",
-    "https://www.ravelry.com/patterns/library/hillman-felted-vessels/people"
-  ]
+    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/threads",
+    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/posts",
+    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes",
+    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/editors",
+    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/report",
+    "https://www.ravelry.com/patterns/library/zigzag-lace-scarf",
+    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/yarns",
+    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/comments",
+    "https://www.ravelry.com/patterns/library/brioche-stitch-ritratto-scarf",
+    "https://www.ravelry.com/patterns/sources/persnickety-knitter",
+    "https://www.ravelry.com/patterns/library/arrowhead-lace-headband",
+    "https://www.ravelry.com/patterns/library/anatomically-correct-sock-toes/people"
+  ],
+  "name": "Ravelry: Anatomically Correct Sock Toes pattern by Tamara Stone-Snyder"
 }

@@ -1,37 +1,41 @@
 {
   "pattern_id": 2062,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ruffley-cushion-cover",
+  "pattern_page": "https://www.ravelry.com/patterns/library/screwball",
+  "name": "Screwball",
+  "description": "You can use whatever yarn you would like for this pattern. The smaller the yarn, the smaller the toy. Use the smallest recommended needle for the yarn (see yarn packaging).",
+  "designer": "Melanie Hoffman",
   "craft": "Knitting",
-  "category": "Pillow Components → Other",
+  "category": "Ball",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Grapefruit sized",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "appliqued",
-    "rectangle",
-    "ruffles",
-    "square",
+    "3-dimensional",
+    "modular",
     "stripes-colorwork",
-    "worked-flat"
+    "written-pattern"
   ],
-  "full_text": "A bit of a knit and sew combination… dead simple but very effective textured ruffley cushion covers, if you are bored of making scarves from your ruffle wool and need something else to do.",
+  "full_text": "You can use whatever yarn you would like for this pattern. The smaller the yarn, the smaller the toy. Use the smallest recommended needle for the yarn (see yarn packaging).",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ruffley-cushion-cover/yarns",
-    "https://www.ravelry.com/patterns/library/strawberry-plant-pot-cosy",
-    "https://www.ravelry.com/patterns/library/ruffley-cushion-cover/editors",
-    "https://www.ravelry.com/patterns/sources/stratagem-addict",
-    "https://www.ravelry.com/patterns/library/wedding-heart",
-    "https://www.ravelry.com/patterns/library/ruffley-cushion-cover/comments",
-    "https://www.ravelry.com/patterns/library/ruffley-cushion-cover/report",
-    "https://www.ravelry.com/patterns/library/ruffley-cushion-cover",
-    "https://www.ravelry.com/patterns/library/secret-santa-gift-pouch",
-    "https://www.ravelry.com/patterns/library/ruffley-cushion-cover/people"
-  ],
-  "name": "Ravelry: Ruffley Cushion Cover pattern by Gemma Pickford-Waugh"
+    "https://www.ravelry.com/patterns/library/screwball/threads",
+    "https://www.ravelry.com/patterns/library/screwball/yarns",
+    "https://www.ravelry.com/patterns/library/screwball/editors",
+    "https://www.ravelry.com/patterns/library/screwball",
+    "https://www.ravelry.com/patterns/library/slobber-soaker",
+    "https://www.ravelry.com/patterns/sources/adorabubble-knits",
+    "https://www.ravelry.com/patterns/library/screwball/comments",
+    "https://www.ravelry.com/patterns/sources/melanie-hoffmans-ravelry-store",
+    "https://www.ravelry.com/patterns/library/screwball/report",
+    "https://www.ravelry.com/patterns/library/on-the-sunny-side",
+    "https://www.ravelry.com/patterns/library/adorabubble-baby-britches",
+    "https://www.ravelry.com/patterns/library/screwball/people"
+  ]
 }

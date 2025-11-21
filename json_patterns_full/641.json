@@ -1,69 +1,43 @@
 {
   "pattern_id": 641,
-  "pattern_page": "https://www.ravelry.com/patterns/library/b21-34-alladin",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fetch-",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
-  "sizes_available": "1/3 - 6/9 - 12/18 months (2 - 3/4) years",
+  "category": "Pet → Toys",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "5 1/2\"",
   "languages": [
-    "Czech",
-    "Danish",
-    "Dutch",
-    "English",
-    "Estonian",
-    "Finnish",
-    "French",
-    "German",
-    "Hungarian",
-    "Icelandic",
-    "Italian",
-    "Norwegian",
-    "Polish",
-    "Portuguese",
-    "Spanish",
-    "Swedish",
-    "...and 16 other languages show hide other languages",
-    "...and 16 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Alpaca",
-    "Sport (12 wpi) ?"
+    "Lily (Spinrite) Sugar'n Cream Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
-    "icord",
-    "newborn-size",
+    "3-dimensional",
+    "kitchener",
     "seamed",
-    "tied",
-    "toddler",
-    "unisex",
-    "video-tutorial",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Knitted hat for baby and children in DROPS Alpaca ~~~~~~~~~~~~~~~~~~~~~~~~ DROPS design: Pattern no Z-085-by Yarn group A HAT : Size : 1/3 - 6/9 - 12/18 months (2 - 3/4) years Fits head circumference in cm: 40/42-42/44-44/46 (48/50-50/52) / 16’’-17’’-18’’ (19’’-20’’) Materials : DROPS ALPACA from Garnstudio Color no 607m, eco light brown: 50 g for all sizes DROPS STRAIGHT NEEDLES size 2.5 mm / US 1 or 2 - or size needed to get correct gauge.",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/b21-34-alladin/threads",
-    "https://www.ravelry.com/patterns/library/b21-34-alladin/report",
-    "https://www.ravelry.com/patterns/library/b21-34-alladin",
-    "https://www.ravelry.com/patterns/library/b21-33-viggo",
-    "https://www.ravelry.com/patterns/library/b21-34-alladin/posts",
-    "http://www.garnstudio.com/lang/us/pattern.php?id=5433&lang=us",
-    "https://www.ravelry.com/patterns/library/b16-26-tiny-toes",
-    "https://www.ravelry.com/patterns/library/b21-34-alladin/people",
-    "https://www.ravelry.com/patterns/library/b21-34-alladin/edit",
-    "https://www.ravelry.com/patterns/periodicals/drops-baby--children",
-    "https://www.ravelry.com/patterns/library/b21-34-alladin/yarns",
-    "https://www.ravelry.com/patterns/sources/drops-baby-21",
-    "https://www.ravelry.com/patterns/sources/familiens-strikkebok-august-2012",
-    "https://www.ravelry.com/patterns/library/b21-35-baby-booties",
-    "https://www.ravelry.com/patterns/library/b21-34-alladin/comments",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/b21-34-alladin/editors"
+  "full_text": "Blogged Here: http://krisknits.blogspot.com/2009/04/fetch.html Everyone I know loves knitting for their pets. This is a fast and easy to follow pattern that uses simple increases and decreases then seaming up with mattress stitch. Great for a beginner that is looking to practice some shaping. The pattern is also easily adaptable for larger dogs. Just add more stitches to the cast on areas and then increase the number of rows that you knit in plain stockingnet stitch for a longer bone. A note about Fetch! and any other handmade toy that you use with your pets: This toy is intended to be used only with owner’s supervision. Do not leave your pet unattended with such toys because if ripped apart or damaged it could pose as a choking hazard. Check toy regularly for signs of wear and replace if necessary. (They’re very fast to make!) Fetch! © KrisKnits 2009 This pattern is for personal use only.",
+  "techniques": [
+    "decreases",
+    "increases"
   ],
-  "name": "Ravelry: B21-34 Alladin pattern by DROPS design"
+  "shape": "softie",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/fetch-",
+    "https://www.ravelry.com/patterns/library/summer-cloths",
+    "https://www.ravelry.com/patterns/library/fetch-/people",
+    "https://www.ravelry.com/patterns/sources/krisknits",
+    "https://www.ravelry.com/patterns/library/fetch-/report",
+    "https://www.ravelry.com/patterns/library/fetch-/comments",
+    "https://www.ravelry.com/patterns/library/fetch-/threads",
+    "https://www.ravelry.com/patterns/library/fetch-/editors",
+    "https://www.ravelry.com/patterns/library/fetch-/posts",
+    "https://www.ravelry.com/patterns/library/fetch-/yarns",
+    "https://www.ravelry.com/patterns/library/thermis",
+    "https://www.ravelry.com/patterns/library/mothers-day-cloth"
+  ],
+  "name": "Ravelry: Fetch ! pattern by Kris Knits"
 }

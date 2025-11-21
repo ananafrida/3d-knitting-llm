@@ -1,38 +1,45 @@
 {
   "pattern_id": 1987,
-  "pattern_page": "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks",
-  "name": "THIK (This is How I Knit) Socks",
-  "description": "This pattern is also available for FREE via the plank &amp; stella Ko-fi shop.",
-  "designer": "Melissa Lambino",
+  "pattern_page": "https://www.ravelry.com/patterns/library/out-of-yarn",
+  "name": "Out of Yarn",
+  "description": "10 yards (9.144 Meters) in each of 3 colors. (A total of 30 yards (27.5 Meters) of worsted wt yarn.) {Any yarn can be used, as long as you use needles slightly smaller than recommended for that yarn weight.}",
+  "designer": "Audrey Bochantin",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "category": "Ball Pet → Toys",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "plank & stella DK",
-    "Light Fingering ?"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "afterthought-heel",
-    "in-the-round",
+    "3-dimensional",
+    "entrelac",
     "kitchener",
+    "modular",
+    "one-piece",
+    "phototutorial",
+    "provisional",
+    "sphere-shaped",
     "written-pattern"
   ],
-  "full_text": "This pattern is also available for FREE via the plank & stella Ko-fi shop . THIK (This is How I Knit) Socks, is how I knit socks that I’ve cranked from a tube. Well…mostly…I don’t bother with waste yarn because I like to live on the edge with live stitches waving around. This pattern is for afterthought everything using just the yarn from the knit tube. But you could easily sub in contrast yarn for some or all parts. Yarn: shown in plank & stella 4-ply sock - approx. 300 - 350 yards used from 463 yards What You’ll Need: 100g knit tube cranked by plank & stella contrast yarn (optional) US 1.5 32” circular needles (fingering) US 4 32” circular needles (DK) 1 removable stitch marker tapestry needle",
+  "full_text": "10 yards (9.144 Meters) in each of 3 colors. (A total of 30 yards (27.5 Meters) of worsted wt yarn.) {Any yarn can be used, as long as you use needles slightly smaller than recommended for that yarn weight.} You will also need on hand: Stitch holder or waste yarn, and a blunt point tapestry needle.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/yarns",
-    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks",
-    "https://www.ravelry.com/patterns/sources/plank--stella",
-    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/editors",
-    "https://www.ravelry.com/patterns/library/i-have-two-hands",
-    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/people",
-    "https://www.ravelry.com/patterns/library/one-two-three-and-to-the-four",
-    "https://www.ravelry.com/patterns/library/welcome-to-the-squish-show",
-    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/comments",
-    "https://www.ravelry.com/patterns/library/thik-this-is-how-i-knit-socks/report"
+    "https://www.ravelry.com/patterns/library/out-of-yarn/posts",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/threads",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/editors",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/comments",
+    "https://www.ravelry.com/patterns/library/basic-flat-knit-sock",
+    "https://www.ravelry.com/patterns/library/twisted-monkey-tv-socks",
+    "https://www.ravelry.com/patterns/library/out-of-yarn",
+    "https://www.ravelry.com/patterns/sources/audreys-patterns",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/report",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/people",
+    "https://www.ravelry.com/patterns/library/indoor-flyer",
+    "https://www.ravelry.com/patterns/library/out-of-yarn/yarns"
   ]
 }

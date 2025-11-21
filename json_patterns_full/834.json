@@ -1,64 +1,47 @@
 {
   "pattern_id": 834,
-  "pattern_page": "https://www.ravelry.com/patterns/library/260-28-almond-whisper-scarf",
+  "pattern_page": "https://www.ravelry.com/patterns/library/prism-blanket-2",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Blanket → Throw Blanket → Baby Blanket",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Crib (Throw)",
   "languages": [
-    "Czech",
-    "Danish",
-    "Dutch",
-    "English",
-    "Estonian",
-    "Finnish",
-    "French",
-    "German",
-    "Hungarian",
-    "Icelandic",
-    "Italian",
-    "Norwegian",
-    "Polish",
-    "Portuguese",
-    "Spanish",
-    "Swedish",
-    "...and 16 other languages show hide other languages",
-    "...and 16 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Air",
-    "Aran (8 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Purl Soho Good Wool"
   ],
   "attributes": [
-    "adult",
-    "male",
+    "bottom-up",
+    "modular",
     "one-piece",
+    "other-colorwork",
     "rectangle",
-    "ribbed",
-    "seamless",
-    "straight",
-    "video-tutorial",
+    "schematic",
+    "short-rows",
+    "square",
+    "triangle-shaped",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Knitted scarf for men in DROPS Air. Piece is knitted in rib. ~~~~~~~~~~~~~~~~~~~~~ #almondwhisperscarf DROPS design: Pattern ai-546 Yarn group C or A + A SIZE : S/M – M/L Piece measures approx. Width = 20-25 cm Length = 180-200 cm. YARN : DROPS AIR from Garnstudio (belongs to yarn group B) 150-200 g colour 55, Light Beige NEEDLES : DROPS SINGLE POINTED NEEDLES SIZE 4.5 mm KNITTING TENSION : 18 stitches in width and 24 rows vertically in stocking stitch on needle size 4.5 mm = 10 x 10 cm. REMEMBER: Needle size is only a suggestion! If you have too many stitches on 10 cm switch to larger sized needles or if you get too few stitches on 10 cm switch to smaller sized needles.",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/drops",
-    "https://www.ravelry.com/patterns/library/260-28-almond-whisper-scarf",
-    "https://www.ravelry.com/patterns/library/260-28-almond-whisper-scarf/comments",
-    "https://www.garnstudio.com/pattern.php?id=12434&cid=19",
-    "https://www.ravelry.com/patterns/library/260-28-almond-whisper-scarf/report",
-    "https://www.ravelry.com/patterns/library/260-3-ireland-magic-cardigan",
-    "https://www.ravelry.com/patterns/library/260-11-earthbound-sweater",
-    "https://www.ravelry.com/patterns/library/260-28-almond-whisper-scarf/editors",
-    "https://www.ravelry.com/patterns/library/260-28-almond-whisper-scarf/edit",
-    "https://www.ravelry.com/patterns/library/260-28-almond-whisper-scarf/yarns",
-    "https://www.ravelry.com/patterns/sources/drops-design",
-    "https://www.ravelry.com/patterns/library/260-15-stone-veil-cardigan",
-    "https://www.ravelry.com/patterns/sources/drops-260",
-    "https://www.ravelry.com/patterns/library/260-28-almond-whisper-scarf/people"
+  "full_text": "MATERIALS Our Prism Blanket Bundle comes in Crib (Throw) sizes and includes… 7 (10) skeins of Purl Soho’s Good Wool , 100% Andean highland wool. Each skein is 383 yards/ 100 grams. MC1: 2 skeins; approximately 435 (725) yards required MC2: 2 skeins; approximately 435 (725) yards required CC1: 1 (2) skein(s); approximately 290 (510) yards required CC2: 1 (2) skein(s); approximately 290 (510) yards required CC3: 1 (2) skein(s); approximately 290 (435) yards required You’ll also need… US 6 (4 mm), 24-inch circular needles Choose from over a dozen beautiful palettes, here ! We used Birthday for the Throw size, and Campfire, Tuber, and Rosebush for our Crib samples. GAUGE 22 stitches and 44 rows (22 ridges) = 4 inches in garter stitch SIZES Crib (Throw) Finished Dimensions: 33 (44) inches wide x 44 (55) inches long Finished Square Dimensions: 11 inches square NOTES CONSTRUCTION You will work this blanket in one piece, beginning with the bottom left square. You will work in columns, one bias-knit square at a time. When necessary, you will pick up stitches from an adjacent square (or two!) in order to continue seamlessly. Don’t worry, it’s easy and we explain everything! Designed for Purl Soho by Joelle Hoverson and Gaby Bush .",
+  "techniques": [
+    "pick up stitches"
   ],
-  "name": "Ravelry: 260-28 Almond Whisper Scarf pattern by DROPS design"
+  "shape": "cylinder",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/people",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/editors",
+    "https://www.ravelry.com/patterns/library/good-morning-blanket",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/report",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/threads",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2",
+    "https://www.ravelry.com/patterns/library/library-blanket",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/comments",
+    "https://www.ravelry.com/patterns/library/prism-blanket-2/yarns",
+    "https://www.ravelry.com/patterns/library/mitered-corner-blanket",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: Prism Blanket pattern by Purl Soho"
 }

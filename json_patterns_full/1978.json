@@ -1,35 +1,74 @@
 {
   "pattern_id": 1978,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fritze-merz",
-  "name": "Fritze Merz",
-  "description": "Anleitung für den Schriftzug: Fritze Merz fischt frische Faschos",
-  "designer": "Daniela Mühlbauer",
+  "pattern_page": "https://www.ravelry.com/patterns/library/iris-childrens-cardigan",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "3-6m (6-12m) 12-18m (18-24m) 2-3y (3-4y)",
   "languages": [
-    "German"
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Spanish",
+    "Swedish",
+    "...and 11 other languages show hide other languages",
+    "...and 11 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    ""
+    "Hobbii Friends Wool",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "square",
-    "stranded"
+    "baby",
+    "bracelet-sleeve",
+    "buttonholes",
+    "collar",
+    "cuffed-sleeve",
+    "positive-ease",
+    "seamless",
+    "stripes-colorwork",
+    "textured",
+    "toddler",
+    "top-down",
+    "unisex",
+    "v-neck",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Instructions for the lettering: Fritze Merz fishes for fresh fascists Stay stable! No cooperation with the AFD! Patch FCK NZS FCK NZS this is a slogan against Nazis hat Metro hat cardigan Pilsen Cardigan",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "SIZE 3-6m (6-12m) 12-18m (18-24m) 2-3y (3-4y) MEASUREMENTS (BLOCKED) Chest (closed): 60 (64) 68 (70) 72 (74) cm / 23.5” (25.25”) 26.75” (27.5”) 28.25” (29”) Length: 26 (29) 32 (33.5) 36 (38.5) cm /10.25” (11.5”) 12.5” (13.25”) 14.25” (15”) Sleeve length from underarm: 16.5 (19) 20.5 (23) 25.5 (27) cm / 6.5” (7.5”) 8” (9”) 10” (10.5”) MATERIALS Friends Wool Yarn A: 1 (1) 1 (1) 1 (1) skein of col. 79 Yarn B: 1 (1) 1 (1) 1 (1) skein of col. 28 Yarn C: 1 (1) 1 (1) 2 (2) skein(s) of col. 17 Yarn D: 1 (1) 1 (1) 2 (2) skein(s) of col. 52 Yarn E: 1 (1) 1 (1) 2 (2) skein(s) of col. 55 Yarn F: 1 (2) 2 (2) 2 (2) skein(s) of col. 02 NEEDLES Circular needle 4 mm, 80 cm /US 6, 31.5” Circular needle 3.5 mm, 80 cm /US 4, 31.5” YARN QUALITY Friends Wool, Hobbii 100 % Wool 50 g / 1.75 oz = 100 m / 109 yds GAUGE 19 sts x 34 rows = 10 cm x 10 cm / 4” x 4” in stitch pattern using 4 mm /US 6 needles (blocked) 25 sts x 48 rows = 10 cm x 10 cm / 4” x 4” in double knitting using 3.5 mm /US 4 needles (blocked) PATTERN INFORMATION The cardigan is knitted top down, starting with the back yoke which is worked back and forth. After that stitches are picked up across the shoulders to form the front panels while shaping the neckline, then the rest of the body is worked back and forth till it is finished. Stitches for sleeves are then picked up and worked in the round. Lastly stitches are picked up for the double knitted button band. Cardigan has approx. 18 cm / 7” of intended positive ease. Find the pattern in more languages here: German Danish Swedish Norwegian Finnish French Spanish Italian Polish Dutch",
+  "techniques": [
+    "worked in the round"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tennissocken",
-    "https://www.ravelry.com/patterns/sources/daniela-muhlbauers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fritze-merz",
-    "https://www.ravelry.com/patterns/library/fritze-merz/people",
-    "https://www.ravelry.com/patterns/library/fritze-merz/threads",
-    "https://www.ravelry.com/patterns/library/goldberg",
-    "https://www.ravelry.com/patterns/library/fritze-merz/editors",
-    "https://www.ravelry.com/patterns/library/fritze-merz/comments",
-    "https://www.ravelry.com/patterns/library/fritze-merz/report",
-    "https://www.ravelry.com/patterns/library/fritze-merz/yarns",
-    "https://www.ravelry.com/patterns/library/malabar-cowl"
-  ]
+    "https://www.ravelry.com/patterns/library/iris-childrens-cardigan/comments",
+    "https://www.ravelry.com/patterns/sources/hobbii-website",
+    "https://www.ravelry.com/patterns/library/iris-childrens-cardigan/people",
+    "https://www.ravelry.com/patterns/library/charlotte-jacket-junior",
+    "https://hobbii.de/iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://hobbii.no/iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://hobbii.dk/iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://www.ravelry.com/patterns/library/confetti-cardigan-junior",
+    "https://www.ravelry.com/patterns/library/iris-childrens-cardigan/editors",
+    "https://hobbii.es/collections/product-patterns/products/hp-1008957-iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://www.ravelry.com/patterns/library/iris-childrens-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/iris-childrens-cardigan",
+    "https://hobbii.it/iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://hobbii.fi/collections/product-patterns/products/hp-1008957-iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://hobbii.pl/products/hp-1008957-iris-children-s-cardigan?_pos=2&_psq=Iris&_ss=e&_v=1.0?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://hobbii.fr/iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://hobbii.se/iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://www.ravelry.com/patterns/library/bethany-vest-mini",
+    "https://hobbii.com/iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://hobbii.nl/iris-children-s-cardigan?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=iris-children-s-cardigan+hbtrack&utm_term=karen",
+    "https://www.ravelry.com/patterns/library/iris-childrens-cardigan/report"
+  ],
+  "name": "Ravelry: Iris Children’s Cardigan pattern by Nashwa Sakr"
 }

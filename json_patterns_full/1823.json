@@ -1,41 +1,45 @@
 {
   "pattern_id": 1823,
-  "pattern_page": "https://www.ravelry.com/patterns/library/avo-can-do",
-  "name": "Avo-Can-Do",
-  "description": "Needs just 60-70 yards of 5ply sport weight 100% wool for this one: the properties of the pure wool fibre assist in speeding up the ripening process for the avocado.",
-  "designer": "handmade by SMINÉ",
+  "pattern_page": "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip",
+  "name": "abgerundete Sockenspitze/rounded sock tip",
+  "description": "Auf der Suche nach einer alternativen Sockenspitze für Socken im Netz, habe ich diverse Spitzen gefunden und auch nachgestrickt. Jedoch liefen mir die meisten zu spitz zu, wodurch mir der Sitz der Socken dann nicht gefiel. Nach einigen Tests habe ich meine eigene Spitze entwickelt, die etwas abgerundeter ist und nicht so spitz zuläuft. Diese Sockenspitze wird nur über 8 bis 12 Runden gestrickt.",
+  "designer": "Bettina Koschlig",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "one size",
+  "category": "Components → Other",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "Für 36 bis 72 Maschen",
   "languages": [
-    "English"
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
     "one-piece",
-    "seamless",
+    "other-toe",
+    "phototutorial",
+    "top-cuff-down",
     "top-down",
-    "twisted-stitches",
+    "wide-toe",
     "written-pattern"
   ],
-  "full_text": "Needs just 60-70 yards of 5ply sport weight 100% wool for this one: the properties of the pure wool fibre assist in speeding up the ripening process for the avocado. Two styles of sack included: one with a ribbed top for simplicity, and one with an enclosed double drawstring that won’t slide open on its own. According to the theory: a storebought unripe avocado can be evenly ripened and ready to eat in just 24 hours if you store it in a bag like this. No more impatiently waiting for days, or leaving it too long and finding it inedible and spoiled inside. You will need 3mm & 3.5mm needles on a 20cm cable (or your favourite sock needle setup); also DPNs or a longer cable to magic loop the base. Sized to fit small, medium, or large avocados easily. Make a set for yourself and whip up some more for gifts! having problems purchasing designs from my store? please visit this link for some solutions to the issue https://www.ravelry.com/designers/handmade-by-smine",
+  "full_text": "When I was looking for an alternative sock lace for socks online, I found various lace and also knitted it. However, most of them were too pointed for me, which meant I didn't like the fit of the socks. After some testing, I developed my own tip that is a little more rounded and not so tapered. This sock toe is only knitted over 8 to 12 rounds. Material required: sock yarn, 1 set of needles, 1 crochet hook, 1 needle. The instructions are for 36, 40, 44, 48, 52, 56, 60, 64, 68 and 72 stitches. Looking for an alternative sock tip in the net, I have found various tips and also knitted. However, most of me ran too pointedly, which made me dislike the socks. After some tests, I developed my own tip, which is a little more rounded and not so pointed. This sock tip is only knitted for 8 to 12 rounds. Materials needed: Yarn for socks, 1 double pointed needles, 1 crochet hook, 1 needle This pattern is for 36, 40, 44, 48, 52, 56, 60, 64, 68 and 72 stitches.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/minimalist-hottie-sack",
-    "https://www.ravelry.com/patterns/library/avo-can-do/people",
-    "https://www.ravelry.com/patterns/library/avo-can-do",
-    "https://www.ravelry.com/patterns/library/avo-can-do/yarns",
-    "https://www.ravelry.com/patterns/library/avo-can-do/report",
-    "https://www.ravelry.com/patterns/library/avo-can-do/comments",
-    "https://www.ravelry.com/patterns/library/avo-can-do/editors",
-    "https://www.ravelry.com/patterns/library/how-long-is-a-piece-of-string",
-    "https://www.ravelry.com/patterns/sources/handmade-by-smine",
-    "https://www.ravelry.com/patterns/library/tropicowl",
-    "https://www.ravelry.com/patterns/library/avo-can-do/threads"
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/people",
+    "https://www.ravelry.com/patterns/sources/bettina-koschligs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/yarns",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/comments",
+    "https://www.ravelry.com/patterns/library/brioche-me",
+    "https://www.ravelry.com/patterns/library/socken-faaborg",
+    "https://www.ravelry.com/patterns/library/armband-pamela",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/posts",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/editors",
+    "https://www.ravelry.com/patterns/library/abgerundete-sockenspitze-rounded-sock-tip/report"
   ]
 }

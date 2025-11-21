@@ -1,44 +1,42 @@
 {
   "pattern_id": 542,
-  "pattern_page": "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19",
-  "name": "Chevron Baby Blanket",
-  "description": "Espace Tricot is a yarn store in",
-  "designer": "Espace Tricot",
+  "pattern_page": "https://www.ravelry.com/patterns/library/round-nesting-baskets-2",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "27.5\" x 36\" - easily modified with additional repeats",
+  "category": "Containers",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "3\", 4\", 5\"",
   "languages": [
-    "English",
-    "French",
-    "Additional languages which are not in the download: Danish"
+    "English"
   ],
   "suggested_yarn": [
-    "Blue Sky Fibers Organic Cotton (Worsted)",
-    "Worsted (9 wpi) ?"
+    "Cascade Yarns ® Cascade 220®",
+    "yarn held together"
   ],
   "attributes": [
-    "chevron",
-    "rectangle",
+    "bottom-up",
+    "in-the-round",
+    "one-piece",
+    "seamless",
     "stripes-colorwork",
     "written-pattern"
   ],
-  "full_text": "Espace Tricot is a yarn store in Montreal, Canada. Discover our yarns here! www.espacetricot.com We modified our Chevron Colour-Block Blanket to create this simple and modern baby blanket using Blue Sky Alpacas Worsted Cotton. This cheerful two-row pattern is easy to customize in terms of size with the addition of 24-stitch repeats. Use our suggested girl / boy colour palettes or be creative! This pattern is now available in Danish!",
-  "techniques": [],
-  "shape": "cube",
+  "full_text": "Three cute little round nesting baskets knit bottom up with 2 strands of worsted weight wool yarn at the same time in garter stitch for texture and strength. Small decreases at the bottom and top of the sides give them a sturdy structure. Sizes: Small – circumference 3.5″ (9 cm), height 3″ (7.5 cm) Medium – circumference 4.5″ (11.5cm) , height 4″ (10 cm) Large – circumference 5.5″ (14cm) height 5″ (12.5 cm)",
+  "techniques": [
+    "decreases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/threads",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/report",
-    "https://www.ravelry.com/patterns/library/calliope-13",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/people",
-    "https://www.ravelry.com/patterns/library/the-classic-2",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19",
-    "https://www.ravelry.com/patterns/sources/espace-tricot-ravelry-store",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/posts",
-    "https://www.ravelry.com/patterns/sources/strikkeglad",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/editors",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/yarns",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/comments",
-    "https://www.ravelry.com/patterns/library/warm-up-sweater"
-  ]
+    "https://www.ravelry.com/patterns/sources/handknit-hugs",
+    "https://www.ravelry.com/patterns/library/round-rug-coasters",
+    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/people",
+    "https://www.ravelry.com/patterns/library/santa-stocking-hat-5",
+    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/report",
+    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2",
+    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/comments",
+    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/yarns",
+    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/editors",
+    "https://www.ravelry.com/patterns/library/favourite-bulky-ribbed-beanie",
+    "https://www.ravelry.com/patterns/library/round-nesting-baskets-2/posts"
+  ],
+  "name": "Ravelry: Round Nesting Baskets pattern by Heather Pelletier"
 }

@@ -1,41 +1,40 @@
 {
   "pattern_id": 674,
-  "pattern_page": "https://www.ravelry.com/patterns/library/a-gnomey-hat",
-  "name": "A Gnomey Hat",
-  "description": "Check out the A Gnomey Hat SDK Blog Post for the FREE PATTERN, lots of cute pics of kiddos in Gnomey Hats and yarn ideas.",
-  "designer": "Sun Daughter",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cube-thing",
+  "name": "Cube Thing",
+  "description": "At Christmas I was playing with a complicated paper construction I came across online. There was no chance of knitting it because it would simply have tried to deform to be a sphere. It is in the nature of knitting, and crochet, that all regular 3D shapes try to form themselves into spheres.",
+  "designer": "Woolly Thoughts",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
-  "sizes_available": "new born, baby, child, adult",
+  "category": "Blocks",
+  "sizes_available": "5 cm (2\")",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Malabrigo Yarn Rasta"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "child",
-    "in-the-round",
-    "seamless"
+    "cube-shaped"
   ],
-  "full_text": "Check out the A Gnomey Hat SDK Blog Post for the FREE PATTERN, lots of cute pics of kiddos in Gnomey Hats and yarn ideas. Raising my children in a Waldorf inspired homeschool community, the little gnomes scampering about were a common site. When they began knitting, these hats were one of their first projects. Not only are they quite simple, they are with super bulky yarn and large needles, making them a super quick knit for an adult or a reasonable undertaking for little hands. I have a lot of warm and fuzzy feelings when it comes to little (and big) gnomes going about their gnomey day and this pattern holds a special place in my heart, honoring that time I had with my boys in the Boreal Forest of Alaska. The Deets: Craft : Knitting Suggested yarn : Malabrigo Yarn Rasta, Freia Handpaints, Lionbrand Freia Ombré Yarn weight : Super Bulky Gauge : 2.5 stitches and 4 rows = 1 inch in Stockinette knit in the round Needle size : US 13 - 9.0 mm Yardage : 90 yards (or one skein) Sizes available : new born, baby, child, adult I love to see your creations. Share on social media and tag me @SunDaughterKnits and use the hashtag #gnomeyhat . Please feel free to reach out to me with any questions or feedback by DM through Instagram @SunDaughterKnits or via email at sun.daughter.knits@gmail.com .",
+  "full_text": "At Christmas I was playing with a complicated paper construction I came across online. There was no chance of knitting it because it would simply have tried to deform to be a sphere. It is in the nature of knitting, and crochet, that all regular 3D shapes try to form themselves into spheres. I started to wonder what would happen if I reduced it to its simplest form and kept it very small. I was pleasantly surprised to find that an unstuffed cube is much more robust than I expected. This cube holds its shape very well. You can squash it if you want to but it is easily restored to its original shape. I used about 10 metres of DK yarn in three colours. It would work in any yarn though the size of the cube would vary depending on the thickness of the yarn. 18 January 2018 Some variations have been added to the basic pattern (You can see more photos of them on project pages) Cube Thing - Love Cube Thing - Emojis Cube Thing - Die Cube Thing - Eggs 24 January 2018 I made a video to show how this is related to Borromean Rings. 4 February 2018 I keep seeing photos of a cushion based on the same principle so I made a mock-up using things I already had. It’s a bit squashed and discoloured but demonstrates the principle.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat/report",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat/people",
-    "https://www.ravelry.com/patterns/library/bluster-legwarmers",
-    "https://www.ravelry.com/patterns/library/bluster-shawl",
-    "https://www.ravelry.com/patterns/library/bluster-bandana-cowl",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat",
-    "https://www.ravelry.com/patterns/sources/sundaughterknits-website",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat/comments",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat/threads",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat/editors",
-    "https://www.ravelry.com/bundles/quick-knits-and-bulky-patterns",
-    "https://www.ravelry.com/patterns/library/a-gnomey-hat/yarns"
+    "https://www.ravelry.com/patterns/library/cube-thing/report",
+    "https://www.ravelry.com/patterns/sources/pat-ashforth--steve-plummers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/barbie-spirals",
+    "https://www.ravelry.com/patterns/library/pythagoras-tree",
+    "https://www.ravelry.com/patterns/library/platonic-spheres",
+    "https://www.ravelry.com/patterns/library/cube-thing",
+    "https://www.ravelry.com/bundles/free-patterns-375",
+    "https://www.ravelry.com/patterns/library/cube-thing/threads",
+    "https://www.ravelry.com/patterns/library/cube-thing/people",
+    "https://www.ravelry.com/patterns/library/cube-thing/yarns",
+    "https://www.ravelry.com/patterns/periodicals/woolly-thoughts",
+    "https://www.ravelry.com/patterns/library/cube-thing/editors",
+    "https://www.ravelry.com/patterns/library/cube-thing/posts",
+    "https://www.ravelry.com/patterns/library/cube-thing/comments",
+    "https://www.ravelry.com/patterns/sources/woolly-thoughts-website"
   ]
 }

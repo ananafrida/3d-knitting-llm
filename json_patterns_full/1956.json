@@ -1,41 +1,42 @@
 {
   "pattern_id": 1956,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-flower-tutorial",
-  "name": "Knitted Flower Tutorial",
-  "description": "Photo tutorial for making a simple knitted flower from yarn scraps.",
-  "designer": "Julie Taylor",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sunnyside",
+  "name": "Sunnyside",
+  "description": "A perfectly soft cashmere baby sweater knit from the top down in one piece. Two options are included: delicate lace for the discerning baby; more rugged cables for the outdoorsy-go getter",
+  "designer": "Tanis Lavallee",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "6 cms (2.5\") diameter",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "3-6 (6-12, 12-18, 18-24) months",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Tanis Fiber Arts Purple Label Cashmere Sock",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "phototutorial",
-    "seamed",
-    "worked-flat",
-    "written-pattern"
+    "baby",
+    "buttonholes",
+    "toddler",
+    "top-down",
+    "unisex"
   ],
-  "full_text": "Photo tutorial for making a simple knitted flower from yarn scraps.",
+  "full_text": "A perfectly soft cashmere baby sweater knit from the top down in one piece. Two options are included: delicate lace for the discerning baby; more rugged cables for the outdoorsy-go getter The smaller sizes make a great single skein project for that special ball of fingering weight yarn! For more information see: http://www.tanisfiberarts.com/blog/2011/04/sunnyside-baby...",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/marlow-baby-boots",
-    "http://www.lovefibres.com/free-patterns.html",
-    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/report",
-    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/threads",
-    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/people",
-    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/comments",
-    "https://www.ravelry.com/patterns/library/mia-chunky-lace-hat-with-flower",
-    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/editors",
-    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial",
-    "https://www.ravelry.com/patterns/library/entrelac-baby-blanket-7",
-    "https://www.ravelry.com/patterns/sources/lovefibres"
+    "https://www.ravelry.com/patterns/library/sunnyside/threads",
+    "https://www.ravelry.com/patterns/library/sunnyside/editors",
+    "https://www.ravelry.com/patterns/library/sunnyside/comments",
+    "https://www.ravelry.com/patterns/library/sunnyside/report",
+    "https://www.ravelry.com/patterns/library/sunnyside/posts",
+    "https://www.ravelry.com/patterns/library/sunnyside",
+    "https://www.ravelry.com/patterns/library/sunnyside/people",
+    "https://www.ravelry.com/patterns/sources/tanis-fiber-arts",
+    "https://www.ravelry.com/patterns/library/rock-it-tee",
+    "https://www.ravelry.com/patterns/library/sproutlette-dress",
+    "https://www.ravelry.com/patterns/library/sunnyside/yarns",
+    "https://www.ravelry.com/patterns/library/business-casual"
   ]
 }

@@ -1,45 +1,44 @@
 {
   "pattern_id": 431,
-  "pattern_page": "https://www.ravelry.com/patterns/library/baby-kite-jacket",
-  "name": "Baby Kite Jacket",
-  "description": "A diagonally knitted garter stitch jacket inspired by Elizabeth Zimmermann, this is a fun and unnusual knit. It is worked in two identical pieces which are then joined down the centre back. Three sizes (to fit chest 18”, 23” and 28”) can be knitted from the same set of insructions simply by changing the yarn and needles used.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations",
+  "name": "bear christmas tree decorations",
+  "description": "This is a pattern for a small hanging ornament. The instructions are for making a bear but it can also be used to make a rabbit by using the ears from my free ‘Teeny Tiny knitted toys’ pattern here: https://www.ravelry.com/patterns/library/teeny-tiny-knitt...",
+  "designer": "Julie Williams",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "6cms tall (2 1/2 inches)",
   "languages": [
-    "Danish",
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Fingering (14 wpi) ?",
+    "Rowan Felted Tweed"
   ],
   "attributes": [
-    "baby",
-    "bias",
-    "child",
+    "bottom-up",
     "icord",
-    "modular",
-    "phototutorial",
-    "short-rows",
-    "unisex",
+    "seamed",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A diagonally knitted garter stitch jacket inspired by Elizabeth Zimmermann, this is a fun and unnusual knit. It is worked in two identical pieces which are then joined down the centre back. Three sizes (to fit chest 18”, 23” and 28”) can be knitted from the same set of insructions simply by changing the yarn and needles used. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "This is a pattern for a small hanging ornament. The instructions are for making a bear but it can also be used to make a rabbit by using the ears from my free ‘Teeny Tiny knitted toys’ pattern here: https://www.ravelry.com/patterns/library/teeny-tiny-knitt... The pattern uses only small scraps of yarn and can be quickly knitted up, the assembly is a little fiddly and you can save time by making the dress part a few rows longer and not bothering with making the legs. Hope you have fun with it, J x Updated to a new pdf file, December 15th 2021",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
-    "https://www.ravelry.com/patterns/library/ten-stitch-hat",
-    "https://www.ravelry.com/bundles/baby-patterns-5",
-    "https://www.ravelry.com/patterns/library/baby-kite-jacket/threads",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/baby-kite-jacket/people",
-    "https://www.ravelry.com/patterns/library/baby-kite-jacket/yarns",
-    "https://www.ravelry.com/patterns/library/baby-kite-jacket/editors",
-    "https://www.ravelry.com/patterns/library/baby-kite-jacket",
-    "https://www.ravelry.com/patterns/library/baby-kite-jacket/report",
-    "https://www.ravelry.com/patterns/library/baby-kite-jacket/comments"
+    "https://www.ravelry.com/bundles/free-patterns-441",
+    "https://www.ravelry.com/patterns/library/itty-bitty-dress",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/posts",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/yarns",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/threads",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/report",
+    "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/editors",
+    "https://www.ravelry.com/patterns/sources/little-cotton-rabbits",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/comments",
+    "http://littlecottonrabbits.typepad.co.uk/free_knitting_patterns/2008/12/christmas-tree-bears.html",
+    "https://www.ravelry.com/patterns/library/teeny-tiny-knitted-toys",
+    "https://www.ravelry.com/patterns/library/bear-christmas-tree-decorations/people"
   ]
 }

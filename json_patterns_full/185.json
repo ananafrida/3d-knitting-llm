@@ -1,35 +1,37 @@
 {
   "pattern_id": 185,
-  "pattern_page": "https://www.ravelry.com/patterns/library/paillette-purse-pattern",
+  "pattern_page": "https://www.ravelry.com/patterns/library/easter-bunny-68",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Judi & Co. Rayon Cordé"
+    "King Cole Baby Alpaca DK",
+    "yarn held together"
   ],
   "attributes": [
-    "beads",
-    "icord",
-    "seamed",
-    "worked-flat"
+    "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "To create the multi-layering of color, use two shades: one DK yarn with mohair yarn at the same time. You’ll use less than 1 ball of each yarn. Finished size: 8 inches (20cm) from tail to nose Extra supplies: 15mm toy safety eyes or black amigurami safety eyes, toy filling/stuffing, 10 stitch markers",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/faery-crafty",
-    "https://www.ravelry.com/patterns/library/drop-stitch-bangle-belt",
-    "https://www.ravelry.com/patterns/library/cashmere-headband",
-    "https://www.ravelry.com/patterns/library/paillette-purse-pattern/comments",
-    "https://www.ravelry.com/patterns/library/paillette-purse-pattern/editors",
-    "http://faerycrafty.blogspot.com/2005/12/paillette-purse-pattern.html",
-    "https://www.ravelry.com/patterns/library/paillette-purse-pattern",
-    "https://www.ravelry.com/patterns/library/paillette-purse-pattern/report",
-    "https://www.ravelry.com/patterns/library/paillette-purse-pattern/yarns",
-    "https://www.ravelry.com/patterns/library/paillette-purse-pattern/people"
+    "https://www.ravelry.com/patterns/library/easter-bunny-68/yarns",
+    "https://www.ravelry.com/patterns/sources/from-britain-with-love",
+    "https://www.ravelry.com/patterns/library/lamb-27",
+    "https://www.ravelry.com/patterns/library/easter-bunny-68/posts",
+    "https://www.ravelry.com/patterns/library/lucky-duckling",
+    "https://www.ravelry.com/patterns/library/easter-bunny-68",
+    "https://www.ravelry.com/patterns/library/easter-bunny-68/editors",
+    "https://www.ravelry.com/patterns/library/easter-bunny-68/report",
+    "https://www.ravelry.com/patterns/library/beginners-rainbow-rabbit",
+    "https://www.ravelry.com/patterns/library/easter-bunny-68/comments",
+    "https://www.frombritainwithlove.com/how-to-knit-an-easter-bunny-free-pattern-and-step-by-step-tutorial/",
+    "https://www.ravelry.com/patterns/library/easter-bunny-68/people",
+    "https://www.ravelry.com/patterns/library/easter-bunny-68/threads"
   ],
-  "name": "Ravelry: Paillette Purse Pattern pattern by FaeryCrafty"
+  "name": "Ravelry: Easter Bunny pattern by Claire Garland"
 }

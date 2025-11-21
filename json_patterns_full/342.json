@@ -1,31 +1,38 @@
 {
   "pattern_id": 342,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knit-mice-for-your-cats",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mini-snowbuddies",
+  "name": "Mini Snowbuddies",
+  "description": "Construction",
+  "designer": "Esther Braithwaite",
   "craft": "Knitting",
-  "category": "Pet → Toys",
+  "category": "Softies → Doll",
   "languages": [
     "English"
   ],
   "attributes": [
     "bottom-up",
     "in-the-round",
-    "seamed",
-    "written-pattern"
+    "one-piece",
+    "worked-flat"
   ],
-  "full_text": "A simple pattern for toy mice that I designed to entertain my three wonderful cats.",
-  "techniques": [],
-  "shape": "softie",
+  "full_text": "Construction Mini Snowbuddies are knit in one piece from the bottom-up. The doll’s body can be knit flat on straight needles and seamed, or knit in the round on dpns. Simple sewing techniques are used to define the arms and legs after knitting. Very fast and fun to knit, these dolls are designed to be sturdy, safe, and perfect for even the littlest hands to hold. Gauge Exact gauge is not important. Choose a needle 2 or 3 sizes smaller than recommended on the ball band to create a dense fabric that will keep the stuffing hidden Yarn Models are knit from DK yarn on 3.25 mm needles and measure 10cm (4 inches) tall. Abbreviations CO = cast on; K = knit; K2tog = Knit 2 stitches together; Kfb = Knit front and back of the same stitch; P = purl; RS = right side; St(s) = stitch(es); WS = wrong side",
+  "techniques": [
+    "bottom-up",
+    "seamed"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knit-mice-for-your-cats/threads",
-    "https://www.ravelry.com/patterns/library/recipe-for-a-scrap-yarn-blanket",
-    "https://www.ravelry.com/patterns/sources/ebebee-crafts",
-    "https://www.ravelry.com/patterns/library/knit-mice-for-your-cats/posts",
-    "https://www.ravelry.com/patterns/library/knit-mice-for-your-cats/people",
-    "https://www.ravelry.com/patterns/library/knit-mice-for-your-cats/comments",
-    "https://www.ravelry.com/patterns/library/knit-mice-for-your-cats",
-    "https://www.ravelry.com/patterns/library/knit-mice-for-your-cats/editors",
-    "https://www.ravelry.com/patterns/library/knit-mice-for-your-cats/report",
-    "https://www.ravelry.com/patterns/library/knit-mice-for-your-cats/yarns"
-  ],
-  "name": "Ravelry: knit mice for your cats pattern by Ebebee crafts"
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/threads",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/posts",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/mini-gingerbread-friends",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/yarns",
+    "https://www.ravelry.com/patterns/library/flower-girls",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/editors",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/people",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/comments",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies/report",
+    "https://www.ravelry.com/patterns/library/mini-snowbuddies"
+  ]
 }

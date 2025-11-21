@@ -1,40 +1,42 @@
 {
   "pattern_id": 1720,
-  "pattern_page": "https://www.ravelry.com/patterns/library/multi-pack-band-aid",
-  "name": "Multi Pack Band-Aid",
-  "description": "These band-aids could be used to patch any ouchies on your stuffed animals, clothes, or anything else you could imagine. They would also make a fun addition to a first aid play kit.",
-  "designer": "Brandi Dixon",
+  "pattern_page": "https://www.ravelry.com/patterns/library/daily-beanie",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "sizes_available": "Short (Long)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Caron Simply Soft"
+    "Kindred Red Rad DK",
+    "yarn held together"
   ],
   "attributes": [
+    "adult",
     "bottom-up",
-    "doll-size",
-    "modular",
-    "phototutorial",
-    "rectangle",
-    "seamed",
-    "worked-flat",
+    "in-the-round",
+    "one-piece",
+    "ribbed",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "These band-aids could be used to patch any ouchies on your stuffed animals, clothes, or anything else you could imagine. They would also make a fun addition to a first aid play kit.",
+  "full_text": "The Daily Beanie is a classic ribbed hat, sure to be a staple for your fall and winter wardrobe. This beginner-friendly pattern is a super quick project that makes it perfect for gift knitting. The best thing about this hat is that it’s an amazing stash-buster! It is knit in a bulky weight yarn OR equivalent combination of yarn weights held together (for example - 2 strands of worsted, or 2 strands of DK + 1 fingering). I include guidance on choosing different combinations of yarn weights in the pattern. View on the Stitch + Scrap blog for free, or buy a printable, ad-free pattern PDF on my Etsy Sizing Short (Long) options to fit adult size 21-24 in. / 53-61 cm head circumference. Note on size choice: Either the short or long length will stretch to fit most adult head sizes, but will change the width of the folded brim. Yarn Choice and Yardage Yardage: Approximately 95-105 (125-145) yards of bulky weight (or equivalent) yarn. The hat is knit in a bulky weight OR equivalent, meaning you can hold different yarn weights together to achieve the same gauge. Here are a few of the combinations I have used to knit this hat: 1 strand Bulky 2 strands Worsted 2 strands DK + 1 Fingering OR 1 Lace (fluffy mohair) 1 strand DK + 2 Fingering + 1 Lace (fluffy mohair) Needles and Notions 16” US size 10.5 (6.5mm) circular needle US size 10.5 (6.5mm) double-pointed needles or longer circular needle for magic loop method (for crown of hat) 6 stitch markers (with one distinct BOR marker) Tapestry Needle for sewing in ends Gauge 16 stitches and 17 rows = 4x4in./10x10cm (unstretched) blocked square in 2x2 rib, in the round, on size 10.5 (6.5mm) needle. Techniques Used Knit, Purl Long Tail or German Twisted Cast On K2tog decrease Let me know if you have any questions! Isabel",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/comments",
-    "https://www.ravelry.com/patterns/library/multi-pack-band-aid",
-    "https://www.ravelry.com/patterns/library/cable-round-the-brim",
-    "https://www.ravelry.com/patterns/sources/brandi-dixons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/yarns",
-    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/editors",
-    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/report",
-    "https://www.ravelry.com/patterns/library/multi-pack-band-aid/people"
-  ]
+    "https://stitchandscrap.isknit.com/2025/10/29/sweet-seedlings-earwarmer-free-knitting-pattern/",
+    "https://www.ravelry.com/patterns/library/daily-beanie/people",
+    "https://www.ravelry.com/patterns/library/daily-beanie/report",
+    "https://www.ravelry.com/patterns/library/daily-beanie/comments",
+    "https://www.ravelry.com/patterns/library/daily-beanie/editors",
+    "https://www.ravelry.com/patterns/library/meditations-shawl",
+    "https://www.ravelry.com/patterns/sources/stitch--scrap-blog",
+    "https://www.ravelry.com/patterns/library/spruce-berries-shawl",
+    "https://www.ravelry.com/patterns/library/clementine-ear-warmer",
+    "https://www.ravelry.com/patterns/library/daily-beanie/yarns",
+    "https://www.etsy.com/listing/4394742549/daily-beanie-knitting-pattern-beginner",
+    "https://www.ravelry.com/patterns/library/daily-beanie"
+  ],
+  "name": "Ravelry: Daily Beanie pattern by Isabel Vassiliadis"
 }

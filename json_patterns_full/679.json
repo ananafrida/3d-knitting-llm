@@ -1,40 +1,45 @@
 {
   "pattern_id": 679,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gorro-trasno",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bright-baby-block",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "3-6 meses de edad",
+  "category": "Blocks",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "3\" X 3\"",
   "languages": [
-    "Spanish"
+    "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Lima",
+    "",
     "Sport (12 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "captioned-video",
-    "icord",
-    "one-piece",
-    "phototutorial",
-    "video-tutorial",
+    "3-dimensional",
+    "Intarsia",
+    "chart",
+    "cube-shaped",
+    "seamed",
+    "square",
+    "stranded",
+    "stripes",
+    "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The Trasno hat pattern is completely in Spanish, with step-by-step instructions and tutorial videos where I explain the most difficult parts. With a ball of the Drops design Lima quality I knitted the body of the hat, I had to start another ball to be able to make the i-cord. It is a very quick hat to knit. You can find the pattern completely free on my website, if you need help, contact me",
+  "full_text": "Pattern includes charts for 6 sides and a diagram for construction. Additional materials include either stuffing or a foam block.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gorro-trasno/yarns",
-    "https://www.ravelry.com/patterns/library/dave-octopus",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/people",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/report",
-    "https://www.ravelry.com/patterns/library/baby-boots-16",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/editors",
-    "https://www.ravelry.com/patterns/library/gorro-trasno",
-    "https://www.ravelry.com/patterns/library/gorro-trasno/comments",
-    "https://www.ravelry.com/patterns/library/jacket-with-braid",
-    "https://www.ravelry.com/patterns/sources/molan-mis-calcetas"
+    "https://www.ravelry.com/patterns/library/wrist-yarn-holder",
+    "https://www.ravelry.com/patterns/sources/knituition",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/threads",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/yarns",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/report",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/editors",
+    "https://www.ravelry.com/patterns/library/la-dentelle-belle-scarf",
+    "https://www.ravelry.com/patterns/library/skully-keychain",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/people",
+    "https://www.ravelry.com/patterns/library/bright-baby-block",
+    "https://www.ravelry.com/patterns/library/bright-baby-block/comments"
   ],
-  "name": "Ravelry: Gorro Trasno pattern by Ana Alfonsin"
+  "name": "Ravelry: Bright Baby Block pattern by Teresa Murphy"
 }

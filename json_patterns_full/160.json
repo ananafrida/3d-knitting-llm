@@ -1,39 +1,44 @@
 {
   "pattern_id": 160,
-  "pattern_page": "https://www.ravelry.com/patterns/library/crossbody-pocket-bag",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant",
+  "name": "Mr. Ruesselo The Elephant",
+  "description": "This is a knitting pattern of an elephant named Mr. Ruesselo. It includes a material list, abbreviations, row by row instructions, and photos.",
+  "designer": "Svitlana Kondratova",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "One Size (see Notes)",
+  "category": "Softies → Animal",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Purl Soho Sunshower Cotton",
-    "Worsted (9 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Safran"
   ],
   "attributes": [
     "in-the-round",
-    "modular",
-    "provisional",
+    "phototutorial",
     "seamless",
     "three-needle-bind",
-    "worked-flat"
+    "written-pattern"
   ],
-  "full_text": "MATERIALS 2 skeins of Purl Soho’s Sunshower Cotton , 100% organically grown cotton. Each skein is 159 yards/100 grams; approximately 265 total yards required. We used the colors Wood Thrush and Rain Storm. US 8 (5 mm), 24-inch circular needles US 8, 16-inch circular needles US 6 (4 mm), 16-inch or longer circular needles Stitch markers , including one unique A crochet hook and scrap yarn (for Provisional Cast On) GAUGE 22 stitches and 40 rows = 4 inches in Linen Stitch, flat and in the round, on larger needles SIZE Finished Circumference: 20 inches Finished Height: 5¾ inches Base of Bag: 3 inches wide x 7½ inches long Strap Width: 1¼ inches Strap Length: 44 inches NOTES CONSTRUCTION You will make this bag by first knitting the Base flat, then picking up around the Base and knitting the Body of the bag in the round. You will knit the Strap Channel separately and then knit it together with the Body as you work. You will finish the Body by working the Flap back and forth in rows, then you will knit the Strap, insert it through the Strap Channel, and join the ends of the Strap using a 3-Needle Bind Off. Designed by Purl Soho designer, Hiromi Glover . Click here to see even more of Hiromi’s work!",
-  "techniques": [],
+  "full_text": "This is a knitting pattern of an elephant named Mr. Ruesselo. It includes a material list, abbreviations, row by row instructions, and photos. Knitted in the round using the magic loop method. Legs and trunk are attached as you knit, and stitches for the ears are picked up and knitted flat. NO SEWING IS REQUIRED. SKILL LEVEL: Advanced beginner. USED TECHNIQUES Pinhole cast-on Turkish cast-on Backwards loop cast-on Knitting flat and in the round Slipping and purling stitches Increases (make one left, make one right) Decreases (knit two together, slip slip knit) Picking up stitches Three-needle bind-off Binding off MATERIALS REQUIRED Sport yarn (45-50g). 2 mm circular knitting needles 2 mm two double-pointed needles 3 mm crochet hook Darning needle Stuffing Stitch markers Scrap yarn to keep stitches on hold Scrap yarn in black for embroidery Yarn used for the yellow one: Drops Loves You 7 #28 (15g); Drops Safran #66 (30g) SIZE Approximately 23cm x 16cm. ERRATA Page 4: Put all leg sts on circular needles (not DPNs). Page 5: BODY&HEAD R43 only one repeat Page 6: BODY&HEAD R58 2 repeats of the sequence between the square brackets You may sell the finished toy, provided you give the credit to Svitlana Kondratova as the designer. You may not sell or share the pattern. Please don’t forget to tag your creations on Instagram with @im_strickfieber #MrRuesseloTheElephant If you have any questions please do not hesitate to contact me. If you want to thank me, please consider donating a little to my Homeland Ukraine. On the page of Friends for Ukraine you can find some volunteers, who demonstrate heroic humanitarian work, providing people and animals with food and medicines. Every donation makes a difference.",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/dappled-light-pullover",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/crossbody-pocket-bag",
-    "https://www.ravelry.com/patterns/library/crossbody-pocket-bag/people",
-    "https://www.ravelry.com/patterns/library/crossbody-pocket-bag/report",
-    "https://www.ravelry.com/patterns/library/crossbody-pocket-bag/editors",
-    "https://www.ravelry.com/patterns/library/crossbody-pocket-bag/comments",
-    "https://www.ravelry.com/patterns/library/crossbody-pocket-bag/yarns",
-    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4"
-  ],
-  "name": "Ravelry: Crossbody Pocket Bag pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/people",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/threads",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig",
+    "https://www.ravelry.com/patterns/library/pandastic-beast",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/editors",
+    "https://www.ravelry.com/patterns/library/maximilion-a-wild-cat",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/report",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/posts",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/comments",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant/yarns",
+    "https://www.ravelry.com/patterns/sources/svitlana-kondratovas-ravelry-store"
+  ]
 }

@@ -1,44 +1,40 @@
 {
   "pattern_id": 218,
-  "pattern_page": "https://www.ravelry.com/patterns/library/dollhouse-purse",
+  "pattern_page": "https://www.ravelry.com/patterns/library/keyhole-scarf-33",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Thick & Quick",
-    "Super Bulky (5-6 wpi) ?"
+    "DK (11 wpi) ?",
+    "Purl Soho Cashmere Merino Bloom"
   ],
   "attributes": [
-    "3-dimensional",
-    "adult",
-    "buttoned",
-    "child",
-    "lined",
-    "seamed",
-    "square",
-    "teen",
-    "textured",
+    "in-the-round",
+    "seamless",
+    "selvedge",
+    "three-needle-bind",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "With a little embellishment and imagination, this knit bag can be both a purse and a portable dollhouse. Made from super-bulky yarn, it’s sturdy and knits up quickly. It’s a fun and practical gift for the little girl in your life.",
+  "full_text": "MATERIALS Our Keyhole Scarf Kit contains everything you’ll need to make a Solid or Striped scarf of your own. It contains… 2 skeins of Purl Soho’s Cashmere Merino Bloom , 75% extra fine merino and 25% cashmere. Each skein of this light worsted/DK-weight yarn is 218 yards/ 100 grams. Solid Version Color A: 2 skeins; approximately 436 yards required Striped Version Color A: 1 skein; approximately 218 yards required Color B: 1 skein; approximately 218 yards required It also contains… US 5 (3.75 mm), 16-inch circular knitting needles A stitch marker A tapestry needle A printed pattern card You will also need… A spare needle, size US 5 or smaller, for 3-Needle Bind Off Stitch holders or scrap yarn Pick up a Keyhole Scarf Kit in your favorite color of Cashmere Merino Bloom, or choose from 14 pretty striped palettes! We knit our samples in these colors… SOLID: Crocus Bud; True Turquoise; Hydrangea Blossom STRIPED: Kiln Red + Red Poppy; Ash Blue + Wheat Flour; Rosewater Pink + Warm Honey GAUGE 21 stitches and 31 rounds = 4 inches in stockinette stitch SIZE Finished Dimensions: 15 ¼ inches circumference x 33 inches long Designed by Purl Soho designer, Gianna Mueller . See more of Gianna’s designs on her Instagram !",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/wide-triangle-scarf",
-    "https://www.ravelry.com/patterns/library/dollhouse-purse/yarns",
-    "https://www.ravelry.com/patterns/library/half-circle-shawl-2",
-    "https://www.ravelry.com/patterns/library/cardi-shrug",
-    "https://www.ravelry.com/patterns/sources/krazyawesomes-knitmonster",
-    "https://www.ravelry.com/patterns/library/dollhouse-purse/threads",
-    "https://www.ravelry.com/patterns/library/dollhouse-purse/comments",
-    "https://www.ravelry.com/patterns/library/dollhouse-purse/editors",
-    "https://www.ravelry.com/patterns/library/dollhouse-purse",
-    "https://www.ravelry.com/patterns/library/dollhouse-purse/report",
-    "https://www.ravelry.com/patterns/library/dollhouse-purse/people"
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/yarns",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/people",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/editors",
+    "https://www.ravelry.com/patterns/library/coziest-cowl",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/threads",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/report",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/comments",
+    "https://www.ravelry.com/patterns/library/loop--tuck-scarf",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/porto-blanket"
   ],
-  "name": "Ravelry: Dollhouse Purse pattern by Jennifer Jones"
+  "name": "Ravelry: Keyhole Scarf pattern by Purl Soho"
 }

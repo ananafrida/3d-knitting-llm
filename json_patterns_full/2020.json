@@ -1,31 +1,41 @@
 {
   "pattern_id": 2020,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sunshine-hexipuff",
+  "pattern_page": "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball",
+  "name": "Follow the Bouncing Ball",
+  "description": "Want to save money by putting your scrap yarn to good use?",
+  "designer": "Michelle Miller",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Ball",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Fingering (14 wpi) ?"
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "in-the-round",
+    "seamless",
+    "sphere-shaped",
+    "stripes-colorwork",
     "written-pattern"
   ],
-  "full_text": "How I modified the Bee Keeper’s Quilt hexipuffs to make a sun-puff. Does not include information on how to make original puff but rather how to build upon a puff.",
+  "full_text": "Want to save money by putting your scrap yarn to good use? Make a toy a child will love! Learn how to knit a child’s toy using your left over yarn with this simple knitting pattern now. Description Follow the Bouncing ball is a seamless ball knit in the round Needles Size US 6/4.0 mm Knitting Needles, or size needed to get gauge. Yarn Worsted weight that achieves gauge given Gauge 4.75 stitches and 9 rows = 1 inch in Stockinette in the round Supplies Fiberfill stuffing, yarn needle for weaving in ends Skills Needed Knitting in the round Increasing and decreasing on DPNs",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/yarns",
-    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/report",
-    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/editors",
-    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/people",
-    "https://www.ravelry.com/patterns/sources/ways-to-knit-forever",
-    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/comments",
-    "https://www.ravelry.com/patterns/library/sunshine-hexipuff",
-    "https://www.ravelry.com/patterns/library/sunshine-hexipuff/threads"
-  ],
-  "name": "Ravelry: Sunshine Hexipuff pattern by Ailish Kelly"
+    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/report",
+    "https://www.ravelry.com/patterns/library/baby-janes",
+    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/people",
+    "https://www.ravelry.com/patterns/sources/fickle-knitter-design",
+    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/comments",
+    "https://www.ravelry.com/patterns/library/limestone-one-skein-triangle-shawl",
+    "https://www.ravelry.com/patterns/sources/fickle-knitter-website",
+    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball",
+    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/editors",
+    "https://www.ravelry.com/patterns/library/follow-the-bouncing-ball/yarns",
+    "https://www.ravelry.com/patterns/library/mama-janes"
+  ]
 }

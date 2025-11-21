@@ -1,43 +1,42 @@
 {
   "pattern_id": 849,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ladybug-scarf-2",
-  "name": "Ladybug Scarf",
-  "description": "The ladybug scarf is worked in rows back and forth with a faux i-cord edge on each side and a rib pattern with faux 1x1 cables. The scarf is long enough to be wrapped around the neck once and tied in the front. It is ideal for beginners wanting to dip their toes into knitting cables and anyone else who wants a small structured piece to spice up their outfits or add a little bit of cosyness.",
-  "designer": "Eva Komma (stockinettebitch)",
+  "pattern_page": "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "one size",
+  "category": "Blanket → Throw Blanket → Baby Blanket",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Crib (Throw)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lang Yarns Cashmere Premium"
+    "Purl Soho Knitting Yarn DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "cables",
-    "chart",
+    "bottom-up",
+    "modular",
     "one-piece",
-    "unisex",
-    "worked-flat"
+    "rectangle",
+    "selvedge",
+    "stripes-colorwork",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "The ladybug scarf is worked in rows back and forth with a faux i-cord edge on each side and a rib pattern with faux 1x1 cables. The scarf is long enough to be wrapped around the neck once and tied in the front. It is ideal for beginners wanting to dip their toes into knitting cables and anyone else who wants a small structured piece to spice up their outfits or add a little bit of cosyness. SIZE one size length of finished scarf: 105 cm width of finished scarf: 5,5 cm MATERIALS Lang Yarns Cashmere Premium 6ply 35g (115 m / 25 g) NEEDLES 3 mm circular needle (80 or 100 cm) 2 stitch markers KNITTING TENSION 22 stitches in width and 34 rows in height in stockinette stitch = 10 x 10 cm ABOUT THE PATTERN The pattern has written instructions on how to cast on and how to work the faux i-cord edge. The increases, main part with cable pattern and decreases are charted.",
-  "techniques": [
-    "decreases",
-    "increases"
-  ],
-  "shape": "sphere",
+  "full_text": "MATERIALS 8 (14) skeins of Purl Soho’s Knitting Yarn DK , 100% merino wool. Each skein is 219 yards/ 100 grams. Color A: 4 (7) skeins; approximately 835 (1525) yards required. We used Heirloom White. Color B: 4 (7) skeins; approximately 800 (1330) yards required. We used Violet Sea for the Crib size and Flax Flower Blue for the Throw size. You’ll also need… US 6 (4 mm), 40- or 47- inch circular needles Stitch markers or scrap yarn We also love how this pattern works up in Heirloom White plus New Leaf Green or Piglet Pink, but with 20 colors of Knitting Yarn DK to choose from, the options are endless! GAUGE 21 stitches and 40 rows = 4 inches in garter stitch SIZES Crib (Throw) Finished Dimensions: Approximately 30 (40) inches wide x 40 (53) inches long Designed by Purl Soho designer, Hiromi Glover , based on the original Little Mitered Stripes Scarf by Jake Canton . Click here to see even more of Hiromi’s work!",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ladybug-scarf-2/report",
-    "https://www.ravelry.com/patterns/library/ladybug-scarf-2/comments",
-    "https://www.ravelry.com/patterns/library/ladybug-scarf-2/people",
-    "https://www.ravelry.com/patterns/library/ladybug-scarf-2/yarns",
-    "https://www.ravelry.com/patterns/library/ladybug-scarf-2/threads",
-    "https://www.ravelry.com/patterns/library/ladybug-scarf-2/editors",
-    "https://www.ravelry.com/patterns/library/ladybug-scarf-2",
-    "https://www.ravelry.com/patterns/library/small-stupid-hat",
-    "https://www.ravelry.com/patterns/sources/eva-komma-stockinettebitchs-ravelry-store"
-  ]
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket",
+    "https://www.ravelry.com/patterns/library/tonal-blanket",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/comments",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/report",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/threads",
+    "https://www.ravelry.com/patterns/library/portal-blanket",
+    "https://www.ravelry.com/patterns/library/embossed-triangles-blanket",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/editors",
+    "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket/people",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: Little Mitered Stripes Blanket pattern by Purl Soho"
 }

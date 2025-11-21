@@ -1,37 +1,50 @@
 {
   "pattern_id": 515,
-  "pattern_page": "https://www.ravelry.com/patterns/library/litmus-cowl",
-  "name": "Litmus Cowl",
-  "description": "The Litmus Cowl is a basic recipe for creating a fun striped cowl. It’s something I improvised to work on while I was travelling and I got so many questions about it, I thought I’d write up what I did.",
-  "designer": "Jude Harper",
+  "pattern_page": "https://www.ravelry.com/patterns/library/linen-stitch-basket-2",
+  "name": "Linen Stitch Basket",
+  "description": "This practical and elegant basket works up fairly quickly and is really easy to knit. It is worked top down, beginning at the top edge of the basket, similar in construction to my Easy Bubble Basket. There are several customizable options for sizing and details, too!",
+  "designer": "Lizzie Rose Knits",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "One size",
+  "category": "Containers",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "sizes_available": "Two Sizes: Small or Large basket (desired height)",
   "languages": [
-    "English"
+    "English",
+    "French",
+    "German"
   ],
   "suggested_yarn": [
-    "Canon Hand Dyes Bruce Yak Merino Fingering",
-    "Fingering (14 wpi) ?"
+    "Lion Brand Wool Ease Thick & Quick",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
+    "icord",
     "in-the-round",
     "kitchener",
-    "provisional"
+    "one-piece",
+    "seamless",
+    "slipped-stitches",
+    "top-down",
+    "written-pattern"
   ],
-  "full_text": "The Litmus Cowl is a basic recipe for creating a fun striped cowl. It’s something I improvised to work on while I was travelling and I got so many questions about it, I thought I’d write up what I did. I knit mine using a mini skein kit from Canon Hand Dyes and a skein of undyed Merino Yak Nylon, but it’s perfect for using up leftover fingering weight yarn. I used 24 5g mini skeins for the contrast colours and one full skein of the undyed yarn as the main colour. The finished measurements (when grafted together) are 75cm long by 18cm wide - it’s perfect to wear wrapped twice. Gauge isn’t super important with this pattern - just knit to the length you’re happy with before you graft the ends together.",
+  "full_text": "This practical and elegant basket works up fairly quickly and is really easy to knit. It is worked top down, beginning at the top edge of the basket, similar in construction to my Easy Bubble Basket . There are several customizable options for sizing and details, too! There are two options for sizing this little basket, Small or Large. You may need a second skein of the bulky yarn if you make the larger size. It is worked to the desired height. Two sizes: small, 8” circumference, 12” tall, large, 10” circumference, 12” tall The Small basket is shown in photos. Linen stitch, which provides minimum stretch, is excellent for a basket like this. It’s perfect because you don’t want a basket to stretch! The materials you’ll need are pretty simple: A single skein of Lion Brand Wool-Ease Thick and Quick for Small, or two skeins for Size Large. Any colorway may be used, OR you can use another super bulky yarn, preferably with wool content A 18” - 24” circular knitting needle, or preferred method of working with a large circumference in the round A set of 2 dpns for the i-cord handles A large-eye yarn needle A pair of scissors If you downloaded this pattern while it was free for a limited time, thanks for supporting me - I was overwhelmed by all of the attention this pattern received but just recently decided to not charge any money for this design. Thank you all for your support! Many thanks to Jofraima for tech editing this and translating this into German. She has an awesome eye for details that I totally would have missed, and her translation is great. Thanks, Jofraima ! Also thank you so much Mimi91 for translating this pattern into French! Thanks, Myriam! Save to Pinterest here ! https://www.pinterest.com/pin/697635798508119278/ Save to LoveCrafts here ! https://www.lovecrafts.com/en-us/p/linen-stitch-basket-kn...",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/litmus-cowl/report",
-    "https://www.ravelry.com/patterns/library/litmus-cowl",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/comments",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/posts",
-    "https://www.ravelry.com/patterns/sources/stranded-dyeworks",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/threads",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/editors",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/people",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/yarns"
+    "https://www.ravelry.com/patterns/library/that-simple-hat",
+    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/report",
+    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2",
+    "https://www.ravelry.com/patterns/library/ginnys-bookmark",
+    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/people",
+    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/threads",
+    "https://www.ravelry.com/patterns/library/lavenders-bookmark",
+    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/comments",
+    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/yarns",
+    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/edit",
+    "https://www.ravelry.com/patterns/sources/true-north-knits-on-ravelry",
+    "https://www.lovecrafts.com/en-us/p/linen-stitch-basket-knitting-pattern-by-elizabeth-caneday",
+    "https://www.ravelry.com/patterns/sources/true-north-knits-on-lovecrafts",
+    "https://www.ravelry.com/patterns/library/linen-stitch-basket-2/editors",
+    "https://www.ravelry.com/patterns/library/easy-bubble-basket"
   ]
 }

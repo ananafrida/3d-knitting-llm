@@ -1,44 +1,37 @@
 {
   "pattern_id": 548,
-  "pattern_page": "https://www.ravelry.com/patterns/library/colorful-corner-blanket-in-tulip-cotton",
+  "pattern_page": "https://www.ravelry.com/patterns/library/grocery-bag-caddy",
+  "name": "Grocery Bag Caddy",
+  "description": "Sample shown in dishcloth cotton.",
+  "designer": "Susan Carnegie",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "approximately 27¼ inches wide x 38 inches long",
-  "languages": [
-    "English"
-  ],
+  "category": "Containers",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "suggested_yarn": [
-    "Purl Soho Tulip Cotton",
+    "",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
+    "in-the-round",
+    "mesh",
     "one-piece",
-    "other-colorwork",
-    "rectangle",
-    "schematic",
+    "ribbed",
     "seamless",
-    "stripes-colorwork",
-    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "MATERIALS 9 skeins of Purl Soho’s Tulip Cotton , 100% organically grown cotton. Each skein is 131 yards/ 100 grams. Color A: 1 skein; approximately 131 yards required Color B: 1 skein; approximately 131 yards required Color C: 1 skein; approximately 131 yards required Color D: 6 skeins; approximately 738 yards required You’ll also need… US 6 (4 mm), 40-inch circular needles For our samples we used (all use Heirloom White for Color D)… QUINCE: Color A, Amber Honey; Color B, Fresh Peach; Color C, Yuzu Yellow VALENTINE: Color A, Red Sequoia; Color B, Pink Cliff; Color C, Icy Pink CLOVER: Color A, Pine Bough; Color B, Spring Leaf; Color C, Fresh Honeydew GAUGE 17 stitches and 34 rows = 4 inches in garter stitch Note: We used the entirety of the skeins for this blanket. To avoid running out of yarn, check your gauge, be sparing with your tails, and reuse your swatch yarn, if necessary. SIZE Finished Dimensions: 27¼ inches wide x 38 inches long Originally designed by Purl Soho designer, Laura Ferguson , and updated by Gaby Bush .",
+  "full_text": "Sample shown in dishcloth cotton. I had been thinking about this grocery bag caddy for a while, inspired by a sleeve, and my love of market bags. The bag caddy I had previously was made of fabric, and the plastic grocery bags were always falling out the end. I figured if I made what was essentially a sleeve, with ribbing at both ends and market bag mesh in the middle, it would solve the problem of getting the bags in to the top (stretchy ribbing) holding them in at the bottom (again, stretchy ribbing), and holding a bunch of bags (stretchy mesh middle).",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/colorful-corner-blanket-in-tulip-cotton/threads",
-    "https://www.ravelry.com/patterns/library/colorful-corner-blanket-in-tulip-cotton/people",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/colorful-corner-blanket",
-    "https://www.ravelry.com/patterns/library/colorful-corner-blanket-in-tulip-cotton/report",
-    "https://www.ravelry.com/patterns/library/colorful-corner-blanket-in-tulip-cotton",
-    "https://www.ravelry.com/patterns/library/colorful-corner-blanket-in-tulip-cotton/editors",
-    "https://www.ravelry.com/patterns/library/easy-puzzle-blanket",
-    "https://www.ravelry.com/patterns/library/flying-geese-baby-blanket",
-    "https://www.ravelry.com/patterns/library/colorful-corner-blanket-in-tulip-cotton/comments",
-    "https://www.ravelry.com/patterns/library/colorful-corner-blanket-in-tulip-cotton/yarns",
-    "https://www.ravelry.com/patterns/library/colorful-corner-blanket-in-tulip-cotton/posts"
-  ],
-  "name": "Ravelry: Colorful Corner Blanket In Tulip Cotton pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/comments",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/report",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/editors",
+    "https://www.ravelry.com/patterns/library/lets-do-lunch-bag",
+    "https://www.ravelry.com/patterns/library/jackies-goodie-bag",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/yarns",
+    "https://www.ravelry.com/patterns/sources/carknitgiehaul",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/threads",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/people",
+    "https://www.ravelry.com/patterns/library/grocery-bag-caddy"
+  ]
 }

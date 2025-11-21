@@ -1,37 +1,39 @@
 {
   "pattern_id": 611,
-  "pattern_page": "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket",
-  "name": "\"Peekaboo\" Baby Blanket",
-  "description": "This blanket has to be one of my ultimate easy-knits. I don’t know what it is about blankets knitted diagonally (or on the bias / corner to corner) but they just seem to fly off my needles at a speed that no other project does. I know this is probably just my perception, but it helps massively when you want to knit up the perfect baby gift in record time!",
-  "designer": "Snufflebean Yarn",
+  "pattern_page": "https://www.ravelry.com/patterns/library/feline-dim-sum",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Pet → Toys",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Woolly and Warmy Cicibebe Batik"
+    "Plymouth Yarn Encore Worsted Solids & Heathers",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "video-tutorial",
+    "3-dimensional",
+    "one-piece",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This blanket has to be one of my ultimate easy-knits. I don’t know what it is about blankets knitted diagonally (or on the bias / corner to corner) but they just seem to fly off my needles at a speed that no other project does. I know this is probably just my perception, but it helps massively when you want to knit up the perfect baby gift in record time! Those of you who are not new to my knitting will know I have a similar pattern already available. This version was born as I’ve always had people asking me about a version with a little peephole feature on the border instead of the solid border my other pattern has. You ask, and I deliver:",
+  "full_text": "Additional materials: stuffing, catnip Two patterns: eggroll and wonton.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6",
-    "https://www.ravelry.com/patterns/sources/snufflebean-yarn",
-    "https://www.ravelry.com/patterns/library/diagonal-garter-stitch-scarf-3",
-    "https://www.ravelry.com/patterns/sources/snufflebean-yarns-ravelry-store",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket",
-    "https://www.ravelry.com/patterns/library/striped-diagonal-baby-blanket",
-    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/report"
-  ]
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/people",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/threads",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/report",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/yarns",
+    "https://www.ravelry.com/patterns/sources/knitty-spring-2003",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/posts",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/comments",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/edit",
+    "https://www.ravelry.com/patterns/library/feline-dim-sum/editors",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/kitty-dim-sum"
+  ],
+  "name": "Ravelry: Feline Dim Sum pattern by Julie Falatko"
 }

@@ -1,39 +1,35 @@
 {
   "pattern_id": 970,
-  "pattern_page": "https://www.ravelry.com/patterns/library/catch",
+  "pattern_page": "https://www.ravelry.com/patterns/library/projective-plane",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "category": "Decorative → Other Toys and Hobbies → Other",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Berroco Sox Metallic"
+    ""
   ],
   "attributes": [
     "in-the-round",
-    "seamless",
-    "stranded",
+    "moebius",
+    "reversible",
+    "textured",
     "written-pattern"
   ],
-  "full_text": "Catch is a corrugated rib hacky sack. Knit a few and they’re juggling balls! Subscribe to KnitBits for a weekly newsletter with free patterns!",
+  "full_text": "This is really a recipe rather than a pattern---you get to decide on your yarn, needles, and gauge. The number of stitches you cast on determines the diameter of the finished object.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/catch/threads",
-    "https://www.ravelry.com/patterns/library/lakenvelder",
-    "https://www.ravelry.com/patterns/library/catch/editors",
-    "http://www.berroco.com/patterns/catch",
-    "https://www.ravelry.com/patterns/library/catch/report",
-    "https://www.ravelry.com/patterns/periodicals/berroco",
-    "https://www.ravelry.com/patterns/library/aidez",
-    "https://www.ravelry.com/patterns/library/espenson",
-    "https://www.ravelry.com/patterns/library/catch/comments",
-    "https://www.ravelry.com/patterns/sources/berroco-website",
-    "https://www.ravelry.com/patterns/library/catch",
-    "https://www.ravelry.com/patterns/library/catch/yarns",
-    "https://www.ravelry.com/patterns/library/catch/people"
+    "https://www.ravelry.com/patterns/sources/sarah-maries-mathematical-knitting-pages",
+    "https://www.ravelry.com/patterns/library/projective-plane/people",
+    "https://www.ravelry.com/patterns/library/torus",
+    "https://www.ravelry.com/patterns/library/projective-plane/editors",
+    "https://www.ravelry.com/patterns/library/pseudosphere",
+    "https://www.ravelry.com/patterns/library/klein-bottle",
+    "https://www.ravelry.com/patterns/library/projective-plane/report",
+    "https://www.ravelry.com/patterns/library/projective-plane",
+    "https://www.ravelry.com/patterns/library/projective-plane/yarns",
+    "https://www.ravelry.com/patterns/library/projective-plane/comments"
   ],
-  "name": "Ravelry: Catch pattern by Cirilia Rose"
+  "name": "Ravelry: Projective Plane pattern by sarah-marie belcastro"
 }

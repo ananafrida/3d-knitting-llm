@@ -1,43 +1,38 @@
 {
   "pattern_id": 601,
-  "pattern_page": "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
+  "category": "Pet → Toys",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "30\"x32\"",
-  "languages": [
-    "English"
-  ],
+  "sizes_available": "One size",
   "suggested_yarn": [
-    "Orange Flower Yarn DK 250",
-    "DK (11 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Herrschners Worsted Weight"
   ],
   "attributes": [
-    "chart",
+    "3-dimensional",
     "one-piece",
-    "rectangle",
     "ribbed",
-    "textured",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A free pattern for a baby blanket in garter rib. Requires approx. 680 yards for a finished size of 30”x32” This free pattern is for personal, non-commercial use only. You may not sell, reproduce, or distribute the pattern. You may sell items made from this pattern for charity auctions or fund raisers.",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/people",
-    "https://www.orangefloweryarn.com/free-patterns-1",
-    "https://www.ravelry.com/patterns/library/the-age-of-brass-and-steam-kerchief",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-cowl",
-    "https://www.ravelry.com/patterns/library/duotone-cowl",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/sources/orange-flower-yarn",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/posts"
+  "full_text": "Worked flat in one piece. The ball end is stuffed with polyester fiberbill or waste yarn and a jingle bell, and sewn shut. Finished length is about 24”; ball is about 5” in circumfrence Getting an exact gauge is not that important, but fabric should be firm enough to hold stuffing invisibly.",
+  "techniques": [
+    "worked flat"
   ],
-  "name": "Ravelry: Garter Rib Baby Blanket pattern by Orange Flower Yarn"
+  "shape": "sphere",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/editors",
+    "https://www.ravelry.com/patterns/library/stashbuster-stripe-dishcloth",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/report",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/people",
+    "https://www.ravelry.com/patterns/sources/fun-things-to-do-while-youre-waiting",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/yarns",
+    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy",
+    "https://www.ravelry.com/patterns/library/mitred-square-dishcloth",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/threads",
+    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/comments"
+  ],
+  "name": "Ravelry: Knitted Bouncy Door Hanger Cat Toy pattern by Sheila Ralston"
 }

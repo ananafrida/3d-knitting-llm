@@ -1,48 +1,41 @@
 {
   "pattern_id": 413,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bear-cub-hooded-jacket",
-  "name": "Bear Cub Hooded Jacket",
-  "description": "You can buy the book that contains this pattern here for £9.50.",
-  "designer": "Sarah Hatton",
+  "pattern_page": "https://www.ravelry.com/patterns/library/merry-little-heart",
+  "name": "Merry Little Heart",
+  "description": "This is a miniature version of Rustic Little Heart, and would make a cute Christmas tree ornament. It uses a very small amount of DK or Sport weight yarn. Any other yarn weight may be used, but may affect resulting size.",
+  "designer": "Heidi Kirrmaier",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "0-3 months, 3-6 months, 6-9 months, 9-12 months, 12-18 months",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "4.5 cm tall x 5.5 cm wide",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "West Yorkshire Spinners Bo Peep 4ply"
+    "DK (11 wpi) ?",
+    "Rauma 3 tråds Strikkegarn"
   ],
   "attributes": [
-    "baby",
     "bottom-up",
-    "crew-neck",
-    "drop-sleeve",
-    "hood",
-    "newborn-size",
-    "seamed",
-    "toddler",
-    "worked-flat",
-    "written-pattern"
+    "one-piece",
+    "seamless",
+    "worked-flat"
   ],
-  "full_text": "You can buy the book that contains this pattern here for £9.50. Finished measurements Actual width (laid flat): 26 (27.5, 28.5, 29, 30.5) cm Full length: 25 (27, 29, 31, 33) cm Sleeve length: 12 (15, 17, 19, 21) cm Needles & accessories 1 pair 2.75mm (US 2/UK 12) straight knitting needles 1 pair 3.25mm (US 3/UK 10) straight knitting needles Stitch holders 5 (5, 5, 6, 6) buttons Yarn 2 (3, 3, 3, 4) x 50g balls in Teddy Bear (165) On Lovecrafts.",
+  "full_text": "This is a miniature version of Rustic Little Heart , and would make a cute Christmas tree ornament. It uses a very small amount of DK or Sport weight yarn. Any other yarn weight may be used, but may affect resulting size. It is knit from the bottom point up. Once the center diamond is complete, a semi circle is worked on each side of the top to complete the shape. Enjoy!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cone",
   "download_links": [
-    "https://www.lovecrafts.com/en-us/p/bear-cub-hooded-jacket-in-west-yorkshire-spinners-bo-peep-4-ply-dbp0015-downloadable-pdf",
-    "https://www.ravelry.com/patterns/library/bear-cub-hooded-jacket",
-    "https://www.ravelry.com/patterns/periodicals/west-yorkshire-spinners",
-    "https://www.ravelry.com/patterns/library/betwixtmas-2023-make-along",
-    "https://www.ravelry.com/patterns/library/lyra-feather-lace-yoke-top",
-    "https://www.ravelry.com/patterns/library/sucre-cardigan",
-    "https://www.ravelry.com/patterns/sources/west-yorkshire-spinners-on-lovecrafts",
-    "https://www.ravelry.com/patterns/library/bear-cub-hooded-jacket/editors",
-    "https://www.ravelry.com/patterns/library/bear-cub-hooded-jacket/comments",
-    "https://www.ravelry.com/patterns/library/bear-cub-hooded-jacket/people",
-    "https://www.ravelry.com/patterns/sources/wys-bo-peep-story-book-2",
-    "https://www.ravelry.com/patterns/library/bear-cub-hooded-jacket/report",
-    "https://www.ravelry.com/patterns/library/bear-cub-hooded-jacket/yarns"
+    "https://www.ravelry.com/patterns/library/merry-little-heart",
+    "https://www.ravelry.com/patterns/library/rustic-little-heart",
+    "https://www.ravelry.com/patterns/library/ursa-minor",
+    "https://www.ravelry.com/patterns/library/merry-little-heart/threads",
+    "https://www.ravelry.com/patterns/library/merry-little-heart/yarns",
+    "https://www.ravelry.com/patterns/library/merry-little-heart/comments",
+    "https://www.ravelry.com/patterns/sources/heidi-kirrmaiers-ravelry-shop",
+    "https://www.ravelry.com/patterns/library/space-tank",
+    "https://www.ravelry.com/patterns/library/merry-little-heart/report",
+    "https://www.ravelry.com/patterns/library/spacetime",
+    "https://www.ravelry.com/patterns/library/merry-little-heart/editors",
+    "https://www.ravelry.com/patterns/library/merry-little-heart/people"
   ]
 }

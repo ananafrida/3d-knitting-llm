@@ -1,38 +1,41 @@
 {
   "pattern_id": 876,
-  "pattern_page": "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7",
-  "name": "Simple Ribbed Scarf",
-  "description": "This easy pattern is perfect for Donegal Tweed Gradient by Garn Manufaktur.",
-  "designer": "Makers' Mercantile",
+  "pattern_page": "https://www.ravelry.com/patterns/library/petits-pins",
+  "name": "Petits Pins",
+  "description": "Espace Tricot is a yarn store in",
+  "designer": "Espace Tricot",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "7.0 mm",
-  "sizes_available": "One Size",
+  "category": "Blanket → Baby Blanket",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "30\" x 32\"",
   "languages": [
-    "English"
+    "English",
+    "French"
   ],
   "suggested_yarn": [
-    "Garnmanufaktur Donegal Tweed Farbverlauf",
-    "Bulky (7 wpi) ?"
+    "Aran (8 wpi) ?",
+    "ArtFil Aran"
   ],
   "attributes": [
-    "one-piece",
-    "ribbed"
+    "chart",
+    "lace",
+    "rectangle",
+    "written-pattern"
   ],
-  "full_text": "This easy pattern is perfect for Donegal Tweed Gradient by Garn Manufaktur. 100% Merino Wool forms this classic Donegal Tweed. It has a rustic look with a super soft touch. The gradient colors slowly transcend from one hue to the next. Each cake comes with 200g and 212 yards - enough for a good sized shawl or nice long scarf or full cowl. Get this amazing yarn HERE Note: “Farbverlauf” means Gradient in German",
+  "full_text": "Espace Tricot is a yarn store in Montreal, Canada. Discover our yarns here! www.espacetricot.com Inspired by the Norwegian Fir cardigan pattern by OGE Knitwear Designs, we’ve developed a sweet coordinating baby blanket featuring an all-over lace pattern framed with a border of easy garter stitch. Petits Pins was designed with Artfil ARAN, a heavenly soft 4-ply pure merino wool that is machine washable for worry-free care.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/yarns",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/comments",
-    "https://www.ravelry.com/patterns/library/progress-pride-wristband",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/editors",
-    "https://www.ravelry.com/patterns/sources/makers-mercantile",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/report",
-    "https://www.makersmercantile.com/shop/c/p/Simple-Ribbed-Pattern---free-pdf-pattern-download-x59384104.htm",
-    "https://www.ravelry.com/patterns/library/fall-harvest-3",
-    "https://www.ravelry.com/patterns/library/silk-rope-summer-cowl",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7/people"
+    "https://www.ravelry.com/patterns/library/warm-up-sweater",
+    "https://www.ravelry.com/patterns/library/petits-pins/report",
+    "https://www.ravelry.com/patterns/library/calliope-13",
+    "https://www.ravelry.com/patterns/sources/espace-tricot-ravelry-store",
+    "https://www.ravelry.com/patterns/library/petits-pins/people",
+    "https://www.ravelry.com/patterns/library/petits-pins/comments",
+    "https://www.ravelry.com/patterns/library/the-classic-2",
+    "https://www.ravelry.com/patterns/library/petits-pins/editors",
+    "https://www.ravelry.com/patterns/library/petits-pins",
+    "https://www.ravelry.com/patterns/library/petits-pins/yarns",
+    "https://www.ravelry.com/patterns/library/petits-pins/threads"
   ]
 }

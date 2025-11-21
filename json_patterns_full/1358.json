@@ -1,36 +1,42 @@
 {
   "pattern_id": 1358,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-teabag",
-  "name": "Knitted Teabag",
-  "description": "A little teabag knitted in dk on 3mm needles but any yarn or needle size can be used to make smaller/bigger tea bags",
-  "designer": "Jenny Church",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sweet-heart-2",
+  "name": "sweet heart",
+  "description": "This is a mini heart: finished measurements aprox. 5cm/ 6cm. It could be made into jewelry or given to your sweetie!",
+  "designer": "The Knit Cafe Toronto",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "DK (11 wpi) ?"
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "textured"
+    "3-dimensional",
+    "bottom-up",
+    "in-the-round",
+    "kitchener",
+    "seamed",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "A little teabag knitted in dk on 3mm needles but any yarn or needle size can be used to make smaller/bigger tea bags",
+  "full_text": "This is a mini heart: finished measurements aprox. 5cm/ 6cm. It could be made into jewelry or given to your sweetie!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/marshmallows-4",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/report",
-    "https://www.ravelry.com/patterns/sources/jenny-churchs-ravelry-store",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-teabag",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/comments",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/threads",
-    "https://www.ravelry.com/patterns/library/knitted-sushi",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/people",
-    "https://www.ravelry.com/patterns/library/pumpkin-spice-latte-10",
-    "https://www.ravelry.com/patterns/library/knitted-teabag/editors"
+    "https://www.ravelry.com/patterns/library/easy-hat",
+    "https://www.ravelry.com/patterns/library/504-king-west",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/people",
+    "https://www.ravelry.com/patterns/library/curious",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/editors",
+    "https://www.ravelry.com/patterns/sources/the-knit-cafe-toronto-on-ravelry",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/comments",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/yarns",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/threads",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/report"
   ]
 }

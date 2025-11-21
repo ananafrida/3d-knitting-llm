@@ -1,39 +1,38 @@
 {
   "pattern_id": 2196,
-  "pattern_page": "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch",
+  "pattern_page": "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn",
+  "name": "Baby Tassel Hat with Sock Yarn",
+  "description": "My first published pattern. In the process of designing and knitting a baby cardigan pattern, I decided to make a matching hat pattern that looked a little different.",
+  "designer": "Kristin Carroll",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "one size",
+  "category": "Hat → Pixie",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Newborn, 3-6 months",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "child",
-    "one-piece",
-    "seamless",
-    "unisex",
-    "worked-flat",
+    "baby",
+    "icord",
+    "in-the-round",
+    "newborn-size",
     "written-pattern"
   ],
-  "full_text": "If using cotton yarn make sure you make the ties long enough as cotton does not have the elastic properties needed to bounce back.",
+  "full_text": "My first published pattern. In the process of designing and knitting a baby cardigan pattern, I decided to make a matching hat pattern that looked a little different. This is actually knitted with less than half a 50 gram skein of leftover sock yarn. It is easy to increase size…just add 12 stitches to the given number to go up a size. I just haven’t tested it with live babies yet. My niece is having a baby in November so hope to have modeled photos soon.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/comments",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/edit",
-    "http://mylovleycrunchylife.blogspot.com/2008/05/shiver-me-timbers-eye-patch-pattern.html",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/yarns",
-    "https://www.ravelry.com/patterns/sources/letting-it-all-hang-out",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/report",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/people",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/threads",
-    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/editors"
-  ],
-  "name": "Ravelry: Shiver Me Timbers (Eye Patch) pattern by Corri Taylor"
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/comments",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/threads",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/report",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/editors",
+    "https://www.ravelry.com/patterns/sources/kristin-carrolls-ravelry-store",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/people",
+    "https://www.ravelry.com/patterns/library/baby-tassel-hat-with-sock-yarn/yarns"
+  ]
 }

@@ -1,39 +1,45 @@
 {
   "pattern_id": 518,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2",
-  "name": "Mosaic Dot Scarf",
-  "description": "Looking for a new cowl or scarf pattern to keep your neck cozy? How about one that looks a bit fancy, but is actually very simple to knit? Well grab some needles and check out our Mosaic Dot Scarf!",
-  "designer": "Emily Bolduan",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-gift-basket",
+  "name": "Knitted Gift Basket",
+  "description": "We are always looking for fashionable and functional ways to package gifts to eliminate the need for one-time use gift wrap. Our Knitted Gift Basket is a great solution for small gifts. Not only does it have a sweet, handmade touch, but it can serve as a basket for any number of things, including knitting notions or jewelry.",
+  "designer": "Billy and Baa",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf Neck / Torso → Cowl",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "4ply, 8ply, 10ply, 14ply / Cowl (Scarf)",
+  "category": "Containers",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "4\" x 4\" x 2.5\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Ochre Yarns 306 Merino Yak Silk",
-    "Worsted (9 wpi) ?"
+    "Bulky (7 wpi) ?",
+    "Ewe Ewe Yarns Baa Baa Bulky"
   ],
   "attributes": [
-    "mosaic",
+    "bottom-up",
+    "in-the-round",
+    "phototutorial",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Looking for a new cowl or scarf pattern to keep your neck cozy? How about one that looks a bit fancy, but is actually very simple to knit? Well grab some needles and check out our Mosaic Dot Scarf! This baby is a breeze to knit, and is a great introduction to Mosaic Knitting, a technique that I like to refer to as “cheat’s colourwork”. It is a technique that gives you the complexity of multi-coloured patterns, with the simplicity of using just one yarn at a time! The Dot pattern itself zooms along thanks to several plain knit rows and the incentive that comes with knitting stripes (“oh, I’ll just knit one more row!”), but still has a bit going on to keep it interesting. We encourage you to get as creative as you like with the colours. Think 1 main and 1 contrast (like our coral version), swap the main and contrast halfway through (like our blue one), or stripe lots of different colours in the background while using up some stash. The pattern has been designed so it can be knit in 4ply, 8ply, 10ply or 14ply yarns - all you need to do is choose your weight and favourite colours, then dive right in! MATERIALS Dimensions: approximately 20-22cm wide x 140cm long (cowl) or 180cm long (scarf) Materials: Yarn needle for sewing up 4ply / Fingering Version Yarn: Any 4ply / Fingering weight yarn Quantity: MC: Approximately 350-400m CC: Approximately 250-400m Needle: 3.50mm needle Gauge: 28sts to 10cm in mosaic pattern 8ply / DK Version Yarn: Any 8ply / DK weight yarn Quantity: MC: Approximately 200-275m CC: Approximately 175-275m Needle: 4.50mm needle Gauge: 20sts to 10cm in mosaic pattern 10ply / Worsted or Aran Version Yarn: Any 10ply / Worsted or Aran yarn Quantity: MC: Approximately 190-250m CC: Approximately 150-250m Needle: 5.50mm needle Gauge: 17sts to 10cm in mosaic pattern 14ply / Chunky Version Yarn: Any 14ply / Bulky weight yarn Quantity: MC: Approximately 150-200m CC: Approximately 100-200m Needle: 8.00mm needle Gauge: 12sts to 10cm in mosaic pattern Please note that yardage is loosely estimated due to the different combinations of colours and lengths possible. But if it helps, using only one main colour throughout should use about 60% MC and 40% CC. Or if you swap your Main and Contrast colours halfway like we did, you should use a pretty even amount of each. Samples Our Blue & White 10ply sample was made in BC Garn Northern Lights, colours 1 Cream and 17 Light Blue (1 skein each). Our Coral & Pink 4ply sample was made in Ochre Yarns 306, colours 109 Pomegranate (365m) and 105 Blossom (212m)",
-  "techniques": [],
+  "full_text": "We are always looking for fashionable and functional ways to package gifts to eliminate the need for one-time use gift wrap. Our Knitted Gift Basket is a great solution for small gifts. Not only does it have a sweet, handmade touch, but it can serve as a basket for any number of things, including knitting notions or jewelry. CONSTRUCTION: The base of the basket is worked flat. Pick up stitches around the square base to create the walls, which are knit in the round. SIZE: approx. 4” x 4” x 2.5” NOTIONS: 4 stitch markers YARN: 75 yards of bulky weight yarn. Sample shown in: Ewe Ewe Baa Baa Bulky * (bulky weight; 100% superwash merino wool; 132 yards (120 m) in Charcoal colorway.* NEEDLES: US 6 (4 mm) and US 5 (3.75 mm). Larger needles are used to work the base and the walls of the basket, while the smaller needles are used to work the lip. Double points or circular needles can be used. See this pattern on www.billyandbaa.com .",
+  "techniques": [
+    "pick up stitches",
+    "worked flat"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/threads",
-    "https://www.ravelry.com/patterns/sources/maker-maker-store",
-    "https://www.ravelry.com/patterns/library/tip-top-tank-3",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/people",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/report",
-    "https://www.ravelry.com/patterns/library/see-my-vest---worsted",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/yarns",
-    "https://www.ravelry.com/patterns/library/see-my-vest---chunky",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/editors",
-    "https://www.ravelry.com/patterns/library/mosaic-dot-scarf-2/comments"
+    "https://www.ravelry.com/patterns/library/pom-pom-gnome",
+    "https://www.ravelry.com/patterns/library/knitted-gift-basket",
+    "https://www.ravelry.com/patterns/library/pin-pennant",
+    "https://www.ravelry.com/patterns/library/knitted-gift-basket/threads",
+    "https://www.ravelry.com/patterns/sources/billy-and-baa-website",
+    "https://www.ravelry.com/patterns/library/knitted-gift-basket/comments",
+    "https://www.ravelry.com/patterns/sources/billy-and-baa-on-ravelry",
+    "https://www.ravelry.com/patterns/library/knitted-gift-basket/people",
+    "https://www.ravelry.com/patterns/library/knitted-gift-basket/yarns",
+    "https://www.ravelry.com/patterns/library/knitted-gift-basket/report",
+    "https://www.ravelry.com/patterns/library/sweater-on-the-elf",
+    "https://www.ravelry.com/patterns/library/knitted-gift-basket/editors"
   ]
 }

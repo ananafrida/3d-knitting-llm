@@ -1,42 +1,44 @@
 {
   "pattern_id": 111,
-  "pattern_page": "https://www.ravelry.com/patterns/library/baby-blocks-l10597",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sloth-25",
+  "name": "Sloth",
+  "description": "SLOTH NEWS!",
+  "designer": "Claire Garland",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
-  "sizes_available": "4x4x4 in. (10 x 10 x 10 cm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "sizes_available": "Finished size of mine (using the gauge mentioned in the pattern) Approx. 15cm/ 6in tall long, from tip of nose to tip of tail",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Hometown",
-    "Super Bulky (5-6 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Alpaca"
   ],
   "attributes": [
-    "cube-shaped",
-    "other-colorwork",
-    "seamed",
+    "modular",
+    "one-piece",
+    "short-rows",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Lion Brand Pattern #: L10597 SKILL LEVEL: Beginner Hometown USA® (Article #135) 6 colors, 1 ball each Knitting Needles - Size 13 [9 mm] Exact gauge is not essential for this project. BLOCK (make 2) Sides: Make one in each A, B, C, D, E and F in garter stitch Sew seams, stuffing Block with fiberfill before finishing last seam.",
-  "techniques": [],
+  "full_text": "SLOTH NEWS! Pattern is correct from 9th October 16.00 BST, before then please look at the errata or download again Claire xxx October 2023 #freebeefrIdayknits ** - A FREE SLOTH! I read up about them and: From Wiki: ‘… Sloths are a Neotropical group of xenarthran mammals constituting the suborder Folivora, including the extant arboreal tree sloths and extinct terrestrial ground sloths.’ Hmm! Anyway - my little guy is knitted as small as I could in alpaca yarn (just so he/ she has an element of fluffiness, sloths are soo hairy!) You can, of course choose to knit yours with a larger gauge yarn on larger needles, there are some fine faux fur yarns out there! (… just saying/ would love to see someone knit a big one!) He/ she is knitted in one piece - modular, so joining on parts as you go, as with probably all of my ‘today’ patterns. You’ll need some toy safety eyes - my ones are 8mm ones from Etsy And it would be cool to add some wire or even magnets for huggable arms? On this occasion, I did use a wire armature and the instructions on how I did it and what wire I used are all written, with links to where I bought mine, in the pattern. And to end… some more sloth facts: Everything is sluggish and slow-moving, even food digestion. They spend most of their lives hanging in the trees. They are incredibly picky when it comes to pooping. Hey?! Sloths are surprisingly good at swimming - that I didn’t know! Enjoy yours! x",
+  "techniques": [
+    "modular"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.ravelry.com/patterns/library/baby-blocks-l10597/edit",
-    "https://www.ravelry.com/patterns/library/baby-blocks-l10597/yarns",
-    "https://www.ravelry.com/patterns/library/baby-blocks-l10597/comments",
-    "https://www.ravelry.com/patterns/library/baby-blocks-l10597/report",
-    "https://www.ravelry.com/patterns/library/baby-blocks-l10597",
-    "https://www.ravelry.com/patterns/library/baby-blocks-l10597/people",
-    "https://www.ravelry.com/patterns/library/baby-blocks-l10597/editors",
-    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
-    "https://www.ravelry.com/patterns/library/diagonal-eyelet-baby-blanket-2",
-    "https://www.lionbrand.com/products/knitting-pattern-baby-blocks-1",
-    "https://www.ravelry.com/patterns/library/baby-blocks-l10597/threads",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket"
-  ],
-  "name": "Ravelry: Baby Blocks #L10597 pattern by Lion Brand Yarn"
+    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sloth-25/editors",
+    "https://mcusercontent.com/fbb5cf7d2cfc0c4aa23bd8682/files/82bb1d40-45ef-919e-04e5-c885f1e7e5f9/SLOTH_ERRATA.01.pdf",
+    "https://www.ravelry.com/patterns/library/sloth-25/comments",
+    "https://www.ravelry.com/patterns/library/sloth-25",
+    "https://www.ravelry.com/patterns/library/rhino-baby",
+    "https://www.ravelry.com/patterns/library/chipmunk-5",
+    "https://www.ravelry.com/patterns/library/sloth-25/people",
+    "https://www.ravelry.com/patterns/library/rabbit-doll",
+    "https://www.ravelry.com/patterns/library/sloth-25/threads",
+    "https://www.ravelry.com/patterns/library/sloth-25/yarns",
+    "https://www.ravelry.com/patterns/library/sloth-25/report"
+  ]
 }

@@ -1,45 +1,39 @@
 {
   "pattern_id": 7,
-  "pattern_page": "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal",
-  "name": "2024 Sampler Blanket Yearly KAL",
-  "description": "ERRATUM. There was a mistake in the Dec section, it has been fixed (13 Dec 2024). The PDFs now available have the correct version.",
-  "designer": "Cécile Mouton",
+  "pattern_page": "https://www.ravelry.com/patterns/library/childs-lamb-costume",
+  "name": "Child's Lamb Costume",
+  "description": "I originally free-handed this project for my son’s nativity lamb costume, but have recreated it so others can knit it as well. This is the first pattern I have written, so please send me any corrections or suggestions (ravatar: tinto).",
+  "designer": "Margot Stevens",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "languages": [
-    "English",
-    "French"
-  ],
+  "category": "Costume",
+  "needle_size": "15.0 mm, US 19",
+  "sizes_available": "3-4 year old",
   "suggested_yarn": [
-    "Distrifil Azurite",
-    "DK (11 wpi) ?"
+    "Lion Brand Wool Ease Thick & Quick",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "cables",
-    "chart",
-    "eyelets",
-    "modular",
-    "mosaic",
-    "rectangle",
-    "slipped-stitches",
+    "baby",
+    "child",
+    "in-the-round",
+    "seamed",
     "textured",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "ERRATUM. There was a mistake in the Dec section, it has been fixed (13 Dec 2024). The PDFs now available have the correct version. This is the 2024 yearly KAL in the Beginner’s Knit-Along group . Cécile (moderator) will design/use a different stich pattern each month, to be published both in chart and written form on the 10th each month of 2024 . EDIT. A Danish translation is available , month after month, care of MarianneHo - November is here Meant to be a sampler blanket , this pattern, like our previous yearly KALs in the group, is open to any kind of interpretation. You can knit 12 cloths, 12 blanket squares, 12 hats, 12 cowls, 12 pairs of mitts or slippers, 12 tissue box cosies… We provide a monthly stich pattern, feel free to use it as you wish. There will be textured squares, lace squares, cable squares, “advanced textured” squares. Something for all, from beginner to advanced knitter. An opportunity to try new stitch patterns on a relatively small item (each square blocks at 28 x 28 cm). The sample is knitted in DK yarn , but you can easily adapt it to any thickness by just knitted a few more/fewer stitches to get the wanted width with your chosen yarn. You will need US 6 (4mm) needles, and between 700 m and 900 m of yarn, depending on how large you make your squares. CAUTION . This is only an evaluated meterage. Since the pattern doesn’t exist yet, it’s impossible to forecast precisely.",
+  "full_text": "I originally free-handed this project for my son’s nativity lamb costume, but have recreated it so others can knit it as well. This is the first pattern I have written, so please send me any corrections or suggestions (ravatar: tinto).",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/oreilles-au-chaud",
-    "https://www.ravelry.com/patterns/sources/cecile-moutons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/report",
-    "https://www.ravelry.com/patterns/library/brioche-hat-sideways",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/comments",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/people",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/threads",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/yarns",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal/editors",
-    "https://www.ravelry.com/patterns/library/2023-cable-scarf",
-    "https://www.ravelry.com/patterns/library/2024-sampler-blanket-yearly-kal"
+    "https://www.ravelry.com/patterns/library/childs-lamb-costume/threads",
+    "https://www.ravelry.com/patterns/library/lammekostyme---lamb-costume-in-norwegian",
+    "https://www.ravelry.com/patterns/library/childs-lamb-costume/posts",
+    "https://www.ravelry.com/patterns/library/childs-lamb-costume/people",
+    "https://www.ravelry.com/patterns/library/childs-lamb-costume",
+    "https://www.ravelry.com/patterns/library/childs-lamb-costume/report",
+    "https://www.ravelry.com/patterns/sources/margotintos-blog",
+    "https://www.ravelry.com/patterns/library/childs-lamb-costume/yarns",
+    "https://www.ravelry.com/patterns/library/childs-lamb-costume/comments",
+    "https://www.ravelry.com/patterns/library/childs-lamb-costume/editors"
   ]
 }

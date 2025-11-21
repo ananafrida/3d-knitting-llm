@@ -1,37 +1,42 @@
 {
   "pattern_id": 2041,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel",
-  "name": "Sock tube modified afterthought heel",
-  "description": "How I modified an afterthought heel for a better fit.",
-  "designer": "Nathalie Fournier",
+  "pattern_page": "https://www.ravelry.com/patterns/library/swirl-ball-mystery",
+  "name": "Swirl Ball Mystery",
+  "description": "This is a 2-part Mystery knitting project that is fast and easy to make. In Part 1, you knit a flat piece of 3-colored garter stitch. In Part 2, you will seam one side and gather together the other two. Stuff and you have a ball with swirling colors!",
+  "designer": "Terry Morris",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
-  "sizes_available": "64 stitch sock tube",
+  "category": "Ball",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "2 1/4\" sphere",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Patons North America Kroy Socks"
+    "Lion Brand Bonbons (Metallic)",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "afterthought-heel",
-    "gusset",
-    "kitchener",
-    "short-rows"
+    "3-dimensional",
+    "bias",
+    "one-piece",
+    "seamed",
+    "sphere-shaped",
+    "worked-flat"
   ],
-  "full_text": "How I modified an afterthought heel for a better fit.",
+  "full_text": "This is a 2-part Mystery knitting project that is fast and easy to make. In Part 1, you knit a flat piece of 3-colored garter stitch. In Part 2, you will seam one side and gather together the other two. Stuff and you have a ball with swirling colors! The pattern is written so that you can print copies and give your friends (or customers) the first part of the KAL without revealing the final result. The second page/clue gives the finishing instructions and reveals the mystery. Fingering weight yarns produce a nice ornament for your Christmas decorations. Substitute heavier yarns and larger needles to make toy balls or household decorations.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/comments",
-    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/people",
-    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/yarns",
-    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/editors",
-    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/report",
-    "https://www.ravelry.com/patterns/library/textured-bath-mitt-2",
-    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel",
-    "https://www.ravelry.com/patterns/sources/nathalie-fourniers-ravelry-store"
+    "https://www.ravelry.com/patterns/library/fuchsia-flounce-socks",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/comments",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/yarns",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/editors",
+    "https://www.ravelry.com/patterns/library/ribbon-candy-ornaments",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/threads",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery",
+    "https://www.ravelry.com/patterns/library/st-augustine-socks",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/people",
+    "https://www.ravelry.com/patterns/sources/holiday-mystery-gifts-yahoo-group",
+    "https://www.ravelry.com/patterns/library/swirl-ball-mystery/report"
   ]
 }

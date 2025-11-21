@@ -1,41 +1,43 @@
 {
   "pattern_id": 1502,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins",
-  "name": "Gourdgeous Knit Pumpkins",
-  "description": "Fall decor has never been faster with the Gourdgeous (Gourds, get it?) Knit Pumpkins. Any beginner can make these in no time, using only a knit tube or rectangle sewn into a pumpkin shape. Each ball of recommended yarn makes 2 pumpkins. Customize the look by switching up colors, yarn thickness and needle size, or stem material.",
-  "designer": "Adrienne Sullivan",
+  "pattern_page": "https://www.ravelry.com/patterns/library/girly-bag",
+  "name": "Girly Bag",
+  "description": "Description from MagKnits.com:",
+  "designer": "Amy Polcyn",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
+  "category": "Bag → Tote Bag → Purse / Handbag",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Thick & Quick",
-    "Super Bulky (5-6 wpi) ?"
+    "DK / Sport ?",
+    "Berroco Glacé"
   ],
   "attributes": [
-    "3-dimensional",
-    "icord",
-    "in-the-round",
-    "phototutorial",
+    "beads",
+    "female",
+    "seamed",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Fall decor has never been faster with the Gourdgeous (Gourds, get it?) Knit Pumpkins. Any beginner can make these in no time, using only a knit tube or rectangle sewn into a pumpkin shape. Each ball of recommended yarn makes 2 pumpkins. Customize the look by switching up colors, yarn thickness and needle size, or stem material. Photo tutorial instructions are for both knitting flat or in the round. No gauge; finished pumpkin size depends on amount of stuffing. Sample pumpkin is 6in wide and 3.5in tall. MATERIALS Approximately 40 yds Lion Brand Wool Ease Thick & Quick (1 full ball makes 2 pumpkins), or equivalent super bulky yarn Approximately 5 yds contrasting color yarn Size US15/10mm straight or circular knitting needles Size US9/5.5mm DPNs Stitch Marker Polyester Fiberfill Tapestry needle Scissors",
+  "full_text": "Description from MagKnits.com: A cute and very feminine purse, perfect for an evening out. The glossy rayon ribbon yarn, silk lining, and beaded flower appliqué dress up an otherwise simple design. The purse is worked in easy stockinette and features clear plastic handles and a magnetic snap closure. The pattern is easy enough for a new knitter and is sized right to carry the essentials.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/report",
-    "https://www.ravelry.com/patterns/sources/adrienne-sullivans-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cloud-slippers-2",
-    "https://www.ravelry.com/patterns/library/sway-kerchief",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/comments",
-    "https://www.ravelry.com/patterns/library/gourdgeous-crochet-pumpkins",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/editors",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/yarns",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/people",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/threads",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins"
+    "https://www.ravelry.com/patterns/library/girly-bag/report",
+    "https://www.ravelry.com/patterns/library/smocked-dress",
+    "https://www.ravelry.com/patterns/library/girly-bag/comments",
+    "https://www.ravelry.com/patterns/periodicals/knitting-pattern-a-day-calendars",
+    "https://www.ravelry.com/patterns/library/vintage-hot-pad",
+    "https://www.ravelry.com/patterns/library/girly-bag/yarns",
+    "https://www.ravelry.com/patterns/library/girly-bag/editors",
+    "https://www.ravelry.com/patterns/library/girly-bag/posts",
+    "https://www.ravelry.com/patterns/library/girly-bag/threads",
+    "https://www.ravelry.com/patterns/library/girly-bag",
+    "https://www.ravelry.com/patterns/sources/knitting-calendar-2009",
+    "https://www.ravelry.com/patterns/library/bubble-hat-2",
+    "https://www.ravelry.com/patterns/sources/magknits-november-2005",
+    "https://www.ravelry.com/patterns/library/girly-bag/people"
   ]
 }

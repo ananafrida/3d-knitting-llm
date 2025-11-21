@@ -1,41 +1,42 @@
 {
   "pattern_id": 222,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy",
-  "name": "Bolbuidel Yarn Ball Buddy",
-  "description": "Deze bolbuidel houdt je garen bij elkaar tijdens het breien. Je kunt er een cake in doen, maar het is ook geschikt voor een met de hand opgewonden ronde bol. Het voorkomt dat je cake uit elkaar valt of dat je bal garen alle kanten op rolt.",
-  "designer": "Draadje los",
+  "pattern_page": "https://www.ravelry.com/patterns/library/faefolk-hood",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
-  "sizes_available": "Small, medium, large",
+  "category": "Neck / Torso → Scarf Other Headwear → Other",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "Sample shown is 140cm folded and 33cm deep. Full wingspan unfolded is 280cm.",
   "languages": [
-    "Dutch",
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Fingering (14 wpi) ?"
+    "DK (11 wpi) ?",
+    "Hedgehog Fibres Oh So Fine Soufflé"
   ],
   "attributes": [
-    "bottom-up",
-    "eyelets",
-    "in-the-round",
+    "adult",
+    "icord",
     "one-piece",
-    "seamless",
-    "written-pattern"
+    "seamed",
+    "worked-flat"
   ],
-  "full_text": "This ball pouch keeps your yarn together while knitting. You can put a cake in it, but it is also suitable for a hand-wound round ball. It will prevent your cake from falling apart or your ball of yarn from rolling all over the place. The pattern has 3 sizes, for a 10, 50 or 100 gram ball. You can use snaps for the closure, but you can also thread 1 or 2 drawstrings through the holes in the border. Tip: The pouch is also nice as a gift packaging for, for example, a pair of baby socks, a pack of tea or a bar of soap. This yarn ball buddy prevents your ball of yarn from collapsing or rolling around the place. You can put a yarn cake in, but also a hand wound round ball of yarn. The pattern is available in three sizes, for a 10-, 50- or 100 gram ball of yarn. For closing the buddy, you can use snaps or put one or two draw strings through the holes in the edge. Tip: The pouch is also a nice package for a present, like a pair of baby socks, a package of tea or a bar of soap.",
-  "techniques": [],
-  "shape": "sphere",
+  "full_text": "Lightweight and generously sized, this hooded scarf is knitted in garter stitch with a fun zig zag edge and a built in i-cord. The Soufflé yarn is so soft and fluffy, an absolute delight to knit with and to wear. The scarf is knitted flat and the hood is seamed at the end. Yarn: 2 skeins Hedgehog Fibres Oh So Fine Soufflé (100% Merino, 300m/100g), colourway pictured is Desert Rose.",
+  "techniques": [
+    "seamed"
+  ],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/report",
-    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/comments",
-    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/editors",
-    "https://www.ravelry.com/patterns/sources/draadje-los-ravelry-store",
-    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy",
-    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/yarns",
-    "https://www.ravelry.com/patterns/library/bolbuidel-yarn-ball-buddy/people",
-    "https://www.ravelry.com/patterns/library/kubus-tasje---japanese-inspired-bag",
-    "https://www.ravelry.com/patterns/library/babymutsje---baby-hat"
-  ]
+    "https://www.ravelry.com/patterns/library/faefolk-hood/comments",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/faefolk-hood",
+    "https://www.ravelry.com/patterns/library/tweedy-junior",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/faefolk-hood",
+    "https://www.ravelry.com/patterns/library/faefolk-hood/threads",
+    "https://www.ravelry.com/patterns/library/faefolk-hood/yarns",
+    "https://www.ravelry.com/patterns/library/faefolk-hood/people",
+    "https://www.ravelry.com/patterns/library/faefolk-hood/editors",
+    "https://www.ravelry.com/patterns/library/faefolk-hood/report",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/wildspun-wrap"
+  ],
+  "name": "Ravelry: Faefolk Hood pattern by Beata Jezek"
 }

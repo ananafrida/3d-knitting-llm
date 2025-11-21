@@ -1,44 +1,42 @@
 {
   "pattern_id": 652,
-  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tossortug-to-knit",
+  "name": "TossOrTug to Knit",
+  "description": "Tons of fun for dogs! I make an indoor version by omitting the tennis ball.",
+  "designer": "Annie Dempsey",
   "craft": "Knitting",
-  "category": "Feet / Legs → Socks → Ankle Hat → Pixie",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "Med & Large Preemie and Newborn Baby",
+  "category": "Pet → Toys",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "sizes_available": "One size, about 17\" long",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Plymouth Yarn Dreambaby DK"
+    "Lily (Spinrite) Sugar'n Cream Ombres",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
     "in-the-round",
-    "newborn-size",
     "one-piece",
-    "preemie",
-    "worked-flat"
+    "seamless",
+    "written-pattern"
   ],
-  "full_text": "Pattern comes with a pattern for Elfin Sox.",
+  "full_text": "Tons of fun for dogs! I make an indoor version by omitting the tennis ball. Materials: 95 yards cotton worsted weight yarn Four double pointed knitting needles size 10.5 (US) [6.5mm] 1 tennis ball",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks/yarns",
-    "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks/posts",
-    "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks",
-    "https://www.ravelry.com/patterns/sources/p2-designs",
-    "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks/comments",
-    "http://www.p2designs.com/images/patterns/SetChristmasTree.html",
-    "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks/people",
-    "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks/editors",
-    "https://www.ravelry.com/patterns/library/nicu-friendly-t-bonnet",
-    "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks/threads",
-    "https://www.ravelry.com/patterns/library/just-your-basic-baby-sock",
-    "https://www.ravelry.com/patterns/library/just-your-basic-beanie",
-    "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks/report",
-    "https://www.ravelry.com/patterns/library/christmas-tree-hat--elfin-socks/edit"
-  ],
-  "name": "Ravelry: Christmas Tree Hat & Elfin Socks pattern by Patti Pierce Stone"
+    "https://www.ravelry.com/patterns/periodicals/oat-couture-patterns",
+    "https://www.ravelry.com/patterns/library/curlicue-coverlet",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/report",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/comments",
+    "https://www.ravelry.com/patterns/library/pinwheel-afghan-solid",
+    "https://www.ravelry.com/patterns/sources/oat-couture-yf003",
+    "https://www.ravelry.com/patterns/library/prairie-blanket",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/yarns",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/threads",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/people",
+    "https://www.ravelry.com/patterns/library/tossortug-to-knit/editors",
+    "https://www.ravelry.com/patterns/sources/oat-couture-on-ravelry"
+  ]
 }

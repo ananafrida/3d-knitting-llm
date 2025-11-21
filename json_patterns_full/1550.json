@@ -1,41 +1,43 @@
 {
   "pattern_id": 1550,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins",
-  "name": "Gourdgeous Knit Pumpkins",
-  "description": "Fall decor has never been faster with the Gourdgeous (Gourds, get it?) Knit Pumpkins. Any beginner can make these in no time, using only a knit tube or rectangle sewn into a pumpkin shape. Each ball of recommended yarn makes 2 pumpkins. Customize the look by switching up colors, yarn thickness and needle size, or stem material.",
-  "designer": "Adrienne Sullivan",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm",
+  "name": "The Cooler Side of Warm",
+  "description": "Espace Tricot is a yarn store in",
+  "designer": "Espace Tricot",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "One size but easily adjustable",
   "languages": [
-    "English"
+    "English",
+    "Additional languages which are not in the download: French"
   ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Thick & Quick",
-    "Super Bulky (5-6 wpi) ?"
+    "WOOLFOLK FAR",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "icord",
+    "bottom-up",
     "in-the-round",
-    "phototutorial",
-    "worked-flat",
-    "written-pattern"
+    "ribbed"
   ],
-  "full_text": "Fall decor has never been faster with the Gourdgeous (Gourds, get it?) Knit Pumpkins. Any beginner can make these in no time, using only a knit tube or rectangle sewn into a pumpkin shape. Each ball of recommended yarn makes 2 pumpkins. Customize the look by switching up colors, yarn thickness and needle size, or stem material. Photo tutorial instructions are for both knitting flat or in the round. No gauge; finished pumpkin size depends on amount of stuffing. Sample pumpkin is 6in wide and 3.5in tall. MATERIALS Approximately 40 yds Lion Brand Wool Ease Thick & Quick (1 full ball makes 2 pumpkins), or equivalent super bulky yarn Approximately 5 yds contrasting color yarn Size US15/10mm straight or circular knitting needles Size US9/5.5mm DPNs Stitch Marker Polyester Fiberfill Tapestry needle Scissors",
-  "techniques": [],
+  "full_text": "Espace Tricot is a yarn store in Montreal, Canada. Discover our yarns here! www.espacetricot.com The Cooler Side of Warm is a cozy cowl knit from the bottom up. It begins with 1x1 ribbing knit flat and then is joined to be worked in the round. As a result, it has a split-hem on one side that allows it to sit comfortably on the shoulder and lie flat against the back and chest. It is finished with 1x1 rib on a smaller needle to prevent gaping at the neck. Woolfolk Far makes this functional beauty exquisitely soft and decidedly sophisticated. Turn down part of the ribbing and attach a Latch Leather Closure from Jul Designs to add a little attitude. :-)",
+  "techniques": [
+    "worked in the round"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/report",
-    "https://www.ravelry.com/patterns/sources/adrienne-sullivans-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cloud-slippers-2",
-    "https://www.ravelry.com/patterns/library/sway-kerchief",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/comments",
-    "https://www.ravelry.com/patterns/library/gourdgeous-crochet-pumpkins",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/editors",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/yarns",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/people",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins/threads",
-    "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins"
+    "https://www.ravelry.com/patterns/sources/espace-tricot-ravelry-store",
+    "https://www.ravelry.com/patterns/library/on-the-c-train",
+    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm/threads",
+    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm/posts",
+    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm/report",
+    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm/yarns",
+    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm/editors",
+    "https://www.ravelry.com/patterns/library/sunday-morning-wrap",
+    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm/comments",
+    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm",
+    "https://www.ravelry.com/patterns/library/getting-warmer",
+    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm/people"
   ]
 }

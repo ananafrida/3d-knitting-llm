@@ -1,55 +1,36 @@
 {
   "pattern_id": 830,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fruit-spins-wrap",
-  "name": "Fruit Spins Wrap",
-  "description": "I just discovered that I friggin love fruit loops. I grew up in an ingredients house and we were only allowed healthy cereal, the best I could ever do was Kix, not even the berry kind.",
-  "designer": "Ginger Lukas",
+  "pattern_page": "https://www.ravelry.com/patterns/library/turtle-square",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf Neck / Torso → Shawl / Wrap",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "free",
+  "category": "Afghan block",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "22 cm x 22 cm (8.5 inches x 8.5 inches)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "cables",
-    "child",
-    "eyelets",
-    "female",
-    "lace",
-    "male",
-    "maternity",
-    "one-piece",
-    "oversized",
-    "petite",
-    "plus",
-    "seamless",
-    "tall",
-    "teen",
-    "textured",
-    "toddler",
-    "unisex",
-    "worked-flat"
+    "chart",
+    "written-pattern"
   ],
-  "full_text": "I just discovered that I friggin love fruit loops. I grew up in an ingredients house and we were only allowed healthy cereal, the best I could ever do was Kix, not even the berry kind. So I wanted to honor that. Of course. Thank you walmart for making them $2.88, they are also excellent as a stand in for rice krispies in the treat of that name. This is a very basic cable and lace-y pattern with both chart and written stitch instructions. Still in testing but I am working on it. PS there is a llama on the box, so it’s best if you knit this with alpaca (jk do whatever you want)",
+  "full_text": "Pattern for a knitted turtle square. Great as a dishcloth, washcloth or with other squares to form a blanket or afghan. There are lots more free knitted square patterns available on my website. Both chart and written pattern are included. Finished square (using DK yarn and 4 mm - US6, UK8 - needles) approximately 22 cm x 22 cm (8.5 inches x 8.5 inches) Of course you can use any plain yarn with the manufacturers recommended needle size, but if it is a different weight yarn it will change the size of the square. Light, plain coloured yarns show up the image best. This square is the same size as my other free squares - together they could make a fantastic afghan!",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fruit-spins-wrap/comments",
-    "https://www.ravelry.com/patterns/library/predator-lace",
-    "https://www.ravelry.com/patterns/library/fruit-spins-wrap/report",
-    "https://www.ravelry.com/patterns/library/fruit-spins-wrap/yarns",
-    "https://www.ravelry.com/patterns/library/fruit-spins-wrap/editors",
-    "https://www.ravelry.com/patterns/library/lilith-cowl-3",
-    "https://www.ravelry.com/patterns/library/fruit-spins-wrap/people",
-    "https://www.ravelry.com/patterns/library/april-fools-lace-scarf",
-    "https://www.ravelry.com/patterns/sources/ginger-lukas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fruit-spins-wrap"
-  ]
+    "https://www.ravelry.com/patterns/library/turtle-square/threads",
+    "https://www.ravelry.com/patterns/library/turtle-square/editors",
+    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
+    "https://www.ravelry.com/patterns/library/turtle-square/report",
+    "https://www.ravelry.com/patterns/library/crab-square",
+    "https://www.ravelry.com/patterns/library/turtle-square/comments",
+    "https://www.ravelry.com/patterns/library/turtle-square",
+    "https://www.ravelry.com/patterns/library/toucan-bird-square",
+    "https://www.ravelry.com/patterns/library/whale-square",
+    "https://www.ravelry.com/patterns/library/turtle-square/yarns",
+    "https://www.ravelry.com/patterns/library/turtle-square/people"
+  ],
+  "name": "Ravelry: Turtle Square pattern by Daisy and Storm"
 }

@@ -1,41 +1,45 @@
 {
   "pattern_id": 666,
-  "pattern_page": "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat",
+  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-mouse-knit",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "sizes_available": "baby",
+  "category": "Softies → Animal Pet → Toys",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "5\" (10cm) exclusive of tail",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Classic Elite Yarns Wool Bam Boo"
+    "Lion Brand Fun Fur Solid",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
-    "in-the-round",
-    "ribbed",
-    "seamless",
-    "unisex",
+    "3-dimensional",
+    "embroidery",
+    "phototutorial",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "delightfully simple, versatile, and easy-to-fit… hope you love this quick little knit… happy knitting! this pattern was featured in Classic Elite Yarn’s weekly web letter #263",
+  "full_text": "Lion Brand Pattern #: BK4K-0506003-K SKILL LEVEL: Beginner 320-195 Fun Fur Yarn: Hot Pink (1 ball) 320-204 Fun Fur Yarn: Lava (1 ball) Materials are sufficient to make two (1-color) mice. Knitting Needles- Size 8 (5 mm) Crochet Hook - Size F-5 (3.75 mm) for construction Scrap yarn for tail, approximately 24 inches (approximately 70 cm) Scrap yarn for eyes, approximately 4 inches (10 cm) black and white Sewing needle and matching thread 1 package dried catnip See assembly diagrams showing how to fold the ‘cone’ and finish. See also BK4K-0506006-K Pocket Pet: Mouse . It is same pattern except uses stuffing instead of catnip.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/yarns",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/posts",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/editors",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/people",
-    "https://www.ravelry.com/patterns/library/cable-baby-2",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/report",
-    "https://www.ravelry.com/patterns/library/warrens-man-mitts",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat",
-    "https://www.ravelry.com/patterns/library/pixie-love",
-    "https://www.ravelry.com/patterns/sources/tangled",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/threads",
-    "https://www.ravelry.com/patterns/library/a-perfectly-simple-baby-hat/comments"
+    "https://www.ravelry.com/patterns/library/case-for-eye-glasses-with-cord",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/people",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/editors",
+    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
+    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/yarns",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/edit",
+    "https://cdn.accentuate.io/4679148732509/12378270040157/bk4k-0506006-ka-v1592901571076.pdf",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/threads",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/comments",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/report",
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://cdn.accentuate.io/4679146602589/12378270040157/knit-pattern-catnip-mouse-knit-bk4k-0506003-k-v1594845591330.pdf",
+    "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue"
   ],
-  "name": "Ravelry: a perfectly simple baby hat... pattern by pamela w allen"
+  "name": "Ravelry: Catnip Mouse (knit) pattern by Lion Brand Yarn"
 }

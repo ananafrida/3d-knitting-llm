@@ -1,42 +1,35 @@
 {
   "pattern_id": 1318,
-  "pattern_page": "https://www.ravelry.com/patterns/library/stardrop-stardew-valley-2",
-  "name": "Stardrop (Stardew Valley)",
-  "description": "a beginner friendly guide to knitting a stardrop from stardew valley! this pattern is worked in the flat (with decreases/increases only on knit rows!), then seamed together. images are also included for steps in construction.",
-  "designer": "crypt",
+  "pattern_page": "https://www.ravelry.com/patterns/library/homespun-monsters",
+  "name": "Homespun Monsters",
+  "description": "This is a fun pattern that uses up small amounts (50g or less) of handspun or any other yarn. The monsters are quick to knit and can be worked in any weight yarn to make lots of different size monsters.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    ""
   ],
   "attributes": [
-    "3-dimensional",
-    "phototutorial",
-    "seamed",
-    "star-shaped",
-    "video-tutorial",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "a beginner friendly guide to knitting a stardrop from stardew valley! this pattern is worked in the flat (with decreases/increases only on knit rows!), then seamed together. images are also included for steps in construction. skill level: beginner/intermediate. if there’s anything i can add to this pattern to make it more beginner friendly, please let me know! all the stitches this pattern asks for (with links to tutorials for anything specified): knit purl kfb (increase) m1l/krl (increase) ssk (decrease) k2t (decrease) drawstring castoff what you need for this project: purple yarn (main body), green yarn (leaves), straight knitting needles, a sewing/darning needle.",
-  "techniques": [
-    "decreases",
-    "increases",
-    "seamed"
-  ],
+  "full_text": "This is a fun pattern that uses up small amounts (50g or less) of handspun or any other yarn. The monsters are quick to knit and can be worked in any weight yarn to make lots of different size monsters. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/crypts-ravelry-store",
-    "https://www.ravelry.com/patterns/library/stardrop-stardew-valley-2/editors",
-    "https://www.ravelry.com/patterns/library/stardrop-stardew-valley-2/comments",
-    "https://www.ravelry.com/patterns/library/stardrop-stardew-valley-2/yarns",
-    "https://www.ravelry.com/patterns/library/stardrop-stardew-valley-2",
-    "https://www.ravelry.com/patterns/library/stardrop-stardew-valley-2/report",
-    "https://www.ravelry.com/patterns/library/stardrop-stardew-valley-2/people"
+    "https://www.ravelry.com/patterns/library/homespun-monsters/comments",
+    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3",
+    "https://www.ravelry.com/patterns/library/homespun-monsters/report",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/homespun-monsters",
+    "https://www.ravelry.com/patterns/library/homespun-monsters/people",
+    "https://www.ravelry.com/patterns/library/homespun-monsters/editors",
+    "https://www.ravelry.com/patterns/library/homespun-monsters/yarns",
+    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
+    "https://www.ravelry.com/patterns/library/ten-stitch-hat",
+    "https://www.ravelry.com/patterns/library/homespun-monsters/threads"
   ]
 }

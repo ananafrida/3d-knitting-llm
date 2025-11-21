@@ -1,47 +1,41 @@
 {
   "pattern_id": 664,
-  "pattern_page": "https://www.ravelry.com/patterns/library/teo-hat",
-  "name": "Teo Hat",
-  "description": "A chunky hat with earflaps, a garter stitch band knit back and forth, and a pointy body knit in the round and finished with i-cord.",
-  "designer": "Ana Sancho Rumeu",
+  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-mouse-toy",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "Newborn (15\"/38cm head)Small (20\"/50.5cm head), Large (22\"/56cm head)",
+  "category": "Pet → Toys",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "one size",
   "languages": [
-    "English",
-    "Spanish"
+    "English"
   ],
   "suggested_yarn": [
-    "Rowan Big Wool",
-    "Super Bulky (5-6 wpi) ?"
+    "Reynolds The Original Lopi",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "child",
     "icord",
-    "in-the-round",
-    "newborn-size",
-    "one-piece",
-    "teen"
+    "seamed",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "A chunky hat with earflaps, a garter stitch band knit back and forth, and a pointy body knit in the round and finished with i-cord. Measure head circumference (around forehead-ears-neck) to determine size. A 22” head is an adult size. Garter stitch in the band makes for a very elastic hat that will fit a child for years. 3/24/14: Now there is a step-by-step VIDEO TUTORIAL : Part 1 Part 2 Un gorro simple y calentito con orejeras y una banda en punto de musgo que se tejen con agujas rectas y el cuerpo hecho en círculo y terminado con cordón (i-cord).",
+  "full_text": "Catnip mouse toys knit from leftover yarn at a tight gauge. Wool yarn is strongly recommended because of the cat’s sense of smell, as well as including some angora in the stuffing. Recommended yarn was used by Esther in her prototype. A modified version of this pattern that includes knit ears and eyes is the Embellished Catnip Mouse Toy .",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/teo-hat",
-    "https://www.ravelry.com/patterns/library/star-bonnet---capota-con-estrella",
-    "https://www.ravelry.com/patterns/library/teo-hat/threads",
-    "https://www.ravelry.com/patterns/sources/debajo-un-boton-website",
-    "https://www.ravelry.com/patterns/library/teo-hat/yarns",
-    "https://www.ravelry.com/patterns/library/teo-hat/editors",
-    "https://www.ravelry.com/patterns/library/teo-hat/posts",
-    "https://www.ravelry.com/patterns/library/teo-hat/report",
-    "https://www.ravelry.com/patterns/library/snowflake-garland-9",
-    "https://www.ravelry.com/patterns/library/teo-hat/people",
-    "https://www.ravelry.com/patterns/library/easter-bonnet",
-    "https://www.ravelry.com/patterns/library/teo-hat/comments",
-    "http://debajounboton.typepad.com/blog/2010/07/baby-pixie-hat-pattern.html"
-  ]
+    "http://www.ravelry.com/patterns/library/embellished-catnip-mouse-toy",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/comments",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/threads",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/yarns",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/edit",
+    "http://www.cs.oswego.edu/~ebozak/knit/esb-patterns/mouse-toy.html",
+    "https://www.ravelry.com/patterns/sources/esthers-knitting-page",
+    "https://www.ravelry.com/patterns/library/embellished-catnip-mouse-toy",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/report",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/editors",
+    "https://www.ravelry.com/patterns/library/hooded-scarf-9",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/posts",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/people",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-toy"
+  ],
+  "name": "Ravelry: Catnip Mouse Toy pattern by Robert Matthews"
 }

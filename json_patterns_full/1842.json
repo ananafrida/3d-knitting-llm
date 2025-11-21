@@ -1,43 +1,32 @@
 {
   "pattern_id": 1842,
-  "pattern_page": "https://www.ravelry.com/patterns/library/felted-flower-bowl",
-  "name": "Felted Flower Bowl",
-  "description": "",
-  "designer": "Meg Myers",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cranky-socks",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
-  "sizes_available": "one size",
+  "category": "Components → Other",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "circle-shaped",
-    "felted",
-    "in-the-round",
-    "one-piece",
-    "ripple",
-    "written-pattern"
+    "afterthought-heel",
+    "other-toe"
   ],
-  "full_text": "",
+  "full_text": "This is a recipe for completing a pair of socks from a cranked sock tube. Materials: Sock tube – cranked on a Circular Sock Machine (CSM), Contrasting yarn for heels, toes, and cuff Needles – US size 1, 1.5 or 2 … your choice depending on your knitting style. I use a US size 1.5. Regular knitting notions – tape measure, stitch markers, darning needle, scissors",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/felted-flower-bowl/editors",
-    "https://www.ravelry.com/patterns/sources/mymegknits-ravelry-store",
-    "https://www.ravelry.com/patterns/library/felted-flower-bowl/report",
-    "https://www.ravelry.com/patterns/library/roommate-soap-sock-dave",
-    "https://www.ravelry.com/patterns/library/felted-flower-bowl/threads",
-    "https://www.ravelry.com/patterns/library/felted-flower-bowl/posts",
-    "https://www.ravelry.com/bundles/featured-patterns",
-    "https://www.ravelry.com/patterns/library/felted-flower-bowl/people",
-    "https://www.ravelry.com/patterns/library/felted-flower-bowl/comments",
-    "https://www.ravelry.com/patterns/library/felted-needle-vase",
-    "https://www.ravelry.com/patterns/library/roommate-soap-sock-kyle",
-    "https://www.ravelry.com/patterns/library/felted-flower-bowl",
-    "https://www.ravelry.com/patterns/library/felted-flower-bowl/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/cranky-socks/people",
+    "https://www.ravelry.com/patterns/library/cranky-socks/report",
+    "https://www.ravelry.com/patterns/library/cranky-socks/editors",
+    "https://www.ravelry.com/patterns/sources/olive--two-ewe-studios",
+    "https://www.ravelry.com/patterns/library/play-ball-beanie",
+    "https://www.ravelry.com/patterns/library/cranky-socks",
+    "https://www.ravelry.com/patterns/library/cranky-socks/yarns",
+    "https://www.ravelry.com/patterns/library/cranky-socks/comments"
+  ],
+  "name": "Ravelry: Cranky Socks pattern by Mary Nielsen"
 }

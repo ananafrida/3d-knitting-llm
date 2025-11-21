@@ -1,35 +1,41 @@
 {
   "pattern_id": 890,
-  "pattern_page": "https://www.ravelry.com/patterns/library/magnolia-ascot",
+  "pattern_page": "https://www.ravelry.com/patterns/library/abc-baby-blanket-2",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Small (Medium, Large)",
+  "category": "Blanket → Baby Blanket",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "32.25\" wide x 32\" high",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Purl Soho Simply Yak"
+    "Knit Picks Comfy",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "worked-flat",
-    "written-pattern"
+    "chart",
+    "rectangle",
+    "textured",
+    "worked-flat"
   ],
-  "full_text": "MATERIALS 2 skeins of Purl Soho’s Simply Yak , 100% yak yarn. Each skein of this light worsted/dk-weight yarn is 109 yards/ 50 grams; approximately 145 (150, 160) total yards required. We made a sample in each of Simply Yak’s two undyed colors: Natural Taupe and Natural Brown. US 6 (4 mm), 16-inch circular knitting needles A spare circular or double pointed needle , US 6 or smaller Stitch holder or scrap yarn GAUGE 21 stitches and 31 rows = 4 inches in stockinette stitch SIZES Small (Medium, Large) To fit actual neck circumference of 11½–13½ (13½–15½,15½–17½) inches Finished Dimensions: 6½ inches wide x 31½ (33½, 35½) inches long SAMPLES: We knit the Small size for both of our ascots. Designed by Purl Soho designer, Hiromi Glover . See even more of Hiromi’s work on her Instagram !",
+  "full_text": "Swathed in this blanket knit with the heavenly soft Knit Picks Comfy Worsted, your little one is sure to find sweet dreams. Garter stitch borders surround 9 classic baby blocks including A, B, C, a duck, a sailboat, a heart, a star and two 4-square blocks. Easy enough for a beginner to knit, this blanket is sure to become a treasured favorite.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/color-brick-road-blanket",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot/people",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot/comments",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot/editors",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot/yarns",
-    "https://www.ravelry.com/patterns/library/crafted-cardigan",
-    "https://www.ravelry.com/patterns/library/simplicity-scarf-8",
-    "https://www.ravelry.com/patterns/library/magnolia-ascot/report"
+    "https://www.ravelry.com/patterns/library/harley-3",
+    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/threads",
+    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/posts",
+    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/comments",
+    "https://www.ravelry.com/patterns/library/sedona-sunset-wrap",
+    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/yarns",
+    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/editors",
+    "https://www.ravelry.com/patterns/library/heart-baby-cloth",
+    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/people",
+    "http://www.knitpicks.com/patterns/ABC_Baby_Blanket__D55656220.html",
+    "https://www.ravelry.com/patterns/periodicals/knit-picks",
+    "https://www.ravelry.com/patterns/sources/knit-picks-website",
+    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2/report",
+    "https://www.ravelry.com/patterns/library/abc-baby-blanket-2"
   ],
-  "name": "Ravelry: Magnolia Ascot pattern by Purl Soho"
+  "name": "Ravelry: ABC Baby Blanket pattern by Jenny Williams"
 }

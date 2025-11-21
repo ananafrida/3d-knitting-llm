@@ -1,40 +1,37 @@
 {
   "pattern_id": 851,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mini-scarf-pearl",
-  "name": "mini scarf Pearl",
-  "description": "Gauge",
-  "designer": "Veronika Stoncus",
+  "pattern_page": "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket",
+  "name": "\"Peekaboo\" Baby Blanket",
+  "description": "This blanket has to be one of my ultimate easy-knits. I don’t know what it is about blankets knitted diagonally (or on the bias / corner to corner) but they just seem to fly off my needles at a speed that no other project does. I know this is probably just my perception, but it helps massively when you want to knit up the perfect baby gift in record time!",
+  "designer": "Snufflebean Yarn",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
+  "category": "Blanket → Baby Blanket",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Air",
-    "Aran (8 wpi) ?"
+    "Woolly and Warmy Cicibebe Batik",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "chart",
-    "one-piece",
     "video-tutorial",
-    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Gauge 10x10 cm = 20 stitches x 24 rows The sample is knitted in double moss stitch, as shown in the chart on the page 3 . Use size 4 needles (I recommend circular needles with an 80 cm cord, but double-pointed needles can also be used). Size One size / Length: 140 cm (before washing: 112 cm, using Drops Air yarn) / Width: 12 cm. P.S. The length after washing may vary when using different yarn. Yarn Drops Air (65% alpaca, 28% polyamide, 7% wool; 50 g/150 m). You will need 50 g for this project. P.S. If you plan to use a different yarn, you may need slightly more. Drops Air is very light and airy, which is why the required amount is so small. Additional Materials Needed Circular needles size 4 (I recommend a 60/80 cm cord). Scissors. Measuring tape. Row counter. Tapestry needle with a rounded tip. Two markers.",
+  "full_text": "This blanket has to be one of my ultimate easy-knits. I don’t know what it is about blankets knitted diagonally (or on the bias / corner to corner) but they just seem to fly off my needles at a speed that no other project does. I know this is probably just my perception, but it helps massively when you want to knit up the perfect baby gift in record time! Those of you who are not new to my knitting will know I have a similar pattern already available. This version was born as I’ve always had people asking me about a version with a little peephole feature on the border instead of the solid border my other pattern has. You ask, and I deliver:",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/yarns",
-    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/people",
-    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/comments",
-    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/report",
-    "https://www.ravelry.com/patterns/library/summer-bag-shopper-poper-",
-    "https://www.ravelry.com/patterns/library/mini-scarf-pearl",
-    "https://www.ravelry.com/patterns/library/mini-scarf-pearl/editors",
-    "https://www.ravelry.com/patterns/sources/veronika-stoncus-ravelry-store",
-    "https://www.ravelry.com/patterns/library/summer-top-margarita",
-    "https://www.ravelry.com/patterns/library/pamela-16"
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/report",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/comments",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/editors",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/diagonal-garter-stitch-scarf-3",
+    "https://www.ravelry.com/patterns/sources/snufflebean-yarns-ravelry-store",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket",
+    "https://www.ravelry.com/patterns/sources/snufflebean-yarn",
+    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket/people",
+    "https://www.ravelry.com/patterns/library/striped-diagonal-baby-blanket"
   ]
 }

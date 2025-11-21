@@ -1,41 +1,45 @@
 {
   "pattern_id": 2191,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mutant-bunny-hat",
+  "pattern_page": "https://www.ravelry.com/patterns/library/trio-of-hats-pixie",
   "craft": "Knitting",
-  "category": "Costume Hat → Other",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "category": "Hat → Pixie",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Premature (newborn, baby, child, adult)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Malabrigo Yarn Worsted",
-    "yarn held together"
+    "DK (11 wpi) ?",
+    "Wendy Merino Double Knitting"
   ],
   "attributes": [
     "adult",
-    "doubleknit",
+    "baby",
+    "child",
     "in-the-round",
-    "teen",
-    "video-tutorial",
+    "newborn-size",
+    "preemie",
     "written-pattern"
   ],
-  "full_text": "I designed this as a Chanukkah gift for my little sister, and decided to write it up for the world to see. Enjoy! In mine, I used the malabrigo held double and Blizzard singly.",
+  "full_text": "This cute little hat makes a great gift - the pattern is sized from baby to adult - and it’s an ideal project to practise the magic loop technique. Errata 19/2/13: the purl round from either side of the yo,k2tog has been omitted; work a purl round before and after this round to achieve the desired the result Support Do you need help with this pattern? We have a specific discussion thread in the Wormhead’s Hats group where you can ask any questions.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/rachels-ramblings-fiberfiend6891",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/editors",
-    "https://www.ravelry.com/patterns/library/rachels-knitting-olympics-poncho",
-    "https://www.ravelry.com/patterns/library/celtic-socks-2",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/threads",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/posts",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat",
-    "https://www.ravelry.com/patterns/library/almost-fingerless-gloves",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/comments",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/report",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/yarns",
-    "https://www.ravelry.com/patterns/library/mutant-bunny-hat/people",
-    "http://fiberfiend6891.wordpress.com/free-patterns/mutant-bunny-hat/"
+    "https://www.ravelry.com/patterns/library/trio-of-hats-beanie",
+    "https://www.ravelry.com/bundles/free-patterns-331",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/editors",
+    "https://www.ravelry.com/patterns/sources/woolly-wormhead",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/posts",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/people",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/comments",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/report",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-square-top",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/yarns",
+    "https://www.ravelry.com/patterns/library/trio-of-hats-pixie/threads",
+    "https://www.ravelry.com/patterns/sources/knit-now-issue-18-february-2013",
+    "https://www.ravelry.com/patterns/library/ms-beanie",
+    "https://www.ravelry.com/patterns/sources/trio-of-hats"
   ],
-  "name": "Ravelry: Mutant Bunny Hat pattern by Rachel Kurchin"
+  "name": "Ravelry: Trio of Hats Pixie pattern by Woolly Wormhead"
 }

@@ -1,40 +1,42 @@
 {
   "pattern_id": 317,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mini-traffic-cones",
-  "name": "Mini Traffic Cones",
-  "description": "A quick knit using just a bit of any worsted weight yarn. Fun for cat toys, or human toys.",
-  "designer": "Sarah Jenkins",
+  "pattern_page": "https://www.ravelry.com/patterns/library/toybox-snowman",
   "craft": "Knitting",
-  "category": "Pet → Toys Toys and Hobbies → Other",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Softies → Doll",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Sirdar Bonus DK Extra Value",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "in-the-round",
-    "seamless",
+    "seamed",
+    "stripes",
+    "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A quick knit using just a bit of any worsted weight yarn. Fun for cat toys, or human toys.",
+  "full_text": "Description from website: Introducing William, the cute and cuddly knitted Snowman. It’s guaranteed that the children will love him to bits and no doubt he will find a home in the toybox instead of being stored away in the Christmas box. I’m sure that knitters will also enjoy his company, re-creating lots of Williams all year round. Real life snowmen are fun for a while, but they always melt away. William is a friend forever and a snowman for all seasons. I can never resist giving my dolls rosy cheeks - including snowmen! Measurement: 24cm (9½in) high, not including the bobble on his cap",
   "techniques": [],
-  "shape": "softie",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bel-ami-mitts",
-    "https://www.ravelry.com/patterns/library/bel-ami-beret",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/threads",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/yarns",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/comments",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/editors",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/report",
-    "https://www.ravelry.com/patterns/library/library-socks",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/posts",
-    "https://www.ravelry.com/patterns/sources/prairie-knitters-ravelry-downloads",
-    "https://www.ravelry.com/patterns/library/mini-traffic-cones/people"
-  ]
+    "https://www.ravelry.com/patterns/library/santa-9-2",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs-claus-santa-145",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/edit",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/threads",
+    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website",
+    "https://www.ravelry.com/patterns/periodicals/jean-greenhowe",
+    "http://www.jeangreenhowe.com/patterns.html",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/report",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/people",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/posts",
+    "https://www.ravelry.com/patterns/library/toybox-snowman",
+    "https://www.ravelry.com/patterns/library/dainty-dollies",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/comments",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/editors",
+    "https://www.ravelry.com/patterns/library/toybox-snowman/yarns"
+  ],
+  "name": "Ravelry: Toybox Snowman pattern by Jean Greenhowe"
 }

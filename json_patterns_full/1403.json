@@ -1,41 +1,41 @@
 {
   "pattern_id": 1403,
-  "pattern_page": "https://www.ravelry.com/patterns/library/snowman-33",
+  "pattern_page": "https://www.ravelry.com/patterns/library/hairy-highland-gnomes",
+  "name": "Hairy Highland Gnomes",
+  "description": "If you love hairy highland coos and gnomes with wild, woolly beards this is the perfect project for you!",
+  "designer": "Natasha Hanson",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "Height: 3.5”/ 9cm",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Patons North America Classic Wool Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
+    "bottom-up",
+    "icord",
+    "in-the-round",
     "phototutorial",
-    "seamed",
-    "stripes-colorwork",
-    "worked-flat",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "If you love hairy highland coos and gnomes with wild, woolly beards this is the perfect project for you! These thumb-sized gnomes with bobble nose are a super quick knit! They are knit in the round on dpns. Their hats are knit separately also in the round, and slide into place to save on sewing. Arms and horns are made by picking up stitches and knitting I-cords, or you can skip the arms completely. For the beards you can use locks, or I will teach you how to separate your plies to make them curly. I have decided to make this pattern free. Please make as many as you like and feel free to make them to sell :) Happy Knitting! Natasha",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/snowman-33/posts",
-    "http://flutterbypatch.blogspot.com/2009/12/knitted-snowman-free-pattern.html",
-    "https://www.ravelry.com/patterns/library/snowman-33/yarns",
-    "https://www.ravelry.com/patterns/sources/flutterby-patch",
-    "https://www.ravelry.com/patterns/library/snowman-33/editors",
-    "https://www.ravelry.com/patterns/library/lulu-and-her-tiny-doll",
-    "https://www.ravelry.com/patterns/library/santa-mouse",
-    "https://www.ravelry.com/patterns/library/snowman-33/report",
-    "https://www.ravelry.com/patterns/library/10-busy-little-bears",
-    "https://www.ravelry.com/patterns/library/snowman-33",
-    "https://www.ravelry.com/patterns/library/snowman-33/people",
-    "https://www.ravelry.com/patterns/library/snowman-33/threads",
-    "https://www.ravelry.com/patterns/library/snowman-33/comments"
-  ],
-  "name": "Ravelry: Snowman pattern by Wendy Phillips"
+    "https://www.ravelry.com/patterns/library/4-season-hobbit-hole",
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes/report",
+    "https://www.ravelry.com/patterns/library/knit-or-stick-acorn-teapot",
+    "https://www.ravelry.com/patterns/library/santa-lucia-4",
+    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes/people",
+    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes/yarns",
+    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes/editors",
+    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes/comments",
+    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes"
+  ]
 }

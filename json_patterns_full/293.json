@@ -1,41 +1,39 @@
 {
   "pattern_id": 293,
-  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-mouse-toy",
+  "pattern_page": "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+  "name": "Izzy Buddy Boy Dolls",
+  "description": "Add personality to your charity knitting project with instructions for knitting in the round and four sweater options with colourwork and cables.",
+  "designer": "Esther Braithwaite",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "one size",
+  "category": "Softies → Doll",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Reynolds The Original Lopi",
-    "Bulky (7 wpi) ?"
+    "Paintbox Yarns Simply DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "icord",
-    "seamed",
-    "worked-flat",
-    "written-pattern"
+    "cables",
+    "chart",
+    "in-the-round"
   ],
-  "full_text": "Catnip mouse toys knit from leftover yarn at a tight gauge. Wool yarn is strongly recommended because of the cat’s sense of smell, as well as including some angora in the stuffing. Recommended yarn was used by Esther in her prototype. A modified version of this pattern that includes knit ears and eyes is the Embellished Catnip Mouse Toy .",
+  "full_text": "Add personality to your charity knitting project with instructions for knitting in the round and four sweater options with colourwork and cables. For more information about the history and legacy of Izzy Dolls in Canada please visit: https://www.hpicanada.ca/",
   "techniques": [],
-  "shape": "softie",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/people",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/posts",
-    "http://www.cs.oswego.edu/~ebozak/knit/esb-patterns/mouse-toy.html",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/report",
-    "https://www.ravelry.com/patterns/library/hooded-scarf-9",
-    "https://www.ravelry.com/patterns/library/embellished-catnip-mouse-toy",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/threads",
-    "http://www.ravelry.com/patterns/library/embellished-catnip-mouse-toy",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/yarns",
-    "https://www.ravelry.com/patterns/sources/esthers-knitting-page",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/comments",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/edit",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-toy",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-toy/editors"
-  ],
-  "name": "Ravelry: Catnip Mouse Toy pattern by Robert Matthews"
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/posts",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/comments",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/people",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/editors",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/yarns",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/threads",
+    "https://www.ravelry.com/patterns/library/flower-girls",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls/report"
+  ]
 }

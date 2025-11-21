@@ -1,42 +1,51 @@
 {
   "pattern_id": 1906,
-  "pattern_page": "https://www.ravelry.com/patterns/library/perfect-knitted-acorn",
-  "name": "Perfect Knitted Acorn",
-  "description": "Here’s a design I came up with, combining (what I consider to be) the best aspects of all of the acorn patterns I’ve found (and adding my own flavor, too). I’m happy to offer the pattern for free.",
-  "designer": "Jessie Driscoll",
+  "pattern_page": "https://www.ravelry.com/patterns/library/baby-sophisticate-2",
+  "name": "Baby Sophisticate",
+  "description": "A paid version of this pattern is available with more sizes (3 months to child size 10), improved sizing for the 3 and 6 month sizes and construction updates.",
+  "designer": "Linden Down",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "sizes_available": "any size, dependent on yarn and needles",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "0-3 months, 6-12 months",
   "languages": [
-    "English"
+    "English",
+    "Additional languages which are not in the download: Finnish, French, Greek, Italian, Polish, Portuguese, Slovak",
+    "...and 8 other languages show hide other languages",
+    "...and 8 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "any yarn"
+    "Aran (8 wpi) ?",
+    "Mission Falls 1824 Wool"
   ],
   "attributes": [
-    "bottom-up",
-    "icord",
-    "in-the-round",
+    "baby",
     "one-piece",
     "seamless",
-    "stripes-colorwork",
-    "written-pattern"
+    "shawl",
+    "top-down",
+    "unisex",
+    "v-neck",
+    "worked-flat"
   ],
-  "full_text": "Here’s a design I came up with, combining (what I consider to be) the best aspects of all of the acorn patterns I’ve found (and adding my own flavor, too). I’m happy to offer the pattern for free. I like to knit them from small amounts of handspun and/or luxury yarns, and I like to stuff them with waste fiber from the combing process. :) You can use any yarn, but it’s good to have two colors of the same weight yarn. The size of the acorn will be determined by the thickness of the yarn and size of your needles. Enjoy! And please post your projects so I can see them. :)",
+  "full_text": "A paid version of this pattern is available with more sizes (3 months to child size 10), improved sizing for the 3 and 6 month sizes and construction updates . NOTE: I’ve been getting some feedback that the pattern is running a bit small. I used some standard baby sizing that I found, but I don’t have a real life baby to try these on! In the future I will reassess the fit, but for this pattern I’ve adjusted the age ranges listed. Please consult the finished measurements listed in the pattern for your particular kiddo. :-) This is an extremely simple and quick knit that makes a very charming sweater for your little guy or gal. Using an aran weight yarn makes the knitting go fast, and the top down design means there is no seaming to drive you crazy! I think the shawl collar adds an air of sophistication - like this baby belongs in a library, sipping tea and reading Shakespeare! UPDATE An Italian translation is now available here thanks to myloves A Polish translation is also available here thanks to Truscaveczka A Portuguese translation is now available here thanks to valeriafgarcia A French translation is now available here thanks to Simonah A Finnish translation is now available here thanks to sanzun A Greek translation is now available here thanks to mariazil A Slovak translation is now available here.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/threads",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/comments",
-    "https://www.ravelry.com/patterns/library/finbar-classic-bear",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/people",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/yarns",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/editors",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/report",
-    "https://www.ravelry.com/patterns/library/linus-elf-hooded-hat-scarf",
-    "https://www.ravelry.com/patterns/library/amulet-bag-for-your-treasure",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn",
-    "https://www.ravelry.com/patterns/sources/stash-enhancement",
-    "https://www.ravelry.com/patterns/library/perfect-knitted-acorn/posts"
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/yarns",
+    "https://www.ravelry.com/patterns/library/sophisticate-2",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/report",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/comments",
+    "http://mylifeandyarns.blogspot.gr/p/translated-patterns.html",
+    "http://www.ravelry.com/patterns/library/baby--child-sophisticate",
+    "https://www.ravelry.com/patterns/library/baby--child-sophisticate",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/editors",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/people",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/threads",
+    "https://www.ravelry.com/patterns/library/margot-4",
+    "https://www.ravelry.com/patterns/library/baby-sophisticate-2/posts",
+    "https://www.ravelry.com/patterns/sources/stockinette"
   ]
 }

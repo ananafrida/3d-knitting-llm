@@ -1,34 +1,36 @@
 {
   "pattern_id": 1829,
-  "pattern_page": "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket",
-  "name": "Perin Knitted Wall Basket",
-  "description": "The Perin Knitted Wall Basket is made using t-shirt yarn and the magic loop method.",
-  "designer": "Alice Quarterman",
+  "pattern_page": "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln",
+  "name": "Türkische Ferse/ stricken o. häkeln",
+  "description": "Nachträglich gearbeitete Ferse - eingestrickt oder eingehäkelt",
+  "designer": "Gusta Bogdan",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "category": "Components → Other",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
-    "English"
+    "German"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Paintbox Yarns Recycled T-shirt"
+    "Sundara Yarn Sock",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
-    "textured",
-    "written-pattern"
+    "afterthought-heel"
   ],
-  "full_text": "The Perin Knitted Wall Basket is made using t-shirt yarn and the magic loop method. The pattern can be adjusted to make it whatever size you want. In the pattern as written, the basket is approximately 20cm tall including the hanging loop and protrudes about 15cm from the wall. You will need circular needles with a long cord in whatever size works for you to create a fairly dense fabric (e.g. 9mm or 10mm). Contact me if you require an alt text version of the pdf pattern.",
+  "full_text": "Subsequently worked heel - knitted or crocheted",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/report",
-    "https://www.ravelry.com/patterns/sources/alice-quartermans-ravelry-store",
-    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/comments",
-    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/editors",
-    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/people",
-    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket/yarns",
-    "https://www.ravelry.com/patterns/library/perin-knitted-wall-basket"
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/editors",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/yarns",
+    "https://www.ravelry.com/patterns/library/katzenpfoten-socken",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/comments",
+    "https://www.ravelry.com/patterns/library/hakelrosen",
+    "https://www.ravelry.com/patterns/sources/facile-et-beau---gusta",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/report",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/posts",
+    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/people",
+    "https://www.ravelry.com/patterns/library/einhorn-schal"
   ]
 }

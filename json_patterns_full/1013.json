@@ -1,11 +1,11 @@
 {
   "pattern_id": 1013,
-  "pattern_page": "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere",
-  "name": "Earth Chart for Brent Annable's Sphere",
-  "description": "This intarsia chart of Earth’s continents is a modest supplement to the geometrifantastic Stockinette Short-Row Sphere by Brent Annable, free on Ravelry and his web site.",
-  "designer": "LFSAlden",
+  "pattern_page": "https://www.ravelry.com/patterns/library/treesweater",
+  "name": "Treesweater",
+  "description": "The world-famous treesweater! Make a wee little sweater for your favorite tree. Show it you care. Spread a little love. Make some people smile, and other people very angry for no apparent reason. (Oh, like THEY don’t waste time!)",
+  "designer": "Erika Barcott",
   "craft": "Knitting",
-  "category": "Ball",
+  "category": "Toys and Hobbies → Other",
   "languages": [
     "English"
   ],
@@ -13,27 +13,23 @@
     ""
   ],
   "attributes": [
-    "Intarsia",
-    "chart",
-    "kitchener",
-    "provisional",
-    "short-rows"
+    "unisex"
   ],
-  "full_text": "This intarsia chart of Earth’s continents is a modest supplement to the geometrifantastic Stockinette Short-Row Sphere by Brent Annable, free on Ravelry and his web site. Weight of yarn and gauge of stitches is arbitrary as long as you have a fairly tight fabric. If you are beginning at colorwork, you might choose a nice, grabby, wooly yarn. A slippery fiber will add difficulty. The example in the picture is mohair-and-wool. I’ve discovered: this project can be done just fine as stranded knitting if we abandon Mr. Annabale’s pattern, turn the color chart on its side, and work from south pole to north in the round. When you add stitches, use a nice firm increase such as a left-leaning lifted increase. As I am a much bigger fan of stranded knitting than intarsia, this is how I do the project nowadays. Of course one can duplicate stitch Antarctica! Who wouldn’t want to duplicate stitch Antarctica??",
+  "full_text": "The world-famous treesweater! Make a wee little sweater for your favorite tree. Show it you care. Spread a little love. Make some people smile, and other people very angry for no apparent reason. (Oh, like THEY don’t waste time!)",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/kells-headband",
-    "http://www.ravelry.com/patterns/library/stockinette-short-row-sphere",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/yarns",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/editors",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/people",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/comments",
-    "https://www.ravelry.com/patterns/library/tip-to-tip-mittens",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/report",
-    "https://www.ravelry.com/patterns/library/sweetheart-mitten",
-    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/threads",
-    "https://www.ravelry.com/patterns/sources/birch-island-books"
+    "https://www.ravelry.com/patterns/library/treesweater/posts",
+    "https://www.ravelry.com/patterns/library/treesweater/report",
+    "https://www.ravelry.com/patterns/library/treesweater/people",
+    "https://www.ravelry.com/patterns/library/treesweater/yarns",
+    "https://www.ravelry.com/patterns/library/treesweater/editors",
+    "https://www.ravelry.com/patterns/library/treesweater/threads",
+    "https://www.ravelry.com/patterns/library/doris-a-hat-for-troublesome-hair",
+    "https://www.ravelry.com/patterns/sources/redshirt-knitting",
+    "https://www.ravelry.com/patterns/library/the-binary-hat",
+    "https://www.ravelry.com/patterns/library/my-jayne-hat",
+    "https://www.ravelry.com/patterns/library/treesweater",
+    "https://www.ravelry.com/patterns/library/treesweater/comments"
   ]
 }

@@ -1,38 +1,42 @@
 {
   "pattern_id": 123,
-  "pattern_page": "https://www.ravelry.com/patterns/library/babys-first-molecular-set",
-  "name": "Baby's First Molecular Set",
-  "description": "I was inspired by my twin nieces when I created this pattern. Their parents love math and chemistry, so I wanted to created a toy that honored that, while being safe for the newborn twins. Thus, my molecular set was born!",
-  "designer": "Tiffany Sutton",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bat-36",
+  "name": "Bat",
+  "description": "Such an iconic animal, so distinctive and with an aura of mystery and, wrongly assumed, spookiness and the macabre!",
+  "designer": "Claire Garland",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "sizes_available": "13cm/ 5in tall",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "Sport (12 wpi) ?",
-    "Knit Picks Comfy Sport"
+    "Garnstudio DROPS Alpaca"
   ],
   "attributes": [
-    "3-dimensional",
-    "Intarsia",
-    "chart",
-    "in-the-round",
-    "sphere-shaped",
+    "icord",
+    "modular",
+    "phototutorial",
+    "short-rows",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "I was inspired by my twin nieces when I created this pattern. Their parents love math and chemistry, so I wanted to created a toy that honored that, while being safe for the newborn twins. Thus, my molecular set was born! As a thank you to the Ravelry community, I’m offering this pattern for free! DISCLAIMER: Using this pattern with written gauge, each atom will have a 11.5” circumference. I intentionally made them big to avoid choking hazard. Still, please supervise children under 3 when playing with this set, especially if you use a smaller gauge.",
+  "full_text": "Such an iconic animal, so distinctive and with an aura of mystery and, wrongly assumed, spookiness and the macabre! Yes - I’m fascinated by them but to look at them and study photos of them, what a difficult challenge to characterise in knit-form! Truly hope I’ve done it justice!! My bat is knitted almost in one piece (as with all of my animals) and I decided on an easy-to-sew pair of felt wings, (bought felt sheet not ‘felted’)… I tried to knit some but the felt was just so perfect as you can shape it to really look like bat wings. He’s/ she’s so fun to arrange in the house, barn or garden - ooh and I’d love to see a micro knit one! … And with plenty of time before Halloween you’ll be on target to knit a whole ‘cauldron’ (no wonder they have that spooky attachment!!) Within the pattern I’ve given lots of detailed instructions on not only how to knit but also how to add the wings - I’ve also given you two variations:- with forelegs (cutesy) or without (anatomical more correct) - depends whether you feel he/ she needs a sweater or not!? Yarn-wise - I’ve used stash Drops Alpaca but you can use any 4-ply/ 3-ply (or finer if micro) yarn, and I knitted mine on 2mm needles. I hope you enjoy this little pattern and enjoy having her/ him hanging upside down around the place! Claire xx There is also a little Instagram Reel here for you to see Follow this link",
   "techniques": [],
-  "shape": "softie",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/babys-first-molecular-set/report",
-    "https://www.ravelry.com/patterns/sources/tiffany-suttons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/babys-first-molecular-set/threads",
-    "https://www.ravelry.com/patterns/library/babys-first-molecular-set/editors",
-    "https://www.ravelry.com/patterns/library/babys-first-molecular-set/comments",
-    "https://www.ravelry.com/patterns/library/babys-first-molecular-set/people",
-    "https://www.ravelry.com/patterns/library/babys-first-molecular-set",
-    "https://www.ravelry.com/patterns/library/babys-first-molecular-set/yarns"
+    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/bat-36/editors",
+    "https://www.ravelry.com/patterns/library/bat-36/people",
+    "https://www.ravelry.com/patterns/library/bat-36/threads",
+    "https://www.ravelry.com/patterns/library/bat-36/comments",
+    "https://www.ravelry.com/patterns/library/ladybird-ladybug",
+    "https://www.ravelry.com/patterns/library/bat-36/report",
+    "https://www.ravelry.com/patterns/library/piglet-18",
+    "https://www.ravelry.com/patterns/library/bat-36",
+    "https://www.ravelry.com/patterns/library/rabbit-doll",
+    "https://www.ravelry.com/patterns/library/bat-36/yarns"
   ]
 }

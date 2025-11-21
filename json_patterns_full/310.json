@@ -1,41 +1,40 @@
 {
   "pattern_id": 310,
-  "pattern_page": "https://www.ravelry.com/patterns/library/korkfisshe",
+  "pattern_page": "https://www.ravelry.com/patterns/library/keitos-body-version3",
+  "name": "Keito's BODY version3",
+  "description": "I have published this pattern on my blog.",
+  "designer": "nioknits",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Softies → Doll",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "Doll size. Details are in the notes.",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lily (Spinrite) Sugar'n Cream Solids"
+    "Purl Soho Line Weight",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
-    "kitchener",
-    "one-piece",
-    "seamless",
-    "three-needle-bind",
+    "doll-size",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "This is a cat toy stuffed with a cork from a wine bottle instead of polyfill or yarn scraps. A cork gives the toy a good weight for thumping and skittering but won’t leave floof everywhere when kitty tears it to shreds. A little catnip inside the fish or letting the fish marinate in the catnip bag probably wouldn’t hurt. Korkfisshe can be knit to sell for charity or for the personal use of a cat you like a lot. The name Korkfisshe is a play on Korknisse , which are very cute.",
+  "full_text": "I have published this pattern on my blog. I am currently preparing to publish the PDF pattern. Features of version 3 of Keito’s body pattern. 1.The head has a pattern that makes it easy to flocking hair. 2.The knees have a simpler pattern. 3.Adjusted the length of the legs. 4.Adjusted so that the panties-hems is aligned. Keito’s BODY SIZE The body of the doll must be within the size below in order to wear Keito’s clothing. Height 36~38cm(to the toe) Bust 17~18cm Waist 13~14cm Hips 17~18cm Foot 3.5cm About me … My English is not perfect, so there may be some confusion when you knit my patterns. I post this patterns on my blog and also post additional explanations of my patterns for your reference. I hope you enjoy my patterns.",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/korkfisshe/editors",
-    "https://www.ravelry.com/patterns/library/korkfisshe/report",
-    "http://www.saartjeknits.nl/patterns/Korknisse.html",
-    "https://www.ravelry.com/patterns/library/korkmauser",
-    "https://www.ravelry.com/patterns/sources/peg-of-tilling-does-some-knitting",
-    "https://www.ravelry.com/patterns/library/korkfisshe/threads",
-    "https://www.ravelry.com/patterns/library/korkhenn",
-    "https://www.ravelry.com/patterns/library/ruffledy-scarf",
-    "https://www.ravelry.com/patterns/library/korkfisshe/comments",
-    "https://www.ravelry.com/patterns/library/korkfisshe/posts",
-    "https://www.ravelry.com/patterns/library/korkfisshe/yarns",
-    "https://www.ravelry.com/patterns/library/korkfisshe",
-    "https://www.ravelry.com/patterns/library/korkfisshe/people"
-  ],
-  "name": "Ravelry: Korkfisshe pattern by Diane Trap"
+    "https://www.ravelry.com/patterns/sources/mimimi-hayasakas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/keitos-body-version3/yarns",
+    "https://www.ravelry.com/patterns/library/keitos-body-version3/threads",
+    "https://www.ravelry.com/patterns/library/keito-doll-mystery-kal-2025",
+    "https://www.ravelry.com/patterns/library/keitos-jeans",
+    "https://www.ravelry.com/patterns/library/keitos-body-version3/editors",
+    "https://www.ravelry.com/patterns/library/keitos-body-version3/comments",
+    "https://www.ravelry.com/patterns/library/keitos-body-version3/report",
+    "https://www.ravelry.com/patterns/library/keitos-bikini",
+    "https://www.ravelry.com/patterns/sources/knit-doll-keito",
+    "https://www.ravelry.com/patterns/library/keitos-body-version3/people",
+    "https://www.ravelry.com/patterns/library/keitos-body-version3"
+  ]
 }

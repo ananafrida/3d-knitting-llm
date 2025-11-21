@@ -1,35 +1,44 @@
 {
   "pattern_id": 2061,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gusset-on-top-toe-up-socks",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sputnik-ball",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "category": "Ball",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Dibadu Funnies - Smooth Falkland Merino"
+    "Red Heart Super Saver (solids)"
   ],
   "attributes": [
-    "gusset",
     "in-the-round",
-    "shaped-arches",
-    "toe-up",
+    "kitchener",
+    "modular",
+    "moebius",
+    "provisional",
+    "seamed",
+    "short-rows",
+    "sphere-shaped",
+    "textured",
+    "worked-flat",
     "written-pattern"
   ],
   "full_text": "",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gusset-on-top-toe-up-socks/posts",
-    "https://www.ravelry.com/patterns/library/gusset-on-top-toe-up-socks/editors",
-    "https://www.ravelry.com/patterns/library/gusset-on-top-toe-up-socks/report",
-    "https://www.ravelry.com/patterns/library/gusset-on-top-toe-up-socks/yarns",
-    "https://www.ravelry.com/patterns/library/gusset-on-top-toe-up-socks/comments",
-    "https://www.ravelry.com/patterns/sources/cokussknit-blogspot",
-    "https://www.ravelry.com/patterns/library/gusset-on-top-toe-up-socks/people",
-    "https://www.ravelry.com/patterns/library/gusset-on-top-toe-up-socks"
+    "http://kimberlychapman.com/crafts/knit-patterns-sputnik.html",
+    "https://www.ravelry.com/patterns/library/sputnik-ball/editors",
+    "https://www.ravelry.com/patterns/library/caterpillar-10",
+    "https://www.ravelry.com/patterns/library/sputnik-ball/yarns",
+    "https://www.ravelry.com/patterns/library/sputnik-ball/comments",
+    "https://www.ravelry.com/patterns/library/sputnik-ball/report",
+    "https://www.ravelry.com/patterns/library/sputnik-ball/threads",
+    "https://www.ravelry.com/patterns/sources/kimberly-chapmans-website",
+    "https://www.ravelry.com/patterns/library/sputnik-ball",
+    "https://www.ravelry.com/patterns/library/sputnik-ball/people",
+    "https://www.ravelry.com/patterns/library/babys-first-dna-model",
+    "https://www.ravelry.com/patterns/library/christmas-lights"
   ],
-  "name": "Ravelry: Gusset on top Toe-up socks pattern by Corinna Klaukin"
+  "name": "Ravelry: Sputnik Ball pattern by Kimberly Chapman"
 }

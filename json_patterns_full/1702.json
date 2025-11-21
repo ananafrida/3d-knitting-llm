@@ -1,39 +1,53 @@
 {
   "pattern_id": 1702,
-  "pattern_page": "https://www.ravelry.com/patterns/library/baby-bonding-squares",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bankhead",
+  "name": "Bankhead",
+  "description": "I named this hat in honor of my favorite ghost town; Bankhead (1904-1922). Nestled in the heart of Banff National Park, you’ll miss it if you aren’t paying attention. It was an old mining town that extracted the coal from Cascade Mountain. The settlement has been abandoned for almost a century, yet all that remains today are a few foundations, coal heaps and the stairs that once lead up to the church. Well worth a visit despite its haunting feel.",
+  "designer": "Susie Gourlay",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "5 - 5½“",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "Baby - Adult XL",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Peace Fleece Worsted Weight",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
+    "adult",
+    "baby",
+    "child",
+    "female",
+    "in-the-round",
+    "male",
     "one-piece",
-    "square",
-    "worked-flat",
+    "ribbed",
+    "seamless",
+    "teen",
+    "toddler",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "Bonding Squares are knitted in pairs. One square is placed with a premature baby and another is worn against the mum’s skin, then the squares are swapped round every 12 hours or every time mum visits. Many Neonatal Units are now using them. They help with the bonding of a premature baby in an incubator and the baby’s mum. The baby can smell mum’s scent even when she isn’t there or wasn’t able to get him out of his incubator, and then when she goes home she can still smell the baby’s scent on the square, which is a big comfort. Not only this, but many mums find that it really helps with expressing breast milk. Keeping the scent of the baby close by triggers the hormones needed to produce and express milk, which is very important as breastfeeding can be difficult for mothers with premature babies. To get this free pattern please click on the https link just below ↓ 5 different designs - 1 simple plain square - and 4 with pattern stitches",
-  "techniques": [],
-  "shape": "sphere",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-bonding-squares/comments",
-    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
-    "https://www.ravelry.com/patterns/library/tiny-ted-10",
-    "https://www.ravelry.com/patterns/library/baby-bonding-squares",
-    "https://www.ravelry.com/patterns/library/warm-adult-tweedy-hat",
-    "https://www.ravelry.com/patterns/library/baby-bonding-squares/yarns",
-    "https://www.ravelry.com/patterns/library/dixie-baby-hats",
-    "https://www.ravelry.com/patterns/library/baby-bonding-squares/report",
-    "https://www.ravelry.com/patterns/library/baby-bonding-squares/people",
-    "https://www.ravelry.com/patterns/library/baby-bonding-squares/editors",
-    "https://www.ravelry.com/patterns/library/baby-bonding-squares/threads"
+  "full_text": "I named this hat in honor of my favorite ghost town; Bankhead (1904-1922). Nestled in the heart of Banff National Park, you’ll miss it if you aren’t paying attention. It was an old mining town that extracted the coal from Cascade Mountain. The settlement has been abandoned for almost a century, yet all that remains today are a few foundations, coal heaps and the stairs that once lead up to the church. Well worth a visit despite its haunting feel. The 2 parts of this hat remind me of the 2 sections of the town; upper and lower Bankhead, where the houses existed and the industrial area thrived. The simple pattern resembles the train tracks and mine shafts which scatter the mountainside. This hat would have been a favorite among these coal miners. Now includes 5 sizes Baby - Adult XL and smoother decreases!",
+  "techniques": [
+    "decreases"
   ],
-  "name": "Ravelry: Baby Bonding Squares pattern by marianna mel"
+  "shape": "unknown",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/bankhead",
+    "https://www.ravelry.com/patterns/library/cobblestones-2",
+    "https://www.ravelry.com/patterns/library/bankhead/editors",
+    "http://www.knitnatural.com/knitting-patterns.html",
+    "https://www.ravelry.com/patterns/library/bankhead/report",
+    "https://www.ravelry.com/patterns/library/speargrass",
+    "https://www.ravelry.com/patterns/library/bankhead/posts",
+    "https://www.ravelry.com/patterns/library/frosty-morning-4",
+    "https://www.ravelry.com/patterns/library/bankhead/yarns",
+    "https://www.ravelry.com/patterns/sources/knit-natural",
+    "https://www.ravelry.com/patterns/library/bankhead/people",
+    "https://www.ravelry.com/patterns/library/bankhead/threads",
+    "https://www.ravelry.com/patterns/library/bankhead/comments"
+  ]
 }

@@ -1,38 +1,57 @@
 {
   "pattern_id": 1753,
-  "pattern_page": "https://www.ravelry.com/patterns/library/love-heart-bonding-square",
-  "name": "Love Heart Bonding Square",
-  "description": "Love Heart Bonding Square",
-  "designer": "Angela Louise Wood",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sockhead-slouch-hat",
+  "name": "Sockhead Slouch Hat",
+  "description": "Version Four (V4) is now available! #sockheadhat",
+  "designer": "Kelly McClure",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "one size",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "baby, child, teen, adult small, medium, large, extra-large",
   "languages": [
-    "English"
+    "English",
+    "Spanish"
   ],
   "suggested_yarn": [
-    "Stylecraft Special Double Knit",
-    "DK (11 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Blue Moon Fiber Arts Socks that Rock Lightweight"
   ],
   "attributes": [
+    "adult",
+    "baby",
     "bottom-up",
-    "worked-flat",
+    "child",
+    "in-the-round",
+    "one-piece",
+    "ribbed",
+    "seamless",
+    "teen",
+    "toddler",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "Love Heart Bonding Square Simple garter border, with knit and purl love heart motif. Each square uses approx 15g of double knit wool. Please give doodlepipmakes a follow on instagram, tag and share your makes!",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "Version Four (V4) is now available! #sockheadhat Also, try the condensed Quick Print version - it’s only one page! This slouchy, comfy hat is the perfect project for that one skein of sock yarn that is way too special to put on your feet. Fair warning: there is miles of stockinette stitch, so this makes for great TV, travel or zen knitting. The hat is simply constructed from the bottom to the crown. It is made up of a wide ribbed brim that folds up for extra warmth while the rest flops and folds over. The body of the hat is knit on short circular needles and the crown is closed up with double-pointed needles. This seamless, unisex hat now has seven sizes (baby - adult extra-large). The pattern is very versatile, so go ahead and get creative! Skill Level Rookie -Apprentice-Virtuoso-Genius Skills knit, purl, decreases Sizes baby, child, teen, adult small, medium, large, extra-large Finished Measurements • adult medium is approx 23 cm/9” wide and 35 cm/14“ tall lying flat (unfolded); see chart in PDF for other sizes Gauge • approx 32 sts and 46 rows = 10 cm/4” in St stitch on 3 mm/US 2.5 • approx 28 sts = 10 cm/4“ in St st on 2.75 mm/US 2 as given on ball band Yarn fingering weight alpaca blend Suggested Brand • 1 skein Misti Alpaca Hand Paint Sock Yarn • 50% alpaca, 30% merino, 10% nylon, 10% silk • 400 m (437 yds) per 100 g • shown in colour 07 Miriam Note: You may use any 100 g skein of fingering - sock - 4-ply yarn…see chart in PDF for amounts. Needles • 3 mm 40 cm (US 2.5 16”) circs • 3 mm 40 cm (US 2.5) dpns or size needed to obtain gauge Notes: US 2.5 needles can be hard to find - you can use a US 3 instead. Some knitters prefer to use a smaller size needle for the ribbed brim only (like a 2.5 mm/US 2). Other Materials • tapestry needle or teeny crochet hook (for weaving in ends), stitch marker Looking for a matching cowl? Try the Sockhead Cowl! Or maybe some matching gloves: Pioneer Gloves! Abbreviations BOR = beginning of round circ(s) = circular needle(s) CO = cast on dpn(s) = double pointed needle(s) dec(s) = decrease(s) K = knit K2tog = knit two stitches together (decrease) m = marker P = purl patt = pattern pm = place marker rem = remaining rep = repeat rnd(s) = round(s) sl m = slip marker st(s) = stitche(s) St st = stockinette stitch / stocking stitch tog = together",
+  "techniques": [
+    "decreases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/preemie-wrap-cardigan",
-    "https://www.ravelry.com/patterns/library/love-heart-bonding-square/editors",
-    "https://www.ravelry.com/patterns/library/love-heart-bonding-square/yarns",
-    "https://www.ravelry.com/patterns/library/baby-basic-crochet-hat",
-    "https://www.ravelry.com/patterns/library/love-heart-bonding-square/report",
-    "https://www.ravelry.com/patterns/library/love-heart-bonding-square",
-    "https://www.ravelry.com/patterns/library/love-heart-bonding-square/comments",
-    "https://www.ravelry.com/patterns/sources/doodlepipmakes-ravelry-store",
-    "https://www.ravelry.com/patterns/library/love-heart-bonding-square/people",
-    "https://www.ravelry.com/patterns/library/textured-dinosaur-knit"
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/yarns",
+    "http://www.ravelry.com/patterns/library/pioneer-gloves",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat",
+    "https://www.ravelry.com/bundles/free-patterns-700",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/comments",
+    "https://www.ravelry.com/patterns/library/sockhead-cowl",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/people",
+    "https://www.ravelry.com/patterns/library/pioneer-gloves",
+    "https://www.ravelry.com/patterns/sources/knitting-calendar-2017",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/report",
+    "https://www.ravelry.com/patterns/sources/bohoknits-ravelry-emporium",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/threads",
+    "https://www.ravelry.com/patterns/library/idylluna-shawl",
+    "http://www.ravelry.com/patterns/library/sockhead-cowl",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/editors",
+    "https://www.ravelry.com/patterns/sources/bohoknits-blogspot",
+    "https://www.ravelry.com/patterns/library/sockhead-slouch-hat/posts"
   ]
 }

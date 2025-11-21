@@ -1,42 +1,41 @@
 {
   "pattern_id": 873,
-  "pattern_page": "https://www.ravelry.com/patterns/library/noro-striped-scarf",
+  "pattern_page": "https://www.ravelry.com/patterns/library/no-swatching-mitered-square-blanket",
+  "name": "No-Swatching Mitered Square Blanket",
+  "description": "This mitered square blanket is an ideal scrap or comfort project, since it can be made with any yarn, any gauge, and any combination of yarns. Best of all, NO SWATCHING is required.",
+  "designer": "Beth Skwarecki",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "5.5\" wide x 6 feet long",
+  "category": "Blanket → Throw Blanket → Baby Blanket",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Noro Silk Garden"
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
-    "reversible",
-    "ribbed",
-    "stripes",
-    "unisex",
+    "low-vision",
+    "other-colorwork",
+    "pattern-recipe",
+    "seamed",
+    "square",
+    "stripes-colorwork",
+    "textured",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "First off, this is not MY pattern. It’s been done time and time again. I’ve written up how I did MY version on my blog (follow the link below), but I’m not claiming to have designed this. I was urged to list it under my designs for the sake of Queuing on Ravelry.",
+  "full_text": "This mitered square blanket is an ideal scrap or comfort project, since it can be made with any yarn, any gauge, and any combination of yarns. Best of all, NO SWATCHING is required. Each square is worked in garter stitch, beginning with a small number of stitches and increasing every other row. Continue until the square is the desired size. If that means some squares end up with 22 ridges and some have 30 ridges…no problem! The recommended size for squares is 12 inches (30 cm) on a side, but you can make squares of any size you choose. This pattern includes instructions for making the squares in a two-color format as shown, plus tips on adjusting to your own preferences for size and color. Instead of sewing the squares together, they are joined with a crochet slip stitch. That said, you may sew the squares if you prefer. Vision Accessibility: This pattern comes with two downloadable documents. The low vision version is labeled “LV.” It is written in 24 point sans serif font (Arial) in all black text, in one column. It has no italics. All of the directions are fully written out. There is a photo with alt text, but the photo is not needed to follow the pattern.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/noro-striped-scarf/threads",
-    "https://www.ravelry.com/patterns/library/noro-striped-scarf/comments",
-    "https://www.ravelry.com/patterns/library/noro-striped-scarf/posts",
-    "https://www.ravelry.com/patterns/library/noro-striped-scarf/yarns",
-    "https://www.ravelry.com/patterns/library/noro-striped-scarf/report",
-    "https://www.ravelry.com/patterns/library/noro-striped-scarf/people",
-    "https://www.ravelry.com/patterns/library/koolhaas",
-    "https://www.ravelry.com/patterns/library/turn-a-square",
-    "https://www.ravelry.com/patterns/library/noro-striped-scarf/editors",
-    "https://www.ravelry.com/patterns/periodicals/brooklyn-tweed",
-    "https://www.ravelry.com/patterns/library/guernsey-wrap",
-    "https://www.ravelry.com/patterns/library/noro-striped-scarf",
-    "https://www.ravelry.com/patterns/sources/brooklyn-tweed-classics"
-  ],
-  "name": "Ravelry: Noro Striped Scarf pattern by Jared Flood"
+    "https://www.ravelry.com/patterns/library/bean-friend",
+    "https://www.ravelry.com/patterns/library/no-swatching-mitered-square-blanket/editors",
+    "https://www.ravelry.com/patterns/library/no-swatching-mitered-square-blanket",
+    "https://www.ravelry.com/patterns/library/308-lola-bunny",
+    "https://www.ravelry.com/patterns/sources/beth-skwareckis-ravelry-store",
+    "https://www.ravelry.com/patterns/library/no-swatching-mitered-square-blanket/report",
+    "https://www.ravelry.com/patterns/library/no-swatching-mitered-square-blanket/people",
+    "https://www.ravelry.com/patterns/library/no-swatching-mitered-square-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/gravestone-2",
+    "https://www.ravelry.com/patterns/library/no-swatching-mitered-square-blanket/comments"
+  ]
 }

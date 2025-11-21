@@ -1,35 +1,48 @@
 {
   "pattern_id": 1364,
-  "pattern_page": "https://www.ravelry.com/patterns/library/homespun-monsters",
-  "name": "Homespun Monsters",
-  "description": "This is a fun pattern that uses up small amounts (50g or less) of handspun or any other yarn. The monsters are quick to knit and can be worked in any weight yarn to make lots of different size monsters.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb",
+  "name": "Stuffed Knit F-Bomb",
+  "description": "free pattern on Marly Bird Website, but the ad-free pdf is available for purchase",
+  "designer": "Marly Bird",
   "craft": "Knitting",
   "category": "Softies → Other",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Knit Picks Swish Worsted",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "worked-flat",
+    "bottom-up",
+    "chart",
+    "icord",
+    "in-the-round",
+    "mature",
+    "one-piece",
+    "other-colorwork",
+    "phototutorial",
+    "seamless",
+    "sphere-shaped",
     "written-pattern"
   ],
-  "full_text": "This is a fun pattern that uses up small amounts (50g or less) of handspun or any other yarn. The monsters are quick to knit and can be worked in any weight yarn to make lots of different size monsters. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "free pattern on Marly Bird Website, but the ad-free pdf is available for purchase If you’re looking for a fun, unique gift for the foul-mouthed person in your life, then look no further than the Stuffed Knit F-Bomb Toy by Marly Bird! This comical toy is perfect for anyone who loves to drop a few expletives every now and then. Stuffed Knit F-Bomb Designed by Marly Bird SKILL LEVEL Adventurous Beginner MEASUREMENTS Finished Measurements 4.5” 11.43 cm tall from base to top (not including i-cord). 10.5” 26.67 circumference. Gauge 21 sts = 4” 10 cm in Stockinette stitch pattern in the round. MATERIALS Yarn WeCrochet/KnitPicks, Swish worsted (100% Fine Superwash Merino Wool, 110 yds, 50 g CYCA #4 worsted). 1 ball: Loam Heather #28648 — color A 10 g: White #24662 — color B 2 g: Honey #26066 — color C 2 g: Serrano #24663 — color D 5 g: Throne #28662 — color E Needle U.S. 5 3.75 mm set of 5 double pointed needles, or size required for gauge. free pattern on Marly Bird Website, but the ad-free pdf is available for purchase",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/homespun-monsters/editors",
-    "https://www.ravelry.com/patterns/library/homespun-monsters/threads",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
-    "https://www.ravelry.com/patterns/library/homespun-monsters",
-    "https://www.ravelry.com/patterns/library/homespun-monsters/report",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/homespun-monsters/yarns",
-    "https://www.ravelry.com/patterns/library/homespun-monsters/people",
-    "https://www.ravelry.com/patterns/library/ten-stitch-hat",
-    "https://www.ravelry.com/patterns/library/homespun-monsters/comments"
+    "https://www.ravelry.com/patterns/library/game-day-2021-knitting",
+    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/yarns",
+    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/threads",
+    "https://www.ravelry.com/patterns/sources/marly-birds-ravelry-store",
+    "https://www.ravelry.com/patterns/library/rattle-the-stars-christmas-stocking",
+    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/editors",
+    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb",
+    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/report",
+    "https://www.ravelry.com/patterns/library/anne-slip-stitch-mosaic-shawl",
+    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/people",
+    "https://www.ravelry.com/patterns/sources/marly-birds-website",
+    "https://www.ravelry.com/patterns/library/stuffed-knit-f-bomb/comments"
   ]
 }

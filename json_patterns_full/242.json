@@ -1,40 +1,38 @@
 {
   "pattern_id": 242,
-  "pattern_page": "https://www.ravelry.com/patterns/library/twiggy-tweed",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sharona-scarf",
+  "name": "Sharona Scarf",
+  "description": "The sharona scarf is a simple stockinette scarf knit from tip to tip with increases along one side and then decreases along the same side. You can make the scarf in any size by using half of your yarn for increases and half for decreases.",
+  "designer": "Sharon Xu",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Any size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran / Worsted ?",
-    "Plymouth Yarn Tweed"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "other-colorwork",
-    "other-edging",
-    "seamed",
-    "worked-flat",
+    "one-piece",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "Description from Knitty.com: Gauge is not critical for this project, but be sure to work at a tight tension to obtain a firm fabric. While shopping for the next perfect handbag to fit my wallet and keys I grabbed my hair and screamed at the store associates to stock more purses for the modern grrls. A retro look in a small size, with a bit of style and \"puff\". So became the Twiggy Tweed bag, I picked up my trusty Domo-kun topped US #7 needles and the cool new Plymouth Tweed, in two nights I finished my purse and went back to those stores to laugh at the prices of their fugly pleather bags.",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitty-fall-2006",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/yarns",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/comments",
-    "https://www.ravelry.com/patterns/library/potluck-wool-mittenettes",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/threads",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/report",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/people",
-    "https://www.ravelry.com/patterns/library/tweedy-mittens",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/posts",
-    "https://www.ravelry.com/patterns/library/twiggy-tweed/editors",
-    "https://www.ravelry.com/patterns/library/karaoke-cable-scarf"
+  "full_text": "The sharona scarf is a simple stockinette scarf knit from tip to tip with increases along one side and then decreases along the same side. You can make the scarf in any size by using half of your yarn for increases and half for decreases. I made the scarf with yarn purchased from a natural dyer and was a one off colorway which I believe cannot be found anymore. I used 50 grams for the increase side and 50 grams for the decrease side. I used two different colors to make a two-toned scarf but you can use one color, two, or many! Since it’s stockinette when you block the scarf I recommend pinning it flat and blocking quite aggressively.",
+  "techniques": [
+    "decreases",
+    "increases"
   ],
-  "name": "Ravelry: Twiggy Tweed pattern by Melissa \"Missa\" Hills"
+  "shape": "cube",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/sharona-scarf/editors",
+    "https://www.ravelry.com/patterns/library/sharona-scarf/comments",
+    "https://www.ravelry.com/patterns/library/sharona-scarf",
+    "https://www.ravelry.com/patterns/library/sharona-scarf/people",
+    "https://www.ravelry.com/patterns/library/sharona-scarf/report",
+    "https://www.ravelry.com/patterns/library/sharona-scarf/yarns",
+    "https://www.ravelry.com/patterns/sources/sharon-xus-ravelry-store"
+  ]
 }

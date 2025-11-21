@@ -1,42 +1,39 @@
 {
   "pattern_id": 796,
-  "pattern_page": "https://www.ravelry.com/patterns/library/eyra-merino-polo",
-  "name": "Eyra Merino Polo",
-  "description": "Knitted turtleneck pullover for with bubble decorations. This jumper is knitted in DROPS Merino Extra Fine. The jumper is knitted top-down with raglan sleeves, which makes the work grow naturally over",
-  "designer": "Aurora Amandine",
+  "pattern_page": "https://www.ravelry.com/patterns/library/frankies-blankie-week-1",
+  "name": "Frankie's Blankie Week 1",
+  "description": "This is the first in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
-  "category": "Sweater → Pullover",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "XS-S-M-L-XL-XXL-XXXL",
+  "category": "Afghan block",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Merino Extra Fine",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Stylecraft Batik Double Knitting"
   ],
   "attributes": [
-    "adult",
-    "bobble-or-popcorn",
-    "female",
-    "raglan-sleeve",
-    "top-down"
+    "reversible",
+    "ribbed",
+    "textured"
   ],
-  "full_text": "Knitted turtleneck pullover for with bubble decorations. This jumper is knitted in DROPS Merino Extra Fine. The jumper is knitted top-down with raglan sleeves, which makes the work grow naturally over shoulders and chest, and requires minimal assembly. WORK OVERVIEW: • The jumper starts with the neckline and yoke, which are knitted in the round on a circular needle. • You start at the center back and work top-down. • When the yoke is finished, the work is divided into front, back, and sleeves. • The front and back, as well as the sleeves are knitted further in the round on circular needles. SIZES AVAILABLE: XS-XXXL (XS-S-M-L-XL-XXL-XXXL) NEEDLES: Circular needles size 3: Length 40 cm (neckline/sleeve) Circular needles size 4: Length 40 cm / 80 cm (body/sleeve) YARN: GARNSTUDIO DROPS Merino Extra Fine - 04 Grey (600-650-700-750-800-850-900g) The bubbles can be knitted in any yarn/colour you like! :)",
-  "techniques": [
-    "top-down"
-  ],
-  "shape": "sphere",
+  "full_text": "This is the first in a series of 50 patterns for a knitted sampler blanket, to be published weekly throughout 2018. The blanket is made up of 48 squares, a border and an edging, each featuring a different stitch pattern or technique so the whole project is a masterclass in knitting. As well as written instructions, charts are included for each of the squares. The first square is knitted in a simple knit and purl stitch pattern called ‘Sailor’s Rib’. It is reversible and lies flat so would also be a good choice for a scarf. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo/yarns",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo/people",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo/comments",
-    "https://www.ravelry.com/patterns/library/aestra-merino-polo",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo",
-    "https://www.ravelry.com/patterns/library/hildra-wool-jumper",
-    "https://www.ravelry.com/patterns/library/her-alpaca-dream-jumper",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo/editors",
-    "https://www.ravelry.com/patterns/library/eyra-merino-polo/report",
-    "https://www.ravelry.com/patterns/sources/aurora-amandines-ravelry-store"
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/comments",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-2",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/people",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/editors",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/yarns",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-5",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-3",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/report",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/threads",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1",
+    "https://www.ravelry.com/patterns/library/frankies-blankie-week-1/posts"
   ]
 }

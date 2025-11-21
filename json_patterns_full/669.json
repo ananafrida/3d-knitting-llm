@@ -1,38 +1,43 @@
 {
   "pattern_id": 669,
-  "pattern_page": "https://www.ravelry.com/patterns/library/holiday-elf",
+  "pattern_page": "https://www.ravelry.com/patterns/library/monty",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "up to 17\" (baby)",
+  "category": "Pet → Toys",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "5 to 6 inches long",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Jones & Vandermeer Clever Camel"
+    "Berroco Chinchilla",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "stripes-colorwork",
-    "unisex"
+    "appliqued",
+    "embroidery",
+    "schematic",
+    "seamed",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "holiday elf hat is a stripey and pointy hat, knit out of clever camel. This quick and speedy knit is designed to instantaneously transform baby into santa’s little helper.",
+  "full_text": "Berroco yarns for this pattern have been discontinued. Directions are still available. Monty is a super simple mouse toy made from a square of plain knitting. Stuff it with catnip for a great cat toy or polyester fiber fill for a kid’s stocking stuffer. (Berroco) MATERIALS For A – BERROCO KELTIC (50 grs), 1 Ball #5863 Galloway For B – BERROCO CHINCHILLA (50 grs), 1 Ball #5520 Persimmon For C - BERROCO FOLIAGE (50 grs), 1 Ball #5989 Walnut Small amount of BERROCO ULTRA ALPACA (100 grs) or scrap yarn in contrasting shade for ears, nose, tail and eyes. Straight knitting needles, size 9 Crochet hook, size 5.00 mm (H) Small amount contrasting yarn for ears, nose, tail and eyes Small amount polyfil Tapestry needle Warning: If Monty is made for your cat, we would suggest eliminating the yarn tail since it could potentially be ingested. Assembly diagram is provided.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/holiday-elf/comments",
-    "https://www.ravelry.com/patterns/library/bounce-5",
-    "https://www.ravelry.com/patterns/library/holiday-elf/yarns",
-    "https://www.ravelry.com/patterns/library/nathan-3",
-    "https://www.ravelry.com/patterns/library/holiday-elf/threads",
-    "https://www.ravelry.com/patterns/library/alice-15",
-    "https://www.ravelry.com/patterns/sources/cabinet-for-the-curious",
-    "https://www.ravelry.com/patterns/library/holiday-elf/people",
-    "https://www.ravelry.com/patterns/library/holiday-elf/editors",
-    "https://www.ravelry.com/patterns/library/holiday-elf",
-    "https://www.ravelry.com/patterns/library/holiday-elf/posts",
-    "https://www.ravelry.com/patterns/library/holiday-elf/report"
+    "https://www.ravelry.com/patterns/library/monty/report",
+    "https://www.ravelry.com/patterns/library/mystery-blanket-knit-along",
+    "https://www.ravelry.com/patterns/library/monty/people",
+    "https://www.ravelry.com/patterns/library/monty/comments",
+    "https://www.ravelry.com/patterns/library/monty/edit",
+    "https://www.ravelry.com/patterns/library/pearl-12",
+    "https://www.ravelry.com/patterns/library/monty/threads",
+    "https://www.ravelry.com/patterns/library/monty/editors",
+    "https://www.ravelry.com/patterns/library/monty",
+    "https://www.ravelry.com/patterns/library/monty/posts",
+    "https://www.ravelry.com/patterns/library/monty/yarns",
+    "https://www.ravelry.com/patterns/library/wythe",
+    "https://www.ravelry.com/patterns/periodicals/berroco",
+    "https://www.ravelry.com/patterns/sources/berroco-website"
   ],
-  "name": "Ravelry: holiday elf pattern by Jones & Vandermeer"
+  "name": "Ravelry: Monty pattern by Berroco Design Team"
 }

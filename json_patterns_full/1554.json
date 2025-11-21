@@ -1,42 +1,34 @@
 {
   "pattern_id": 1554,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fall-festival-acorns",
-  "name": "Fall Festival Acorns",
-  "description": "Knit acorns to accompany your knit leaves and pumpkins. Using just one Fall Festival bundle, you can create colorful decor for everyone’s favorite season.",
-  "designer": "Bobbi IntVeld",
+  "pattern_page": "https://www.ravelry.com/patterns/library/reversible-neck",
+  "name": "Reversible Neck",
+  "description": "The Reversible Neck is a versatile and cozy neck warmer, worked in 2x1 rib pattern. The 2x1 ribs create a double pattern, so that you can wear it on both sides or fold it. It’s knit in a wool and alpaca blend that confers structure, warmth and protection from cold weather. You can easily adjust it to your measurements, making it perfect for both adults and children.",
+  "designer": "mywoollencloset",
   "craft": "Knitting",
-  "category": "Decorative → Other",
+  "category": "Neck / Torso → Cowl",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Blue Sky Fibers Woolstok Bundle",
-    "Worsted (9 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Garnstudio DROPS Nepal"
   ],
   "attributes": [
-    "icord",
     "in-the-round",
-    "written-pattern"
+    "seamless"
   ],
-  "full_text": "Knit acorns to accompany your knit leaves and pumpkins. Using just one Fall Festival bundle, you can create colorful decor for everyone’s favorite season. Pattern is written for solid acorn. Add color work as desired using photos as inspiration. one mini hank will make one complete acorn. EXPERIENCE LEVEL Advanced Beginner MATERIALS Woolstok (Worsted) Bundle (100% Fine Highland Wool, 21 mini hanks; 5g/12yds): 1 Bundle (Fall Festival) FINISHED MEASUREMENTS Circumference: 4” after stuffing Height: 3” including stem COLOR SHOWN Mossy Green No. 1326, Earth Ivy No. 1309, Gravel Road No. 1302, Drift Wood No. 1312, Highland Fleece No. 1303, Ember Glow No. 1323, Rusted Roof No. 1311",
+  "full_text": "The Reversible Neck is a versatile and cozy neck warmer, worked in 2x1 rib pattern. The 2x1 ribs create a double pattern, so that you can wear it on both sides or fold it. It’s knit in a wool and alpaca blend that confers structure, warmth and protection from cold weather. You can easily adjust it to your measurements, making it perfect for both adults and children. SIZES One size. DIFFICULTY Beginner friendly. MEASUREMENTS Circumference: 60 cm / 24 inches Length: 22 cm / 9 inches GAUGE 20 sts x 26 rows in 10 x 10 cm ( 4 x 4 inches) on 4 mm / US6 needles in 2x1 rib, after blocking. NEEDLES 4 mm / US6: circular needles 50 or 60 cm ( 20 or 24 inches) or needle size that gives the same gauge. NOTIONS Tape measure, stitch markers, tapestry needle. YARN 150 g Drops Nepal (75 m / 82 yds in 50g) or yarn that gives the same gauge. Sample in picture is worked in Drops Nepal 0501. Note! This neck can be personalized both in circumference and in length. For this reason, make sure you have a proper amount of yarn.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes",
-    "https://www.ravelry.com/patterns/library/ely-capelet",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/comments",
-    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/report",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/editors",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/yarns",
-    "https://www.ravelry.com/patterns/library/fall-leaves-13",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/people",
-    "https://www.ravelry.com/patterns/library/fall-festival-acorns/threads",
-    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website"
+    "https://www.ravelry.com/patterns/library/reversible-neck/people",
+    "https://www.ravelry.com/patterns/library/reversible-neck/editors",
+    "https://www.ravelry.com/patterns/library/reversible-neck/report",
+    "https://www.ravelry.com/patterns/library/reversible-neck/yarns",
+    "https://www.ravelry.com/patterns/library/reversible-neck/comments",
+    "https://www.ravelry.com/patterns/sources/mywoollencloset-ravelry-store",
+    "https://www.ravelry.com/patterns/library/reversible-neck"
   ]
 }

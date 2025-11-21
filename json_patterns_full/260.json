@@ -1,43 +1,39 @@
 {
   "pattern_id": 260,
-  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-bunny",
-  "name": "Catnip Bunny",
-  "description": "A rainbow of bunnies, filled with catnip to treat your kitty at Easter. Pattern has only the tiniest amount of seaming on the ears, otherwise it’s seam free and knitting on two needles.",
-  "designer": "Selina Kyle",
+  "pattern_page": "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "Kitty size",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "8 ½ inches wide x 64 (80) inches long",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Purl Soho Worsted Twist"
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
-    "phototutorial",
-    "seamless",
-    "worked-flat",
+    "rectangle",
+    "reversible",
+    "ribbed",
     "written-pattern"
   ],
-  "full_text": "A rainbow of bunnies, filled with catnip to treat your kitty at Easter. Pattern has only the tiniest amount of seaming on the ears, otherwise it’s seam free and knitting on two needles. Pattern is written up (badly - I’m a novice!) on my blog, with lots of pictures to make it even easier. Update - now available as a Ravelry pdf download :) This would also be a great pattern to knit for young children - a string of them as a pram toy, or to learn colours etc. Edited to add: Please feel free to make these to raise funds for charity. :)",
+  "full_text": "MATERIALS - 4 (5) skeins of Purl Soho’s Alpaca Pure , 100% alpaca. Each skein is 109 yards/ 100 grams; approximately 436 (545) yards required. OR 3(4) skeins of Worsted Twist , 100% merino wool. Each skein is 164 yards/ 100 grams; approximately 436 (545) yards required. You will also need… US 8 (5.0 mm) straight or circular needles GAUGE 22 stitches = 4 inches in stitch pattern SIZES 8 ½ inches wide x 64 (80) inches long NOTES Slip all slipped stitches purlwise. This stitch pattern is worked over a multiple of 4 + 3 stitches.",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/liquid-soap-sleeve",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/people",
-    "https://www.ravelry.com/patterns/library/lace-mesh-wash-cloth-dish-cloth",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/posts",
-    "https://www.ravelry.com/patterns/sources/coffee-and-cream-blog",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/editors",
-    "https://www.ravelry.com/patterns/sources/coffee-and-cream",
-    "https://www.ravelry.com/patterns/library/baby-doll-set",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/comments",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/yarns",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/report",
-    "https://www.ravelry.com/patterns/library/catnip-bunny",
-    "https://www.ravelry.com/patterns/library/catnip-bunny/threads"
-  ]
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/people",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/editors",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/comments",
+    "https://www.ravelry.com/patterns/library/mistake-rib-scarf-11",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/posts",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/report",
+    "https://www.ravelry.com/patterns/library/no-purl-ribbed-scarf/threads",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: No-Purl Ribbed Scarf pattern by Purl Soho"
 }

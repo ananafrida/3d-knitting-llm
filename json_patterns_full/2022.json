@@ -1,36 +1,39 @@
 {
   "pattern_id": 2022,
-  "pattern_page": "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln",
-  "name": "Türkische Ferse/ stricken o. häkeln",
-  "description": "Nachträglich gearbeitete Ferse - eingestrickt oder eingehäkelt",
-  "designer": "Gusta Bogdan",
+  "pattern_page": "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere",
+  "name": "Earth Chart for Brent Annable's Sphere",
+  "description": "This intarsia chart of Earth’s continents is a modest supplement to the geometrifantastic Stockinette Short-Row Sphere by Brent Annable, free on Ravelry and his web site.",
+  "designer": "LFSAlden",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "category": "Ball",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Sundara Yarn Sock"
+    ""
   ],
   "attributes": [
-    "afterthought-heel"
+    "Intarsia",
+    "chart",
+    "kitchener",
+    "provisional",
+    "short-rows"
   ],
-  "full_text": "Subsequently worked heel - knitted or crocheted",
+  "full_text": "This intarsia chart of Earth’s continents is a modest supplement to the geometrifantastic Stockinette Short-Row Sphere by Brent Annable, free on Ravelry and his web site. Weight of yarn and gauge of stitches is arbitrary as long as you have a fairly tight fabric. If you are beginning at colorwork, you might choose a nice, grabby, wooly yarn. A slippery fiber will add difficulty. The example in the picture is mohair-and-wool. I’ve discovered: this project can be done just fine as stranded knitting if we abandon Mr. Annabale’s pattern, turn the color chart on its side, and work from south pole to north in the round. When you add stitches, use a nice firm increase such as a left-leaning lifted increase. As I am a much bigger fan of stranded knitting than intarsia, this is how I do the project nowadays. Of course one can duplicate stitch Antarctica! Who wouldn’t want to duplicate stitch Antarctica??",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/facile-et-beau---gusta",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/people",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/posts",
-    "https://www.ravelry.com/patterns/library/einhorn-schal",
-    "https://www.ravelry.com/patterns/library/hakelrosen",
-    "https://www.ravelry.com/patterns/library/katzenpfoten-socken",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/comments",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/editors",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/report",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln/yarns",
-    "https://www.ravelry.com/patterns/library/turkische-ferse--stricken-o-hakeln"
+    "https://www.ravelry.com/patterns/sources/birch-island-books",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/comments",
+    "https://www.ravelry.com/patterns/library/kells-headband",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/editors",
+    "https://www.ravelry.com/patterns/library/tip-to-tip-mittens",
+    "https://www.ravelry.com/patterns/library/sweetheart-mitten",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/yarns",
+    "http://www.ravelry.com/patterns/library/stockinette-short-row-sphere",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/people",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/threads",
+    "https://www.ravelry.com/patterns/library/earth-chart-for-brent-annables-sphere/report"
   ]
 }

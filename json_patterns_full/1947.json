@@ -1,39 +1,34 @@
 {
   "pattern_id": 1947,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knit-elbow-patches",
+  "pattern_page": "https://www.ravelry.com/patterns/library/gilet-laurier-rose",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "Small (Medium, Large)",
+  "category": "Sweater → Cardigan",
+  "needle_size": "7.0 mm",
+  "sizes_available": "S à XXL",
   "languages": [
-    "English"
+    "French"
   ],
   "suggested_yarn": [
-    "Light Fingering ?",
-    "Purl Soho Line Weight"
+    "Garnstudio DROPS Air",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "phototutorial",
-    "short-rows",
-    "textured",
-    "worked-flat",
-    "written-pattern"
+    "adult"
   ],
-  "full_text": "MATERIALS To make 1 pair of Elbow Patches… 1 skein of Purl Soho’s Line Weight , 100% merino. Each skein is 494 yards/ 100 grams; approximately 65 (98, 130) yards required (1 skein will make 7 5, 4 pairs.) US 4 (3.5 mm) straight or circular knitting needles Straight pins (for securing patch before sewing it on garment) A ball point needle or fine tapestry needle (for sewing patches to garment) GAUGE 6 ½ stitches and 12 rows = 1 inch in garter stitch, with yarn doubled SIZES Small (Medium, Large) FINISHED DIMENSIONS 3 (3½ , 4) inches wide by 4½ (5¼ , 6) inches long For the yarn used in this project, see: https://www.purlsoho.com/line-weight.html",
+  "full_text": "Model available for free on my YouTube channel as a step-by-step video tutorial https://youtu.be/zjinXy0EiUo",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knit-elbow-patches/yarns",
-    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
-    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/knit-elbow-patches/comments",
-    "https://www.ravelry.com/patterns/library/knit-elbow-patches",
-    "https://www.ravelry.com/patterns/library/knit-elbow-patches/people",
-    "https://www.ravelry.com/patterns/library/knit-elbow-patches/report",
-    "https://www.ravelry.com/patterns/library/knit-elbow-patches/threads",
-    "https://www.ravelry.com/patterns/library/knit-elbow-patches/editors",
-    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4"
+    "https://www.ravelry.com/patterns/sources/stephalinemade-on-youtube",
+    "https://www.ravelry.com/patterns/library/pull-ciel",
+    "https://www.ravelry.com/patterns/library/gilet-laurier-rose/editors",
+    "https://www.ravelry.com/patterns/library/gilet-laurier-rose/report",
+    "https://www.ravelry.com/patterns/library/gilet-laurier-rose/people",
+    "https://www.ravelry.com/patterns/library/pull-marin-2",
+    "https://www.ravelry.com/patterns/library/citronnade-tee",
+    "https://www.ravelry.com/patterns/library/gilet-laurier-rose/yarns",
+    "https://www.ravelry.com/patterns/library/gilet-laurier-rose/comments",
+    "https://www.ravelry.com/patterns/library/gilet-laurier-rose"
   ],
-  "name": "Ravelry: Knit Elbow Patches pattern by Purl Soho"
+  "name": "Ravelry: Gilet Laurier (rose) pattern by Stéphanie L"
 }

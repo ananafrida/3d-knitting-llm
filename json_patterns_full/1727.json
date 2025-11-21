@@ -1,46 +1,44 @@
 {
   "pattern_id": 1727,
-  "pattern_page": "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag",
-  "name": "No-Sew Beanie Baby Sleeping Bag",
-  "description": "A Beanie Baby sized sleeping bag worked in a double knitting technique (one that creates an open center, not joined sides as in reversible colored double knit technique). There are no seams to sew on the bag or the attached pillow! While being worked back and forth on straight needles (or circular needles used as straight if you prefer), a pouch is automatically formed by the double knitting.",
-  "designer": "Dawn Adcock",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lake-reed",
+  "name": "Lake Reed",
+  "description": "If you like to support me and my work buy me a kofi!",
+  "designer": "Asita Krebs",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One Size 40cm high/ 40cm circumference",
   "languages": [
-    "English"
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Bernat Camouflage Ombres"
+    "DK (11 wpi) ?",
+    "Sidispinnt Merino DK Single"
   ],
   "attributes": [
-    "doll-size",
-    "doubleknit",
-    "in-the-round",
-    "one-piece",
-    "rectangle",
-    "seamless",
-    "three-needle-bind",
-    "worked-flat",
+    "adult",
+    "cables",
+    "chart",
+    "ribbed",
+    "twisted-stitches",
     "written-pattern"
   ],
-  "full_text": "A Beanie Baby sized sleeping bag worked in a double knitting technique (one that creates an open center, not joined sides as in reversible colored double knit technique). There are no seams to sew on the bag or the attached pillow! While being worked back and forth on straight needles (or circular needles used as straight if you prefer), a pouch is automatically formed by the double knitting. Pattern can be made for larger stuffed animals and dolls by simply increasing the amount of stitches cast on (doubled makes a good 18” doll size), and working more rows for the body and pillow. A good technique to learn for making any type of small flat bags! Have fun adapting, and please let me know variations you come up!",
+  "full_text": "If you like to support me and my work buy me a kofi! The Lake Reed is a warm cozy hat with a folded brim. the separation between the cable pattern with purl and ktbl is closed and let less wind through. Size 20cm (8’’) high / 40cm (15.74’’) circumference gauge with needlesize 4mm in 1x1ribbing: 26sts/34rows If you find an error please write me a pm. The Lake Reed is a warm hat with fold-over cuffs. The separation of the cable pattern is tight thanks to left and right interlaced stitches and only lets a little wind through. Size: 20cm high and 40cm circumference Stitch sample: with 4mm in the cuff pattern: 26M/34R If you find an error in the instructions, I would be happy to receive a PM.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/people",
-    "https://www.ravelry.com/patterns/sources/dawns-dream-designs",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/yarns",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/report",
-    "https://www.ravelry.com/patterns/library/two-color-newborn-socks",
-    "http://www.dawnadcock.com/freepatterns.htm",
-    "https://www.ravelry.com/patterns/library/twin-rib-fingerless-mittens",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/posts",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/threads",
-    "https://www.ravelry.com/patterns/library/double-layer-sockyarn-hat",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/comments",
-    "https://www.ravelry.com/patterns/library/no-sew-beanie-baby-sleeping-bag/editors"
+    "https://www.ravelry.com/patterns/library/coral-reef-9",
+    "https://www.ravelry.com/patterns/library/little-pumpkin-hat-4",
+    "https://www.ravelry.com/patterns/library/lake-reed/report",
+    "https://www.ravelry.com/patterns/library/lake-reed/yarns",
+    "https://www.ravelry.com/patterns/sources/sidispinnt",
+    "https://www.ravelry.com/patterns/library/lake-reed/comments",
+    "https://www.ravelry.com/patterns/library/lake-reed",
+    "https://www.ravelry.com/patterns/library/lake-reed/posts",
+    "https://www.ravelry.com/patterns/library/lake-reed/editors",
+    "https://www.ravelry.com/patterns/library/celtic-myths",
+    "https://www.ravelry.com/patterns/library/lake-reed/people",
+    "https://www.ravelry.com/patterns/library/lake-reed/threads"
   ]
 }

@@ -1,40 +1,51 @@
 {
   "pattern_id": 1748,
-  "pattern_page": "https://www.ravelry.com/patterns/library/10-min-mini-basket",
-  "name": "10 Min Mini Basket",
-  "description": "These mini baskets are knit from the top down, in the round on 2 dpns. The handle is made by knotting the cast on end to its opposite side. To get the lovely woven look (without the pesky purl stitches), simply turn your basket inside out. The pattern is very quick. It only has 5 rounds!",
-  "designer": "Natasha Hanson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jasons-cashmere-hat",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "Height & Width: 1”/ 2.5cm, or desired size.",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "one size, to fit 22-24\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Patons North America Classic Wool Worsted",
-    "Worsted (9 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Sweet Fiber Yarns Cashmere Aran"
   ],
   "attributes": [
+    "adult",
+    "bottom-up",
+    "cables",
+    "female",
+    "fitted",
     "in-the-round",
+    "male",
+    "negative-ease",
     "one-piece",
+    "ribbed",
     "seamless",
-    "top-down"
+    "teen",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "These mini baskets are knit from the top down, in the round on 2 dpns. The handle is made by knotting the cast on end to its opposite side. To get the lovely woven look (without the pesky purl stitches), simply turn your basket inside out. The pattern is very quick. It only has 5 rounds! Praise for 10 Min Mini Basket It’s very easy. Great pattern. Really does take 10 minutes. (Elemenopeo) So cute! (Mirihi) Quick little basket. (bonewoman) This is a cute little basket. It is great for my gnomes and made very fast. ( Omissi)",
-  "techniques": [],
-  "shape": "sphere",
+  "full_text": "Jason’s Cashmere Hat features a simple cable design for extra warmth, firm ribbing to help keep its shape, and a thick, folded brim that can be adjusted to cover the ears on extra chilly days. Made with two skeins of Sweet Fiber Cashmere Aran, this hat is pure luxury and can easily be completed in a weekend. I hope you and your loved ones enjoy wearing this hat as much as Jason and I do! Yarn 2 skeins of Sweet Fiber Yarns Cashmere Aran (91m / 100y per 50g skein). Hats pictured are knit in Bruin and Smoke. Sizing To fit an adult head 22-24 inches in circumference. Finished Measurements 8 inches wide, 11 inches long (unfolded brim) or 8.5 inches long (folded brim) Needles 4mm / 6US 16” circular needle 5mm / 8US 16” circular needle 5mm / 8US dpns for decreases Gauge Ribbing: 20 stitches per 4 inches in rib pattern (unstretched), using smaller needles Body: 12 stitches and 7 rows = 2 inches by 1 inch in the cable pattern, using larger needles",
+  "techniques": [
+    "decreases"
+  ],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/10-min-mini-basket/people",
-    "https://www.ravelry.com/patterns/library/10-min-mini-basket/editors",
-    "https://www.ravelry.com/patterns/library/10-min-mini-basket",
-    "https://www.ravelry.com/patterns/library/acorn-lantern",
-    "https://www.ravelry.com/patterns/library/10-min-mini-basket/yarns",
-    "https://www.ravelry.com/patterns/library/winter-hat-garland",
-    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes",
-    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
-    "https://www.ravelry.com/patterns/library/10-min-mini-basket/threads",
-    "https://www.ravelry.com/patterns/library/10-min-mini-basket/report",
-    "https://www.ravelry.com/patterns/library/10-min-mini-basket/comments"
-  ]
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/threads",
+    "https://www.ravelry.com/patterns/sources/sweet-fiber-yarns-2",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/report",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/posts",
+    "https://www.ravelry.com/patterns/library/golden-pear",
+    "https://www.ravelry.com/patterns/library/jasons-tweed-hat",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/yarns",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/people",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/comments",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/editors",
+    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat",
+    "https://www.ravelry.com/patterns/library/greystone-5"
+  ],
+  "name": "Ravelry: Jason's Cashmere Hat pattern by Melissa Thomson"
 }

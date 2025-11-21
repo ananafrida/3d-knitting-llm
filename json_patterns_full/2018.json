@@ -1,38 +1,40 @@
 {
   "pattern_id": 2018,
-  "pattern_page": "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle",
-  "name": "verstärkte Bumerangferse und Sohle",
-  "description": "Achtung, dies ist eine Hilfestellung, um Socken haltbarer zu gestalten, indem eine verstärkte Bumerangferse und Sohle gestrickt wird. Es ist KEIN Sockenmuster! ;-)",
-  "designer": "Jutta Schneider",
+  "pattern_page": "https://www.ravelry.com/patterns/library/soccer-ball",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "unisize",
+  "category": "Ball",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "Slightly smaller than a regulation soccer ball",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
     "",
-    "Fingering (14 wpi) ?"
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "short-row-heel",
+    "chart",
+    "modular",
+    "seamed",
+    "sphere-shaped",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Attention, this is a guide to making socks more durable by knitting a reinforced boomerang heel and sole. It is NOT a sock pattern! ;-) In this tutorial I'll show you what you need to do to make your socks last longer and not wear out too quickly! Good luck with it!",
+  "full_text": "Materials 2 or 3 balls of worsted weight yarn, depending on your colour scheme. Allow one ball for each colour you use. If you plan to play with the soccer ball, make it a washable yarn; probably acrylic. 5mm double-pointed needles place markers tapestry needle stuffing or inflatable beach ball Direct PDF download",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle",
-    "https://www.ravelry.com/patterns/sources/js-designs",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/people",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/report",
-    "https://www.ravelry.com/patterns/library/mittens-ally-mcbeal-style",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/comments",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/yarns",
-    "https://www.ravelry.com/patterns/library/variation-with-coffee-beans",
-    "https://www.ravelry.com/patterns/library/gezopfte-socken",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/threads",
-    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/editors"
-  ]
+    "https://www.ravelry.com/patterns/library/soccer-ball/comments",
+    "https://www.ravelry.com/patterns/library/soccer-ball/people",
+    "https://www.ravelry.com/patterns/library/soccer-ball/edit",
+    "https://www.ravelry.com/patterns/library/soccer-ball/yarns",
+    "http://needles.guzzlingcakes.com/downloads/Needle_Exchange_Soccer_Ball_Pattern.pdf",
+    "http://needles.guzzlingcakes.com/2006/06/11/world-cup-soccer-ball-knitting-pattern/",
+    "https://www.ravelry.com/patterns/library/soccer-ball",
+    "https://www.ravelry.com/patterns/library/soccer-ball/report",
+    "https://www.ravelry.com/patterns/library/soccer-ball/threads",
+    "https://www.ravelry.com/patterns/sources/needle-exchange",
+    "https://www.ravelry.com/patterns/library/soccer-ball/editors"
+  ],
+  "name": "Ravelry: Soccer Ball pattern by Evester"
 }

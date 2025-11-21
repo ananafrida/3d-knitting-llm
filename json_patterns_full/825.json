@@ -1,47 +1,36 @@
 {
   "pattern_id": 825,
-  "pattern_page": "https://www.ravelry.com/patterns/library/tweedy-junior",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fox-square",
   "craft": "Knitting",
-  "category": "Sweater → Pullover",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "3-6 mo, (6-12 mo), 1-2yr, (2-3yr), 3-4 yr",
+  "category": "Afghan block",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "8.5\" x 8.5\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Hedgehog Fibres Merino DK"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "child",
-    "female",
-    "in-the-round",
-    "male",
-    "one-piece",
-    "seamless",
-    "toddler",
-    "top-down",
-    "unisex"
+    "chart",
+    "square",
+    "written-pattern"
   ],
-  "full_text": "Cute little jumper with raglan shaping. Top down construction. It will look adorable on any baby. Ample, stretchy neckline thanks to a tubular cast on. This jumper is particularly good for big headed babies (Like my Jay!), though any baby will appreciate the ease this neckline slides on with.",
+  "full_text": "Pattern for a knitted fox square. Great as a dishcloth or washcloth or with other squares to form a blanket or afghan - could look great with my paw print square or other animal squares. Both chart and written pattern are included. Finished square (using DK yarn and 4 mm - US6, UK8 - needles) approximately 22 cm x 22 cm (8.5 inches x 8.5 inches) This square is the same size as my other free squares - together they could make a fantastic afghan!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tweedy-junior/threads",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/editors",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/yarns",
-    "https://www.ravelry.com/patterns/library/tweedy-junior",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/people",
-    "https://www.ravelry.com/patterns/library/thursday-sweater",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/report",
-    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/posts",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/tweedy-junior",
-    "https://www.ravelry.com/patterns/sources/beata-jezeks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/souffle-tee",
-    "https://www.ravelry.com/patterns/library/tweedy-junior/comments"
+    "https://www.ravelry.com/patterns/library/fox-square/comments",
+    "https://www.ravelry.com/patterns/library/fox-square/people",
+    "https://www.ravelry.com/patterns/library/acorn-square",
+    "https://www.ravelry.com/patterns/library/hedgehog-square",
+    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
+    "https://www.ravelry.com/patterns/library/fox-square/report",
+    "https://www.ravelry.com/patterns/library/lily-of-the-valley-square-2",
+    "https://www.ravelry.com/patterns/library/fox-square/yarns",
+    "https://www.ravelry.com/patterns/library/fox-square/editors",
+    "https://www.ravelry.com/patterns/library/fox-square"
   ],
-  "name": "Ravelry: Tweedy Junior pattern by Beata Jezek"
+  "name": "Ravelry: Fox Square pattern by Daisy and Storm"
 }

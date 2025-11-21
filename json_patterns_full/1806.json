@@ -1,35 +1,39 @@
 {
   "pattern_id": 1806,
-  "pattern_page": "https://www.ravelry.com/patterns/library/little-chocolate-eggs-basket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mitten-topz",
+  "name": "Mitten Topz",
+  "description": "Sometimes fingerless mitts are great, sometimes you’re finger tips want to be warm! Attach these fun mitten topz to keep warm! The thumb is still available for texting!",
+  "designer": "Melissa Sibley Designs",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Components → Other",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "yarn held together"
+    "Plymouth Yarn Baby Alpaca Grande",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "seamed",
-    "worked-flat",
+    "buttonholes",
+    "one-piece",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "This little basket is easy and quick to make, it uses knit stitches throughout. It’s big enough to hold several mini chocolate eggs. Ideal for charity donations or craft fairs.",
+  "full_text": "Sometimes fingerless mitts are great, sometimes you’re finger tips want to be warm! Attach these fun mitten topz to keep warm! The thumb is still available for texting!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/little-chocolate-eggs-basket",
-    "https://www.ravelry.com/patterns/library/rainbow-dress-for-barbie",
-    "https://www.ravelry.com/patterns/library/little-chocolate-eggs-basket/comments",
-    "https://www.ravelry.com/patterns/library/little-chocolate-eggs-basket/yarns",
-    "https://www.ravelry.com/patterns/library/little-chocolate-eggs-basket/people",
-    "https://www.ravelry.com/patterns/library/little-chocolate-eggs-basket/editors",
-    "https://www.ravelry.com/patterns/library/toilet-roll-tube-easter-basket",
-    "https://www.ravelry.com/patterns/library/little-chocolate-eggs-basket/report",
-    "https://www.ravelry.com/patterns/library/skirt-for-barbie",
-    "https://www.ravelry.com/patterns/sources/taffy-lass-knits"
-  ],
-  "name": "Ravelry: Little Chocolate Eggs Basket pattern by taffylass knits"
+    "https://www.ravelry.com/patterns/library/mitten-topz/comments",
+    "https://www.ravelry.com/patterns/library/atlantic-current-socks",
+    "https://www.ravelry.com/patterns/library/clog-socks-2",
+    "https://www.ravelry.com/patterns/library/mitten-topz/report",
+    "https://www.ravelry.com/patterns/library/pedestrian-crossing-cowl",
+    "https://www.ravelry.com/patterns/library/mitten-topz/people",
+    "https://www.ravelry.com/patterns/sources/keegan-lane-designs",
+    "https://www.ravelry.com/patterns/library/mitten-topz/threads",
+    "https://www.ravelry.com/patterns/library/mitten-topz/yarns",
+    "https://www.ravelry.com/patterns/library/mitten-topz",
+    "https://www.ravelry.com/patterns/library/mitten-topz/editors"
+  ]
 }

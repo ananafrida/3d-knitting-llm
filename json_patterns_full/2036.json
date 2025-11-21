@@ -1,39 +1,39 @@
 {
   "pattern_id": 2036,
-  "pattern_page": "https://www.ravelry.com/patterns/library/afterthought-everything-recipe",
-  "name": "Afterthought Everything Recipe",
-  "description": "You Tube Video",
-  "designer": "Shelley Dupont",
+  "pattern_page": "https://www.ravelry.com/patterns/library/10-stripe-baby-ball",
+  "name": "10 Stripe Baby Ball",
+  "description": "",
+  "designer": "Clare Doornbos",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "category": "Ball",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Light Fingering ?",
-    "Polka Dot Creek Classic Sock"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "afterthought-heel",
-    "in-the-round",
-    "kitchener",
-    "other-toe"
+    "sphere-shaped",
+    "stripes-colorwork"
   ],
-  "full_text": "You Tube Video",
+  "full_text": "",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/comments",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/threads",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/people",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/report",
-    "https://www.ravelry.com/patterns/sources/polka-dot-creek-on-ravelry",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/yarns",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe/editors",
-    "https://www.ravelry.com/patterns/library/mini-sweater-ornament-6",
-    "https://www.ravelry.com/patterns/library/afterthought-everything-recipe",
-    "https://www.ravelry.com/patterns/library/cozy-memories-blanket-2",
-    "https://www.ravelry.com/patterns/library/ice-cream-socks-4"
+    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball",
+    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball/editors",
+    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball/report",
+    "https://nattyknitter.wordpress.com/2009/09/29/10-stripe-baby-ball-free-pattern/",
+    "https://www.ravelry.com/patterns/library/ghost-5",
+    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball/comments",
+    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball/people",
+    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball/yarns",
+    "https://www.ravelry.com/patterns/sources/natty-knits",
+    "https://www.ravelry.com/patterns/library/knit-chick",
+    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball/threads",
+    "https://www.ravelry.com/patterns/library/10-stripe-baby-ball/posts",
+    "https://www.ravelry.com/patterns/library/spider-3"
   ]
 }

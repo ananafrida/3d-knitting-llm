@@ -1,40 +1,46 @@
 {
   "pattern_id": 1069,
-  "pattern_page": "https://www.ravelry.com/patterns/library/souffle-tee",
+  "pattern_page": "https://www.ravelry.com/patterns/library/le-pouf-sweater",
   "craft": "Knitting",
-  "category": "Tops → Tee",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Sweater → Pullover",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "sizes_available": "XS [S, M, L, XL] [2XL, 3XL, 4XL, 5XL]",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Hedgehog Fibres Oh So Fine Soufflé"
+    "Hedgehog Fibres Sock",
+    "yarn held together"
   ],
   "attributes": [
     "adult",
+    "female",
     "in-the-round",
+    "one-piece",
     "positive-ease",
+    "ribbed",
+    "scoop-neck",
+    "seamless",
     "top-down",
-    "worked-flat"
+    "unisex"
   ],
-  "full_text": "Lightweight and delicate short sleeve pattern with a whimsical and fluffy texture. One piece, top down construction, designed to fit loosely for an easy to wear layering top. Colourway pictured is Peony.",
+  "full_text": "Simple top down stockinette sweater, that let’s you get creative with your yarns! Find an awesome combination of colours that makes you happy! This is achieved by starting with two strands of Colour A, then you will drop one strand of A and replace it with one strand of B. After that, two strands of Colour B and so on. There is no striping with this technique and marling creates a softer transition.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/souffle-tee/threads",
-    "https://www.ravelry.com/patterns/library/souffle-tee/comments",
-    "https://www.ravelry.com/patterns/library/tweedy-junior",
-    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
-    "https://www.ravelry.com/patterns/library/souffle-tee/people",
-    "https://www.ravelry.com/patterns/library/souffle-tee/yarns",
-    "https://www.ravelry.com/patterns/library/souffle-tee/editors",
-    "https://shop.hedgehogfibres.com/collections/patterns/products/souffle-tee",
-    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/skeleton-hat-4",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater/yarns",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater/report",
     "https://www.ravelry.com/patterns/library/le-pouf-2",
-    "https://www.ravelry.com/patterns/library/souffle-tee/report",
-    "https://www.ravelry.com/patterns/library/souffle-tee"
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater/comments",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/scrappy-marl",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater/posts",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater/editors",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater/threads",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater/people"
   ],
-  "name": "Ravelry: Soufflé Tee pattern by Beata Jezek"
+  "name": "Ravelry: Le Pouf Sweater pattern by Beata Jezek"
 }

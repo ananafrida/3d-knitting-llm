@@ -1,39 +1,44 @@
 {
   "pattern_id": 77,
-  "pattern_page": "https://www.ravelry.com/patterns/library/verboort-block",
-  "name": "Verboort Block",
-  "description": "Verboort (vur-BORT) is a small town in Oregon founded by a Dutch priest in 1876. Verboort puts on an incredibly delicious sausage and kraut festival every November that attracts people from miles around!",
-  "designer": "Vicki Monthei",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume",
+  "name": "Fuzzy Buzzy Bee Costume",
+  "description": "A toddler’s bee costume, knit quickly in a large gauge that can be substituted stitch for stitch by centimeter to make larger or smaller sizes. Enjoy.",
+  "designer": "Hattie B. Holtapp",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "NA",
+  "category": "Costume",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "sizes_available": "2T",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Thread ?",
-    "Aunt Lydia's Classic 10 Crochet Thread"
+    "Yarn Bee Luscious",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "one-piece",
-    "selvedge",
-    "worked-flat"
+    "hood",
+    "in-the-round",
+    "short-rows",
+    "toddler",
+    "top-down",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "Verboort (vur-BORT) is a small town in Oregon founded by a Dutch priest in 1876. Verboort puts on an incredibly delicious sausage and kraut festival every November that attracts people from miles around! This simple block can be knit to ANY size! Simply work the 4-row Ringwood pattern until your block is half-done, then switch to the 4-row welt pattern until you run out of stitches! The white block is 3.5” square. The yellow block at 5 stitches/inch when blocked is 5” square and was knit with Lion brand 24/7 cotton yarn. Both blocks were worked exactly the same, just in a different gauge. The stockinette stitches push on the 2-row welts to make a gentle curve. I like this effect, so I didn’t straighten it when blocking. Skills needed: cast on, slip, knit, purl, kf&b, k2tog and k3tog. Gauge is not important in this pattern. Any block-able yarn/thread will work. Make a swatch to check gauge and appearance. 20 yards of #10 crochet thread will make 1 Verboort Block in the stated gauge.",
+  "full_text": "A toddler’s bee costume, knit quickly in a large gauge that can be substituted stitch for stitch by centimeter to make larger or smaller sizes. Enjoy.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/verboort-block",
-    "https://www.ravelry.com/patterns/library/1889-weldons-epsom-edging",
-    "https://www.ravelry.com/patterns/library/weldons-florentine-edging",
-    "https://www.ravelry.com/patterns/library/verboort-block/people",
-    "https://www.ravelry.com/patterns/library/1888-weldons-buttercup-edging",
-    "https://www.ravelry.com/patterns/library/verboort-block/comments",
-    "https://www.ravelry.com/patterns/library/verboort-block/editors",
-    "https://www.ravelry.com/patterns/library/verboort-block/report",
-    "https://www.ravelry.com/patterns/library/verboort-block/yarns",
-    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store"
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/yarns",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/people",
+    "https://www.ravelry.com/patterns/library/fair-and-square-baby-blanket",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/report",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/threads",
+    "https://www.ravelry.com/patterns/library/beginners-lucky-pouch",
+    "https://www.ravelry.com/patterns/library/toddlers-cast-cover-ii",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/comments",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/editors",
+    "https://www.ravelry.com/patterns/sources/hatticustricks",
+    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/posts"
   ]
 }

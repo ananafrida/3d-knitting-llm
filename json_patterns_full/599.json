@@ -1,52 +1,37 @@
 {
   "pattern_id": 599,
-  "pattern_page": "https://www.ravelry.com/patterns/library/leafy-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse",
+  "name": "Nom the Catnip Mouse",
+  "description": "Cute little toy for your favorite feline.",
+  "designer": "Merrin Curley",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "75x70cm (30x28 in)",
+  "category": "Softies → Animal Pet → Toys",
   "languages": [
-    "Czech",
-    "English",
-    "French",
-    "Portuguese",
-    "Spanish",
-    "...and 5 other languages show hide other languages",
-    "...and 5 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Grignasco Eco-Cotton 28 Bioline",
-    "yarn held together"
+    ""
   ],
   "attributes": [
-    "chart",
-    "lace",
-    "rectangle",
-    "written-pattern"
+    "icord",
+    "in-the-round",
+    "stripes-colorwork"
   ],
-  "full_text": "October 2025 update! While the original Leafy Baby Blanket pattern is as usual available for free on website, an updated version to match the Leafy Baby Hat has been published - as a part of Leafy Baby Set ebook . August 2025 update! Leafy Baby Hat pattern is now available! May 2021 update! To celebrate 10 years’ anniversary of the pattern, I am publishing the updated version. Hopefully, it will now be much easier to understand and follow. A quick project on larger needles, using two strands of yarn. I was inspired to make it as my good friend was having a baby, and the nursery theme was “In the Woods”. It’s a lace pattern that uses left and right slanting decreases on both right and wrong side rows. The pattern has both charted and written instructions. The gauge is approximately 1 pattern repeat (15 sts) = 11,5 cm. As this is a blanket, you can easily play with it, making more or less of pattern repeats. I used less than 6 skeins of yarn for mine. Please note , if you are knitting English style, you may easily lose yarn overs that are followed by purl stitches. I recommend using stitch markers to separate each lace repeat to make it easier. Translated versions are of the original 2011 pattern, and are also available on my website using the link above. Thanks to MarjorieLouiki , there is now a French version available, and MsSunshine76 has kindly translated the pattern into Spanish! Thanks to Gilma Elias for the Portuguese translation! Here’s correction for Portugese version: “17row: (2t, 3m, Lacerda, 2m, MS, 6m), 2t (2t instead of 2m). I hope it helps other brasilian or portuguese knitters.”",
-  "techniques": [
-    "decreases"
-  ],
-  "shape": "unknown",
+  "full_text": "Cute little toy for your favorite feline.",
+  "techniques": [],
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/assorti---11-hair-scrunchies",
-    "https://www.ravelry.com/patterns/sources/silk--wool-website",
-    "https://www.ravelry.com/patterns/library/leafy-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/leafy-baby-hat-2",
-    "https://www.ravelry.com/patterns/library/leafy-baby-blanket",
-    "https://www.ravelry.com/patterns/sources/leafy-baby-set/patterns",
-    "https://www.ravelry.com/patterns/library/leafy-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/caramella-7",
-    "https://www.ravelry.com/patterns/library/leafy-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/leafy-baby-blanket/report",
-    "https://www.ravelry.com/patterns/sources/leyla-alieva-designs",
-    "http://silkandwool.eu/updated-leafy-baby-blanket-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/leafy-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/library/leafy-baby-blanket/posts",
-    "https://www.ravelry.com/patterns/sources/leafy-baby-set",
-    "https://www.ravelry.com/patterns/library/leafy-baby-blanket/yarns"
-  ],
-  "name": "Ravelry: Leafy Baby Blanket pattern by Leyla Alieva"
+    "https://www.ravelry.com/patterns/library/christmas-toadstools",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/comments",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/posts",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/report",
+    "https://www.ravelry.com/patterns/library/bruce-the-tiny-monkey",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/threads",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/editors",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/people",
+    "https://www.ravelry.com/patterns/library/cosmo-the-baby-dragon",
+    "https://www.ravelry.com/patterns/sources/the-ginger-cat-designs",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/nom-the-catnip-mouse"
+  ]
 }

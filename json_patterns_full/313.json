@@ -1,40 +1,42 @@
 {
   "pattern_id": 313,
-  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-candy-toys",
+  "pattern_page": "https://www.ravelry.com/patterns/library/doll-diaper-2",
+  "name": "Doll Diaper",
+  "description": "My granddaughter requested diapers for some dolls I recently made her (Oak Folk by Sandra Magalhães - here is Ravelry Link). They are adorable.",
+  "designer": "J.G. Miller",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "Approx 2\" [5 cm] wide x 5\" [12.5 cm] long",
+  "category": "Softies → Doll",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lily (Spinrite) Sugar'n Cream Solids"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "one-piece",
-    "seamed",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round",
+    "kitchener",
+    "modular",
+    "seamless",
+    "top-down"
   ],
-  "full_text": "Materials: Stuffing. Catnip (optional) One ball of yarn makes 6 toys",
-  "techniques": [],
+  "full_text": "My granddaughter requested diapers for some dolls I recently made her (Oak Folk by Sandra Magalhães - here is Ravelry Link). They are adorable. https://www.ravelry.com/patterns/library/the-oak-folk-dol... I looked for a diaper that had what I wanted (mostly in the round, with angled legs) but didn’t find anything I really liked. So, after some trial and error, here’s what I came up with. Construction - you cast on and work in the round until the legs. Then you work the front only (like if you were doing a sock heel). When finished with the front, you add yarn and work the back the same way. Crotch is closed with kitchener stitch. For the flaps, you pick up stitches vertically, knit them and then sew them down. Takes approximately 5 grams of yarn.",
+  "techniques": [
+    "pick up stitches"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/report",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/people",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/comments",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/yarns",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/editors",
-    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/posts",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys",
-    "https://www.ravelry.com/patterns/library/catnip-candy-toys/threads",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks"
-  ],
-  "name": "Ravelry: Catnip Candy Toys pattern by Yarnspirations Design Studio"
+    "https://www.ravelry.com/patterns/library/hat-23-cool-slips-d",
+    "https://www.ravelry.com/patterns/library/hat-26-lace-ladders",
+    "https://www.ravelry.com/patterns/library/hat-30-lace-a",
+    "https://www.ravelry.com/patterns/library/the-oak-folk-doll-body",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/yarns",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/comments",
+    "https://www.ravelry.com/patterns/sources/jg-millers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/editors",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/people",
+    "https://www.ravelry.com/patterns/library/doll-diaper-2/report"
+  ]
 }

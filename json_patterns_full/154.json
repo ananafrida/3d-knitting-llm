@@ -1,39 +1,47 @@
 {
   "pattern_id": 154,
-  "pattern_page": "https://www.ravelry.com/patterns/library/colour-cube--balls",
+  "pattern_page": "https://www.ravelry.com/patterns/library/wabbit-the-rabbit",
+  "name": "Wabbit the Rabbit",
+  "description": "“Hello, Rabbit,” he (Pooh) said, “Is that you?”",
+  "designer": "Claire Garland",
   "craft": "Knitting",
-  "category": "Ball Blocks",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "One size",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Approx. 18cm/ 7in tall from top of head to sole of paws",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Moda Vera Marvel 8ply Plain",
-    "DK (11 wpi) ?"
+    "Cardiff Cashmere Classic",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "cube-shaped",
-    "seamed",
-    "sphere-shaped",
+    "modular",
+    "short-rows",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This is a tutorial for making a simple garter stitch cube and balls in matching colours. This is a brilliant stash-busting project or a project for a beginner knitter. It is very quick to knit and make up too, so it would be a good last-minute gift for a baby or toddler. The cube and balls can be used in a variety of ways. Teach your children their colours and get them to match the balls to the faces of the cube. Add some felt dots to turn the cube into a die and knit a corresponding number of balls for each face. The possibilities are limitless. The cube is stuffed with a car washing sponge cut to shape and the balls are filled with toy stuffing.",
-  "techniques": [],
-  "shape": "sphere",
-  "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitkatpaddywhack",
-    "https://www.ravelry.com/patterns/library/garter-be-kidding-me",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/threads",
-    "https://www.ravelry.com/patterns/library/the-mau",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/people",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/editors",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/yarns",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/report",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls",
-    "https://www.ravelry.com/patterns/library/colour-cube--balls/comments",
-    "https://www.ravelry.com/patterns/library/angelfish-beanie"
+  "full_text": "“Hello, Rabbit,” he ( Pooh ) said, “Is that you?” “Let’s pretend it isn’t,” said Rabbit, “And see what happens“. Oh dear - is it a good idea to bring Wabbit into the group of my knitted Pooh characters?! Knitting-wise Wabbit is knitted and shaped with short rows and pick up stitches - as are all of my patterns. I’ve listed the yarn I knitted Wabbit in within the pattern but you can adapt yarn choices to suit yourself - there is also a KIT available HERE And if you’d like to knit Piglet then that pattern is here - ( Also don’t forget Pooh - he’s here And Roo - who’s free here And of course Eeyore who’s here there’s also a kit for him too There is of course - Tigger! and lastly Wol - here (also free!) I hope you love your Wabbit as much as I love mine… and follow along with my Instagram @doptpebbles_knits for the last up and coming other character to complete this series !",
+  "techniques": [
+    "pick up stitches",
+    "short rows"
   ],
-  "name": "Ravelry: Colour Cube + Balls pattern by Katherine Young"
+  "shape": "unknown",
+  "download_links": [
+    "https://www.ravelry.com/patterns/sources/claire-garland-dot-pebbles-ravelry-store",
+    "https://www.ravelry.com/patterns/library/wol-the-owl",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/threads",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/yarns",
+    "https://www.ravelry.com/patterns/library/pooh-bear-4",
+    "https://www.ravelry.com/patterns/library/piglet-doll-2",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/comments",
+    "https://www.ravelry.com/patterns/library/tigger-18",
+    "https://www.ravelry.com/patterns/library/kanga-kangaroo",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/people",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/editors",
+    "https://www.ravelry.com/patterns/library/roo-from-winnie-the-pooh",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit",
+    "https://www.ravelry.com/patterns/library/wabbit-the-rabbit/report",
+    "https://www.ravelry.com/patterns/library/eeyore-20"
+  ]
 }

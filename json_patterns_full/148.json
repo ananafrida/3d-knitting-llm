@@ -1,42 +1,42 @@
 {
   "pattern_id": 148,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mario-question-box-nintendo",
-  "name": "Mario Question Box (Nintendo)",
-  "description": "This Nintendo Mario Question Box is based on a combination of original Super Mario Bros. and Wii Mario Bros. question boxes.",
-  "designer": "Melanie Schaab",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-window-cat",
+  "name": "Tiny Window Cat",
+  "description": "This pattern is a tiny version of my regular Window Cat pattern.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "one size",
+  "category": "Softies → Animal",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "chart",
-    "cube-shaped",
-    "seamed",
-    "stranded",
-    "written-pattern"
+    "bottom-up",
+    "in-the-round",
+    "seamless"
   ],
-  "full_text": "This Nintendo Mario Question Box is based on a combination of original Super Mario Bros. and Wii Mario Bros. question boxes. Finished size is approximately 4 inches per side. Other materials needed: mesh plastic canvas, tapestry needle, scissors",
-  "techniques": [],
-  "shape": "cube",
+  "full_text": "This pattern is a tiny version of my regular Window Cat pattern. It’s 3 inches tall, worked in the round, and all in one piece except for the tail. The only seaming is to attach the tail to the side of the body. I’ve tried it with various yarn sizes from fingering to DK weight, and used size US 1 dpns with all of them. They all came out great.",
+  "techniques": [
+    "worked in the round"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/maxi-pants-for-babies-dk",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/people",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/yarns",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/editors",
-    "http://schaabling.wordpress.com/2014/06/20/schaabling-free-mario-question-box-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/cross-of-unity",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/report",
-    "https://www.ravelry.com/patterns/library/key-to-heaven",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/comments",
-    "https://www.ravelry.com/patterns/sources/schaabling-shire-shoppe"
+    "https://www.ravelry.com/patterns/library/tiny-window-cat/comments",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat/yarns",
+    "https://www.ravelry.com/patterns/sources/victorian-housecats-to-knit",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat/threads",
+    "https://www.ravelry.com/patterns/library/henrys-bunny",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat/editors",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat/people",
+    "https://www.ravelry.com/patterns/library/tiny-parlor-cat",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat/report",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat/posts",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat"
   ]
 }

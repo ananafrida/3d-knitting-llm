@@ -1,42 +1,35 @@
 {
   "pattern_id": 1374,
-  "pattern_page": "https://www.ravelry.com/patterns/library/labubu-11",
+  "pattern_page": "https://www.ravelry.com/patterns/library/heart---charity-version",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "One sized",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    ""
   ],
   "attributes": [
     "3-dimensional",
-    "amigurumi",
-    "bottom-up",
-    "seamed",
-    "stripes-colorwork",
-    "video-tutorial",
-    "worked-flat",
+    "in-the-round",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "Very little yarn needed. You will need a flesh colour, and a thin velvet yarn for the body.",
+  "full_text": "This is an alternate version of my No-Sew Heart. When developing the original pattern, I wanted a pattern for a stuffable knitted heart that didn’t include “Now knit another and sew them together.” This heart is cast on and knit in the round, from the bottom tip up to the centre V, then split. Each “heart bump” is worked independently and gathered after stuffing. The only sewing is a stitch (or two) in the middle of the V to close the small gap. This version has a little trick after the first heart bump that will leave only the beginning and ending tails to weave in. It has fewer stitches and a better shape than the original https://www.ravelry.com/patterns/library/no-sew-heart and is faster to knit. This is the version I use for knitting charity heart pairs. There is a DK weight pattern and a Chunky yarn version, which has even fewer stitches, but honestly, you can use any yarn and a smaller needle for that yarn than you would usually use and it will work. The size will vary but that might be useful. You should easily be able to incorporate the Textured or Subtle Texture instructions (see my page for details) if that style is preferred. You can download this from my blog for free and if you like it, feel free to leave me a tip or buy me a Ko-Fi. I would sure appreciate it! https://scrappystickyinkymess.wordpress.com/about/",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://theknitguru.com/2025/07/14/labubu-free-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/labubu-11/report",
-    "https://www.ravelry.com/patterns/library/labubu-11/comments",
-    "https://www.ravelry.com/patterns/library/cabled-beanie-21",
-    "https://www.ravelry.com/patterns/library/labubu-11/yarns",
-    "https://www.ravelry.com/patterns/library/labubu-11/people",
-    "https://www.ravelry.com/patterns/library/basic-hot-water-bottle-cover-2",
-    "https://www.ravelry.com/patterns/sources/the-knit-guru-2",
-    "https://www.ravelry.com/patterns/library/labubu-11/editors",
-    "https://www.ravelry.com/patterns/library/labubu-cable-cardi",
-    "https://www.ravelry.com/patterns/library/labubu-11"
+    "https://www.ravelry.com/patterns/library/no-sew-heart",
+    "https://www.ravelry.com/patterns/library/slip-of-the-stitch-socks",
+    "https://www.ravelry.com/patterns/library/heart---charity-version/people",
+    "https://www.ravelry.com/patterns/library/heart---charity-version/report",
+    "https://www.ravelry.com/patterns/library/heart---charity-version/yarns",
+    "https://www.ravelry.com/patterns/library/heart---charity-version",
+    "https://www.ravelry.com/patterns/library/heart---charity-version/comments",
+    "https://www.ravelry.com/patterns/library/heart-108",
+    "https://www.ravelry.com/patterns/sources/scrappystickyinkymess",
+    "https://www.ravelry.com/patterns/library/heart---charity-version/editors",
+    "https://www.ravelry.com/patterns/library/little-orange-monster-man"
   ],
-  "name": "Ravelry: Labubu pattern by The Knit Guru"
+  "name": "Ravelry: Heart - Charity Version pattern by Mary Anne Walters"
 }

@@ -1,41 +1,46 @@
 {
   "pattern_id": 1788,
-  "pattern_page": "https://www.ravelry.com/patterns/library/beware",
-  "name": "Beware!",
-  "description": "I was inspired by the cute microbe plushies at GIANTmicrobes.com to create my own little guy.",
-  "designer": "LizzieKnits",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bolton-pass-hat",
+  "name": "Bolton Pass Hat",
+  "description": "Espace Tricot is a yarn store in",
+  "designer": "Espace Tricot",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "One",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Adult Small, Medium, Large",
   "languages": [
-    "English"
+    "English",
+    "French"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Espace Tricot Sunday Morning DK"
   ],
   "attributes": [
-    "3-dimensional",
-    "icord",
+    "adult",
+    "bottom-up",
     "in-the-round",
+    "one-piece",
     "seamless",
+    "teen",
+    "twisted-stitches",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "I was inspired by the cute microbe plushies at GIANTmicrobes.com to create my own little guy. Say hello to Sam O’Nella! He was easy to knit and he’s super fun to play with. My kids love him!",
+  "full_text": "Espace Tricot is a yarn store in Montreal, Canada. Discover our yarns here! www.espacetricot.com The Bolton Pass Hat with its twisted rib and triangle motif is a nod to the majestic pass that cuts through the valley of the Sutton Mountains in the Eastern Townships region of Quebec. Meant to be worn with the mountain peak towards the side, this slouchy beanie knit with Sunday Morning, a luscious BFL-Masham blend, will keep you warm and toasty on a chilly day! YARN: Espace Tricot SUNDAY MORNING DK (75% Bluefaced Leicester, 25% Masham); 268 yds (245 m) / 100g 1 skein - shown in ‘Offline’ Or approximately 125 (150, 180) m / 137 (164, 197) y of a DK weight yarn.",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/breastfeeding-advocacy-dishcloth",
-    "https://www.ravelry.com/patterns/library/beware/yarns",
-    "https://www.ravelry.com/patterns/library/beware/editors",
-    "https://www.ravelry.com/patterns/library/beware/report",
-    "https://www.ravelry.com/patterns/library/beware/people",
-    "https://www.ravelry.com/patterns/library/elephant-kitty-stuffie",
-    "https://www.ravelry.com/patterns/library/beware",
-    "https://www.ravelry.com/patterns/library/breastfeeding-advocacy-dishcloth-tandem-nursing-version",
-    "https://www.ravelry.com/patterns/library/beware/comments",
-    "https://www.ravelry.com/patterns/sources/suzy-q-homemaker",
-    "https://www.ravelry.com/patterns/library/beware/threads"
+    "https://www.ravelry.com/patterns/library/bolton-pass-hat/people",
+    "https://www.ravelry.com/patterns/library/bolton-pass-hat/editors",
+    "https://www.ravelry.com/patterns/sources/espace-tricot-ravelry-store",
+    "https://www.ravelry.com/patterns/library/on-the-c-train",
+    "https://www.ravelry.com/patterns/library/bolton-pass-hat/yarns",
+    "https://www.ravelry.com/patterns/library/bolton-pass-hat/report",
+    "https://www.ravelry.com/patterns/library/flying-solo",
+    "https://www.ravelry.com/patterns/library/bright-side-3",
+    "https://www.ravelry.com/patterns/library/bolton-pass-hat/comments",
+    "https://www.ravelry.com/patterns/library/bolton-pass-hat",
+    "https://www.ravelry.com/patterns/library/bolton-pass-hat/threads"
   ]
 }

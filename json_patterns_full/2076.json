@@ -1,38 +1,36 @@
 {
   "pattern_id": 2076,
-  "pattern_page": "https://www.ravelry.com/patterns/library/toes-by-terry",
-  "name": "Toes by Terry",
-  "description": "Looking for a toe that hugs your foot like a glove on your hand? Look no further! Initially, I designed this toe to fit my foot. After getting quite a bit of interest on the design, I decided to create a pattern that should work for every foot size out there.",
-  "designer": "Terry Schmidt",
+  "pattern_page": "https://www.ravelry.com/patterns/library/global-ball",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "sizes_available": "Varies",
-  "languages": [
-    "English"
-  ],
+  "category": "Ball",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "one size!",
   "suggested_yarn": [
-    ""
+    "Fingering (14 wpi) ?",
+    "Mountain Colors Bearfoot"
   ],
   "attributes": [
-    "toe-up"
+    "3-dimensional",
+    "bottom-up",
+    "in-the-round",
+    "one-piece",
+    "seamless",
+    "written-pattern"
   ],
-  "full_text": "Looking for a toe that hugs your foot like a glove on your hand? Look no further! Initially, I designed this toe to fit my foot. After getting quite a bit of interest on the design, I decided to create a pattern that should work for every foot size out there. In all transparency, this pattern is actually more of a formula. There is a little bit of math involved but nothing too scary. If you can add, subtract, multiply and divide, you will be just fine :) This pattern can be used for any sock size or pattern you can think of. A word of warning though: because this pattern is designed to create a specific right and left foot toe, you may have to alter the sock pattern you are incorporating this toe into. Have comments? I would love to hear from you! Are you on Instagram? If you use the pattern, tag your awesome project with #toesbyterry and show us!! Techniques used in this pattern: Judy’s Magic Cast-On Knit Front-Back Increases",
-  "techniques": [
-    "increases"
-  ],
-  "shape": "cylinder",
+  "full_text": "Earth day project, and stash busting at its best-you could make each continent its own color, etc. etc.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/toes-by-terry/yarns",
-    "https://www.ravelry.com/patterns/library/the-space-between",
-    "https://www.ravelry.com/patterns/library/nightwing",
-    "https://www.ravelry.com/patterns/library/toes-by-terry",
-    "https://www.ravelry.com/patterns/library/toes-by-terry/threads",
-    "https://www.ravelry.com/patterns/library/toes-by-terry/report",
-    "https://www.ravelry.com/patterns/library/toes-by-terry/posts",
-    "https://www.ravelry.com/patterns/library/toes-by-terry/people",
-    "https://www.ravelry.com/patterns/sources/terry-schmidts-ravelry-store",
-    "https://www.ravelry.com/patterns/library/toes-by-terry/comments",
-    "https://www.ravelry.com/patterns/library/lanterns-light",
-    "https://www.ravelry.com/patterns/library/toes-by-terry/editors"
-  ]
+    "https://www.ravelry.com/patterns/library/global-ball/editors",
+    "https://www.ravelry.com/patterns/library/global-ball",
+    "https://www.ravelry.com/patterns/sources/procrastaknitter",
+    "https://www.ravelry.com/patterns/library/meshy-tote",
+    "https://www.ravelry.com/patterns/library/simple-soap-sock",
+    "https://www.ravelry.com/patterns/library/global-ball/people",
+    "https://www.ravelry.com/patterns/library/global-ball/report",
+    "https://www.ravelry.com/patterns/library/slant-pocket-bag",
+    "https://www.ravelry.com/patterns/library/global-ball/yarns",
+    "https://www.ravelry.com/patterns/library/global-ball/comments"
+  ],
+  "name": "Ravelry: Global Ball pattern by Melissa Thetford"
 }

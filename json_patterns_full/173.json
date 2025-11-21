@@ -1,35 +1,46 @@
 {
   "pattern_id": 173,
-  "pattern_page": "https://www.ravelry.com/patterns/library/interlace-bag",
-  "name": "Interlace Bag",
-  "description": "The Interlace Bag is a small bag with a cabled interlace design. It has a flap that fastens with a button and an optional strap. The finished bag shown measures 8.5”x7”.",
-  "designer": "H Huggy",
+  "pattern_page": "https://www.ravelry.com/patterns/library/small-sausage-dog",
+  "name": "Small Sausage Dog",
+  "description": "This striped sausage dog is a quick little knit to use up odds and ends of yarn. You could make one as a bag charm, key charm, or just as a sweet little toy. Designed by Amanda Berry @fluffandfuzz, this dog is knitted in acrylic DK yarns on single pointed needles (not in the round).",
+  "designer": "Amanda Berry",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Hayfield Bonus DK"
   ],
   "attributes": [
-    "cables",
-    "chart",
+    "3-dimensional",
+    "seamed",
+    "stripes-colorwork",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The Interlace Bag is a small bag with a cabled interlace design. It has a flap that fastens with a button and an optional strap. The finished bag shown measures 8.5”x7”. Materials: US size 4 needles cable needle 1 skein 3 weight yarn yarn needle 1 button Gauge: 20 sts x 24 rows in a 4”x4” square of stockinette The gauge isn’t really important for this project. For a larger bag, use larger needles and thicker yarn. In addition to the pattern for the bag, a pattern for just the interlace motif is also available.",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "This striped sausage dog is a quick little knit to use up odds and ends of yarn. You could make one as a bag charm, key charm, or just as a sweet little toy. Designed by Amanda Berry @fluffandfuzz, this dog is knitted in acrylic DK yarns on single pointed needles (not in the round). NEEDLES A pair of 2.75mm single pointed knitting needles (US 2). RECOMMENDED YARN Sirdar Hayfield Bonus DK; double knitting/light worsted weight; 100% acrylic; a few grammes in each colour. NOTIONS Tapestry needle, toy filling, and beads for eyes. SIZES One size only - 10cm lomg. TECHNIQUES For confident beginners and above, other techniques used include casting on and off, knits, purls, increases and decreases, and seaming to finish. PATTERN INFO This knitting pattern is a pdf download, 3 pages, and written in English. Patterns for personal use only; not for resale. Copyright © 2020 Amanda Berry; All rights reserved.",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/interlace-bag/yarns",
-    "https://www.ravelry.com/patterns/sources/h-huggys-ravelry-store",
-    "https://www.ravelry.com/patterns/library/interlace-bag",
-    "https://www.ravelry.com/patterns/library/interlace-bag/comments",
-    "https://www.ravelry.com/patterns/library/interlace-bag/threads",
-    "https://www.ravelry.com/patterns/library/interlace-bag/people",
-    "https://www.ravelry.com/patterns/library/interlace-bag/editors",
-    "https://www.ravelry.com/patterns/library/interlace-bag/report"
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/people",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/yarns",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/posts",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/editors",
+    "https://www.ravelry.com/patterns/library/autumn-acorns-and-oak-leaves",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/comments",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/report",
+    "https://www.ravelry.com/patterns/library/little-apple",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/threads",
+    "https://www.ravelry.com/patterns/library/rainbow-35"
   ]
 }

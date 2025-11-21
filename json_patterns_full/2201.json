@@ -1,36 +1,38 @@
 {
   "pattern_id": 2201,
-  "pattern_page": "https://www.ravelry.com/patterns/library/crown-of-faith",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fuzzy-little-shapka",
+  "name": "Fuzzy Little Shapka",
+  "description": "Shapka: big furry hat in Ukrainian. These are of the smaller and fuzzier variety. A cute little toque (hat) quickly knit up for tiny preemie sizes through adult. Very cute on babies and little kids, and amusing on adults too. Every baby I know has a hat like this.",
+  "designer": "Jennifer Shapka",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
-  "languages": [
-    "English"
-  ],
+  "category": "Hat → Pixie",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "tiny-adult",
   "suggested_yarn": [
-    "Worsted (9 wpi) ?"
+    "Lion Brand Jiffy Solid",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "seamed",
-    "sideways",
-    "unisex",
-    "worked-flat"
+    "adult",
+    "baby",
+    "bottom-up",
+    "child",
+    "in-the-round",
+    "one-piece",
+    "textured",
+    "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "Shapka: big furry hat in Ukrainian. These are of the smaller and fuzzier variety. A cute little toque (hat) quickly knit up for tiny preemie sizes through adult. Very cute on babies and little kids, and amusing on adults too. Every baby I know has a hat like this. The ridged purl round in this pattern (done in a contrasting colour in the picture) shows up best when done with smooth yarn, and is lost if using textured bobbly yarn. If you like an extra pointy point on top, do an extra round or two even when you’re down to 9 or 6 sts. Yardage is very approximate.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/crown-of-faith/report",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/sources/feebeeglee",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/edit",
-    "https://www.ravelry.com/patterns/library/crown-of-faith",
-    "https://web.archive.org/web/20110216081655/http://phoebe.gleeson.us/2005/07/12/knitting_updates_crown_pattern",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/yarns",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/editors",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/people",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/comments",
-    "https://www.ravelry.com/patterns/library/crown-of-faith/threads"
-  ],
-  "name": "Ravelry: Crown of Faith pattern by feebeeglee"
+    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/editors",
+    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/report",
+    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/people",
+    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/comments",
+    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka",
+    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/yarns",
+    "https://www.ravelry.com/patterns/sources/dragonfireknits",
+    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/threads"
+  ]
 }

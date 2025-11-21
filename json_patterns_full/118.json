@@ -1,42 +1,41 @@
 {
   "pattern_id": 118,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mario-question-box-nintendo",
-  "name": "Mario Question Box (Nintendo)",
-  "description": "This Nintendo Mario Question Box is based on a combination of original Super Mario Bros. and Wii Mario Bros. question boxes.",
-  "designer": "Melanie Schaab",
+  "pattern_page": "https://www.ravelry.com/patterns/library/baby-duck-806",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "one size",
+  "category": "Softies → Animal",
+  "needle_size": "1.5 mm, US 000",
+  "sizes_available": "13cm/5 inches tall.",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Alpaca"
   ],
   "attributes": [
     "3-dimensional",
-    "chart",
-    "cube-shaped",
-    "seamed",
-    "stranded",
+    "machine-instructions",
+    "phototutorial",
+    "stripes-colorwork",
+    "video-tutorial",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This Nintendo Mario Question Box is based on a combination of original Super Mario Bros. and Wii Mario Bros. question boxes. Finished size is approximately 4 inches per side. Other materials needed: mesh plastic canvas, tapestry needle, scissors",
+  "full_text": "ABOUT PATTERN □ Stitch by stitch knitting pattern □ Knitted flat (2 needles) □ Video Tutorials (stitches, assembling process) The video serves as a visual supplement for your project, providing additional support. □ Process Photos □ How To Assemble Instructions □ All yarn parameters are given so you can choose the yarn from your stash as well □ Tools recommendations",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/maxi-pants-for-babies-dk",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/people",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/yarns",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/editors",
-    "http://schaabling.wordpress.com/2014/06/20/schaabling-free-mario-question-box-knitting-pattern/",
-    "https://www.ravelry.com/patterns/library/cross-of-unity",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/report",
-    "https://www.ravelry.com/patterns/library/key-to-heaven",
-    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/comments",
-    "https://www.ravelry.com/patterns/sources/schaabling-shire-shoppe"
-  ]
+    "https://www.ravelry.com/patterns/library/grinch-15",
+    "https://www.ravelry.com/patterns/sources/polushkabunny-website",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/yarns",
+    "https://www.ravelry.com/patterns/library/baby-duck-806",
+    "https://www.ravelry.com/patterns/library/squirrel-40",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/comments",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/people",
+    "https://www.ravelry.com/patterns/sources/polushkabunny",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/editors",
+    "https://www.ravelry.com/patterns/library/duck-49",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/report"
+  ],
+  "name": "Ravelry: Baby Duck pattern by Maria Ermolova"
 }

@@ -1,37 +1,48 @@
 {
   "pattern_id": 1734,
-  "pattern_page": "https://www.ravelry.com/patterns/library/klein-bottle",
+  "pattern_page": "https://www.ravelry.com/patterns/library/super-bulky-hats",
   "craft": "Knitting",
-  "category": "Decorative → Other Toys and Hobbies → Other",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "sizes_available": "Newborn - Adult Large",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Super Bulky (5-6 wpi) ?",
+    "Sewrella Yarn Classic Super"
   ],
   "attributes": [
+    "adult",
+    "baby",
+    "bottom-up",
+    "child",
+    "female",
     "in-the-round",
-    "kitchener",
-    "moebius",
-    "reversible",
-    "textured",
+    "male",
+    "newborn-size",
+    "ribbed",
+    "seamless",
+    "teen",
+    "toddler",
     "written-pattern"
   ],
-  "full_text": "This is really a recipe rather than a pattern---you get to decide on your yarn, needles, and gauge. The number of stitches you cast on determines the length of the central Mobius band of the finished object, and the number of rows you knit determines the circumference of the orientable homotopy generator (sorry, I can’t think of a clear plain-speak way of saying that---muddily, it’s “the other circumference”).",
+  "full_text": "Simple, classic super bulky knit hats are the perfect cool weather accessory. Made in 10 sizes, these are perfect for the whole family!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/klein-bottle/comments",
-    "https://www.ravelry.com/patterns/library/klein-bottle",
-    "https://www.ravelry.com/patterns/library/possibly-stashbusting-handspun-stripehead",
-    "https://www.ravelry.com/patterns/library/klein-bottle/report",
-    "https://www.ravelry.com/patterns/library/klein-bottle/threads",
-    "https://www.ravelry.com/patterns/library/torus-knots-and-links",
-    "https://www.ravelry.com/patterns/library/y-x-i-skinny-scarves",
-    "https://www.ravelry.com/patterns/library/klein-bottle/people",
-    "https://www.ravelry.com/patterns/sources/sarah-maries-mathematical-knitting-pages",
-    "https://www.ravelry.com/patterns/library/klein-bottle/yarns",
-    "https://www.ravelry.com/patterns/library/klein-bottle/editors"
+    "https://www.ravelry.com/patterns/library/super-bulky-hats/people",
+    "https://www.ravelry.com/patterns/library/super-bulky-hats/comments",
+    "https://www.ravelry.com/patterns/library/super-bulky-hats/threads",
+    "https://www.ravelry.com/patterns/library/super-bulky-hats/yarns",
+    "https://www.ravelry.com/patterns/library/super-bulky-hats",
+    "https://www.ravelry.com/patterns/library/the-parker-baby-booties",
+    "https://www.ravelry.com/patterns/library/super-bulky-hats/report",
+    "https://www.ravelry.com/patterns/library/super-bulky-hats/editors",
+    "https://www.ravelry.com/patterns/library/double-thick-potholders-2",
+    "https://www.ravelry.com/patterns/sources/sewrella-yarn-website",
+    "https://www.sewrella.com/super-bulky-knit-hats-free-pattern/",
+    "https://www.ravelry.com/patterns/library/the-parker-newborn-hat"
   ],
-  "name": "Ravelry: Klein bottle pattern by sarah-marie belcastro"
+  "name": "Ravelry: Super Bulky Hats pattern by Ashleigh Kiser"
 }

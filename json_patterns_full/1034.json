@@ -1,53 +1,43 @@
 {
   "pattern_id": 1034,
-  "pattern_page": "https://www.ravelry.com/patterns/library/slatter---tee",
-  "name": "Slåtter - tee",
-  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
-  "designer": "Stine HoelgaardJohansen",
+  "pattern_page": "https://www.ravelry.com/patterns/library/roomy-raglan",
+  "name": "Roomy Raglan",
+  "description": "Please note that this pattern is available for free because it has not been test knitted by anyone other than me. If you notice any inconsistencies, please send me a message!",
+  "designer": "Jules Efterfield",
   "craft": "Knitting",
-  "category": "Tops → Tee",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "category": "Sweater → Pullover",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "sizes_available": "One Size/Dimensions listed in notes",
   "languages": [
-    "Danish",
-    "Dutch",
-    "English",
-    "Finnish",
-    "Norwegian",
-    "Swedish",
-    "...and 6 other languages show hide other languages",
-    "...and 6 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Järbo Nova Eko"
+    "Cascade Yarns ® Ecological Wool®",
+    "yarn held together"
   ],
   "attributes": [
     "adult",
-    "male",
-    "saddle-shoulder",
-    "teen",
-    "top-down",
-    "unisex"
+    "bracelet-sleeve",
+    "funnel-neck",
+    "in-the-round",
+    "oversized",
+    "positive-ease",
+    "top-down"
   ],
-  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Järbo on Instagram Reseller map jarbo.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be Järbo is a Swedish brand established in 1896. We offer nordic design, selected yarns and accessories in stores and online.",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "Please note that this pattern is available for free because it has not been test knitted by anyone other than me. If you notice any inconsistencies, please send me a message! This sweater was designed to mimic the proportions of the Babaà 51 Jumper. Like a Babaà sweater, it’s written in one size, but because of the type of construction it’s easily modified to be smaller/larger if you choose. The Light grey sample is knit in Cascade Ecological wool in Natural/Taupe twist (2 skeins, 956 yards), held with Blue sky fibers woolstock light in Gravel Road (4 skeins, 872 yards) The Brown sample is knit in Garthenor organics No. 4 in Harrier (6 skeins, 1,116 yards there will be some left over from the last skein), held with Blue sky fibers woolstock light in Gravel road (4 skeins, 872 yards) Dimensions- From top of collar to hem- 24” Width of body- 27” Top of collar to sleeve hem- 28” Underarm to sleeve hem- 13” For reference, my own measurements are Bust: 38” Waist: 33” Hips: 39” Height: 5’ 6” This is a raglan style marled sweater that is worked top down. First the collar is knit then German short rows are worked to shape the neckline. Then you’ll continue the raglan shaping in the yoke. There are additional rows knit in the back before splitting for sleeves to help raise the back and to create a more oversized roomy fit. The sleeves are designed to be bracelet length to mimic the Babaà 51 jumper sleeves. The edges of the collar, sleeve hem and body hem feature a contrast hem against the marled knitting throughout the sweater. If you choose to knit this in a solid color, you can skip the instructions to create that detail. Difficulty- This is generally a beginner friendly pattern. This pattern makes use of techniques like German short rows, raglan increases, decreases for the sleeves, magic loop and an Italian bind off.",
+  "techniques": [
+    "decreases",
+    "increases",
+    "short rows"
+  ],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/slatter---tee",
-    "https://www.ravelry.com/patterns/library/slatter---tee/yarns",
-    "https://www.ravelry.com/patterns/library/mariniere---pullover",
-    "https://www.ravelry.com/patterns/library/slatter---tee/editors",
-    "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-14-fabod-1",
-    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
-    "https://www.ravelry.com/patterns/library/loge---sweater",
-    "https://www.ravelry.com/patterns/library/slatter---tee/comments",
-    "https://www.ravelry.com/patterns/sources/jarbo-pattern-e-book-14-fabod-1/patterns",
-    "https://www.ravelry.com/patterns/library/slatter---tee/report",
-    "https://www.ravelry.com/patterns/library/gala---cardigan",
-    "https://www.ravelry.com/patterns/library/slatter---tee/people",
-    "https://www.ravelry.com/patterns/library/slatter---tee/threads",
-    "https://www.ravelry.com/patterns/sources/jarbo-booklet-14-fabod-1"
+    "https://www.ravelry.com/patterns/library/roomy-raglan/report",
+    "https://www.ravelry.com/patterns/library/roomy-raglan",
+    "https://www.ravelry.com/patterns/library/roomy-raglan/editors",
+    "https://www.ravelry.com/patterns/library/roomy-raglan/yarns",
+    "https://www.ravelry.com/patterns/library/roomy-raglan/people",
+    "https://www.ravelry.com/patterns/library/roomy-raglan/comments",
+    "https://www.ravelry.com/patterns/sources/jules-efterfields-ravelry-store"
   ]
 }

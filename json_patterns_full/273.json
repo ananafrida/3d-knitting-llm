@@ -1,38 +1,45 @@
 {
   "pattern_id": 273,
-  "pattern_page": "https://www.ravelry.com/patterns/library/honeycomb-10",
+  "pattern_page": "https://www.ravelry.com/patterns/library/born-slippy",
   "craft": "Knitting",
-  "category": "Pet → Toys",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "190cm x 37cm (75 inches x 15 inches)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Any gauge - designed for any gauge ?"
+    "DK (11 wpi) ?",
+    "Hedgehog Fibres Merino DK"
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
-    "hexagon",
-    "in-the-round",
-    "kitchener",
+    "adult",
+    "mosaic",
     "one-piece",
-    "seamless",
-    "video-tutorial",
+    "sideways",
+    "slipped-stitches",
+    "stripes-colorwork",
+    "triangle-shaped",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This is an inspired pattern, but I’ve been asked not to mention what inspired me. This is merely a pattern for a hexagon. You can see I used mine for a kitty toy. You can use any size yarn and whatever needles you’re comfortable with.",
+  "full_text": "Beginner friendly slip stitch scarf that lets your yarn shine. Combine Hedgehog Fibres Tweedy colourway of choice with a variegated or speckled Merino DK colourway that you love and watch the multi-coloured blips emerge. Size: 190cm x 37cm (75 inches x 15 inches) Yarn: Colour A: 2 skeins of Hedgehog Fibres Tweedy (230m/100g). Colourway pictured: Connemara. Colour B: 1 skein of Hedgehog Fibres Merino DK (200m/100g). Colourway pictured: Oyster",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/honeycomb-10/report",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/comments",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/people",
-    "https://www.ravelry.com/patterns/library/honeycomb-10",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/yarns",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/threads",
-    "https://www.ravelry.com/patterns/sources/purl-oined",
-    "https://www.ravelry.com/patterns/library/honeycomb-10/editors"
+    "https://www.ravelry.com/patterns/library/born-slippy",
+    "https://www.ravelry.com/patterns/library/born-slippy/report",
+    "https://www.ravelry.com/patterns/library/born-slippy/comments",
+    "https://www.ravelry.com/patterns/library/born-slippy/editors",
+    "https://www.ravelry.com/patterns/library/born-slippy/threads",
+    "https://www.ravelry.com/patterns/library/electric-sheep",
+    "https://www.ravelry.com/patterns/library/plush-cardigan-2",
+    "https://www.ravelry.com/patterns/library/april-scarf-4",
+    "https://www.ravelry.com/patterns/library/born-slippy/yarns",
+    "https://www.ravelry.com/patterns/library/born-slippy/people",
+    "https://www.ravelry.com/patterns/library/born-slippy/posts",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/born-slippy"
   ],
-  "name": "Ravelry: honeycomb pattern by purl necklace"
+  "name": "Ravelry: Born Slippy pattern by Beata Jezek"
 }

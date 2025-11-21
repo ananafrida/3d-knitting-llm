@@ -1,42 +1,42 @@
 {
   "pattern_id": 446,
-  "pattern_page": "https://www.ravelry.com/patterns/library/up-in-flames-cowl",
+  "pattern_page": "https://www.ravelry.com/patterns/library/rustic-little-heart",
+  "name": "Rustic Little Heart",
+  "description": "Happy Valentine’s day, or any day!",
+  "designer": "Heidi Kirrmaier",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "one size",
+  "category": "Decorative → Hanging Ornament",
+  "sizes_available": "Approx. 10 cm (4 inches)",
   "languages": [
-    "English"
+    "English",
+    "French"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Cascade Yarns ® 220 Superwash® Aran"
+    "Briggs & Little Heritage 2 Ply",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "cables",
-    "chart",
-    "in-the-round",
-    "stripes-colorwork",
+    "bottom-up",
+    "one-piece",
+    "seamless",
+    "selvedge",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "DIRECT PATTERN LINK",
+  "full_text": "Happy Valentine’s day, or any day! This little ornament uses about 15 m or yards of worsted weight yarn. Any other yarn weight may be used, but may affect resulting size. It is knit from the bottom point up. Once the center diamond is complete, a semi circle is worked on each side of the top to complete the shape. Merci Laurence for the French translation. Enjoy!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/crochet-knit-shrug",
-    "https://www.ravelry.com/patterns/library/up-in-flames-cowl/comments",
-    "https://www.ravelry.com/patterns/library/up-in-flames-cowl/people",
-    "https://www.ravelry.com/patterns/library/pick-your-pattern-cardigan",
-    "https://www.ravelry.com/patterns/library/ways-of-water-wrap",
-    "https://www.cascadeyarns.com/wp-content/uploads/2025/09/A435_220SWAranWave_UpInFlamesCowl.pdf",
-    "https://www.ravelry.com/patterns/library/up-in-flames-cowl/editors",
-    "https://www.ravelry.com/patterns/periodicals/cascade-yarns",
-    "https://www.ravelry.com/patterns/library/up-in-flames-cowl",
-    "https://www.cascadeyarns.com/pattern/up-in-flames-cowl",
-    "https://www.ravelry.com/patterns/sources/cascade-yarns-website",
-    "https://www.ravelry.com/patterns/library/up-in-flames-cowl/report",
-    "https://www.ravelry.com/patterns/library/up-in-flames-cowl/yarns"
-  ],
-  "name": "Ravelry: Up in Flames Cowl pattern by Jennifer Kent"
+    "https://www.ravelry.com/patterns/library/rustic-little-heart",
+    "https://www.ravelry.com/patterns/library/merry-little-heart",
+    "https://www.ravelry.com/patterns/library/rustic-little-heart/threads",
+    "https://www.ravelry.com/patterns/library/rustic-little-heart/report",
+    "https://www.ravelry.com/patterns/library/rustic-little-heart/yarns",
+    "https://www.ravelry.com/patterns/library/rustic-little-heart/people",
+    "https://www.ravelry.com/patterns/library/rustic-little-heart/editors",
+    "https://www.ravelry.com/patterns/library/practical-little-heart",
+    "https://www.ravelry.com/patterns/sources/heidi-kirrmaiers-ravelry-shop",
+    "https://www.ravelry.com/patterns/library/bookworm-7",
+    "https://www.ravelry.com/patterns/library/rustic-little-heart/comments"
+  ]
 }

@@ -1,37 +1,44 @@
 {
   "pattern_id": 832,
-  "pattern_page": "https://www.ravelry.com/patterns/library/reversible-squares-scarf",
-  "name": "Reversible Squares Scarf",
-  "description": "This scarf features an interpretation of the popular afghan squares with the block pattern appearing on both sides. A 5-row garter stitch band anchors the ends of the scarf, and a 5-stitch seed stitch border prevents curling and rolling, ensuring a smooth drape.",
-  "designer": "Amanda G. Watlington",
+  "pattern_page": "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19",
+  "name": "Chevron Baby Blanket",
+  "description": "Espace Tricot is a yarn store in",
+  "designer": "Espace Tricot",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Blanket → Baby Blanket",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "27.5\" x 36\" - easily modified with additional repeats",
   "languages": [
-    "English"
+    "English",
+    "French",
+    "Additional languages which are not in the download: Danish"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Blue Sky Fibers Organic Cotton (Worsted)"
   ],
   "attributes": [
-    "adult",
+    "chevron",
     "rectangle",
-    "unisex",
-    "worked-flat",
+    "stripes-colorwork",
     "written-pattern"
   ],
-  "full_text": "This scarf features an interpretation of the popular afghan squares with the block pattern appearing on both sides. A 5-row garter stitch band anchors the ends of the scarf, and a 5-stitch seed stitch border prevents curling and rolling, ensuring a smooth drape.",
+  "full_text": "Espace Tricot is a yarn store in Montreal, Canada. Discover our yarns here! www.espacetricot.com We modified our Chevron Colour-Block Blanket to create this simple and modern baby blanket using Blue Sky Alpacas Worsted Cotton. This cheerful two-row pattern is easy to customize in terms of size with the addition of 24-stitch repeats. Use our suggested girl / boy colour palettes or be creative! This pattern is now available in Danish!",
   "techniques": [],
   "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/reversible-squares-scarf/people",
-    "https://www.ravelry.com/patterns/library/reversible-squares-scarf/comments",
-    "https://www.ravelry.com/patterns/library/snow-on-the-windows",
-    "https://www.ravelry.com/patterns/library/reversible-squares-scarf",
-    "https://www.ravelry.com/patterns/library/reversible-squares-scarf/editors",
-    "https://www.ravelry.com/patterns/library/seashell-cowl-2",
-    "https://www.ravelry.com/patterns/sources/amanda-g-watlingtons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/reversible-squares-scarf/yarns",
-    "https://www.ravelry.com/patterns/library/reversible-squares-scarf/report"
+    "https://www.ravelry.com/patterns/library/warm-up-sweater",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/yarns",
+    "https://www.ravelry.com/patterns/library/calliope-13",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/posts",
+    "https://www.ravelry.com/patterns/sources/espace-tricot-ravelry-store",
+    "https://www.ravelry.com/patterns/sources/strikkeglad",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/report",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/editors",
+    "https://www.ravelry.com/patterns/library/the-classic-2",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/threads",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/comments",
+    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-19/people"
   ]
 }

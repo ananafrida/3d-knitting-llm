@@ -1,35 +1,41 @@
 {
   "pattern_id": 569,
-  "pattern_page": "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mini-suitcase-2",
+  "name": "Mini Suitcase",
+  "description": "This little suitcase can be used to hold all sorts of treasures and collections. It’s constructed with five pieces of plastic canvas, all covered with knitting before being sewn together. The finished case measures about 15 cm wide, 10 cm tall and 7 cm deep.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "One Size",
+  "category": "Containers",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Hayfield Baby Blossom Chunky",
-    "Bulky (7 wpi) ?"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "one-piece",
-    "square",
-    "written-pattern"
+    "3-dimensional",
+    "phototutorial",
+    "seamed",
+    "slipped-stitches",
+    "textured",
+    "worked-flat"
   ],
-  "full_text": "The original blanket used 2 skeins (with 7 oz. yarn remaining). More skeins can be used for a larger blanket although this pattern only references to 450 yards. Stockinette stitch best shows the fun “flowers” created with the Hayfield Baby Blossom Chunky yarn. Let the yarn do the work. When changing skeins, be sure to find the matching color sequence to continue the pattern with continuity. The first stitch of every row will be Sl1 WYIB. The cast on must be an odd number to work for the seed stitch pattern. Any odd number will work if you would like to make your blanket larger or smaller.",
+  "full_text": "This little suitcase can be used to hold all sorts of treasures and collections. It’s constructed with five pieces of plastic canvas, all covered with knitting before being sewn together. The finished case measures about 15 cm wide, 10 cm tall and 7 cm deep. You will need one large sheet of 7 count plastic canvas and about 80g of any DK weight yarn. The only other thing you will need is a small amount of contrasting yarn for the handle and two buttons with shanks to close the case. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/report",
-    "https://www.ravelry.com/patterns/sources/wool--company-2",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/comments",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/editors",
-    "https://www.ravelry.com/patterns/library/ondinas-boot-cuffs",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/threads",
-    "https://www.ravelry.com/patterns/library/easy-baby-car-seat-blanket/people"
-  ],
-  "name": "Ravelry: Easy Baby Car-Seat Blanket pattern by Autumn Burns"
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2",
+    "https://www.ravelry.com/patterns/library/paddle-ball",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2/comments",
+    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2/threads",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2/report",
+    "https://www.ravelry.com/patterns/library/sunflower-garden",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2/editors",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2/people",
+    "https://www.ravelry.com/patterns/library/mini-suitcase-2/yarns"
+  ]
 }

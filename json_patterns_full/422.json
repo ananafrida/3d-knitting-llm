@@ -1,54 +1,39 @@
 {
   "pattern_id": 422,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties",
+  "pattern_page": "https://www.ravelry.com/patterns/library/little-stars-7",
+  "name": "Little Stars",
+  "description": "Little stars for decoration.",
+  "designer": "Eva Kloster",
   "craft": "Knitting",
-  "category": "Coat / Jacket Feet / Legs → Booties",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "One size fits 6-12 months",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "4.5 and 6 cm, 1 3/4 and 2 3/8 inches.",
   "languages": [
-    "English"
+    "English",
+    "Norwegian"
   ],
   "suggested_yarn": [
-    "Lion Brand Lion Cashmere Blend",
-    "Bulky (7 wpi) ?"
+    "Rauma Babygarn",
+    "yarn held together"
   ],
   "attributes": [
-    "baby",
-    "collar",
-    "female",
-    "front-fastening",
-    "long-sleeve",
-    "raglan-sleeve",
-    "ribbed",
-    "rolled",
-    "schematic",
-    "seamed",
-    "tassel",
-    "textured",
-    "top-down",
-    "unisex",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round",
+    "seamless"
   ],
-  "full_text": "Pamper your princess with this sweet, soft little jacket and matching booties. (Lion Brand Yarn) Lion Brand Pattern #: 50678 PUBLISHED IN: Lion Brand Yarn Catalog - 2006 W SKILL LEVEL: Beginner + (Level 2) SIZE: One Size JACKET 6-12 months Finished Chest 17½ inches (44.5 cm) Length 7 inches (18 cm) BOOTIES 6 months Length 3½ inches (9 cm) (A) #270 Lion Cashmere Blend Yarn (336 yards) (B) #260 Tiffany Yarn (137 yards) Both yarns have been discontinued Knitting Needles - Size 9 (5.5 mm) Size 7 (4.5 mm) 24” (60 cm) circular needle Split Ring Stitch Markers Stitch Holders 1 yd (1 m) of 5⁄8 inch (16 mm) pink ribbon (optional) Gauge: Jacket: 20 sts + 36 rows = 4” (10 cm in Seed st with A. Booties: 23 sts = 4” (10 cm) in Garter st (knit every row) with 2 strands of B held together Jacket is worked back and forth using circular needle to accommodate large number of stitches. Sweater is worked from the top down. Bootie is worked with 2 strands of B held together. Cuff is worked with 1 strand of A. Construction schematics are provided. Suitable for girls or boys depending on color chosen.",
+  "full_text": "Little stars for decoration. Good project for scrap yarn. Small stars for decoration. Good project for leftover yarn.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.ravelry.com/patterns/library/boxy-jacket-3",
-    "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties/comments",
-    "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties/report",
-    "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties/people",
-    "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties/edit",
-    "https://www.ravelry.com/patterns/library/bellflower-baby-hoodie",
-    "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties/threads",
-    "https://www.lionbrand.com/products/knitting-pattern-pretty-in-pink-knit-jacket-booties-1?_pos=1&_sid=f4a514338&_ss=r",
-    "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties/editors",
-    "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties/yarns",
-    "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties",
-    "https://www.ravelry.com/patterns/library/kimono-layette",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "https://www.ravelry.com/patterns/library/pretty-in-pink-knit-jacket-and-booties/posts"
-  ],
-  "name": "Ravelry: Pretty in Pink Knit Jacket and Booties pattern by Lion Brand Yarn"
+    "https://www.ravelry.com/patterns/library/little-stars-7/report",
+    "https://www.ravelry.com/patterns/library/little-stars-7/comments",
+    "https://www.ravelry.com/patterns/library/acorns-16",
+    "https://www.ravelry.com/patterns/library/little-stars-7/yarns",
+    "https://www.ravelry.com/patterns/library/little-stars-7/threads",
+    "https://www.ravelry.com/patterns/sources/eva-klosters-ravelry-store",
+    "https://www.ravelry.com/patterns/library/little-stars-7/people",
+    "https://www.ravelry.com/patterns/library/smock-ball",
+    "https://www.ravelry.com/patterns/library/little-stars-7/editors",
+    "https://www.ravelry.com/patterns/library/festdrakt-vest-med-grenmnster",
+    "https://www.ravelry.com/patterns/library/little-stars-7"
+  ]
 }

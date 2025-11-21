@@ -1,32 +1,49 @@
 {
   "pattern_id": 2210,
-  "pattern_page": "https://www.ravelry.com/patterns/library/crusader-cross",
+  "pattern_page": "https://www.ravelry.com/patterns/library/faunus-gnome-hat",
+  "name": "Faunus' Gnome Hat",
+  "description": "The Gnome Hat was created, in honour of the wild forest spirits (my daughter Faunus included) that make their home in the wild woods of the misty and damp West coast on Vancouver Island. Made of 100% wool, this top-down hat is warm, cozy and a great way to use up leftover wool from other projects. The ties make it possible to secure to the heads as to not to get lost during wild adventures.",
+  "designer": "Nat Raedwulf",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One size",
+  "category": "Hat → Pixie",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "sizes_available": "0-6months, 6-12 months, 12-18 months",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Patons North America Grace",
-    "Sport (12 wpi) ?"
+    "Garnstudio DROPS Eskimo",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "child",
+    "baby",
+    "female",
+    "in-the-round",
+    "male",
+    "phototutorial",
+    "ribbed",
+    "seamless",
     "toddler",
+    "top-down",
     "unisex",
     "written-pattern"
   ],
-  "full_text": "Something fun to throw in the dress-up box!",
-  "techniques": [],
-  "shape": "cube",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/crusader-cross/people",
-    "https://www.ravelry.com/patterns/library/crusader-cross/editors",
-    "https://www.ravelry.com/patterns/library/owlie-soap-sack",
-    "https://www.ravelry.com/patterns/library/crusader-cross/yarns",
-    "https://www.ravelry.com/patterns/sources/livelovely",
-    "https://www.ravelry.com/patterns/library/crusader-cross/comments",
-    "https://www.ravelry.com/patterns/library/crusader-cross/report",
-    "https://www.ravelry.com/patterns/library/crusader-cross"
+  "full_text": "The Gnome Hat was created, in honour of the wild forest spirits (my daughter Faunus included) that make their home in the wild woods of the misty and damp West coast on Vancouver Island. Made of 100% wool, this top-down hat is warm, cozy and a great way to use up leftover wool from other projects. The ties make it possible to secure to the heads as to not to get lost during wild adventures. Skill Level: Beginner Sizes: 0-6 months, (6-12 months 12 -18 months) * Please note, sizes are approximate as babies really do range in size and shape. When in doubt, go one size up or check the circumference of the hat on the intended wearer as you knit. Materials: \u0002\u0002\u0002\u0002Approximately 50 (60, 75) meters of super bulky wool OR two strands of worsted weight/bulky (you will need double the amount if you double strand). Any two strands of wool will work as long as they create the right gauge. I have used a strand of bulky and DK weight wool with great success. Set of 6.5 mm dpns. Measuring Tool Tapestry needle, and crochet hook for finishing. Alternatives: This hat also works up very nicely as a striped hat. I alternative colors every 4 rows but one could easily modify the thickness of the stripes and number of colors very easily for a variety of looks. For updates on my latest patterns, pattern give-aways and other fun things, check out my Facebook Page: Wolf & Faun Knits. \u0001 \u0002 \u0016\u0004 \u000f\u0018\u0001\u0006\u0004\u0004\u0010\u0015\u0004\u0011\u0001Update Feb. 14th : Pattern has been updated to correct noted erratas Errata After you complete row 2 of hat, you should have 2 stitches on each needle, NOT 3 as stated in the pattern. Row 6 of ear flap should read: K1, k2tog, k1",
+  "techniques": [
+    "top-down"
   ],
-  "name": "Ravelry: Crusader Cross pattern by Rachel Jankovic"
+  "shape": "unknown",
+  "download_links": [
+    "https://www.ravelry.com/patterns/sources/wolf--faun-knits",
+    "https://www.ravelry.com/patterns/library/llyr-baby-blanket",
+    "https://www.ravelry.com/patterns/library/faunus-gnome-hat/threads",
+    "https://www.ravelry.com/patterns/library/dodge-yoga-socks",
+    "https://www.ravelry.com/patterns/library/faunus-gnome-hat/yarns",
+    "https://www.ravelry.com/patterns/library/faunus-gnome-hat/editors",
+    "https://www.ravelry.com/patterns/library/faunus-gnome-hat/comments",
+    "https://www.ravelry.com/patterns/library/faunus-gnome-hat/report",
+    "https://www.ravelry.com/patterns/library/wildlings-toddler-leg-warmers",
+    "https://www.ravelry.com/patterns/library/faunus-gnome-hat",
+    "https://www.ravelry.com/patterns/library/faunus-gnome-hat/people"
+  ]
 }

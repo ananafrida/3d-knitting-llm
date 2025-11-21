@@ -1,33 +1,49 @@
 {
   "pattern_id": 256,
-  "pattern_page": "https://www.ravelry.com/patterns/library/kitty-tortelloni",
-  "name": "Kitty tortelloni",
-  "description": "These cute little cat toys are a perfect way to use up that scrap yarn you’ve got lying around! They work up really quick (my average time is about half an hour from start to finish) and you can use any kind of yarn you want. It works best with worsted, but you could get away with aran or DK or even holding multiple strands together for a chunkier toy.",
-  "designer": "Jo Severson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8",
   "craft": "Knitting",
-  "category": "Pet → Toys",
+  "category": "Neck / Torso → Scarf",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "One size (Instructions for adjusting length)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Annabel Williams Devon 4ply"
   ],
   "attributes": [
-    "circle-shaped",
+    "adult",
+    "bobble-or-popcorn",
+    "cables",
+    "chart",
+    "icord",
+    "lace",
+    "one-piece",
+    "teen",
+    "triangle-shaped",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "These cute little cat toys are a perfect way to use up that scrap yarn you’ve got lying around! They work up really quick (my average time is about half an hour from start to finish) and you can use any kind of yarn you want. It works best with worsted, but you could get away with aran or DK or even holding multiple strands together for a chunkier toy. Note: try to keep your first four stitches fairly loose, as I’ve found that my method of casting on makes four KFB in a row really hard on the hands and needles.",
-  "techniques": [],
-  "shape": "sphere",
+  "full_text": "Thank you for choosing to knit The Daisy Chain scarf. A playful project for all seasons. Inspired by the charm of daisy chains and the feeling of a warm breeze, this little scarf is designed to add a sweet touch to any outfit. Knitted from tip to tip, it grows to a soft point in the middle before tapering again, with petal like motifs and tiny bobbles forming a summery pattern that runs along its length. An i-cord edge gives it a clean, modern finish, and the length is adjustable depending on how you’d like to wear it. Try it knotted once at the neck, tucked into a jacket, or worn long and loose on cooler evenings. Made in my Devon 4ply yarn which is a soft blend of Exmoor Blueface and Romney, it’s light and breezy, with just enough texture to show off the detail. A perfect project for holiday knitting, slow afternoons, or whenever your hands need something simple and sweet to work on. Sizes: One size (Instructions for adding repeats) Finished measurements: Sample 1: Length 109 cm/ 43” Width 24.5 cm/ 9.75” Sample 2: Length 150 cm/ 59” Width 41 cm/ 16” Needles: Size 3.5 mm (US 4) circular needles, 80 cm/32” long or needle size to obtain gauge Cable needle if not using the ‘no cable needle’ method Notions: Tapestry needle, cable needle Gauge: 14 sts x 28 rows = 5.7 cm x 9 cm/2.25” x 3.5” in motif Yarn: Annabel Williams Devon 4ply (4ply weight, 100% wool, 400 m/437.5 yds per 100g/3.5oz skein) 1 skein The light green sample in colourway Picnic Blanket was knit without the midsection increases and decreases to make a narrow scarf. It used 240 m / 262.5 yds (1 skein). The pale pink sample in colourway Pink Daisy was knit with extra midsection repeats to make a longer shawl. It used 460 m / 503 yds (2 skeins). This pattern is available for free on sign up. Future patterns are shared with subscribers as they are released. If you’d like access to additional patterns from my collection, they are available via a contribution through Ko-fi: https://ko-fi.com/annabelwilliamsyarn",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/kitty-tortelloni/yarns",
-    "https://www.ravelry.com/patterns/library/kitty-tortelloni/editors",
-    "https://www.ravelry.com/patterns/library/kitty-tortelloni/people",
-    "https://www.ravelry.com/patterns/library/kitty-tortelloni/comments",
-    "https://www.ravelry.com/patterns/library/kitty-tortelloni",
-    "https://www.ravelry.com/patterns/library/kitty-tortelloni/report",
-    "https://www.ravelry.com/patterns/sources/jo-seversons-ravelry-store"
-  ]
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/editors",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/people",
+    "https://www.ravelry.com/patterns/library/meadow-scarf-5",
+    "https://www.ravelry.com/patterns/library/severnside-mitts",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/report",
+    "https://www.ravelry.com/patterns/sources/annabel-williams-ravelry-store",
+    "https://www.ravelry.com/patterns/sources/annabel-williams",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/threads",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/yarns",
+    "https://www.ravelry.com/patterns/library/daisy-chain-scarf-8/comments",
+    "https://www.ravelry.com/patterns/library/sally-vest"
+  ],
+  "name": "Ravelry: Daisy Chain Scarf pattern by Annabel Williams"
 }

@@ -1,39 +1,45 @@
 {
   "pattern_id": 156,
-  "pattern_page": "https://www.ravelry.com/patterns/library/build-your-name-blocks",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon",
+  "name": "Tarragon the Gentle Dragon",
+  "description": "Mythology or reality? The reality is that Tarragon is a dragon with a tender heart and an obscure predilection for French cuisine. He will only blow fire for bbq-ing some sausages - to eat with lots of onions and garlic sauce!",
+  "designer": "Knit-a- Zoo",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "one size",
   "languages": [
-    "Dutch",
-    "English"
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "Scheepjes Colour Crafter",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Titan Wool Zaffiro"
   ],
   "attributes": [
-    "chart",
-    "cube-shaped",
-    "seamed",
-    "worked-flat",
+    "3-dimensional",
+    "amigurumi",
+    "in-the-round",
+    "kitchener",
+    "phototutorial",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "List of Materials: Scheepjes Colour Crafter (100% Premium Acrylic; 100g/300m) • Yarn A: 1026 Lelystad x 1 ball • Yarn B: 1114 Eindhoven x 1 ball • Yarn C: 1709 Burum x 1 ball • Yarn D: 1820 Goes x 1 ball • Yarn E: 1722 Alphen x 1 ball • Yarn F: 1062 Dordrecht x 1 ball 3mm knitting needles Stitch markers 5 foam blocks 10x10x10cm Measurements Single Motif measures 10x10cm (4x4in) after blocking. Build Your Name Blocks is part of Pretty Little Things, Issue 02 - TOYS, which is available in print via Scheepjes Retailers and as a digital download (eBook).",
+  "full_text": "Mythology or reality? The reality is that Tarragon is a dragon with a tender heart and an obscure predilection for French cuisine. He will only blow fire for bbq-ing some sausages - to eat with lots of onions and garlic sauce! one day to knit, one second to love! (but beware of his breath!!) Tarragon is stiched on the round using double-pointed needles from bottom to head and is about 24 cm high. One skein main colour (50 gr) is largely sufficient to knit Tarragon. Plus you will need about a quarter of a skein to knit wings and spines. Enjoy! Thank you to Dragonbasket for the German version!",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/edit",
-    "https://www.ravelry.com/patterns/library/dummy-comforter",
-    "https://www.ravelry.com/patterns/sources/pretty-little-things-issue-02---toys---klein-maar-fijn-editie-02---speelgoed/patterns",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks",
-    "https://www.ravelry.com/patterns/sources/pretty-little-things-issue-02---toys---klein-maar-fijn-editie-02---speelgoed",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/editors",
-    "https://www.ravelry.com/patterns/periodicals/pretty-little-things---klein-maar-fijn",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/people",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/comments",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/report",
-    "https://www.ravelry.com/patterns/library/build-your-name-blocks/yarns"
-  ],
-  "name": "Ravelry: Build Your Name Blocks pattern by Michelle Oonincx"
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/report",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/yarns",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/people",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/editors",
+    "https://www.ravelry.com/patterns/library/beths-cables",
+    "https://www.ravelry.com/patterns/library/cordell-the-owl",
+    "https://www.ravelry.com/patterns/library/edward-the-cat",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/comments",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/threads",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon",
+    "https://www.ravelry.com/patterns/sources/knit-a-zoo",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/posts"
+  ]
 }

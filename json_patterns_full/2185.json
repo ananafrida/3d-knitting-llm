@@ -1,42 +1,33 @@
 {
   "pattern_id": 2185,
-  "pattern_page": "https://www.ravelry.com/patterns/library/brain-slug",
-  "name": "Brain Slug",
-  "description": "A Futurama-style brain slug. Worn with a headband in a color that matches your hair, the effect can be startling. Knits up quick for Halloween parties and gifts.",
-  "designer": "TChemGrrl",
+  "pattern_page": "https://www.ravelry.com/patterns/library/pixie-hue",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Hat → Pixie",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "0-3mdr (6mdr-1år) 1-2år (3-4år) 5-6 år",
+  "languages": [
+    "Danish"
+  ],
   "suggested_yarn": [
-    "Red Heart Super Saver (solids)",
-    "Worsted (9 wpi) ?"
+    "Filcolana Arwetta",
+    "yarn held together"
   ],
   "attributes": [
-    "Intarsia",
-    "bobble-or-popcorn",
-    "chart",
-    "icord",
-    "in-the-round",
-    "unisex",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "A Futurama-style brain slug. Worn with a headband in a color that matches your hair, the effect can be startling. Knits up quick for Halloween parties and gifts.",
+  "full_text": "",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/brain-slug/report",
-    "http://www.angelfire.com/grrl/tchemgrrl/pattern/brainslug.html",
-    "https://www.ravelry.com/patterns/library/felted-oven-mitts",
-    "https://www.ravelry.com/patterns/library/brain-slug/comments",
-    "https://www.ravelry.com/patterns/library/brain-slug/editors",
-    "https://www.ravelry.com/patterns/library/brain-slug/posts",
-    "https://www.ravelry.com/patterns/library/brain-slug/people",
-    "https://www.ravelry.com/patterns/sources/nanopants-dance",
-    "https://www.ravelry.com/patterns/sources/tchemgrrl-designs",
-    "https://www.ravelry.com/patterns/library/brain-slug",
-    "https://www.ravelry.com/patterns/library/fair-isle-hat",
-    "https://www.ravelry.com/patterns/library/gir",
-    "https://www.ravelry.com/patterns/library/brain-slug/yarns",
-    "https://www.ravelry.com/patterns/library/brain-slug/threads"
-  ]
+    "https://www.ravelry.com/patterns/library/pixie-hue/report",
+    "https://www.ravelry.com/patterns/library/pixie-hue",
+    "https://www.ravelry.com/patterns/library/pixie-hue/yarns",
+    "https://www.ravelry.com/patterns/library/pixie-hue/edit",
+    "https://www.ravelry.com/patterns/library/pixie-hue/people",
+    "https://www.ravelry.com/patterns/library/pixie-hue/editors",
+    "https://www.ravelry.com/patterns/sources/fantasifabrikken",
+    "https://www.ravelry.com/patterns/library/pixie-hue/comments"
+  ],
+  "name": "Ravelry: Pixie hue pattern by Fantasifabrikken"
 }

@@ -1,42 +1,45 @@
 {
   "pattern_id": 235,
-  "pattern_page": "https://www.ravelry.com/patterns/library/twin-cable-purse",
+  "pattern_page": "https://www.ravelry.com/patterns/library/rombscarf",
+  "name": "Rombscarf",
+  "description": "UPDATE Sep 15th, 2025: Pattern now available in English!",
+  "designer": "Ida Hed Myrberg",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
-  "sizes_available": "one size",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Length 115 cm / Width 12.5 cm",
   "languages": [
-    "English"
+    "English",
+    "Swedish"
   ],
   "suggested_yarn": [
-    "Brown Sheep Burly Spun",
-    "Bulky (7 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Filcolana Pernilla"
   ],
   "attributes": [
-    "cables",
+    "adult",
+    "chart",
+    "doubleknit",
+    "no-ease",
     "one-piece",
-    "seamed",
+    "seamless",
+    "teen",
+    "textured",
+    "triangle-shaped",
+    "unisex",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Additional yarn choice: Blue Sky Bulky Alpaca (2 skeins). Used to be available at this link . Now available though Internet Archive/Wayback Machine",
+  "full_text": "UPDATE Sep 15th, 2025: Pattern now available in English! Overview The scarf is knitted from end to end in a rhombus textured pattern involving only knits and purls, and a double-knitted edging. The pattern includes a chart that covers every row of the scarf. Measurements of finished object After blocking, the finished scarf has length 115 cm and width 12.5 cm at the widest point. Gauge 28 stitches x 40 rows = 10 x 10 cm Needles 3.5 mm circular needle or straight needles Yarn 1 ball of Filcolana Pernilla (50 g = 175 m, 3-ply yarn, Peruvian highland wool) Colour 337 Bright Cobalt Included techniques The textured pattern includes only knits and purls. The techniques double-knitted edging, left-leaning increase, right-leaning increase, and left-leaning decrease are all explained in the pattern.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/twin-cable-purse/yarns",
-    "https://www.ravelry.com/patterns/sources/yarniverse",
-    "https://www.ravelry.com/patterns/library/twin-cable-purse/edit",
-    "https://www.ravelry.com/patterns/library/twin-cable-purse/report",
-    "https://www.ravelry.com/patterns/periodicals/yarniverse",
-    "https://www.ravelry.com/patterns/library/twin-cable-purse",
-    "https://www.ravelry.com/patterns/library/twin-cable-purse/threads",
-    "https://www.ravelry.com/patterns/library/twin-cable-purse/editors",
-    "https://www.ravelry.com/patterns/library/twin-cable-purse/posts",
-    "http://www.yarniverse.com/page.htm?PG=FreePatterns",
-    "https://web.archive.org/web/20061115015348/http://www.yarniverse.com/page.htm?PG=FreePatterns",
-    "https://www.ravelry.com/patterns/library/twin-cable-purse/comments",
-    "https://www.ravelry.com/patterns/library/twin-cable-purse/people"
-  ],
-  "name": "Ravelry: Twin Cable Purse pattern by Tricky Stix & Ashleigh Lynch"
+    "https://www.ravelry.com/patterns/library/rombscarf",
+    "https://www.ravelry.com/patterns/library/rombscarf/report",
+    "https://www.ravelry.com/patterns/library/rombscarf/people",
+    "https://www.ravelry.com/patterns/library/rombscarf/editors",
+    "https://www.ravelry.com/patterns/sources/ida-hed-myrbergs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/rombscarf/comments",
+    "https://www.ravelry.com/patterns/library/rombscarf/yarns"
+  ]
 }

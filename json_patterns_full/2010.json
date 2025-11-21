@@ -1,35 +1,36 @@
 {
   "pattern_id": 2010,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fire-engine",
-  "name": "fire engine",
-  "description": "",
-  "designer": "crafty beggar",
+  "pattern_page": "https://www.ravelry.com/patterns/library/pygmy-puff",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Ball",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Berroco Plush",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "Intarsia",
-    "rectangle",
-    "worked-flat",
-    "written-pattern"
+    "one-piece",
+    "seamed",
+    "short-rows",
+    "sphere-shaped",
+    "worked-flat"
   ],
   "full_text": "",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fire-engine/people",
-    "https://www.ravelry.com/patterns/library/fire-engine/report",
-    "https://www.ravelry.com/patterns/library/fire-engine/comments",
-    "https://www.ravelry.com/patterns/sources/crafty-beggar-designs",
-    "https://www.ravelry.com/patterns/library/fire-engine",
-    "https://www.ravelry.com/patterns/library/fire-engine/editors",
-    "https://www.ravelry.com/patterns/library/fire-engine/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/pygmy-puff",
+    "https://www.ravelry.com/patterns/library/pygmy-puff/threads",
+    "https://www.ravelry.com/patterns/library/pygmy-puff/people",
+    "https://www.ravelry.com/patterns/library/pygmy-puff/edit",
+    "https://www.ravelry.com/patterns/library/pygmy-puff/report",
+    "https://www.ravelry.com/patterns/sources/mollys-needles",
+    "https://www.ravelry.com/patterns/library/pygmy-puff/yarns",
+    "https://www.ravelry.com/patterns/library/pygmy-puff/comments",
+    "https://www.ravelry.com/patterns/library/pygmy-puff/editors"
+  ],
+  "name": "Ravelry: Pygmy Puff pattern by Erin (Molly's Needles)"
 }

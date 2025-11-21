@@ -1,49 +1,38 @@
 {
   "pattern_id": 803,
-  "pattern_page": "https://www.ravelry.com/patterns/library/french-macaroon-2",
-  "name": "French Macaroon",
-  "description": "These cute little French Macaroon sweaters (or Macaron in French) were inspired by the delicious and colorful macaroons my friend Bee gave me. They are knit in simple garter stitch. The sweater has a boatneck neckline, with a one button closure in the back to allow easy dressing. Each side is knit in one piece, and a three needle bind off is used to secure the shoulders to each other. Two little seams on each",
-  "designer": "The Noble Thread",
+  "pattern_page": "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon",
+  "name": "Weldon's Dahlia Hexagon",
+  "description": "Here’s a show stopper from Weldon’s Practical Needlework, Volume 8! Originally meant as a doily, I blocked the piece as a hexagon for an afghan. The original pattern was error-free until row 43. From there, I had to improvise the instructions to match the engraving as much as possible.",
+  "designer": "Vicki Monthei",
   "craft": "Knitting",
-  "category": "Sweater → Pullover",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "Newborn, 3 months, 6-9 months, 12-18 months, 2-3 years, 4 years",
+  "category": "Afghan block",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "NA",
   "languages": [
-    "Danish",
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Cascade Yarns ® Ultra Pima"
+    "Thread ?",
+    "Aunt Lydia's Classic 10 Crochet Thread"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
-    "buttonholes",
-    "newborn-size",
-    "seamed",
-    "stripes-colorwork",
-    "three-needle-bind",
-    "toddler",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round",
+    "motifs",
+    "one-piece"
   ],
-  "full_text": "These cute little French Macaroon sweaters (or Macaron in French) were inspired by the delicious and colorful macaroons my friend Bee gave me. They are knit in simple garter stitch. The sweater has a boatneck neckline, with a one button closure in the back to allow easy dressing. Each side is knit in one piece, and a three needle bind off is used to secure the shoulders to each other. Two little seams on each side finish up the sweaters.They knit up in no time, and like the delicious sweets they are named after, you might not be able to stop at just one! NOTE: Secure the free button placket flap on the inside of the sweater with a whip stitch. For the perfect hat to go with your French Macaroon try Tiny Tot by Kristen Rettig.",
+  "full_text": "Here’s a show stopper from Weldon’s Practical Needlework , Volume 8! Originally meant as a doily, I blocked the piece as a hexagon for an afghan. The original pattern was error-free until row 43. From there, I had to improvise the instructions to match the engraving as much as possible. Worked to gauge, the hexagon is 10.5” across, measured point to point. The original edging for Weldon’s Dahlia pattern is posted separately in Ravelry. Skills needed: long-tail cast on, slip, knit, purl, YO (yarn over), SKP (slip 1 knit-wise, knit 1, PSSO), K2tog, K3tog, SK2P (slip 1 knit-wise, knit 2 together, slip slipped stitch over the k2tog) and bind off in knit stitch or Jeny’s Surprisingly Stretchy Bind Off. Gauge is not important in this pattern. Any block-able yarn/thread will work. Make a swatch to check size and appearance. Errata notice: a corrected PDF has been uploaded as of 9/12/23. Please update your copy if you downloaded this pattern before 9/12/23.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/posts",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/yarns",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/editors",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/report",
-    "https://www.ravelry.com/patterns/sources/the-noble-thread",
-    "https://www.ravelry.com/patterns/library/tiny-tot-2",
-    "https://www.ravelry.com/patterns/library/clementine-15",
-    "https://www.ravelry.com/patterns/library/rosebud-29",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/people",
-    "https://www.ravelry.com/patterns/library/fairy-glen-socks",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/comments",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2",
-    "https://www.ravelry.com/patterns/library/french-macaroon-2/threads"
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/report",
+    "https://www.ravelry.com/patterns/library/weldons-wrinkled-shell-ii",
+    "https://www.ravelry.com/patterns/library/beetons-dahlia-doily",
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/editors",
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon",
+    "https://www.ravelry.com/patterns/library/mitten-prints",
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/yarns",
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/comments",
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
+    "https://www.ravelry.com/patterns/library/weldons-dahlia-hexagon/people"
   ]
 }

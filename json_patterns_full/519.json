@@ -1,48 +1,43 @@
 {
   "pattern_id": 519,
-  "pattern_page": "https://www.ravelry.com/patterns/library/oats",
-  "name": "Oats",
-  "description": "",
-  "designer": "tincanknits",
+  "pattern_page": "https://www.ravelry.com/patterns/library/ez-organizers",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "Child (Adult Short, Adult Long)",
+  "category": "Containers",
+  "sizes_available": "12\" [30.5 cm] wide x 17\" [43 cm] long",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Tanis Fiber Arts Green Label Aran Weight"
+    "Jumbo (0-4 wpi) ?",
+    "Bernat Alize Blanket EZ"
   ],
   "attributes": [
-    "adult",
-    "child",
+    "3-dimensional",
     "in-the-round",
-    "ribbed",
-    "schematic",
+    "one-piece",
+    "phototutorial",
     "seamless",
     "written-pattern"
   ],
-  "full_text": "Oats - by Tin Can Knits The Oats cowl pattern is now available in the FREE Tin Can Knits app! Click here to download the app, or to learn more. • only see the size instructions you need • tick through the pattern and make notes • support is just a tap away • adjust the settings to suit you! Learn to knit with Alexa and Emily! The Oats cowl is the third project in The Simple Collection - a learn to knit series with excellent free patterns and clear tutorials. From your first scarf, to mittens, socks, and sweaters, learn everything you need to know to make modern seamless knits for all of your loved ones. Want to keep up with Tin Can Knits? Sign up for our email updates and we will let you know about our new designs and great in-depth tutorials . PATTERN INFO Sizing: Child ( Adult Short, Adult Long ) Finished measurements: 6 ( 10, 10 )“ tall by 19 ( 23, 48 )” around Yarn Worsted/aran weight yarn: 100 ( 180, 360 ) yards DK weight yarn: 120 ( 200, 420 ) yards Sock/sport weight yarn: 140 ( 280, 580 ) yards (samples shown in Tanis Fiber Arts Green Label Aran in ‘Frost’ and ‘Gold’) Needles Worsted/aran weight yarn: US #6 / 4mm, US #8 / 5mm DK weight yarn: US #4 / 3.5mm, US #6 / 4mm Sock/sport weight yarn: US #2 / 2.75mm, US #4 / 3.5mm (or as required to meet gauge) For child and adult short: 16” circulars in each size. For adult long: 48” circular in each size. Gauge Worsted/aran weight yarn: 18 sts & 24 rounds DK weight yarn: 22 sts & 30 rounds Sock/sport weight yarn: 26 sts & 38 rounds All gauge given in stockinette on larger needles. Notions stitch markers, darning needle Helpful Tutorials Casting onto circular needles Magic Loop For all pattern abbreviations, techniques, and to contact us, visit www.tincanknits.com",
-  "techniques": [],
+  "full_text": "Add a pop of color to your organizing efforts with these super-fast hanging organizers. Featuring Bernat Alize Blanket-EZ, a drop-like shape makes them very comfortable to use. All you need is our pre-looped yarn because this no-needle craft is knit in rounds with your fingers! It’s a great project for learning shaping by increases and decreases. Measuring 12” x 17”, you get lots of space to hold everything from floral accents to knick-knacks!",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/oats/comments",
-    "https://www.ravelry.com/patterns/library/oats/editors",
-    "http://tincanknits.com/pattern-SC-oats.html",
-    "https://www.ravelry.com/patterns/library/oats/report",
-    "https://www.ravelry.com/patterns/library/oats/yarns",
-    "https://www.ravelry.com/patterns/library/maize-3",
-    "https://www.ravelry.com/patterns/library/wheat-4",
-    "https://www.ravelry.com/patterns/sources/the-simple-collection",
-    "https://www.ravelry.com/patterns/library/oats/people",
-    "https://www.ravelry.com/bundles/app-patterns",
-    "https://www.ravelry.com/patterns/library/oats",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits",
-    "https://www.ravelry.com/patterns/library/barley-worsted",
-    "https://www.ravelry.com/patterns/library/oats/threads",
-    "https://www.ravelry.com/patterns/library/oats/posts",
-    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry"
-  ]
+    "https://www.ravelry.com/patterns/library/ez-organizers/yarns",
+    "https://www.ravelry.com/patterns/library/ez-organizers/report",
+    "https://www.ravelry.com/patterns/library/slip-knit-socks",
+    "https://www.ravelry.com/patterns/library/ez-organizers/threads",
+    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
+    "https://www.ravelry.com/patterns/library/ez-organizers/editors",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
+    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
+    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
+    "https://www.ravelry.com/patterns/library/ez-organizers/people",
+    "https://www.ravelry.com/patterns/library/ez-organizers",
+    "https://www.ravelry.com/patterns/library/ez-organizers/comments"
+  ],
+  "name": "Ravelry: EZ Organizers pattern by Yarnspirations Design Studio"
 }

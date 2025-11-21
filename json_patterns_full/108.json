@@ -1,45 +1,45 @@
 {
   "pattern_id": 108,
-  "pattern_page": "https://www.ravelry.com/patterns/library/baby-building-block-cube",
-  "name": "Baby building block cube",
-  "description": "Pattern gives Instructions to make a 6x6 inches Aran (worsted weight), 5x5 inches DK (sport weight), 4x4 inches 4Ply (fingering weight) cube.",
-  "designer": "Fiona Kelly",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon",
+  "name": "Tarragon the Gentle Dragon",
+  "description": "Mythology or reality? The reality is that Tarragon is a dragon with a tender heart and an obscure predilection for French cuisine. He will only blow fire for bbq-ing some sausages - to eat with lots of onions and garlic sauce!",
+  "designer": "Knit-a- Zoo",
   "craft": "Knitting",
-  "category": "Blocks",
-  "sizes_available": "6x6 inches, 5x5 inches, 4x4 inches square",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "one size",
   "languages": [
-    "English"
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "Rico Design Essentials Cotton DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Titan Wool Zaffiro"
   ],
   "attributes": [
     "3-dimensional",
-    "chart",
-    "cube-shaped",
-    "duplicate-stitch",
-    "embroidery",
-    "other-colorwork",
+    "amigurumi",
+    "in-the-round",
+    "kitchener",
     "phototutorial",
-    "textured",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "Pattern gives Instructions to make a 6x6 inches Aran (worsted weight), 5x5 inches DK (sport weight), 4x4 inches 4Ply (fingering weight) cube. This knitted cube toy is an ideal project for a beginner to make. It is simple & easy to knit & embroider. Each letter and picture motif is duplicate stitch embroidered (UK Swiss Darn) onto a single colour knitted square. To ensure the finished cube has flat stable sides & keeps its shape I suggest using foam precut to the required size inside rather than loose stuffing. This is a simple and delightful toy that any precious new arrival will treasure, love & have many hours of fun with over the years. EU ravelry members will be re-directed to loveknitting to complete their pattern purchase",
+  "full_text": "Mythology or reality? The reality is that Tarragon is a dragon with a tender heart and an obscure predilection for French cuisine. He will only blow fire for bbq-ing some sausages - to eat with lots of onions and garlic sauce! one day to knit, one second to love! (but beware of his breath!!) Tarragon is stiched on the round using double-pointed needles from bottom to head and is about 24 cm high. One skein main colour (50 gr) is largely sufficient to knit Tarragon. Plus you will need about a quarter of a skein to knit wings and spines. Enjoy! Thank you to Dragonbasket for the German version!",
   "techniques": [],
-  "shape": "cube",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/people",
-    "https://www.ravelry.com/patterns/library/multi-colour-flower-blanket-square",
-    "https://www.ravelry.com/patterns/library/marlion",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/threads",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/posts",
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/yarns",
-    "https://www.ravelry.com/patterns/sources/tangled-blossoms-designs",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/comments",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/editors",
-    "https://www.ravelry.com/patterns/library/baby-building-block-cube/report"
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/report",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/yarns",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/people",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/editors",
+    "https://www.ravelry.com/patterns/library/beths-cables",
+    "https://www.ravelry.com/patterns/library/cordell-the-owl",
+    "https://www.ravelry.com/patterns/library/edward-the-cat",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/comments",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/threads",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon",
+    "https://www.ravelry.com/patterns/sources/knit-a-zoo",
+    "https://www.ravelry.com/patterns/library/tarragon-the-gentle-dragon/posts"
   ]
 }

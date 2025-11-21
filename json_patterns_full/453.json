@@ -1,49 +1,40 @@
 {
   "pattern_id": 453,
-  "pattern_page": "https://www.ravelry.com/patterns/library/port-vell-cowl",
-  "name": "Port Vell Cowl",
-  "description": "Port Vell is the official pattern of the seventh edition of Barcelona Knits Festival, which will take place in Barcelona, Spain, from November 16th-17th.",
-  "designer": "Vanessa Pellisa",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-sweaters",
+  "name": "Tiny Sweaters",
+  "description": "Quick handmade gifts for Christmas!",
+  "designer": "Malia Mae Joseph",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "Finished circumference: approx. 50 (115) cm / 20 (46)”.",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "languages": [
-    "English",
-    "Spanish"
+    "English"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Lalanalú Nadir"
+    "DK (11 wpi) ?",
+    "West Wool Tandem"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "chart",
-    "chevron",
     "in-the-round",
-    "one-piece",
-    "ribbed",
-    "seamless",
-    "textured",
-    "unisex",
-    "video-tutorial",
-    "written-pattern"
+    "raglan-sleeve"
   ],
-  "full_text": "Port Vell is the official pattern of the seventh edition of Barcelona Knits Festival, which will take place in Barcelona, Spain, from November 16th-17th. The pattern is available as a free download from the festival’s website. Click here. En castellano, aquí: https://www.barcelonaknits.com/patron-barcelona-knits-2024/ English version here: https://www.barcelonaknits.com/barcelona-knits-2024-patte... Port Vell is a seamless cowl worked bottom up in the round. It combines three panels of textured motifs framed by ‘welts’ (or ‘tucks’) and 2x2 ribbing edges. The cowl comes in two sizes. The textured panels are inspired by the timeless knit and purl motives of gansey sweaters, which I adore! Also, it is super fun to knit! MEASUREMENTS Size 1 is for a regular-sized cowl. Size 2 can be wrapped around your neck twice. Finished circumference: approx. 50 (115) cm / 20 (46)”. Height: approx. 32.5 (32.5) cm / 13 (13)”. YARN AND YARDAGE Approx 290 (710) m of fingering-weight yarn or 320 (760) m of sport-weight yarn. Sample is knit in Nadir by Lalanalu in colorway ‘Crudo’ (100% Merino Wool, 100 grams, 380 meters). NEEDLES ­— 3.25 mm circular needle (or needle size to obtain gauge). ­— if working the purl welt, 3 mm circular needle (or a size below gauge size needle). Swatch to find the right needle size for your own tension and yarn choice. GAUGE 30 sts x 40 rounds = 10 x 10 cm / 4 x 4” in stockinette stitch on larger needle after blocking. Gauge is not crucial for this project but it will affect yardage and the finished measurements. NOTIONS Blocking tools, scissors, tapestry needle, stitch markers, and tape measure. A row counter might come in handy. Optional: a second set of gauge-size or below-gauge-size needles to work the welts and tubular cast on. Optional: scrap yarn (for the tubular cast-on).",
+  "full_text": "Quick handmade gifts for Christmas! Tiny Sweaters make delightful little christmas ornaments! They also make great practice projects for those who have never knitted a sweater before and want to give it a try before launching into a larger project.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/vistula-shawl",
-    "https://www.ravelry.com/patterns/library/port-vell-cowl/people",
-    "https://www.ravelry.com/patterns/library/port-vell-cowl/editors",
-    "https://www.barcelonaknits.com/barcelona-knits-2024-pattern/?lang=en",
-    "https://www.ravelry.com/patterns/library/port-vell-cowl",
-    "https://www.ravelry.com/patterns/library/port-vell-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/nicola-hood",
-    "https://www.ravelry.com/patterns/sources/barcelona-knits-festival",
-    "https://www.ravelry.com/patterns/library/marta-beanie",
-    "https://www.ravelry.com/patterns/library/port-vell-cowl/report",
-    "https://www.ravelry.com/patterns/library/port-vell-cowl/comments"
+    "https://www.ravelry.com/patterns/library/tiny-kerchiefs",
+    "https://www.ravelry.com/patterns/sources/malia-mae",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/editors",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/report",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/posts",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/comments",
+    "https://www.ravelry.com/patterns/library/i-can-knit-myself-flowers",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/threads",
+    "https://www.ravelry.com/bundles/free-patterns-869",
+    "https://www.ravelry.com/patterns/sources/stephen--penelope",
+    "https://www.ravelry.com/patterns/library/tiny-sweaters/people",
+    "https://www.ravelry.com/patterns/library/mautinoa"
   ]
 }

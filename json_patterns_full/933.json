@@ -1,41 +1,40 @@
 {
   "pattern_id": 933,
-  "pattern_page": "https://www.ravelry.com/patterns/library/doddy",
+  "pattern_page": "https://www.ravelry.com/patterns/library/10-min-mini-basket",
+  "name": "10 Min Mini Basket",
+  "description": "These mini baskets are knit from the top down, in the round on 2 dpns. The handle is made by knotting the cast on end to its opposite side. To get the lovely woven look (without the pesky purl stitches), simply turn your basket inside out. The pattern is very quick. It only has 5 rounds!",
+  "designer": "Natasha Hanson",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One Size",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "Height & Width: 1”/ 2.5cm, or desired size.",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Knit Picks Shine Worsted",
+    "Patons North America Classic Wool Worsted",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "in-the-round",
+    "one-piece",
     "seamless",
-    "sphere-shaped",
-    "unisex",
-    "written-pattern"
+    "top-down"
   ],
-  "full_text": "150 yds. each of two colors, or 75-80 yds. each of four colors.",
+  "full_text": "These mini baskets are knit from the top down, in the round on 2 dpns. The handle is made by knotting the cast on end to its opposite side. To get the lovely woven look (without the pesky purl stitches), simply turn your basket inside out. The pattern is very quick. It only has 5 rounds! Praise for 10 Min Mini Basket It’s very easy. Great pattern. Really does take 10 minutes. (Elemenopeo) So cute! (Mirihi) Quick little basket. (bonewoman) This is a cute little basket. It is great for my gnomes and made very fast. ( Omissi)",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitty-winter-2007",
-    "https://www.ravelry.com/patterns/library/doddy/threads",
-    "https://www.ravelry.com/patterns/library/doddy/report",
-    "https://www.ravelry.com/patterns/library/doddy/comments",
-    "https://www.ravelry.com/patterns/library/doddy/yarns",
-    "https://www.ravelry.com/patterns/library/doddy/posts",
-    "https://www.ravelry.com/patterns/library/galanta-2",
-    "https://www.ravelry.com/patterns/library/torc-cardigan",
-    "https://www.ravelry.com/patterns/library/doddy",
-    "https://www.ravelry.com/patterns/library/doddy/people",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/burren-shawl",
-    "https://www.ravelry.com/patterns/library/doddy/editors"
-  ],
-  "name": "Ravelry: Doddy pattern by Carol Feller"
+    "https://www.ravelry.com/patterns/library/10-min-mini-basket",
+    "https://www.ravelry.com/patterns/library/winter-hat-garland",
+    "https://www.ravelry.com/patterns/library/10-min-mini-basket/yarns",
+    "https://www.ravelry.com/patterns/library/10-min-mini-basket/comments",
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/10-min-mini-basket/threads",
+    "https://www.ravelry.com/patterns/library/10-min-mini-basket/people",
+    "https://www.ravelry.com/patterns/library/10-min-mini-basket/editors",
+    "https://www.ravelry.com/patterns/library/10-min-mini-basket/report",
+    "https://www.ravelry.com/patterns/library/hairy-highland-gnomes",
+    "https://www.ravelry.com/patterns/library/acorn-lantern"
+  ]
 }

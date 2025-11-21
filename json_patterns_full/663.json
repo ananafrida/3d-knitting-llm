@@ -1,38 +1,40 @@
 {
   "pattern_id": 663,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fuzzy-little-shapka",
-  "name": "Fuzzy Little Shapka",
-  "description": "Shapka: big furry hat in Ukrainian. These are of the smaller and fuzzier variety. A cute little toque (hat) quickly knit up for tiny preemie sizes through adult. Very cute on babies and little kids, and amusing on adults too. Every baby I know has a hat like this.",
-  "designer": "Jennifer Shapka",
+  "pattern_page": "https://www.ravelry.com/patterns/library/henrys-toy-snake",
+  "name": "Henry's Toy Snake",
+  "description": "Also needed:",
+  "designer": "Monnibo Designs",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
-  "sizes_available": "tiny-adult",
+  "category": "Pet → Toys",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Lion Brand Jiffy Solid",
-    "Bulky (7 wpi) ?"
+    "TLC Essentials Solid",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "baby",
-    "bottom-up",
-    "child",
-    "in-the-round",
     "one-piece",
-    "textured",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Shapka: big furry hat in Ukrainian. These are of the smaller and fuzzier variety. A cute little toque (hat) quickly knit up for tiny preemie sizes through adult. Very cute on babies and little kids, and amusing on adults too. Every baby I know has a hat like this. The ridged purl round in this pattern (done in a contrasting colour in the picture) shows up best when done with smooth yarn, and is lost if using textured bobbly yarn. If you like an extra pointy point on top, do an extra round or two even when you’re down to 9 or 6 sts. Yardage is very approximate.",
+  "full_text": "Also needed: Fibre fill Small amounts of black yarn / or 2 buttons Small amount of red yarn (tongue) Optional: catnip",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/threads",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/people",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/editors",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/report",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/yarns",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka/comments",
-    "https://www.ravelry.com/patterns/sources/dragonfireknits",
-    "https://www.ravelry.com/patterns/library/fuzzy-little-shapka"
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/people",
+    "https://www.ravelry.com/patterns/library/snowflake-dishcloth-4",
+    "https://www.ravelry.com/patterns/library/eyelet-capelet",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/threads",
+    "https://www.ravelry.com/patterns/sources/monnibo-designs",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/report",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/editors",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/comments",
+    "https://www.ravelry.com/patterns/library/hot-water-bottle-cosy",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/yarns",
+    "https://www.ravelry.com/patterns/library/henrys-toy-snake/posts"
   ]
 }

@@ -1,38 +1,41 @@
 {
   "pattern_id": 36,
-  "pattern_page": "https://www.ravelry.com/patterns/library/diagonal-square-3",
+  "pattern_page": "https://www.ravelry.com/patterns/library/scurvy-eye-patch",
+  "name": "Scurvy Eye Patch",
+  "description": "Can I get an ‘Arrgh!’?",
+  "designer": "Christabel Seneque",
   "craft": "Knitting",
-  "category": "Afghan block",
+  "category": "Costume",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Any gauge - designed for any gauge ?"
+    "Red Heart Super Saver (solids)",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "square",
+    "adult",
+    "teen",
+    "unisex",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A diagonal square is one of the best ways to make sure that your squares are always the perfect size and shape, no matter what yarn or needles you are using! Direct link to PDF",
+  "full_text": "Can I get an ‘Arrgh!’?",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/threads",
-    "http://www.knit-a-square.com/sites/default/files/Knitted_Square_Diagonal.pdf",
-    "http://knit-a-square.com/free-knitting-pattern-diagonal-square/",
-    "https://www.ravelry.com/patterns/sources/knit-a-square",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/report",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/yarns",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/comments",
-    "https://www.ravelry.com/patterns/library/square-vest-knit",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3",
-    "https://www.ravelry.com/patterns/library/plain-jane-square",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/people",
-    "https://www.ravelry.com/patterns/library/kas-mitred-square",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/edit",
-    "https://www.ravelry.com/patterns/library/diagonal-square-3/editors"
-  ],
-  "name": "Ravelry: Diagonal Square pattern by knit-a-square"
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch",
+    "https://www.ravelry.com/patterns/sources/herbivore-knits",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/report",
+    "https://www.ravelry.com/patterns/library/baubles",
+    "https://www.ravelry.com/patterns/library/old-school-hanging-towel",
+    "https://www.ravelry.com/patterns/library/knit-yo-yo-tutorial",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/people",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/editors",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/yarns",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/comments",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/posts",
+    "https://www.ravelry.com/patterns/library/scurvy-eye-patch/threads"
+  ]
 }

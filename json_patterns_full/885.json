@@ -1,47 +1,38 @@
 {
   "pattern_id": 885,
-  "pattern_page": "https://www.ravelry.com/patterns/library/sorgenfri-trkle",
+  "pattern_page": "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6",
+  "name": "Diagonal Baby Blanket",
+  "description": "This blanket is my go-to quick knit. With its super simple corner to corner method, and only 3 types of stitch used, its a great project to work up when you’re in want of a nice mindless knit, and with its buit in edge, and soft garter stitch pattern, the finished product is beautifully modern in its simplicity.",
+  "designer": "Snufflebean Yarn",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "80 cm",
+  "category": "Blanket → Baby Blanket",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
-    "English",
-    "Norwegian"
+    "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Lang Yarns Cashmere Premium"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "child",
-    "female",
-    "male",
-    "one-piece",
-    "seamless",
-    "teen",
-    "textured",
-    "triangle-shaped",
-    "unisex",
-    "worked-flat",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "The worry-free scarf is knitted back and forth on a long circular needle in structured knitting. The scarf can be tied once around the neck and fits well for both children and adults. Size: Approx. 80 cm from tip to tip Technique: Garter stitch and 1x1 rib Knitting strength: 21 stitches / 10 cm Needle size: 3.0-3.5 mm / 80 cm circular needle Suggested yarn: 50 g Como / Lamana or 50 g Cashmere premium / Lang This pattern is available for free (via email) by going to the website and subscribing to the mailing list.",
+  "full_text": "This blanket is my go-to quick knit. With its super simple corner to corner method, and only 3 types of stitch used, its a great project to work up when you’re in want of a nice mindless knit, and with its buit in edge, and soft garter stitch pattern, the finished product is beautifully modern in its simplicity.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/editors",
-    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/people",
-    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/yarns",
-    "https://www.ravelry.com/patterns/library/sorgenfri-trkle",
-    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/comments",
-    "https://www.ravelry.com/patterns/sources/indiblomst-website",
-    "https://www.ravelry.com/patterns/library/sorgenfri-jacket-mini",
-    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/report",
-    "https://www.ravelry.com/patterns/library/vibes-scarf",
-    "https://www.ravelry.com/patterns/library/sorgenfri-foldover-jacket-mini-24st-10cm",
-    "https://www.ravelry.com/patterns/library/sorgenfri-trkle/threads"
-  ],
-  "name": "Ravelry: Sorgenfri Tørkle pattern by Guri Pedersen"
+    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6/threads",
+    "https://www.ravelry.com/patterns/library/fishermans-rib-baby-blanket-2",
+    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6/yarns",
+    "https://www.ravelry.com/patterns/library/diagonal-garter-stitch-scarf-3",
+    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6/people",
+    "https://www.ravelry.com/patterns/sources/snufflebean-yarns-ravelry-store",
+    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6/editors",
+    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6/comments",
+    "https://www.ravelry.com/patterns/library/peekaboo-baby-blanket",
+    "https://www.ravelry.com/patterns/sources/snufflebean-yarn",
+    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6/report",
+    "https://www.ravelry.com/patterns/library/diagonal-baby-blanket-6"
+  ]
 }

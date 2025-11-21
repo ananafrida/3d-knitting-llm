@@ -1,35 +1,40 @@
 {
   "pattern_id": 299,
-  "pattern_page": "https://www.ravelry.com/patterns/library/a-mouse-on-four-needles",
+  "pattern_page": "https://www.ravelry.com/patterns/library/watchlings",
+  "name": "Watchlings",
+  "description": "When the winter cold sets in and all the little animals start hibernating, that’s when the Watchlings start their vigil. They make sure everyone stays cosy in their burrow, their food stores stay safe and the spring plants don’t sprout too soon. Why not knit some to keep an eye on things for you this winter?",
+  "designer": "Hazel Wadeson",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "one size",
+  "category": "Softies → Doll",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
+    "Stylecraft Special Double Knit",
     "DK (11 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "icord",
+    "bottom-up",
     "in-the-round",
     "one-piece",
-    "seamless"
+    "seamed",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "I was looking for a pattern for a little mouse for Lemmy to play with, and I didn’t want to sew it up the middle, and I wanted it to have an i-cord tail. Since I couldn’t find a pattern like this, I wrote one. Here it is. This is a pattern for a catnip mouse, knit in the round, with an i-cord tail. This pattern is great for knitting up your scrap yarn, and can be knit with worsted weight, too. Great as a special gift for a friend who has a cat--if you go for a visit you won’t arrive empty handed and you’ll make a new feline friend! Materials & Needles: Size 2 dpns and DK weight scrap yarn. This pattern is great for using up those little random balls you have lying around. Special Stitches: LI—Left slanting increase",
+  "full_text": "When the winter cold sets in and all the little animals start hibernating, that’s when the Watchlings start their vigil. They make sure everyone stays cosy in their burrow, their food stores stay safe and the spring plants don’t sprout too soon. Why not knit some to keep an eye on things for you this winter? These cute little toys knit up quickly in just one piece, and are a great way to use up your scrap yarn. Watchlings of course love all of the various winter festivities and love to dress in appropriately festive colours so they can join in. The main thing is to play with your yarn and have fun, and in no time you’ll have a whole team of cosy little people to make you smile. This pattern includes instructions for a toy knitted flat, with two small seams to sew at the end and a version knitted in the round, with one small seam to finish. You will need to know how to knit, purl, increase and decrease.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-mouse-on-four-needles/people",
-    "https://www.ravelry.com/patterns/library/a-mouse-on-four-needles/editors",
-    "https://www.ravelry.com/patterns/library/a-mouse-on-four-needles/report",
-    "https://www.ravelry.com/patterns/library/a-mouse-on-four-needles/yarns",
-    "https://www.ravelry.com/patterns/library/a-mouse-on-four-needles/edit",
-    "https://www.ravelry.com/patterns/library/a-mouse-on-four-needles",
-    "https://www.ravelry.com/patterns/sources/sticks-and-string-forever",
-    "https://www.ravelry.com/patterns/library/a-mouse-on-four-needles/comments"
-  ],
-  "name": "Ravelry: A Mouse on Four Needles pattern by Ally Shaw"
+    "https://www.ravelry.com/patterns/library/watchlings/comments",
+    "https://www.ravelry.com/patterns/library/watchlings/yarns",
+    "https://www.ravelry.com/patterns/library/watchlings/editors",
+    "https://www.ravelry.com/patterns/library/watchlings/people",
+    "https://www.ravelry.com/patterns/library/watchlings/report",
+    "https://www.ravelry.com/patterns/sources/hazel-wadesons-ravelry-store",
+    "https://www.ravelry.com/patterns/library/watchlings/threads",
+    "https://www.ravelry.com/patterns/library/watchlings",
+    "https://www.ravelry.com/patterns/library/skipping-along-hat",
+    "https://www.ravelry.com/patterns/library/waveform-hat"
+  ]
 }

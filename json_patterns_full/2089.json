@@ -1,51 +1,42 @@
 {
   "pattern_id": 2089,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jasons-cashmere-hat",
+  "pattern_page": "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj",
+  "name": "Baby Magic Jacket (BMJ)",
+  "description": "This pattern for a newborn baby cardigan creates the garment in garter stitch in just one unusual-looking piece. It is worked starting from the left sleeve, then mitred corners, decreases and increases make the raglan shapings and back section. The right sleeve completes the main shape. Stitches picked up along the front edges and back base are used to finish the garment, including the buttonholes.",
+  "designer": "LizAnn Petch",
   "craft": "Knitting",
-  "category": "Hat → Beanie, Toque",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "one size, to fit 22-24\"",
+  "category": "Coat / Jacket",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Newborn, 3-month, 6-month, one year",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Sweet Fiber Yarns Cashmere Aran"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "cables",
-    "female",
-    "fitted",
-    "in-the-round",
-    "male",
-    "negative-ease",
+    "baby",
     "one-piece",
-    "ribbed",
-    "seamless",
-    "teen",
-    "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Jason’s Cashmere Hat features a simple cable design for extra warmth, firm ribbing to help keep its shape, and a thick, folded brim that can be adjusted to cover the ears on extra chilly days. Made with two skeins of Sweet Fiber Cashmere Aran, this hat is pure luxury and can easily be completed in a weekend. I hope you and your loved ones enjoy wearing this hat as much as Jason and I do! Yarn 2 skeins of Sweet Fiber Yarns Cashmere Aran (91m / 100y per 50g skein). Hats pictured are knit in Bruin and Smoke. Sizing To fit an adult head 22-24 inches in circumference. Finished Measurements 8 inches wide, 11 inches long (unfolded brim) or 8.5 inches long (folded brim) Needles 4mm / 6US 16” circular needle 5mm / 8US 16” circular needle 5mm / 8US dpns for decreases Gauge Ribbing: 20 stitches per 4 inches in rib pattern (unstretched), using smaller needles Body: 12 stitches and 7 rows = 2 inches by 1 inch in the cable pattern, using larger needles",
+  "full_text": "This pattern for a newborn baby cardigan creates the garment in garter stitch in just one unusual-looking piece. It is worked starting from the left sleeve, then mitred corners, decreases and increases make the raglan shapings and back section. The right sleeve completes the main shape. Stitches picked up along the front edges and back base are used to finish the garment, including the buttonholes. The BMJ initials of the pattern title reflect and admire the Elizabeth Zimmerman BSJ - Baby Surprise Jacket - which is also knitted as an unusual shape in garter stitich. Also like the BSJ, this BMJ pattern includes other sizes which are easy adaptations of the original pattern.",
   "techniques": [
-    "decreases"
+    "decreases",
+    "increases"
   ],
-  "shape": "unknown",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/report",
-    "https://www.ravelry.com/patterns/library/jasons-tweed-hat",
-    "https://www.ravelry.com/patterns/sources/sweet-fiber-yarns-2",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/threads",
-    "https://www.ravelry.com/patterns/library/golden-pear",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/comments",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/posts",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/yarns",
-    "https://www.ravelry.com/patterns/library/greystone-5",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/people",
-    "https://www.ravelry.com/patterns/library/jasons-cashmere-hat/editors"
-  ],
-  "name": "Ravelry: Jason's Cashmere Hat pattern by Melissa Thomson"
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/report",
+    "https://www.ravelry.com/patterns/sources/lizann-petchs-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/yarns",
+    "https://www.ravelry.com/patterns/library/dragons-teeth-shawl",
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/editors",
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj",
+    "https://www.ravelry.com/patterns/library/spiral-staircase-shawl",
+    "https://www.ravelry.com/patterns/library/mitred-squares-in-stocking-stitch",
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/comments",
+    "https://www.ravelry.com/patterns/library/baby-magic-jacket-bmj/people"
+  ]
 }

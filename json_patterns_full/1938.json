@@ -1,44 +1,51 @@
 {
   "pattern_id": 1938,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cravo-2",
-  "name": "Cravo",
-  "description": "",
-  "designer": "Filipa Carneiro",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fair-isle-childs-cardigan---7286",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "one size",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "56 (61, 66)cm / 21 (24, 26)\"",
   "languages": [
-    "English",
-    "Portuguese",
-    "Spanish"
+    "English"
   ],
   "suggested_yarn": [
-    "Rosários 4 For Nature",
-    "DK (11 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Yarnsmiths (UK) Merino Aran SW"
   ],
   "attributes": [
     "bottom-up",
-    "one-piece",
+    "buttoned",
+    "buttonholes",
+    "chart",
+    "child",
+    "crew-neck",
+    "front-fastening",
+    "long-sleeve",
+    "positive-ease",
+    "raglan-sleeve",
     "seamed",
-    "video-tutorial",
+    "single-breasted",
+    "stranded",
+    "toddler",
+    "unisex",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "To fit chest: 56 (61, 66)cm / 21 (24, 26)“ Actual size: 59.5 (66.5, 71)cm / 23.5 (26.5, 28)” Knitting needles sizes 4.5mm and 5mm Yarnsmiths Merino Aran Superwash 82yrds/75m (1.75oz/50g) Yarn A: Teal (4230) - 3, 4, 4 balls Yarn B: Chocolate (4080) - 1, 1, 1 ball Yarn C: Copper (4076) - 1, 2, 2 balls Yarn D: Claret Red (4090) - 1, 1, 1 ball Yarn E: Warm Taupe (4065) - 1, 1, 1 ball Tension: 18 sts x 25 rows = 4” / 10cm in Stocking Stitch on 5mm needles 5 (6, 6) Buttons",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/filipa-carneiros-ravelry-store",
-    "https://www.ravelry.com/patterns/library/cravo-2/report",
-    "https://www.ravelry.com/patterns/library/amor-perfeito-2",
-    "https://www.ravelry.com/patterns/library/cravo-2/people",
-    "https://www.ravelry.com/patterns/library/cravo-2/yarns",
-    "https://www.ravelry.com/patterns/library/dona-ines",
-    "https://www.ravelry.com/patterns/library/cravo-2",
-    "https://www.ravelry.com/patterns/library/cravo-2/comments",
-    "https://www.ravelry.com/patterns/library/cravo-2/editors",
-    "https://www.ravelry.com/patterns/sources/rosarios-4",
-    "https://www.ravelry.com/patterns/library/duo-11"
-  ]
+    "https://www.ravelry.com/patterns/library/fair-isle-childs-sweater---7284",
+    "https://www.ravelry.com/patterns/library/fair-isle-childs-cardigan---7286",
+    "https://www.ravelry.com/patterns/sources/wool-warehouse",
+    "https://www.ravelry.com/patterns/library/scarf-and-hat---7285",
+    "https://www.ravelry.com/patterns/library/fair-isle-childs-cardigan---7286/comments",
+    "https://www.ravelry.com/patterns/library/adult-fair-isle-hat---7288",
+    "https://www.ravelry.com/patterns/library/fair-isle-childs-cardigan---7286/editors",
+    "https://www.ravelry.com/patterns/library/fair-isle-childs-cardigan---7286/people",
+    "https://www.woolwarehouse.co.uk/patterns-and-books/yarnsmiths-7286-fair-isle-childs-cardigan-downloadable-pdf",
+    "https://www.ravelry.com/patterns/library/fair-isle-childs-cardigan---7286/yarns",
+    "https://www.ravelry.com/patterns/library/fair-isle-childs-cardigan---7286/report"
+  ],
+  "name": "Ravelry: Fair Isle Child's Cardigan - 7286 pattern by Monica Russel"
 }

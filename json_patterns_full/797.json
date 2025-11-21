@@ -1,41 +1,36 @@
 {
   "pattern_id": 797,
-  "pattern_page": "https://www.ravelry.com/patterns/library/town-square-sweater",
-  "name": "Town Square Sweater",
-  "description": "The Town Square Sweater is a top-down drop-shoulder textured sweater featuring ribbing, i-cords, and a lovely grid texture. This pattern has been tech edited and test knit in all sizes. Matching made-to-measure pet sweater pattern included!",
-  "designer": "Postcard Knits",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cat-square-2",
   "craft": "Knitting",
-  "category": "Sweater → Pullover",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "1, 2, (3, 4), 5, 6",
+  "category": "Afghan block",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "8.5\" x 8.5\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "drop-sleeve",
-    "oversized",
-    "positive-ease",
-    "ribbed",
-    "textured"
+    "chart",
+    "written-pattern"
   ],
-  "full_text": "The Town Square Sweater is a top-down drop-shoulder textured sweater featuring ribbing, i-cords, and a lovely grid texture. This pattern has been tech edited and test knit in all sizes. Matching made-to-measure pet sweater pattern included! Each of my designs will be a “hand-knit postcard”, inspired by one of my favorite places. My town square has long been one of my favorite spots to knit, and I can’t imagine of a better location for my first sweater. Sizing Recommended ease: 11-15” // 28-38cm Sizes: 1, 2, (3, 4), 5, 6 To fit bust sizes: 30-34”, 35-39”, (40-44”, 45-49”), 50-54”, 55-59” // 75-85cm, 88-99cm, (100-112cm, 113-124cm), 125-139cm, 140-150cm Approximate garment bust size: 45”, 50”, (55”, 60”), 65”, 70” // 113cm, 125cm, (138cm, 150cm), 163cm, 178cm Gauge 20st/26rows per 10cm/4” in 2x2 rib, knit flat. Be sure to block your gauge swatch, as this texture will relax quite a bit during the blocking process Materials Yarn: worsted weight Yarn quantity: 1050, 1220, (1390, 1560), 1730, 1900 yards // 960, 1115, (1270, 1425), 1580, 1740 meters Blue sample used Wool and the Gang’s Shiny Happy Cotton in color Cloudy Blue Orange sample used Cascade 220 in color Ginger Needles: 4.5mm/US7 and 3.75mm/US5 This sweater was originally inspired by a retail sweater by the brand The Knotty Ones. Over time, it’s truly evolved and taken on a life of its own. I hope you enjoy this pattern as much as I enjoyed making it! See you at the town square, - Liz This is a free pattern, but you can show support by liking, queueing, and adding projects! Tech editing by @aurora.marlowe",
-  "techniques": [
-    "top-down"
-  ],
-  "shape": "cube",
+  "full_text": "Pattern for a Cat square. Great as a dishcloth, washcloth or with other squares to form a blanket or afghan. There are lots more free knitted square patterns available on my website. Both chart and written pattern are included and are very easy - just knit and purl stitches. Finished square: using DK (light worsted weight) yarn and 4 mm - US6, UK8 - needles approximately 22 cm x 22 cm (8.5 inches x 8.5 inches) using Worsted weight yarn and 4.5 mm knitting needles (US size 7, UK size 7) finished square is approximately 26 cm x 26 cm (10 inches x 10 inches) Of course you can use any plain yarn with the manufacturers recommended needle size, but if it is a different weight yarn it will change the size of the square. Light, plain coloured yarns show up the image best. This square is the same size as my other free squares - together they could make a fantastic afghan!",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/town-square-sweater/yarns",
-    "https://www.ravelry.com/patterns/sources/postcard-knits-ravelry-store",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/threads",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/editors",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/comments",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/people",
-    "https://www.ravelry.com/patterns/library/town-square-sweater",
-    "https://www.ravelry.com/patterns/library/town-square-sweater/report"
-  ]
+    "https://www.ravelry.com/patterns/library/cat-square-2/report",
+    "https://www.ravelry.com/patterns/library/paw-print-square",
+    "https://www.ravelry.com/patterns/library/cat-square-2/editors",
+    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
+    "https://www.ravelry.com/patterns/library/cat-square-2/people",
+    "https://www.ravelry.com/patterns/library/cat-square-2/yarns",
+    "https://www.ravelry.com/patterns/library/cat-square-2",
+    "https://www.ravelry.com/patterns/library/cat-square-2/comments",
+    "https://www.ravelry.com/patterns/library/snake-square",
+    "https://www.ravelry.com/patterns/library/interlocking-hearts-square",
+    "https://www.ravelry.com/patterns/library/cat-square-2/threads"
+  ],
+  "name": "Ravelry: Cat Square pattern by Daisy and Storm"
 }

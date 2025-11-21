@@ -1,44 +1,41 @@
 {
   "pattern_id": 99,
-  "pattern_page": "https://www.ravelry.com/patterns/library/play-cubes",
+  "pattern_page": "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+  "name": "Izzy Teddy Bear Dolls",
+  "description": "Add personality to your charity knitting project with instructions for knitting in the round, four sweater options, and bear ears.",
+  "designer": "Esther Braithwaite",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "languages": [
-    "Dutch",
-    "English",
-    "French",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Rowan Handknit Cotton",
-    "DK (11 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Knit Picks Brava Sport"
   ],
   "attributes": [
-    "pockets",
-    "seamed",
-    "stripes"
+    "cables",
+    "chart",
+    "in-the-round",
+    "phototutorial",
+    "written-pattern"
   ],
-  "full_text": "Rowan International Members pattern for March 2005 Description from book: These cubes are the perfect height for toddlers to sit on and have a useful side pocket for storing books and toys. They are fun and functional and can be stacked to save space. Errata Play cubes Basic square – use 4mm (US 6) needles",
+  "full_text": "Add personality to your charity knitting project with instructions for knitting in the round, four sweater options, and bear ears. For more information about the history and legacy of Izzy Dolls in Canada please visit: www.hpicanada.ca",
   "techniques": [],
-  "shape": "cube",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/play-cubes/editors",
-    "https://www.ravelry.com/patterns/library/play-cubes/yarns",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/discuss/pattern-errata-and-mods/713179/1-25",
-    "https://www.ravelry.com/patterns/library/play-cubes/people",
-    "https://www.ravelry.com/patterns/sources/nursery-knits-zoe-mellor",
-    "https://web.archive.org/web/20051103005525/http://www.knitrowan.com/images/freepattern/playcubes_mar_05.pdf",
-    "https://www.ravelry.com/patterns/library/my-own-puppet-theatre",
-    "https://www.ravelry.com/patterns/library/play-cubes/edit",
-    "https://www.ravelry.com/patterns/sources/rowan-subscriptions-members",
-    "https://www.ravelry.com/patterns/library/snowflake-hat-7",
-    "https://www.ravelry.com/patterns/library/play-cubes",
-    "https://www.ravelry.com/patterns/library/play-cubes/comments",
-    "https://www.ravelry.com/patterns/library/play-cubes/report",
-    "https://www.ravelry.com/patterns/library/chunky-cabled-sweater",
-    "https://www.ravelry.com/patterns/sources/the-big-book-of-kids-knits"
-  ],
-  "name": "Ravelry: Play Cubes pattern by Zoë Mellor"
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/report",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/editors",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/posts",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/threads",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/comments",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/yarns",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/people",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls"
+  ]
 }

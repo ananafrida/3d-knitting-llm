@@ -1,40 +1,49 @@
 {
   "pattern_id": 1008,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hackey-sacks-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/book-of-knitty",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Lily (Spinrite) Sugar'n Cream Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "3-dimensional",
-    "one-piece",
+    "cables",
+    "chart",
+    "dropped-stitches",
+    "duplicate-stitch",
+    "embroidery",
+    "eyelets",
+    "in-the-round",
+    "other-colorwork",
+    "rectangle",
+    "ribbed",
     "seamed",
-    "sphere-shaped",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "My son wanted to sell hackey sacks at his school fair and after many attempts at getting the size correct this is the pattern for them. I stuffed them with bear pellets, available from craft shops, you could use beans, rice or wheat. A bit of patience is required with the first few rows, knitting a bit looser than normal helps until all the stitches are increased. A great pattern for using up those scraps of leftover yarns.",
+  "full_text": "",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/shazzas-patterns",
-    "https://www.ravelry.com/patterns/library/hackey-sacks-2/editors",
-    "https://www.ravelry.com/patterns/library/hackey-sacks-2/comments",
-    "https://www.ravelry.com/patterns/library/hackey-sacks-2",
-    "https://www.ravelry.com/patterns/library/hackey-sacks-2/threads",
-    "http://shazzaspatterns.blogspot.com/2005/11/hackey-sacks.html",
-    "https://www.ravelry.com/patterns/library/golf-club-covers-20",
-    "https://www.ravelry.com/patterns/library/hackey-sacks-2/report",
-    "https://www.ravelry.com/patterns/library/shazzas-socks",
-    "https://www.ravelry.com/patterns/library/hackey-sacks-2/people",
-    "https://www.ravelry.com/patterns/library/shazzas-bucket-hat",
-    "https://www.ravelry.com/patterns/library/hackey-sacks-2/yarns"
+    "https://www.ravelry.com/patterns/library/book-of-knitty/threads",
+    "https://www.ravelry.com/patterns/library/book-of-knitty/report",
+    "https://www.ravelry.com/patterns/library/grow-with-me",
+    "https://www.ravelry.com/patterns/library/book-of-knitty/posts",
+    "https://www.ravelry.com/patterns/library/cloverly",
+    "https://www.ravelry.com/patterns/library/book-of-knitty/yarns",
+    "https://www.ravelry.com/patterns/library/book-of-knitty",
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2006",
+    "https://www.ravelry.com/patterns/library/halweh",
+    "https://www.ravelry.com/patterns/library/book-of-knitty/comments",
+    "https://www.ravelry.com/patterns/library/book-of-knitty/people",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/book-of-knitty/editors"
   ],
-  "name": "Ravelry: Hackey Sacks pattern by Sharon - Shazzas Knits"
+  "name": "Ravelry: Book of Knitty pattern by Laura Brown"
 }

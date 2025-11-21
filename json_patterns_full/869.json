@@ -1,46 +1,41 @@
 {
   "pattern_id": 869,
-  "pattern_page": "https://www.ravelry.com/patterns/library/irish-hiking-scarf",
-  "name": "Irish Hiking Scarf",
-  "description": "This is a great beginner cabling pattern.",
-  "designer": "Adrian Bizilia",
+  "pattern_page": "https://www.ravelry.com/patterns/library/arbor-blanket",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "approx. 5 ½\" x 55\"",
+  "category": "Blanket → Throw Blanket → Baby Blanket",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "Crib (Throw)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Purl Soho Cotton Pure"
   ],
   "attributes": [
-    "adult",
-    "cables",
-    "child",
+    "bottom-up",
+    "chart",
     "one-piece",
+    "rectangle",
     "seamless",
-    "teen",
-    "unisex",
+    "textured",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This is a great beginner cabling pattern. Size 8 US needles and a cable needle or one double pointed needle Adrian says, “Feel free to use chubbier yarn and/or larger needles to make a giant scarf. It will look just as lovely!”",
+  "full_text": "MATERIALS To make one Throw size or two Crib size blankets, you’ll need… 1 Cotton Pure On A Cone , 100% organically grown cotton. Each cone is approximately 2,789 yards/ 1 kg; approximately 1,116 (2,647) yards required. We used the color Moonflower Blue for the Crib size and Heirloom White for the Throw. US 3 (3.25 mm), 32- or 40-inch circular needles PLEASE NOTE: If you want to make just one Crib Blanket, you’ll need 4 skeins of Purl Soho’s Cotton Pure . Or if you want to make the Throw but prefer skeins, you’ll need 10. GAUGE 22 stitches and 37 rows = 4 inches in brocade stitch 24 stitches and 36 rows = 4 inches in stockinette stitch SIZES Crib (Throw) Finished Dimensions: 29¾ inches wide x 36 inches long (40½ inches wide x 56 inches long) NOTES This pattern works over a multiple of 12 + 7 stitches. Designed by Purl Soho designer, Jake Canton . Click here to see even more of Jake’s designs!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fiddlehead-mittens",
-    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/people",
-    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/posts",
-    "https://www.ravelry.com/patterns/sources/hello-yarn",
-    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/editors",
-    "https://www.ravelry.com/patterns/library/fulled-lopi-tote",
-    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/report",
-    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/comments",
-    "https://www.ravelry.com/patterns/library/irish-hiking-scarf",
-    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/threads",
-    "https://www.ravelry.com/patterns/library/we-call-them-pirates",
-    "https://www.ravelry.com/patterns/library/irish-hiking-scarf/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/arbor-blanket",
+    "https://www.ravelry.com/patterns/library/arbor-blanket/report",
+    "https://www.ravelry.com/patterns/library/arbor-blanket/editors",
+    "https://www.ravelry.com/patterns/library/arbor-blanket/comments",
+    "https://www.ravelry.com/patterns/library/woodcut-blanket",
+    "https://www.ravelry.com/patterns/library/embossed-triangles-blanket",
+    "https://www.ravelry.com/patterns/library/arbor-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/arbor-blanket/people",
+    "https://www.ravelry.com/patterns/library/stripes--blocks-towel-set",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: Arbor Blanket pattern by Purl Soho"
 }

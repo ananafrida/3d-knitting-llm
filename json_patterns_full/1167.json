@@ -1,41 +1,40 @@
 {
   "pattern_id": 1167,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
-  "name": "Cozy Izzy Dolls",
-  "description": "Construction",
-  "designer": "Esther Braithwaite",
+  "pattern_page": "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
+  "name": "Ginkgo Leaf",
+  "description": "The ginkgo (or gingko) is such an odd tree, it’s considered a living fossil! The ginkgo is a symbol of many good things: hope, resilience (a ginkgo survived an atomic bomb with little damage), peace, longevity (a ginkgo can live 1000 years), strength, a time of balance and control, etc.",
+  "designer": "Vicki Monthei",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "sizes_available": "Fingering 4 3/4\"; DK/Sport 5 1/4\"; Worsted 6\"",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "NA",
   "languages": [
     "English"
   ],
+  "suggested_yarn": [
+    "Koigu Premium Merino (KPM)",
+    "Fingering (14 wpi) ?"
+  ],
   "attributes": [
-    "bottom-up",
-    "cables",
-    "chart",
-    "in-the-round",
     "one-piece",
-    "worked-flat",
-    "written-pattern"
+    "selvedge",
+    "short-rows",
+    "sideways",
+    "worked-flat"
   ],
-  "full_text": "Construction Cozy Izzy Dolls are knit in one piece from the bottom-up. The doll’s body can be knit flat on straight needles and seamed, or knit in the round on dpns. The turtleneck is optional and worked from stitches picked up around the neck. Simple sewing techniques are used to define the arms and legs after knitting. Gauge Exact gauge is not important. Choose a needle 2 or 3 sizes smaller than recommended on the ball band to create a dense fabric that will keep the stuffing hidden",
-  "techniques": [
-    "bottom-up",
-    "seamed"
-  ],
-  "shape": "sphere",
+  "full_text": "The ginkgo (or gingko) is such an odd tree, it’s considered a living fossil! The ginkgo is a symbol of many good things: hope, resilience (a ginkgo survived an atomic bomb with little damage), peace, longevity (a ginkgo can live 1000 years), strength, a time of balance and control, etc. This pattern works up quickly with very little yarn. It’s a great way to use up bits of yarn in your stash. A knit ginkgo leaf would make a great decoration on keyrings, backpacks, gift boxes or bags. The leaf is 3.75 inches wide and 2.5 inches long blocked to gauge without the stem. It takes less than 2 hours to knit a leaf. Skills needed: cast on, slip, knit, German turn (or use your favorite turn technique) and bind off in knit stitch. Optional: I-cord stem Gauge is not important in this pattern. Any block-able yarn/thread will work. Make a swatch to check gauge and appearance. 14 yards of Koigu’s KPM or KPPPM yarn will make 1 leaf with stem at gauge.",
+  "techniques": [],
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/comments",
-    "https://www.ravelry.com/patterns/library/flower-girls",
-    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/threads",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/yarns",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/editors",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/report",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls/people",
-    "https://www.ravelry.com/patterns/library/mini-snowbuddies",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store"
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/report",
+    "https://www.ravelry.com/patterns/library/falling-leaves-ii-afghan",
+    "https://www.ravelry.com/patterns/library/apple-leaf-edging",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/people",
+    "https://www.ravelry.com/patterns/library/cape-sweet-pea-leaf",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/yarns",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/comments",
+    "https://www.ravelry.com/patterns/sources/vicki-montheis-ravelry-store",
+    "https://www.ravelry.com/patterns/library/ginkgo-leaf-5/editors"
   ]
 }

@@ -1,38 +1,41 @@
 {
   "pattern_id": 1144,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bevs-top-down-gnome",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-flower-tutorial",
+  "name": "Knitted Flower Tutorial",
+  "description": "Photo tutorial for making a simple knitted flower from yarn scraps.",
+  "designer": "Julie Taylor",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "6 cms (2.5\") diameter",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "top-down",
+    "phototutorial",
+    "seamed",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The gnome takes less than two ounces of yarn in two colors (less than one ounce of each color). Quick to make and perfect for stocking stuffers, for a travel toy, Church toy, small enough to fit in a pocket.",
+  "full_text": "Photo tutorial for making a simple knitted flower from yarn scraps.",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bevs-top-down-gnome",
-    "https://www.ravelry.com/patterns/library/bevs-top-down-gnome/comments",
-    "https://www.ravelry.com/patterns/library/bevs-top-down-gnome/yarns",
-    "https://www.ravelry.com/patterns/library/bevs-top-down-gnome/editors",
-    "https://www.ravelry.com/patterns/library/bevs-really-basic-stretchy-hat",
-    "https://www.ravelry.com/patterns/library/bevs-turn-on-itself-potholder",
-    "https://www.ravelry.com/patterns/library/bevs-top-down-gnome/edit",
-    "https://www.ravelry.com/patterns/library/bevs-top-down-gnome/people",
-    "https://www.ravelry.com/patterns/library/bevs-top-down-gnome/report",
-    "https://www.ravelry.com/patterns/library/bevs-top-down-gnome/threads",
-    "https://www.ravelry.com/patterns/library/aunt-maggies-slippers",
-    "https://www.ravelry.com/patterns/sources/bevs-country-cottage",
-    "https://www.ravelry.com/patterns/library/bevs-top-down-gnome/posts"
-  ],
-  "name": "Ravelry: Bev's Top Down Gnome pattern by Beverly A. Qualheim"
+    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/yarns",
+    "https://www.ravelry.com/patterns/library/mia-chunky-lace-hat-with-flower",
+    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial",
+    "https://www.ravelry.com/patterns/sources/lovefibres",
+    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/threads",
+    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/comments",
+    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/report",
+    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/people",
+    "https://www.ravelry.com/patterns/library/knitted-flower-tutorial/editors",
+    "https://www.ravelry.com/patterns/library/marlow-baby-boots",
+    "http://www.lovefibres.com/free-patterns.html",
+    "https://www.ravelry.com/patterns/library/entrelac-baby-blanket-7"
+  ]
 }

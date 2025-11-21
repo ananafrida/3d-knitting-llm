@@ -1,43 +1,46 @@
 {
   "pattern_id": 418,
-  "pattern_page": "https://www.ravelry.com/patterns/library/patchwork-jacket-8",
+  "pattern_page": "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking",
+  "name": "Holiday Cheer Mini Stocking",
+  "description": "A cute mini stocking that will complement the previously released mini hat, mitt, and sweater patterns. Mix and match your colors and create a beautiful garland. Happy Holidays!",
+  "designer": "Nancy Ekvall",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
-  "sizes_available": "finished bust 42\"",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "3\" x 3½”",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand From the Vault: Jiffy Bonus Bundle.",
-    "Bulky (7 wpi) ?"
+    "Worsted (9 wpi) ?",
+    "Blue Sky Fibers Woolstok Bundle"
   ],
   "attributes": [
-    "adult",
-    "long-sleeve",
-    "positive-ease",
-    "seamed",
-    "textured",
-    "worked-flat",
+    "in-the-round",
+    "stripes-colorwork",
     "written-pattern"
   ],
-  "full_text": "Finished Bust About 42 in. (106.5 cm) Finished Length About 21 in. (53.5 cm) Pattern calls for 4 different colors of Lion Brand Jiffy Bonus Bundle Yarn Gauge: •17 stitches and 26 rows = 5” square, worked in seed stitch. •1 Square = about 5 x 5 in. (12 cm), with 7 in. (18 cm) diagonal. •1 Triangle = about 7 in. (18 cm) along longest edge and 5 in. (12.5 cm) along each short edge.",
+  "full_text": "A cute mini stocking that will complement the previously released mini hat , mitt , and sweater patterns. Mix and match your colors and create a beautiful garland. Happy Holidays! EXPERIENCE LEVEL: Advanced Beginner MATERIALS * WOOLSTOK (WORSTED) BUNDLE (100% Fine Highland Wool, 21 mini hanks; 5g/12 yards): 1 bundle (Holiday Cheer) FINISHED MEASURMENTS: CIRCUMFERENCE: 3” HEIGHT: 3½” (cuff to toe) COLORS SHOWN: Cast Iron No. 1300 Gravel Road No. 1302 Highland Fleece No. 1303 Wild Thyme No. 1306 Earth Ivy No. 1309 Cranberry Compote No. 1310 Red Rock No. 1315",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
-    "https://www.ravelry.com/patterns/library/patchwork-jacket-8/threads",
-    "https://www.ravelry.com/patterns/library/patchwork-jacket-8/comments",
-    "https://www.ravelry.com/patterns/library/patchwork-jacket-8/people",
-    "https://www.ravelry.com/patterns/library/diagonal-eyelet-baby-blanket-2",
-    "https://www.ravelry.com/patterns/library/patchwork-jacket-8/report",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "https://www.ravelry.com/patterns/library/patchwork-jacket-8",
-    "https://www.ravelry.com/patterns/library/patchwork-jacket-8/edit",
-    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
-    "https://www.ravelry.com/patterns/library/patchwork-jacket-8/editors",
-    "https://www.ravelry.com/patterns/library/patchwork-jacket-8/yarns"
-  ],
-  "name": "Ravelry: Patchwork Jacket pattern by Lion Brand Yarn"
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-bundle-patterns",
+    "https://www.ravelry.com/patterns/library/lyle-cap",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/editors",
+    "https://www.ravelry.com/patterns/library/fall-festival-mini-pumpkins",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-website",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/comments",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/edit",
+    "https://www.ravelry.com/patterns/sources/blue-sky-fibers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-mitt",
+    "https://www.ravelry.com/patterns/library/pumpkin-patch-26",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/yarns",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/report",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/threads",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-hat",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking/people",
+    "https://www.ravelry.com/patterns/periodicals/blue-sky-fibers",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-sweater",
+    "https://www.ravelry.com/patterns/library/holiday-cheer-mini-stocking"
+  ]
 }

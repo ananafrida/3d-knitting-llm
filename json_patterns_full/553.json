@@ -1,43 +1,41 @@
 {
   "pattern_id": 553,
-  "pattern_page": "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls",
+  "name": "Stash Busting Project Bags & Bowls",
+  "description": "One of our customers described this pattern as the “Mother Load” of bags and bowls. There are six patterns included, two bowls, two single handled bags, and two 2-handled bags.",
+  "designer": "Molly Conroy",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "30\"x32\"",
-  "languages": [
-    "English"
-  ],
+  "category": "Bag → Tote Containers",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "sizes_available": "Extra Small to Extra Large",
   "suggested_yarn": [
-    "Orange Flower Yarn DK 250",
-    "DK (11 wpi) ?"
+    "yarn held together",
+    "Malabrigo Yarn Chunky"
   ],
   "attributes": [
-    "chart",
+    "bottom-up",
+    "felted",
     "one-piece",
-    "rectangle",
-    "ribbed",
-    "textured",
-    "worked-flat",
+    "seamless",
+    "stripes-colorwork",
+    "three-needle-bind",
     "written-pattern"
   ],
-  "full_text": "A free pattern for a baby blanket in garter rib. Requires approx. 680 yards for a finished size of 30”x32” This free pattern is for personal, non-commercial use only. You may not sell, reproduce, or distribute the pattern. You may sell items made from this pattern for charity auctions or fund raisers.",
+  "full_text": "One of our customers described this pattern as the “Mother Load” of bags and bowls. There are six patterns included, two bowls, two single handled bags, and two 2-handled bags. They are all designed to use up your stash of left over feltable yarn. The pattern is designed for bulky yarn but you can always substitute two strands of worsted weight held together. The patterns are designed for weight of yarn rather than yardage so it takes most of the guesswork out. So grab your kitchen scale and get started! They are all quick and easy projects. Some have suggested striping but feel free to just do your own thing!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/people",
-    "https://www.orangefloweryarn.com/free-patterns-1",
-    "https://www.ravelry.com/patterns/library/the-age-of-brass-and-steam-kerchief",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/simple-ribbed-cowl",
-    "https://www.ravelry.com/patterns/library/duotone-cowl",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/sources/orange-flower-yarn",
-    "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket/posts"
-  ],
-  "name": "Ravelry: Garter Rib Baby Blanket pattern by Orange Flower Yarn"
+    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/threads",
+    "https://www.ravelry.com/patterns/library/rasta-drop-stitch-scarf",
+    "https://www.ravelry.com/patterns/library/latvian-braid-hat-2",
+    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/report",
+    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/editors",
+    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/yarns",
+    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/people",
+    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/comments",
+    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls",
+    "https://www.ravelry.com/patterns/sources/mollyconroy-ravelry-store",
+    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/posts",
+    "https://www.ravelry.com/patterns/library/basic-beanie-55"
+  ]
 }

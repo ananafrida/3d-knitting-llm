@@ -1,39 +1,44 @@
 {
   "pattern_id": 675,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pajaki",
-  "name": "Pajaki",
-  "description": "This pattern is available free with yarn purchase at ReBelle in Lexington, Ky.",
-  "designer": "Robyn Wade",
+  "pattern_page": "https://www.ravelry.com/patterns/library/play-cubes",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "13\", 15\", 18\", 20\" head circumference",
+  "category": "Blocks",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
-    "English"
+    "Dutch",
+    "English",
+    "French",
+    "German"
   ],
   "suggested_yarn": [
-    "Adriafil Knitcol",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Rowan Handknit Cotton"
   ],
   "attributes": [
-    "baby",
-    "child",
-    "newborn-size",
-    "toddler"
+    "pockets",
+    "seamed",
+    "stripes"
   ],
-  "full_text": "This pattern is available free with yarn purchase at ReBelle in Lexington, Ky.",
+  "full_text": "Rowan International Members pattern for March 2005 Description from book: These cubes are the perfect height for toddlers to sit on and have a useful side pocket for storing books and toys. They are fun and functional and can be stacked to save space. Errata Play cubes Basic square – use 4mm (US 6) needles",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pajaki/comments",
-    "https://www.ravelry.com/patterns/library/pajaki/people",
-    "https://www.ravelry.com/patterns/library/pajaki/editors",
-    "https://www.ravelry.com/patterns/library/pajaki/report",
-    "https://www.ravelry.com/patterns/library/faux-crame-propagation-station",
-    "https://www.ravelry.com/patterns/library/classic-winter-wonderland-hat",
-    "https://www.ravelry.com/patterns/library/last-minute-waldo",
-    "https://www.ravelry.com/patterns/library/pajaki",
-    "https://www.ravelry.com/patterns/sources/pajaki",
-    "https://www.ravelry.com/patterns/library/pajaki/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/play-cubes/edit",
+    "https://www.ravelry.com/patterns/library/chunky-cabled-sweater",
+    "https://www.ravelry.com/patterns/sources/the-big-book-of-kids-knits",
+    "https://www.ravelry.com/patterns/library/snowflake-hat-7",
+    "https://www.ravelry.com/patterns/library/play-cubes/people",
+    "https://www.ravelry.com/patterns/library/play-cubes/comments",
+    "https://www.ravelry.com/patterns/sources/nursery-knits-zoe-mellor",
+    "https://www.ravelry.com/patterns/sources/rowan-subscriptions-members",
+    "https://www.ravelry.com/patterns/library/play-cubes/yarns",
+    "https://web.archive.org/web/20051103005525/http://www.knitrowan.com/images/freepattern/playcubes_mar_05.pdf",
+    "https://www.ravelry.com/patterns/library/play-cubes/editors",
+    "https://www.ravelry.com/discuss/pattern-errata-and-mods/713179/1-25",
+    "https://www.ravelry.com/patterns/library/my-own-puppet-theatre",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/play-cubes",
+    "https://www.ravelry.com/patterns/library/play-cubes/report"
+  ],
+  "name": "Ravelry: Play Cubes pattern by Zoë Mellor"
 }

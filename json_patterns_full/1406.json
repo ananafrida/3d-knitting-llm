@@ -1,49 +1,42 @@
 {
   "pattern_id": 1406,
-  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-caramel",
-  "name": "Christmas Caramel",
-  "description": "The Christmas Caramel is worked in the round on double-pointed needles or using the Magic Loop technique. At the end the caramel is stuffed with yarn scraps or filling.",
-  "designer": "PetiteKnit",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sweet-heart-2",
+  "name": "sweet heart",
+  "description": "This is a mini heart: finished measurements aprox. 5cm/ 6cm. It could be made into jewelry or given to your sweetie!",
+  "designer": "The Knit Cafe Toronto",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "One size",
+  "category": "Softies → Other",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
-    "Danish",
-    "English",
-    "German",
-    "Italian",
-    "Norwegian",
-    "Swedish",
-    "...and 6 other languages show hide other languages",
-    "...and 6 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Filcolana Peruvian",
-    "Worsted (9 wpi) ?"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
+    "3-dimensional",
+    "bottom-up",
     "in-the-round",
-    "stripes-colorwork"
+    "kitchener",
+    "seamed",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "The Christmas Caramel is worked in the round on double-pointed needles or using the Magic Loop technique. At the end the caramel is stuffed with yarn scraps or filling. Length: 10 cm [4 inches] Needles: 3 mm [US2½] double-pointed needles or a long circular needle for Magic Loop Materials: Double Sunday by Sandnes Garn (50 g = 108 m [118 yds]) or Heavy Merino by Knitting for Olive (50 g = 125 m [137 yds]) or Peruvian Highland Wool by Filcolana (50 g = 100 m [109 yds]) Approx. 6-10 g for main color (light) and approx. 3-5 g for stripe color (dark), optionally filling Difficulty: ★ ★ (2 out of 5) See the classification of difficulty here. The white and blue Christmas Caramel is knitted in Double Sunday by Sandnes Garn in the colors Almond [2511] and Night sky [5591]. The white and green Christmas Caramel is knitted in Double Sunday by Sandnes Garn in the colors Almond [2511] and Matcha [9564]. The white and pink Christmas Caramel is knitted in Double Sunday by Sandnes Garn in the colors Almond [2511] and Shocking pink [4626]. The white and burgundy Christmas Caramel is knitted in Heavy Merino by Knitting for Olive in the colors Hvede and Bordeaux.",
-  "techniques": [
-    "worked in the round"
-  ],
-  "shape": "sphere",
+  "full_text": "This is a mini heart: finished measurements aprox. 5cm/ 6cm. It could be made into jewelry or given to your sweetie!",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/december-bow",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/report",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/threads",
-    "https://www.ravelry.com/patterns/library/florence-bag",
-    "https://www.ravelry.com/patterns/sources/petiteknit-ravelry-store",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/yarns",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/editors",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/posts",
-    "https://www.ravelry.com/patterns/library/christmas-caramel",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/comments",
-    "https://www.ravelry.com/patterns/library/honey-clutch",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/people"
+    "https://www.ravelry.com/patterns/library/easy-hat",
+    "https://www.ravelry.com/patterns/library/504-king-west",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/people",
+    "https://www.ravelry.com/patterns/library/curious",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/editors",
+    "https://www.ravelry.com/patterns/sources/the-knit-cafe-toronto-on-ravelry",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/comments",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/yarns",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/threads",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2",
+    "https://www.ravelry.com/patterns/library/sweet-heart-2/report"
   ]
 }

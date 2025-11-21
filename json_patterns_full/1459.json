@@ -1,45 +1,38 @@
 {
   "pattern_id": 1459,
-  "pattern_page": "https://www.ravelry.com/patterns/library/stjarna",
-  "name": "Stjärna",
-  "description": "FAQ:",
-  "designer": "Karolina Eckerdal",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-gallivanter-bag",
+  "name": "The Gallivanter Bag",
+  "description": "Gallivanter is a small cross-body or neck pouch to knit up a couple nights before a trip – or simply use as a handy pouch in your daily life. Designed to fit a large passport wallet and a phone. This pattern is simple enough to personalize and make the bag size you prefer.",
+  "designer": "Anna Kwon",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "? 2.5 inches /6.5 cm from tip to centre",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "OS",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Merino Extra Fine",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Malabrigo Yarn Silky Merino"
   ],
   "attributes": [
-    "3-dimensional",
-    "chart",
-    "in-the-round",
-    "one-piece",
-    "phototutorial",
-    "seamless",
-    "star-shaped",
+    "buttonholes",
+    "icord",
+    "seamed",
+    "selvedge",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "FAQ: Q: Can I use cast-on method X instead? A: As described in the pattern – use your preferred provisional cast-on method if you do not mind the half stitch offset. If you do mind, the pattern offers one method to make the stitches line up. Another method would be to use any stretchy cast-on for the first half, then pick up one stitch through center of each cast-on stitch for the other half – this is tricky since you will pick up through decreased stitches, but possible. Q: Why does the given stitch count on each DPN not add up to the number of cast on stitches? A: As described in the pattern – for the Two way cast-on you work a decrease round (round 1) before the DPN stitch count is given. The star can be knit in other gauge, the finished size will then be different. Any yarnweight knit at a firm enough gauge, so that it can hold the stuffing, could be used. Needles US 2½ / 3 mm circular 24 inches / 60 cm US 2½ / 3 mm double pointed needles, set of six tapestry needle & stuffing Thank you to http://www.ravelry.com/people/MGMills for testknitting and much appreciated help with editing the pattern!",
+  "full_text": "Gallivanter is a small cross-body or neck pouch to knit up a couple nights before a trip – or simply use as a handy pouch in your daily life. Designed to fit a large passport wallet and a phone. This pattern is simple enough to personalize and make the bag size you prefer. Skill Level : Beginner Yarn : Malabrigo Silky Merino (51% Silk, 49% Wool – Merino; 150 yds 155m / 50 g) Shade: Tatami 431; 1 skein Or DK weight yarn of choice Needles : Straight or circular needles in size US 6 (4 mm) One set double-pointed needles in size US 6 (4 mm) Or size to obtain gauge Notions : Locking stitch marker Tapestry needle Large button (sample button = 2.4cm) Gauge : 21.5 sts and 41 rows = 4” (10 cm) in seed stitch pattern, after blocking Notes : Front and back are worked separately, then mattress-stitched together. The back is made identical to the front, then extended for the flap. The first and last stitch of each row make up the selvedge stitches for sewing the pieces together. For the strap, stitches are picked up at one side edge and worked using I-cord method until desired length, then sewn onto the remaining side edge.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/karolina-eckerdals-ravelry-store",
-    "https://www.ravelry.com/patterns/library/parure",
-    "https://www.ravelry.com/patterns/library/stjarna/comments",
-    "https://www.ravelry.com/patterns/library/stjarna/yarns",
-    "https://www.ravelry.com/patterns/library/stjarna/people",
-    "https://www.ravelry.com/patterns/library/stjarna/threads",
-    "https://www.ravelry.com/patterns/library/stjarna/editors",
-    "https://www.ravelry.com/patterns/library/cornflower-shawl",
-    "https://www.ravelry.com/patterns/library/stjarna/report",
-    "https://www.ravelry.com/patterns/library/stjarna/posts",
-    "https://www.ravelry.com/patterns/library/hepworth-2",
-    "https://www.ravelry.com/patterns/library/stjarna"
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/comments",
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/editors",
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/people",
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/report",
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag",
+    "https://www.ravelry.com/patterns/sources/anna-kwon",
+    "https://www.ravelry.com/patterns/library/the-gallivanter-bag/yarns"
   ]
 }

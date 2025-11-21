@@ -1,36 +1,43 @@
 {
   "pattern_id": 2175,
-  "pattern_page": "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark",
-  "name": "A hoodie for a toy shark",
-  "description": "Pattern design in progress",
-  "designer": "Jane Anders",
+  "pattern_page": "https://www.ravelry.com/patterns/library/troll-2",
+  "name": "Troll",
+  "description": "Troll is a easy and quick knitted hat for your little troll ;-)",
+  "designer": "Gabriela Widmer-Hanke",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
+  "category": "Hat → Pixie",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "Baby (Toddler, Child)",
   "languages": [
-    "English"
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "King Cole Big Value Super Chunky Solid"
+    "Aran (8 wpi) ?",
+    "madelinetosh Tosh Chunky"
   ],
   "attributes": [
-    "hood",
-    "kitchener",
+    "baby",
+    "bottom-up",
+    "child",
+    "positive-ease",
     "written-pattern"
   ],
-  "full_text": "Pattern design in progress",
+  "full_text": "Troll is a easy and quick knitted hat for your little troll ;-) It is knitted in rounds from bottom up in stockinet sts. Sizes: Baby (Toddler, Child) Yarn: approx 90 (110, 130) m of aran weight yarn. Errata: decrease Row 4 : k 5 (6, 7) not 5 (5, 6)",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/comments",
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/people",
-    "https://www.ravelry.com/patterns/library/basic-woven-scarf",
-    "https://www.ravelry.com/patterns/sources/jane-anders-ravelry-store",
-    "https://www.ravelry.com/patterns/library/icelandic-not-a-tote-handbag",
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/report",
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/editors",
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark",
-    "https://www.ravelry.com/patterns/library/a-hoodie-for-a-toy-shark/yarns"
+    "https://www.ravelry.com/patterns/library/wickeljacke-4",
+    "https://www.ravelry.com/patterns/library/troll-2/threads",
+    "https://www.ravelry.com/patterns/library/troll-2/editors",
+    "https://www.ravelry.com/patterns/library/troll-2/people",
+    "https://www.ravelry.com/patterns/library/troll-2",
+    "https://www.ravelry.com/patterns/library/troll-2/comments",
+    "https://www.ravelry.com/patterns/library/troll-2/report",
+    "https://www.ravelry.com/patterns/library/berry-hat-2",
+    "https://www.ravelry.com/patterns/library/bommelmutze",
+    "https://www.ravelry.com/patterns/library/troll-2/yarns",
+    "https://www.ravelry.com/patterns/sources/gabriela-widmer-hankes-ravelry-store",
+    "https://www.ravelry.com/patterns/library/troll-2/posts"
   ]
 }

@@ -1,56 +1,49 @@
 {
   "pattern_id": 434,
-  "pattern_page": "https://www.ravelry.com/patterns/library/im-the-dude-jacket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-caramel",
+  "name": "Christmas Caramel",
+  "description": "The Christmas Caramel is worked in the round on double-pointed needles or using the Magic Loop technique. At the end the caramel is stuffed with yarn scraps or filling.",
+  "designer": "PetiteKnit",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "XS/S, M, L, XL, 2/3XL, 4/5XL",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "One size",
   "languages": [
-    "English"
+    "Danish",
+    "English",
+    "German",
+    "Italian",
+    "Norwegian",
+    "Swedish",
+    "...and 6 other languages show hide other languages",
+    "...and 6 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Bernat Roving"
+    "Filcolana Peruvian",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "Intarsia",
-    "adult",
-    "chart",
-    "long-sleeve",
-    "petite",
-    "plus",
-    "positive-ease",
-    "raglan-sleeve",
-    "seamed",
-    "set-in-pocket",
-    "shawl",
-    "stripes-colorwork",
-    "unisex",
-    "worked-flat",
-    "written-pattern",
-    "zipper"
+    "in-the-round",
+    "stripes-colorwork"
   ],
-  "full_text": "Skill Level: Intermediate Sizes: Size / To fit chest measurement / Finished chest XS/S / 28-34” [71-86.5 cm] / 40” [101.5 cm] M / 36-38” [91.5-96.5 cm] / 44” [112 cm] L / 40-42” [101.5-106.5 cm] / 48” [122 cm] XL / 44-46” [112-117 cm] / 50” [127 cm] 2/3XL / 48-54” [122-137 cm] / 58” [147.5 cm] 4/5XL / 56-62” [142-157.5 cm] / 64” [162.5 cm] Materials: Bernat® Roving (100 g/3.5 oz; 109 m/120 yds) XS/S, M, L, XL, 2/3XL, 4/5XL Her Version: Main Color (MC): Rice Paper (00100) 4, 4, 5, 5, 5, 6 balls Contrast A: Cork (00021) 4, 4, 5, 5, 5, 6 balls Contrast B: Bark (00011) 2, 2, 2, 2, 3, 3 balls His Version: Main Color (MC): Rice Paper (00100) 4, 4, 5, 5, 5, 6 balls Contrast A: Putty (00032) 4, 4, 5, 5, 5, 6 balls Contrast B: Flint (00033) 2, 2, 2, 2, 3, 3 balls Additional Materials: 3 stitch holders Separating zipper See also: His and Hers Thunderbird Hat",
-  "techniques": [],
+  "full_text": "The Christmas Caramel is worked in the round on double-pointed needles or using the Magic Loop technique. At the end the caramel is stuffed with yarn scraps or filling. Length: 10 cm [4 inches] Needles: 3 mm [US2½] double-pointed needles or a long circular needle for Magic Loop Materials: Double Sunday by Sandnes Garn (50 g = 108 m [118 yds]) or Heavy Merino by Knitting for Olive (50 g = 125 m [137 yds]) or Peruvian Highland Wool by Filcolana (50 g = 100 m [109 yds]) Approx. 6-10 g for main color (light) and approx. 3-5 g for stripe color (dark), optionally filling Difficulty: ★ ★ (2 out of 5) See the classification of difficulty here. The white and blue Christmas Caramel is knitted in Double Sunday by Sandnes Garn in the colors Almond [2511] and Night sky [5591]. The white and green Christmas Caramel is knitted in Double Sunday by Sandnes Garn in the colors Almond [2511] and Matcha [9564]. The white and pink Christmas Caramel is knitted in Double Sunday by Sandnes Garn in the colors Almond [2511] and Shocking pink [4626]. The white and burgundy Christmas Caramel is knitted in Heavy Merino by Knitting for Olive in the colors Hvede and Bordeaux.",
+  "techniques": [
+    "worked in the round"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/comments",
-    "https://www.ravelry.com/patterns/library/little-gnome-hat-4",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/report",
-    "http://www.ravelry.com/patterns/library/his-and-hers-thunderbird-hat",
-    "https://www.ravelry.com/patterns/library/garter-stitch-corner-to-corner-blanket",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/people",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/editors",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/threads",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/edit",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/posts",
-    "https://www.ravelry.com/patterns/sources/bernat-free-ebook-featuring-bernat-roving-fall-2010",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket/yarns",
-    "https://www.ravelry.com/patterns/library/star-blanket-6",
-    "https://www.ravelry.com/patterns/library/im-the-dude-jacket",
-    "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw7e5d4952/PDF/BRK0429-007572M.pdf"
-  ],
-  "name": "Ravelry: I'm the Dude Jacket pattern by Bernat Design Studio"
+    "https://www.ravelry.com/patterns/library/christmas-caramel",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/posts",
+    "https://www.ravelry.com/patterns/library/honey-clutch",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/threads",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/people",
+    "https://www.ravelry.com/patterns/library/florence-bag",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/report",
+    "https://www.ravelry.com/patterns/library/december-bow",
+    "https://www.ravelry.com/patterns/sources/petiteknit-ravelry-store",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/comments",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/editors",
+    "https://www.ravelry.com/patterns/library/christmas-caramel/yarns"
+  ]
 }

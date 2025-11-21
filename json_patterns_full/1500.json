@@ -1,38 +1,50 @@
 {
   "pattern_id": 1500,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gnome-for-the-holidays-3",
-  "name": "Gnome for the Holidays",
-  "description": "A cute little gnomie to hang out with this holiday season!",
-  "designer": "Valerie Johnson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/amandas-squatty-sidekick",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "sizes_available": "Finished size approximately 4.5\"x10\"x 2\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Wandering Cat Yarns Stray Cat",
-    "Sport (12 wpi) ?"
+    "Manos del Uruguay Wool Clasica",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
+    "felted",
+    "female",
+    "halfcircle-shape",
+    "icord",
     "in-the-round",
+    "kitchener",
+    "one-piece",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "A cute little gnomie to hang out with this holiday season!",
+  "full_text": "See Episode 207: Singe Skein of Knitting Daily TV to watch Eunny show knitters’ versions of The Squatty Sidekick, a knitted and felted bag originally designed by Amanda Berka. B I G G E R V E R S I O N Did you outgrow the original Squatty? A bigger version is part of Dreaming of Shetland , you can read more about this dream-funder project on Deb Robson’s blog . Check out “ Not-Squatty .”",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/gnome-for-the-holidays-3/posts",
-    "https://www.ravelry.com/patterns/sources/wandering-cat-studio",
-    "https://www.ravelry.com/patterns/library/gnome-for-the-holidays-3/threads",
-    "https://www.ravelry.com/patterns/library/gnome-for-the-holidays-3/comments",
-    "https://www.ravelry.com/patterns/library/gnome-for-the-holidays-3/yarns",
-    "https://www.ravelry.com/patterns/library/gnome-for-the-holidays-3/people",
-    "https://www.ravelry.com/patterns/library/seamless-kitty-cat-hat",
-    "https://www.ravelry.com/patterns/library/the-socks-are-lava",
-    "https://www.ravelry.com/patterns/library/gnome-for-the-holidays-3",
-    "https://www.ravelry.com/patterns/library/gnome-for-the-holidays-3/editors",
-    "https://www.ravelry.com/patterns/library/gnome-for-the-holidays-3/report",
-    "https://www.ravelry.com/patterns/library/cameron-18"
-  ]
+    "https://www.ravelry.com/patterns/library/dawn-dress",
+    "http://www.ravelry.com/patterns/library/not-squatty-sidekick",
+    "https://www.ravelry.com/patterns/library/spun-2-ways-feminine-gloves",
+    "https://www.ravelry.com/patterns/library/amandas-squatty-sidekick/people",
+    "https://www.ravelry.com/patterns/library/amandas-squatty-sidekick/posts",
+    "https://www.ravelry.com/patterns/library/amandas-squatty-sidekick/report",
+    "https://www.ravelry.com/patterns/sources/knitting-daily-tv-website",
+    "https://www.ravelry.com/patterns/sources/knitting-daily-website",
+    "https://www.ravelry.com/patterns/sources/knitting-daily-tv-series-200-free-knitting-patterns",
+    "https://www.ravelry.com/patterns/sources/interweave-online-store--website",
+    "https://www.ravelry.com/patterns/library/feminine-mittens",
+    "https://www.ravelry.com/patterns/library/amandas-squatty-sidekick/editors",
+    "https://www.ravelry.com/patterns/library/amandas-squatty-sidekick/comments",
+    "https://www.ravelry.com/patterns/library/amandas-squatty-sidekick/threads",
+    "https://www.ravelry.com/patterns/periodicals/interweave-websites",
+    "https://www.ravelry.com/patterns/library/amandas-squatty-sidekick",
+    "https://www.ravelry.com/patterns/library/amandas-squatty-sidekick/yarns",
+    "https://www.ravelry.com/patterns/sources/interweave-website-free-patterns"
+  ],
+  "name": "Ravelry: Amanda's Squatty Sidekick pattern by Amanda Berka"
 }

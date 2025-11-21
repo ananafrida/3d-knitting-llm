@@ -1,46 +1,43 @@
 {
   "pattern_id": 165,
-  "pattern_page": "https://www.ravelry.com/patterns/library/booga-bag",
-  "name": "Booga Bag",
-  "description": "This great felted bag is simple to make and is a fun and functional bag! The finished dimensions are approx: 4 1/2 X 7 1/2 X 8 1/2.",
-  "designer": "Julie Anderson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/henrys-bunny",
+  "name": "Henry's Bunny",
+  "description": "These little guys will hop right off your needles in no time at all. Knit in the round, they are made entirely in one piece except for the legs, which are seamed to the bottom.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
-  "sizes_available": "One Size, with mini size also available in Ravelry download",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
-    "English"
+    "English",
+    "French"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Noro Kureyon（くれよん）"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "felted",
-    "icord",
     "in-the-round",
     "one-piece",
-    "rectangle",
     "seamless",
-    "written-pattern"
+    "short-rows"
   ],
-  "full_text": "This great felted bag is simple to make and is a fun and functional bag! The finished dimensions are approx: 4 1/2 X 7 1/2 X 8 1/2. Pattern for purchase though Ravelry includes additional sizing for the Baby Booga Bag.",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "These little guys will hop right off your needles in no time at all. Knit in the round, they are made entirely in one piece except for the legs, which are seamed to the bottom.",
+  "techniques": [
+    "seamed"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/booga-bag/threads",
-    "https://www.ravelry.com/patterns/library/booga-bag/people",
-    "https://www.ravelry.com/patterns/library/bigger--biggest-booga-bag",
-    "https://www.ravelry.com/patterns/library/booga-bag/yarns",
-    "https://www.ravelry.com/patterns/library/sophie",
-    "https://www.ravelry.com/patterns/library/booga-bag/posts",
-    "https://www.ravelry.com/patterns/library/booga-bag/comments",
-    "https://www.ravelry.com/patterns/library/booga-bag",
-    "https://www.ravelry.com/patterns/sources/black-sheep-bags",
-    "https://www.ravelry.com/patterns/library/elizabeth-bag",
-    "https://www.ravelry.com/patterns/library/booga-bag/editors",
-    "https://www.ravelry.com/patterns/sources/black-sheep-bags-website",
-    "https://www.ravelry.com/patterns/library/booga-bag/report"
+    "https://www.ravelry.com/patterns/library/henrys-bunny/yarns",
+    "https://www.ravelry.com/patterns/library/henrys-rabbit",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/people",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/posts",
+    "https://www.ravelry.com/patterns/library/henrys-bunny",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/threads",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/editors",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/report",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/comments"
   ]
 }

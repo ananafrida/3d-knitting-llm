@@ -1,40 +1,56 @@
 {
   "pattern_id": 1298,
-  "pattern_page": "https://www.ravelry.com/patterns/library/nalbongi-knit",
-  "name": "Nalbongi (knit)",
-  "description": "You can see this design on YouTube. If you want an organized writing pattern, please purchase it.",
-  "designer": "mongaknit",
+  "pattern_page": "https://www.ravelry.com/patterns/library/isfugl",
   "craft": "Knitting",
-  "category": "Softies → Animal",
+  "category": "Tops → Tee",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "10.5X24Cm",
+  "sizes_available": "XS (S) M (L) XL (2XL)",
   "languages": [
+    "Danish",
+    "Dutch",
     "English",
-    "Korean"
+    "Finnish",
+    "French",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 8 other languages show hide other languages",
+    "...and 8 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    ""
+    "yarn held together",
+    "Filcolana Vilja"
   ],
   "attributes": [
-    "amigurumi",
-    "video-tutorial",
-    "written-pattern"
+    "adult",
+    "contiguous",
+    "cuffed-sleeve",
+    "fitted",
+    "in-the-round",
+    "seamless",
+    "top-down",
+    "waist"
   ],
-  "full_text": "You can see this design on YouTube. If you want an organized writing pattern, please purchase it.",
-  "techniques": [],
-  "shape": "cylinder",
+  "full_text": "Isfugl is inspired by the whimsical artistic universe of @ida.noack and @morten.loefberg. The playful, natural diversity and intricate detail in their works have led the design process down sunlit detours. Sparking new ideas and revealing bright moments. The imagination has been on a journey, accompanied by humour and joy of life. A universe has unfolded, much like watching a kingfisher spread its wings and take flight towards freedom and new adventures. Isfugl is knitted in the round, top-down, with contiguous sleeves. First, the neckline is worked in reverse stockinette stitch. Then stitches are divided, and short rows are worked back and forth across the back neck stitches. At the same time, the saddle shoulder construction is shaped with increases. Once the full shoulder width is reached, increases are made across all shoulder stitches, creating puff at the top of the sleeve. As the yoke is completed, increases are worked to shape the sleeve cap. The yoke ends with raglan increases. The work is then divided, and the body and sleeves are finished separately. The body is knitted with waist shaping and finished with a ribbed edge, ending with a rolled edge in reverse stockinette stitch. Finally, the sleeves are completed and finished with ribbed edges and rolled edges as well.",
+  "techniques": [
+    "increases",
+    "short rows",
+    "top-down"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/nalbongi-knit/report",
-    "https://www.ravelry.com/patterns/library/nalbongi-knit/threads",
-    "https://www.ravelry.com/patterns/sources/mongaknit-ravelry-store",
-    "https://www.ravelry.com/patterns/sources/mongaknit-on-youtube-",
-    "https://www.ravelry.com/patterns/library/nalbongi-knit/people",
-    "https://www.ravelry.com/patterns/library/nalbongi-knit/comments",
-    "https://www.ravelry.com/patterns/library/nalbongi-knit/yarns",
-    "https://www.ravelry.com/patterns/library/nalbongi-knit",
-    "https://www.ravelry.com/patterns/library/nalbongi-knit/editors",
-    "https://www.ravelry.com/patterns/library/cinnamoroll-10",
-    "https://www.ravelry.com/patterns/library/mihoknit",
-    "https://www.ravelry.com/patterns/library/seolgi"
-  ]
+    "https://www.ravelry.com/patterns/library/isfugl/people",
+    "https://www.ravelry.com/patterns/library/isfugl/comments",
+    "https://www.ravelry.com/patterns/library/isfugl/editors",
+    "https://www.ravelry.com/patterns/library/butterflyknittee",
+    "https://www.ravelry.com/patterns/library/fairtee",
+    "https://www.ravelry.com/patterns/sources/playful-perspective---filcolana-ss25",
+    "https://www.ravelry.com/patterns/sources/filcolana",
+    "https://www.ravelry.com/patterns/library/isfugl/report",
+    "https://www.ravelry.com/patterns/library/isfugl/yarns",
+    "https://www.ravelry.com/patterns/library/taylor-cardigan-7005",
+    "https://www.ravelry.com/patterns/library/isfugl"
+  ],
+  "name": "Ravelry: Isfugl pattern by Trine knitwear"
 }

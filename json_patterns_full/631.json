@@ -1,38 +1,40 @@
 {
   "pattern_id": 631,
-  "pattern_page": "https://www.ravelry.com/patterns/library/chevron-baby-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-chook",
+  "name": "Tiny Chook",
+  "description": "This tiny chicken can be used as an ornament or pet toy. The base is knitted back and forth, then stitches are picked up around the base and joined in the round.",
+  "designer": "Eva McDonald",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "26\" x 33\"",
+  "category": "Pet → Toys",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Blue Sky Fibers Organic Cotton (Worsted)",
+    "",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "chevron",
-    "stripes",
-    "stripes-colorwork"
+    "icord",
+    "in-the-round",
+    "seamless",
+    "worked-flat"
   ],
-  "full_text": "MATERIALS 7 skeins of Blue Sky Fibers’s Worsted Cotton, 100% cotton. Each skein is 150 yards/ 100 grams; approximately 1050 yards required. A US 11 (8 mm), 24 or 32 inch circular needle Samples: We used Lemongrass, Lemonade, Bone, Tulip, Drift, Sleet, and Graphite for the Dandelion colorway and Indigo, Mediterranean, Caribbean, Tulip, Drift, Sleet and Ash for the Sky colorway. GAUGE 12 stitches = 4 inches in garter stitch, with yarn doubled FINISHED SIZE 26 x 33 inches NOTES For this pattern you’ll use the Worsted Cotton doubled. The best way to double yarn is to pull one strand from the inside of the ball and one strand from the outside. If you don’t have a swift and ball winder to wind a center-pull ball, never fear, you can do it by hand! Click here for a great video that shows you how! If you want to change the sizing or use this stitch pattern for a different project, just cast on a multiple of 14 plus 2 stitches.",
-  "techniques": [],
+  "full_text": "This tiny chicken can be used as an ornament or pet toy. The base is knitted back and forth, then stitches are picked up around the base and joined in the round. I used worsted weight with 4.25 mm needles for a 3.5” toy, but any weight yarn can be used as long as you go down a needle size to ensure that the fabric is dense so the stuffing does not show through. ERRATA On the “BODY” after row 19, where is says to “Cast off”, you don’t really have to cast off. I added that instruction because I couldn’t think of an elegant way to explain that after you pick up stitches around the base, you should have 36 stitches in total. Whether you cast off or not, it shouldn’t make a difference in the FO, but I realize that casting off stitches simply to pick up those exact same stitches again is annoying, hence this explanation.",
+  "techniques": [
+    "pick up stitches"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/mosaic-blanket-807453",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket/report",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket-in-merino",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket/posts",
-    "https://www.ravelry.com/patterns/library/garter-ear-flap-hat",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/chevron-baby-blanket/comments"
-  ],
-  "name": "Ravelry: Chevron Baby Blanket pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/tiny-chook",
+    "https://www.ravelry.com/patterns/library/tiny-chook/report",
+    "https://www.ravelry.com/patterns/library/beginner-baby-yoda",
+    "https://www.ravelry.com/patterns/library/tiny-chook/threads",
+    "https://www.ravelry.com/patterns/library/one-piece-no-sew-hamburger",
+    "https://www.ravelry.com/patterns/library/tiny-chook/editors",
+    "https://www.ravelry.com/patterns/library/alien-facehugger-bag-charm",
+    "https://www.ravelry.com/patterns/sources/eva-mcdonalds-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tiny-chook/people",
+    "https://www.ravelry.com/patterns/library/tiny-chook/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-chook/comments"
+  ]
 }

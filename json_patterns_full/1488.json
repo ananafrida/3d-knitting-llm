@@ -1,38 +1,47 @@
 {
   "pattern_id": 1488,
-  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
-  "name": "Christmas Candle ornament",
-  "description": "The cutest and essential Christmas ornament! The candle is knitted bottom up in the round, easy to work on and suitable for the beginners.",
-  "designer": "Ekaterina Vorobeva",
+  "pattern_page": "https://www.ravelry.com/patterns/library/chunky-cable-purse",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "S",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "sizes_available": "9\" wide x 7\" high x 3.5\" deep",
   "languages": [
-    "English",
-    "Russian"
+    "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Karisma",
-    "DK (11 wpi) ?"
+    "Knit Picks Sierra",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
+    "adult",
+    "cables",
+    "female",
+    "in-the-round",
+    "one-piece",
+    "rectangle",
+    "ribbed",
+    "seamless",
+    "teen",
+    "textured",
     "written-pattern"
   ],
-  "full_text": "The cutest and essential Christmas ornament! The candle is knitted bottom up in the round, easy to work on and suitable for the beginners. You can hang a candle on your Christmas tree or make a garland. It´s not required to meet the established gauge, you can use any kind of yarn, but the size of the finished item will change accordingly. The pattern is a great stash buster! Find me on Instagram: @thiscosynest",
+  "full_text": "Needles:16” circular Notions: The canvas lining and handles of your choice can be purchased at your local craft store.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/ekaterina-vorobevas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/sweet-home-sweater-3",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/editors",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/people",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/threads",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/comments",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/yarns",
-    "https://www.ravelry.com/patterns/library/normandie-tee",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
-    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament/report"
-  ]
+    "https://www.ravelry.com/patterns/library/chunky-cable-purse/threads",
+    "https://web.archive.org/web/20070302090342/http://www.knitpicks.com/kpimages/pdf/50441220.pdf",
+    "https://www.ravelry.com/patterns/library/chunky-cable-purse/report",
+    "https://www.ravelry.com/patterns/library/chunky-cable-purse/posts",
+    "https://www.ravelry.com/patterns/periodicals/knit-picks",
+    "https://www.ravelry.com/patterns/library/chunky-cable-purse/people",
+    "https://www.ravelry.com/patterns/library/chunky-cable-purse/editors",
+    "https://www.ravelry.com/patterns/library/chunky-cable-purse/edit",
+    "https://www.ravelry.com/patterns/sources/knit-picks-website",
+    "https://www.ravelry.com/patterns/library/chunky-cable-purse/yarns",
+    "https://www.ravelry.com/patterns/library/chunky-cable-purse",
+    "https://www.ravelry.com/patterns/library/chunky-cable-purse/comments",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine"
+  ],
+  "name": "Ravelry: Chunky Cable Purse pattern by Jennifer Adams Donnelly"
 }

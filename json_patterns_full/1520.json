@@ -1,40 +1,42 @@
 {
   "pattern_id": 1520,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knit-pumpkin-4",
-  "name": "KNIT Pumpkin",
-  "description": "This pattern is written for three yarn weights. The super bulky version creates a pumpkin approximately 9 inches across, bulky makes a pumpkin about 8 inches across. while the worsted weight version creates a pumpkin about 4.5 inches across. The i-cord is constructed out of the same weight yarn you used for the pumpkin. Be creative, have fun and knit up a pumpkin patch worth of pumpkins!",
-  "designer": "Sara Heckman",
+  "pattern_page": "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Malabrigo Yarn Rasta"
+    "Sport (12 wpi) ?",
+    "Purl Soho Novella"
   ],
   "attributes": [
-    "gusset",
-    "icord",
-    "in-the-round",
-    "seamless",
-    "top-down"
+    "bottom-up",
+    "one-piece",
+    "phototutorial",
+    "seamed",
+    "selvedge",
+    "stripes-colorwork",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This pattern is written for three yarn weights. The super bulky version creates a pumpkin approximately 9 inches across, bulky makes a pumpkin about 8 inches across. while the worsted weight version creates a pumpkin about 4.5 inches across. The i-cord is constructed out of the same weight yarn you used for the pumpkin. Be creative, have fun and knit up a pumpkin patch worth of pumpkins!",
+  "full_text": "MATERIALS 2 balls of Purl Soho’s Novella , 92% extra fine merino and 8% mulberry silk. Each ball is approximately 142 yards/ 50 grams. Color A: 1 ball; approximately 142 total yards required Color B: 1 ball; approximately 142 total yards required You will also need… US 6 (4 mm), 24-inch circular needles Samples: We used Salt Water Taffy + Flower Patch and Desert Ridge + Heirloom White for our cowls! GAUGE 22 stitches and 44 rows = 4 inches in garter stitch NOTE: We used every last yard for our cowls! To avoid running short, please re-use your swatch yarn (and avoid cutting it, if you can), double check your gauge, and be conservative with tails! SIZE Finished Circumference at Top: 18¼ inches Finished Circumference at Bottom: 24¾ inches Finished Height: 10½ inches Designed by Purl Soho designer, Gianna Mueller . Click here to see even more of Gianna’s designs!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/apricot-yarn--supply-2",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4",
-    "https://www.ravelry.com/patterns/library/simple-scarf-27",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/people",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/editors",
-    "https://www.ravelry.com/patterns/library/baby-stripes-hat-3",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/report",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/comments",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/posts",
-    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/yarns",
-    "https://www.ravelry.com/patterns/library/garter-rim-beanie"
-  ]
+    "https://www.ravelry.com/patterns/library/reversible-cross-collar-cowl",
+    "https://www.ravelry.com/patterns/library/pivot-cowl",
+    "https://www.ravelry.com/patterns/library/luster-cowl",
+    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/comments",
+    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5",
+    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/yarns",
+    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/threads",
+    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/editors",
+    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/people",
+    "https://www.ravelry.com/patterns/library/candy-stripe-cowl-5/report",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: Candy Stripe Cowl pattern by Purl Soho"
 }

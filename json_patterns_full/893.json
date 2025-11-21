@@ -1,38 +1,36 @@
 {
   "pattern_id": 893,
-  "pattern_page": "https://www.ravelry.com/patterns/library/infinity-scarf-92",
-  "name": "Infinity Scarf",
-  "description": "This Infinity Scarf is knitted only in one piece.",
-  "designer": "Trine Jensen",
+  "pattern_page": "https://www.ravelry.com/patterns/library/triss-baby-blanket",
+  "name": "Triss baby blanket",
+  "description": "",
+  "designer": "Agnieszka Wojtkowiak",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "One Size",
+  "category": "Blanket → Baby Blanket",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
-    "English",
-    "Additional languages which are not in the download: Danish"
+    "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "ONION Knit No. 4 Organic Wool + Nettles"
+    "Aran (8 wpi) ?",
+    "we are knitters The Cotton"
   ],
   "attributes": [
-    "adult",
-    "in-the-round",
-    "one-piece",
     "stripes-colorwork"
   ],
-  "full_text": "This Infinity Scarf is knitted only in one piece. The Infinity Scarf is a quick and beginner friendly scarf to knit on a circular needle. There is not much technique involved. You can knit in one or several colors, and the short repeats are particularly suitable for using several colors of scrap yarns. You will need approximately 60 g of yarn for one scarf. Suggested yarn is Onion No. 4 Organic Wool + nettles 50 g/130 m and a circular needle 4.5 mm 50 cm Opskriften findes på dansk til gratis download fra Kreativitekets hjemmeside",
+  "full_text": "",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/infinity-scarf-92/yarns",
-    "https://www.ravelry.com/patterns/library/infinity-scarf-92/people",
-    "https://www.ravelry.com/patterns/library/infinity-scarf-92/comments",
-    "https://www.ravelry.com/patterns/library/infinity-scarf-92/editors",
-    "https://www.ravelry.com/patterns/library/gecko-scarf-2",
-    "https://www.ravelry.com/patterns/library/infinity-scarf-92/report",
-    "https://www.ravelry.com/patterns/sources/kreativiteket",
-    "https://www.ravelry.com/patterns/library/infinity-scarf-92"
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/threads",
+    "https://www.ravelry.com/patterns/library/tymek-baby-cardigan",
+    "https://www.ravelry.com/patterns/sources/crepleknits",
+    "https://www.ravelry.com/patterns/library/mia-cardigan-4",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket",
+    "https://www.ravelry.com/patterns/library/lane-cadigan",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/people",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/editors",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/report",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/comments",
+    "https://www.ravelry.com/patterns/library/triss-baby-blanket/yarns"
   ]
 }

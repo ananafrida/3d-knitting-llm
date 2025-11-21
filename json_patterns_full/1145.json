@@ -1,42 +1,40 @@
 {
   "pattern_id": 1145,
-  "pattern_page": "https://www.ravelry.com/patterns/library/toybox-snowman",
+  "pattern_page": "https://www.ravelry.com/patterns/library/domino-heart",
+  "name": "Domino Heart",
+  "description": "Errata: * 16.12.2012: patternwhisperer noticed, that the instructions lack the information on how to make the second lobe! I corrected it and loaded a new pdf.*",
+  "designer": "Johanna Mäki",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Applique / Embellishment",
   "languages": [
-    "English"
+    "English",
+    "Finnish"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Sirdar Bonus DK Extra Value"
+    ""
   ],
   "attributes": [
-    "seamed",
-    "stripes",
-    "unisex",
+    "modular",
+    "motifs",
+    "square",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Description from website: Introducing William, the cute and cuddly knitted Snowman. It’s guaranteed that the children will love him to bits and no doubt he will find a home in the toybox instead of being stored away in the Christmas box. I’m sure that knitters will also enjoy his company, re-creating lots of Williams all year round. Real life snowmen are fun for a while, but they always melt away. William is a friend forever and a snowman for all seasons. I can never resist giving my dolls rosy cheeks - including snowmen! Measurement: 24cm (9½in) high, not including the bobble on his cap",
+  "full_text": "Errata: * 16.12.2012: patternwhisperer noticed, that the instructions lack the information on how to make the second lobe! I corrected it and loaded a new pdf.* Knit a cute heart for Christmas! With the heart you can decorate presents or Christmas tree. Or use hearts to embellish mittens or blankets. I´m dreaming of a blanket full of hearts in different sizes and colors. You can knit this heart in almost any yarn and you don´t have to worry about the gauge! The heart is knit entirely in garter stitch. At first you knit a basic Domino square (also known as mitered square) and then add \"ears\" to two sides. Knit a hearty domino square for Christmas! Make hearts, for example, to decorate gift packages or the moon. The hearts also look adorable when sewn onto the back of the mittens or a blanket. I myself dreamed of a simple dozing blanket that would be full of hearts of different colors and sizes. You can make a heart with almost any yarn, you don't have to worry about the knitting density and the whole heart is made in garter stitch. The base of the heart is an ordinary domino square, to which \"ears\" are knitted on two sides. The instructions for the heart in Finnish can be found on my blog (link below).",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/toybox-snowman/posts",
-    "https://www.ravelry.com/patterns/library/santa-and-mrs-claus-santa-145",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/yarns",
-    "https://www.ravelry.com/patterns/periodicals/jean-greenhowe",
-    "https://www.ravelry.com/patterns/sources/jean-greenhowe-designs-website",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/editors",
-    "http://www.jeangreenhowe.com/patterns.html",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/comments",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/edit",
-    "https://www.ravelry.com/patterns/library/santa-9-2",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/report",
-    "https://www.ravelry.com/patterns/library/dainty-dollies",
-    "https://www.ravelry.com/patterns/library/toybox-snowman",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/people",
-    "https://www.ravelry.com/patterns/library/toybox-snowman/threads"
-  ],
-  "name": "Ravelry: Toybox Snowman pattern by Jean Greenhowe"
+    "https://www.ravelry.com/patterns/library/domino-heart/comments",
+    "https://www.ravelry.com/patterns/library/domino-heart",
+    "https://www.ravelry.com/patterns/library/domino-heart/posts",
+    "https://www.ravelry.com/patterns/library/hiljaista-kuin-huopatossutehtaalla",
+    "https://www.ravelry.com/patterns/library/nappipo",
+    "https://www.ravelry.com/patterns/library/domino-heart/threads",
+    "https://www.ravelry.com/patterns/library/domino-heart/editors",
+    "https://www.ravelry.com/patterns/library/domino-heart/yarns",
+    "https://www.ravelry.com/patterns/library/domino-heart/report",
+    "https://www.ravelry.com/patterns/library/kierrehuivi",
+    "https://www.ravelry.com/patterns/sources/mcin-blogi",
+    "https://www.ravelry.com/patterns/library/domino-heart/people"
+  ]
 }

@@ -1,41 +1,48 @@
 {
   "pattern_id": 1958,
-  "pattern_page": "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower",
-  "name": "Coming Up Roses - A Knit Flower",
-  "description": "Add these sweet knit roses as a topper or adornment to your shoes, headband, barrette, or tote bag. Easy to make, they are a wonderful way to add a handmade touch to just about anything.",
-  "designer": "flax & twine | anne weil",
+  "pattern_page": "https://www.ravelry.com/patterns/library/le-pouf-2",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "one size",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "XS [S, M, L, XL] [2XL, 3XL, 4XL, 5XL]",
   "languages": [
+    "Chinese",
     "English"
   ],
   "suggested_yarn": [
-    "",
+    "Hedgehog Fibres Sock",
     "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "eyelets",
-    "lace",
+    "female",
+    "in-the-round",
     "one-piece",
+    "positive-ease",
+    "raglan-sleeve",
+    "seamless",
+    "top-down",
+    "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Add these sweet knit roses as a topper or adornment to your shoes, headband, barrette, or tote bag. Easy to make, they are a wonderful way to add a handmade touch to just about anything. Use whatever leftover sock or fingering weight yardage you have to whip a couple of these beauties. Gauge isn’t that important - have fun with them!",
+  "full_text": "Simple top down stockinette cardigan, that let’s you get creative with your yarns! Find an awesome combination of colours that makes you happy! This is achieved by starting with two strands of Colour A, then you will drop one strand of A and replace it with one strand of B. After that, two strands of Colour B and so on. There is no striping with this technique and marling creates a softer transition. Thank you to everyone who helped to test knit this pattern! In this thread and on Instagram :) Chinese tutorial: https://knittinginenglish.com/p/le-pouf-cardi-knitting-tu... Chinese translation",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "http://www.flaxandtwine.com/2013/04/coming-up-roses-free-knit-pattern.html",
-    "https://www.ravelry.com/patterns/library/tasseled-garter-stitch-color-block-scarf",
-    "https://www.ravelry.com/patterns/library/trellis-stitch-drawstring-bag",
-    "https://www.ravelry.com/patterns/sources/flax--twine-ravelry-store",
-    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/people",
-    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/report",
-    "https://www.ravelry.com/patterns/library/bennet-bandana",
-    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/comments",
-    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower",
-    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/yarns",
-    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/editors",
-    "https://www.ravelry.com/patterns/library/coming-up-roses---a-knit-flower/threads"
-  ]
+    "https://www.ravelry.com/patterns/library/le-pouf-2/posts",
+    "https://www.ravelry.com/patterns/library/le-pouf-2",
+    "https://www.ravelry.com/patterns/library/outline",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/threads",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/editors",
+    "https://www.ravelry.com/patterns/library/flying-fringe",
+    "https://cdn.shopify.com/s/files/1/2440/8253/files/LePoufCardi_translation_C.pdf?v=1629125516",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/yarns",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/comments",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/report",
+    "https://www.ravelry.com/patterns/library/le-pouf-2/people",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/le-pouf"
+  ],
+  "name": "Ravelry: Le Pouf pattern by Beata Jezek"
 }

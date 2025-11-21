@@ -1,43 +1,40 @@
 {
   "pattern_id": 1414,
-  "pattern_page": "https://www.ravelry.com/patterns/library/snadi-sweater",
-  "name": "Snadi Sweater",
-  "description": "Tiniest sweater of them all!",
-  "designer": "Johanna Ylistö",
+  "pattern_page": "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
-  "sizes_available": "One size",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "sizes_available": "Approx. 8\" tall x 10¾\" wide",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Schachenmayr Regia Premium Merino Yak 4-fädig / 4-Ply"
+    "Bernat Maker",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
-    "one-piece",
-    "raglan-sleeve",
-    "seamless",
-    "top-down",
+    "phototutorial",
+    "schematic",
+    "seamed",
+    "textured",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Tiniest sweater of them all! Want to show everyone your true knitter spirit by hanging a raglan sweater on your purse? Need to make a swatch in circle? Want cute tiny sweaters to decorate your Christmas tree? Know a Harry Potter fan? This project is for you! Yardage 10 grams of Regia Premium Merino Yak or any other fingering weight yarn Needles 2.25 - 2.50 mm Measurements Total height: 9 cm Bust circumference: 14 cm Sleeve length (from neckline): 9 cm You can use fingering weight yarn to achieve measurements mentioned or any other yarn and needles to make a gauge swatch. Ohje tulossa pian myös suomeksi.",
+  "full_text": "Complete your look with the unique style of this cute knit purse. Stitched in Bernat Maker, you’ll reveal an impressive big stitch look as you master simple knit and purl techniques to create the lovely seed stitch fabric. This knit knot purse is so entertaining to make, you’ll surely want to create a few in different colors to match everything in your closet. It’s a great gift option too! MATERIALS Bernat® Maker™ (8.8 oz/250 g; 317 yds/290 m) Jam (06008) 1 ball or 225 yds/206 m MEASUREMENT(S) Body of Bag (excluding straps) Approximately 8” 20.5 cm",
   "techniques": [],
-  "shape": "cone",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jaska",
-    "https://www.ravelry.com/patterns/library/snadi-sweater/threads",
-    "https://www.ravelry.com/patterns/library/snadi-sweater",
-    "https://www.ravelry.com/patterns/library/snadi-sweater/people",
-    "https://www.ravelry.com/patterns/library/snadi-sweater/comments",
-    "https://www.ravelry.com/patterns/library/snadi-sweater/yarns",
-    "https://www.ravelry.com/patterns/library/snadi-sweater/editors",
-    "https://www.ravelry.com/patterns/library/miska-3",
-    "https://www.ravelry.com/patterns/library/asko-3",
-    "https://www.ravelry.com/patterns/library/snadi-sweater/report",
-    "https://www.ravelry.com/patterns/library/snadi-sweater/posts",
-    "https://www.ravelry.com/patterns/sources/johanna-ylistos-ravelry-store"
-  ]
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/comments",
+    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/report",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/editors",
+    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
+    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag",
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/yarns",
+    "https://www.ravelry.com/patterns/library/seed-stitch-knot-bag/people",
+    "https://www.ravelry.com/patterns/library/slip-knit-socks"
+  ],
+  "name": "Ravelry: Seed Stitch Knot Bag pattern by Yarnspirations Design Studio"
 }

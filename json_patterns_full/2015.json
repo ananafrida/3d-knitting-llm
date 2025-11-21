@@ -1,35 +1,44 @@
 {
   "pattern_id": 2015,
-  "pattern_page": "https://www.ravelry.com/patterns/library/angry-feet",
+  "pattern_page": "https://www.ravelry.com/patterns/library/juggling-ball-knit",
   "craft": "Knitting",
-  "category": "Components → Other",
+  "category": "Ball",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "Cube 2 inches [5 cm] per side",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Sport (12 wpi) ?",
+    "Lion Brand Microspun"
   ],
   "attributes": [
-    "chart"
+    "cube-shaped",
+    "phototutorial",
+    "seamed",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This is not an actual pattern. It’s a recipe for taking your favorite top-down sock pattern and turning it into some angry birds. The pattern includes charts and instructions. Wouldn’t it be fun to knit a different bird for each foot!",
-  "techniques": [
-    "top-down"
-  ],
-  "shape": "cylinder",
+  "full_text": "These great hackysack-style juggling blocks are easy to make. (Lion Brand Yarn) Lion Brand Pattern #: BK4K-0508006-k kms-jugglingBalls.pdf SKILL LEVEL: Beginner PUBLISHED IN: By Kids, For Kids Microspun (Article #910) 6 colors, 1 ball each Knitting Needles - Size 7 [4.5 mm] Plastic pellets (from fabric store or upholstery store) or beans for stuffing. . Crochet version: Juggling Ball (Crochet)",
+  "techniques": [],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/angry-feet/threads",
-    "https://necrat.us/downcloverlaine/angryfeet.pdf",
-    "https://www.ravelry.com/patterns/library/angry-feet/comments",
-    "https://www.ravelry.com/patterns/library/angry-feet/report",
-    "https://www.ravelry.com/patterns/library/andy-the-panda-cloth",
-    "https://www.ravelry.com/patterns/library/angry-feet/people",
-    "https://www.ravelry.com/patterns/sources/down-cloverlaine",
-    "https://www.ravelry.com/patterns/library/little-porker-cloth",
-    "https://www.ravelry.com/patterns/library/angry-mitts",
-    "https://www.ravelry.com/patterns/library/angry-feet/yarns",
-    "https://www.ravelry.com/patterns/library/angry-feet/editors",
-    "https://www.ravelry.com/patterns/library/angry-feet"
+    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/people",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/editors",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/report",
+    "http://www.ravelry.com/patterns/library/juggling-ball-crochet",
+    "https://web.archive.org/web/20060207063636/http://cache.lionbrand.com/patterns/kms-jugglingBalls.html",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/yarns",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/edit",
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.ravelry.com/patterns/library/ripple-afghan-70409ad",
+    "https://www.ravelry.com/patterns/library/hat--wrapover-scarf-hat",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/threads",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit/comments",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://www.ravelry.com/patterns/library/juggling-ball-knit",
+    "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue"
   ],
-  "name": "Ravelry: Angry Feet pattern by Elaine Fitzpatrick"
+  "name": "Ravelry: Juggling Ball (Knit) pattern by Lion Brand Yarn"
 }

@@ -1,41 +1,45 @@
 {
   "pattern_id": 618,
-  "pattern_page": "https://www.ravelry.com/patterns/library/corner-to-corner-blankie",
-  "name": "Corner to Corner Blankie",
-  "description": "Corner-to-Corner Blankie is not only perfect for beginners, but is perfect for anyone looking to whip up a gift fast.",
-  "designer": "Shea Leonard",
+  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-mouse-knit",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "Carrier - 17\", 43cm (adjustable)",
+  "category": "Softies → Animal Pet → Toys",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "5\" (10cm) exclusive of tail",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Cascade Yarns ® Swaddle"
+    "Lion Brand Fun Fur Solid",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
-    "bias",
-    "one-piece",
-    "reversible",
-    "seamless",
-    "square",
+    "3-dimensional",
+    "embroidery",
+    "phototutorial",
+    "seamed",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Corner-to-Corner Blankie is not only perfect for beginners, but is perfect for anyone looking to whip up a gift fast. Knit with bulky yarn and large needles, you can make a snuggly blanket just in time for a little one’s arrival, or as a cozy way to stay warm when the cold weather sneaks up on you. Want a bigger blankie? Just use more skeins! Use 2 for a crib size or 4 for a lap blankie!",
+  "full_text": "Lion Brand Pattern #: BK4K-0506003-K SKILL LEVEL: Beginner 320-195 Fun Fur Yarn: Hot Pink (1 ball) 320-204 Fun Fur Yarn: Lava (1 ball) Materials are sufficient to make two (1-color) mice. Knitting Needles- Size 8 (5 mm) Crochet Hook - Size F-5 (3.75 mm) for construction Scrap yarn for tail, approximately 24 inches (approximately 70 cm) Scrap yarn for eyes, approximately 4 inches (10 cm) black and white Sewing needle and matching thread 1 package dried catnip See assembly diagrams showing how to fold the ‘cone’ and finish. See also BK4K-0506006-K Pocket Pet: Mouse . It is same pattern except uses stuffing instead of catnip.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/corner-to-corner-blankie/threads",
-    "https://www.ravelry.com/patterns/library/corner-to-corner-blankie/comments",
-    "https://www.ravelry.com/patterns/library/corner-to-corner-blankie/report",
-    "https://www.ravelry.com/patterns/library/corner-to-corner-blankie/editors",
-    "https://www.ravelry.com/patterns/library/corner-to-corner-blankie/yarns",
-    "https://www.ravelry.com/patterns/library/caribou-cowl",
-    "https://www.ravelry.com/patterns/sources/string-theory-yarn-shop",
-    "https://www.ravelry.com/patterns/library/corner-to-corner-blankie",
-    "https://www.ravelry.com/patterns/library/corner-to-corner-blankie/people"
-  ]
+    "https://www.ravelry.com/patterns/library/case-for-eye-glasses-with-cord",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/people",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/editors",
+    "https://www.ravelry.com/patterns/library/folklore-cardigan-4",
+    "https://www.ravelry.com/patterns/library/diagonal-comfort-blanket",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/yarns",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/edit",
+    "https://cdn.accentuate.io/4679148732509/12378270040157/bk4k-0506006-ka-v1592901571076.pdf",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/threads",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/comments",
+    "https://www.ravelry.com/patterns/library/catnip-mouse-knit/report",
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://cdn.accentuate.io/4679146602589/12378270040157/knit-pattern-catnip-mouse-knit-bk4k-0506003-k-v1594845591330.pdf",
+    "https://www.ravelry.com/patterns/sources/by-kids-for-kids-need-issue"
+  ],
+  "name": "Ravelry: Catnip Mouse (knit) pattern by Lion Brand Yarn"
 }

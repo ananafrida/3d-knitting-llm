@@ -1,38 +1,41 @@
 {
   "pattern_id": 1147,
-  "pattern_page": "https://www.ravelry.com/patterns/library/travelling-gnome",
+  "pattern_page": "https://www.ravelry.com/patterns/library/rusetti-2",
+  "name": "Rusetti",
+  "description": "Two sizes, normal and big one. You can use any yarn you want to, gauge is not that relevant with this pattern.",
+  "designer": "Jatta Pauliina",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Applique / Embellishment",
+  "needle_size": "1.5 mm, US 000",
   "languages": [
-    "English"
+    "English",
+    "Finnish"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Novita Kotiväki",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "amigurumi",
-    "seamed",
+    "phototutorial",
+    "seamless",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The knitted version of the Amelie travelling gnome! The Knitted Toy Box a blog for my free knitted toy patterns.",
+  "full_text": "Two sizes, normal and big one. You can use any yarn you want to, gauge is not that relevant with this pattern. The pattern is available in English and Finnish. When you download the pattern you can choose from two separate files, one in each language.",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitted-toy-box",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/comments",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/report",
-    "https://www.ravelry.com/patterns/library/harry-hedgehog",
-    "https://www.ravelry.com/patterns/library/the-golden-snitch-3",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/posts",
-    "https://www.ravelry.com/patterns/library/travelling-gnome",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/editors",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/yarns",
-    "https://www.ravelry.com/patterns/library/boo-7",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/people",
-    "https://www.ravelry.com/patterns/library/travelling-gnome/threads"
-  ],
-  "name": "Ravelry: Travelling Gnome pattern by Raynor Gellatly"
+    "https://www.ravelry.com/patterns/sources/jatta-pauliina",
+    "https://www.ravelry.com/patterns/library/rusetti-2/report",
+    "https://www.ravelry.com/patterns/library/mario-3",
+    "https://www.ravelry.com/patterns/library/rusetti-2/threads",
+    "https://www.ravelry.com/patterns/library/rusetti-2/comments",
+    "https://www.ravelry.com/patterns/library/rusetti-2",
+    "https://www.ravelry.com/patterns/library/rusetti-2/yarns",
+    "https://www.ravelry.com/patterns/library/rusetti-2/posts",
+    "https://www.ravelry.com/patterns/library/rusetti-2/people",
+    "https://www.ravelry.com/patterns/library/zetor",
+    "https://www.ravelry.com/patterns/library/rusetti-2/editors",
+    "https://www.ravelry.com/patterns/library/bintje"
+  ]
 }

@@ -1,46 +1,31 @@
 {
   "pattern_id": 332,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bunny-squared",
-  "name": "Bunny Squared",
-  "description": "Get ready to knit the cutest Bunny Squared toy with this beginner-friendly pattern! The Bunny Squared pattern is perfect for knitters looking to create a charming 3-dimensional bunny in various sizes. This pattern includes detailed instructions, a photo tutorial, and a written pattern to guide you through the process. Whether you’re a seasoned knitter or just starting out, this pattern is sure to bring joy and creativity to your knitting projects. Customize your Bunny Squared in different sizes to suit your preferences and create a delightful toy for yourself or as a gift for a loved one. Unique Features- • Key Features: • Beginner level pattern suitable for all skill levels • Available in multiple sizes (Square 4 (6, 8)” Bunny 3 (5, 6)”) • Constructed using seamed and one-piece techniques • Worked flat with a garter stitch pattern • Features a 3-dimensional design • Made with high-quality Simply DK yarn for a soft and durable finish Materials Needed- • Yarn: Simply DK by Paintbox Yarns (DK weight, 20-100 yards) • Stitch markers • Scissors • Needle: 4mm (US Size 6.0) • Gauge: 23 Stitches by 46 Row = 4 Inches in Garter",
-  "designer": "Jessie Rayot",
+  "pattern_page": "https://www.ravelry.com/patterns/library/santa-and-mrs",
+  "name": "Santa and Mrs.",
+  "description": "Santa and Mrs. are very easy and fun to knit.",
+  "designer": "Debra Alling",
   "craft": "Knitting",
-  "category": "Softies → Animal Pet → Toys",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Square 4 (6, 8)” Bunny 3 (5, 6)”",
+  "category": "Softies → Doll",
+  "sizes_available": "8 inches approximately",
   "languages": [
     "English"
   ],
-  "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Paintbox Yarns Simply DK"
-  ],
   "attributes": [
-    "3-dimensional",
-    "one-piece",
-    "phototutorial",
-    "seamed",
-    "square",
-    "worked-flat",
-    "written-pattern"
+    "worked-flat"
   ],
-  "full_text": "Get ready to knit the cutest Bunny Squared toy with this beginner-friendly pattern! The Bunny Squared pattern is perfect for knitters looking to create a charming 3-dimensional bunny in various sizes. This pattern includes detailed instructions, a photo tutorial, and a written pattern to guide you through the process. Whether you’re a seasoned knitter or just starting out, this pattern is sure to bring joy and creativity to your knitting projects. Customize your Bunny Squared in different sizes to suit your preferences and create a delightful toy for yourself or as a gift for a loved one. Unique Features- • Key Features: • Beginner level pattern suitable for all skill levels • Available in multiple sizes (Square 4 (6, 8)” Bunny 3 (5, 6)”) • Constructed using seamed and one-piece techniques • Worked flat with a garter stitch pattern • Features a 3-dimensional design • Made with high-quality Simply DK yarn for a soft and durable finish Materials Needed- • Yarn: Simply DK by Paintbox Yarns (DK weight, 20-100 yards) • Stitch markers • Scissors • Needle: 4mm (US Size 6.0) • Gauge: 23 Stitches by 46 Row = 4 Inches in Garter",
-  "techniques": [
-    "seamed",
-    "worked flat"
-  ],
-  "shape": "cube",
+  "full_text": "Santa and Mrs. are very easy and fun to knit. They make great toys or Christmas decorations. Finished size is approximately 8 inches. The size can be adjusted by using smaller or larger needles and/or yarn. Gauge is not important and they are knitted flat with straight needles. The models were done with size 5 or 3.75mm needles using worsted yarn. The skill level is a basic knowledge of knitting.",
+  "techniques": [],
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jacobs-treasure-afghan-square",
-    "https://www.ravelry.com/patterns/library/bunny-squared",
-    "https://www.ravelry.com/patterns/library/dragon-wing-cowl",
-    "https://www.ravelry.com/patterns/library/bunny-squared/yarns",
-    "https://www.ravelry.com/patterns/sources/jessieathome-on-ravelry-2",
-    "https://www.ravelry.com/patterns/library/bunny-squared/report",
-    "https://www.ravelry.com/patterns/sources/jessieathome",
-    "https://www.ravelry.com/patterns/library/bunny-squared/editors",
-    "https://www.ravelry.com/patterns/library/retro-ornament---graphic-fall-throw",
-    "https://www.ravelry.com/patterns/library/bunny-squared/people",
-    "https://www.ravelry.com/patterns/library/bunny-squared/comments"
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/yarns",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/comments",
+    "https://www.ravelry.com/patterns/library/snowman-ornament-34",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/editors",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/people",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/threads",
+    "https://www.ravelry.com/patterns/library/christmas-garland-17",
+    "https://www.ravelry.com/patterns/sources/debra-allings-ravelry-store",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs",
+    "https://www.ravelry.com/patterns/library/santa-and-mrs/report"
   ]
 }

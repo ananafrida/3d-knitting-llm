@@ -1,49 +1,43 @@
 {
   "pattern_id": 1454,
-  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-caramel",
-  "name": "Christmas Caramel",
-  "description": "The Christmas Caramel is worked in the round on double-pointed needles or using the Magic Loop technique. At the end the caramel is stuffed with yarn scraps or filling.",
-  "designer": "PetiteKnit",
+  "pattern_page": "https://www.ravelry.com/patterns/library/girly-bag",
+  "name": "Girly Bag",
+  "description": "Description from MagKnits.com:",
+  "designer": "Amy Polcyn",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "One size",
+  "category": "Bag → Tote Bag → Purse / Handbag",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
-    "Danish",
-    "English",
-    "German",
-    "Italian",
-    "Norwegian",
-    "Swedish",
-    "...and 6 other languages show hide other languages",
-    "...and 6 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
-    "Filcolana Peruvian",
-    "Worsted (9 wpi) ?"
+    "DK / Sport ?",
+    "Berroco Glacé"
   ],
   "attributes": [
-    "in-the-round",
-    "stripes-colorwork"
+    "beads",
+    "female",
+    "seamed",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "The Christmas Caramel is worked in the round on double-pointed needles or using the Magic Loop technique. At the end the caramel is stuffed with yarn scraps or filling. Length: 10 cm [4 inches] Needles: 3 mm [US2½] double-pointed needles or a long circular needle for Magic Loop Materials: Double Sunday by Sandnes Garn (50 g = 108 m [118 yds]) or Heavy Merino by Knitting for Olive (50 g = 125 m [137 yds]) or Peruvian Highland Wool by Filcolana (50 g = 100 m [109 yds]) Approx. 6-10 g for main color (light) and approx. 3-5 g for stripe color (dark), optionally filling Difficulty: ★ ★ (2 out of 5) See the classification of difficulty here. The white and blue Christmas Caramel is knitted in Double Sunday by Sandnes Garn in the colors Almond [2511] and Night sky [5591]. The white and green Christmas Caramel is knitted in Double Sunday by Sandnes Garn in the colors Almond [2511] and Matcha [9564]. The white and pink Christmas Caramel is knitted in Double Sunday by Sandnes Garn in the colors Almond [2511] and Shocking pink [4626]. The white and burgundy Christmas Caramel is knitted in Heavy Merino by Knitting for Olive in the colors Hvede and Bordeaux.",
-  "techniques": [
-    "worked in the round"
-  ],
-  "shape": "sphere",
+  "full_text": "Description from MagKnits.com: A cute and very feminine purse, perfect for an evening out. The glossy rayon ribbon yarn, silk lining, and beaded flower appliqué dress up an otherwise simple design. The purse is worked in easy stockinette and features clear plastic handles and a magnetic snap closure. The pattern is easy enough for a new knitter and is sized right to carry the essentials.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/december-bow",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/report",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/threads",
-    "https://www.ravelry.com/patterns/library/florence-bag",
-    "https://www.ravelry.com/patterns/sources/petiteknit-ravelry-store",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/yarns",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/editors",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/posts",
-    "https://www.ravelry.com/patterns/library/christmas-caramel",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/comments",
-    "https://www.ravelry.com/patterns/library/honey-clutch",
-    "https://www.ravelry.com/patterns/library/christmas-caramel/people"
+    "https://www.ravelry.com/patterns/library/girly-bag/report",
+    "https://www.ravelry.com/patterns/library/smocked-dress",
+    "https://www.ravelry.com/patterns/library/girly-bag/comments",
+    "https://www.ravelry.com/patterns/periodicals/knitting-pattern-a-day-calendars",
+    "https://www.ravelry.com/patterns/library/vintage-hot-pad",
+    "https://www.ravelry.com/patterns/library/girly-bag/yarns",
+    "https://www.ravelry.com/patterns/library/girly-bag/editors",
+    "https://www.ravelry.com/patterns/library/girly-bag/posts",
+    "https://www.ravelry.com/patterns/library/girly-bag/threads",
+    "https://www.ravelry.com/patterns/library/girly-bag",
+    "https://www.ravelry.com/patterns/sources/knitting-calendar-2009",
+    "https://www.ravelry.com/patterns/library/bubble-hat-2",
+    "https://www.ravelry.com/patterns/sources/magknits-november-2005",
+    "https://www.ravelry.com/patterns/library/girly-bag/people"
   ]
 }

@@ -1,35 +1,38 @@
 {
   "pattern_id": 91,
-  "pattern_page": "https://www.ravelry.com/patterns/library/dolphin-square",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-3d-glasses",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "8.5\" x 8.5\"",
+  "category": "Costume",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
+    "Danish",
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?"
+    "Zwerger Garn Opal Hundertwasser 4-fach / 4-ply",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "chart",
+    "3-dimensional",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "Leaping dolphin square. Great as a dishcloth or with other squares to form a blanket. Both chart and written pattern. Required materials: DK or 8 ply knitting yarn and 4 mm (US 6, UK 8) knitting needles. Finish square approximately 22 cm x 22 cm (8.5 inches x 8.5 inches)",
+  "full_text": "Pattern in English: The pattern is not an actual pattern but more a description of what I did. The pattern should be modified to fit your own toy glasses. Pattern is in Danish. The pattern is purely a description of what I did for a pair of 3D glasses from the cinema. Must be varied for other thickness play glasses.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bunny-rabbit-square-2",
-    "https://www.ravelry.com/patterns/library/dolphin-square/editors",
-    "https://www.ravelry.com/patterns/library/dolphin-square/comments",
-    "https://www.ravelry.com/patterns/library/dolphin-square/report",
-    "https://www.ravelry.com/patterns/library/swan-square",
-    "https://www.ravelry.com/patterns/library/dolphin-square/people",
-    "https://www.ravelry.com/patterns/library/dolphin-square/yarns",
-    "https://www.ravelry.com/patterns/library/dolphin-square",
-    "https://www.ravelry.com/patterns/sources/daisy-and-storm-website",
-    "https://www.ravelry.com/patterns/library/space-rocket-square",
-    "https://www.ravelry.com/patterns/library/dolphin-square/threads"
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/report",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/editors",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/comments",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/people",
+    "https://www.ravelry.com/patterns/library/angel-touch-scarf",
+    "https://www.ravelry.com/patterns/library/teddybear-poncho-sweater",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/threads",
+    "http://christunte.blogspot.com/2009/11/sort-of-pattern.html",
+    "https://www.ravelry.com/patterns/library/meget-lange-halvhandsker",
+    "https://www.ravelry.com/patterns/library/knitted-3d-glasses/yarns",
+    "https://www.ravelry.com/patterns/sources/strikkoman"
   ],
-  "name": "Ravelry: Dolphin Square pattern by Daisy and Storm"
+  "name": "Ravelry: Knitted 3D Glasses pattern by Christine R. Hansen"
 }

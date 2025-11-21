@@ -1,41 +1,42 @@
 {
   "pattern_id": 1864,
-  "pattern_page": "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls",
-  "name": "Stash Busting Project Bags & Bowls",
-  "description": "One of our customers described this pattern as the “Mother Load” of bags and bowls. There are six patterns included, two bowls, two single handled bags, and two 2-handled bags.",
-  "designer": "Molly Conroy",
+  "pattern_page": "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha",
+  "name": "Puffs from Anotha Motha",
+  "description": "This is Adapted from The Beekeeper’s Quilt by Tiny Owl Knits",
+  "designer": "Jenny Flame",
   "craft": "Knitting",
-  "category": "Bag → Tote Containers",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
-  "sizes_available": "Extra Small to Extra Large",
+  "category": "Components → Other",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "Malabrigo Yarn Chunky",
-    "yarn held together"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "felted",
-    "one-piece",
-    "seamless",
-    "stripes-colorwork",
-    "three-needle-bind",
+    "motifs",
+    "phototutorial",
+    "rectangle",
+    "square",
+    "triangle-shaped",
     "written-pattern"
   ],
-  "full_text": "One of our customers described this pattern as the “Mother Load” of bags and bowls. There are six patterns included, two bowls, two single handled bags, and two 2-handled bags. They are all designed to use up your stash of left over feltable yarn. The pattern is designed for bulky yarn but you can always substitute two strands of worsted weight held together. The patterns are designed for weight of yarn rather than yardage so it takes most of the guesswork out. So grab your kitchen scale and get started! They are all quick and easy projects. Some have suggested striping but feel free to just do your own thing!",
+  "full_text": "This is Adapted from The Beekeeper’s Quilt by Tiny Owl Knits There are NO directions to make hexipuffs in this pattern. You can however make a square, triangle, rectangle, and a diamond shape with this pattern, as long as you have the Beekeeper’s Quilt Pattern.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/yarns",
-    "https://www.ravelry.com/patterns/sources/mollyconroy-ravelry-store",
-    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls",
-    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/editors",
-    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/report",
-    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/comments",
-    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/threads",
-    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/people",
-    "https://www.ravelry.com/patterns/library/basic-beanie-55",
-    "https://www.ravelry.com/patterns/library/latvian-braid-hat-2",
-    "https://www.ravelry.com/patterns/library/rasta-drop-stitch-scarf",
-    "https://www.ravelry.com/patterns/library/stash-busting-project-bags--bowls/posts"
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/people",
+    "https://www.ravelry.com/patterns/library/macaron",
+    "https://www.ravelry.com/patterns/library/irish-hiking-hat---improved",
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/report",
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/threads",
+    "http://www.ravelry.com/patterns/library/the-beekeepers-quilt",
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/yarns",
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/comments",
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha",
+    "https://www.ravelry.com/patterns/library/puffs-from-anotha-motha/editors",
+    "https://www.ravelry.com/patterns/library/macaron-mitts",
+    "https://www.ravelry.com/patterns/sources/bitchin-knit-blog"
   ]
 }

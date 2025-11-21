@@ -1,39 +1,41 @@
 {
   "pattern_id": 166,
-  "pattern_page": "https://www.ravelry.com/patterns/library/summit-class-pouch",
-  "name": "Summit Class Pouch",
-  "description": "This sweet beginner bag will give new knitters lots of practice with new stitch patterns. Feel free to use this for yourself or to teach others.",
-  "designer": "Elizabeth Carley",
+  "pattern_page": "https://www.ravelry.com/patterns/library/baby-duck-806",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
-  "sizes_available": "One Size",
+  "category": "Softies → Animal",
+  "needle_size": "1.5 mm, US 000",
+  "sizes_available": "13cm/5 inches tall.",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Valley Yarns Haydenville Bulky",
-    "Bulky (7 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Alpaca"
   ],
   "attributes": [
-    "ribbed",
-    "textured",
+    "3-dimensional",
+    "machine-instructions",
+    "phototutorial",
+    "stripes-colorwork",
+    "video-tutorial",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This sweet beginner bag will give new knitters lots of practice with new stitch patterns. Feel free to use this for yourself or to teach others.",
+  "full_text": "ABOUT PATTERN □ Stitch by stitch knitting pattern □ Knitted flat (2 needles) □ Video Tutorials (stitches, assembling process) The video serves as a visual supplement for your project, providing additional support. □ Process Photos □ How To Assemble Instructions □ All yarn parameters are given so you can choose the yarn from your stash as well □ Tools recommendations",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/editors",
-    "https://www.ravelry.com/patterns/library/finger-blankets",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/comments",
-    "https://www.ravelry.com/patterns/library/zenith-cowl--scarf",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/threads",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/yarns",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/people",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/report",
-    "https://www.ravelry.com/patterns/sources/elizabeth-carleys-ravelry-store",
-    "https://www.ravelry.com/patterns/library/peak-cozy-redux"
-  ]
+    "https://www.ravelry.com/patterns/library/grinch-15",
+    "https://www.ravelry.com/patterns/sources/polushkabunny-website",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/yarns",
+    "https://www.ravelry.com/patterns/library/baby-duck-806",
+    "https://www.ravelry.com/patterns/library/squirrel-40",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/comments",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/people",
+    "https://www.ravelry.com/patterns/sources/polushkabunny",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/editors",
+    "https://www.ravelry.com/patterns/library/duck-49",
+    "https://www.ravelry.com/patterns/library/baby-duck-806/report"
+  ],
+  "name": "Ravelry: Baby Duck pattern by Maria Ermolova"
 }

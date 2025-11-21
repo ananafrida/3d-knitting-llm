@@ -1,48 +1,45 @@
 {
   "pattern_id": 701,
-  "pattern_page": "https://www.ravelry.com/patterns/library/collared-pixie",
+  "pattern_page": "https://www.ravelry.com/patterns/library/time-to-play",
+  "name": "Time to Play",
+  "description": "These blocks are knit in simple stocking stitch and decorated to help little ones learn letters and shapes. The letters and shapes are embroidered on the cube faces after knitting using Swiss darning (duplicate stitch), but if you prefer you could use intarsia and follow the charts provided. Designed by Amanda Berry @fluffandfuzz, the blocks are knitted in acrylic DK yarns on single pointed needles (not in the round).",
+  "designer": "Amanda Berry",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "1-4 years",
+  "category": "Blocks",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "Large (11 cm; 4 1/2 in) cube, small (7.5 cm; 3 in) cube",
   "languages": [
-    "French",
-    "Norwegian"
+    "English"
   ],
   "suggested_yarn": [
-    "Dale Garn Baby Ull",
-    "yarn held together"
+    "Paintbox Yarns Baby DK",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "child",
-    "elastic",
-    "fitted",
-    "in-the-round",
-    "kitchener",
-    "negative-ease",
-    "one-piece",
-    "ribbed",
-    "toddler",
-    "unisex",
+    "chart",
+    "cube-shaped",
+    "duplicate-stitch",
+    "seamed",
+    "stripes-colorwork",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Yarn is held double. Gauge and yardage are not included in the pattern. English translation also available in the comments: http://www.ravelry.com/patterns/library/collared-pixie/co...",
+  "full_text": "These blocks are knit in simple stocking stitch and decorated to help little ones learn letters and shapes. The letters and shapes are embroidered on the cube faces after knitting using Swiss darning (duplicate stitch), but if you prefer you could use intarsia and follow the charts provided. Designed by Amanda Berry @fluffandfuzz, the blocks are knitted in acrylic DK yarns on single pointed needles (not in the round). NEEDLES A pair of 3mm single pointed knitting needles (US 2.5). RECOMMENDED YARN Paintbox Yarns Baby DK; double knitting/light worsted weight; 45% acrylic/55% Nylon; one 50g/167m skein in each colour . NOTIONS Tapestry needle and toy filling. SIZES One size only - 11cm and 7.5cm cubes. TECHNIQUES For confident beginners and above, other techniques used include casting on and off, and seaming to finish. PATTERN INFO This knitting pattern is a pdf download, 4 pages, and written in English. Patterns for personal use only; not for resale. Copyright © 2018 Amanda Berry; All rights reserved.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/collared-pixie",
-    "https://www.ravelry.com/patterns/library/collared-pixie/edit",
-    "https://www.ravelry.com/patterns/library/collared-pixie/posts",
-    "http://www.ravelry.com/patterns/library/collared-pixie/comments#15",
-    "https://www.ravelry.com/patterns/library/collared-pixie/threads",
-    "https://www.ravelry.com/patterns/library/collared-pixie/people",
-    "https://www.ravelry.com/patterns/library/collared-pixie/editors",
-    "https://www.ravelry.com/patterns/library/collared-pixie/report",
-    "https://www.ravelry.com/patterns/library/collared-pixie/comments",
-    "https://www.ravelry.com/patterns/library/collared-pixie/yarns",
-    "https://www.ravelry.com/patterns/sources/tante-t-s-blogg"
-  ],
-  "name": "Ravelry: collared pixie pattern by Trude"
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog",
+    "https://www.ravelry.com/patterns/library/time-to-play",
+    "https://www.ravelry.com/patterns/library/time-to-play/comments",
+    "https://www.ravelry.com/patterns/sources/simply-knitting-175-july-2018",
+    "https://www.ravelry.com/patterns/library/hearts-28",
+    "https://www.ravelry.com/patterns/library/time-to-play/yarns",
+    "https://www.ravelry.com/patterns/library/time-to-play/people",
+    "https://www.ravelry.com/patterns/library/time-to-play/editors",
+    "https://www.ravelry.com/patterns/library/time-to-play/report",
+    "https://www.ravelry.com/patterns/library/time-to-play/threads",
+    "https://www.ravelry.com/patterns/library/stuffy-owl"
+  ]
 }

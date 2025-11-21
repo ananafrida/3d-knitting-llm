@@ -1,37 +1,48 @@
 {
   "pattern_id": 1,
-  "pattern_page": "https://www.ravelry.com/patterns/library/lappestafetten",
-  "name": "Lappestafetten",
-  "description": "Lappestafetten er en samstrikk for alle.",
-  "designer": "Gunn-Iren Gunvorsdatter Simensen",
+  "pattern_page": "https://www.ravelry.com/patterns/library/elegant-knit-crown",
+  "name": "Elegant Knit Crown",
+  "description": "Dressing up, playing make-believe, pretending to be King, Queen, Prince, or Princess for a day, so many fun childhood memories involve games like these. Whether the crown was a paper hat, colored with crayons and markers, or a cardboard toy included with a kid’s meal, one thing is for sure, the wearer felt royal if only for a minute.",
+  "designer": "Kathryn Andrews",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
-  "sizes_available": "Onesize",
+  "category": "Costume",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "Large (Adult/Teen), Small (Toddler/Child)",
   "languages": [
-    "Norwegian"
+    "English"
   ],
   "suggested_yarn": [
-    "Vartofta Ullgarn",
+    "",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "square"
+    "adult",
+    "bobble-or-popcorn",
+    "child",
+    "female",
+    "lace",
+    "male",
+    "one-piece",
+    "teen",
+    "toddler",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "The patchwork relay is a joint effort for everyone. There is a new pattern from a podcaster every month, this is a free pattern. You can knit in any yarn and the needle size you think suits your choice of yarn. This can eventually become a patchwork quilt or you can knit the patches in cotton yarn which become beautiful cloths. The idea is that together we will design and knit beautiful rugs and/or cloths.",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "Dressing up, playing make-believe, pretending to be King, Queen, Prince, or Princess for a day, so many fun childhood memories involve games like these. Whether the crown was a paper hat, colored with crayons and markers, or a cardboard toy included with a kid’s meal, one thing is for sure, the wearer felt royal if only for a minute. Here is a simple pattern for a top-down knitted crown that is easy and quick to make. If you use a stretchy cast-on and bind-off, it will fit a wide range of sizes. The large fits a young teen, but also fits adult XL-sized heads. The small fits a wee toddler up through a young teen with a large-sized head. This can also be a great use for little scraps of brightly colored yarn, since each one uses a small amount.",
+  "techniques": [
+    "top-down"
+  ],
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lappestafetten",
-    "https://www.ravelry.com/patterns/library/lappestafetten/people",
-    "https://www.ravelry.com/patterns/library/lappestafetten/threads",
-    "https://www.ravelry.com/patterns/library/lappestafetten/report",
-    "https://www.ravelry.com/patterns/library/girlandersjal",
-    "https://www.ravelry.com/patterns/library/lappestafetten/yarns",
-    "https://www.ravelry.com/patterns/library/kita-skjerf",
-    "https://www.ravelry.com/patterns/library/lappestafetten/editors",
-    "https://www.ravelry.com/patterns/library/varstrikk-ved-fjorden",
-    "https://www.ravelry.com/patterns/library/lappestafetten/comments",
-    "https://www.ravelry.com/patterns/sources/gunn-iren-gunvorsdatter-simensens-ravelry-store"
+    "https://www.ravelry.com/patterns/library/mountain-range-hat",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/comments",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/report",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/posts",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/yarns",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/people",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/editors",
+    "https://www.ravelry.com/patterns/sources/kathryn-andrews-ravelry-store",
+    "https://www.ravelry.com/patterns/library/elegant-knit-crown/threads"
   ]
 }

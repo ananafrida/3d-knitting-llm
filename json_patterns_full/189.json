@@ -1,36 +1,44 @@
 {
   "pattern_id": 189,
-  "pattern_page": "https://www.ravelry.com/patterns/library/tasha",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-window-cat",
+  "name": "The Window Cat",
+  "description": "The Window Cat is a simple pattern knit in the round from the bottom up. Tail and paws are knit separately, also in the round, and seamed to the body. Finishing touches (eyes, nose and whiskers) can be embroidered on or embellished with buttons, fabric, etc. There is no end to the ways that this cat can be personalized! Dimensions of finished cat are about 12 inches by 7 inches.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag Bag → Messenger",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Rowan Denim",
+    "Red Heart Super Saver (solids)",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "other-edging"
+    "bottom-up",
+    "in-the-round",
+    "kitchener",
+    "written-pattern"
   ],
-  "full_text": "Description from Knitty, Summer 2003: I designed this bag to wear slung across the chest, keeping your hands free. Perhaps it can carry your latest small project to the shore or to the park on a Saturday morning. Tasha could even hold your yarn while you stand and knit, waiting for the train or the weekend beach bus. The denim yarn wears well and has a faded, comfortable look. The Loose Five-Rib Braid Cable was taken from Barbara Walker's Second Treasury of Knitting Patterns .",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "The Window Cat is a simple pattern knit in the round from the bottom up. Tail and paws are knit separately, also in the round, and seamed to the body. Finishing touches (eyes, nose and whiskers) can be embroidered on or embellished with buttons, fabric, etc. There is no end to the ways that this cat can be personalized! Dimensions of finished cat are about 12 inches by 7 inches. Don’t forget to check out my Tiny Window Cat pattern too!",
+  "techniques": [
+    "seamed"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tasha/editors",
-    "https://www.ravelry.com/patterns/library/sprout",
-    "https://www.ravelry.com/patterns/library/tasha",
-    "https://www.ravelry.com/patterns/library/accordion-toddler-version",
-    "https://www.ravelry.com/patterns/library/accordion-adult-version",
-    "https://www.ravelry.com/patterns/library/tasha/posts",
-    "https://www.ravelry.com/patterns/library/tasha/report",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/tasha/comments",
-    "https://www.ravelry.com/patterns/sources/knitty-summer-2003",
-    "https://www.ravelry.com/patterns/library/tasha/threads",
-    "https://www.ravelry.com/patterns/library/tasha/yarns",
-    "https://www.ravelry.com/patterns/library/tasha/people"
-  ],
-  "name": "Ravelry: Tasha pattern by Leigh Spencer"
+    "https://www.ravelry.com/patterns/library/the-parlor-cat",
+    "https://www.ravelry.com/patterns/library/the-window-cat",
+    "https://www.ravelry.com/patterns/library/the-window-cat/yarns",
+    "https://www.ravelry.com/patterns/library/the-window-cat/comments",
+    "https://www.ravelry.com/patterns/library/the-window-cat/threads",
+    "https://www.ravelry.com/patterns/library/the-window-cat/people",
+    "https://www.ravelry.com/patterns/library/the-window-cat/posts",
+    "http://www.ravelry.com/patterns/library/tiny-window-cat",
+    "https://www.ravelry.com/patterns/library/the-window-cat/report",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/the-window-cat/editors",
+    "https://www.ravelry.com/patterns/library/the-nursery-cat",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat"
+  ]
 }

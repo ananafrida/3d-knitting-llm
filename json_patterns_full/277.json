@@ -1,38 +1,53 @@
 {
   "pattern_id": 277,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy",
+  "pattern_page": "https://www.ravelry.com/patterns/library/rals---scarf",
+  "name": "Räls - scarf",
+  "description": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry.",
+  "designer": "Agnes Brandels",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "One size",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "15 x 85 cm",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
+  ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Herrschners Worsted Weight"
+    "Sport (12 wpi) ?",
+    "Järbo Alpacka Silke"
   ],
   "attributes": [
-    "3-dimensional",
-    "one-piece",
-    "ribbed",
+    "adult",
+    "cables",
+    "chart",
+    "icord",
+    "seamless",
+    "sideways",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Worked flat in one piece. The ball end is stuffed with polyester fiberbill or waste yarn and a jingle bell, and sewn shut. Finished length is about 24”; ball is about 5” in circumfrence Getting an exact gauge is not that important, but fabric should be firm enough to hold stuffing invisibly.",
-  "techniques": [
-    "worked flat"
-  ],
-  "shape": "sphere",
+  "full_text": "We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Järbo on Instagram Reseller map jarbo.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be Järbo is a Swedish brand established in 1896. We offer nordic design, selected yarns and accessories in stores and online.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/stashbuster-stripe-dishcloth",
-    "https://www.ravelry.com/patterns/library/mitred-square-dishcloth",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/people",
-    "https://www.ravelry.com/patterns/sources/fun-things-to-do-while-youre-waiting",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/report",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/comments",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy/threads"
-  ],
-  "name": "Ravelry: Knitted Bouncy Door Hanger Cat Toy pattern by Sheila Ralston"
+    "https://www.ravelry.com/patterns/sources/jarbo-jarnvag",
+    "https://www.ravelry.com/patterns/library/rals---scarf",
+    "https://www.ravelry.com/patterns/library/rals---scarf/yarns",
+    "https://www.ravelry.com/patterns/library/marstrand---sockor",
+    "https://www.ravelry.com/patterns/library/bamsen---softie",
+    "https://www.ravelry.com/patterns/library/rals---scarf/people",
+    "https://www.ravelry.com/patterns/library/rals---hat",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
+    "https://www.ravelry.com/patterns/library/rals---scarf/report",
+    "https://www.ravelry.com/patterns/library/rals---scarf/editors",
+    "https://www.ravelry.com/patterns/library/rals---scarf/comments"
+  ]
 }

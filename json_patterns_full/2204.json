@@ -1,35 +1,39 @@
 {
   "pattern_id": 2204,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-moustache",
+  "pattern_page": "https://www.ravelry.com/patterns/library/close-knit-tiny-baby-hat",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "category": "Hat → Pixie",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Bulky (7 wpi) ?",
+    "Farmhouse Yarns Lumpy Bumpy Merino by Charlene"
   ],
   "attributes": [
-    "seamed",
-    "unisex",
+    "baby",
+    "in-the-round",
+    "newborn-size",
     "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "The prefect little hat for that perfect little head.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-moustache/posts",
-    "https://www.ravelry.com/patterns/library/knitted-moustache/report",
-    "https://www.ravelry.com/patterns/library/knitted-moustache/yarns",
-    "https://www.ravelry.com/patterns/library/knitted-moustache/threads",
-    "https://www.ravelry.com/patterns/library/knitted-moustache/comments",
-    "https://www.ravelry.com/patterns/sources/instructables",
-    "https://www.ravelry.com/patterns/library/knitted-moustache/people",
-    "https://www.ravelry.com/patterns/library/knitted-moustache",
-    "https://www.ravelry.com/patterns/library/knitted-moustache/edit",
-    "https://www.ravelry.com/patterns/library/knitted-moustache/editors"
+    "https://www.ravelry.com/patterns/library/close-knit-tiny-baby-hat/report",
+    "https://www.ravelry.com/patterns/library/foggy-noggin-hat",
+    "https://www.ravelry.com/patterns/library/close-knit-tiny-baby-hat/comments",
+    "https://www.ravelry.com/patterns/library/close-knit-tiny-baby-hat",
+    "https://www.ravelry.com/patterns/library/close-knit-tiny-baby-hat/yarns",
+    "https://www.ravelry.com/patterns/library/close-knit-tiny-baby-hat/people",
+    "https://www.ravelry.com/patterns/library/close-knit-tiny-baby-hat/posts",
+    "https://www.ravelry.com/patterns/library/close-knit-tiny-baby-hat/editors",
+    "https://www.ravelry.com/patterns/library/close-knit-waffle-hat",
+    "https://www.ravelry.com/patterns/library/firefly-bias-scarf",
+    "https://www.ravelry.com/patterns/library/close-knit-tiny-baby-hat/threads",
+    "https://www.ravelry.com/patterns/sources/close-knit-portland-website"
   ],
-  "name": "Ravelry: Knitted Moustache pattern by Holly2"
+  "name": "Ravelry: Close Knit Tiny Baby Hat pattern by Leah Bandstra"
 }

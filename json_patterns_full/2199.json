@@ -1,44 +1,46 @@
 {
   "pattern_id": 2199,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume",
-  "name": "Fuzzy Buzzy Bee Costume",
-  "description": "A toddler’s bee costume, knit quickly in a large gauge that can be substituted stitch for stitch by centimeter to make larger or smaller sizes. Enjoy.",
-  "designer": "Hattie B. Holtapp",
+  "pattern_page": "https://www.ravelry.com/patterns/library/pixie-hat-worsted",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "2T",
+  "category": "Hat → Pixie",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "Newborn",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Yarn Bee Luscious",
-    "Bulky (7 wpi) ?"
+    "Crystal Palace Yarns Bunny Hop Print",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "hood",
-    "in-the-round",
-    "short-rows",
-    "toddler",
-    "top-down",
+    "elastic",
+    "newborn-size",
+    "preemie",
+    "ribbed",
+    "seamed",
     "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A toddler’s bee costume, knit quickly in a large gauge that can be substituted stitch for stitch by centimeter to make larger or smaller sizes. Enjoy.",
+  "full_text": "This is the worsted weight version of the original Pixie Hat (Fingering) , one of Crystal Palace Yarns’ original and most knitted patterns, which is made with fingering weight yarn. The pattern says you can make two hats from one skein of the Bunny Hop yarn.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/people",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/report",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/comments",
-    "https://www.ravelry.com/patterns/library/beginners-lucky-pouch",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/threads",
-    "https://www.ravelry.com/patterns/library/toddlers-cast-cover-ii",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/yarns",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/posts",
-    "https://www.ravelry.com/patterns/library/fair-and-square-baby-blanket",
-    "https://www.ravelry.com/patterns/library/fuzzy-buzzy-bee-costume/editors",
-    "https://www.ravelry.com/patterns/sources/hatticustricks"
-  ]
+    "https://www.ravelry.com/patterns/sources/crystal-palace-yarns",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/comments",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/posts",
+    "http://www.knittingonthenet.com/patterns/babyhatpixie.htm",
+    "https://www.ravelry.com/patterns/sources/knitting-on-the-net",
+    "https://www.ravelry.com/patterns/library/cabled-scarf-34",
+    "https://www.ravelry.com/patterns/library/pixie-hat-fingering",
+    "https://www.ravelry.com/patterns/library/trio-knit-tote-bag",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/threads",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/people",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/yarns",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/editors",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/report",
+    "https://www.ravelry.com/patterns/library/pixie-hat-worsted/edit"
+  ],
+  "name": "Ravelry: Pixie Hat (Worsted) pattern by Crystal Palace Yarns"
 }

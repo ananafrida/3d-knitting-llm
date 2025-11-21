@@ -1,57 +1,39 @@
 {
   "pattern_id": 546,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
-  "name": "Ten Stitch Blanket",
-  "description": "An Elizabeth Zimmermann inspired blanket worked in any yarn using only 10 stitches. You start in the centre and work in a sort of square spiral, joining as you go. No sewing up needed!",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4",
   "craft": "Knitting",
-  "category": "Blanket → Throw Blanket → Baby Blanket",
+  "category": "Containers",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "sizes_available": "extra small, Small, Medium, Large",
   "languages": [
-    "Danish",
-    "Dutch",
-    "English",
-    "Finnish",
-    "French",
-    "German",
-    "Greek",
-    "Hungarian",
-    "Italian",
-    "Japanese",
-    "Norwegian",
-    "Portuguese",
-    "Swedish",
-    "...and 13 other languages show hide other languages",
-    "...and 13 other languages show",
-    "hide other languages"
+    "English"
   ],
   "suggested_yarn": [
     "Aran (8 wpi) ?",
-    "Noro Kureyon（くれよん）"
+    "Lion Brand Lion Wool Solids"
   ],
   "attributes": [
-    "one-piece",
-    "seamless",
-    "short-rows",
-    "worked-flat",
+    "circle-shaped",
+    "felted",
+    "in-the-round",
     "written-pattern"
   ],
-  "full_text": "An Elizabeth Zimmermann inspired blanket worked in any yarn using only 10 stitches. You start in the centre and work in a sort of square spiral, joining as you go. No sewing up needed! All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here This pattern has been translated into 12 other languages (so far), all the translations are available as free downloads by clicking on the ‘download’ link.",
+  "full_text": "Approximate Finished measurements (diameter across top): Orange: 6.5” Purple: 5.25” Yellow: 4.25” Pink: 3.5”",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket/people",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/bundles/ten-stitch-patterns",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket/threads",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket/report",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket/posts",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket/comments",
-    "https://www.ravelry.com/patterns/library/ten-stitch-blanket/editors",
-    "https://www.ravelry.com/patterns/library/ten-stitch-twist",
-    "https://www.ravelry.com/patterns/library/ten-stitch-hat",
-    "https://www.ravelry.com/patterns/sources/slipknot-no-119-march-2008"
-  ]
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/editors",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/report",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/edit",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/people",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4",
+    "https://www.ravelry.com/patterns/sources/alice-thelma-blog",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/comments",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/posts",
+    "https://web.archive.org/web/20120104123707/http:/www.heavydutydesign.com/alicethelma/2009/03/free-pattern-felted-nesting-bowls/",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/threads",
+    "https://www.ravelry.com/patterns/library/felted-nesting-bowls-4/yarns",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine"
+  ],
+  "name": "Ravelry: Felted Nesting Bowls pattern by Alice Thelma"
 }

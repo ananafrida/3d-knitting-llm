@@ -1,43 +1,50 @@
 {
   "pattern_id": 2205,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jimster",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
-  "sizes_available": "one size",
+  "category": "Hat → Pixie",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "15, 17, 20, 22 in/38, 43.25, 51, 56 cm",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "worsted weight wool",
-    "Worsted (9 wpi) ?"
+    "Abuelita Yarns Mysterious Blend Bulky",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "adult",
-    "bottom-up",
-    "elastic",
-    "positive-ease",
+    "baby",
+    "child",
+    "color-blind-accessible",
+    "kitchener",
+    "low-vision",
+    "ribbed",
+    "seamless",
+    "sideways",
     "teen",
+    "toddler",
     "unisex",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This pattern was designed as a part of a crusader costume, to be used in a local theatre production. It is sized for adults but I think it could be downsized by changing needles and using a finer weight wool.",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/threads",
-    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/editors",
-    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/posts",
-    "https://www.ravelry.com/patterns/library/candy-stripe-socks",
-    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern",
-    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/report",
-    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/people",
-    "https://www.ravelry.com/patterns/library/cable-and-lace-socks",
-    "http://knitsnthings.wordpress.com/2009/06/17/the-pattern/",
-    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/yarns",
-    "https://www.ravelry.com/patterns/sources/knitsnthings",
-    "https://www.ravelry.com/patterns/library/knitted-chain-maille-helmet-pattern/comments",
-    "https://www.ravelry.com/patterns/library/childs-lace-socks"
+  "full_text": "Jimster is knit flat, from side to side, and is a fantastically quick knit! Ideally worked with a provisional cast-on and grafting for a seam-free finish, this little Hat is absolutely perfect for practicing these skills. Yarn 71 (101, 137, 177) yd/65 (93, 125, 162) m 42yd/38m for a 6x6in/15x15cm swatch in St.St. Bulky weight, single ply yarn. Needles & Notions Pair 5mm/UK6/US8 straight needles or size needed to obtain gauge Approx 2yd/2m waste yarn 5mm crochet hook Tapestry needle Sample details Shown in Abuelita Yarns Mysterious Bulky (115yd/105m per 100g; 95% Merino-Corriedale, 5% Silk) Shown in size 20in/56cm on model with 19.5in/49.5cm circumference head Gauge 14 sts x 28 rows to 4in/10cm on 5mm needles over Garter St. Alternative yarns Malabrigo Chunky (104yd/95m per 100g; 100% Merino) Lorna’s Laces Shepherd Bulky (140yd/128m per 113g; 100% Wool) Sizes To fit sizes: 15 (17, 20, 22) in, 38 (43.25, 51, 56) cm Finished size: 12 (14, 16, 18) in, 30.5 (35.5, 40.5, 45.75) cm Skills required Knit sts, provisional cast-on, Kitchener stitch (grafting) Accessibility Statement This pattern is colour blind accessible. It uses black text on a white background and does not rely on colour. Support Do you need help with this pattern? We have a specific discussion thread in the Wormhead’s Hats group where you can ask any questions. Published November 2011 Technical editors: Heather Murray",
+  "techniques": [
+    "grafting"
   ],
-  "name": "Ravelry: Knitted Chain Maille Helmet Pattern pattern by Lisa Gubbels"
+  "shape": "sphere",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/jimster/yarns",
+    "https://www.ravelry.com/patterns/library/jimster/people",
+    "https://www.ravelry.com/patterns/library/jimster/report",
+    "https://www.ravelry.com/patterns/library/jimster",
+    "https://www.ravelry.com/patterns/sources/woolly-wormhead",
+    "https://www.ravelry.com/patterns/library/jimster/comments",
+    "https://www.ravelry.com/patterns/library/jimster/editors",
+    "https://www.ravelry.com/patterns/library/swinton",
+    "https://www.ravelry.com/patterns/library/jimster/threads",
+    "https://www.ravelry.com/patterns/library/tipper-2",
+    "https://www.ravelry.com/patterns/library/bilateral"
+  ],
+  "name": "Ravelry: Jimster pattern by Woolly Wormhead"
 }

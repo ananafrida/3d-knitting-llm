@@ -1,35 +1,43 @@
 {
   "pattern_id": 2198,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-lion-king-of-texas",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jester-hat",
+  "name": "Jester Hat",
+  "description": "The Jester is a quick-to-knit and whimsical hat, knit in the round, with I-cord and attached ball on top. Choose a soft super-bulky yarn and knit tightly to keep out the wind and cold. The idea of knitting a ball as a hat topper came Anna Zilboorg’s 45 Fine and Fanciful Hats.",
+  "designer": "Elizabeth Morrison",
   "craft": "Knitting",
-  "category": "Costume",
+  "category": "Hat → Pixie",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "Adult sizes M & L",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Worsted (9 wpi) ?"
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
     "adult",
+    "bottom-up",
+    "icord",
     "in-the-round",
-    "teen",
-    "unisex",
-    "written-pattern"
+    "seamless",
+    "tassel"
   ],
-  "full_text": "A quick knit for a last minute Halloween costume. A basic beanie hat, 2 triangles for the ears & then lots of assorted loops of yarn to make the mane. The specific yarns are not important - pick the combination that works best for you - most likely you have some odds & ends in the stash that can be incorporated into the mane.",
+  "full_text": "The Jester is a quick-to-knit and whimsical hat, knit in the round, with I-cord and attached ball on top. Choose a soft super-bulky yarn and knit tightly to keep out the wind and cold. The idea of knitting a ball as a hat topper came Anna Zilboorg’s 45 Fine and Fanciful Hats. 2 adult sizes, M and L with 22 and 24 inch circumfrences respectively. Many have modified for babies and children by using worsted weight yarn and smaller needles. Requires 100 grams of bulky weight yarn, no yardage given.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-lion-king-of-texas",
-    "https://www.ravelry.com/patterns/library/the-lion-king-of-texas/posts",
-    "https://www.ravelry.com/patterns/library/the-lion-king-of-texas/report",
-    "https://www.ravelry.com/patterns/library/the-lion-king-of-texas/comments",
-    "https://www.ravelry.com/patterns/sources/amy-artisan",
-    "https://www.ravelry.com/patterns/library/the-lion-king-of-texas/people",
-    "http://amyartisan.com/blog/downloads/the-lion-king-of-texas/",
-    "https://www.ravelry.com/patterns/library/the-lion-king-of-texas/yarns",
-    "https://www.ravelry.com/patterns/library/the-lion-king-of-texas/editors"
-  ],
-  "name": "Ravelry: The Lion King of Texas pattern by Amy Rickeard"
+    "https://www.ravelry.com/patterns/library/jester-hat/threads",
+    "https://www.ravelry.com/patterns/library/jester-hat",
+    "https://www.ravelry.com/patterns/library/jester-hat/comments",
+    "https://www.ravelry.com/patterns/library/jester-hat/editors",
+    "https://www.ravelry.com/patterns/library/scrappy-tube-scarf",
+    "https://www.ravelry.com/patterns/library/jester-hat/yarns",
+    "https://www.ravelry.com/patterns/library/jester-hat/report",
+    "https://www.ravelry.com/patterns/library/scrappy-toque",
+    "https://www.ravelry.com/patterns/library/jester-hat/people",
+    "https://www.ravelry.com/patterns/sources/sweater-studio-2",
+    "https://www.ravelry.com/patterns/library/jester-hat/posts",
+    "https://www.ravelry.com/patterns/library/easy-pussy-hat"
+  ]
 }

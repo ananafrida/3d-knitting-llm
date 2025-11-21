@@ -1,37 +1,38 @@
 {
   "pattern_id": 467,
-  "pattern_page": "https://www.ravelry.com/patterns/library/litmus-cowl",
-  "name": "Litmus Cowl",
-  "description": "The Litmus Cowl is a basic recipe for creating a fun striped cowl. It’s something I improvised to work on while I was travelling and I got so many questions about it, I thought I’d write up what I did.",
-  "designer": "Jude Harper",
+  "pattern_page": "https://www.ravelry.com/patterns/library/festive-stash-tree-garland",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "One size",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Canon Hand Dyes Bruce Yak Merino Fingering",
-    "Fingering (14 wpi) ?"
+    "Stylecraft Life DK",
+    "yarn held together"
   ],
   "attributes": [
-    "in-the-round",
-    "kitchener",
-    "provisional"
+    "phototutorial",
+    "triangle-shaped",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "The Litmus Cowl is a basic recipe for creating a fun striped cowl. It’s something I improvised to work on while I was travelling and I got so many questions about it, I thought I’d write up what I did. I knit mine using a mini skein kit from Canon Hand Dyes and a skein of undyed Merino Yak Nylon, but it’s perfect for using up leftover fingering weight yarn. I used 24 5g mini skeins for the contrast colours and one full skein of the undyed yarn as the main colour. The finished measurements (when grafted together) are 75cm long by 18cm wide - it’s perfect to wear wrapped twice. Gauge isn’t super important with this pattern - just knit to the length you’re happy with before you graft the ends together.",
+  "full_text": "First published in Knit Today in 2011, I have updated the pattern into my current format. My free Knitted Christmas Trees Pattern is a quick and easy make that uses up small scraps of yarn from your stash. Each little tree is knitted in garter stitch with yarn held double, then finished with a neat knitted trunk. Double knitting yarn (light worsted weight) is held together to create a firm thickness, similar to a light bulky (chunky) yarn. Us 7 (4.5mm) straight knitting needles are used to work flat, in rows, starting from the bottom of the tree, and working up. Alternatively - you can make smaller individual trees for gift-wrapping, using yarn single and 3.25mm needles. Simple decreasing shapes the tree (k2tog). The trunk can either be knitted on, by picking up stitches, or knitted separately and sewn on. Both options are included.",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/litmus-cowl/report",
-    "https://www.ravelry.com/patterns/library/litmus-cowl",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/comments",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/posts",
-    "https://www.ravelry.com/patterns/sources/stranded-dyeworks",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/threads",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/editors",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/people",
-    "https://www.ravelry.com/patterns/library/litmus-cowl/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/little-woodland-trees",
+    "https://www.ravelry.com/patterns/library/festive-stash-tree-garland/yarns",
+    "https://www.ravelry.com/patterns/library/bibbity-bobbity-pumpkins",
+    "https://www.ravelry.com/patterns/sources/knit-crochet-create",
+    "https://www.ravelry.com/patterns/library/festive-stash-tree-garland/editors",
+    "https://www.ravelry.com/patterns/library/festive-stash-tree-garland/comments",
+    "https://knitcrochetcreate.co.uk/2025/10/christmas-tree-knitting-pattern/",
+    "https://www.ravelry.com/patterns/library/festive-stash-tree-garland/people",
+    "https://www.ravelry.com/patterns/library/festive-stash-tree-garland/report",
+    "https://www.ravelry.com/patterns/library/festive-stash-tree-garland",
+    "https://www.ravelry.com/patterns/library/little-easter-bunny-motif"
+  ],
+  "name": "Ravelry: Festive Stash Tree Garland pattern by Knit Crochet Create"
 }

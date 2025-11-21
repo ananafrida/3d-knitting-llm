@@ -1,42 +1,52 @@
 {
   "pattern_id": 1728,
-  "pattern_page": "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small",
+  "pattern_page": "https://www.ravelry.com/patterns/library/quick-ombre-hat",
+  "name": "Quick Ombré Hat",
+  "description": "This pattern uses stranded color work and changes gradually from one color to the next.",
+  "designer": "Emily Dormier",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "Preemie 4-5lbs, Preemie 5-6lbs, Newborn, Baby 3-6months, Baby 6-12 months, Toddler, Child, Adult woman, Adult man",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Red Heart Luster Sheen Multi",
-    "Sport (12 wpi) ?"
+    "Plymouth Yarn Encore Worsted Solids & Heathers",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "adult",
+    "baby",
+    "bottom-up",
+    "chart",
+    "child",
+    "fitted",
     "in-the-round",
-    "tied",
-    "top-down",
-    "written-pattern"
+    "newborn-size",
+    "one-piece",
+    "preemie",
+    "seamless",
+    "stranded",
+    "teen",
+    "toddler",
+    "unisex"
   ],
-  "full_text": "Since hubby is a hard-core D&D geek, he has lots of dice. I decided that he needed a nifty bag to keep them in, so I made the red version . Then I decided I wanted it for my dice, and made the felted version for him. The smallest one was made for a set of 100 tiny 6-sided dice (4mm on a side) These would also work well in non-geek applications, and are great stashbusters – I didn’t use anywhere near a full skein for any of them. Gauge is not critical, but I have given mine as a reference. You can download the .pdf file here , or follow the link to my blog.",
+  "full_text": "This pattern uses stranded color work and changes gradually from one color to the next.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/people",
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/comments",
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/threads",
-    "http://katydidknits.digital-arcana.com/documents/GeekChicDicePouch.pdf",
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small",
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-felted",
-    "http://www.ravelry.com/patterns/show/geek-chic-dice-pouch-felted",
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-medium",
-    "https://www.ravelry.com/patterns/sources/katydid-knits",
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/posts",
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/yarns",
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/editors",
-    "http://katydidknits.blogspot.com/2005/10/geek-chic-dice-bags-pattern.html",
-    "http://www.ravelry.com/patterns/show/geek-chic-dice-pouch-medium",
-    "https://www.ravelry.com/patterns/library/jack-sparrows-favorite-socks",
-    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/report"
-  ],
-  "name": "Ravelry: Geek Chic Dice Pouch (small) pattern by Pamela Northrup"
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/yarns",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/people",
+    "https://www.ravelry.com/patterns/library/love-the-winter-hat",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/report",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/threads",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/editors",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/posts",
+    "https://www.ravelry.com/patterns/library/sunset-hat-3",
+    "https://www.ravelry.com/patterns/library/horizon-hat",
+    "https://www.ravelry.com/patterns/sources/emily-dormiers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/quick-ombre-hat/comments"
+  ]
 }

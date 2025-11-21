@@ -1,39 +1,43 @@
 {
   "pattern_id": 2054,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cafe-au-lait-mittens",
+  "pattern_page": "https://www.ravelry.com/patterns/library/woolly-ball",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "Women's medium",
+  "category": "Ball",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "6\" diameter",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aslan Trends Royal Alpaca",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Cleckheaton Country 8 Ply"
   ],
   "attributes": [
-    "lace",
-    "ribbed",
-    "twisted-stitches",
+    "modular",
+    "seamed",
+    "sphere-shaped",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "These are mittens based on the Cafe au Lait mitts . Knit the mitts as instructed until you reach the p1 k1 ribbing at the top of the mitt (don’t knit the ribbing).",
+  "full_text": "This pattern calls for scraps of dk weight yarn but can be knit with any yarn and needles several sizes smaller than what is normally called for in order to create a tightly knit fabric",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/he-knits-n-spins",
-    "https://www.ravelry.com/patterns/library/cafe-au-lait-mittens/people",
-    "https://www.ravelry.com/patterns/library/cafe-au-lait-mittens",
-    "https://www.ravelry.com/patterns/library/cafe-au-lait-mittens/threads",
-    "https://www.ravelry.com/patterns/library/cafe-au-lait-mittens/report",
-    "https://www.ravelry.com/patterns/library/cafe-au-lait-mitts",
-    "https://www.ravelry.com/patterns/library/cafe-au-lait-mittens/editors",
-    "https://www.ravelry.com/patterns/library/spiral-mittens",
-    "https://www.ravelry.com/patterns/library/cable-hat-2",
-    "https://www.ravelry.com/patterns/library/cafe-au-lait-mittens/yarns",
-    "https://www.ravelry.com/patterns/library/cafe-au-lait-mittens/posts",
-    "https://www.ravelry.com/patterns/library/cafe-au-lait-mittens/comments"
+    "https://www.ravelry.com/patterns/library/woolly-ball/posts",
+    "https://www.ravelry.com/patterns/library/woolly-ball/report",
+    "https://www.ravelry.com/patterns/library/woolly-ball/yarns",
+    "https://www.ravelry.com/patterns/library/woolly-ball/edit",
+    "https://www.ravelry.com/patterns/library/handspun-ribbed-hat",
+    "https://www.ravelry.com/patterns/library/woolly-ball/comments",
+    "https://www.ravelry.com/patterns/library/log-cabin-square",
+    "https://www.ravelry.com/patterns/library/feather-and-fan-comfort-shawl",
+    "https://www.ravelry.com/patterns/periodicals/invalid-source-please-do-not-use",
+    "https://www.ravelry.com/patterns/library/woolly-ball",
+    "http://www.knitting-and.com/knitting/patterns/toys/woollyball.htm",
+    "https://www.ravelry.com/patterns/library/woolly-ball/people",
+    "https://www.ravelry.com/patterns/sources/-pattern-source-needed---do-not-add-to-ravelry",
+    "https://www.ravelry.com/patterns/library/woolly-ball/editors",
+    "https://www.ravelry.com/patterns/library/woolly-ball/threads"
   ],
-  "name": "Ravelry: Cafe au Lait Mittens pattern by John Morrison"
+  "name": "Ravelry: Woolly Ball pattern by Sarah Bradberry"
 }

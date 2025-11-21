@@ -1,38 +1,47 @@
 {
   "pattern_id": 1545,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pumpkins-31",
-  "name": "Pumpkins",
-  "description": "Have fun with this adorable pumpkin knitting pattern!",
-  "designer": "Heather McFadyen",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
+  "name": "Bandana Cowl No. 4",
+  "description": "Yarn: 130 yards of dk weight yarn",
+  "designer": "Cleo Malone",
   "craft": "Knitting",
-  "category": "Decorative → Other",
+  "category": "Neck / Torso → Cowl",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Briggs & Little Heritage 2 Ply",
-    "Aran (8 wpi) ?"
+    "DK (11 wpi) ?",
+    "Shibui Knits Nest"
   ],
   "attributes": [
+    "adult",
+    "child",
     "in-the-round",
+    "one-piece",
+    "seamless",
+    "teen",
+    "top-down",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "Have fun with this adorable pumpkin knitting pattern! This free pumpkin knitting pattern is the perfect project. You can use any size knitting needles to create multiple sized pumpkins to decorate for Autumn. Knit some short, knit them tall, it’s totally your preference. This pattern is also a great starter project for anyone learning to knit.",
+  "full_text": "Yarn : 130 yards of dk weight yarn We used 1 skein of Shibui Nest in “Abyss.” Needles : US 7 / 4.5 mm 16” circulars or equivalent type & length in size needed to obtain gauge Notions : 2 different colored stitch markers, darning needle, scissors, and tape measure Gauge : 5 stitches & 8 rows per inch in broken rib after blocking Sizes : one size, though instructions are given in pattern to adjust length Measurements : 14.5” around neck, 26” around at base, 7” tall",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/briggs--little-ravelry-store",
-    "https://www.ravelry.com/patterns/periodicals/briggs--little",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/report",
-    "https://www.ravelry.com/patterns/library/canada-pride-set",
-    "https://www.ravelry.com/patterns/library/town--country-socks",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/comments",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/yarns",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/people",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/edit",
-    "https://www.ravelry.com/patterns/library/felted-hat-and-mittens-set",
-    "https://www.ravelry.com/patterns/library/pumpkins-31",
-    "https://www.ravelry.com/patterns/library/pumpkins-31/editors"
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/people",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/threads",
+    "https://www.ravelry.com/patterns/sources/placemarker",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/yarns",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/posts",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-2",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/editors",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/report",
+    "https://www.ravelry.com/patterns/library/half-circle-shawl-6",
+    "https://www.ravelry.com/patterns/sources/cleo-malones-ravelry-store",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/comments",
+    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
+    "https://www.ravelry.com/patterns/library/little-triangle-scarf-no1"
   ]
 }

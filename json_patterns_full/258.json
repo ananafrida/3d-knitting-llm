@@ -1,45 +1,37 @@
 {
   "pattern_id": 258,
-  "pattern_page": "https://www.ravelry.com/patterns/library/out-of-yarn",
-  "name": "Out of Yarn",
-  "description": "10 yards (9.144 Meters) in each of 3 colors. (A total of 30 yards (27.5 Meters) of worsted wt yarn.) {Any yarn can be used, as long as you use needles slightly smaller than recommended for that yarn weight.}",
-  "designer": "Audrey Bochantin",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cloudberry-bandana",
   "craft": "Knitting",
-  "category": "Ball Pet → Toys",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Purl Soho Nigh DK"
   ],
   "attributes": [
-    "3-dimensional",
-    "entrelac",
-    "kitchener",
-    "modular",
-    "one-piece",
-    "phototutorial",
-    "provisional",
-    "sphere-shaped",
+    "textured",
+    "triangle-shaped",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "10 yards (9.144 Meters) in each of 3 colors. (A total of 30 yards (27.5 Meters) of worsted wt yarn.) {Any yarn can be used, as long as you use needles slightly smaller than recommended for that yarn weight.} You will also need on hand: Stitch holder or waste yarn, and a blunt point tapestry needle.",
+  "full_text": "MATERIALS 2 skeins of Purl Soho’s Nigh DK , 100% cashmere yarn. Each skein of this light worsted/ DK-weight yarn is 199 yards/ 55 grams; approximately 250 total yards required. We used the colors Ocean Storm, Raindrop Blue, and Warm Cognac. US 5 (3.75 mm), 24-inch circular knitting needles (NOTE: You can use longer needles if you like, but they may feel a little finicky toward the end when you’re working on fewer stitches!) GAUGE 22 stitches and 43 rows = 4 inches in double seed stitch (see Notes) SIZE Finished Length of Wingspan: 41¼ inches wide Finished Depth from Point to Middle of Cast-On Edge: 10¼ inches Pattern designed and written by Purl Soho founder and co-owner, Joelle Hoverson .",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/out-of-yarn/threads",
-    "https://www.ravelry.com/patterns/sources/audreys-patterns",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/yarns",
-    "https://www.ravelry.com/patterns/library/basic-flat-knit-sock",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/people",
-    "https://www.ravelry.com/patterns/library/indoor-flyer",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/editors",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/posts",
-    "https://www.ravelry.com/patterns/library/twisted-monkey-tv-socks",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/report",
-    "https://www.ravelry.com/patterns/library/out-of-yarn",
-    "https://www.ravelry.com/patterns/library/out-of-yarn/comments"
-  ]
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/comments",
+    "https://www.ravelry.com/patterns/library/charm-blanket",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/whisper-bandana",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/people",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/report",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/editors",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/cloudberry-bandana/yarns"
+  ],
+  "name": "Ravelry: Cloudberry Bandana pattern by Purl Soho"
 }

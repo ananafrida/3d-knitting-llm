@@ -1,39 +1,39 @@
 {
   "pattern_id": 26,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square",
-  "name": "Ichthyosaurs Blanket Square",
-  "description": "The first correctly identified ichthyosaur skeleton was discovered in England by my heroine Mary Anning in the early 1800s, of course she got no credit at the time, being poor, single, and female.",
-  "designer": "Mandy Kay",
+  "pattern_page": "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Costume",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "one size",
   "languages": [
-    "English",
-    "Universal"
+    "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Deramores Studio Anti-Pilling DK"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "chart",
-    "doubleknit",
-    "other-colorwork",
-    "reversible"
+    "child",
+    "one-piece",
+    "seamless",
+    "unisex",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "The first correctly identified ichthyosaur skeleton was discovered in England by my heroine Mary Anning in the early 1800s, of course she got no credit at the time, being poor, single, and female. Ichthyosaurs lived from about 250 to 90 mya and were particularly abundant in the Late Triassic to Early Jurassic. Like today’s cetaceans, which they do resemble due to convergent evolution, they evolved from land animals returning to the sea - in their case reptiles rather than mammals. You will need two skeins of yarn in nicely contrasting colours. The pattern is 47sts by 58 rows done in double knitting, and comes out at 10 inches square on 4mm needles. You could use thicker yarn and larger needles for a larger square if you wish.",
+  "full_text": "If using cotton yarn make sure you make the ties long enough as cotton does not have the elastic properties needed to bounce back.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/people",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/comments",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/report",
-    "https://www.ravelry.com/patterns/library/leaellynasaura-blanket-square",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/editors",
-    "https://www.ravelry.com/patterns/library/ichthyosaurs-blanket-square/yarns",
-    "https://www.ravelry.com/patterns/library/pachycephalosaur-blanket-square",
-    "https://www.ravelry.com/patterns/sources/mandy-kays-ravelry-store",
-    "https://www.ravelry.com/patterns/library/dunkleosteus-blanket-square"
-  ]
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/threads",
+    "https://www.ravelry.com/patterns/sources/letting-it-all-hang-out",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/comments",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/yarns",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/edit",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/editors",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/people",
+    "https://www.ravelry.com/patterns/library/shiver-me-timbers-eye-patch/report",
+    "http://mylovleycrunchylife.blogspot.com/2008/05/shiver-me-timbers-eye-patch-pattern.html"
+  ],
+  "name": "Ravelry: Shiver Me Timbers (Eye Patch) pattern by Corri Taylor"
 }

@@ -1,36 +1,39 @@
 {
   "pattern_id": 143,
-  "pattern_page": "https://www.ravelry.com/patterns/library/perovskite-project---octahedron",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig",
+  "name": "Mr. Schnitzel the Pig",
+  "description": "ABOUT THE PATTERN",
+  "designer": "Svitlana Kondratova",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "18 cm",
   "languages": [
-    "English"
+    "English",
+    "Russian"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Loves You 7"
   ],
   "attributes": [
-    "3-dimensional"
+    "phototutorial",
+    "written-pattern"
   ],
-  "full_text": "This pattern was part of a project to build a giant model of the perovskite crystal structure using knitting and crochet. Read about the project here . NB: The project ended in 2013. Notions: Toy stuffing, cardboard to reinforce the octahedron shape, sewing needle and thread. (Note: Cardboard from a cereal box should be sufficient.) Companion to the Perovskite Project - Central Atom pattern.",
+  "full_text": "ABOUT THE PATTERN This is a KNITTING PATTERN of a pig named Mr. Schnitzel. It includes a material list, abbreviations, instructions and photos. LANGUAGE: This pattern is written in ENGLISH and RUSSIAN. SKILL LEVEL: Advanced beginner. This pattern includes a material list, abbreviations, instructions and photos. MATERIALS REQUIRED: Sport weight yarn in pink, white and blue approx. 10 g each 2.5 circular knitting needles 2.5 mm two double pointed needles 3 mm crochet hook Darning needle Stuffing Stitch markers 10 pins 4 safety pins or scrap yarn Scrap yarn in red and black Depending on your yarn and needle size, the toy may be larger or smaller. TOY SIZE Approximately 18 cm You may sell the finished toy, provided you give the credit to Svitlana Kondratova as the designer You may not sell or share the pattern. Please don’t forget to tag your creations on Instagram with @im_strickfieber #im_strickfieber #MrSchnitzelThePig If you have any questions please do not hesitate to contact me.",
   "techniques": [],
-  "shape": "cube",
+  "shape": "softie",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/editors",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/report",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/yarns",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/comments",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/posts",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/threads",
-    "https://web.archive.org/web/20150914164909/http://www.surrey.ac.uk/chemistry/files/Octahedron%20Knitting%20Pattern.pdf",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/edit",
-    "https://www.ravelry.com/patterns/library/perovskite-project---central-atom",
-    "https://www.ravelry.com/patterns/sources/university-of-surrey---chemistry",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/people",
-    "http://web.archive.org/web/20150914164909/http://www.surrey.ac.uk/chemistry/files/Octahedron%20Knitting%20Pattern.pdf"
-  ],
-  "name": "Ravelry: Perovskite Project - Octahedron pattern by University of Surrey - Chemistry Department"
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig",
+    "https://www.ravelry.com/patterns/library/pandastic-beast",
+    "https://www.ravelry.com/patterns/library/maximilion-a-wild-cat",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/people",
+    "https://www.ravelry.com/patterns/library/mr-ruesselo-the-elephant",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/report",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/yarns",
+    "https://www.ravelry.com/patterns/sources/svitlana-kondratovas-ravelry-store",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/comments",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/editors",
+    "https://www.ravelry.com/patterns/library/mr-schnitzel-the-pig/threads"
+  ]
 }

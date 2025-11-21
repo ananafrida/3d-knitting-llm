@@ -1,41 +1,36 @@
 {
   "pattern_id": 1315,
-  "pattern_page": "https://www.ravelry.com/patterns/library/grinch-15",
+  "pattern_page": "https://www.ravelry.com/patterns/library/christmas-gnomies",
+  "name": "Christmas Gnomies",
+  "description": "These little gnomes are quickly made from sock yarn remnants. Gauge does not really matter. I made mine with sock yarn on 2.25 mm needles and they turned out about 5 inches high (6 inches with the hat straight up).",
+  "designer": "Susanne Vetterkind",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "approx.38cm/15inches",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "in-the-round",
-    "stripes",
-    "stripes-colorwork",
-    "video-tutorial",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round"
   ],
-  "full_text": "ABOUT PATTERN Stitch-by-stitch Knitting Pattern Video Tutorials (how to assemble + knitting stitches) Process Photos Detailed How-To Assemble Instructions All yarn parameters are given so you can choose the yarn from your stash as well Tools recommendations Knitted flat on 2 needles + Knitted in the round version for most of toy’s parts Wishing you all a holiday season filled with joy, but don’t forget, the Grinch is always lurking nearby!",
+  "full_text": "These little gnomes are quickly made from sock yarn remnants. Gauge does not really matter. I made mine with sock yarn on 2.25 mm needles and they turned out about 5 inches high (6 inches with the hat straight up).",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/grinch-15/yarns",
-    "https://www.ravelry.com/patterns/library/large-monkey-2",
-    "https://www.ravelry.com/patterns/library/grinch-15/comments",
-    "https://www.ravelry.com/patterns/library/grinch-15/threads",
-    "https://www.ravelry.com/patterns/library/baby-duck-806",
-    "https://www.ravelry.com/patterns/library/grinch-15/report",
-    "https://www.ravelry.com/patterns/library/grinch-15/editors",
-    "https://www.ravelry.com/patterns/library/grinch-15",
-    "https://www.ravelry.com/patterns/library/goose-toy",
-    "https://www.ravelry.com/patterns/library/grinch-15/people",
-    "https://www.ravelry.com/patterns/sources/polushkabunny-website"
-  ],
-  "name": "Ravelry: Grinch pattern by Maria Ermolova"
+    "https://www.ravelry.com/patterns/library/christmas-gnomies/people",
+    "https://www.ravelry.com/patterns/library/christmas-gnomies/editors",
+    "https://www.ravelry.com/patterns/library/christmas-gnomies/yarns",
+    "https://www.ravelry.com/patterns/library/christmas-gnomies",
+    "https://www.ravelry.com/patterns/library/christmas-gnomies/threads",
+    "https://www.ravelry.com/patterns/library/zesty-citrus-coasters",
+    "https://www.ravelry.com/patterns/library/mcinsquish-apple-cozy",
+    "https://www.ravelry.com/patterns/sources/susanne-vetterkinds-ravelry-store",
+    "https://www.ravelry.com/patterns/library/christmas-gnomies/comments",
+    "https://www.ravelry.com/patterns/library/christmas-gnomies/posts",
+    "https://www.ravelry.com/patterns/library/spring-blossom-socks",
+    "https://www.ravelry.com/patterns/library/christmas-gnomies/report"
+  ]
 }

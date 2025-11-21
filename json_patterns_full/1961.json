@@ -1,39 +1,47 @@
 {
   "pattern_id": 1961,
-  "pattern_page": "https://www.ravelry.com/patterns/library/woodland-wreath-leaves",
-  "name": "Woodland Wreath, Leaves",
-  "description": "This is the second in a series of twelve linked patterns for a knitted wreath, to be published daily in December 2013.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/effortless-cardigan-2",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "34 (38½, 42, 45½, 49½)”",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Lion Brand Basic Stitch Premium",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "icord",
-    "motifs"
+    "adult",
+    "female",
+    "long-sleeve",
+    "patch-pocket",
+    "raglan-sleeve",
+    "schematic",
+    "seamless",
+    "top-down",
+    "v-neck",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This is the second in a series of twelve linked patterns for a knitted wreath, to be published daily in December 2013. This pattern is for a long garland of basic leaves which will form the backdrop to all the other decorations. The leaves are knitted with double knitting weight yarn; you can use one yarn or oddments of lots of shades of green as each leaf is knitted separately. Patterns are given for two sizes of leaves, the bigger ones are about 7 cm long and the small ones 5 cm. You will need between 50g and 100g of yarn in total, depending on the size of your wreath. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "The Cardigan is worked in one piece from the neck downwards. Piece is divided at the underarms then body and sleeves are worked separately. Sizes: XS (S, M, L, 1X) Finished Bust About 34 (38½, 42, 45½, 49½) in. (86.5 (98, 106.5, 115.5, 125.5) cm), not including front bands Finished Length About 24¼ (26¼, 26¼, 26¼, 26¼) in. (61.5 (66.5, 66.5, 66.5, 66.5) cm) LION BRAND® BASIC STITCH PREMIUM (Art. #201) (219yd/200m) (3.5oz/100g) 100% Acrylic #150 Slate 4 (5, 5, 6, 6) balls Circular knitting needle size 7 (4.5 mm), 29 in. (73.5 cm) long Gauge: 18 sts + 24 rows = about 4 in. (10 cm) in St st",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves/comments",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves/posts",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves/yarns",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves/editors",
-    "https://www.ravelry.com/patterns/sources/knit-a-vintage-christmas",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves/people",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves/threads",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-mistletoe",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-leaves/report"
-  ]
+    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/yarns",
+    "https://www.ravelry.com/patterns/library/effortless-cardigan-2",
+    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/threads",
+    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/posts",
+    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/editors",
+    "https://www.ravelry.com/patterns/library/psyche-pullover-l80379",
+    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/people",
+    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
+    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/comments",
+    "https://www.ravelry.com/patterns/library/my-favourite-cardigan",
+    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
+    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/report",
+    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/edit"
+  ],
+  "name": "Ravelry: Effortless Cardigan pattern by Zabeth"
 }

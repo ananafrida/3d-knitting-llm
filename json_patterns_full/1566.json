@@ -1,41 +1,48 @@
 {
   "pattern_id": 1566,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mini-skein-pumpkin",
-  "name": "Mini Skein Pumpkin",
-  "description": "Double thick fabric ensures your pumpkins can be stuffed firmly for the perkiest of pumpkins! These can be hand knit or machine knit.",
-  "designer": "Vanessa Ewing",
+  "pattern_page": "https://www.ravelry.com/patterns/library/simply-scrappy-cowl",
+  "name": "Simply Scrappy Cowl",
+  "description": "Small, simple things, done with consistency and love, add up to outsized beauty. That’s a reliable recipe for creative work, and it’s the basis of this little cowl recipe I created. I posted a version of this design over on the Curious Handmade blog some time ago. People loved it so much I decided to turn it into an official pattern in my trademark Percentage Checklist style. So here it is!",
+  "designer": "Helen Stewart",
   "craft": "Knitting",
-  "category": "Decorative → Other",
+  "category": "Neck / Torso → Cowl",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Light Fingering ?",
-    "Cape May Fiber ™ Sock"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
+    "adult",
+    "chart",
+    "eyelets",
+    "female",
     "in-the-round",
-    "one-piece",
-    "seamed",
-    "seamless",
-    "video-tutorial",
+    "male",
+    "stripes-colorwork",
+    "teen",
     "written-pattern"
   ],
-  "full_text": "Double thick fabric ensures your pumpkins can be stuffed firmly for the perkiest of pumpkins! These can be hand knit or machine knit. One mini skein in sock weight is all you need per pumpkin Measurements Width: 4 ½” (11.5 cm) Height: 3” (7.5 cm) Materials 92—yards (100 meters) of fingering / sock weight yarn Color A (pumpkin body) 1—yard of fingering / sock weight yarn Color B (stem) We used Cape May Fiber Mini Skein Sock (92 yards / 20 Gram, 75% Superwash Merino, 25% Nylon) Colors shown… (top tier) Crispy Leaves and Apple Tart (middle tier) Fright Night and Season of the Witch (bottom tier) Quartz Beach, Haunted Victorian and Radium Girls For the stem, we used Color Pineland Tools Set of 5 US Size 6 (4 mm) DPNs or a circular to work the magic loop method tapestry needle scissors Notions Polyfil stuffing, about 24 grams Gauge 24 sts, 38 rounds / rows = 4” in stockinette stitch after blocking. Adjust needle size if necessary to obtain the correct gauge.",
+  "full_text": "Small, simple things, done with consistency and love, add up to outsized beauty. That’s a reliable recipe for creative work, and it’s the basis of this little cowl recipe I created. I posted a version of this design over on the Curious Handmade blog some time ago. People loved it so much I decided to turn it into an official pattern in my trademark Percentage Checklist style. So here it is! The Simply Scrappy Cowl is a super relaxing project. It’s ideal for new knitters or anyone who needs a little mental vacation: a bit of ribbing, then straightforward knitting in the round broken up by rows of eyelets. The result is a cosy, adorable cowl that makes the most of any yarn you use. It’s a wonderful stash-buster for those tiny yarn scraps, and it’s also a wonderful “advent yarn calendar” project, if you have bought or made a holiday countdown mini skein set. Because each stripe only uses about 5 grams of yarn, it’s a quicker knit and less of a commitment than your average yarn calendar pattern. And you can make multiple cowls from the same set if you want to whip one up for yourself and then make one or more for gifts! Finished Measurements after blocking Approximately 162cm/64” long, 64cm/25” circumference Yarn 24 x 5g fingering weight mini skeins. Total: 120g (approximately 420m/460yds) of fingering weight yarn Needles 4mm (US6), 60cm (24”) long circular needles (or size to obtain gauge) Notions Removable stitch marker Tapestry needle Gauge 22 sts/30 rows = 10cm (4”) in stockinette stitch after blocking Exact gauge is not critical but may affect the amount of yarn needed if different.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/beachycomber",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/people",
-    "https://www.ravelry.com/patterns/sources/vanessa-ewing-knits-2",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/comments",
-    "https://www.ravelry.com/patterns/library/tangled-lines-2",
-    "https://www.ravelry.com/patterns/library/cavanaugh-hat",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/yarns",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/threads",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/report",
-    "https://www.ravelry.com/patterns/library/mini-skein-pumpkin/editors"
+    "https://www.ravelry.com/bundles/patterns-for-advent-sets-miniskeins-and-scraps",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/people",
+    "https://www.ravelry.com/patterns/sources/curious-countdown-advent-knits/patterns",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl",
+    "https://www.ravelry.com/patterns/library/elfish-shawl",
+    "https://www.ravelry.com/patterns/sources/curious-countdown-advent-knits",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/report",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/editors",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/comments",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/yarns",
+    "https://www.ravelry.com/patterns/sources/curious-handmade-website",
+    "https://www.ravelry.com/patterns/library/simply-scrappy-cowl/threads",
+    "https://www.ravelry.com/patterns/library/oddments-cowl",
+    "https://www.ravelry.com/patterns/library/forage-shawl"
   ]
 }

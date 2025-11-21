@@ -1,52 +1,42 @@
 {
   "pattern_id": 716,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hesh",
-  "name": "Hesh",
-  "description": "Hesh is a variation of a traditional Scandinavian pixie-shaped hat modified for grown ups. The cap is knitted on the bias with perfectly fitted ear flaps, icord ties and tassels, making for a devilish little accessory. This quick hat is a gift-knitter’s dream just in time for the holidays!",
-  "designer": "Malia Mae Joseph",
+  "pattern_page": "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table",
+  "name": "Atomic Blocks: The Periodic Table",
+  "description": "Stack up the periodic table with these squishy toy blocks! Each block face features the atomic number and symbol of a different element. The pattern includes instructions for plain blocks and color charts for the elements Hydrogen (1) through Neodymium (60). The color on these blocks was worked in duplicate stitch for texture; however, the pattern can easily be adjusted for stranded color knitting by working each face separately.",
+  "designer": "Alegria DaSilva",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "S (M, L)",
+  "category": "Blocks",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Malabrigo Yarn Rios",
+    "Lion Brand Cotton-Ease 50/50",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "chevron",
-    "female",
-    "icord",
-    "in-the-round",
-    "male",
+    "chart",
+    "cube-shaped",
+    "duplicate-stitch",
     "one-piece",
-    "stripes-colorwork",
-    "unisex",
+    "other-colorwork",
     "written-pattern"
   ],
-  "full_text": "Hesh is a variation of a traditional Scandinavian pixie-shaped hat modified for grown ups. The cap is knitted on the bias with perfectly fitted ear flaps, icord ties and tassels, making for a devilish little accessory. This quick hat is a gift-knitter’s dream just in time for the holidays! Sizes S (M, L) Finished Measurements 20” / 51cm circumference, shown on a 22.5” / 57cm head. Yardage Color A - 125yds / 115m Color B: 100 yds / 92m Shown in Malabrigo Rios Color A - Bobby Blue Color B - Sand Bank Needles US 6 / 4mm circular or DPNs using either magic loop method or dons. Notions 1 stitch marker, tapestry needle Gauge 20 sts = 4” / 10cm in stockinette stitch Errata There was a small error in the first pattern release. I released an update that corrects it. The correction was after the first 3 rounds. Here is what it should say: Next round: K1, m1l, k17, s2kp, k17, m1r, ( k1, m1l, k17, s2kp, k17, m1r) twice, k1. Next round: K Repeat last 2 rounds 8(10, 12) times. The sizing is done in various lengths rather than number of stitched cast on. You might be tempted to do more of these two rounds because it seems awfully early to start the decreasing, but you’ll end up with a hat that is too big if you just keep going. The decreases happen slowly. Shop Yarn at Stephen & Penelope Find the perfect yarn for your project at Stephen & Penelope! We ship worldwide! https://www.stephenandpenelope.com/",
-  "techniques": [
-    "decreases"
-  ],
-  "shape": "sphere",
+  "full_text": "Stack up the periodic table with these squishy toy blocks! Each block face features the atomic number and symbol of a different element. The pattern includes instructions for plain blocks and color charts for the elements Hydrogen (1) through Neodymium (60). The color on these blocks was worked in duplicate stitch for texture; however, the pattern can easily be adjusted for stranded color knitting by working each face separately. Oops! Element 47 should be Ag (Silver) not Au (Gold). A lowercase g can be found in chart 12 (Mg). Sorry!",
+  "techniques": [],
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/malia-mae",
-    "https://www.ravelry.com/patterns/library/hesh/report",
-    "https://www.ravelry.com/patterns/sources/westknits-choreokal-stretch-it",
-    "https://www.ravelry.com/patterns/library/hesh/posts",
-    "https://www.ravelry.com/patterns/library/gestrikt",
-    "https://www.ravelry.com/patterns/library/lyr",
-    "https://www.ravelry.com/patterns/library/tiny-kerchiefs",
-    "https://www.ravelry.com/patterns/library/hesh/yarns",
-    "https://www.ravelry.com/patterns/sources/westknits-on-ravelry",
-    "https://www.ravelry.com/patterns/library/hesh/comments",
-    "https://www.ravelry.com/patterns/library/hesh/editors",
-    "https://www.ravelry.com/bundles/free-patterns-869",
-    "https://www.ravelry.com/patterns/library/hesh/threads",
-    "https://www.ravelry.com/patterns/library/hesh",
-    "https://www.ravelry.com/patterns/library/hesh/people"
+    "https://www.ravelry.com/patterns/sources/spotted-dog",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/people",
+    "https://www.ravelry.com/patterns/library/compass-rose-4",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/threads",
+    "https://www.ravelry.com/patterns/library/fall-semester",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/yarns",
+    "https://www.ravelry.com/patterns/library/spring-semester",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/comments",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/editors",
+    "https://www.ravelry.com/patterns/library/atomic-blocks-the-periodic-table/report"
   ]
 }

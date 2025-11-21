@@ -1,46 +1,40 @@
 {
   "pattern_id": 213,
-  "pattern_page": "https://www.ravelry.com/patterns/library/booga-bag",
-  "name": "Booga Bag",
-  "description": "This great felted bag is simple to make and is a fun and functional bag! The finished dimensions are approx: 4 1/2 X 7 1/2 X 8 1/2.",
-  "designer": "Julie Anderson",
+  "pattern_page": "https://www.ravelry.com/patterns/library/missmarple-scarf",
+  "name": "MissMarple Scarf",
+  "description": "A scarf that stays perfect around your neck by using the keyhole. The middle section of the scarf is wider so your shoulders can stay warm too and you can also create a little collar. You can wear the scarf in many different ways, just the way you like it. And over your cloths of under your coat.",
+  "designer": "SusanneS-vV",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
-  "sizes_available": "One Size, with mini size also available in Ravelry download",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "20 cm wide and 80 cm long",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Noro Kureyon（くれよん）"
+    "Rowan Lima",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "felted",
-    "icord",
-    "in-the-round",
     "one-piece",
-    "rectangle",
+    "ribbed",
     "seamless",
+    "short-rows",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This great felted bag is simple to make and is a fun and functional bag! The finished dimensions are approx: 4 1/2 X 7 1/2 X 8 1/2. Pattern for purchase though Ravelry includes additional sizing for the Baby Booga Bag.",
+  "full_text": "A scarf that stays perfect around your neck by using the keyhole. The middle section of the scarf is wider so your shoulders can stay warm too and you can also create a little collar. You can wear the scarf in many different ways, just the way you like it. And over your cloths of under your coat. Easy knit, mostly in garter stitch and little piece ribbing. Finished measurements: 20 cm wide and 80 cm long (no need for blocking). Materials: 2 skeins Rowan Lima (used color on the picture: Argentina 893) Needle sizes: 4.5 mm (dpn) and 5.5 mm straight needles Skills: Garter stitch Ribbing Dividing and rejoin (both explained in the pattern)",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/booga-bag/threads",
-    "https://www.ravelry.com/patterns/library/booga-bag/people",
-    "https://www.ravelry.com/patterns/library/bigger--biggest-booga-bag",
-    "https://www.ravelry.com/patterns/library/booga-bag/yarns",
-    "https://www.ravelry.com/patterns/library/sophie",
-    "https://www.ravelry.com/patterns/library/booga-bag/posts",
-    "https://www.ravelry.com/patterns/library/booga-bag/comments",
-    "https://www.ravelry.com/patterns/library/booga-bag",
-    "https://www.ravelry.com/patterns/sources/black-sheep-bags",
-    "https://www.ravelry.com/patterns/library/elizabeth-bag",
-    "https://www.ravelry.com/patterns/library/booga-bag/editors",
-    "https://www.ravelry.com/patterns/sources/black-sheep-bags-website",
-    "https://www.ravelry.com/patterns/library/booga-bag/report"
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/people",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/comments",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/posts",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/threads",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/report",
+    "https://www.ravelry.com/patterns/sources/susannes-vv-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf/editors",
+    "https://www.ravelry.com/patterns/library/missmarple-scarf"
   ]
 }

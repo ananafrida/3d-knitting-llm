@@ -1,35 +1,45 @@
 {
   "pattern_id": 2038,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knit-hello-greetings",
+  "pattern_page": "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog",
+  "name": "FroggyBug 2 in 1 Frog",
+  "description": "About my 2025 patterns",
+  "designer": "Nicole Chevalier",
   "craft": "Knitting",
-  "category": "Insertion Components → Other",
+  "category": "Softies → Animal Ball",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "sizes_available": "non applicable",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Lang Yarns Merino 50"
+    "Any gauge - designed for any gauge ?",
+    "Garnstudio DROPS Fabel"
   ],
   "attributes": [
+    "3-dimensional",
     "chart",
-    "slipped-stitches",
-    "unisex",
+    "icord",
+    "in-the-round",
+    "modular",
+    "phototutorial",
+    "seamless",
     "written-pattern"
   ],
-  "full_text": "Knit Hello is a typeface (or font) made especially for hand knitting. It was developed for beginners – knitters without previous knowledge in typography, and graphic designers who have just picked up their needles. Knit Hello started as workshop exercise showing the basics of Typographic Knitting. Based on Slipstitches, the typeface allows colorwork knitting without long floats and getting entangled. Whether you work on screen or on paper, Knit Hello helps you write ready-to-knit messages and make your own Typographic Knitting pattern! This test pattern shows you the basic knitting techniques to use the typeface.",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/typographic-selbu-mittens",
-    "https://www.ravelry.com/patterns/sources/rudiger-schlomer-design-ravelry-store",
-    "https://www.ravelry.com/patterns/library/knit-hello-greetings",
-    "https://www.ravelry.com/patterns/library/knit-hello-greetings/editors",
-    "https://www.ravelry.com/patterns/library/knit-hello-greetings/report",
-    "https://www.ravelry.com/patterns/library/double-face-hat",
-    "https://www.ravelry.com/patterns/library/knit-hello-greetings/people",
-    "https://www.ravelry.com/patterns/library/knit-hello-greetings/comments",
-    "https://www.ravelry.com/patterns/library/knit-grotesk-abc-blanket",
-    "https://www.ravelry.com/patterns/library/knit-hello-greetings/yarns"
+  "full_text": "About my 2025 patterns The spherical egg pattern was published a few months ago. The idea is to adapt most of the FroggyBug family members so that they can fully hide into the egg and vice versa. This is also a good opportunity for me to revisit the oldest patterns of mine which were using several yarn thicknesses and mentioning approximative i-cord length. From 2025, my patterns are using the same yarn thickness for all parts, including the i-cord strings. If you use a different yarn thickness, your project will just be bigger or smaller than mine, but in the exact same proportions. What has not changed is that I still don’t like sewing and my patterns are as much built-in as possible. Also, to make parts looking neater, I knit most of them in-the-round. Those two technics, built-in and in-the-round sometimes makes the project a bit uncomfortable to hold and progress, this is why I would not recommend my patterns to beginners. Difference between this frog and the fully stuffed one: The belly is not stuffed, to give some room to the egg. The head and legs stuffing must be isolated from the belly. To do so, the head and the legs start from a circle before being attached to the belly. This circle is a sort of membrane to keep the stuffing in the right place. The slot to let the egg in and out of the body is on back, on the top of the sitting, technically, when starting the perfect triangle. Indicative size for suggested yarn Legs: 22cm, including feet: 5cm Belly at its widest: 10 cm, height: 10cm Back: 16 cm ** Indicative weight** for suggested yarn Belly: 5g Head: 5g 2 legs: 10g 2 feet: 5g Seat + back + flap:15g Arms + hands: 2g Eyes string: 1-2 g Egg: 5 g of black, 20 g of main colour High level process description This pattern starts with the belly in garter stitch The head starts from a disc/circle then is built in and knit in the round The leg starts from a disc/circle then are built in and knit in the round as well After stuffing the leg, the foot is knit in the round. A second identical leg is knit. The seat is knit in stocking stitches, short rows, a part of the top is cast off to allow the egg in and out. The back is knit in the round, decreasing regularly, to get a perfect triangle The arms are made of an i-cord passed through the belly The smile is made of an embroidered section of row on the head, following the V shape of stocking stitches The i-cord string between the eyes goes around the neck and allows the Frog to express changing mood. A 125st spherical egg is made, following separate specific pattern, and attached with an i-cord inside the body.",
+  "techniques": [
+    "short rows"
   ],
-  "name": "Ravelry: Knit Hello Greetings pattern by Rüdiger Schlömer"
+  "shape": "sphere",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/froggybug-6-mini-xmas-jumpers",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/comments",
+    "https://www.ravelry.com/patterns/library/froggybug-valentine-jumpers",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/report",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/editors",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/yarns",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-crab",
+    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog",
+    "https://www.ravelry.com/patterns/library/froggybug-2-in-1-frog/people"
+  ]
 }

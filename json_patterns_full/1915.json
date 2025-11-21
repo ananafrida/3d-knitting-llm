@@ -1,12 +1,10 @@
 {
   "pattern_id": 1915,
-  "pattern_page": "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs",
-  "name": "Woodland Wreath, Hedgehogs",
-  "description": "This is the ninth in a series of twelve linked patterns for a knitted wreath, to be published daily in December 2013.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/babbity-baby-jacket",
   "craft": "Knitting",
-  "category": "Softies → Animal Applique / Embellishment",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Newborn, 3 months, 6 - 9 months, 9 - 12 months",
   "languages": [
     "English"
   ],
@@ -15,24 +13,35 @@
     "DK (11 wpi) ?"
   ],
   "attributes": [
-    "one-piece",
-    "worked-flat"
+    "baby",
+    "female",
+    "long-sleeve",
+    "male",
+    "newborn-size",
+    "seamless",
+    "top-down",
+    "unisex",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This is the ninth in a series of twelve linked patterns for a knitted wreath, to be published daily in December 2013. This pattern is for two sizes of knitted hedgehogs, the big ones are about 5 cm long and the small ones 4 cm. The hedgehogs are knitted in one piece and then sewn together. You will need two shades of brown double knitting weight yarn. These would make lovely little toys on their own and don’t take long to make. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
-  "techniques": [],
-  "shape": "softie",
+  "full_text": "This is a very popular, easy-to-knit little baby cardigan jacket. Great for a new baby - boy or girl. Knitted top-down with a garter stitch yoke A simple and elegant design Add cute buttons for a contemporary look Sizes: Newborn, 3 months, 6 - 9 months, 9 - 12 months (preemie sizes also available) Requirements: DK (8ply) yarn 4mm needles 3 or 6 buttons To get this free pattern please click on the https link just below ↓ The original pattern was for a 3 button version. And - due to popular demand I have now added a fully-buttoned version too! Matching hat, and booties are also available, if you wish to make a little set.. A lovely gender-neutral design.",
+  "techniques": [
+    "top-down"
+  ],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/threads",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/editors",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/people",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-toadstools",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/yarns",
-    "https://www.ravelry.com/patterns/sources/knit-a-vintage-christmas",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/report",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-owls",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs/comments"
-  ]
+    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
+    "https://www.ravelry.com/patterns/library/all-in-one-baby-top",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/report",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/posts",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/people",
+    "https://www.ravelry.com/patterns/library/mariannas-lazy-daisy-all-in-one-top-down-cardigan",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/editors",
+    "https://www.ravelry.com/patterns/library/babbity-baby-hat",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/comments",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/yarns",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket/threads",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket"
+  ],
+  "name": "Ravelry: Babbity Baby Jacket pattern by marianna mel"
 }

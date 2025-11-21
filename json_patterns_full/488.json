@@ -1,39 +1,41 @@
 {
   "pattern_id": 488,
-  "pattern_page": "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl",
-  "name": "An Italian Autumn Cowl",
-  "description": "An Italian Autumn Cowl is a cozy double-wrapped cowl that will keep you warm throughout fall (and winter!). The cowl is knitted flat in garter stitch and grafted together at the end (video tutorial included in the pattern!).",
-  "designer": "An Italian Knitter",
+  "pattern_page": "https://www.ravelry.com/patterns/library/nesting-bowls",
+  "name": "Nesting Bowls",
+  "description": "These felted bowls are great for storing all kinds of things. I like putting paper clips or candies in the small size!",
+  "designer": "Trisha Mitberg",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "One size but easy to adjust",
+  "category": "Containers",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "sizes_available": "Small, Medium, Large",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Filcolana Arwetta",
-    "yarn held together"
+    "Brown Sheep Lamb's Pride Bulky",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "eyelets",
-    "icord-edging",
-    "worked-flat"
+    "3-dimensional",
+    "felted",
+    "in-the-round",
+    "one-piece"
   ],
-  "full_text": "An Italian Autumn Cowl is a cozy double-wrapped cowl that will keep you warm throughout fall (and winter!). The cowl is knitted flat in garter stitch and grafted together at the end (video tutorial included in the pattern!). Yarn 300 g of Filcolana Arwetta (210 meters (230 yards) / 50 g) held double Measurements Circumference: ~125-130 cm (~49-51 inch) Height: ~36 cm (~14 inch) Needles 5 mm (US 8) circular needles, at least 80 cm (32 inch) long Gauge 18 sts and 30 rows in 10 cm (4 inch) in garter stitch Notes - If you’re substituting the fingering weight yarn held double with a single strand of DK weight yarn, you need approximately 630 meters (698 yards) of DK weight yarn.",
+  "full_text": "These felted bowls are great for storing all kinds of things. I like putting paper clips or candies in the small size!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/report",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/people",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/editors",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/yarns",
-    "https://www.ravelry.com/patterns/library/an-italian-winter-shawl",
-    "https://www.ravelry.com/patterns/library/an-italian-summer-scarf",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/comments",
-    "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl/threads",
-    "https://www.ravelry.com/patterns/library/an-italian-bandana",
-    "https://www.ravelry.com/patterns/sources/an-italian-knitters-ravelry-store"
+    "https://www.ravelry.com/patterns/sources/rogue-designs",
+    "https://www.ravelry.com/patterns/library/nesting-bowls",
+    "https://www.ravelry.com/patterns/library/nesting-bowls/comments",
+    "https://www.ravelry.com/patterns/library/nesting-bowls/editors",
+    "https://www.ravelry.com/patterns/library/nesting-bowls/report",
+    "https://www.ravelry.com/patterns/library/moguls-2",
+    "https://www.ravelry.com/patterns/library/nesting-bowls/threads",
+    "https://www.ravelry.com/patterns/library/snowflake-mittens-10",
+    "https://www.ravelry.com/patterns/library/nesting-bowls/yarns",
+    "https://www.ravelry.com/patterns/library/summer-block-party-kal-2020",
+    "https://www.ravelry.com/patterns/library/nesting-bowls/people",
+    "https://www.ravelry.com/patterns/library/nesting-bowls/posts"
   ]
 }

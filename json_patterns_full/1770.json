@@ -1,42 +1,56 @@
 {
   "pattern_id": 1770,
-  "pattern_page": "https://www.ravelry.com/patterns/library/mini-carpet",
-  "name": "Mini carpet",
-  "description": "Make your dollhouse cozy and create a hygge atmosphere for your Maileg friends and dolls by knitting as many carpets as possible! Both Tiny rug and Big carpet are knitted using so called slip stitch pattern. This pattern looks differently from both sides so carpets are reversible and looks beautiful also when combining more yarn colours. You can either follow the number of stitches and rows recommended or you can opt for your own number creating carpets of various sizes!",
-  "designer": "Jana Stavjanova",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jelka",
+  "name": "Jelka",
+  "description": "…let me shout out a big THANK YOU for your love, your ongoing support, your understanding, your patience….for being by my side through this difficult year …. hope you enjoy this hat pattern!",
+  "designer": "Isabell Kraemer",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "Tiny rug / Big carpet (final measures: width x length 6,5 x 10 cm / 11,5 x 15 cm)",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "1 - 3 (see notes for detailed size information)",
   "languages": [
-    "Czech",
-    "English"
+    "Danish",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Spanish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "Sandnes Garn Peer Gynt",
-    "DK (11 wpi) ?"
+    "Rosa Pomar Brusca",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "doll-size",
-    "one-piece",
-    "slipped-stitches",
+    "adult",
+    "bottom-up",
+    "in-the-round",
+    "mosaic",
+    "seamless",
+    "teen",
     "unisex",
-    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Make your dollhouse cozy and create a hygge atmosphere for your Maileg friends and dolls by knitting as many carpets as possible! Both Tiny rug and Big carpet are knitted using so called slip stitch pattern. This pattern looks differently from both sides so carpets are reversible and looks beautiful also when combining more yarn colours. You can either follow the number of stitches and rows recommended or you can opt for your own number creating carpets of various sizes!",
-  "techniques": [],
+  "full_text": "…let me shout out a big THANK YOU for your love, your ongoing support, your understanding, your patience….for being by my side through this difficult year …. hope you enjoy this hat pattern! For pattern support please go to the help thread here . Jelka is a casual hat, worked in the round from the folded brim to the top. The cute pattern on this hat is knitted with only one color on any given round. Working slip stitches, you get a beautiful colorwork without having to carry two threads in one round, making it the perfect introduction to colorwork. An optional pompom is worked last. Yarn Worsted weight yarn, approximately MC: 148 (161, 174) yds /135 (147, 159) m CC: 14 (18, 22) yds /13 (16, 20) m Note: Yardage doesn’t include optional pompom. Rosa Pomar Brusca (136 yds (125 m)/50g); shown in color B (MC) and 6B (CC) Needles US 5 (3.75 mm) circular needle, 16” (40 cm) long for brim. US 6 (4 mm) circular needle, 16” (40 cm) long and DPNs for body. needle sizes are suggestions only, please make a gauge swatch to determine the needle size needed to get gauge Gauge 20 sts x 30 rows = 4” (10 cm) square in Stockinette stitch on larger needle after blocking. Sizes Circumference (unstretched): 18 (19.5, 21)“ / 46 (49.5, 53.5) cm to fit 20/21.5 (21.5/23, 23/24.5)” 51/54.5 (54.5/58.5, 58.5/62) cm Notions Smooth waste yarn and crochet hook for provisional cast on, 8 stitch markers, tapestry needle, pompom maker (optional), blocking tools.",
+  "techniques": [
+    "worked in the round"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mini-carpet/editors",
-    "https://www.ravelry.com/patterns/library/mini-carpet/comments",
-    "https://www.ravelry.com/patterns/library/mini-carpet",
-    "https://www.ravelry.com/patterns/library/mini-carpet/report",
-    "https://www.ravelry.com/patterns/library/maileg-basic-sweater",
-    "https://www.ravelry.com/patterns/library/mini-carpet/yarns",
-    "https://www.ravelry.com/patterns/sources/jana-stavjanovas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/mini-carpet/people",
-    "https://www.ravelry.com/patterns/library/maileg-mouse-winter-set",
-    "https://www.ravelry.com/patterns/library/maileg-christmas-hat"
+    "https://www.ravelry.com/patterns/sources/isabell-kraemers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/jelka/posts",
+    "https://www.ravelry.com/patterns/library/emmi-4",
+    "https://www.ravelry.com/patterns/library/jelka",
+    "https://www.ravelry.com/patterns/library/jelka/people",
+    "https://www.ravelry.com/patterns/library/jelka/yarns",
+    "https://www.ravelry.com/patterns/library/jelka/threads",
+    "https://www.ravelry.com/patterns/library/leni-5",
+    "https://www.ravelry.com/patterns/library/emsworth",
+    "https://www.ravelry.com/patterns/library/jelka/report",
+    "https://www.ravelry.com/patterns/library/jelka/comments",
+    "https://www.ravelry.com/patterns/library/jelka/editors"
   ]
 }

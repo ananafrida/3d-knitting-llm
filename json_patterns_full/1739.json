@@ -1,46 +1,54 @@
 {
   "pattern_id": 1739,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-digestive-system",
+  "pattern_page": "https://www.ravelry.com/patterns/library/citrus-hat",
+  "name": "Citrus Hat",
+  "description": "Called the Citrus Hat for the way the decreases create the appearance of a citrus fruit, this is a pretty basic hat pattern that works well with pretty much any yarn and can fit multiple head sizes.",
+  "designer": "Laura Treadway",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Hat → Beanie, Toque",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "baby, toddler, child/teenager, small adult, and large adult",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
+    "adult",
+    "baby",
     "bottom-up",
-    "icord",
+    "child",
+    "female",
+    "fitted",
     "in-the-round",
-    "other-colorwork",
-    "provisional",
-    "short-rows",
+    "male",
+    "negative-ease",
+    "one-piece",
+    "ribbed",
+    "seamless",
+    "teen",
+    "toddler",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "Although the original domain has expired, the pattern can still be found on the Wayback Machine . The designer also posted the pattern on Craftster .",
-  "techniques": [],
+  "full_text": "Called the Citrus Hat for the way the decreases create the appearance of a citrus fruit, this is a pretty basic hat pattern that works well with pretty much any yarn and can fit multiple head sizes. It looks great in handspun or commercial yarn, and in solid, semi-solid, or variegated colorways. The combination of knits and purls used throughout the hat means it is very accommodating of different head sizes and a good match for kids that keep growing. While the pattern is written for worsted-weight yarn, it’s easy to adjust for different yarn weights, and the pattern includes some helpful hints for yarn modifications. The pattern includes sizes for baby, toddler, child/teenager, small adult, and large adult hats.",
+  "techniques": [
+    "decreases"
+  ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/knitted-digestive-system/posts",
-    "https://www.ravelry.com/patterns/sources/craftster",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/knitted-digestive-system/edit",
-    "https://www.ravelry.com/patterns/library/knitted-digestive-system/report",
-    "https://www.ravelry.com/patterns/library/knitted-digestive-system/editors",
-    "https://www.ravelry.com/patterns/library/penis-cozy",
-    "https://www.ravelry.com/patterns/library/knitted-digestive-system/threads",
-    "https://www.ravelry.com/patterns/sources/strange-but-trewe",
-    "http://web.archive.org/web/20090227055259/http://strangebuttrewe.com/GIpattern.htm",
-    "https://www.ravelry.com/patterns/library/giant-squid-hat",
-    "https://www.ravelry.com/patterns/library/knitted-digestive-system/people",
-    "https://www.ravelry.com/patterns/library/knitted-digestive-system/yarns",
-    "https://www.ravelry.com/patterns/library/doknit",
-    "https://www.ravelry.com/patterns/library/knitted-digestive-system",
-    "https://www.ravelry.com/patterns/library/knitted-digestive-system/comments"
-  ],
-  "name": "Ravelry: Knitted Digestive System pattern by Matie Trewe"
+    "https://www.ravelry.com/patterns/library/citrus-hat/comments",
+    "https://www.ravelry.com/patterns/library/citrus-hat/threads",
+    "https://www.ravelry.com/patterns/library/citrus-hat/posts",
+    "https://www.ravelry.com/patterns/library/citrus-hat",
+    "https://www.ravelry.com/patterns/library/i-love-stockinette-baby-bib",
+    "https://www.ravelry.com/patterns/sources/laura-treadways-ravelry-store",
+    "https://www.ravelry.com/patterns/library/citrus-hat/yarns",
+    "https://www.ravelry.com/patterns/library/citrus-hat/editors",
+    "https://www.ravelry.com/patterns/library/sidekick",
+    "https://www.ravelry.com/patterns/library/citrus-hat/report",
+    "https://www.ravelry.com/patterns/library/two-one-cowl",
+    "https://www.ravelry.com/patterns/library/citrus-hat/people"
+  ]
 }

@@ -1,41 +1,42 @@
 {
   "pattern_id": 725,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pixie-point-baby-hat",
-  "name": "Pixie Point Baby Hat",
-  "description": "A pixie point hat with a curled, garter stitch rim.",
-  "designer": "Wild Daffodil",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mario-question-box-nintendo",
+  "name": "Mario Question Box (Nintendo)",
+  "description": "This Nintendo Mario Question Box is based on a combination of original Super Mario Bros. and Wii Mario Bros. question boxes.",
+  "designer": "Melanie Schaab",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "Newborn - 3 months",
+  "category": "Blocks",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Stylecraft Special Double Knit",
-    "DK (11 wpi) ?"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "newborn-size",
-    "stripes-colorwork",
+    "3-dimensional",
+    "chart",
+    "cube-shaped",
+    "seamed",
+    "stranded",
     "written-pattern"
   ],
-  "full_text": "A pixie point hat with a curled, garter stitch rim. There is no pattern PDF in the Ravelry download. Please go to the link on my blog to find the pattern instructions.",
+  "full_text": "This Nintendo Mario Question Box is based on a combination of original Super Mario Bros. and Wii Mario Bros. question boxes. Finished size is approximately 4 inches per side. Other materials needed: mesh plastic canvas, tapestry needle, scissors",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://daffodilwild.wordpress.com/2019/01/30/free-pattern-pixie-hat/",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/people",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/posts",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/editors",
-    "https://www.ravelry.com/patterns/sources/wild-daffodils-ravelry-store",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/report",
-    "https://www.ravelry.com/patterns/library/baby-fairy-jacket",
-    "https://www.ravelry.com/patterns/library/beach-bunting",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/comments",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/yarns",
-    "https://www.ravelry.com/patterns/sources/wild-daffodil",
-    "https://www.ravelry.com/patterns/library/woodland-fairy-cardigan",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat"
+    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/comments",
+    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/report",
+    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/yarns",
+    "https://www.ravelry.com/patterns/library/cross-of-unity",
+    "https://www.ravelry.com/patterns/library/key-to-heaven",
+    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/editors",
+    "https://www.ravelry.com/patterns/library/maxi-pants-for-babies-dk",
+    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo/people",
+    "http://schaabling.wordpress.com/2014/06/20/schaabling-free-mario-question-box-knitting-pattern/",
+    "https://www.ravelry.com/patterns/sources/schaabling-shire-shoppe",
+    "https://www.ravelry.com/patterns/library/mario-question-box-nintendo"
   ]
 }

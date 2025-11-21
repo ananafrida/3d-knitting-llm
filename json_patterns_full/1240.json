@@ -1,40 +1,55 @@
 {
   "pattern_id": 1240,
-  "pattern_page": "https://www.ravelry.com/patterns/library/knit-bunny-from-a-square",
+  "pattern_page": "https://www.ravelry.com/patterns/library/picnic-folks-top",
+  "name": "Picnic Folks Top",
+  "description": "The Picnic Folks Top is a summer shirt that is knit top down, with a pseudo-saddle shoulder construction. First, neckline shaping is done by knitting flat back-and-forth, with lacework on the shoulders. The neckline is then joined in the round. The yoke is knit in the round, with shoulder and yoke increases, then split for sleeves and body. The body is knit in the round to desired length. The sleeves are picked up and knit to short-sleeve length. All hems are finished with i-cord bind off.",
+  "designer": "Wan Cheng Phua",
   "craft": "Knitting",
-  "category": "Softies → Animal",
+  "category": "Tops → Tee",
   "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "1, 2, 3 (4, 5, 6) [7, 8, 9] = Garment bust circumferences of 79, 89, 99 (109, 119, 130) [140, 150, 160] cm or 31, 35, 39 (43, 47, 51) [55, 59, 63] inches",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Aran (8 wpi) ?"
+    "Oh Folks Co Cloud Cotton",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
+    "adult",
+    "chart",
+    "crew-neck",
+    "eyelets",
+    "female",
+    "icord",
+    "icord-edging",
+    "in-the-round",
+    "lace",
     "one-piece",
-    "phototutorial",
-    "square",
-    "video-tutorial",
-    "worked-flat"
+    "petite",
+    "plus",
+    "positive-ease",
+    "seamless",
+    "top-down",
+    "written-pattern"
   ],
-  "full_text": "Knit a Bunny from a Square from the easy garter knit stitch pattern! These little cuties are quick knit Easter favorites for beginning knitters. Celebrate Springtime and Easter with this adorable little bunny easily shaped from a square knit in the simplest of knitting patterns, the Garter Stitch. From just a knitted square you will be able to create the stuffed softie animal shape of a Bunny. MATERIALS to knit our Bunny from a Square are: • Aran or Worsted Weighted Yarn • 2 Size 7 US Knitting Needles • Scissors • Tapestry Needle • Stuffing KNITTING TECHNIQUES for Bunny from a Square: • Slip Knot • Cast On Long Tail Method • Knit Stitch • Garter Stitch • Bind Off",
-  "techniques": [],
-  "shape": "softie",
+  "full_text": "The Picnic Folks Top is a summer shirt that is knit top down, with a pseudo-saddle shoulder construction. First, neckline shaping is done by knitting flat back-and-forth, with lacework on the shoulders. The neckline is then joined in the round. The yoke is knit in the round, with shoulder and yoke increases, then split for sleeves and body. The body is knit in the round to desired length. The sleeves are picked up and knit to short-sleeve length. All hems are finished with i-cord bind off. Skill Level: Advanced-beginner to intermediate Garment Bust Circumferences Sizes: 1, 2, 3 (4, 5, 6) [7, 8, 9] Centimetres: 79, 89, 99 (109, 119, 130) [140, 150, 160] Inches: 31, 35, 39 (43, 47, 51) [55, 59, 63] The top is designed to have about 5 cm (2 inches) of positive ease around the bust. Suggested Yarn Oh Folks Co Cloud Cotton 5-ply worsted weight 60% cotton 40% acrylic blend 200 m per 100 g ball If you wish to use a yarn substitute, have similar plant/synthetic fibre content to achieve the correct drape and breathability. Yarn quantities: 2, 3, 3 (4, 4, 5) [5, 6, 6] balls Needles and Gauge 4.5 mm for stockinette, 5 mm for bind off Using 4.5 mm needles, in stockinette, 19 stitches and 24 rows = 10 cm by 10 cm swatch",
+  "techniques": [
+    "increases"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/studio-knit-on-youtube",
-    "https://www.ravelry.com/patterns/library/knit-bunny-from-a-square/people",
-    "https://www.ravelry.com/patterns/library/bubble-beanie-hat",
-    "https://www.ravelry.com/patterns/library/knit-bunny-from-a-square",
-    "https://www.ravelry.com/patterns/library/meadow-vine-reversible-cable-scarf",
-    "https://www.ravelry.com/patterns/library/knit-bunny-from-a-square/yarns",
-    "https://www.ravelry.com/patterns/library/knit-bunny-from-a-square/editors",
-    "https://www.ravelry.com/patterns/library/heart-shape-softie",
-    "https://www.ravelry.com/patterns/library/knit-bunny-from-a-square/threads",
-    "https://www.ravelry.com/patterns/library/knit-bunny-from-a-square/posts",
-    "https://www.ravelry.com/patterns/library/knit-bunny-from-a-square/report",
-    "https://www.ravelry.com/patterns/sources/studio-knit-on-the-web",
-    "https://www.ravelry.com/patterns/library/knit-bunny-from-a-square/comments"
-  ],
-  "name": "Ravelry: Knit Bunny from a Square pattern by Kristen McDonnell"
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/yarns",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/threads",
+    "https://www.ravelry.com/patterns/sources/knittygrittysg",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/editors",
+    "https://www.knittygrittysg.com/my-patterns/picnic-folks-top",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/report",
+    "https://www.ravelry.com/patterns/library/moonlight-vest",
+    "https://www.ravelry.com/patterns/library/aiyu-tee",
+    "https://www.ravelry.com/patterns/library/stained-glass-lattice-tee",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/people",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top/comments",
+    "https://www.ravelry.com/patterns/library/picnic-folks-top"
+  ]
 }

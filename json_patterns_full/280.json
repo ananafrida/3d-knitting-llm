@@ -1,39 +1,40 @@
 {
   "pattern_id": 280,
-  "pattern_page": "https://www.ravelry.com/patterns/library/korkhenn",
+  "pattern_page": "https://www.ravelry.com/patterns/library/pembroke-scarf-2",
+  "name": "Pembroke Scarf",
+  "description": "Simple can be beautiful, especially when sumptuous fibres (like merino and alpaca) are involved and a few tricks are thrown into the mix. This two-row scarf takes only 100g of fingering-weight yarn. I used a self-striping alpaca sock yarn, but you could easily use a merino hand-dyed semi-solid or even linen. If you’re looking for something suitable for “social” knitting that uses up stash luxury fibre and at the same time yields a smashing addition to your wardrobe, this is the perfect project.",
+  "designer": "Elizabeth McCarten",
   "craft": "Knitting",
-  "category": "Softies → Animal Pet → Toys",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "Pullet",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lily (Spinrite) Sugar'n Cream Solids"
+    "Misti Alpaca Hand Paint Sock",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "circle-shaped",
-    "in-the-round",
-    "three-needle-bind",
-    "written-pattern"
+    "asymmetric",
+    "picots",
+    "triangle-shaped"
   ],
-  "full_text": "This is another entry to a line of cat toys that can be stuffed with a cork from a wine bottle: Korkfisshe , Korkmauser , and Korkmann . Scroll down for the Sochi Chicken variation at the bottom of the page.",
+  "full_text": "Simple can be beautiful, especially when sumptuous fibres (like merino and alpaca) are involved and a few tricks are thrown into the mix. This two-row scarf takes only 100g of fingering-weight yarn. I used a self-striping alpaca sock yarn, but you could easily use a merino hand-dyed semi-solid or even linen. If you’re looking for something suitable for “social” knitting that uses up stash luxury fibre and at the same time yields a smashing addition to your wardrobe, this is the perfect project.",
   "techniques": [],
-  "shape": "softie",
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/korkhenn/people",
-    "https://www.ravelry.com/patterns/library/spring-onion-bag-for-tennis-balls",
-    "https://www.ravelry.com/patterns/library/korkhenn/comments",
-    "https://www.ravelry.com/patterns/library/korkhenn/threads",
-    "https://www.ravelry.com/patterns/library/korkhenn/editors",
-    "https://www.ravelry.com/patterns/library/ruffledy-scarf",
-    "https://www.ravelry.com/patterns/library/korkhenn",
-    "https://www.ravelry.com/patterns/library/korkhenn/report",
-    "https://www.ravelry.com/patterns/library/korkhenn/yarns",
-    "https://www.ravelry.com/patterns/library/korkfisshe",
-    "https://www.ravelry.com/patterns/sources/peg-of-tilling-does-some-knitting"
-  ],
-  "name": "Ravelry: Korkhenn pattern by Diane Trap"
+    "https://www.ravelry.com/patterns/library/pembroke-scarf-2",
+    "https://www.ravelry.com/patterns/library/buttonbox",
+    "https://www.ravelry.com/patterns/library/pembroke-scarf-2/posts",
+    "https://www.ravelry.com/patterns/library/pembroke-scarf-2/editors",
+    "https://www.ravelry.com/patterns/sources/chez-lizzie-on-blogspot",
+    "https://www.ravelry.com/patterns/library/bibliogloves",
+    "https://www.ravelry.com/patterns/library/pembroke-scarf-2/threads",
+    "https://www.ravelry.com/patterns/sources/elizabeth-mccartens-ravelry-downloads",
+    "https://www.ravelry.com/patterns/library/pembroke-scarf-2/comments",
+    "https://www.ravelry.com/patterns/library/pembroke-scarf-2/yarns",
+    "https://www.ravelry.com/patterns/library/pembroke-scarf-2/report",
+    "https://www.ravelry.com/patterns/library/pembroke-scarf-2/people",
+    "https://www.ravelry.com/patterns/library/neck-thingum"
+  ]
 }

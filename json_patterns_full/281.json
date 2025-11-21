@@ -1,42 +1,40 @@
 {
   "pattern_id": 281,
-  "pattern_page": "https://www.ravelry.com/patterns/library/tossortug-to-knit",
-  "name": "TossOrTug to Knit",
-  "description": "Tons of fun for dogs! I make an indoor version by omitting the tennis ball.",
-  "designer": "Annie Dempsey",
+  "pattern_page": "https://www.ravelry.com/patterns/library/the-bright-side",
+  "name": "The Bright Side",
+  "description": "This pattern was written specifically for using the Dark Side of the Moon yarn by Alexandra-The Art of Yarns. This yarn is dyed predominantly one color with just a small spattering of a contrast color, such that a 2”-3” section of color appears periodically as you knit.",
+  "designer": "Lori B",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
-  "sizes_available": "One size, about 17\" long",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "Finished measurements: 67\" x 14\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Lily (Spinrite) Sugar'n Cream Ombres"
+    "Fingering (14 wpi) ?",
+    "Alexandra the Art of Yarn Dark Side of the Moon"
   ],
   "attributes": [
-    "in-the-round",
-    "one-piece",
-    "seamless",
+    "textured",
+    "triangle-shaped",
     "written-pattern"
   ],
-  "full_text": "Tons of fun for dogs! I make an indoor version by omitting the tennis ball. Materials: 95 yards cotton worsted weight yarn Four double pointed knitting needles size 10.5 (US) [6.5mm] 1 tennis ball",
+  "full_text": "This pattern was written specifically for using the Dark Side of the Moon yarn by Alexandra-The Art of Yarns. This yarn is dyed predominantly one color with just a small spattering of a contrast color, such that a 2”-3” section of color appears periodically as you knit. The Bright Side is knitted in stockinette stitch, purling the little stretch of color on the right side and knitting it on the wrong side--thus creating a randomly textured fabric. This is a simple one-skein design, easy to wear, and fun to knit! Enjoy this one on me!",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/prairie-blanket",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/report",
-    "https://www.ravelry.com/patterns/library/pinwheel-afghan-solid",
-    "https://www.ravelry.com/patterns/periodicals/oat-couture-patterns",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/people",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit",
-    "https://www.ravelry.com/patterns/sources/oat-couture-yf003",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/comments",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/yarns",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/editors",
-    "https://www.ravelry.com/patterns/sources/oat-couture-on-ravelry",
-    "https://www.ravelry.com/patterns/library/tossortug-to-knit/threads",
-    "https://www.ravelry.com/patterns/library/oregon-vest-2"
+    "https://www.ravelry.com/patterns/library/june-skies",
+    "https://www.ravelry.com/patterns/library/the-bright-side/threads",
+    "https://www.ravelry.com/patterns/library/happy-medium",
+    "https://www.ravelry.com/patterns/library/the-bright-side/posts",
+    "https://www.ravelry.com/patterns/library/the-bright-side",
+    "https://www.ravelry.com/patterns/library/the-bright-side/comments",
+    "https://www.ravelry.com/patterns/library/the-bright-side/people",
+    "https://www.ravelry.com/patterns/library/k1fade1",
+    "https://www.ravelry.com/patterns/library/the-bright-side/yarns",
+    "https://www.ravelry.com/patterns/library/the-bright-side/editors",
+    "https://www.ravelry.com/patterns/library/the-bright-side/report",
+    "https://www.ravelry.com/patterns/sources/k1love1-ravelry-store-2"
   ]
 }

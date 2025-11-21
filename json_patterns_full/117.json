@@ -1,46 +1,43 @@
 {
   "pattern_id": 117,
-  "pattern_page": "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block",
+  "pattern_page": "https://www.ravelry.com/patterns/library/henrys-bunny",
+  "name": "Henry's Bunny",
+  "description": "These little guys will hop right off your needles in no time at all. Knit in the round, they are made entirely in one piece except for the legs, which are seamed to the bottom.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "Die measures 8cm [3\"] square.",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
-    "English"
+    "English",
+    "French"
   ],
   "suggested_yarn": [
-    "Red Heart Baby",
-    "Sport (12 wpi) ?"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "chart",
-    "cube-shaped",
-    "duplicate-stitch",
-    "motifs",
-    "seamed",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round",
+    "one-piece",
+    "seamless",
+    "short-rows"
   ],
-  "full_text": "Knit a set of dice for a fun loving baby and use them later to learn numbers. (Red Heart) Skill level: Intermediate",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "These little guys will hop right off your needles in no time at all. Knit in the round, they are made entirely in one piece except for the legs, which are seamed to the bottom.",
+  "techniques": [
+    "seamed"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/editors",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/people",
-    "https://web.archive.org/web/20160322222710/http://www.redheart.co.uk/free-patterns/roll-dice-baby-block",
-    "https://www.ravelry.com/patterns/library/chicken-bag-2",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/yarns",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/report",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/comments",
-    "https://www.ravelry.com/patterns/sources/red-heart-deutschland",
-    "https://www.ravelry.com/patterns/library/granny-square-beret-2",
-    "https://www.ravelry.com/patterns/sources/love-knitting-for-baby-july-2016",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/edit",
-    "https://www.ravelry.com/patterns/sources/red-heart-united-kingdom",
-    "https://www.ravelry.com/patterns/library/hexi-christmas-stocking"
-  ],
-  "name": "Ravelry: Roll the Dice Baby Block pattern by Red Heart Design Team"
+    "https://www.ravelry.com/patterns/library/henrys-bunny/yarns",
+    "https://www.ravelry.com/patterns/library/henrys-rabbit",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/people",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/posts",
+    "https://www.ravelry.com/patterns/library/henrys-bunny",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/threads",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/editors",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/report",
+    "https://www.ravelry.com/patterns/library/henrys-bunny/comments"
+  ]
 }

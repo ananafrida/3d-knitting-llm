@@ -1,76 +1,227 @@
 [
-  "Afghan block — 96",
-  "Sweater → Cardigan — 96",
-  "Softies → Doll — 94",
-  "Softies → Animal — 92",
-  "Softies → Other — 92",
-  "Softies → Other — 92",
-  "Components → Other — 92",
-  "Containers — 92",
-  "Decorative → Hanging Ornament — 92",
-  "Hat → Beanie, Toque — 92",
-  "Hat → Pixie — 92",
-  "Softies → Animal — 92",
-  "Applique / Embellishment — 90",
-  "Bag → Purse / Handbag — 90",
-  "Decorative → Other — 90",
-  "Ball — 84",
-  "Toys and Hobbies → Other — 84",
-  "Neck / Torso → Scarf — 88",
-  "Neck / Torso → Cowl — 86",
-  "Tops → Tee — 86",
-  "Blanket → Baby Blanket — 74",
-  "Pet → Toys — 76",
-  "Costume — 39",
-  "Coat / Jacket — 64",
-  "Ball → Blocks — 4",
-  "Bag → Purse / …ag → Messenger — 4",
-  "Neck / Torso → … → Beanie, Toque — 4",
-  "Decorative → Ot…Softies → Other — 4",
-  "Hat → Beanie, Toque → Costume — 2",
-  "Hat → Beanie, T…ue → Hat → Pixie — 2",
-  "Hands → Mitten… → Beanie, Toque — 2",
-  "Feet / Legs → S…le → Hat → Pixie — 2",
-  "Food → Decorative → Other — 2",
-  "Food → Pet → Toys — 2",
-  "Home → Other…Hobbies → Other — 2",
-  "Insertion → Components → Other — 2",
-  "Jewelry → Broo…/ Embellishment — 2",
-  "Neck / Torso → …k / Torso → Other — 2",
-  "Neck / Torso → C… → Shawl / Wrap — 2",
-  "Neck / Torso → …k / Torso → Cowl — 8",
-  "Neck / Torso → S… → Shawl / Wrap — 4",
-  "Other Headwear…ask → Costume — 2",
-  "Other Headwear…corative → Other — 4",
-  "Pet → Bedding → Pet → Toys — 2",
-  "Pet → Toys → T…Hobbies → Other — 4",
-  "Pillow → Components → Other — 2",
-  "Shrug / Bolero…/ Torso → Poncho — 2",
-  "Softies → Anima…/ Embellishment — 2",
-  "Softies → Animal → Ball — 6",
-  "Softies → Anima…Home → Other — 2",
-  "Softies → Animal → Pet → Toys — 14",
-  "Softies → Doll…corative → Other — 2",
-  "Softies → Othe…obbies → Other — 2",
-  "Sweater → Car… → Coat / Jacket — 24",
-  "Sweater → Pullover — 94",
-  "Sweater → Pullo…Softies → Other — 2",
-  "Sweater → Pull…er → Tops → Tee — 10",
-  "Tops → Tee → T…Sleeveless Top — 2",
-  "Vest → Feet / Le…eret, Tam → Ball — 2",
-  "Blocks — 54",
-  "Blocks → Softies → Other — 2",
-  "Category — 1",
-  "Coat / Jacket → …/ Legs → Booties — 2",
-  "Coat / Jacket → …ocks → Mid-calf — 2",
-  "Coat / Jacket → … → Beanie, Toque — 2",
-  "Containers → D…ristmas Stocking — 2",
-  "Costume → Hat → Other — 3",
-  "Costume → Oth…adwear → Other — 1",
-  "Costume → Toy…Hobbies → Other — 1",
-  "Decorative → Do…/ Embellishment — 2",
-  "Decorative → H…essories → Other — 2",
-  "Decorative → H…rnament → Food — 2",
-  "Jewelry → Bracelet → Costume — 1",
-  "Blanket → Thro… → Baby Blanket — 22"
+  {
+    "category": "Sweater → Cardigan",
+    "count": 122,
+    "percentage": 4.743
+  },
+  {
+    "category": "Softies → Animal",
+    "count": 116,
+    "percentage": 4.51
+  },
+  {
+    "category": "Hat → Beanie, Toque",
+    "count": 109,
+    "percentage": 4.238
+  },
+  {
+    "category": "Decorative → Other",
+    "count": 106,
+    "percentage": 4.121
+  },
+  {
+    "category": "Neck / Torso → Scarf",
+    "count": 104,
+    "percentage": 4.044
+  },
+  {
+    "category": "Neck / Torso → Cowl",
+    "count": 104,
+    "percentage": 4.044
+  },
+  {
+    "category": "Softies → Other",
+    "count": 104,
+    "percentage": 4.044
+  },
+  {
+    "category": "Sweater → Pullover",
+    "count": 104,
+    "percentage": 4.044
+  },
+  {
+    "category": "Pet → Toys",
+    "count": 102,
+    "percentage": 3.966
+  },
+  {
+    "category": "Ball",
+    "count": 102,
+    "percentage": 3.966
+  },
+  {
+    "category": "Toys and Hobbies → Other",
+    "count": 100,
+    "percentage": 3.887
+  },
+  {
+    "category": "Tops → Tee",
+    "count": 98,
+    "percentage": 3.812
+  },
+  {
+    "category": "Decorative → Hanging Ornament",
+    "count": 98,
+    "percentage": 3.812
+  },
+  {
+    "category": "Afghan block",
+    "count": 96,
+    "percentage": 3.734
+  },
+  {
+    "category": "Softies → Doll",
+    "count": 96,
+    "percentage": 3.734
+  },
+  {
+    "category": "Blanket → Baby Blanket",
+    "count": 88,
+    "percentage": 3.423
+  },
+  {
+    "category": "Costume",
+    "count": 38,
+    "percentage": 1.477
+  },
+  {
+    "category": "Containers",
+    "count": 70,
+    "percentage": 2.722
+  },
+  {
+    "category": "Applique / Embellishment",
+    "count": 64,
+    "percentage": 2.488
+  },
+  {
+    "category": "Components → Other",
+    "count": 64,
+    "percentage": 2.488 // Applique / Embellishment is also counted here
+  },
+  {
+    "category": "Bag → Purse / Handbag",
+    "count": 60,
+    "percentage": 2.332
+  },
+  {
+    "category": "Coat / Jacket",
+    "count": 58,
+    "percentage": 2.255
+  },
+  {
+    "category": "Hat → Pixie",
+    "count": 48,
+    "percentage": 1.866
+  },
+  {
+    "category": "Blocks",
+    "count": 48,
+    "percentage": 1.866
+  },
+  {
+    "category": "Neck / Torso → Shawl / Wrap",
+    "count": 18,
+    "percentage": 0.699
+  },
+  {
+    "category": "Blanket → Throw",
+    "count": 16,
+    "percentage": 0.622
+  },
+  {
+    "category": "Food",
+    "count": 8,
+    "percentage": 0.311
+  },
+  {
+    "category": "Hat → Other",
+    "count": 6,
+    "percentage": 0.233
+  },
+  {
+    "category": "Accessories → Other",
+    "count": 4,
+    "percentage": 0.155
+  },
+  {
+    "category": "Other Headwear → Hair accessories",
+    "count": 4,
+    "percentage": 0.155
+  },
+  {
+    "category": "Bag → Messenger",
+    "count": 4,
+    "percentage": 0.155
+  },
+  {
+    "category": "Home",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Other Headwear → Headband",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Pet → Bedding",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Hands → Mittens",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Bag → Other",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Jewelry → Bracelet",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Pillow",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Other Headwear → Eye mask",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Vest",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Hat → Beret, Tam",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Hands → Fingerless Gloves/Mitts",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Feet / Legs → Socks → Mid-calf",
+    "count": 2,
+    "percentage": 0.078
+  },
+  {
+    "category": "Feet / Legs → Socks → Ankle",
+    "count": 1,
+    "percentage": 0.039
+  },
+  {
+    "category": "Hat → Stocking",
+    "count": 1,
+    "percentage": 0.039
+  }
 ]

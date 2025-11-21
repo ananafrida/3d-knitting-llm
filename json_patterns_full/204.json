@@ -1,42 +1,39 @@
 {
   "pattern_id": 204,
-  "pattern_page": "https://www.ravelry.com/patterns/library/best-friend",
+  "pattern_page": "https://www.ravelry.com/patterns/library/amsterdam-scarf",
+  "name": "Amsterdam Scarf",
+  "description": "This asymmetrical scarf will take out the chill of the day!",
+  "designer": "Dana Fehrenbach",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "One skein or 2 skeins",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK / Sport ?",
-    "Galler Yarns Pashmina"
+    "Baah Yarn La Jolla",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "beads",
-    "cables",
-    "lined",
-    "rectangle",
-    "seamed",
-    "textured",
+    "bias",
+    "one-piece",
+    "sideways",
     "worked-flat"
   ],
-  "full_text": "Description from Knitty.com: Cashmere is a special luxury that you deserve this holiday season- after all, you've been good all year, right? Just one skein of super plush Joseph Galler Pashmina will make two ultra luxe purses- one for you to keep and one for you to give as a gift to your closest gal pal. Quick to knit in a simple-yet-elegant cable pattern, and then beaded for some extra special holiday sparkle, this purse will have everyone clamoring for best-friend status!",
+  "full_text": "This asymmetrical scarf will take out the chill of the day! Based on the stitch pattern in my Amsterdam Cowl pattern, it comes in two sizes: a petite wrap which makes a perfect little scarf, or a larger size which gives more coverage, like a shawl. The pattern can be reversible, so if gifted, you won’t see it worn the wrong way!! Using a size 4 needle or whatever size you use to fit the gauge, use your imagination to modify this pattern by switching colors after a full section is knit or knitting the YO, K2TOG rows by using a contrast color of silk mohair, Instructions for this are included! Instructions for beading are also added!! Finished Dimensions Small 22” x 47” Large 32” x 64”",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitty-winter-2005",
-    "https://www.ravelry.com/patterns/library/best-friend/editors",
-    "https://www.ravelry.com/patterns/library/best-friend/people",
-    "https://www.ravelry.com/patterns/library/best-friend/yarns",
-    "https://www.ravelry.com/patterns/library/best-friend",
-    "https://www.ravelry.com/patterns/library/best-friend/threads",
-    "https://www.ravelry.com/patterns/library/wild-stripes",
-    "https://www.ravelry.com/patterns/library/oomingmacks",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/best-friend/posts",
-    "https://www.ravelry.com/patterns/library/best-friend/report",
-    "https://www.ravelry.com/patterns/library/best-friend/comments",
-    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag"
-  ],
-  "name": "Ravelry: Best Friend pattern by Kristin Goedert"
+    "https://www.ravelry.com/patterns/library/garter-me-this",
+    "https://www.ravelry.com/patterns/library/amsterdam-scarf/editors",
+    "https://www.ravelry.com/patterns/sources/dana-fehrenbachs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/amsterdam-scarf/people",
+    "https://www.ravelry.com/patterns/library/amsterdam-scarf/comments",
+    "https://www.ravelry.com/patterns/library/amsterdam-scarf",
+    "https://www.ravelry.com/patterns/library/little-josie-scarf",
+    "https://www.ravelry.com/patterns/library/amsterdam-scarf/report",
+    "https://www.ravelry.com/patterns/library/amsterdam-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/ixora-blossoms-cowl"
+  ]
 }

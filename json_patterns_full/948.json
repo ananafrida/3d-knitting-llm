@@ -1,43 +1,39 @@
 {
   "pattern_id": 948,
-  "pattern_page": "https://www.ravelry.com/patterns/library/woolly-ball",
+  "pattern_page": "https://www.ravelry.com/patterns/library/water-balloons-8",
+  "name": "Water Balloons",
+  "description": "NEEDLE Knitting Pattern ♥ SOAK, THROW, SPLAT, REPEAT! It’s just that fun and simple to play with these washable, reusable “water balloons”! Painless and environmentally friendly, they’re perfect for hot summer days outside! These “water balloons” knit up super fast and easy.",
+  "designer": "JaNae Yagi",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "6\" diameter",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Cleckheaton Country 8 Ply"
+    "Bernat Baby Blanket (Polyester)",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "modular",
+    "bottom-up",
+    "one-piece",
     "seamed",
-    "sphere-shaped",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This pattern calls for scraps of dk weight yarn but can be knit with any yarn and needles several sizes smaller than what is normally called for in order to create a tightly knit fabric",
+  "full_text": "NEEDLE Knitting Pattern ♥ SOAK, THROW, SPLAT, REPEAT! It’s just that fun and simple to play with these washable, reusable “water balloons”! Painless and environmentally friendly, they’re perfect for hot summer days outside! These “water balloons” knit up super fast and easy. ♥ Needles 8mm (11 US) Knit in the Round (DPN’s, Magic Loop, or Flexible DPN’s) - page 3 Knit Flat (Straight Needles, DPN’s, Circulars, or Flexible DPN’s) - page 4 ♥ Yarn approximately 28 yards per balloon RECOMMENDED BULKY YARN Yarnspirations Bernat Blanket or Yarnspirations Bernat Baby Blanket - Yarn Used in Samples: Baby Yellow, Go Go Green, Cranberry, Navy, In the Pink ♥ Special Thank You Thank you to Megan from Left in Knots for the free Crochet Water Balloons pattern that was the inspiration for this knitted version",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/woolly-ball/people",
-    "http://www.knitting-and.com/knitting/patterns/toys/woollyball.htm",
-    "https://www.ravelry.com/patterns/library/woolly-ball/report",
-    "https://www.ravelry.com/patterns/library/woolly-ball/threads",
-    "https://www.ravelry.com/patterns/library/woolly-ball/yarns",
-    "https://www.ravelry.com/patterns/library/woolly-ball/edit",
-    "https://www.ravelry.com/patterns/library/woolly-ball/posts",
-    "https://www.ravelry.com/patterns/library/family-rolled-brim-hat",
-    "https://www.ravelry.com/patterns/library/handspun-ribbed-hat",
-    "https://www.ravelry.com/patterns/library/woolly-ball/comments",
-    "https://www.ravelry.com/patterns/library/woolly-ball",
-    "https://www.ravelry.com/patterns/periodicals/invalid-source-please-do-not-use",
-    "https://www.ravelry.com/patterns/library/woolly-ball/editors",
-    "https://www.ravelry.com/patterns/library/feather-and-fan-comfort-shawl",
-    "https://www.ravelry.com/patterns/sources/-pattern-source-needed---do-not-add-to-ravelry"
-  ],
-  "name": "Ravelry: Woolly Ball pattern by Sarah Bradberry"
+    "https://www.ravelry.com/patterns/library/water-balloons-8/yarns",
+    "https://www.ravelry.com/patterns/library/faire-winter-cowl-2",
+    "https://www.ravelry.com/patterns/library/water-balloons-8/report",
+    "https://www.ravelry.com/patterns/library/water-balloons-8",
+    "https://www.ravelry.com/patterns/library/water-balloons-8/editors",
+    "https://www.ravelry.com/patterns/library/water-balloons-8/people",
+    "https://www.ravelry.com/patterns/library/faire-winter-wrist-warmers",
+    "https://www.ravelry.com/patterns/library/water-balloons-8/comments",
+    "https://www.ravelry.com/patterns/library/alexis-fingerless-mittens",
+    "https://www.ravelry.com/patterns/sources/smitten-knittens"
+  ]
 }

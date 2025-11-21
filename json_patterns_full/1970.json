@@ -1,40 +1,49 @@
 {
   "pattern_id": 1970,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-poppy-project-knit-version",
+  "pattern_page": "https://www.ravelry.com/patterns/library/melody-cardigan",
+  "name": "Melody Cardigan",
+  "description": "The Melody Cardigan is a very simple knitting pattern which is easy to follow and pleasent to knit.",
+  "designer": "Anna Krzyżak",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "4-5 inches in diameter",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "sizes_available": "XS - S - M - L - XL",
   "languages": [
-    "English"
+    "English",
+    "Polish"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Red Heart Super Saver (solids)"
+    "Woollala KidSilk Lace",
+    "yarn held together"
   ],
   "attributes": [
+    "adult",
+    "cuffed-sleeve",
+    "female",
     "in-the-round",
-    "one-piece",
-    "seamed",
-    "video-tutorial",
+    "long-sleeve",
+    "petite",
+    "plus",
+    "positive-ease",
+    "raglan-sleeve",
+    "seamless",
+    "top-down",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Video tutorial by Marly Bird: https://www.youtube.com/watch?v=X00_O1xP3bg",
+  "full_text": "The Melody Cardigan is a very simple knitting pattern which is easy to follow and pleasent to knit. You will need: XS: 2 skeins S: 3 skeins M: 3 skeins L: 4 skeins XL: 4 skeins of Kid Silk by Woollala.com* (each skein is 420 metres in 50 grams) If you want your cardigan to be longer you should have more yarn! 9 mm 120 cm and 40 cm circular needles (it’s the most comfortable but you can use shorter if you wish) 8 mm 120 cm circular needles (it’s the most comfortable but you can use shorter if you wish) 5 mm double pointed needles (or you can use the Magic Loop techniqe) 8 stitch markers 2 additional needles or thrads to hold the resting stitches Tapestry needle Have fun knitting!",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-poppy-project-knit-version",
-    "https://www.ravelry.com/patterns/library/the-poppy-project-knit-version/editors",
-    "https://www.ravelry.com/patterns/library/the-poppy-project-knit-version/comments",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/the-poppy-project-knit-version/people",
-    "https://www.ravelry.com/patterns/library/the-poppy-project-knit-version/report",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/the-poppy-project-knit-version/yarns",
-    "https://www.ravelry.com/patterns/library/chevron-wrap-9",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks",
-    "https://www.ravelry.com/patterns/library/the-poppy-project-crochet-version"
-  ],
-  "name": "Ravelry: The Poppy Project: Knit version pattern by Yarnspirations Design Studio"
+    "https://www.ravelry.com/patterns/library/melody-cardigan/yarns",
+    "https://www.ravelry.com/patterns/library/fermata-shorts",
+    "https://www.ravelry.com/patterns/library/melody-top-2",
+    "https://www.ravelry.com/patterns/library/melody-cardigan/comments",
+    "https://www.ravelry.com/patterns/library/melody-cardigan",
+    "https://www.ravelry.com/patterns/library/melody-cardigan/report",
+    "https://www.ravelry.com/patterns/library/phrase-top",
+    "https://www.ravelry.com/patterns/library/melody-cardigan/editors",
+    "https://www.ravelry.com/patterns/sources/anna-krzyzaks-ravelry-store",
+    "https://www.ravelry.com/patterns/library/melody-cardigan/people"
+  ]
 }

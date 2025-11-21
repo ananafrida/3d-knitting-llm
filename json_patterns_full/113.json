@@ -1,36 +1,41 @@
 {
   "pattern_id": 113,
-  "pattern_page": "https://www.ravelry.com/patterns/library/perovskite-project---octahedron",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-chickens",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "languages": [
-    "English"
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional"
+    "in-the-round"
   ],
-  "full_text": "This pattern was part of a project to build a giant model of the perovskite crystal structure using knitting and crochet. Read about the project here . NB: The project ended in 2013. Notions: Toy stuffing, cardboard to reinforce the octahedron shape, sewing needle and thread. (Note: Cardboard from a cereal box should be sufficient.) Companion to the Perovskite Project - Central Atom pattern.",
+  "full_text": "Also available on the Woman’s Day website.",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/editors",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/report",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/yarns",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/comments",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/posts",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/threads",
-    "https://web.archive.org/web/20150914164909/http://www.surrey.ac.uk/chemistry/files/Octahedron%20Knitting%20Pattern.pdf",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/edit",
-    "https://www.ravelry.com/patterns/library/perovskite-project---central-atom",
-    "https://www.ravelry.com/patterns/sources/university-of-surrey---chemistry",
-    "https://www.ravelry.com/patterns/library/perovskite-project---octahedron/people",
-    "http://web.archive.org/web/20150914164909/http://www.surrey.ac.uk/chemistry/files/Octahedron%20Knitting%20Pattern.pdf"
+    "https://www.ravelry.com/patterns/library/tiny-chickens/yarns",
+    "https://www.ravelry.com/patterns/sources/teeny-tiny-mochimochi",
+    "https://www.ravelry.com/patterns/library/tiny-chickens/editors",
+    "https://www.ravelry.com/patterns/library/tiny-chickens/comments",
+    "https://www.ravelry.com/patterns/sources/mochimochi-land-website",
+    "https://www.ravelry.com/patterns/library/tiny-chickens/threads",
+    "http://mochimochiland.com/2012/04/free-pattern-tiny-chickens/",
+    "https://www.ravelry.com/patterns/sources/womans-day-website",
+    "https://www.ravelry.com/patterns/library/tiny-cupcake",
+    "https://www.ravelry.com/patterns/sources/debbie-bliss-knitting-magazine-spring-summer-2012",
+    "https://www.ravelry.com/patterns/library/tiny-mermaid",
+    "https://www.ravelry.com/patterns/library/tiny-chickens/people",
+    "https://www.ravelry.com/patterns/library/tiny-chickens/posts",
+    "https://www.ravelry.com/patterns/library/tiny-chickens/report",
+    "https://www.ravelry.com/patterns/sources/debbie-bliss-strick-magazin-fruhjahr-sommer-2012",
+    "https://www.ravelry.com/patterns/library/tiny-chickens",
+    "https://www.ravelry.com/patterns/library/tiny-gnome",
+    "https://www.ravelry.com/patterns/sources/spool-magazine-fall-holiday-2011"
   ],
-  "name": "Ravelry: Perovskite Project - Octahedron pattern by University of Surrey - Chemistry Department"
+  "name": "Ravelry: Tiny Chickens pattern by Anna Hrachovec"
 }

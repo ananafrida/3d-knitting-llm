@@ -1,46 +1,39 @@
 {
   "pattern_id": 1325,
-  "pattern_page": "https://www.ravelry.com/patterns/library/froggybug-spherical-egg",
-  "name": "FroggyBug spherical egg",
-  "description": "Finding a simple formula to knit spherical eggs is my quest for a while.",
-  "designer": "Nicole Chevalier",
+  "pattern_page": "https://www.ravelry.com/patterns/library/heart-108",
   "craft": "Knitting",
   "category": "Softies → Other",
-  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Garnstudio DROPS Fabel"
+    "",
+    "Any gauge - designed for any gauge ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "captioned-video",
-    "chart",
     "in-the-round",
     "one-piece",
-    "other-colorwork",
-    "phototutorial",
-    "reversible",
-    "seamless",
-    "sphere-shaped",
-    "written-pattern"
+    "seamless"
   ],
-  "full_text": "Finding a simple formula to knit spherical eggs is my quest for a while. This is the first step of a more ambitious project: getting a 2-in-1 version of my previous soft toys patterns, so that the animal can sleep in the egg and carry the shell inside when they are active. What is really important is that the fabric is tight, and doesn’t stretch too much or the egg containing the dragon / frog / octopus / chameleon will look like a lose bag instead of a spherical egg. To make the fabric tight, I would recommand to use the “trapping the floats at each stitch” technique also described in picture in the pattern: main colour yarn on the right index, secondary colour yarn on the left index. The secondary yarn is brought all along the work, and goes down / up the right needle at each stitch. video available here: https://www.youtube.com/shorts/BBMCjTRk6xk Trapping the floats at each stitch makes the fabric quite stiff and thick. It also makes the fabric reversible. The design is not the same on the reverse, but is nice as well. Please note the slight tiling effect on the right side. The egg is knit-in-the-round from the bottom. It is made of 5 identical slices, starting from the bottom with 10 stitches, increasing until the required length is reached. Several sizes available in the pattern. As for most of my patterns, if you are in a hurry or a total beginner you might save this pattern for later. Combining knitting in the round with trapping the floats at each stitch is quite challenging. Each of those eggs took 5-10 hours to finish.",
+  "full_text": "Note: I made a different version of this, with a better shape, less knitting and a little trick in the middle to mean no yarn join for the 2nd hart bump. https://www.ravelry.com/patterns/library/no-sew-heart---c... if you are interested. I wanted a pattern for a stuffable knitted heart that didn’t include “Now knit another and sew them together.” This heart is cast on and knit in the round, from the bottom tip up to the centre V, then split. Each “heart bump” is worked independently and gathered after stuffing. The only sewing is a stitch (or two) in the middle of the V to close the small gap. It knits up quickly and you can alter the size easily by using thicker yarn and bigger needles. There is a clickable link in the PDF to my blog post with more photos. Added some info on knitting the hearts 2 at a time. https://wp.me/pFP2b-4e0 This is a perfect pattern for charity requests. Here in the UK hospitals are asking for knitted heart pairs, to give one to the patient and one to their family, kind of like bonding squares. Knitting the hearts 2 at a time makes sense when you need to make a matched pair!",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/froggybug-spherical-egg/people",
-    "https://www.ravelry.com/patterns/library/froggybug-spherical-egg",
-    "https://www.ravelry.com/patterns/library/froggybug-spherical-egg/editors",
-    "https://www.ravelry.com/patterns/sources/nicole-chevaliers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/froggybug-6-mini-xmas-jumpers",
-    "https://www.ravelry.com/patterns/library/froggybug-valentine-jumpers",
-    "https://www.ravelry.com/patterns/library/froggybug-spherical-egg/report",
-    "https://www.ravelry.com/patterns/library/froggybug-frog",
-    "https://www.ravelry.com/patterns/library/froggybug-spherical-egg/comments",
-    "https://www.ravelry.com/patterns/library/froggybug-spherical-egg/yarns",
-    "https://www.ravelry.com/patterns/library/froggybug-spherical-egg/threads"
-  ]
+    "https://www.ravelry.com/patterns/library/heart-108/comments",
+    "https://www.ravelry.com/patterns/library/slip-of-the-stitch-socks",
+    "https://www.ravelry.com/patterns/library/no-sew-heart---charity-version",
+    "https://scrappystickyinkymess.wordpress.com/2019/03/10/my-nearly-no-sew-knitted-stuffed-heart-pattern-again/",
+    "https://www.ravelry.com/patterns/library/heart-108/editors",
+    "https://www.ravelry.com/patterns/library/heart-108/report",
+    "https://www.ravelry.com/patterns/library/heart-108/posts",
+    "https://www.ravelry.com/patterns/library/heart---charity-version",
+    "https://www.ravelry.com/patterns/library/heart-108",
+    "https://www.ravelry.com/patterns/sources/scrappystickyinkymess",
+    "https://www.ravelry.com/patterns/library/heart-108/threads",
+    "https://www.ravelry.com/patterns/library/heart-108/people",
+    "https://www.ravelry.com/patterns/library/little-orange-monster-man",
+    "https://www.ravelry.com/patterns/library/heart-108/yarns"
+  ],
+  "name": "Ravelry: Heart pattern by Mary Anne Walters"
 }

@@ -1,40 +1,33 @@
 {
   "pattern_id": 477,
-  "pattern_page": "https://www.ravelry.com/patterns/library/harmas-3",
-  "name": "Harmas",
-  "description": "SIZE",
-  "designer": "Sara R.",
+  "pattern_page": "https://www.ravelry.com/patterns/library/engelchen-3",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "One size",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "languages": [
-    "English",
-    "Finnish"
+    "German"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Isokummun Kehräämö Täppä Suomenlammas tex 180x2"
+    "Aran (8 wpi) ?",
+    "Garnstudio DROPS Air"
   ],
   "attributes": [
-    "adult",
-    "chart",
-    "lace",
-    "ribbed"
+    "phototutorial",
+    "written-pattern"
   ],
-  "full_text": "SIZE One size (circumference approx. 69 cm / 27.5”, height approx. 44 cm / 17.5”) YARN 2 skeins of Isokummun Kehräämö Täppä (100% Kainuugrey wool; 275m 300yds per 100g), OR approx. 380m / 416yds of heavy fingering / sport weight yarn. NEEDLES 3mm US 2 ½ , 40 cm / 16\" long. NOTE: always use the needle size that gives you the correct gauge. GAUGE 23.5 sts & 30 rnds = 10 cm / 4\" in lace pattern, after blocking. NOTIONS 1 Stitch marker, Tapestry needle for Weaving in the ends. ————————————— SIZE One size (circumference approx. 69 cm & height approx. 44 cm) YARN 2 skeins of Isokummun Kehräämö Täppä (100% Kainunuhanmas wool; 275m per 100g), OR approx. 380m of heavy fingering / sport strong yarn. NEEDLES 3mm circular needles, 40 cm long. NOTE: always use the needle size that gives you the required density. KNIT DENSITY 23.5 sts & 30 rows = 10 cm of lace, after pressing. OTHER ACCESSORIES 1 loop marker, a finishing needle for finishing thread ends.",
+  "full_text": "A quick project even for beginners, also very suitable for leftover wool.",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/harmas-3/editors",
-    "https://www.ravelry.com/patterns/library/verglas-6",
-    "https://www.ravelry.com/patterns/library/harmas-3/people",
-    "https://www.ravelry.com/patterns/library/gelato-13",
-    "https://www.ravelry.com/patterns/sources/mycupofknitting-ravelry-store",
-    "https://www.ravelry.com/patterns/library/harmas-3/report",
-    "https://www.ravelry.com/patterns/library/harmas-3/comments",
-    "https://www.ravelry.com/patterns/library/harmas-3/yarns",
-    "https://www.ravelry.com/patterns/library/harmas-3",
-    "https://www.ravelry.com/patterns/library/pop-it"
-  ]
+    "https://www.ravelry.com/patterns/library/engelchen-3/report",
+    "https://www.ravelry.com/patterns/library/engelchen-3/comments",
+    "https://www.ravelry.com/patterns/library/engelchen-3/yarns",
+    "https://www.ravelry.com/patterns/library/mein-netz-fur-alle-falle",
+    "https://www.ravelry.com/patterns/library/engelchen-3/people",
+    "https://www.ravelry.com/patterns/library/engelchen-3/threads",
+    "https://www.ravelry.com/patterns/library/engelchen-3",
+    "https://www.ravelry.com/patterns/library/engelchen-3/editors",
+    "https://www.ravelry.com/patterns/sources/schaf-mit-schal"
+  ],
+  "name": "Ravelry: Engelchen pattern by Frau strickt"
 }

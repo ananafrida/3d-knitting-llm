@@ -1,37 +1,58 @@
 {
   "pattern_id": 1300,
-  "pattern_page": "https://www.ravelry.com/patterns/library/easter-bunny-68",
+  "pattern_page": "https://www.ravelry.com/patterns/library/at-the-seaside-not-only-in-the-summer",
+  "name": "At the Seaside (Not Only in the Summer)",
+  "description": "At the seaside is a comfy tee that lets me think of a sunny day by the sea … wind blowing my hair … sea gulls crying in the air … warm sand between my toes …",
+  "designer": "Fräulein Städtisch",
   "craft": "Knitting",
-  "category": "Softies → Animal",
+  "category": "Tops → Tee",
   "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "one size",
+  "sizes_available": "XS, S, M1, M2, L, XL, XXL",
   "languages": [
-    "English"
+    "English",
+    "German"
   ],
   "suggested_yarn": [
-    "King Cole Baby Alpaca DK",
-    "yarn held together"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Cotton Viscose"
   ],
   "attributes": [
+    "adult",
+    "aline",
+    "contiguous",
+    "female",
+    "icord",
+    "icord-edging",
+    "in-the-round",
+    "one-piece",
+    "plus",
+    "positive-ease",
+    "raglan-sleeve",
+    "short-rows",
+    "stripes-colorwork",
+    "teen",
+    "top-down",
+    "v-neck",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "To create the multi-layering of color, use two shades: one DK yarn with mohair yarn at the same time. You’ll use less than 1 ball of each yarn. Finished size: 8 inches (20cm) from tail to nose Extra supplies: 15mm toy safety eyes or black amigurami safety eyes, toy filling/stuffing, 10 stitch markers",
-  "techniques": [],
+  "full_text": "At the seaside is a comfy tee that lets me think of a sunny day by the sea … wind blowing my hair … sea gulls crying in the air … warm sand between my toes … This tee is worked from the top down seamlessly. The front is shaped using the contiguous sleeve meth-od developed by Susie Myers ( SusieM ) while there is a raglan seam at the back. First, neck shaping is done with short rows. Until the V-neck is finished, the tee is worked back and forth, later in rounds. A little cable on each side creates a slight A-line shaping. Sleeves and V-neck are finished off with ap-plied I-cord edging. The hem in the back is a little bit longer than the hem in front. Note: This pattern includes an option for long sleeves. The yarn requirements will go up to 100–110 y (90–100m) Thank you for the English Proofread, Manfredovna ? UPDATE 09/2016: rd4 in section “Bodyshaping” (p.10) now correct (only English version) At the seaside ist ein perfektes Oberteil für einen Tag am Meer: Wind zerzaust das Haar, Möwen schrei-en und warmer Sand rieselt durch die Zehen. Der Pulli wird ohne Nähte von oben nach unten gestrickt. Dabei wird die vordere Seite mit der conti-guous-Methode nach SusieM gearbeitet, die hintere Seite wird mit Raglan-Zunahmen gearbeitet. Man beginnt mit der hinteren Schulterpartie, die mit verkürzten Reihen gearbeitet wird. Bis der V-Ausschnitt geschlossen ist, wird in Hin- und Rückreihen gestrickt, anschließend in Runden. Ein schmaler Zopf auf jeder Seite markiert auch optisch die A-Linie. Der hintere Saum ist abgerundet und ein wenig länger als der vordere. Ganz zum Schluss werden die Ärmel fertiggestellt und der V-Ausschnitt mit einem schmalen I-Cord eingesäumt. Hinweis: Diese Anleitung enthält auch die Option für lange Ärmel. Die benötigten Garnmengen erhöhen sich dabei um ca. 90-100 m",
+  "techniques": [
+    "short rows"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/easter-bunny-68/threads",
-    "https://www.ravelry.com/patterns/library/wild-rabbit-2",
-    "https://www.ravelry.com/patterns/library/easter-bunny-68/editors",
-    "https://www.ravelry.com/patterns/library/beginners-rainbow-rabbit",
-    "https://www.ravelry.com/patterns/library/easter-bunny-68/people",
-    "https://www.ravelry.com/patterns/library/easter-bunny-68/posts",
-    "https://www.ravelry.com/patterns/library/easter-bunny-68",
-    "https://www.ravelry.com/patterns/library/lucky-duckling",
-    "https://www.ravelry.com/patterns/library/easter-bunny-68/report",
-    "https://www.ravelry.com/patterns/library/easter-bunny-68/comments",
-    "https://www.frombritainwithlove.com/how-to-knit-an-easter-bunny-free-pattern-and-step-by-step-tutorial/",
-    "https://www.ravelry.com/patterns/sources/from-britain-with-love",
-    "https://www.ravelry.com/patterns/library/easter-bunny-68/yarns"
-  ],
-  "name": "Ravelry: Easter Bunny pattern by Claire Garland"
+    "https://www.ravelry.com/patterns/library/at-the-seaside-not-only-in-the-summer/threads",
+    "https://www.ravelry.com/patterns/library/ripley-7",
+    "https://www.ravelry.com/patterns/library/at-the-seaside-not-only-in-the-summer/report",
+    "https://www.ravelry.com/patterns/library/at-the-seaside-not-only-in-the-summer/posts",
+    "https://www.ravelry.com/patterns/library/at-the-seaside-not-only-in-the-summer",
+    "https://www.ravelry.com/patterns/library/at-the-seaside-not-only-in-the-summer/editors",
+    "https://www.ravelry.com/patterns/library/at-the-seaside-not-only-in-the-summer/comments",
+    "https://www.ravelry.com/patterns/sources/fraulein-stadtischs-ravelry-store",
+    "https://www.ravelry.com/patterns/library/at-the-seaside-not-only-in-the-summer/people",
+    "https://www.ravelry.com/patterns/library/muutos-tee",
+    "https://www.ravelry.com/patterns/library/at-the-seaside-not-only-in-the-summer/yarns",
+    "https://www.ravelry.com/patterns/library/joinz-cardigan"
+  ]
 }

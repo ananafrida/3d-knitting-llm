@@ -1,37 +1,51 @@
 {
   "pattern_id": 1559,
-  "pattern_page": "https://www.ravelry.com/patterns/library/rainbow-gnomes-3",
-  "name": "Rainbow Gnomes",
-  "description": "This parade of rainbow coloured gnomes is a fun addition to your Christmas decorations or you could just knit one for a quick gift.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/troms-hoodie",
+  "name": "Tromsø Hoodie",
+  "description": "Are you a fresh beginner in knitting? Perfect! This chunky and warm hoodie will be a great place to start. The pattern is easy to follow, and with big needles, small mistakes won’t show. Good luck.",
+  "designer": "Sisu Knitwear",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "sizes_available": "One Size",
   "languages": [
-    "English"
+    "English",
+    "Norwegian"
   ],
   "suggested_yarn": [
-    "Stylecraft Special Double Knit",
-    "DK (11 wpi) ?"
+    "Sandnes Garn Børstet Alpakka",
+    "yarn held together"
   ],
   "attributes": [
+    "adult",
+    "bottom-up",
+    "hood",
+    "icord-edging",
     "in-the-round",
-    "phototutorial"
+    "one-piece",
+    "ribbed",
+    "seamed",
+    "teen",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "This parade of rainbow coloured gnomes is a fun addition to your Christmas decorations or you could just knit one for a quick gift. The gnomes are small enough to fit in your hand and only use very small amounts of DK weight yarn. You will need two shades of one colour per gnome; the darker one for the body and the lighter one for the hat. The main body is knitted in the round and stuffed as you go, using a combination of a bean bag and toy stuffing. Then the beard, nose and the brim of the hat are knitted separately and sewn on before adding a small jingle bell to the top of the hat. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Gnome knitting!",
+  "full_text": "Are you a fresh beginner in knitting? Perfect! This chunky and warm hoodie will be a great place to start. The pattern is easy to follow, and with big needles, small mistakes won’t show. Good luck. Tromsø Hoodie Mini Size One Size Length 40 cm (15.7 inches) Width 52 cm (20.5 inches) Gauge 15 sts on needles 6 mm (US10) = 10 cm Needle Circular needle 6 mm (US10) 40 cm Yarn 100 g Børstet Alpakka by Sandnes Garn 100 g Kos by Sandnes Garn Color codes used in main picture Børstet Alpakka 1042 Kos 1043 Join Sisu Knitwear’s Fan Club",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3/report",
-    "https://www.ravelry.com/patterns/library/knitted-yo-yos",
-    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3/editors",
-    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3/comments",
-    "https://www.ravelry.com/patterns/library/tree-sampler",
-    "https://www.ravelry.com/patterns/library/knitted-mandala",
-    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3/threads",
-    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3/people",
-    "https://www.ravelry.com/patterns/library/rainbow-gnomes-3/yarns"
+    "https://www.ravelry.com/patterns/library/troms-hoodie/yarns",
+    "https://www.ravelry.com/patterns/sources/sisu-knitwear-ravelry-store",
+    "https://www.ravelry.com/bundles/free-patterns-1232",
+    "https://www.ravelry.com/patterns/library/troms-hoodie-mini",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/people",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/report",
+    "https://www.ravelry.com/patterns/library/kal-2025-acorn-sweater",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/posts",
+    "https://www.ravelry.com/patterns/library/blueberry-sweater-3",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/editors",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/threads",
+    "https://www.ravelry.com/patterns/library/troms-hoodie/comments",
+    "https://www.ravelry.com/patterns/library/troms-hoodie",
+    "https://www.ravelry.com/patterns/library/raspberry-sweater-3"
   ]
 }

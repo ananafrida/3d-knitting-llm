@@ -1,35 +1,34 @@
 {
   "pattern_id": 2025,
-  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-wings-2",
-  "name": "Tiny Wings",
-  "description": "PATTERN IS FOR WINGS ONLY",
-  "designer": "kayceesunshine",
+  "pattern_page": "https://www.ravelry.com/patterns/library/mitred-football",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Ball",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Red Heart Super Saver (solids)",
+    "",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "written-pattern"
+    "3-dimensional",
+    "modular",
+    "phototutorial"
   ],
-  "full_text": "PATTERN IS FOR WINGS ONLY This pattern is for making a tiny set of wings for all sorts of tiny winged creatures such as fairies, ponies, kitties, piggies, dragons, angels, etc. This pattern makes a pair of wings that are approx. 1 1/2” long and 1” wide when knitted up with worsted weight yarn on US 8 needles.",
+  "full_text": "This is a great toy for kids or a fan of a favorite team. I have used Lily’s Sugar N’ Cream as well as other worsted weight acrylics. There is no limit to the types of yarns you can use. Adjusting the needle size and weight of yarn can change the size of the football - but you can have alot of fun with this!!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tiny-wings-2/yarns",
-    "https://www.ravelry.com/patterns/sources/kayceesunshines-ravelry-store",
-    "https://www.ravelry.com/patterns/library/tiny-wings-2/people",
-    "https://www.ravelry.com/patterns/library/tiny-wings-2/edit",
-    "https://www.ravelry.com/patterns/library/tiny-wings-2/report",
-    "https://www.ravelry.com/patterns/library/little-cat-ears",
-    "https://www.ravelry.com/patterns/library/tiny-wings-2/comments",
-    "https://www.ravelry.com/patterns/library/tiny-wings-2",
-    "https://www.ravelry.com/patterns/library/tiny-wings-2/editors",
-    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail"
-  ]
+    "https://www.ravelry.com/patterns/library/mitred-football/threads",
+    "https://www.ravelry.com/patterns/library/rainbow-circular-afghan",
+    "https://www.ravelry.com/patterns/library/mitred-football/comments",
+    "https://www.ravelry.com/patterns/sources/creativegal42",
+    "https://www.ravelry.com/patterns/library/mitred-football",
+    "https://www.ravelry.com/patterns/library/mitred-football/report",
+    "https://www.ravelry.com/patterns/library/mitred-football/yarns",
+    "https://www.ravelry.com/patterns/library/mitred-football/people",
+    "https://www.ravelry.com/patterns/library/mitred-football/editors"
+  ],
+  "name": "Ravelry: Mitred Football pattern by Sarah McDonald"
 }

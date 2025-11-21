@@ -1,54 +1,36 @@
 {
   "pattern_id": 402,
-  "pattern_page": "https://www.ravelry.com/patterns/library/baseball-jacket-4",
+  "pattern_page": "https://www.ravelry.com/patterns/library/star-ornament-12",
+  "name": "Star Ornament",
+  "description": "Gauge",
+  "designer": "Adella Dutra",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
-  "sizes_available": "3 - 48 mos",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
+  "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Sport (12 wpi) ?",
-    "Debbie Bliss Baby Cashmerino"
+    "Super Bulky (5-6 wpi) ?",
+    "Lion Brand LB Collection Fifty Fifty"
   ],
   "attributes": [
-    "baby",
-    "bottom-up",
-    "collar",
-    "raglan-sleeve",
-    "ribbed",
-    "seamed",
-    "short-rows",
-    "snaps",
-    "stripes",
-    "stripes-colorwork",
-    "toddler",
-    "unisex",
-    "worked-flat",
-    "written-pattern"
+    "star-shaped"
   ],
-  "full_text": "Note: Love to Knit magazine has sizes 3-6mos to 2-3 years Pattern calls for three different colors, leaving lots of yarn left over for hats, mittens, etc.",
+  "full_text": "Gauge 6 sts in 5 cm (2”) Measurements One size: 16 x 16 cm (6.5” x 6.5”) Materials 30g of Lion Brand Fifty Fifty Yarn Needles & Notions 8 mm (US 11) 40 cm (16”) circular needle 1 marker Tapestry needle 1/8” ribbon",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/posts",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/editors",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/people",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4",
-    "https://www.lovecrafts.com/en-gb/p/kids-baseball-jacket-in-debbie-bliss-downloadable-pdf",
-    "https://www.ravelry.com/patterns/library/bear-necessities-set",
-    "https://www.ravelry.com/patterns/sources/love-knitting-for-baby-8-january-2013",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/threads",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/report",
-    "https://www.ravelry.com/patterns/sources/debbie-bliss-baby-cashmerino-4",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/yarns",
-    "https://www.ravelry.com/patterns/library/spanish-dress",
-    "https://www.ravelry.com/patterns/sources/debbie-bliss-on-lovecrafts",
-    "https://www.ravelry.com/patterns/library/striped-cardigan",
-    "https://www.ravelry.com/patterns/library/baseball-jacket-4/comments",
-    "https://www.ravelry.com/patterns/sources/debbie-bliss-website",
-    "https://www.ravelry.com/patterns/periodicals/debbie-bliss"
-  ],
-  "name": "Ravelry: Baseball Jacket pattern by Debbie Bliss"
+    "https://www.ravelry.com/patterns/library/knit-overalls",
+    "https://www.ravelry.com/patterns/library/star-ornament-12/yarns",
+    "https://www.ravelry.com/patterns/library/apron-vest",
+    "https://www.ravelry.com/patterns/library/star-ornament-12/report",
+    "https://www.ravelry.com/patterns/library/star-ornament-12/editors",
+    "https://www.ravelry.com/patterns/library/the-garter-bonnet",
+    "https://www.ravelry.com/patterns/sources/adella-dutras-ravelry-store",
+    "https://www.ravelry.com/patterns/library/star-ornament-12/people",
+    "https://www.ravelry.com/patterns/library/star-ornament-12/comments",
+    "https://www.ravelry.com/patterns/library/star-ornament-12"
+  ]
 }

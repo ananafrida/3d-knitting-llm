@@ -1,35 +1,35 @@
 {
   "pattern_id": 1880,
-  "pattern_page": "https://www.ravelry.com/patterns/library/zed-ay-parcel-string-basket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-wings-2",
+  "name": "Tiny Wings",
+  "description": "PATTERN IS FOR WINGS ONLY",
+  "designer": "kayceesunshine",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 10.5 (6.5 mm), US 10 (6.0 mm)",
+  "category": "Components → Other",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Parcel String (3 ply)"
+    "Red Heart Super Saver (solids)",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "rectangle",
-    "textured",
     "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "PATTERN IS FOR WINGS ONLY This pattern is for making a tiny set of wings for all sorts of tiny winged creatures such as fairies, ponies, kitties, piggies, dragons, angels, etc. This pattern makes a pair of wings that are approx. 1 1/2” long and 1” wide when knitted up with worsted weight yarn on US 8 needles.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/zed-ay-parcel-string-basket/yarns",
-    "https://www.ravelry.com/patterns/library/zed-ay-parcel-string-basket/comments",
-    "https://www.ravelry.com/patterns/sources/christie-at-the-cape",
-    "https://www.ravelry.com/patterns/library/zed-ay-parcel-string-basket/editors",
-    "https://www.ravelry.com/patterns/library/erics-cabled-hat",
-    "https://www.ravelry.com/patterns/library/sockeye-salmon",
-    "https://www.ravelry.com/patterns/library/zed-ay-parcel-string-basket/people",
-    "https://www.ravelry.com/patterns/library/zed-ay-parcel-string-basket/report",
-    "https://www.ravelry.com/patterns/library/zed-ay-parcel-string-basket"
-  ],
-  "name": "Ravelry: Zed-Ay Parcel String Basket pattern by Christie Rowe"
+    "https://www.ravelry.com/patterns/library/tiny-wings-2/people",
+    "https://www.ravelry.com/patterns/library/tiny-wings-2/comments",
+    "https://www.ravelry.com/patterns/sources/kayceesunshines-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tiny-wings-2/edit",
+    "https://www.ravelry.com/patterns/library/tiny-wings-2",
+    "https://www.ravelry.com/patterns/library/little-cat-ears",
+    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail",
+    "https://www.ravelry.com/patterns/library/tiny-wings-2/editors",
+    "https://www.ravelry.com/patterns/library/tiny-wings-2/report",
+    "https://www.ravelry.com/patterns/library/tiny-wings-2/yarns"
+  ]
 }

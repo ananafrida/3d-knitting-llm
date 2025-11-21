@@ -1,39 +1,38 @@
 {
   "pattern_id": 214,
-  "pattern_page": "https://www.ravelry.com/patterns/library/summit-class-pouch",
-  "name": "Summit Class Pouch",
-  "description": "This sweet beginner bag will give new knitters lots of practice with new stitch patterns. Feel free to use this for yourself or to teach others.",
-  "designer": "Elizabeth Carley",
+  "pattern_page": "https://www.ravelry.com/patterns/library/infinity-scarf-92",
+  "name": "Infinity Scarf",
+  "description": "This Infinity Scarf is knitted only in one piece.",
+  "designer": "Trine Jensen",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "sizes_available": "One Size",
   "languages": [
-    "English"
+    "English",
+    "Additional languages which are not in the download: Danish"
   ],
   "suggested_yarn": [
-    "Valley Yarns Haydenville Bulky",
-    "Bulky (7 wpi) ?"
+    "ONION Knit No. 4 Organic Wool + Nettles",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "ribbed",
-    "textured",
-    "written-pattern"
+    "adult",
+    "in-the-round",
+    "one-piece",
+    "stripes-colorwork"
   ],
-  "full_text": "This sweet beginner bag will give new knitters lots of practice with new stitch patterns. Feel free to use this for yourself or to teach others.",
+  "full_text": "This Infinity Scarf is knitted only in one piece. The Infinity Scarf is a quick and beginner friendly scarf to knit on a circular needle. There is not much technique involved. You can knit in one or several colors, and the short repeats are particularly suitable for using several colors of scrap yarns. You will need approximately 60 g of yarn for one scarf. Suggested yarn is Onion No. 4 Organic Wool + nettles 50 g/130 m and a circular needle 4.5 mm 50 cm Opskriften findes på dansk til gratis download fra Kreativitekets hjemmeside",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/editors",
-    "https://www.ravelry.com/patterns/library/finger-blankets",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/comments",
-    "https://www.ravelry.com/patterns/library/zenith-cowl--scarf",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/threads",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/yarns",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/people",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch",
-    "https://www.ravelry.com/patterns/library/summit-class-pouch/report",
-    "https://www.ravelry.com/patterns/sources/elizabeth-carleys-ravelry-store",
-    "https://www.ravelry.com/patterns/library/peak-cozy-redux"
+    "https://www.ravelry.com/patterns/library/infinity-scarf-92/editors",
+    "https://www.ravelry.com/patterns/library/infinity-scarf-92",
+    "https://www.ravelry.com/patterns/library/infinity-scarf-92/people",
+    "https://www.ravelry.com/patterns/library/gecko-scarf-2",
+    "https://www.ravelry.com/patterns/library/infinity-scarf-92/yarns",
+    "https://www.ravelry.com/patterns/sources/kreativiteket",
+    "https://www.ravelry.com/patterns/library/infinity-scarf-92/comments",
+    "https://www.ravelry.com/patterns/library/infinity-scarf-92/report"
   ]
 }

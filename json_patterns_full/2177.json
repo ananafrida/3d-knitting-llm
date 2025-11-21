@@ -1,42 +1,44 @@
 {
   "pattern_id": 2177,
-  "pattern_page": "https://www.ravelry.com/patterns/library/chainmail-hauberk-for-a-young-knight",
+  "pattern_page": "https://www.ravelry.com/patterns/library/little-gnome-hat-4",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 15 (10.0 mm), US 15 (10.0 mm)",
-  "sizes_available": "average",
+  "category": "Hat → Pixie",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "6/12 mos, 18/24 mos, 4 yrs",
   "languages": [
-    "Danish",
     "English"
   ],
   "suggested_yarn": [
-    "Plymouth Yarn Encore Worsted Solids & Heathers",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Bernat Softee Baby, Solids & Marls"
   ],
   "attributes": [
+    "baby",
     "child",
-    "in-the-round",
-    "reversible",
-    "v-neck",
-    "worked-flat"
+    "one-piece",
+    "ribbed",
+    "seamed",
+    "toddler",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Knit your Knight some chainmail! It will only take a few hours and is very a simple and forgiving pattern. Your Knight can help you with the knitting. Add short sleeves if you like. Enjoy! Sisse has translated the pattern into Danish .",
+  "full_text": "A peaked hat for your little gnome (or baby!)(Yarnspirations) Skill Level: Easy Sizes: Size: To fit head circumference 6/12 mos: 17” 43 cm 18/24 mos: 18” 45.5 cm 4 yrs: 19” 48 cm Materials: Bernat® Softee Baby™ (5 oz/140 g; 362 yds/331 m) Pictured in Soft Red (30424) (1 ball) Additional Materials: 2 stitch holders.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/three-color-mitts",
-    "https://www.ravelry.com/patterns/library/wishbone-socks",
-    "https://www.ravelry.com/patterns/library/chainmail-hauberk-for-a-young-knight/threads",
-    "https://www.ravelry.com/patterns/library/chainmail-hauberk-for-a-young-knight/yarns",
-    "https://www.ravelry.com/patterns/library/chainmail-hauberk-for-a-young-knight/people",
-    "https://www.ravelry.com/patterns/library/chainmail-hauberk-for-a-young-knight/report",
-    "https://www.ravelry.com/patterns/library/chainmail-hauberk-for-a-young-knight/comments",
-    "https://www.ravelry.com/patterns/library/happy-striped-socks",
-    "https://www.ravelry.com/patterns/sources/kayray",
-    "https://www.ravelry.com/patterns/library/chainmail-hauberk-for-a-young-knight/editors",
-    "https://www.ravelry.com/patterns/library/chainmail-hauberk-for-a-young-knight/posts",
-    "https://www.ravelry.com/patterns/library/chainmail-hauberk-for-a-young-knight",
-    "https://www.ravelry.com/patterns/sources/maisha"
+    "https://www.ravelry.com/patterns/library/star-blanket-6",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/edit",
+    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
+    "https://www.ravelry.com/patterns/library/garter-stitch-corner-to-corner-blanket",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/comments",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/report",
+    "https://www.ravelry.com/patterns/periodicals/spinrite",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/yarns",
+    "https://www.ravelry.com/patterns/library/babys-booties-knit",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/people",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/editors",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4/threads",
+    "https://www.ravelry.com/patterns/library/little-gnome-hat-4"
   ],
-  "name": "Ravelry: Chainmail Hauberk for a Young Knight pattern by Kara Shallenberg"
+  "name": "Ravelry: Little Gnome Hat pattern by Bernat Design Studio"
 }

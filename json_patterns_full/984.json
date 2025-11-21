@@ -1,40 +1,42 @@
 {
   "pattern_id": 984,
-  "pattern_page": "https://www.ravelry.com/patterns/library/simple-ball-2",
-  "name": "Simple Ball",
-  "description": "Since I’ve often wished for a book of instructions for basic shapes, that I could take and make my own, but I haven’t yet found this book, I decided to get the ball rolling myself and create a simple ball pattern that allows for infinite play and variation.",
-  "designer": "Alexis Hamann-Nazaroff",
+  "pattern_page": "https://www.ravelry.com/patterns/library/rainbow-35",
+  "name": "Rainbow",
+  "description": "Knit some Rainbows as badges, jewellery, bag charms, to hang from mobiles, or to make a rainbow pride banner. I have added toy filling to make a puffy rainbow, but you could leave your rainbow free of stuffing so it lies flatter if you prefer.",
+  "designer": "Amanda Berry",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Aran (8 wpi) ?"
+    "Patons UK Baby Smiles Fairytale Fab 4ply",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "in-the-round",
-    "worked-flat"
+    "seamed",
+    "stripes-colorwork",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Since I’ve often wished for a book of instructions for basic shapes, that I could take and make my own, but I haven’t yet found this book, I decided to get the ball rolling myself and create a simple ball pattern that allows for infinite play and variation. Use this pattern as a jumping off point to try out balls with color work, different stitch patterns etc. This is actually 2 patterns in one: instructions for a ball knit flat, and a ball knit in-the-round. That way you can choose which works best for you. Enjoy! gauge, size and specific yarn are not too important, since this ball pattern is made to be played around with, but I do suggest you knit with a combination of yarn and needle that knits up a firm, tight fabric, so that the ball holds its shape and stuffing doesn’t leak out.",
+  "full_text": "Knit some Rainbows as badges, jewellery, bag charms, to hang from mobiles, or to make a rainbow pride banner. I have added toy filling to make a puffy rainbow, but you could leave your rainbow free of stuffing so it lies flatter if you prefer. Designed by Amanda Berry @fluffandfuzz, the rainbow is knitted on single pointed needles (not in the round). My rainbow was knitted in acrylic 4 ply yarns, although you can use DK (double knitting/light worsted) if you prefer. NEEDLES A pair of 3.25mm single pointed knitting needles (US 3). RECOMMENDED YARN Patons Baby Smiles Fairytale Fab 4 Ply; sport/fingering weight; 100% acrylic; a few metres in each shade. NOTIONS Tapestry needle and a small handful of toy filling or cotton wool ball to stuff. SIZES One size only - 8cm wide x 5cm tall. TECHNIQUES For beginners and above, other techniques used include a little seaming and a k2tog decrease. PATTERN INFO This knitting pattern is a pdf download, 1 page, and written in English. Patterns for personal use only; not for resale. Copyright © 2019 Amanda Berry; All rights reserved.",
   "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/simple-ball-2/threads",
-    "https://www.ravelry.com/patterns/library/simple-ball-2/comments",
-    "https://www.ravelry.com/patterns/library/simple-ball-2/posts",
-    "https://www.ravelry.com/patterns/library/simple-ball-2/editors",
-    "https://www.ravelry.com/stores/yarn-birdy-patterns",
-    "https://www.ravelry.com/patterns/library/simple-ball-2/yarns",
-    "https://www.ravelry.com/patterns/library/miniature-knit-toy-turkey-istanbul",
-    "https://www.ravelry.com/patterns/library/simple-ball-2",
-    "https://www.ravelry.com/patterns/library/simple-ball-2/people",
-    "https://www.ravelry.com/patterns/library/little-ghosts",
-    "https://www.ravelry.com/patterns/library/simple-ball-2/report",
-    "https://www.ravelry.com/patterns/sources/yarn-birdy",
-    "https://www.ravelry.com/patterns/library/crocuses-knit-a-spring-flower"
+    "https://www.ravelry.com/patterns/sources/fluff--fuzz",
+    "https://www.ravelry.com/patterns/library/rainbow-35/comments",
+    "https://www.ravelry.com/bundles/free-patterns-500",
+    "https://www.ravelry.com/patterns/library/rainbow-35/editors",
+    "https://www.ravelry.com/patterns/library/rainbow-35/report",
+    "https://www.ravelry.com/patterns/library/rainbow-35/yarns",
+    "https://www.ravelry.com/patterns/library/mini-rainbow-3",
+    "https://www.ravelry.com/patterns/library/rainbow-35/people",
+    "https://www.ravelry.com/patterns/library/rainbow-35",
+    "https://www.ravelry.com/patterns/library/woolly-womb",
+    "https://www.ravelry.com/patterns/library/dinky-ice-cream",
+    "https://www.ravelry.com/patterns/library/rainbow-35/posts",
+    "https://www.ravelry.com/patterns/library/rainbow-35/threads"
   ]
 }

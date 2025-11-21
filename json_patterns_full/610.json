@@ -1,41 +1,41 @@
 {
   "pattern_id": 610,
-  "pattern_page": "https://www.ravelry.com/patterns/library/gluckskind-2",
-  "name": "Glückskind",
-  "description": "Glückskind ist eine Babydecke aus Merino HighTwist. Dieses Garn ist weich, in der Maschine im Wollwaschgang waschbar und somit super für unser Baby geeignet.",
-  "designer": "knitcats Design",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bell-cat-toy",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
+  "category": "Pet → Toys",
   "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "ca. 80 x 80 cm",
+  "sizes_available": "Ball diameter: 7-8 cm",
   "languages": [
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Zitron Wolkenspiel"
+    "GuoBao Knitting Wool",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
-    "textured"
+    "one-piece",
+    "seamed",
+    "sideways",
+    "video-tutorial",
+    "written-pattern"
   ],
-  "full_text": "Glückskind is a baby blanket made from Merino HighTwist. This yarn is soft, machine washable on the wool cycle and therefore great for our baby. The blanket is started in the middle and knitted outwards using increases and different patterns. This makes the blanket square and the same length on all sides. After washing (in the machine) my blanket is 80 cm square. Just right for the little lucky child.",
-  "techniques": [
-    "increases"
-  ],
-  "shape": "unknown",
+  "full_text": "Knit Bell Cat Toy Pattern Link to the video - https://youtu.be/JbD15NY4Nng Follow me on social media: Facebook - https://www.facebook.com/crazyhands.net/ Instagram - https://www.instagram.com/amurushka_amur/ Pinterest - https://www.pinterest.ca/freeknitpatterns/ YouTube - https://www.youtube.com/@CrazyHandsKnitting",
+  "techniques": [],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/florentines-ravelry-store",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/editors",
-    "https://www.ravelry.com/patterns/library/armelitas",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/people",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/comments",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/report",
-    "https://www.ravelry.com/patterns/library/marktfrauen-handschuhe",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/threads",
-    "https://www.ravelry.com/patterns/library/gluckskind-2",
-    "https://www.ravelry.com/patterns/library/lebensfreude",
-    "https://www.ravelry.com/patterns/library/gluckskind-2/yarns"
-  ]
+    "https://www.ravelry.com/patterns/sources/crazy-hands-website",
+    "https://www.ravelry.com/patterns/library/creme-brulee-cable-knit-hat-circular",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/yarns",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/threads",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/editors",
+    "https://www.pinterest.ca/freeknitpatterns/",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/comments",
+    "https://crazyhands.net/knit-bell-cat-toy-pattern/",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/report",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy",
+    "https://www.ravelry.com/patterns/library/aurora-hat-7",
+    "https://www.ravelry.com/patterns/library/iron-knit-hat",
+    "https://www.ravelry.com/patterns/library/bell-cat-toy/people"
+  ],
+  "name": "Ravelry: Bell Cat Toy pattern by Annanitato Lolo"
 }

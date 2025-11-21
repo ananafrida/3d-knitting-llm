@@ -1,41 +1,35 @@
 {
   "pattern_id": 1870,
-  "pattern_page": "https://www.ravelry.com/patterns/library/boho-basket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/angry-feet",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 11 (8.0 mm), US 11 (8.0 mm)",
-  "sizes_available": "Approx 11½\" [29 cm] diameter by 15\" [38 cm] tall (unfolded)",
+  "category": "Components → Other",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Bernat Blanket"
+    ""
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
-    "circle-shaped",
-    "in-the-round",
-    "one-piece",
-    "seamless",
-    "written-pattern"
+    "chart"
   ],
-  "full_text": "A double stranded knit basket worked up in a solid shade and a variegated shade from our Bernat Blanket Global Folk Collection creates an interesting woven look. Materials: Set of 5 size U.S. 11 (8 mm) double-pointed knitting needles. Size U.S. 11 (8 mm) circular knitting needle 24” 61 cm long. Stitch marker.",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "This is not an actual pattern. It’s a recipe for taking your favorite top-down sock pattern and turning it into some angry birds. The pattern includes charts and instructions. Wouldn’t it be fun to knit a different bird for each foot!",
+  "techniques": [
+    "top-down"
+  ],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/boho-basket/people",
-    "https://www.ravelry.com/patterns/library/boho-basket",
-    "https://www.ravelry.com/patterns/library/boho-basket/report",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/boho-basket/editors",
-    "https://www.ravelry.com/patterns/library/crystal-lace-blanket",
-    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/boho-basket/yarns",
-    "https://www.ravelry.com/patterns/library/boho-basket/comments",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks"
+    "https://www.ravelry.com/patterns/library/angry-feet/comments",
+    "https://www.ravelry.com/patterns/library/angry-feet/yarns",
+    "https://necrat.us/downcloverlaine/angryfeet.pdf",
+    "https://www.ravelry.com/patterns/sources/down-cloverlaine",
+    "https://www.ravelry.com/patterns/library/angry-feet/threads",
+    "https://www.ravelry.com/patterns/library/angry-feet/report",
+    "https://www.ravelry.com/patterns/library/little-porker-cloth",
+    "https://www.ravelry.com/patterns/library/andy-the-panda-cloth",
+    "https://www.ravelry.com/patterns/library/angry-feet/editors",
+    "https://www.ravelry.com/patterns/library/angry-feet/people",
+    "https://www.ravelry.com/patterns/library/angry-feet",
+    "https://www.ravelry.com/patterns/library/angry-mitts"
   ],
-  "name": "Ravelry: Boho Basket pattern by Yarnspirations Design Studio"
+  "name": "Ravelry: Angry Feet pattern by Elaine Fitzpatrick"
 }

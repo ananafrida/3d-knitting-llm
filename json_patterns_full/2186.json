@@ -1,42 +1,48 @@
 {
   "pattern_id": 2186,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cat-ears-and-tail",
+  "pattern_page": "https://www.ravelry.com/patterns/library/collared-pixie",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Hat → Pixie",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "1-4 years",
   "languages": [
-    "English"
+    "French",
+    "Norwegian"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Dale Garn Baby Ull",
+    "yarn held together"
   ],
   "attributes": [
     "bottom-up",
+    "child",
+    "elastic",
+    "fitted",
     "in-the-round",
-    "seamed",
+    "kitchener",
+    "negative-ease",
+    "one-piece",
+    "ribbed",
+    "toddler",
     "unisex",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Materials: Amounts will vary depending on the size you make. Below are the amounts I used to make the ears and tail for my 6 year old daughter in the picture. Ears: Approximately 45m (50 yards) of black yarn, DK or worsted weight. 1 pair 6mm knitting needles Handful of polyester toy filling Tail: Scraps (approximately 15gms each) of white, orange, and black yarn, DK or worsted weight. 1 set 5mm dpns 1 pr 6mm knitting needles",
+  "full_text": "Yarn is held double. Gauge and yardage are not included in the pattern. English translation also available in the comments: http://www.ravelry.com/patterns/library/collared-pixie/co...",
   "techniques": [],
-  "shape": "softie",
+  "shape": "unknown",
   "download_links": [
-    "http://www.knitting-and.com/knitting/patterns/costumes/catsears.htm",
-    "https://www.ravelry.com/patterns/library/cat-ears-and-tail/edit",
-    "https://www.ravelry.com/patterns/library/cat-ears-and-tail/report",
-    "https://www.ravelry.com/patterns/library/cat-ears-and-tail/threads",
-    "https://www.ravelry.com/patterns/library/small-flower-join-for-flower-looms",
-    "https://www.ravelry.com/patterns/sources/knitting-and",
-    "https://www.ravelry.com/patterns/library/handspun-ribbed-hat",
-    "https://www.ravelry.com/patterns/library/cat-ears-and-tail/editors",
-    "https://www.ravelry.com/patterns/library/cat-ears-and-tail/comments",
-    "https://www.ravelry.com/patterns/library/cat-ears-and-tail/posts",
-    "https://www.ravelry.com/patterns/library/cat-ears-and-tail/yarns",
-    "https://www.ravelry.com/patterns/library/cat-ears-and-tail",
-    "https://www.ravelry.com/patterns/library/cat-ears-and-tail/people",
-    "https://www.ravelry.com/patterns/library/feather-and-fan-comfort-shawl"
+    "https://www.ravelry.com/patterns/library/collared-pixie/editors",
+    "http://www.ravelry.com/patterns/library/collared-pixie/comments#15",
+    "https://www.ravelry.com/patterns/library/collared-pixie/threads",
+    "https://www.ravelry.com/patterns/library/collared-pixie",
+    "https://www.ravelry.com/patterns/library/collared-pixie/yarns",
+    "https://www.ravelry.com/patterns/library/collared-pixie/edit",
+    "https://www.ravelry.com/patterns/library/collared-pixie/report",
+    "https://www.ravelry.com/patterns/library/collared-pixie/comments",
+    "https://www.ravelry.com/patterns/library/collared-pixie/people",
+    "https://www.ravelry.com/patterns/sources/tante-t-s-blogg",
+    "https://www.ravelry.com/patterns/library/collared-pixie/posts"
   ],
-  "name": "Ravelry: Cat Ears and Tail pattern by Sarah Bradberry"
+  "name": "Ravelry: collared pixie pattern by Trude"
 }

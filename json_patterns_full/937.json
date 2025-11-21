@@ -1,42 +1,40 @@
 {
   "pattern_id": 937,
-  "pattern_page": "https://www.ravelry.com/patterns/library/smock-ball",
-  "name": "Smock ball",
-  "description": "Fint mønster, hvis du liker å utfordre deg selv litt. Mønsteret benytter rett, vrang, kast, omvendt kast, 2 rett sammen, 2 og 3 vrang sammen i skjønn forening og tidvis samtidig med smock.",
-  "designer": "Eva Kloster",
+  "pattern_page": "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles",
+  "name": "Easy Fake Wasp Nest/Hive on Straight Needles",
+  "description": "This is a simple fake wasp nest that can be displayed as decoration. The ridges are created through a combination of knits and purls. It is knitted flat in a triangular shape, and seamed at the back.",
+  "designer": "SnowGrasshopper",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "9 cm i diameter",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "languages": [
-    "English",
-    "Norwegian"
+    "English"
   ],
   "suggested_yarn": [
-    "Dale Garn Tynn Kidsilk Erle",
-    "yarn held together"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "chart",
-    "in-the-round",
-    "seamless",
-    "smocked",
-    "sphere-shaped",
+    "seamed",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Nice pattern, if you like to challenge yourself a bit. The pattern uses knit, purl, yarn over, reverse yarn over, knit 2 together, purl 2 and 3 together in a nice combination and sometimes at the same time with smock. The knitting strength is not important. Nice pattern if you'd like to challenge yourself a bit. The pattern uses knit, purl, yo, M1T, k2tog, p2tog, p3tog in a lovely blend and sometimes in a smock. Gauge is not important.",
-  "techniques": [],
+  "full_text": "This is a simple fake wasp nest that can be displayed as decoration. The ridges are created through a combination of knits and purls. It is knitted flat in a triangular shape, and seamed at the back. Please note that the project is not seamless, and the join at the back will be visible. The pattern doesn’t suffer too much from using a variety of yarn weights at the same time, which makes for a great stashbusting project! For convenience, the pattern has the number of stitches left in the needle at the end of each row. And if you need video instructions for any of the required skills, there are some links for you to peruse before tackling the project.",
+  "techniques": [
+    "seamed"
+  ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/smock-ball/comments",
-    "https://www.ravelry.com/patterns/library/smock-ball",
-    "https://www.ravelry.com/patterns/library/smock-ball/people",
-    "https://www.ravelry.com/patterns/library/bruserup",
-    "https://www.ravelry.com/patterns/library/smock-ball/editors",
-    "https://www.ravelry.com/patterns/library/neve-9",
-    "https://www.ravelry.com/patterns/library/maiblomst",
-    "https://www.ravelry.com/patterns/sources/eva-klosters-ravelry-store",
-    "https://www.ravelry.com/patterns/library/smock-ball/yarns",
-    "https://www.ravelry.com/patterns/library/smock-ball/report"
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/threads",
+    "https://www.ravelry.com/patterns/sources/snowgrasshoppers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/easy-miniature-santa-hat-on-straight-needles",
+    "https://www.ravelry.com/patterns/library/easy-ribbed-neck-warmer-on-straight-needles",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/yarns",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/report",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/comments",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/editors",
+    "https://www.ravelry.com/patterns/library/easy-fake-wasp-nest-hive-on-straight-needles/people",
+    "https://www.ravelry.com/patterns/library/easy-woodlouse-pillbug-toy-on-straight-needles"
   ]
 }

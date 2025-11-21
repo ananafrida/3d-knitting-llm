@@ -1,40 +1,41 @@
 {
   "pattern_id": 875,
-  "pattern_page": "https://www.ravelry.com/patterns/library/berry-scarf-4",
-  "name": "Berry Scarf",
-  "description": "Berry Scarf is based on a traditional bow tie scarf and designed with bobble and knot details. The scarf is very light and easy to carry. This pattern includes Kids/Adults size together so you can wear the same scarf with your kid. You can see the tutorials on the link below.",
-  "designer": "Ayeong Son",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lars--the-real-girl-blanket",
+  "name": "Lars & The Real Girl Blanket",
+  "description": "Based off the baby blanket seen in Lars &amp; The Real Girl.",
+  "designer": "Tanis Gray & Louisa Demmitt",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "Kids, Adults",
+  "category": "Blanket → Baby Blanket",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "sizes_available": "36 x 36\"",
   "languages": [
-    "English",
-    "Korean"
+    "English"
   ],
   "suggested_yarn": [
-    "madelinetosh Tosh Vintage",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Be Sweet Bamboo"
   ],
   "attributes": [
+    "bottom-up",
     "chart",
-    "video-tutorial",
+    "lace",
+    "one-piece",
+    "textured",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Berry Scarf is based on a traditional bow tie scarf and designed with bobble and knot details. The scarf is very light and easy to carry. This pattern includes Kids/Adults size together so you can wear the same scarf with your kid. You can see the tutorials on the link below. https://youtu.be/v4ELGb_-C98",
+  "full_text": "Based off the baby blanket seen in Lars & The Real Girl. https://www.tanisknits.com/tanisknits-1/2015/02/27/lars-the-real-girl//",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/somsatang-vest",
-    "https://www.ravelry.com/patterns/library/berry-scarf-4/comments",
-    "https://www.ravelry.com/patterns/library/berry-scarf-4/report",
-    "https://www.ravelry.com/patterns/library/berry-scarf-4/yarns",
-    "https://www.ravelry.com/patterns/library/berry-scarf-4",
-    "https://www.ravelry.com/patterns/library/majubon-bustier",
-    "https://www.ravelry.com/patterns/library/berry-scarf-4/editors",
-    "https://www.ravelry.com/patterns/library/berry-scarf-4/threads",
-    "https://www.ravelry.com/patterns/library/berry-scarf-4/people",
-    "https://www.ravelry.com/patterns/library/majubon-fruity-bustier",
-    "https://www.ravelry.com/patterns/sources/sol-of-june-designs"
+    "https://www.ravelry.com/patterns/library/lars--the-real-girl-blanket/edit",
+    "https://www.ravelry.com/patterns/library/lars--the-real-girl-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/lars--the-real-girl-blanket/comments",
+    "https://www.ravelry.com/patterns/library/lars--the-real-girl-blanket/threads",
+    "https://www.ravelry.com/patterns/library/lars--the-real-girl-blanket/report",
+    "https://www.ravelry.com/patterns/library/lars--the-real-girl-blanket/people",
+    "https://www.ravelry.com/patterns/library/lars--the-real-girl-blanket",
+    "https://www.ravelry.com/patterns/library/lars--the-real-girl-blanket/editors",
+    "https://www.ravelry.com/patterns/sources/tanisknits"
   ]
 }

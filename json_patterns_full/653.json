@@ -1,48 +1,41 @@
 {
   "pattern_id": 653,
-  "pattern_page": "https://www.ravelry.com/patterns/library/collared-pixie",
+  "pattern_page": "https://www.ravelry.com/patterns/library/ulysses-the-mouse",
+  "name": "Ulysses the Mouse",
+  "description": "This is a fairly quick knit (within a few hours), and what cat will be able to resist this adorable toy? It is knit in the round using double pointed needles (dpns) and fingering weight yarn such as leftover stash sock yarn. The tail is knit first as an i-cord and then the stitches begin to increase as the body continues on. The separate ears begin with a Turkish Cast-On (or any cast on method that a knitter might use for toe up socks). This will create nice double thickness ears with stockinette stitch on both side, and they will be sturdy. For added kitty cat appeal, store the stuffed toy in a zipper plastic bag filled with catnip. Oh yeah! People are also attracted to these little mice (don’t store theirs in catnip)!",
+  "designer": "Wendy Prager Goeckner",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "1-4 years",
+  "category": "Pet → Toys",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "One Size",
   "languages": [
-    "French",
-    "Norwegian"
+    "English"
   ],
   "suggested_yarn": [
-    "Dale Garn Baby Ull",
-    "yarn held together"
+    "Patons North America Kroy Socks",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
-    "child",
-    "elastic",
-    "fitted",
+    "icord",
     "in-the-round",
-    "kitchener",
-    "negative-ease",
-    "one-piece",
-    "ribbed",
-    "toddler",
-    "unisex",
-    "worked-flat",
+    "three-needle-bind",
     "written-pattern"
   ],
-  "full_text": "Yarn is held double. Gauge and yardage are not included in the pattern. English translation also available in the comments: http://www.ravelry.com/patterns/library/collared-pixie/co...",
+  "full_text": "This is a fairly quick knit (within a few hours), and what cat will be able to resist this adorable toy? It is knit in the round using double pointed needles (dpns) and fingering weight yarn such as leftover stash sock yarn. The tail is knit first as an i-cord and then the stitches begin to increase as the body continues on. The separate ears begin with a Turkish Cast-On (or any cast on method that a knitter might use for toe up socks). This will create nice double thickness ears with stockinette stitch on both side, and they will be sturdy. For added kitty cat appeal, store the stuffed toy in a zipper plastic bag filled with catnip. Oh yeah! People are also attracted to these little mice (don’t store theirs in catnip)!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/collared-pixie",
-    "https://www.ravelry.com/patterns/library/collared-pixie/edit",
-    "https://www.ravelry.com/patterns/library/collared-pixie/posts",
-    "http://www.ravelry.com/patterns/library/collared-pixie/comments#15",
-    "https://www.ravelry.com/patterns/library/collared-pixie/threads",
-    "https://www.ravelry.com/patterns/library/collared-pixie/people",
-    "https://www.ravelry.com/patterns/library/collared-pixie/editors",
-    "https://www.ravelry.com/patterns/library/collared-pixie/report",
-    "https://www.ravelry.com/patterns/library/collared-pixie/comments",
-    "https://www.ravelry.com/patterns/library/collared-pixie/yarns",
-    "https://www.ravelry.com/patterns/sources/tante-t-s-blogg"
-  ],
-  "name": "Ravelry: collared pixie pattern by Trude"
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/edit",
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse",
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/comments",
+    "https://www.ravelry.com/patterns/library/hugs--kisses-girls-beanie",
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/editors",
+    "https://www.ravelry.com/patterns/sources/baabaayaya-on-ravelry",
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/yarns",
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/report",
+    "https://www.ravelry.com/patterns/library/ulysses-the-mouse/people",
+    "https://www.ravelry.com/patterns/library/chill-in-the-air-handwarmers",
+    "https://www.ravelry.com/patterns/library/shaken-not-stirred-socks"
+  ]
 }

@@ -1,58 +1,38 @@
 {
   "pattern_id": 2209,
-  "pattern_page": "https://www.ravelry.com/patterns/library/the-legend-of-baby-link",
-  "name": "The Legend of Baby Link",
-  "description": "From the designer’s site:",
-  "designer": "Joanna Rankin",
+  "pattern_page": "https://www.ravelry.com/patterns/library/holiday-elf",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "15\" waist, sized to fit the average 3-month old infant",
+  "category": "Hat → Pixie",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "sizes_available": "up to 17\" (baby)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Red Heart Super Saver (solids)"
+    "Jones & Vandermeer Clever Camel",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "Intarsia",
-    "appliqued",
     "baby",
-    "backfastening",
-    "buttoned",
-    "buttonholes",
-    "chart",
-    "crew-neck",
-    "heel-flap",
-    "hems",
-    "icord",
-    "in-the-round",
-    "kitchener",
-    "long-sleeve",
-    "ribbed",
-    "seamed",
-    "top-cuff-down",
-    "unisex",
-    "worked-flat",
-    "written-pattern"
+    "stripes-colorwork",
+    "unisex"
   ],
-  "full_text": "From the designer’s site: “I made this baby-sized Link costume as a baby shower gift for a couple of close friends. Both are huge fans of Zelda, and they are expecting their first child very soon. After posting it on Craftster I was absolutely blown away by the response it received—over 30,000 hits in just one week, and before long dozens of blogs from Geekologie.com to Kotaku.com and even GayGamer.net wrote about my nerdy little outfit! (I love the GayGamer logo, by the way! Would it be inappropriate to call it fabulous?) “ Errata: Step 16 (Tunic bottom flare) All Even Rounds for Needle 1 should be: k1 p1 kfb, (k1, p1) until last 2 sts on needle, kfb, work in patt to end.",
+  "full_text": "holiday elf hat is a stripey and pointy hat, knit out of clever camel. This quick and speedy knit is designed to instantaneously transform baby into santa’s little helper.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/the-legend-of-baby-link",
-    "https://www.ravelry.com/patterns/library/super-mario-sweater",
-    "https://www.ravelry.com/patterns/library/merlot-opera-gloves",
-    "https://www.ravelry.com/patterns/periodicals/yarn-crush",
-    "https://www.ravelry.com/patterns/library/the-legend-of-baby-link/report",
-    "https://www.ravelry.com/patterns/library/the-legend-of-baby-link/threads",
-    "https://www.ravelry.com/patterns/library/the-legend-of-baby-link/people",
-    "https://www.ravelry.com/patterns/library/the-legend-of-baby-link/editors",
-    "https://www.ravelry.com/patterns/library/beard",
-    "https://www.ravelry.com/patterns/library/the-legend-of-baby-link/posts",
-    "https://www.ravelry.com/patterns/library/the-legend-of-baby-link/comments",
-    "https://www.ravelry.com/patterns/sources/yarn-crush-ravelry-store-2",
-    "https://www.ravelry.com/patterns/library/the-legend-of-baby-link/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/holiday-elf/report",
+    "https://www.ravelry.com/patterns/sources/cabinet-for-the-curious",
+    "https://www.ravelry.com/patterns/library/holiday-elf/comments",
+    "https://www.ravelry.com/patterns/library/holiday-elf/posts",
+    "https://www.ravelry.com/patterns/library/bounce-5",
+    "https://www.ravelry.com/patterns/library/holiday-elf/yarns",
+    "https://www.ravelry.com/patterns/library/nathan-3",
+    "https://www.ravelry.com/patterns/library/holiday-elf/people",
+    "https://www.ravelry.com/patterns/library/holiday-elf/threads",
+    "https://www.ravelry.com/patterns/library/holiday-elf/editors",
+    "https://www.ravelry.com/patterns/library/alice-15",
+    "https://www.ravelry.com/patterns/library/holiday-elf"
+  ],
+  "name": "Ravelry: holiday elf pattern by Jones & Vandermeer"
 }

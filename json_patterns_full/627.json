@@ -1,41 +1,39 @@
 {
   "pattern_id": 627,
-  "pattern_page": "https://www.ravelry.com/patterns/library/arbor-blanket",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy",
+  "name": "Jingle Mouse - Cat Toy",
+  "description": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need!",
+  "designer": "Dooley and Spud",
   "craft": "Knitting",
-  "category": "Blanket → Throw Blanket → Baby Blanket",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "Crib (Throw)",
+  "category": "Pet → Toys",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Purl Soho Cotton Pure",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Berroco Ultra Alpaca Light"
   ],
   "attributes": [
-    "bottom-up",
-    "chart",
-    "one-piece",
-    "rectangle",
-    "seamless",
-    "textured",
-    "worked-flat",
+    "3-dimensional",
+    "in-the-round",
+    "phototutorial",
     "written-pattern"
   ],
-  "full_text": "MATERIALS To make one Throw size or two Crib size blankets, you’ll need… 1 Cotton Pure On A Cone , 100% organically grown cotton. Each cone is approximately 2,789 yards/ 1 kg; approximately 1,116 (2,647) yards required. We used the color Moonflower Blue for the Crib size and Heirloom White for the Throw. US 3 (3.25 mm), 32- or 40-inch circular needles PLEASE NOTE: If you want to make just one Crib Blanket, you’ll need 4 skeins of Purl Soho’s Cotton Pure . Or if you want to make the Throw but prefer skeins, you’ll need 10. GAUGE 22 stitches and 37 rows = 4 inches in brocade stitch 24 stitches and 36 rows = 4 inches in stockinette stitch SIZES Crib (Throw) Finished Dimensions: 29¾ inches wide x 36 inches long (40½ inches wide x 56 inches long) NOTES This pattern works over a multiple of 12 + 7 stitches. Designed by Purl Soho designer, Jake Canton . Click here to see even more of Jake’s designs!",
+  "full_text": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need! Basic Skills Necessary: •knit (knit) •knit front and back (kfb) •knit two together (k2tog) •slip slip knit (ssk) Feel free to sell any of the Jingle Mice you make yourself, but please do not distribute this pattern without my permission. Purchase the full set of Jingle Animals - Cat Toys here: http://www.ravelry.com/patterns/library/jingle-animals---...",
   "techniques": [],
-  "shape": "cone",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/arbor-blanket",
-    "https://www.ravelry.com/patterns/library/embossed-triangles-blanket",
-    "https://www.ravelry.com/patterns/library/arbor-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/woodcut-blanket",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/slipped-garter-blanket",
-    "https://www.ravelry.com/patterns/library/arbor-blanket/comments",
-    "https://www.ravelry.com/patterns/library/arbor-blanket/editors",
-    "https://www.ravelry.com/patterns/library/arbor-blanket/report",
-    "https://www.ravelry.com/patterns/library/arbor-blanket/people"
-  ],
-  "name": "Ravelry: Arbor Blanket pattern by Purl Soho"
+    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy",
+    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/yarns",
+    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/threads",
+    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/editors",
+    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy",
+    "https://www.ravelry.com/patterns/library/jingle-bird---cat-toy",
+    "https://www.ravelry.com/patterns/sources/dooley-and-spud",
+    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/people",
+    "http://www.ravelry.com/patterns/library/jingle-animals---cat-toys",
+    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/comments",
+    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy/report"
+  ]
 }

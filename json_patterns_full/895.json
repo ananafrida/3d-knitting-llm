@@ -1,44 +1,38 @@
 {
   "pattern_id": 895,
-  "pattern_page": "https://www.ravelry.com/patterns/library/one-row-handspun-scarf",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jordan-baby-blanket",
   "craft": "Knitting",
-  "category": "Neck / Torso → Scarf",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Blanket → Baby Blanket",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "15\", 18\", 24\", 30\" - easy to adjust",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Handspun",
-    "Worsted (9 wpi) ?"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "child",
-    "rectangle",
-    "reversible",
-    "ribbed",
-    "teen",
-    "textured",
-    "unisex",
+    "bottom-up",
+    "one-piece",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "From the Yarn Harlot: \"This pattern is quick, easy, has only one row to learn, is reversible, looks good in any gauge, is easy to make wider or narrower (making it awesome for handspun) and looks (I believe) fabulous.\"",
+  "full_text": "This is a really cute little baby blanket Just 15” x 15” - for a Premature or Angel baby - or doll Fun to knit ! Requires ~ DK yarn - around 70g 4mm needles Tension/Gauge ~ 24sts = 4” (10cm) Easy to adjust for bigger sizes - Stitches given for 18”, 24” and 30” baby blankets So sweet PLEASE NOTE ** There was originally an error in this pattern ~ The purl rows should read S1, k5, purl to last 6sts, k6 Sorry. I have corrected the instructions now. To get this free pattern please click on the https link just below ↓",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/sock-recipe-a-good-plain-sock",
-    "https://www.ravelry.com/patterns/library/one-row-handspun-scarf/yarns",
-    "https://www.ravelry.com/patterns/library/one-row-handspun-scarf/threads",
-    "https://www.ravelry.com/patterns/library/one-row-handspun-scarf",
-    "https://www.ravelry.com/patterns/sources/yarn-harlot",
-    "https://www.ravelry.com/patterns/library/step-by-step-cheat-sheet-for-socks",
-    "https://www.ravelry.com/patterns/library/one-row-handspun-scarf/posts",
-    "https://www.ravelry.com/patterns/library/one-row-handspun-scarf/comments",
-    "https://www.ravelry.com/patterns/library/nouveau-ne",
-    "https://www.ravelry.com/patterns/library/one-row-handspun-scarf/report",
-    "https://www.ravelry.com/patterns/library/one-row-handspun-scarf/editors",
-    "https://www.ravelry.com/patterns/library/one-row-handspun-scarf/people"
+    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/report",
+    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
+    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/editors",
+    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/comments",
+    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/yarns",
+    "https://www.ravelry.com/patterns/library/iona-baby-cardigan-jacket",
+    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/people",
+    "https://www.ravelry.com/patterns/library/babbity-baby-hat",
+    "https://www.ravelry.com/patterns/library/jordan-baby-blanket/threads",
+    "https://www.ravelry.com/patterns/library/babbity-baby-jacket",
+    "https://www.ravelry.com/patterns/library/jordan-baby-blanket"
   ],
-  "name": "Ravelry: One Row Handspun Scarf pattern by Stephanie Pearl-McPhee"
+  "name": "Ravelry: Jordan Baby Blanket pattern by marianna mel"
 }

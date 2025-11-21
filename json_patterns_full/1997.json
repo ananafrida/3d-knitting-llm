@@ -1,36 +1,42 @@
 {
   "pattern_id": 1997,
-  "pattern_page": "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting",
+  "pattern_page": "https://www.ravelry.com/patterns/library/celestine-sox",
   "craft": "Knitting",
-  "category": "Components → Other",
+  "category": "Ball",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "7½” across from point to point",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Berroco Sox",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "chart",
-    "illusion",
-    "one-piece",
-    "written-pattern"
+    "3-dimensional",
+    "in-the-round",
+    "modular",
+    "seamless"
   ],
-  "full_text": "This Elder Futhark rune means “wealth” and is the second in about 24 runes I’m trying to chart as illusion knits. Well, actually, it’s the first (if you wanted to go in order), but y’know… I have included both a chart and the written out version, so everybody can enjoy! Written out version here . This can be adapted for any yarn or gauge and added to as desired. It’s a very quick shadow/illusion knit, so feel free to use as you like! A huge thank you goes to soylntgrnzppl for test-knitting and photographing this pattern!",
+  "full_text": "A dodecahedron in Sox, inspired by our Ultra Alpaca Light version, Celestine. (Berroco.com) Skill Level: Intermediate Materials 1 Ball Berroco Sox (50 grs), #1427 Lancaster 1 Set (4) double pointed knitting needles, size 2 (2.50 mm) 1 Stitch marker Tapestry needle 1 Bag Polyester stuffing",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/people",
-    "https://www.ravelry.com/patterns/library/i-3-cannabis-scarf",
-    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/report",
-    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/editors",
-    "https://www.ravelry.com/patterns/library/rune-uruz-illusion-knitting",
-    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/posts",
-    "https://www.ravelry.com/patterns/library/serenity-illusion-scarf",
-    "https://www.ravelry.com/patterns/sources/wasserhexe",
-    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/yarns",
-    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/comments",
-    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting",
-    "https://www.ravelry.com/patterns/library/rune-fehu-illusion-knitting/threads"
+    "https://www.ravelry.com/patterns/library/celestine-sox/editors",
+    "https://www.ravelry.com/patterns/library/mystery-blanket-knit-along",
+    "https://www.ravelry.com/patterns/library/berie",
+    "https://www.ravelry.com/patterns/library/celestine-sox",
+    "https://www.ravelry.com/patterns/library/celestine-sox/threads",
+    "https://www.ravelry.com/patterns/library/celestine-sox/posts",
+    "https://www.ravelry.com/patterns/library/celestine-sox/yarns",
+    "https://www.ravelry.com/patterns/library/celestine-sox/comments",
+    "https://www.ravelry.com/patterns/library/celestine-sox/edit",
+    "https://www.ravelry.com/patterns/library/celestine-sox/people",
+    "https://www.ravelry.com/patterns/library/celestine-sox/report",
+    "https://www.ravelry.com/patterns/library/baby-fern-lake",
+    "https://www.berroco.com/patterns/celestine-sox",
+    "https://www.ravelry.com/patterns/periodicals/berroco",
+    "https://www.ravelry.com/patterns/sources/berroco-website"
   ],
-  "name": "Ravelry: Rune: Fehu (Illusion Knitting) pattern by Erica Potter"
+  "name": "Ravelry: Celestine Sox pattern by Berroco Design Team"
 }

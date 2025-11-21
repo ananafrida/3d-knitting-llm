@@ -1,36 +1,40 @@
 {
   "pattern_id": 275,
-  "pattern_page": "https://www.ravelry.com/patterns/library/20-minute-mouse",
-  "name": "20 Minute Mouse",
-  "description": "This mouse has been tested and pronounced “catproof” ie, it shouldn’t come to pieces with even the most ferocious catnip addict!",
-  "designer": "Sara Hall",
+  "pattern_page": "https://www.ravelry.com/patterns/library/workday-scarf",
+  "name": "Workday Scarf",
+  "description": "This project is every knitter’s dream, simple to knit and beautiful to wear. The best kind of knitting after a long day at work, garter stitch with a hint of lace.",
+  "designer": "Sue Flanders",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "One Size - finshed measurements; Length=60\", Width=1-1/2 to 8\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Sirdar Double Knitting"
+    "Fingering (14 wpi) ?",
+    "Araucania Yarns Huasco Multy Botany Lace"
   ],
   "attributes": [
-    "one-piece"
+    "lace",
+    "one-piece",
+    "triangle-shaped",
+    "unisex",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This mouse has been tested and pronounced “catproof” ie, it shouldn’t come to pieces with even the most ferocious catnip addict! I make the little catnip sachets by spreading the catnip over one half of a piece (say 30x60cm approx) of loosely woven material and then machine sewing it into little squares approx 3x3cm with criss cross tramlines. Then I cut between these tramlines. It’s quick and not too messy. I can make this mouse in 20 minutes if I have absolutely no interruptions (which is usually impossible to do of course), hence the title of the pattern.",
+  "full_text": "This project is every knitter’s dream, simple to knit and beautiful to wear. The best kind of knitting after a long day at work, garter stitch with a hint of lace. A simple little garter stitch project that incorporates a smaller version of the lace edging used in the Workday Shawl, from the book Norwegian Handknits, by Sue Flanders and Janine Kosel. I completed the scarf the same day that the lilacs bloomed, so I had to add them to the photos.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/20-minute-mouse",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/yarns",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/comments",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/editors",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/report",
-    "https://www.ravelry.com/patterns/library/st-sampson-guernsey",
-    "https://www.ravelry.com/patterns/library/shield-lace-cowl-scarf",
-    "https://www.ravelry.com/patterns/sources/the-answer-is-42",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/people",
-    "https://www.ravelry.com/patterns/library/20-minute-mouse/threads",
-    "https://www.ravelry.com/patterns/library/titchy-witchy"
+    "https://www.ravelry.com/patterns/library/workday-scarf/threads",
+    "https://www.ravelry.com/patterns/library/workday-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/workday-scarf/people",
+    "https://www.ravelry.com/patterns/library/workday-scarf/editors",
+    "https://www.ravelry.com/patterns/sources/sue-flanders-designs",
+    "https://www.ravelry.com/patterns/library/workday-scarf/report",
+    "https://www.ravelry.com/patterns/library/workday-scarf/comments",
+    "https://www.ravelry.com/patterns/library/workday-scarf/posts",
+    "https://www.ravelry.com/patterns/library/workday-scarf"
   ]
 }

@@ -1,47 +1,41 @@
 {
   "pattern_id": 193,
-  "pattern_page": "https://www.ravelry.com/patterns/library/chunky-cable-purse",
+  "pattern_page": "https://www.ravelry.com/patterns/library/jazz-age-beaded-scarf",
+  "name": "Jazz Age beaded scarf",
+  "description": "A beaded scarf with an Art Deco look created using a lace stitch from ‘250 Japanese Knitting Stitches: The Original Pattern Bible by Hitomi Shida’.",
+  "designer": "Pat Gordon-Smith",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
-  "sizes_available": "9\" wide x 7\" high x 3.5\" deep",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Super Bulky (5-6 wpi) ?",
-    "Knit Picks Sierra"
+    "DK (11 wpi) ?",
+    "Rowan Felted Tweed"
   ],
   "attributes": [
     "adult",
-    "cables",
-    "female",
-    "in-the-round",
+    "beads",
+    "doubleknit",
+    "lace",
     "one-piece",
-    "rectangle",
-    "ribbed",
     "seamless",
     "teen",
-    "textured",
-    "written-pattern"
+    "unisex",
+    "worked-flat"
   ],
-  "full_text": "Needles:16” circular Notions: The canvas lining and handles of your choice can be purchased at your local craft store.",
+  "full_text": "A beaded scarf with an Art Deco look created using a lace stitch from ‘250 Japanese Knitting Stitches: The Original Pattern Bible by Hitomi Shida’. Skill level: Intermediate I used Rowan Felted Tweed because it’s lovely to work with. The beading emphasises the fan pattern, to enhance the Art Deco feel, and the beads were chosen to shimmer against the charcoal. There are 722 6mm beads (shade: Rainbow, Debbie Abrahams). The finished scarf is 180cm long (achieved over 23.5 pattern repeats) and 20cm wide (just short of 3 pattern repeats). This is an easier lace pattern than it looks, because each increase/decrease row is followed by three knit/purl rows, so lots of safe places to go back to if needed. The ribs help to locate where you are in the pattern. The only complicated aspect is knitting 3 or 4 stitches together immediately after a yarn on, because the yo tends to slip off before you can knit the next stitches together. Once in each repeat, this also requires a bead. The downloadable pattern includes some guidance on dealing with both. © Pat Gordon-Smith",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/chunky-cable-purse",
-    "https://www.ravelry.com/patterns/sources/knit-picks-website",
-    "https://www.ravelry.com/patterns/library/chunky-cable-purse/posts",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/chunky-cable-purse/yarns",
-    "https://web.archive.org/web/20070302090342/http://www.knitpicks.com/kpimages/pdf/50441220.pdf",
-    "https://www.ravelry.com/patterns/library/chunky-cable-purse/comments",
-    "https://www.ravelry.com/patterns/library/chunky-cable-purse/editors",
-    "https://www.ravelry.com/patterns/library/chunky-cable-purse/threads",
-    "https://www.ravelry.com/patterns/periodicals/knit-picks",
-    "https://www.ravelry.com/patterns/library/chunky-cable-purse/edit",
-    "https://www.ravelry.com/patterns/library/chunky-cable-purse/people",
-    "https://www.ravelry.com/patterns/library/chunky-cable-purse/report"
-  ],
-  "name": "Ravelry: Chunky Cable Purse pattern by Jennifer Adams Donnelly"
+    "https://www.ravelry.com/patterns/library/jazz-age-beaded-scarf/people",
+    "https://www.ravelry.com/patterns/library/jazz-age-beaded-scarf/editors",
+    "https://www.ravelry.com/patterns/library/jazz-age-beaded-scarf/comments",
+    "https://www.ravelry.com/patterns/library/jazz-age-beaded-scarf/report",
+    "https://www.ravelry.com/patterns/library/jazz-age-beaded-scarf",
+    "https://www.ravelry.com/patterns/sources/pat-gordon-smiths-ravelry-store",
+    "https://www.ravelry.com/patterns/library/jazz-age-beaded-scarf/yarns"
+  ]
 }

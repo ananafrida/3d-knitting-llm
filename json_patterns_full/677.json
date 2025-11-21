@@ -1,41 +1,38 @@
 {
   "pattern_id": 677,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pixie-point-baby-hat",
-  "name": "Pixie Point Baby Hat",
-  "description": "A pixie point hat with a curled, garter stitch rim.",
-  "designer": "Wild Daffodil",
+  "pattern_page": "https://www.ravelry.com/patterns/library/zs-baby-blocks",
+  "name": "Z's Baby Blocks",
+  "description": "This was my very first pattern. I liked making them because it allowed me to do simple squares, but to not make another scarf or blanket. My cousin’s little boy (and husband) loved them.",
+  "designer": "Sara Marks",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "Newborn - 3 months",
+  "category": "Blocks",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Stylecraft Special Double Knit",
-    "DK (11 wpi) ?"
+    "Bulky (7 wpi) ?",
+    "Lion Brand Homespun Baby"
   ],
   "attributes": [
-    "newborn-size",
-    "stripes-colorwork",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A pixie point hat with a curled, garter stitch rim. There is no pattern PDF in the Ravelry download. Please go to the link on my blog to find the pattern instructions.",
+  "full_text": "This was my very first pattern. I liked making them because it allowed me to do simple squares, but to not make another scarf or blanket. My cousin’s little boy (and husband) loved them.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://daffodilwild.wordpress.com/2019/01/30/free-pattern-pixie-hat/",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/people",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/posts",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/editors",
-    "https://www.ravelry.com/patterns/sources/wild-daffodils-ravelry-store",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/report",
-    "https://www.ravelry.com/patterns/library/baby-fairy-jacket",
-    "https://www.ravelry.com/patterns/library/beach-bunting",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/comments",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat/yarns",
-    "https://www.ravelry.com/patterns/sources/wild-daffodil",
-    "https://www.ravelry.com/patterns/library/woodland-fairy-cardigan",
-    "https://www.ravelry.com/patterns/library/pixie-point-baby-hat"
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/yarns",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/people",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/editors",
+    "https://www.ravelry.com/patterns/library/wavy-gravy-scarf",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks",
+    "https://www.ravelry.com/patterns/library/interlocking-key-chains",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/report",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/posts",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/threads",
+    "https://www.ravelry.com/patterns/library/gradient-blanket",
+    "https://www.ravelry.com/patterns/library/zs-baby-blocks/comments",
+    "https://www.ravelry.com/patterns/sources/sara-marks-ravelry-store"
   ]
 }

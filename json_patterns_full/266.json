@@ -1,41 +1,40 @@
 {
   "pattern_id": 266,
-  "pattern_page": "https://www.ravelry.com/patterns/library/catnip-mouse-5",
-  "name": "Catnip Mouse 5",
-  "description": "Uses Sz 4 double pointed needles",
-  "designer": "Pamela Mahan",
+  "pattern_page": "https://www.ravelry.com/patterns/library/keyhole-scarf-33",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
   "sizes_available": "One Size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "DK (11 wpi) ?",
+    "Purl Soho Cashmere Merino Bloom"
   ],
   "attributes": [
-    "icord",
     "in-the-round",
+    "seamless",
+    "selvedge",
+    "three-needle-bind",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Uses Sz 4 double pointed needles",
+  "full_text": "MATERIALS Our Keyhole Scarf Kit contains everything you’ll need to make a Solid or Striped scarf of your own. It contains… 2 skeins of Purl Soho’s Cashmere Merino Bloom , 75% extra fine merino and 25% cashmere. Each skein of this light worsted/DK-weight yarn is 218 yards/ 100 grams. Solid Version Color A: 2 skeins; approximately 436 yards required Striped Version Color A: 1 skein; approximately 218 yards required Color B: 1 skein; approximately 218 yards required It also contains… US 5 (3.75 mm), 16-inch circular knitting needles A stitch marker A tapestry needle A printed pattern card You will also need… A spare needle, size US 5 or smaller, for 3-Needle Bind Off Stitch holders or scrap yarn Pick up a Keyhole Scarf Kit in your favorite color of Cashmere Merino Bloom, or choose from 14 pretty striped palettes! We knit our samples in these colors… SOLID: Crocus Bud; True Turquoise; Hydrangea Blossom STRIPED: Kiln Red + Red Poppy; Ash Blue + Wheat Flour; Rosewater Pink + Warm Honey GAUGE 21 stitches and 31 rounds = 4 inches in stockinette stitch SIZE Finished Dimensions: 15 ¼ inches circumference x 33 inches long Designed by Purl Soho designer, Gianna Mueller . See more of Gianna’s designs on her Instagram !",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/catnip-mouse-5/comments",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-5/people",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-5/report",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-5/threads",
-    "https://www.ravelry.com/patterns/sources/northstars-ravelry-downloads",
-    "https://www.ravelry.com/patterns/library/in-the-mood-2",
-    "https://www.ravelry.com/patterns/library/foxy-3",
-    "https://www.ravelry.com/patterns/sources/wendy-knits-website",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-5",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-5/posts",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-5/editors",
-    "https://www.ravelry.com/patterns/library/january-sock-2",
-    "https://www.ravelry.com/patterns/library/catnip-mouse-5/yarns"
-  ]
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/yarns",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/people",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/editors",
+    "https://www.ravelry.com/patterns/library/coziest-cowl",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/threads",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/report",
+    "https://www.ravelry.com/patterns/library/keyhole-scarf-33/comments",
+    "https://www.ravelry.com/patterns/library/loop--tuck-scarf",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/library/porto-blanket"
+  ],
+  "name": "Ravelry: Keyhole Scarf pattern by Purl Soho"
 }

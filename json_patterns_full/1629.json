@@ -1,47 +1,41 @@
 {
   "pattern_id": 1629,
-  "pattern_page": "https://www.ravelry.com/patterns/library/effortless-cardigan-2",
+  "pattern_page": "https://www.ravelry.com/patterns/library/backyard-hobbit-holes",
+  "name": "Backyard Hobbit Holes",
+  "description": "Want to live in the Shire? Me too! This pattern is my attempt to bring the joy of the Shire to knitter’s backyards!",
+  "designer": "Natasha Hanson",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "34 (38½, 42, 45½, 49½)”",
+  "category": "Decorative → Other",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "Door: 2.5”/ 6cm. Window: 2”/5cm. Chimney: 1.5”/4cm.",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Basic Stitch Premium",
+    "Patons North America Classic Wool Worsted",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "female",
-    "long-sleeve",
-    "patch-pocket",
-    "raglan-sleeve",
-    "schematic",
-    "seamless",
-    "top-down",
-    "v-neck",
-    "worked-flat",
-    "written-pattern"
+    "in-the-round",
+    "one-piece",
+    "seamless"
   ],
-  "full_text": "The Cardigan is worked in one piece from the neck downwards. Piece is divided at the underarms then body and sleeves are worked separately. Sizes: XS (S, M, L, 1X) Finished Bust About 34 (38½, 42, 45½, 49½) in. (86.5 (98, 106.5, 115.5, 125.5) cm), not including front bands Finished Length About 24¼ (26¼, 26¼, 26¼, 26¼) in. (61.5 (66.5, 66.5, 66.5, 66.5) cm) LION BRAND® BASIC STITCH PREMIUM (Art. #201) (219yd/200m) (3.5oz/100g) 100% Acrylic #150 Slate 4 (5, 5, 6, 6) balls Circular knitting needle size 7 (4.5 mm), 29 in. (73.5 cm) long Gauge: 18 sts + 24 rows = about 4 in. (10 cm) in St st",
-  "techniques": [],
+  "full_text": "Want to live in the Shire? Me too! This pattern is my attempt to bring the joy of the Shire to knitter’s backyards! This playful design consists of a door, windows and chimney. The door and windows are double-sided so there is no need to block.My hope is that hobbit holes spring up all over the world and that they bring the peace of the Shire with them! Need some hobbit-sized pumpkins to go beside your hobbit doors? Check out my brand new Fairytale Pumpkin pattern! There’s also lots of other great accessories on my freebies page! Construction The door and windows are knit entirely in the round on dpns, beginning at the center back and ending with pretty decreases at the center front. The door knob and window frame are made with embroidery. The chimney is also knit in the round. It is flipped inside out so you don’t have to do all those pesky purl stitches. I have also included a fun photo tutorial on how to construct your own earthen hobbit hole.",
+  "techniques": [
+    "decreases"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/effortless-cardigan-2",
-    "https://www.ravelry.com/patterns/library/psyche-pullover-l80379",
-    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/report",
-    "https://www.ravelry.com/patterns/periodicals/lion-brand-yarn",
-    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/edit",
-    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/people",
-    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/threads",
-    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/posts",
-    "https://www.ravelry.com/patterns/library/my-favourite-cardigan",
-    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/yarns",
-    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/comments",
-    "https://www.ravelry.com/patterns/sources/lion-brand-yarn-website",
-    "https://www.ravelry.com/patterns/library/effortless-cardigan-2/editors"
-  ],
-  "name": "Ravelry: Effortless Cardigan pattern by Zabeth"
+    "https://www.ravelry.com/patterns/library/fairytale-pumpkins-2",
+    "https://www.ravelry.com/patterns/library/4-season-hobbit-hole",
+    "https://www.ravelry.com/patterns/sources/wee-folk-valley",
+    "https://www.ravelry.com/patterns/library/flower-petal-fairy-wings",
+    "https://www.ravelry.com/patterns/library/backyard-hobbit-holes/yarns",
+    "https://www.ravelry.com/patterns/library/backyard-hobbit-holes/people",
+    "https://www.ravelry.com/patterns/library/backyard-hobbit-holes/editors",
+    "https://www.ravelry.com/patterns/library/backyard-hobbit-holes",
+    "https://www.ravelry.com/patterns/library/backyard-hobbit-holes/report",
+    "https://www.ravelry.com/patterns/library/backyard-hobbit-holes/comments",
+    "https://www.ravelry.com/patterns/library/fern-heart"
+  ]
 }

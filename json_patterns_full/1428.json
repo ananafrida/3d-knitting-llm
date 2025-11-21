@@ -1,40 +1,37 @@
 {
   "pattern_id": 1428,
-  "pattern_page": "https://www.ravelry.com/patterns/library/snowy-mountain-ornament",
-  "name": "Snowy Mountain ornament",
-  "description": "The Snowy Mountain ornament is an easy cute pattern, suitable for the beginners.",
-  "designer": "Ekaterina Vorobeva",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cocktail-monkey-bag",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "S, L",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
   "languages": [
-    "English",
-    "Additional languages which are not in the download: Russian"
+    "English"
   ],
   "suggested_yarn": [
-    "Garnstudio DROPS Karisma",
-    "DK (11 wpi) ?"
+    "Aran (8 wpi) ?",
+    "Darice Hemp Cord 48 lb."
   ],
   "attributes": [
-    "chart",
-    "stranded",
-    "triangle-shaped",
+    "icord",
+    "in-the-round",
     "written-pattern"
   ],
-  "full_text": "The Snowy Mountain ornament is an easy cute pattern, suitable for the beginners. You can hang a finished mountains on your Christmas tree or make a year-around garland. There are 2 sizes of the mountains in the pattern. Smaller is 7 cm high and the bigger is 10 cm high. It´s not required to meet the established gauge, you can use any kind of yarn, but the size of the finished item will change accordingly. The pattern is a great stash buster! Find me on Instagram: @thiscosynest",
+  "full_text": "Description from Knitty.com: Knit from the bottom up on double point needles, the natural hemp twine gives it that jungle-y look that monkeys love. Although the hemp is stiffer than standard yarn, it is quite workable and provides a sturdy framework for the bag.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/ekaterina-vorobevas-ravelry-store",
-    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/editors",
-    "https://www.ravelry.com/patterns/library/provence-blouse",
-    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/comments",
-    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/report",
-    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/yarns",
-    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament/people",
-    "https://www.ravelry.com/patterns/library/christmas-candle-ornament",
-    "https://www.ravelry.com/patterns/library/snowy-mountain-ornament",
-    "https://www.ravelry.com/patterns/library/provence-top"
-  ]
+    "https://www.ravelry.com/patterns/library/wild-stripes",
+    "https://www.ravelry.com/patterns/library/best-friend",
+    "https://www.ravelry.com/patterns/sources/knitty-spring-2005",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/comments",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/report",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/editors",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/threads",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/people",
+    "https://www.ravelry.com/patterns/library/cocktail-monkey-bag/yarns",
+    "https://www.ravelry.com/patterns/library/oomingmacks",
+    "https://www.ravelry.com/patterns/periodicals/knitty"
+  ],
+  "name": "Ravelry: Cocktail Monkey Bag pattern by Kristin Goedert"
 }

@@ -1,45 +1,46 @@
 {
   "pattern_id": 125,
-  "pattern_page": "https://www.ravelry.com/patterns/library/time-to-play",
-  "name": "Time to Play",
-  "description": "These blocks are knit in simple stocking stitch and decorated to help little ones learn letters and shapes. The letters and shapes are embroidered on the cube faces after knitting using Swiss darning (duplicate stitch), but if you prefer you could use intarsia and follow the charts provided. Designed by Amanda Berry @fluffandfuzz, the blocks are knitted in acrylic DK yarns on single pointed needles (not in the round).",
+  "pattern_page": "https://www.ravelry.com/patterns/library/small-sausage-dog",
+  "name": "Small Sausage Dog",
+  "description": "This striped sausage dog is a quick little knit to use up odds and ends of yarn. You could make one as a bag charm, key charm, or just as a sweet little toy. Designed by Amanda Berry @fluffandfuzz, this dog is knitted in acrylic DK yarns on single pointed needles (not in the round).",
   "designer": "Amanda Berry",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "3.0 mm, US 2 (2.75 mm)",
-  "sizes_available": "Large (11 cm; 4 1/2 in) cube, small (7.5 cm; 3 in) cube",
+  "category": "Softies → Animal",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Paintbox Yarns Baby DK",
-    "DK (11 wpi) ?"
+    "DK (11 wpi) ?",
+    "Hayfield Bonus DK"
   ],
   "attributes": [
-    "chart",
-    "cube-shaped",
-    "duplicate-stitch",
+    "3-dimensional",
     "seamed",
     "stripes-colorwork",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "These blocks are knit in simple stocking stitch and decorated to help little ones learn letters and shapes. The letters and shapes are embroidered on the cube faces after knitting using Swiss darning (duplicate stitch), but if you prefer you could use intarsia and follow the charts provided. Designed by Amanda Berry @fluffandfuzz, the blocks are knitted in acrylic DK yarns on single pointed needles (not in the round). NEEDLES A pair of 3mm single pointed knitting needles (US 2.5). RECOMMENDED YARN Paintbox Yarns Baby DK; double knitting/light worsted weight; 45% acrylic/55% Nylon; one 50g/167m skein in each colour . NOTIONS Tapestry needle and toy filling. SIZES One size only - 11cm and 7.5cm cubes. TECHNIQUES For confident beginners and above, other techniques used include casting on and off, and seaming to finish. PATTERN INFO This knitting pattern is a pdf download, 4 pages, and written in English. Patterns for personal use only; not for resale. Copyright © 2018 Amanda Berry; All rights reserved.",
-  "techniques": [],
+  "full_text": "This striped sausage dog is a quick little knit to use up odds and ends of yarn. You could make one as a bag charm, key charm, or just as a sweet little toy. Designed by Amanda Berry @fluffandfuzz, this dog is knitted in acrylic DK yarns on single pointed needles (not in the round). NEEDLES A pair of 2.75mm single pointed knitting needles (US 2). RECOMMENDED YARN Sirdar Hayfield Bonus DK; double knitting/light worsted weight; 100% acrylic; a few grammes in each colour. NOTIONS Tapestry needle, toy filling, and beads for eyes. SIZES One size only - 10cm lomg. TECHNIQUES For confident beginners and above, other techniques used include casting on and off, knits, purls, increases and decreases, and seaming to finish. PATTERN INFO This knitting pattern is a pdf download, 3 pages, and written in English. Patterns for personal use only; not for resale. Copyright © 2020 Amanda Berry; All rights reserved.",
+  "techniques": [
+    "decreases",
+    "increases"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/time-to-play/threads",
-    "https://www.ravelry.com/patterns/library/time-to-play/report",
-    "https://www.ravelry.com/patterns/library/small-sausage-dog",
     "https://www.ravelry.com/patterns/sources/fluff--fuzz",
     "https://www.ravelry.com/bundles/free-patterns-500",
-    "https://www.ravelry.com/patterns/library/hearts-28",
-    "https://www.ravelry.com/patterns/library/time-to-play/yarns",
-    "https://www.ravelry.com/patterns/library/time-to-play/editors",
-    "https://www.ravelry.com/patterns/library/time-to-play",
-    "https://www.ravelry.com/patterns/library/time-to-play/comments",
-    "https://www.ravelry.com/patterns/sources/simply-knitting-175-july-2018",
-    "https://www.ravelry.com/patterns/library/stuffy-owl",
-    "https://www.ravelry.com/patterns/library/time-to-play/people"
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/people",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/yarns",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/posts",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/editors",
+    "https://www.ravelry.com/patterns/library/autumn-acorns-and-oak-leaves",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/comments",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/report",
+    "https://www.ravelry.com/patterns/library/little-apple",
+    "https://www.ravelry.com/patterns/library/small-sausage-dog/threads",
+    "https://www.ravelry.com/patterns/library/rainbow-35"
   ]
 }

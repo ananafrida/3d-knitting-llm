@@ -1,36 +1,57 @@
 {
   "pattern_id": 1937,
-  "pattern_page": "https://www.ravelry.com/patterns/library/free-palestine",
-  "name": "Free Palestine",
-  "description": "A tiny knitted flag that I designed on oct 9th 2023. I will sew mine on my purse, but it can be easily be used as a patch or be gifted to friends. The pattern uses Intarsia and stripe colorwork and it can be easily be worked in diffrenet yarn/needle combination to get different item size.",
-  "designer": "Mariella Ponti",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sommarkoftan-2025",
+  "name": "Sommarkoftan 2025",
+  "description": "The Summer Cardigan is a recurring KAL hosted by Järbo during the summer season.",
+  "designer": "Maja Karlsson",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "category": "Sweater → Cardigan",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
+  "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
   "languages": [
-    "English"
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "German",
+    "Norwegian",
+    "Swedish",
+    "...and 7 other languages show hide other languages",
+    "...and 7 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "",
-    "Fingering (14 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Järbo Järbo 2 tr Ull / Svensk Ull 2 tr"
   ],
   "attributes": [
-    "Intarsia",
-    "stripes-colorwork"
+    "adult",
+    "buttoned",
+    "buttonholes",
+    "chart",
+    "circular-yoke",
+    "in-the-round",
+    "long-sleeve",
+    "steeks",
+    "straight",
+    "stranded",
+    "top-down",
+    "written-pattern"
   ],
-  "full_text": "A tiny knitted flag that I designed on oct 9th 2023. I will sew mine on my purse, but it can be easily be used as a patch or be gifted to friends. The pattern uses Intarsia and stripe colorwork and it can be easily be worked in diffrenet yarn/needle combination to get different item size. “The Palestine question is emblemathic of what is wrong with the world. The role played by western states,the complicity of corporations and of various institutions make this case a very special one. The fact that Israel actually benefits from violating international law and receives ¨red carpet¨ from the West means that we all have a role to play in ending the injustice that the Palestinians are facing. The injustice in Palestine has ramifications throughout the world. (…)Exploring the palestinian case is therefore crucial for understanding where we stand as human beings and what we stand for. Finding a solution to this question could then open the door to a new vision, to a new world, to new possibilities for all of us.” F. Barat 2014,introduction to N.Chomsky & I. Pappé “On Palestine”. Knit this little flag to stand for justice, to stand for the future of oppressed young people and children.",
+  "full_text": "The Summer Cardigan is a recurring KAL hosted by Järbo during the summer season. Thank you for joining us! We are happy to be able to share our patterns with you for free! Unfortunately, we are not able to answer DM’s here on Ravelry. However, we hope you will like the pattern and will enjoy seeing your project come to life! Inspiration and free patterns Follow Järbo on Instagram Reseller map jarbo.se - Brand website, in Swedish Find a reseller - Nordic region, in Swedish Our official online stores eddna.se , eddna.no , eddna.de , eddna.at , eddna.nl , eddna.be Järbo is a Swedish brand established in 1896. We offer nordic design, selected yarns and accessories in stores and online.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tuttifrutti-top",
-    "https://www.ravelry.com/patterns/sources/mariella-pontis-ravelry-store",
-    "https://www.ravelry.com/patterns/library/free-palestine/comments",
-    "https://www.ravelry.com/patterns/library/free-palestine/report",
-    "https://www.ravelry.com/patterns/library/brioche-stitch-reversible-cowl",
-    "https://www.ravelry.com/patterns/library/free-palestine",
-    "https://www.ravelry.com/patterns/library/free-palestine/people",
-    "https://www.ravelry.com/patterns/library/free-palestine/editors",
-    "https://www.ravelry.com/patterns/library/sumud",
-    "https://www.ravelry.com/patterns/library/free-palestine/yarns"
+    "https://www.ravelry.com/patterns/library/julvanten-2022",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/editors",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/people",
+    "https://www.ravelry.com/patterns/library/julvanten-2023",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/comments",
+    "https://www.ravelry.com/patterns/library/julvanten-2024",
+    "https://www.ravelry.com/patterns/sources/jarbo-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/yarns",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/report",
+    "https://www.ravelry.com/patterns/library/sommarkoftan-2025/posts"
   ]
 }

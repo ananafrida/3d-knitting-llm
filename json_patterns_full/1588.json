@@ -1,42 +1,56 @@
 {
   "pattern_id": 1588,
-  "pattern_page": "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins",
-  "name": "Harvest Moon Pumpkins",
-  "description": "Here’s a pattern to celebrate Autumn. You can change size by using larger or smaller yarns/needles. Remember to use a smaller size needle for tight knitting so the stuffing won’t show through the stitches. Happy Knitting!",
-  "designer": "Kiki Geiger",
+  "pattern_page": "https://www.ravelry.com/patterns/library/merendera-neckwarmer",
+  "name": "Merendera Neckwarmer",
+  "description": "DESCRIPCIÓN EN ESPAÑOL ABAJO",
+  "designer": "Cecilia García Rodrigo",
   "craft": "Knitting",
-  "category": "Decorative → Other",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "one size",
+  "category": "Neck / Torso → Cowl Neck / Torso → Other",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "One size/Talla única: Shoulder width/Ancho de hombros: 36 cm [14\"] // Length/largo: 25 cm [10\"]",
   "languages": [
-    "English"
+    "English",
+    "Spanish"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Lion Brand Wool Ease Solids, Heathers, Twists"
+    "My Knitted Closet The finest Suri",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
-    "icord",
+    "adult",
+    "female",
     "in-the-round",
-    "phototutorial",
+    "male",
+    "one-piece",
+    "ribbed",
+    "seamless",
+    "short-rows",
+    "teen",
+    "textured",
+    "top-down",
+    "turtleneck",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Here’s a pattern to celebrate Autumn. You can change size by using larger or smaller yarns/needles. Remember to use a smaller size needle for tight knitting so the stuffing won’t show through the stitches. Happy Knitting!",
-  "techniques": [],
-  "shape": "unknown",
+  "full_text": "DESCRIPCIÓN EN ESPAÑOL ABAJO This is a pattern created for the second edition of the Soria Wool Fair. Construction: It begins in the round, casting on stitches for the neck (not for the neck ribbing, which will be done at the end) and shaping the neckline with short rows while working increases for the shoulders. Once the shoulders are finished, they are put on hold, and work continues flat, separately for the back and the front. Stitches are then picked up to knit the sides, that are knitted in 1x1 rib. Finally, the neck rib edge is worked in the round from stitches that are picked up and knitted along the neckline. MATERIALS Yarn: 335 meters of DK or worsted weight yarn, approximately 230-250 meters per 100 grams. For the neckwarmer shown in the photos, the following was used: 3 balls of My Knitted Closet - The Finest Suri: 53% Baby Suri Alpaca, 27% Recycled silk, 20% Cotton. | 50 gr, 125 meters 136 yards Needles: Rib: 3.00mm / US 2 ½ Main: 4.00mm / US 6 Use the needles needed to obtain gauge, and for the ribbing, go down the equivalent needle sizes. Cable: Neck rib: 40-50 cm 16-20 inchesonger if you want to use magic loop) Rest: 60cm 24” . You can pick a larger cable. Notions: Tapestry needle for weaving in ends, measuring tape, and scissors. One stitch marker for the beginning of the round and 4 additional markers. Stitch holders to put stitches on hold (or scrap yarn). GAUGE Knit flat with 4 mm / US 6 needles, and after blocking, a 10x10 cm / 4” swatch measures: In stockinette stitch: 20 sts x 26 rows. In 1x1 ribbing: 20 sts x 30 rows. It is not essential to knit both swatches, but it is important to make a swatch and wash it. This will prevent your finished garment from being larger or smaller than expected. ----------------- ESPAÑOL ----------------- Este es un patrón creado para la segunda edición de la feria de lanas de Soria. Vente al grupo de Telegram en el que lo vamos a tejer todas juntas: Comenzamos el 16 de Julio de 2024, ¿te animas? Además, en la web de My Knitted Closet, hay kits preparados -> aquí Construcción: Comienza en circular, montando puntos para el cuello (no para el elástico del cuello, que se hará al final) y dando forma al escote con vueltas cortas a la vez que se trabajan aumentos para los hombros. Una vez acabados los hombros, se dejan en espera y se continúa en plano, por separado la espalda y el delantero. Se levantan puntos para tejer los elásticos de los laterales, y por último, se teje el elástico del cuello. MATERIALES Hilo: 335 metros de un hilo de grosor DK o worsted, de aproximadamente 230-250 metros por cada 100 gramos. Para el cuello que se ve en las fotos, se ha usado: 3 ovillos de My Knitted Closet - The Finest Suri: 53% Baby Suri Alpaca, 27% Seda reciclada, 20% algodón. | 50 gr, 125 metros 136 yardas Agujas Elásticos: Agujas circulares de 3.00mm / US 2 ½ Tejido principal: Agujas circulares de 4.00mm / US 6 Usa las agujas necesarias para obtener la muestra, y para los elásticos, baja los números de aguja equivalentes. Cable Cuello: 40-50 cm 16-20“ás largo si quieres hacer magic loop). Resto: 60cm 24” . Puede ser más largo. Extras Aguja lanera para rematar cabos, metro o regla y tijeras. Marcador para inicio de vuelta y 4 marcadores más. Sujetapuntos para dejar puntos en espera. * MUESTRA * Tejido en plano , con agujas de 4mm / US 6, y después de bloquear, 10x10 cm / 4”, son: En punto liso: 20 p x 26 vtas. En punto elástico 1x1: 20 p x 30 vtas. No es imprescindible tejer las dos muestras, pero sí es importante que hagas la muestra y la laves, eso evitará que cuando acabes de tejer, te salga una prenda más grande o más pequeña de lo que esperabas.",
+  "techniques": [
+    "increases",
+    "short rows",
+    "worked in the round"
+  ],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/threads",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/comments",
-    "https://www.ravelry.com/patterns/library/yummy-christmas-pudding",
-    "https://www.ravelry.com/patterns/library/annabel-kerchief",
-    "https://www.ravelry.com/patterns/library/ladybug-facecloth",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/people",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/yarns",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/editors",
-    "https://www.ravelry.com/patterns/sources/scarlett-kiki-geigers-ravelry-store",
-    "https://www.ravelry.com/patterns/library/harvest-moon-pumpkins/report"
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/editors",
+    "https://www.ravelry.com/patterns/sources/trizas-y-trazos---cecilia-garcia-rodrigo",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/report",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer",
+    "https://www.ravelry.com/patterns/sources/my-knitted-closet",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/yarns",
+    "https://www.ravelry.com/patterns/library/paseos-de-mayo",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/threads",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/comments",
+    "https://www.ravelry.com/patterns/library/merendera-neckwarmer/people",
+    "https://www.ravelry.com/patterns/library/maehwa-tee",
+    "https://www.ravelry.com/patterns/library/madreselva-hat"
   ]
 }

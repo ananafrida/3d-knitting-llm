@@ -1,42 +1,43 @@
 {
   "pattern_id": 593,
-  "pattern_page": "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-morning",
+  "pattern_page": "https://www.ravelry.com/patterns/library/fetch-",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "30 x 37 inches",
+  "category": "Pet → Toys",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "5 1/2\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Purl Soho Morning"
+    "Lily (Spinrite) Sugar'n Cream Solids",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "modular",
-    "one-piece",
-    "rectangle",
-    "seamless",
-    "stripes-colorwork",
+    "3-dimensional",
+    "kitchener",
+    "seamed",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "MATERIALS Our Super Easy Baby Blanket in Morning Bundle includes… 7 skeins of Purl Soho’s Morning ,75% organically grown cotton and 25% yak. Each skein is 191 yards; approximately 1,337 total yards required. A Purl Soho tote bag with the pattern printed on the back A postcard of the finished blanket You’ll also need… US 5 (3.75 mm), 24- or 32-inch circular needles Choose from three pretty color palettes… Beach Plum Color A: Heirloom White Color B: Sweet Apricot Color C: Pink Lemonade Color D: Pink Radish Color E: Purple Allium Color F: Mountain Purple Color G: Dungarees Blue Peninsula Color A: Araucana Blue Color B: Fresh Sky Color C: Tender Green Color D: Cucumber Ice Color E: Heirloom White Color F: Grassland Gray Color G: Stone Cottage Piazza Color A: Tender Green Color B: Cucumber Ice Color C: Sweet Apricot Color D: Yellow Apple Color E: Heirloom White Color F: Grassland Gray Color G: Stone Cottage GAUGE 20 stitches and 48 rows = 4 inches in garter stitch SIZE Finished Dimensions: Approximately 30 inches wide x 37 inches long",
-  "techniques": [],
-  "shape": "unknown",
-  "download_links": [
-    "https://www.ravelry.com/patterns/library/simply-the-best-cardigan-for-babies--toddlers",
-    "https://www.ravelry.com/patterns/sources/purl-soho",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-morning/comments",
-    "https://www.ravelry.com/patterns/library/natures-palette-blanket",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-morning/people",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-morning/editors",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-morning/yarns",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-morning/report",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-morning",
-    "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-morning/threads",
-    "https://www.ravelry.com/patterns/library/new-super-easy-baby-blanket"
+  "full_text": "Blogged Here: http://krisknits.blogspot.com/2009/04/fetch.html Everyone I know loves knitting for their pets. This is a fast and easy to follow pattern that uses simple increases and decreases then seaming up with mattress stitch. Great for a beginner that is looking to practice some shaping. The pattern is also easily adaptable for larger dogs. Just add more stitches to the cast on areas and then increase the number of rows that you knit in plain stockingnet stitch for a longer bone. A note about Fetch! and any other handmade toy that you use with your pets: This toy is intended to be used only with owner’s supervision. Do not leave your pet unattended with such toys because if ripped apart or damaged it could pose as a choking hazard. Check toy regularly for signs of wear and replace if necessary. (They’re very fast to make!) Fetch! © KrisKnits 2009 This pattern is for personal use only.",
+  "techniques": [
+    "decreases",
+    "increases"
   ],
-  "name": "Ravelry: Super Easy Baby Blanket in Morning pattern by Purl Soho"
+  "shape": "softie",
+  "download_links": [
+    "https://www.ravelry.com/patterns/library/fetch-",
+    "https://www.ravelry.com/patterns/library/summer-cloths",
+    "https://www.ravelry.com/patterns/library/fetch-/people",
+    "https://www.ravelry.com/patterns/sources/krisknits",
+    "https://www.ravelry.com/patterns/library/fetch-/report",
+    "https://www.ravelry.com/patterns/library/fetch-/comments",
+    "https://www.ravelry.com/patterns/library/fetch-/threads",
+    "https://www.ravelry.com/patterns/library/fetch-/editors",
+    "https://www.ravelry.com/patterns/library/fetch-/posts",
+    "https://www.ravelry.com/patterns/library/fetch-/yarns",
+    "https://www.ravelry.com/patterns/library/thermis",
+    "https://www.ravelry.com/patterns/library/mothers-day-cloth"
+  ],
+  "name": "Ravelry: Fetch ! pattern by Kris Knits"
 }

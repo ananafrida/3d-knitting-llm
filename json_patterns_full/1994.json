@@ -1,43 +1,40 @@
 {
   "pattern_id": 1994,
-  "pattern_page": "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel",
+  "pattern_page": "https://www.ravelry.com/patterns/library/simple-ball-2",
+  "name": "Simple Ball",
+  "description": "Since I’ve often wished for a book of instructions for basic shapes, that I could take and make my own, but I haven’t yet found this book, I decided to get the ball rolling myself and create a simple ball pattern that allows for infinite play and variation.",
+  "designer": "Alexis Hamann-Nazaroff",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "sizes_available": "Shoe size EU 17-49/ UK 3 JNR - 13,5",
+  "category": "Ball",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "languages": [
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Woolly Hugs Year Socks"
+    "",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "phototutorial",
-    "schematic",
-    "short-row-heel",
-    "video-tutorial",
-    "written-pattern"
+    "3-dimensional",
+    "in-the-round",
+    "worked-flat"
   ],
-  "full_text": "The fleegle heel is an easy-to-knit top-down heel and is shaped by increases in the shaft, before the stitches are worked under the heel using German short rows to form a triangular cap. In this tutorial, we describe step by step how to knit the increase heel in different variants – with addiCraSyTrio, double pointed needles or circular needles with a magic loop. with sock chart step-by-step for 4-ply, 6-ply and 8-ply sock yarn for DPN, addiCraSyTrio/ FlexiFlips and magic loop The increasing heel is an easy-to-knit top-down heel and is formed by increasing in the shaft before the stitches under the heel are worked into a triangular cap using shortened rows. In these instructions we describe step by step how the increasing heel is knitted in different variations - with addiCraSyTrio, double pointed needles or circular knitting needles with a miracle loop. With sock chart step-by-step For 4-ply, 6-ply and 8-ply sock yarn For needle games, addiCraSyTrio and Magic Loop",
-  "techniques": [
-    "increases",
-    "short rows",
-    "top-down"
-  ],
-  "shape": "cylinder",
+  "full_text": "Since I’ve often wished for a book of instructions for basic shapes, that I could take and make my own, but I haven’t yet found this book, I decided to get the ball rolling myself and create a simple ball pattern that allows for infinite play and variation. Use this pattern as a jumping off point to try out balls with color work, different stitch patterns etc. This is actually 2 patterns in one: instructions for a ball knit flat, and a ball knit in-the-round. That way you can choose which works best for you. Enjoy! gauge, size and specific yarn are not too important, since this ball pattern is made to be played around with, but I do suggest you knit with a combination of yarn and needle that knits up a firm, tight fabric, so that the ball holds its shape and stuffing doesn’t leak out.",
+  "techniques": [],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/report",
-    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel",
-    "https://www.ravelry.com/patterns/library/krawatte---knitted-tie-strickkult",
-    "https://www.ravelry.com/patterns/library/doppelmutze--double-layer-beanie-on-addiexpress",
-    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/editors",
-    "https://www.ravelry.com/patterns/sources/addi-website",
-    "https://www.ravelry.com/patterns/sources/addi2go-app",
-    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/people",
-    "https://www.ravelry.com/patterns/library/babysocken--baby-socks",
-    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/comments",
-    "https://www.ravelry.com/patterns/library/addi-zunahmeferse--fleegle-heel/yarns"
-  ],
-  "name": "Ravelry: addi Zunahmeferse/ fleegle heel pattern by addi by Selter"
+    "https://www.ravelry.com/patterns/library/simple-ball-2/report",
+    "https://www.ravelry.com/stores/yarn-birdy-patterns",
+    "https://www.ravelry.com/patterns/sources/yarn-birdy",
+    "https://www.ravelry.com/patterns/library/simple-ball-2/yarns",
+    "https://www.ravelry.com/patterns/library/crocuses-knit-a-spring-flower",
+    "https://www.ravelry.com/patterns/library/simple-ball-2/people",
+    "https://www.ravelry.com/patterns/library/simple-ball-2/comments",
+    "https://www.ravelry.com/patterns/library/simple-ball-2/threads",
+    "https://www.ravelry.com/patterns/library/little-ghosts",
+    "https://www.ravelry.com/patterns/library/simple-ball-2/posts",
+    "https://www.ravelry.com/patterns/library/simple-ball-2",
+    "https://www.ravelry.com/patterns/library/miniature-knit-toy-turkey-istanbul",
+    "https://www.ravelry.com/patterns/library/simple-ball-2/editors"
+  ]
 }

@@ -1,47 +1,43 @@
 {
   "pattern_id": 484,
-  "pattern_page": "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
-  "name": "Bandana Cowl No. 4",
-  "description": "Yarn: 130 yards of dk weight yarn",
-  "designer": "Cleo Malone",
+  "pattern_page": "https://www.ravelry.com/patterns/library/felted-flower-bowl",
+  "name": "Felted Flower Bowl",
+  "description": "",
+  "designer": "Meg Myers",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Containers",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "sizes_available": "one size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Shibui Knits Nest"
+    "Cascade Yarns ® Cascade 220®"
   ],
   "attributes": [
-    "adult",
-    "child",
+    "circle-shaped",
+    "felted",
     "in-the-round",
     "one-piece",
-    "seamless",
-    "teen",
-    "top-down",
-    "unisex",
+    "ripple",
     "written-pattern"
   ],
-  "full_text": "Yarn : 130 yards of dk weight yarn We used 1 skein of Shibui Nest in “Abyss.” Needles : US 7 / 4.5 mm 16” circulars or equivalent type & length in size needed to obtain gauge Notions : 2 different colored stitch markers, darning needle, scissors, and tape measure Gauge : 5 stitches & 8 rows per inch in broken rib after blocking Sizes : one size, though instructions are given in pattern to adjust length Measurements : 14.5” around neck, 26” around at base, 7” tall",
+  "full_text": "",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/editors",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-2",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/people",
-    "https://www.ravelry.com/patterns/sources/cleo-malones-ravelry-store",
-    "https://www.ravelry.com/patterns/library/little-triangle-scarf-no1",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/comments",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/report",
-    "https://www.ravelry.com/patterns/sources/placemarker",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/threads",
-    "https://www.ravelry.com/patterns/library/brioche-hat-no-2",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/yarns",
-    "https://www.ravelry.com/patterns/library/bandana-cowl-no-4/posts"
+    "https://www.ravelry.com/patterns/library/felted-flower-bowl/yarns",
+    "https://www.ravelry.com/patterns/library/felted-needle-vase",
+    "https://www.ravelry.com/patterns/sources/mymegknits-ravelry-store",
+    "https://www.ravelry.com/patterns/library/felted-flower-bowl/threads",
+    "https://www.ravelry.com/patterns/library/roommate-soap-sock-dave",
+    "https://www.ravelry.com/bundles/featured-patterns",
+    "https://www.ravelry.com/patterns/library/felted-flower-bowl/report",
+    "https://www.ravelry.com/patterns/library/felted-flower-bowl",
+    "https://www.ravelry.com/patterns/library/felted-flower-bowl/posts",
+    "https://www.ravelry.com/patterns/library/felted-flower-bowl/editors",
+    "https://www.ravelry.com/patterns/library/roommate-soap-sock-kyle",
+    "https://www.ravelry.com/patterns/library/felted-flower-bowl/people",
+    "https://www.ravelry.com/patterns/library/felted-flower-bowl/comments"
   ]
 }

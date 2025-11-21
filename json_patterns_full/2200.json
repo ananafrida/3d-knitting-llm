@@ -1,33 +1,45 @@
 {
   "pattern_id": 2200,
-  "pattern_page": "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7",
+  "pattern_page": "https://www.ravelry.com/patterns/library/oblios-cap",
   "craft": "Knitting",
-  "category": "Jewelry → Bracelet Costume",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "category": "Hat → Pixie",
+  "needle_size": "US 9 (5.5 mm), US 9 (5.5 mm)",
+  "sizes_available": "adult one-size",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Brown Sheep Lamb's Pride Bulky",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "adult",
-    "seamed",
-    "stranded",
+    "child",
+    "in-the-round",
+    "one-piece",
+    "seamless",
+    "teen",
     "unisex",
-    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Made for an online friend who wanted one. Everyone seems to make the Teleport bracelet from Cygnus Alpha, but I wanted to be different. There was a very clear picture of Avon’s teleport bracelet in the episode Deliverance , and, since my friend and I are Avon fans, I decided to use that one instead. I’ve tried to be as true to the original design as possible given the restraints of the medium. You can make this pattern larger by adding stitches to the middle of the pronged silver bar. If you use this pattern and/or improve on it, please comment. I’d love to see a picture of your work!",
-  "techniques": [],
+  "full_text": "Needle: size 9, dp. (circ’s would work, too!) Yarn: 2 skeins Lamb’s Pride Bulky, Mustard Yellow Other accessories: blunt tapestry needle or crochet hook for hiding tails. & poly fiber fill for stuffing the top! gauge: 11 st. = 3”, 11 rows = 2” In order to use only one skein of yarn - start decreases after 25 rows instead of 30.",
+  "techniques": [
+    "decreases"
+  ],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/editors",
-    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/comments",
-    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/edit",
-    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/yarns",
-    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/report",
-    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7",
-    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/people",
-    "https://www.ravelry.com/patterns/sources/wolfmas-document"
+    "https://www.ravelry.com/patterns/library/oblios-cap/report",
+    "https://www.ravelry.com/patterns/library/oblios-cap/people",
+    "https://www.ravelry.com/patterns/library/oblios-cap/editors",
+    "https://www.ravelry.com/patterns/library/oblios-cap",
+    "https://www.ravelry.com/patterns/library/very-vegan-sausages",
+    "https://www.ravelry.com/patterns/library/le-gland-du-chne-acorn",
+    "https://www.ravelry.com/patterns/library/oblios-cap/posts",
+    "https://www.ravelry.com/patterns/library/oblios-cap/yarns",
+    "https://www.ravelry.com/patterns/sources/closet-or-cave-blog",
+    "https://www.ravelry.com/patterns/library/oblios-cap/threads",
+    "https://www.ravelry.com/patterns/library/watermelon-slice",
+    "https://www.ravelry.com/patterns/library/oblios-cap/comments"
   ],
-  "name": "Ravelry: Lord Avon's Teleport Bracelet - Blake's 7 pattern by Wolfma"
+  "name": "Ravelry: Oblio's Cap pattern by Emily Anna Bingham"
 }

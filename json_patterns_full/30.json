@@ -1,40 +1,33 @@
 {
   "pattern_id": 30,
-  "pattern_page": "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block",
-  "name": "Lucky 4-Leaf Afghan 12\" block",
-  "description": "Today I’d like to show you a block that I’ve worked on for two years, and used in several afghan exchanges. This block was originally featured in one of the Antique CounterPane guides; however, since I didn’t completely ‘create’ it, I offer it for free. I see similar blocks featured in the latest issues of Mary Maxim’s catalogue. There is also one done in Jan Eaton’s 200 Knit Blocks, that has you make a single leaf, and join the four leaves in the corners, to make the four-leaf. That’s just too much work for me!",
-  "designer": "Margaret MacInnis",
+  "pattern_page": "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "12\" square",
-  "languages": [
-    "English"
-  ],
+  "category": "Jewelry → Bracelet Costume",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Lion Brand Vanna's Choice"
+    "",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "in-the-round",
-    "lace",
-    "textured"
+    "adult",
+    "seamed",
+    "stranded",
+    "unisex",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "Today I’d like to show you a block that I’ve worked on for two years, and used in several afghan exchanges. This block was originally featured in one of the Antique CounterPane guides; however, since I didn’t completely ‘create’ it, I offer it for free. I see similar blocks featured in the latest issues of Mary Maxim’s catalogue. There is also one done in Jan Eaton’s 200 Knit Blocks, that has you make a single leaf, and join the four leaves in the corners, to make the four-leaf. That’s just too much work for me! This block is knit from the center-out on dpn’s. I do have a tutorial on Ravelry in my posts. Anyone interested in tutorial support feel free to PM me. I like to help you succeed in making your blocks!",
+  "full_text": "Made for an online friend who wanted one. Everyone seems to make the Teleport bracelet from Cygnus Alpha, but I wanted to be different. There was a very clear picture of Avon’s teleport bracelet in the episode Deliverance , and, since my friend and I are Avon fans, I decided to use that one instead. I’ve tried to be as true to the original design as possible given the restraints of the medium. You can make this pattern larger by adding stitches to the middle of the pronged silver bar. If you use this pattern and/or improve on it, please comment. I’d love to see a picture of your work!",
   "techniques": [],
-  "shape": "cube",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/comments",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/people",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/yarns",
-    "https://www.ravelry.com/patterns/library/muggs-monkey-coffee-cup-cosy-warmer-protector",
-    "https://www.ravelry.com/patterns/sources/designs-by-muggins",
-    "https://www.ravelry.com/patterns/library/jojo-dahlia-9-knit-afghan-block-square",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/editors",
-    "https://www.ravelry.com/patterns/library/9-lucky-4-leaf-afghan-block",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/threads",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/report",
-    "https://www.ravelry.com/patterns/library/lucky-4-leaf-afghan-12-block/posts"
-  ]
+    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7",
+    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/people",
+    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/yarns",
+    "https://www.ravelry.com/patterns/sources/wolfmas-document",
+    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/edit",
+    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/report",
+    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/editors",
+    "https://www.ravelry.com/patterns/library/lord-avons-teleport-bracelet---blakes-7/comments"
+  ],
+  "name": "Ravelry: Lord Avon's Teleport Bracelet - Blake's 7 pattern by Wolfma"
 }

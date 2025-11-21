@@ -1,34 +1,40 @@
 {
   "pattern_id": 227,
-  "pattern_page": "https://www.ravelry.com/patterns/library/lattice-cable-bag",
+  "pattern_page": "https://www.ravelry.com/patterns/library/workday-scarf",
+  "name": "Workday Scarf",
+  "description": "This project is every knitter’s dream, simple to knit and beautiful to wear. The best kind of knitting after a long day at work, garter stitch with a hint of lace.",
+  "designer": "Sue Flanders",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "One size",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "One Size - finshed measurements; Length=60\", Width=1-1/2 to 8\"",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Knit Picks Wool of the Andes Worsted",
-    "Worsted (9 wpi) ?"
+    "Fingering (14 wpi) ?",
+    "Araucania Yarns Huasco Multy Botany Lace"
   ],
   "attributes": [
-    "cables"
+    "lace",
+    "one-piece",
+    "triangle-shaped",
+    "unisex",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This bag is made up of a rectangular lattice cable panel folded in half. The handles are 2 D-shaped handles. It starts from one handle to the second one. Seam up the sides and you have a bag.",
+  "full_text": "This project is every knitter’s dream, simple to knit and beautiful to wear. The best kind of knitting after a long day at work, garter stitch with a hint of lace. A simple little garter stitch project that incorporates a smaller version of the lace edging used in the Workday Shawl, from the book Norwegian Handknits, by Sue Flanders and Janine Kosel. I completed the scarf the same day that the lilacs bloomed, so I had to add them to the photos.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/buttons-ahoy-knot-bag",
-    "https://www.ravelry.com/patterns/library/lattice-cable-bag/yarns",
-    "https://www.ravelry.com/patterns/library/lattice-cable-bag/editors",
-    "https://www.ravelry.com/patterns/library/lattice-cable-bag/comments",
-    "https://www.ravelry.com/patterns/library/knot-bag-with-square-bottom",
-    "https://www.ravelry.com/patterns/library/lattice-cable-bag/report",
-    "https://www.ravelry.com/patterns/library/knitted-shoulder-bag",
-    "https://www.ravelry.com/patterns/sources/springorchid-files",
-    "https://www.ravelry.com/patterns/library/lattice-cable-bag",
-    "https://www.ravelry.com/patterns/library/lattice-cable-bag/people"
-  ],
-  "name": "Ravelry: Lattice Cable Bag pattern by Phoebe Lim"
+    "https://www.ravelry.com/patterns/library/workday-scarf/threads",
+    "https://www.ravelry.com/patterns/library/workday-scarf/yarns",
+    "https://www.ravelry.com/patterns/library/workday-scarf/people",
+    "https://www.ravelry.com/patterns/library/workday-scarf/editors",
+    "https://www.ravelry.com/patterns/sources/sue-flanders-designs",
+    "https://www.ravelry.com/patterns/library/workday-scarf/report",
+    "https://www.ravelry.com/patterns/library/workday-scarf/comments",
+    "https://www.ravelry.com/patterns/library/workday-scarf/posts",
+    "https://www.ravelry.com/patterns/library/workday-scarf"
+  ]
 }

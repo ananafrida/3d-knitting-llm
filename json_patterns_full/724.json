@@ -1,46 +1,46 @@
 {
   "pattern_id": 724,
-  "pattern_page": "https://www.ravelry.com/patterns/library/treetop-hats",
-  "name": "Treetop Hats",
-  "description": "The Treetops Project is a craftivism movement to fight for climate action. The hats are designed to mimic the shape of an evergreen tree, and to be worn en masse at climate and science marches around the world.",
-  "designer": "Alice Hale",
+  "pattern_page": "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "small and large",
+  "category": "Blocks",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "sizes_available": "Die measures 8cm [3\"] square.",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Cascade Yarns ® Cascade 220®",
-    "Worsted (9 wpi) ?"
+    "Red Heart Baby",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "bottom-up",
-    "in-the-round",
-    "one-piece",
-    "ribbed",
+    "3-dimensional",
+    "chart",
+    "cube-shaped",
+    "duplicate-stitch",
+    "motifs",
     "seamed",
-    "seamless",
-    "unisex",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The Treetops Project is a craftivism movement to fight for climate action. The hats are designed to mimic the shape of an evergreen tree, and to be worn en masse at climate and science marches around the world. There are three versions of the pattern: the Classic Pattern, which is knit in worsted weight yarn and worked in the round; the Chunky Classic Pattern, which looks the same as the Classic Pattern, but uses chunky weight yarn; and the Flat-Out Simple Pattern, which is beginner-friendly, and worked flat in garter stitch using chunky weight yarn. These patterns are intended as an accessible starting place, so feel free to get creative and experiment with stitch patterns, yarns, and techniques. Play around with colorwork! Why not throw in some cables? Have fun with it. For more information about the project, visit www.treetopsproject.com . Spread the word about this movement and show off your own hats on social media using #TreetopsProject .",
-  "techniques": [
-    "worked flat",
-    "worked in the round"
-  ],
-  "shape": "sphere",
+  "full_text": "Knit a set of dice for a fun loving baby and use them later to learn numbers. (Red Heart) Skill level: Intermediate",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/treetop-hats",
-    "https://www.ravelry.com/patterns/library/treetop-hats/yarns",
-    "https://www.ravelry.com/patterns/library/treetop-hats/people",
-    "https://www.treetopsproject.com/patterns",
-    "https://www.ravelry.com/patterns/library/treetop-hats/editors",
-    "https://www.ravelry.com/patterns/library/treetop-hats/comments",
-    "https://www.ravelry.com/patterns/library/treetop-hats/report",
-    "https://www.ravelry.com/patterns/sources/the-treetops-project"
-  ]
+    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/editors",
+    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/yarns",
+    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/comments",
+    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/people",
+    "https://www.ravelry.com/patterns/sources/red-heart-united-kingdom",
+    "https://www.ravelry.com/patterns/sources/love-knitting-for-baby-july-2016",
+    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/report",
+    "https://www.ravelry.com/patterns/sources/red-heart-deutschland",
+    "https://www.ravelry.com/patterns/library/granny-square-beret-2",
+    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block",
+    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/edit",
+    "https://www.ravelry.com/patterns/library/granny-cabana-shirt",
+    "https://www.ravelry.com/patterns/library/hexi-christmas-stocking",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
+    "https://web.archive.org/web/20160322222710/http://www.redheart.co.uk/free-patterns/roll-dice-baby-block"
+  ],
+  "name": "Ravelry: Roll the Dice Baby Block pattern by Red Heart Design Team"
 }

@@ -1,40 +1,33 @@
 {
   "pattern_id": 969,
-  "pattern_page": "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange",
+  "pattern_page": "https://www.ravelry.com/patterns/library/pseudosphere",
   "craft": "Knitting",
-  "category": "Ball",
-  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
-  "sizes_available": "1",
+  "category": "Decorative → Other Toys and Hobbies → Other",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Schoeller+Stahl Fortissima Socka"
+    ""
   ],
   "attributes": [
-    "3-dimensional",
     "in-the-round",
-    "sphere-shaped",
-    "written-pattern"
+    "one-piece"
   ],
-  "full_text": "Translated for the modern knitter from an 1888 issue of Weldon’s Practical Needlework .",
+  "full_text": "Scroll down slightly on the linked page to find the recipe. And, this really is a recipe rather than a pattern---you get to decide on your yarn, needles, and gauge. The number of stitches you cast on determines the circumference of the finished object.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/knitty-winter-2008",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/people",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/posts",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/report",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/yarns",
-    "https://www.ravelry.com/patterns/library/victorian-duet-scarf",
-    "https://www.ravelry.com/patterns/periodicals/knitty",
-    "https://www.ravelry.com/patterns/library/megadahlia",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/threads",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/comments",
-    "https://www.ravelry.com/patterns/library/big-d-mn-pineapple-1840",
-    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/editors"
+    "https://www.ravelry.com/patterns/sources/sarah-maries-mathematical-knitting-pages",
+    "https://www.ravelry.com/patterns/library/pseudosphere/editors",
+    "https://www.ravelry.com/patterns/library/pseudosphere/comments",
+    "https://www.ravelry.com/patterns/library/torus",
+    "https://www.ravelry.com/patterns/library/pseudosphere",
+    "https://www.ravelry.com/patterns/library/klein-bottle",
+    "https://www.ravelry.com/patterns/library/pseudosphere/yarns",
+    "https://www.ravelry.com/patterns/library/pseudosphere/people",
+    "https://www.ravelry.com/patterns/library/projective-plane",
+    "https://www.ravelry.com/patterns/library/pseudosphere/threads",
+    "https://www.ravelry.com/patterns/library/pseudosphere/report"
   ],
-  "name": "Ravelry: Ball Knitted Like an Orange pattern by Franklin Habit"
+  "name": "Ravelry: Pseudosphere pattern by sarah-marie belcastro"
 }

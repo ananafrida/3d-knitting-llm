@@ -1,46 +1,41 @@
 {
   "pattern_id": 147,
-  "pattern_page": "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block",
+  "pattern_page": "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+  "name": "Izzy Teddy Bear Dolls",
+  "description": "Add personality to your charity knitting project with instructions for knitting in the round, four sweater options, and bear ears.",
+  "designer": "Esther Braithwaite",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
-  "sizes_available": "Die measures 8cm [3\"] square.",
+  "category": "Softies → Animal",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Red Heart Baby",
-    "Sport (12 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Knit Picks Brava Sport"
   ],
   "attributes": [
-    "3-dimensional",
+    "cables",
     "chart",
-    "cube-shaped",
-    "duplicate-stitch",
-    "motifs",
-    "seamed",
-    "worked-flat",
+    "in-the-round",
+    "phototutorial",
     "written-pattern"
   ],
-  "full_text": "Knit a set of dice for a fun loving baby and use them later to learn numbers. (Red Heart) Skill level: Intermediate",
+  "full_text": "Add personality to your charity knitting project with instructions for knitting in the round, four sweater options, and bear ears. For more information about the history and legacy of Izzy Dolls in Canada please visit: www.hpicanada.ca",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/editors",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/people",
-    "https://web.archive.org/web/20160322222710/http://www.redheart.co.uk/free-patterns/roll-dice-baby-block",
-    "https://www.ravelry.com/patterns/library/chicken-bag-2",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/yarns",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/report",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/comments",
-    "https://www.ravelry.com/patterns/sources/red-heart-deutschland",
-    "https://www.ravelry.com/patterns/library/granny-square-beret-2",
-    "https://www.ravelry.com/patterns/sources/love-knitting-for-baby-july-2016",
-    "https://www.ravelry.com/patterns/library/roll-the-dice-baby-block/edit",
-    "https://www.ravelry.com/patterns/sources/red-heart-united-kingdom",
-    "https://www.ravelry.com/patterns/library/hexi-christmas-stocking"
-  ],
-  "name": "Ravelry: Roll the Dice Baby Block pattern by Red Heart Design Team"
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/report",
+    "https://www.ravelry.com/patterns/library/pretty-izzy-dolls",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/editors",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/posts",
+    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/threads",
+    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/comments",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/yarns",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
+    "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls/people",
+    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls"
+  ]
 }

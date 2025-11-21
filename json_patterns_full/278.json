@@ -1,42 +1,52 @@
 {
   "pattern_id": 278,
-  "pattern_page": "https://www.ravelry.com/patterns/library/under-door-two-cat-toy",
+  "pattern_page": "https://www.ravelry.com/patterns/library/texture--twist-shawl",
+  "name": "Texture & Twist Shawl",
+  "description": "Like this pattern? I volunteer at the Loose Ends Project, and I’d love it if you’d consider a small donation to help them match volunteer crafters like myself to families with unfinished projects left behind due to disability, illness or loss of a loved one!",
+  "designer": "Robbie Laughlin",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "One size",
+  "category": "Neck / Torso → Scarf Neck / Torso → Shawl / Wrap",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "One Size (Adjustable)",
   "languages": [
-    "English"
+    "English",
+    "Additional languages which are not in the download: Danish"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Herrschners Worsted Weight"
+    "Fingering (14 wpi) ?",
+    "Stitch Noir Gradient 30 Sock Set"
   ],
   "attributes": [
-    "icord",
+    "adult",
+    "bias",
+    "chart",
+    "female",
+    "lace",
+    "male",
     "one-piece",
-    "seamed",
-    "sphere-shaped",
+    "seamless",
+    "textured",
+    "top-down",
+    "triangle-shaped",
+    "twisted-stitches",
+    "unisex",
     "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The two balls are worked flat and connected by a length of i-cord, worked all in one piece Pictured toy is about 10” long. Ball ends are stuffed with polyester fiber-fill or waste yarn and a jingle bell, then sewn shut. Gauge is not important, but fabric should be firm enough to hold stuffing invisibly.",
-  "techniques": [
-    "worked flat"
-  ],
-  "shape": "sphere",
+  "full_text": "Like this pattern? I volunteer at the Loose Ends Project, and I’d love it if you’d consider a small donation to help them match volunteer crafters like myself to families with unfinished projects left behind due to disability, illness or loss of a loved one! This pattern is a collaboration with the Hamilton Fibre Forge in Ontario, Canada. It was designed to showcase the different type of yarns one might find at a small scale fibre festival - from small batch farm yarns to indie dyed gradient sets, this quick and easy pattern will work with them all! It’s a triangular shawl, knit from the top left corner and worked diagonally to the lower right edge. A simple combination of stockinette and garter stitch are accented by an interesting lace pattern and twisted stitches. This pattern includes both charts and written instructions, and features a “knit until you run out of yarn” style construction, that provides notes on sizing up. Two suggested sizes are illustrated, using two different yarns. En dansk version findes her. https://strikkeglad.dk/54743/tekstursjal/",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/people",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/comments",
-    "https://www.ravelry.com/patterns/library/stashbuster-stripe-dishcloth",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/threads",
-    "https://www.ravelry.com/patterns/library/mitred-square-butterfly-blanket",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/yarns",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy/report",
-    "https://www.ravelry.com/patterns/sources/fun-things-to-do-while-youre-waiting",
-    "https://www.ravelry.com/patterns/library/under-door-two-cat-toy",
-    "https://www.ravelry.com/patterns/library/knitted-bouncy-door-hanger-cat-toy"
-  ],
-  "name": "Ravelry: Under Door Two-Cat Toy pattern by Sheila Ralston"
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl",
+    "https://www.ravelry.com/patterns/sources/robbie-laughlins-ravelry-store",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/comments",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/report",
+    "https://www.ravelry.com/patterns/library/urban-aran-mitts",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/threads",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/yarns",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/editors",
+    "https://www.ravelry.com/patterns/library/texture--twist-shawl/people",
+    "https://www.ravelry.com/patterns/library/fading-guernsey-cowl",
+    "https://www.ravelry.com/patterns/library/fleur-de-lis-16"
+  ]
 }

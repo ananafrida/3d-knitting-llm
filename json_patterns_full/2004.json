@@ -1,34 +1,38 @@
 {
   "pattern_id": 2004,
-  "pattern_page": "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel",
-  "name": "Heart Pattern (For Sock Heel)",
-  "description": "This is a pattern that I had created for the back heel of my Heart Clog Socks. It was fun to do and thought it might be a good pattern to share. It can be used for other projects (graph included on the pattern sheet) or incorporated in projects that you are creating. Although this was created for a particular heel on a sock the graph can be used for other projects. Be creative…and have fun!",
-  "designer": "Jean Murdoch",
+  "pattern_page": "https://www.ravelry.com/patterns/library/practice-invisible-stranding",
+  "name": "Practice Invisible Stranding",
+  "description": "(Nu også på dansk, beskrivelse nedenfor)",
+  "designer": "Cita Steinmeier",
   "craft": "Knitting",
-  "category": "Components → Other",
+  "category": "Ball",
   "languages": [
+    "Danish",
     "English"
   ],
   "suggested_yarn": [
     ""
   ],
   "attributes": [
-    "chart"
+    "chart",
+    "in-the-round",
+    "stranded",
+    "stripes-colorwork",
+    "written-pattern"
   ],
-  "full_text": "This is a pattern that I had created for the back heel of my Heart Clog Socks. It was fun to do and thought it might be a good pattern to share. It can be used for other projects (graph included on the pattern sheet) or incorporated in projects that you are creating. Although this was created for a particular heel on a sock the graph can be used for other projects. Be creative…and have fun! Basic sock used on this sock is “Seduction Sock” from Knittingdaily.com… “Interweave” magazine offered this pattern free.Enjoy and have fun knitting the heart into all of your projects.",
+  "full_text": "(Nu også på dansk, beskrivelse nedenfor) Practise Invisible Stranding, by knitting a ball Invisible stranding is a great way of doing colorwork, especially if you knit motifs with long floats between. And for working up to 4 colors in same round. Easy, not a float showing through to the outside of the garment and more elastical than for instance Fair Isle (which is great if you knit socks) Yarn and needles: any as long as needle size matches yarn weight/meters pr 100 grams. you will need some kind of filling, scrap yarn, pillow filling, anything that goes with what you will do with your finished ball: to play with for kids and pets or as a hanging ornament for Christmas 3 ball patterns, 2 in stockinette + a chart to make your own versions + a more demanding ball also using structure knitting Invisible Stranding strikke-teknik : Dette er en rigtig god og ret nem teknik til flerfarve-strik med op til 4 farver ad gangen. Det er relativt nemt at få bagside-trådene lange nok, da de låses i et ”net” på bagsiden. Fordelen er også, at låste trade på bagsiden ikke titter frem på forsiden som fx i Fair Isle teknik. Strikket er også markant mere elastisk end låsning i Fair Isle, hvilket gør teknikken velegnet til sokker – altså: man behøver ikke tilføje så mange extra masker, for at kunne få hæl og vrist igennem sokken. Teknikken er oplagt til hele omgange med langt mellem at en farve bruges, men bryder man sig fx ikke om at have bagside-nettet i hælen, under sålen og i tåen, kan disse dele strikkes i Fair Isle. Du kan læse om teknikken og øve dig i den ved at strikke en lille bold: der er 3 diagrammer i hver sin sværhedsgrad, samt et “tomt”, dvs du tegner dit eget mønster ind",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cross-pattern-socks",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/report",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/posts",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/yarns",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/comments",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/editors",
-    "https://www.ravelry.com/patterns/sources/byhandbyjean-designs",
-    "https://www.ravelry.com/patterns/library/short-sports-socks",
-    "https://www.ravelry.com/patterns/library/cuffed-twisted-cable-fingerless-mitts",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel",
-    "https://www.ravelry.com/patterns/library/heart-pattern-for-sock-heel/people"
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/people",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/editors",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/report",
+    "https://www.ravelry.com/patterns/library/ukraine-kringsatt-av-fiender",
+    "https://www.ravelry.com/patterns/library/hyrde-sokker",
+    "https://www.ravelry.com/patterns/sources/citas-sockkerier",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/comments",
+    "https://www.ravelry.com/patterns/library/from-heart-to-heart-socks",
+    "https://www.ravelry.com/patterns/library/practice-invisible-stranding/yarns"
   ]
 }

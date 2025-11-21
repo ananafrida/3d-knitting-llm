@@ -1,36 +1,38 @@
 {
   "pattern_id": 555,
-  "pattern_page": "https://www.ravelry.com/patterns/library/triss-baby-blanket",
-  "name": "Triss baby blanket",
-  "description": "",
-  "designer": "Agnieszka Wojtkowiak",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets",
   "craft": "Knitting",
-  "category": "Blanket → Baby Blanket",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Containers",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "small basket",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "we are knitters The Cotton"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "stripes-colorwork"
+    "one-piece",
+    "seamed",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "",
+  "full_text": "Such a simple little pattern! Why not give these as sweet little Easter gifts? DK (8ply) yarn 4mm needles Fill them with chocolate mini eggs - sure to be loved! Decorate as desired Easy to follow instructions. To get this free pattern please click on the https link just below ↓",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/tymek-baby-cardigan",
-    "https://www.ravelry.com/patterns/library/lane-cadigan",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/report",
-    "https://www.ravelry.com/patterns/sources/crepleknits",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/people",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/threads",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/editors",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/comments",
-    "https://www.ravelry.com/patterns/library/mia-cardigan-4",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket/yarns",
-    "https://www.ravelry.com/patterns/library/triss-baby-blanket"
-  ]
+    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/report",
+    "https://www.ravelry.com/patterns/sources/mariannas-lazy-daisy-days",
+    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/threads",
+    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/editors",
+    "https://www.ravelry.com/patterns/library/mariannas-mini-gift-purses---knit",
+    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-baby-nest",
+    "https://www.ravelry.com/patterns/library/freya-baby-hat",
+    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/comments",
+    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets",
+    "https://www.ravelry.com/patterns/library/sweet-little-easter-baskets/people"
+  ],
+  "name": "Ravelry: Sweet Little Easter Baskets pattern by marianna mel"
 }

@@ -1,38 +1,41 @@
 {
   "pattern_id": 276,
-  "pattern_page": "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy",
-  "name": "Jingle Fish - Cat Toy",
-  "description": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need!",
-  "designer": "Dooley and Spud",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-tassels",
   "craft": "Knitting",
-  "category": "Pet → Toys",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "One Size Only",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Berroco Ultra Alpaca Light",
-    "Sport (12 wpi) ?"
+    "Light Fingering ?",
+    "Qing Fibre Merino Single"
   ],
   "attributes": [
-    "in-the-round",
-    "phototutorial",
+    "one-piece",
+    "seamless",
+    "triangle-shaped",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "A cute little cat toy pattern that has a bell ball inside for extra playtime fun. A quick and easy project, a great first knitted toy project for beginners. Consider making one for a kitty in need! Basic Skills Necessary: •knit (knit) •knit front and back (kfb) •knit two together (k2tog) •slip slip knit (ssk) Feel free to sell any of the Jingle Fish you make yourself, but please do not distribute this pattern without my permission. Purchase the full set of Jingle Animals - Cat Toys here: http://www.ravelry.com/patterns/library/jingle-animals---...",
+  "full_text": "Perfect one skein project. Skills required This pattern is a beginner/ intermediate knitting project. Size One size fits all adults Loop London often has beautiful kits for this project, which includes all of the yarn you need for the MC as well as the tassels, a printed version of the pattern, and a Loop cotton bag.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/people",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/report",
-    "https://www.ravelry.com/patterns/library/jingle-mouse---cat-toy",
-    "https://www.ravelry.com/patterns/library/jingle-bird---cat-toy",
-    "https://www.ravelry.com/patterns/sources/dooley-and-spud",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/threads",
-    "http://www.ravelry.com/patterns/library/jingle-animals---cat-toys",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/editors",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/yarns",
-    "https://www.ravelry.com/patterns/library/jingle-fish---cat-toy/comments"
-  ]
+    "https://www.ravelry.com/patterns/library/tiny-tassels/report",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/editors",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/threads",
+    "https://www.ravelry.com/patterns/sources/loop-london",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-tassels",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/people",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/posts",
+    "https://www.ravelry.com/patterns/sources/karin-fernandes-ravelry-store",
+    "https://www.ravelry.com/patterns/library/eclair-3",
+    "https://www.ravelry.com/patterns/library/soho-orchid",
+    "https://www.ravelry.com/patterns/library/inovec",
+    "https://www.ravelry.com/patterns/library/tiny-tassels/comments"
+  ],
+  "name": "Ravelry: Tiny Tassels pattern by Karin Fernandes"
 }

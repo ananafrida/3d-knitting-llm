@@ -1,36 +1,39 @@
 {
   "pattern_id": 1182,
-  "pattern_page": "https://www.ravelry.com/patterns/library/andreas-knuddel-doll",
-  "name": "Andrea's Knuddel-Doll",
-  "description": "Die Knuddel-Doll ist das ideale Projekt, um bunte Sockenwoll-Reste ab 5 bzw. 10 g zu verarbeiten.",
-  "designer": "Andrea Baron",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knit-elbow-patches",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "Small (Medium, Large)",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Fingering (14 wpi) ?",
-    "Zwerger Garn Opal 4-fach | 4-ply"
+    "Light Fingering ?",
+    "Purl Soho Line Weight"
   ],
   "attributes": [
-    "in-the-round",
-    "top-down"
+    "phototutorial",
+    "short-rows",
+    "textured",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "The cuddly doll is the ideal project for using colorful sock yarn leftovers weighing 5 or 10 g or more. It is expressly desired that the dolls also be knitted for charitable purposes... that is exactly why the instructions were created. Have lots of fun with it!",
+  "full_text": "MATERIALS To make 1 pair of Elbow Patches… 1 skein of Purl Soho’s Line Weight , 100% merino. Each skein is 494 yards/ 100 grams; approximately 65 (98, 130) yards required (1 skein will make 7 5, 4 pairs.) US 4 (3.5 mm) straight or circular knitting needles Straight pins (for securing patch before sewing it on garment) A ball point needle or fine tapestry needle (for sewing patches to garment) GAUGE 6 ½ stitches and 12 rows = 1 inch in garter stitch, with yarn doubled SIZES Small (Medium, Large) FINISHED DIMENSIONS 3 (3½ , 4) inches wide by 4½ (5¼ , 6) inches long For the yarn used in this project, see: https://www.purlsoho.com/line-weight.html",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/people",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/editors",
-    "https://www.ravelry.com/patterns/library/andreas-protea",
-    "https://www.ravelry.com/patterns/library/andreas-bambusa",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/yarns",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/report",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll",
-    "https://www.ravelry.com/patterns/library/andreas-herbaria",
-    "https://www.ravelry.com/patterns/sources/andrea-barons-ravelry-store",
-    "https://www.ravelry.com/patterns/library/andreas-knuddel-doll/comments"
-  ]
+    "https://www.ravelry.com/patterns/library/knit-elbow-patches/comments",
+    "https://www.ravelry.com/patterns/library/top-knot-baby-hat-4",
+    "https://www.ravelry.com/patterns/library/knit-elbow-patches/report",
+    "https://www.ravelry.com/patterns/library/knit-elbow-patches/people",
+    "https://www.ravelry.com/patterns/library/knit-elbow-patches/yarns",
+    "https://www.ravelry.com/patterns/library/charm-blanket",
+    "https://www.ravelry.com/patterns/library/knit-elbow-patches",
+    "https://www.ravelry.com/patterns/library/knit-elbow-patches/threads",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/knit-elbow-patches/editors",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
+  ],
+  "name": "Ravelry: Knit Elbow Patches pattern by Purl Soho"
 }

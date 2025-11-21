@@ -1,37 +1,36 @@
 {
   "pattern_id": 1859,
-  "pattern_page": "https://www.ravelry.com/patterns/library/grocery-bag-caddy",
-  "name": "Grocery Bag Caddy",
-  "description": "Sample shown in dishcloth cotton.",
-  "designer": "Susan Carnegie",
+  "pattern_page": "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol",
+  "name": "Cabled Triple Moon Symbol",
+  "description": "The pagan/Wiccan Triple Moon Goddess symbol s a cabled knit.",
+  "designer": "corvus corone corone",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "category": "Components → Other",
+  "languages": [
+    "English"
+  ],
   "suggested_yarn": [
-    "",
-    "Worsted (9 wpi) ?"
+    "Lana Grossa Evento"
   ],
   "attributes": [
-    "in-the-round",
-    "mesh",
-    "one-piece",
-    "ribbed",
-    "seamless",
+    "cables",
+    "motifs",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Sample shown in dishcloth cotton. I had been thinking about this grocery bag caddy for a while, inspired by a sleeve, and my love of market bags. The bag caddy I had previously was made of fabric, and the plastic grocery bags were always falling out the end. I figured if I made what was essentially a sleeve, with ribbing at both ends and market bag mesh in the middle, it would solve the problem of getting the bags in to the top (stretchy ribbing) holding them in at the bottom (again, stretchy ribbing), and holding a bunch of bags (stretchy mesh middle).",
+  "full_text": "The pagan/Wiccan Triple Moon Goddess symbol s a cabled knit. I love that symbol!",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/people",
-    "https://www.ravelry.com/patterns/library/lets-do-lunch-bag",
-    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/editors",
-    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/comments",
-    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/threads",
-    "https://www.ravelry.com/patterns/library/jackies-goodie-bag",
-    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/yarns",
-    "https://www.ravelry.com/patterns/library/grocery-bag-caddy",
-    "https://www.ravelry.com/patterns/library/grocery-bag-caddy/report",
-    "https://www.ravelry.com/patterns/sources/carknitgiehaul"
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/yarns",
+    "https://www.ravelry.com/patterns/library/sitting-crow-chart",
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/report",
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/people",
+    "https://www.ravelry.com/patterns/library/flying-raven-chart",
+    "https://www.ravelry.com/patterns/library/cabled-stag---cernunnos",
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/editors",
+    "https://www.ravelry.com/patterns/sources/corvus-corone-corones-ravelry-store",
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol",
+    "https://www.ravelry.com/patterns/library/cabled-triple-moon-symbol/comments"
   ]
 }

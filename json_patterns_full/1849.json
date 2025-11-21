@@ -1,38 +1,37 @@
 {
   "pattern_id": 1849,
-  "pattern_page": "https://www.ravelry.com/patterns/library/chunky-knit-basket",
-  "name": "Chunky Knit Basket",
-  "description": "This Simple Knit Basket Pattern Is A Great Beginner Friendly Project. With Bulky Yarn, Large Needles, And Simple Stitching, You Can Get Near Instant Gratification, Plus A Fun New Piece Of Decor!",
-  "designer": "Angie Cruise",
+  "pattern_page": "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel",
+  "name": "Sock tube modified afterthought heel",
+  "description": "How I modified an afterthought heel for a better fit.",
+  "designer": "Nathalie Fournier",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
+  "category": "Components → Other",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "sizes_available": "64 stitch sock tube",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Lion Brand Wool Ease Thick & Quick",
-    "Super Bulky (5-6 wpi) ?"
+    "Patons North America Kroy Socks",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "written-pattern"
+    "afterthought-heel",
+    "gusset",
+    "kitchener",
+    "short-rows"
   ],
-  "full_text": "This Simple Knit Basket Pattern Is A Great Beginner Friendly Project. With Bulky Yarn, Large Needles, And Simple Stitching, You Can Get Near Instant Gratification, Plus A Fun New Piece Of Decor!",
+  "full_text": "How I modified an afterthought heel for a better fit.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.angiecruise.com/knit-basket-pattern-free/",
-    "https://www.ravelry.com/patterns/library/chunky-knit-basket/yarns",
-    "https://www.ravelry.com/patterns/library/chunky-knit-basket/comments",
-    "https://www.ravelry.com/patterns/library/newborn-shell-beanie",
-    "https://www.ravelry.com/patterns/sources/angie-cruises-ravelry-store",
-    "https://www.ravelry.com/patterns/library/chunky-knit-basket/report",
-    "https://www.ravelry.com/patterns/library/chunky-knit-basket",
-    "https://www.ravelry.com/patterns/sources/angie-cruise-blog",
-    "https://www.ravelry.com/patterns/library/chunky-knit-basket/editors",
-    "https://www.ravelry.com/patterns/library/chunky-knit-basket/people",
-    "https://www.ravelry.com/patterns/library/chunky-knit-basket/posts",
-    "https://www.ravelry.com/patterns/library/jester-hat-with-pom-poms",
-    "https://www.ravelry.com/patterns/library/crochet-newsboy-beanie-with-flower"
+    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/people",
+    "https://www.ravelry.com/patterns/library/textured-bath-mitt-2",
+    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/comments",
+    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/report",
+    "https://www.ravelry.com/patterns/sources/nathalie-fourniers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/editors",
+    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel",
+    "https://www.ravelry.com/patterns/library/sock-tube-modified-afterthought-heel/yarns"
   ]
 }

@@ -1,38 +1,38 @@
 {
   "pattern_id": 717,
-  "pattern_page": "https://www.ravelry.com/patterns/library/holiday-elf",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes",
+  "name": "Knitted balls and cubes",
+  "description": "With their soft edges, these knitted geometric shapes can be used for throw-and-catch games. You could also add spots to the cube shapes to make dice.",
+  "designer": "Kath Dalmeny",
   "craft": "Knitting",
-  "category": "Hat → Pixie",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "up to 17\" (baby)",
+  "category": "Ball Blocks",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?",
-    "Jones & Vandermeer Clever Camel"
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "stripes-colorwork",
-    "unisex"
+    "3-dimensional",
+    "cube-shaped",
+    "sphere-shaped",
+    "written-pattern"
   ],
-  "full_text": "holiday elf hat is a stripey and pointy hat, knit out of clever camel. This quick and speedy knit is designed to instantaneously transform baby into santa’s little helper.",
+  "full_text": "With their soft edges, these knitted geometric shapes can be used for throw-and-catch games. You could also add spots to the cube shapes to make dice. A donation from sales of the ball and cubes knitting patterns is made to the charity Sustain, which runs the Children’s Food Campaign to help improve children’s health, and their knowledge, understanding and enjoyment of good food, see: www.childrensfoodcampaign.org.uk",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/holiday-elf/comments",
-    "https://www.ravelry.com/patterns/library/bounce-5",
-    "https://www.ravelry.com/patterns/library/holiday-elf/yarns",
-    "https://www.ravelry.com/patterns/library/nathan-3",
-    "https://www.ravelry.com/patterns/library/holiday-elf/threads",
-    "https://www.ravelry.com/patterns/library/alice-15",
-    "https://www.ravelry.com/patterns/sources/cabinet-for-the-curious",
-    "https://www.ravelry.com/patterns/library/holiday-elf/people",
-    "https://www.ravelry.com/patterns/library/holiday-elf/editors",
-    "https://www.ravelry.com/patterns/library/holiday-elf",
-    "https://www.ravelry.com/patterns/library/holiday-elf/posts",
-    "https://www.ravelry.com/patterns/library/holiday-elf/report"
-  ],
-  "name": "Ravelry: holiday elf pattern by Jones & Vandermeer"
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/threads",
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/comments",
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/yarns",
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes",
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/report",
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/editors",
+    "https://www.ravelry.com/patterns/library/knitted-balls-and-cubes/people",
+    "https://www.ravelry.com/patterns/library/tiger-cub",
+    "https://www.ravelry.com/patterns/sources/kath-dalmenys-ravelry-store",
+    "https://www.ravelry.com/patterns/library/elephant",
+    "https://www.ravelry.com/patterns/library/panda"
+  ]
 }

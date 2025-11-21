@@ -1,37 +1,39 @@
 {
   "pattern_id": 234,
-  "pattern_page": "https://www.ravelry.com/patterns/library/fry-up-bag",
+  "pattern_page": "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era",
+  "name": "Easy Does It Cabled Era",
+  "description": "Our October Makers’ League project takes an old favorite into a new era…",
+  "designer": "Jeri Grotberg",
   "craft": "Knitting",
-  "category": "Bag → Purse / Handbag",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "one size, round handbag",
+  "category": "Neck / Torso → Scarf",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "One Size 95\" wide x 14\" deep",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Sirdar Double Crepe",
-    "Sport (12 wpi) ?"
+    "DK (11 wpi) ?",
+    "Mirasol Yarn Chusku"
   ],
   "attributes": [
-    "circle-shaped",
-    "seamed",
-    "textured",
-    "written-pattern"
+    "cables",
+    "one-piece",
+    "sideways",
+    "worked-flat"
   ],
-  "full_text": "Pattern originally posted on Cult 45 bookshop ; found on Wayback Machine internet archives. Note that the pattern is still under copyright; obtain a copy of the magazine before knitting. From the pattern: \"WOOL: 3 (40g) balls of Sirdar Double Crepe in Lemon about 350 yards , oddments of DK in beige, brown, pink, white, yellow and green. PLUS: A 15cm nylon zip.\"",
+  "full_text": "Our October Makers’ League project takes an old favorite into a new era… It’s Easy Does It - Cabled Era! Jeri designed this pattern with a beautiful cable twist up each side. The same easy garter stitch in between. :) I mean, look at that stitch definition! We used a brand-new yarn - Mirasol Chusku. It’s 100% nonsuperwash Corriedale, and everything you could want in a yarn. Beautiful colors, ethically sourced, and outstanding stitch definition. Fun fact: Chusku means “cross-breed” - Corriedale sheep were created by crossing a Lincoln Long-haired sheep with a Merino sheep. Who knew? We LOVE. We know you will too. :) Find the kits here.",
   "techniques": [],
-  "shape": "sphere",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/fry-up-bag/yarns",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/edit",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/editors",
-    "https://www.ravelry.com/patterns/sources/jackie-annual-1979",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/comments",
-    "https://www.ravelry.com/patterns/library/fry-up-bag",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/people",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/report",
-    "https://www.ravelry.com/patterns/library/fry-up-bag/threads"
-  ],
-  "name": "Ravelry: Fry Up! (Bag) pattern by Jackie Magazine"
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era",
+    "https://www.ravelry.com/patterns/library/just-keep-swimming-cowl-2",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/comments",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/edit",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/editors",
+    "https://www.ravelry.com/patterns/library/its-just-a-crochet-basket",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/report",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/people",
+    "https://www.ravelry.com/patterns/sources/darn-knit-anyway",
+    "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era/yarns"
+  ]
 }

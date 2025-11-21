@@ -1,40 +1,40 @@
 {
   "pattern_id": 1137,
-  "pattern_page": "https://www.ravelry.com/patterns/library/star-spangled-gnome",
-  "name": "Star Spangled Gnome",
-  "description": "Make 4th of July a blast with a Pom Pom Gnome who is dressed in its best red, white, and blue! Star Spangled Gnome was designed to celebrate 4th of July, but can also make a great addition to a Memorial Day, Flag Day, President’s Day, or Veteran’s Day celebration. Star Spangled Gnome loves sitting on desks as much as it loves a barbecue centerpiece.",
-  "designer": "Billy and Baa",
+  "pattern_page": "https://www.ravelry.com/patterns/library/haft-knot",
+  "name": "Haft Knot",
+  "description": "Overview",
+  "designer": "Elyse Yeager",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Decorative → Doily Applique / Embellishment",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Ewe Ewe Yarns Wooly Worsted"
+    "Sport (12 wpi) ?",
+    "Plassard Gagnante"
   ],
   "attributes": [
-    "icord",
-    "in-the-round",
-    "stranded",
+    "lace",
+    "seamed",
+    "square",
     "stripes-colorwork",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "Make 4th of July a blast with a Pom Pom Gnome who is dressed in its best red, white, and blue! Star Spangled Gnome was designed to celebrate 4th of July, but can also make a great addition to a Memorial Day, Flag Day, President’s Day, or Veteran’s Day celebration. Star Spangled Gnome loves sitting on desks as much as it loves a barbecue centerpiece. This free knitting pattern includes instructions for the knitted hat, pom pom, i-cord legs, and assembly. A link to download the pattern will be emailed to you after you check out. Sample shown in Ewe Ewe Yarn Wooly Worsted in Sapphire, Red Poppy, and Vanilla. See the pattern on www.billyandbaa.com . MATERIALS NEEDED worsted weight yarn in three colors - 10y (9m) in blue, 25y (23m) in red, 60y (55m) in white. US 3 (3.25 mm) Double Point Needles 4” diameter pom pom maker Scrap yarn Scissors 3 stitch markers Small amount of stuffing hot glue scissors Wooden Gnome Nose",
+  "full_text": "Overview This pattern creates a knot based on a 9th century Celtic artifact I saw in the British Museum in London. The knot consists of four long strands, knit separately and woven together, then secured by sewing. The strands have the appropriate points and curves built in. Requirements Gauge Absolute gauge isn’t important, but relative gauge is. Working in garter stitch, your stitches should be about half as tall as they are wide. So, to make a square (length and height equal), you should need about twice as many rows as you have stitches. The size of the finished piece is roughly equivalent to 110 stitches on each side. (So, if a 10-stitch swatch is 3 cm wide, then your finished square will be about 33 cm wide.) Yardage The exemplar used about 2.5 skeins of the main color and 1.5 skeins of the contrast color, in Plassard Gagnante yarn. For a sport weight yarn, I’d say to budget about 400 meters of the main color, and 200 meters of the contrast color. Needles You’ll have to hold about 500 stitches on your needles, so long circulars are the way to go. I used 2.5 mm, 36” circulars. Markers The pattern uses running stitch markers -- scraps of yarn with labels taped to them. Other Hardware You’ll need a crochet hook for the chain cast-on, and a tapestry needle for sewing the finished piece into place. Safety pins are also very handy for holding it together. Expertise This pattern should be accessible to intermediate-level knitters. It is not recommended for beginners (but you do you!) Time The exemplar pictured took about 15 hours to make. Other notes The object described in this pattern is firmly in the “decorative’’ category, rather than “functional.’’ Don’t expect it to act like other doilies, which can be tossed with relative ease onto a tabletop and look fine. It has long strands that can flap around and fold in unintended ways, and it takes some fussing to get everything looking tidy. If you want to use it for something, I strongly recommend sewing it to a backing. It would look cute stitched to a blanket, for example. Easier Version If you want to make a knot that’s not quite this involved, you might try this knitted sampler knot . That pattern is much smaller, and the resulting knot is much better behaved (that is, you can toss it on a table as a doily and it will look the way it does in the pictures).",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome",
-    "https://www.ravelry.com/patterns/library/pom-pom-gnome",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/comments",
-    "https://www.ravelry.com/patterns/sources/billy-and-baa-on-ravelry",
-    "https://www.ravelry.com/patterns/sources/billy-and-baa",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/yarns",
-    "https://www.ravelry.com/patterns/library/pin-pennant",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/editors",
-    "https://www.ravelry.com/patterns/library/sweater-on-the-elf",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/report",
-    "https://www.ravelry.com/patterns/library/star-spangled-gnome/people"
+    "https://www.ravelry.com/patterns/library/celtic-knot-scarf-6",
+    "https://www.ravelry.com/patterns/library/haft-knot/editors",
+    "https://www.ravelry.com/patterns/library/sampler-knot",
+    "https://www.ravelry.com/patterns/library/haft-knot",
+    "https://www.ravelry.com/patterns/library/haft-knot/comments",
+    "https://www.ravelry.com/patterns/library/knitted-sampler-knot",
+    "https://www.ravelry.com/patterns/library/haft-knot/yarns",
+    "https://www.ravelry.com/patterns/library/haft-knot/report",
+    "https://www.ravelry.com/patterns/sources/elyse-yeagers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/haft-knot/people"
   ]
 }

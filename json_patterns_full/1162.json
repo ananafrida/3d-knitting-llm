@@ -1,37 +1,36 @@
 {
   "pattern_id": 1162,
-  "pattern_page": "https://www.ravelry.com/patterns/library/snowpeeps",
-  "name": "Snowpeeps",
-  "description": "NOTES",
-  "designer": "baygirlknits designs",
+  "pattern_page": "https://www.ravelry.com/patterns/library/tiny-icord-snail",
+  "name": "Tiny Icord Snail",
+  "description": "Tiny snail made from icord. Great for using up left over yarn from other projects.",
+  "designer": "Kay Bee",
   "craft": "Knitting",
-  "category": "Softies → Doll",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
+  "sizes_available": "One size",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Any worsted weight"
+    "Patons North America Kroy 4 Ply",
+    "Sport (12 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "in-the-round",
-    "one-piece",
-    "seamless"
+    "icord"
   ],
-  "full_text": "NOTES -When knitting very small versions of this pattern it is much easier to use a left leaning decrease such as k2tbl, ssk, or skp than k2t. -Having just finished one for an upcoming craft sale, I have also discovered that a one-knot french knot makes a smaller, neater eye. -Scarf option: make a foundation chain 50 chains long. Tie each end in a knot. Instant scarf! -See “Icy” in my projects for an example of the above modifications.",
+  "full_text": "Tiny snail made from icord. Great for using up left over yarn from other projects. You need: Light grey sport weight yarn (I used Patons Kroy yarn) Sport weight yarn in a colour of your choice (I used Patons Kroy) 2.25 mm double pointed knitting needles",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/snowpeeps/threads",
-    "https://www.ravelry.com/patterns/sources/baygirlknits",
-    "https://www.ravelry.com/patterns/library/anns-market-bag",
-    "https://www.ravelry.com/patterns/library/snowpeeps/comments",
-    "https://www.ravelry.com/patterns/library/snowpeeps/editors",
-    "https://www.ravelry.com/patterns/library/snowpeeps/yarns",
-    "https://www.ravelry.com/patterns/library/susans-star",
-    "https://www.ravelry.com/patterns/library/snowpeeps",
-    "https://www.ravelry.com/patterns/library/snowpeeps/people",
-    "https://www.ravelry.com/patterns/library/easy-beginner-socks",
-    "https://www.ravelry.com/patterns/library/snowpeeps/report"
+    "https://www.ravelry.com/patterns/library/little-cat-things",
+    "https://www.ravelry.com/patterns/sources/kay-bees-ravelry-store",
+    "https://www.ravelry.com/patterns/library/tiny-icord-snail/report",
+    "https://www.ravelry.com/patterns/library/tiny-icord-snail/editors",
+    "https://www.ravelry.com/patterns/library/scrunchies-15",
+    "https://www.ravelry.com/patterns/library/tiny-icord-snail/yarns",
+    "https://www.ravelry.com/patterns/library/tiny-icord-snail",
+    "https://www.ravelry.com/patterns/library/christmas-present-4",
+    "https://www.ravelry.com/patterns/library/tiny-icord-snail/people",
+    "https://www.ravelry.com/patterns/library/tiny-icord-snail/comments"
   ]
 }

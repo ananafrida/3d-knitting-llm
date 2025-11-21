@@ -1,44 +1,40 @@
 {
   "pattern_id": 1858,
-  "pattern_page": "https://www.ravelry.com/patterns/library/lace-stocking-gift-card-holder",
-  "name": "Lace Stocking Gift Card Holder",
-  "description": "This is a simple lace edged mini-sock pattern. The finished item is the perfect size for a gift card or small treat, and would also make an adorable ornament or gift decoration.",
-  "designer": "Lori Emmitt",
+  "pattern_page": "https://www.ravelry.com/patterns/library/handle-for-brea-bag",
+  "name": "Handle for Brea Bag",
+  "description": "This is a knitted handle I designed for the Brea Bag. It would look great with lots of other bags as well! It is also in the pictures on my Brea Bag project page.",
+  "designer": "Jessamyn Leigh",
   "craft": "Knitting",
-  "category": "Containers Decorative → Hanging Ornament Decorative → Christmas Stocking",
-  "needle_size": "US 5 (3.75 mm), US 5 (3.75 mm)",
-  "sizes_available": "one size",
+  "category": "Components → Other",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Rowan Felted Tweed"
+    "Festival Mix Fiber",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "heel-flap",
-    "lace-edging",
-    "newborn-size",
-    "other-colorwork",
-    "star-toe",
-    "top-down",
-    "unisex",
+    "cables",
+    "one-piece",
+    "twisted-stitches",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "This is a simple lace edged mini-sock pattern. The finished item is the perfect size for a gift card or small treat, and would also make an adorable ornament or gift decoration. Please feel free to use any KWDreamer Designs pattern to make items to sell or donate (as well as items for your personal use). We only request that you credit KWDreamer Designs as the original creator: http://www.ravelry.com/patterns/sources/kwdreamer-designs... .",
+  "full_text": "This is a knitted handle I designed for the Brea Bag . It would look great with lots of other bags as well! It is also in the pictures on my Brea Bag project page.",
   "techniques": [],
-  "shape": "cylinder",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/textured-scarf-17",
-    "https://www.ravelry.com/patterns/library/lace-stocking-gift-card-holder/people",
-    "https://www.ravelry.com/patterns/library/lace-stocking-gift-card-holder/comments",
-    "https://www.ravelry.com/patterns/library/lace-stocking-gift-card-holder/editors",
-    "https://www.ravelry.com/patterns/library/lace-stocking-gift-card-holder/yarns",
-    "https://www.ravelry.com/patterns/library/lace-stocking-gift-card-holder/report",
-    "http://www.ravelry.com/patterns/sources/kwdreamer-designs/patterns",
-    "https://www.ravelry.com/patterns/library/lace-stocking-gift-card-holder",
-    "https://www.ravelry.com/patterns/library/crazygan",
-    "https://www.ravelry.com/patterns/library/garter-stocking-gift-card-holder",
-    "https://www.ravelry.com/patterns/sources/kwdreamer-designs"
+    "https://www.ravelry.com/patterns/library/handle-for-brea-bag/yarns",
+    "https://www.ravelry.com/patterns/library/slouchy-seed-stitch-hat",
+    "https://www.ravelry.com/patterns/library/handle-for-brea-bag/report",
+    "https://www.ravelry.com/patterns/library/handle-for-brea-bag/editors",
+    "http://www.ravelry.com/patterns/library/brea-bag",
+    "https://www.ravelry.com/patterns/library/slouchy-lace-hat-2",
+    "https://www.ravelry.com/patterns/library/handle-for-brea-bag",
+    "https://www.ravelry.com/patterns/library/handle-for-brea-bag/people",
+    "https://www.ravelry.com/patterns/library/pumpkin-patch-kid",
+    "https://www.ravelry.com/patterns/library/handle-for-brea-bag/comments",
+    "https://www.ravelry.com/patterns/sources/jessamyns-ravelry-downloads"
   ]
 }

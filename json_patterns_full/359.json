@@ -1,50 +1,40 @@
 {
   "pattern_id": 359,
-  "pattern_page": "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood",
+  "pattern_page": "https://www.ravelry.com/patterns/library/star-spangled-gnome",
+  "name": "Star Spangled Gnome",
+  "description": "Make 4th of July a blast with a Pom Pom Gnome who is dressed in its best red, white, and blue! Star Spangled Gnome was designed to celebrate 4th of July, but can also make a great addition to a Memorial Day, Flag Day, President’s Day, or Veteran’s Day celebration. Star Spangled Gnome loves sitting on desks as much as it loves a barbecue centerpiece.",
+  "designer": "Billy and Baa",
   "craft": "Knitting",
-  "category": "Coat / Jacket",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "6, 12, 18, 24 months",
+  "category": "Softies → Doll",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Bernat Forever Fleece Finest",
-    "Worsted (9 wpi) ?"
+    "Ewe Ewe Yarns Wooly Worsted",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "baby",
-    "buttoned",
-    "hood",
+    "icord",
     "in-the-round",
-    "long-sleeve",
-    "one-piece",
-    "schematic",
-    "seamless",
-    "tassel",
-    "toddler",
-    "top-down",
-    "unisex",
-    "worked-flat",
+    "stranded",
+    "stripes-colorwork",
     "written-pattern"
   ],
-  "full_text": "Make a seamless knit jacket for your active little toddler. Knit top-down and featuring the beautifully soft and fleecy texture of Bernat Forever Fleece Finest, the hood is picked up along the neck edge and shaped as you knit. Practice knit, knit 2 together, slip slip knit, and increase techniques. Available in 6-24 month sizes, this pattern makes a great first garment project. MATERIALS Bernat® Forever Fleece Finest™ (9.9 oz/280 g; 888 yds/812 m) Sizes 6 12 18 24 mos Aqua Heather (18001) 1 1 1 1 ball Finished chest 6 mos 20” 51 cm 12 mos 22” 56 cm 18 mos 23” 58.5 cm 24 mos 25” 63.5 cm",
-  "techniques": [
-    "top-down"
-  ],
-  "shape": "sphere",
+  "full_text": "Make 4th of July a blast with a Pom Pom Gnome who is dressed in its best red, white, and blue! Star Spangled Gnome was designed to celebrate 4th of July, but can also make a great addition to a Memorial Day, Flag Day, President’s Day, or Veteran’s Day celebration. Star Spangled Gnome loves sitting on desks as much as it loves a barbecue centerpiece. This free knitting pattern includes instructions for the knitted hat, pom pom, i-cord legs, and assembly. A link to download the pattern will be emailed to you after you check out. Sample shown in Ewe Ewe Yarn Wooly Worsted in Sapphire, Red Poppy, and Vanilla. See the pattern on www.billyandbaa.com . MATERIALS NEEDED worsted weight yarn in three colors - 10y (9m) in blue, 25y (23m) in red, 60y (55m) in white. US 3 (3.25 mm) Double Point Needles 4” diameter pom pom maker Scrap yarn Scissors 3 stitch markers Small amount of stuffing hot glue scissors Wooden Gnome Nose",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/editors",
-    "https://www.ravelry.com/patterns/library/granny-goes-random-blanket",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/people",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/comments",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/report",
-    "https://www.ravelry.com/patterns/periodicals/spinrite",
-    "https://www.ravelry.com/patterns/library/daisy-do-dishcloth",
-    "https://www.ravelry.com/patterns/sources/yarnspirations-2",
-    "https://www.ravelry.com/patterns/library/top-down-jacket-with-hood/yarns",
-    "https://www.ravelry.com/patterns/library/slip-knit-socks"
-  ],
-  "name": "Ravelry: Top Down Jacket with Hood pattern by Yarnspirations Design Studio"
+    "https://www.ravelry.com/patterns/library/pom-pom-gnome",
+    "https://www.ravelry.com/patterns/sources/billy-and-baa",
+    "https://www.ravelry.com/patterns/library/pin-pennant",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/report",
+    "https://www.ravelry.com/patterns/sources/billy-and-baa-on-ravelry",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome",
+    "https://www.ravelry.com/patterns/library/sweater-on-the-elf",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/editors",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/people",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/yarns",
+    "https://www.ravelry.com/patterns/library/star-spangled-gnome/comments"
+  ]
 }

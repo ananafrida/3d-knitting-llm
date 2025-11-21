@@ -1,41 +1,36 @@
 {
   "pattern_id": 1475,
-  "pattern_page": "https://www.ravelry.com/patterns/library/merry-little-heart",
-  "name": "Merry Little Heart",
-  "description": "This is a miniature version of Rustic Little Heart, and would make a cute Christmas tree ornament. It uses a very small amount of DK or Sport weight yarn. Any other yarn weight may be used, but may affect resulting size.",
-  "designer": "Heidi Kirrmaier",
+  "pattern_page": "https://www.ravelry.com/patterns/library/glitter-purse-bag",
   "craft": "Knitting",
-  "category": "Decorative → Hanging Ornament",
-  "needle_size": "US 1 (2.25 mm), US 1 (2.25 mm)",
-  "sizes_available": "4.5 cm tall x 5.5 cm wide",
+  "category": "Bag → Purse / Handbag",
+  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Rauma 3 tråds Strikkegarn",
-    "DK (11 wpi) ?"
+    "So Crafty Tinsel",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
     "bottom-up",
-    "one-piece",
-    "seamless",
-    "worked-flat"
+    "seamed",
+    "worked-flat",
+    "written-pattern"
   ],
-  "full_text": "This is a miniature version of Rustic Little Heart , and would make a cute Christmas tree ornament. It uses a very small amount of DK or Sport weight yarn. Any other yarn weight may be used, but may affect resulting size. It is knit from the bottom point up. Once the center diamond is complete, a semi circle is worked on each side of the top to complete the shape. Enjoy!",
+  "full_text": "Easy to make purse bag which can simply adapted to other similar yarns. Knitted in garter stitch throughout. For a longer handle add more rows. Measures approx 14cmx14 cm",
   "techniques": [],
-  "shape": "cone",
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/merry-little-heart/yarns",
-    "https://www.ravelry.com/patterns/library/spacetime",
-    "https://www.ravelry.com/patterns/library/merry-little-heart/comments",
-    "https://www.ravelry.com/patterns/library/merry-little-heart/editors",
-    "https://www.ravelry.com/patterns/library/ursa-minor",
-    "https://www.ravelry.com/patterns/sources/heidi-kirrmaiers-ravelry-shop",
-    "https://www.ravelry.com/patterns/library/space-tank",
-    "https://www.ravelry.com/patterns/library/rustic-little-heart",
-    "https://www.ravelry.com/patterns/library/merry-little-heart/threads",
-    "https://www.ravelry.com/patterns/library/merry-little-heart/report",
-    "https://www.ravelry.com/patterns/library/merry-little-heart",
-    "https://www.ravelry.com/patterns/library/merry-little-heart/people"
-  ]
+    "https://www.ravelry.com/patterns/library/glitter-purse-bag/report",
+    "https://www.ravelry.com/patterns/library/monster-high-mustard-dress",
+    "https://www.ravelry.com/patterns/library/glitter-purse-bag/comments",
+    "https://www.ravelry.com/patterns/library/glitter-purse-bag/people",
+    "https://www.ravelry.com/patterns/library/bratz-burnt-orange-dress",
+    "https://www.ravelry.com/patterns/library/monster-high-juniper-dress",
+    "https://www.ravelry.com/patterns/library/glitter-purse-bag",
+    "https://www.ravelry.com/patterns/library/glitter-purse-bag/yarns",
+    "https://www.ravelry.com/patterns/sources/taffy-lass-knits",
+    "https://www.ravelry.com/patterns/library/glitter-purse-bag/editors"
+  ],
+  "name": "Ravelry: Glitter Purse Bag pattern by taffylass knits"
 }

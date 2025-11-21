@@ -1,43 +1,47 @@
 {
   "pattern_id": 1524,
-  "pattern_page": "https://www.ravelry.com/patterns/library/pumpkin-party-4",
-  "name": "Pumpkin Party",
-  "description": "Die Herbstdekoration “Pumpkin Party” habe ich am 28.10.2024 im WDR in der Sendung “Hier und Heute” vorgestellt.",
-  "designer": "Julia-Maria Hegenbart",
+  "pattern_page": "https://www.ravelry.com/patterns/library/simple-yet-effective",
+  "name": "Simple Yet Effective",
+  "description": "",
+  "designer": "tincanknits",
   "craft": "Knitting",
-  "category": "Food Decorative → Other",
-  "needle_size": "2.5 mm, US 1 (2.25 mm)",
-  "sizes_available": "onesize / Einheitsgröße",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "short (long)",
   "languages": [
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "Malabrigo Yarn Rios",
-    "Sport (12 wpi) ?"
+    "DK (11 wpi) ?",
+    "Sweet Fiber Yarns Cashmere DK"
   ],
   "attributes": [
-    "3-dimensional",
-    "bottom-up",
+    "adult",
     "in-the-round",
-    "phototutorial",
+    "one-piece",
     "seamless",
+    "teen",
+    "textured",
+    "unisex",
     "written-pattern"
   ],
-  "full_text": "I presented the fall decoration “Pumpkin Party” on October 28th, 2024 on WDR in the program “Here and Today”. You can watch the article in the ARD WDR media library. Autumn is a wonderful opportunity to knit a few colorful, autumnal little things - for example a small, colorful Pumpkin Party, which is knitted really quickly from a few leftover wool in autumnal colors. Yarn: You need about 10g of the main color per pumpkin and only about 50cm for the stem. You can also simply use different wool thicknesses - i.e. relatively thin wool in sock weight or very thick yarn. Depending on the yarn thickness, your pumpkin will either be smaller or larger. This is how the Pumpkin Party looks lively and varied. Material: circular knitting needle and/or needle set for knitting in small rounds Suggested needle size for yarn in sock yarn thickness 2.5mm Suggested needle size for thicker yarn 3.0mm-3.5mm Techniques: Increases (m1l) Decrease (2rezus) Knitting in rounds Icord",
-  "techniques": [
-    "increases"
-  ],
+  "full_text": "Simple Yet Effective - Tin Can Knits This simple little pattern knits up quick and it’s perfect for that special skein. Who could ask for more? Want to keep up with Tin Can Knits? Sign up for our email updates and we will let you know about our new designs and great in-depth tutorials . PATTERN INFO sizing: one size: 20 (45) inches around and 10 inches high (easily adjustable) materials: 200 (400) yards DK weight yarn (sample shown in Sweet Fiber Cashmere DK in ‘marshland’) Gauge: 22 sts & 28 rounds per 4 inches in stockinette Needles: US #6 / 4 mm (or as required to meet gauge) Helpful Tutorials Casting on for knitting in the round For all pattern abbreviations, techniques, and to contact us, visit www.tincanknits.com",
+  "techniques": [],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4/comments",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4",
-    "https://www.ravelry.com/patterns/library/words-for-snow",
-    "https://www.ravelry.com/patterns/library/knit-the-love",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4/editors",
-    "https://www.ravelry.com/patterns/library/across-the-winter",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4/people",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4/report",
-    "https://www.ravelry.com/patterns/sources/feinmotoriks-ravelry-store",
-    "https://www.ravelry.com/patterns/library/pumpkin-party-4/yarns"
+    "https://www.ravelry.com/patterns/library/oats",
+    "https://www.ravelry.com/patterns/sources/alexa-ludeman-gourmet-crafter",
+    "https://www.ravelry.com/patterns/library/simple-yet-effective/report",
+    "https://www.ravelry.com/patterns/library/barley-worsted",
+    "https://www.ravelry.com/patterns/library/barley-sock",
+    "https://www.ravelry.com/patterns/library/simple-yet-effective/editors",
+    "https://www.ravelry.com/patterns/library/simple-yet-effective/people",
+    "https://www.ravelry.com/patterns/library/simple-yet-effective",
+    "https://www.ravelry.com/patterns/library/simple-yet-effective/comments",
+    "https://www.ravelry.com/patterns/library/simple-yet-effective/threads",
+    "https://www.ravelry.com/patterns/library/simple-yet-effective/posts",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits",
+    "https://www.ravelry.com/patterns/library/simple-yet-effective/yarns",
+    "https://www.ravelry.com/patterns/sources/tin-can-knits-on-ravelry"
   ]
 }

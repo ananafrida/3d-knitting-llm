@@ -1,36 +1,39 @@
 {
   "pattern_id": 2075,
-  "pattern_page": "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail",
-  "name": "Finger Warmer / Cat Tail",
-  "description": "This piece makes a great little cat tail for a project or just weave in the end of the yarn to create a one finger warmer/finger puppet base/finger cot.",
-  "designer": "kayceesunshine",
+  "pattern_page": "https://www.ravelry.com/patterns/library/catch",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
+  "category": "Ball",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Red Heart Super Saver (solids)"
+    "Fingering (14 wpi) ?",
+    "Berroco Sox Metallic"
   ],
   "attributes": [
+    "in-the-round",
+    "seamless",
+    "stranded",
     "written-pattern"
   ],
-  "full_text": "This piece makes a great little cat tail for a project or just weave in the end of the yarn to create a one finger warmer/finger puppet base/finger cot.",
+  "full_text": "Catch is a corrugated rib hacky sack. Knit a few and they’re juggling balls! Subscribe to KnitBits for a weekly newsletter with free patterns!",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/kayceesunshines-ravelry-store",
-    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail/report",
-    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail/editors",
-    "https://www.ravelry.com/patterns/library/tiny-wings-2",
-    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail/comments",
-    "https://www.ravelry.com/patterns/library/little-cat-ears",
-    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail/people",
-    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail/threads",
-    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail/yarns",
-    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail/edit",
-    "https://www.ravelry.com/patterns/library/finger-warmer---cat-tail"
-  ]
+    "https://www.ravelry.com/patterns/library/nuss",
+    "https://www.ravelry.com/patterns/library/catch/editors",
+    "https://www.ravelry.com/patterns/library/catch",
+    "https://www.ravelry.com/patterns/library/aidez",
+    "https://www.ravelry.com/patterns/library/catch/yarns",
+    "http://www.berroco.com/patterns/catch",
+    "https://www.ravelry.com/patterns/library/catch/people",
+    "https://www.ravelry.com/patterns/library/catch/threads",
+    "https://www.ravelry.com/patterns/library/catch/report",
+    "https://www.ravelry.com/patterns/library/lakenvelder",
+    "https://www.ravelry.com/patterns/library/catch/comments",
+    "https://www.ravelry.com/patterns/periodicals/berroco",
+    "https://www.ravelry.com/patterns/sources/berroco-website"
+  ],
+  "name": "Ravelry: Catch pattern by Cirilia Rose"
 }

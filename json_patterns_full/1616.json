@@ -1,36 +1,40 @@
 {
   "pattern_id": 1616,
-  "pattern_page": "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knit-pumpkin-4",
+  "name": "KNIT Pumpkin",
+  "description": "This pattern is written for three yarn weights. The super bulky version creates a pumpkin approximately 9 inches across, bulky makes a pumpkin about 8 inches across. while the worsted weight version creates a pumpkin about 4.5 inches across. The i-cord is constructed out of the same weight yarn you used for the pumpkin. Be creative, have fun and knit up a pumpkin patch worth of pumpkins!",
+  "designer": "Sara Heckman",
   "craft": "Knitting",
-  "category": "Sweater → Cardigan",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "0-6 months",
+  "category": "Decorative → Other",
+  "needle_size": "US 13 (9.0 mm), US 13 (9.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "DK (11 wpi) ?",
-    "Yarn Bee Bamboo-tiful"
+    "Malabrigo Yarn Rasta",
+    "Super Bulky (5-6 wpi) ?"
   ],
   "attributes": [
-    "baby",
+    "gusset",
+    "icord",
+    "in-the-round",
     "seamless",
     "top-down"
   ],
-  "full_text": "This adorable and versatile sweater is knit from the top down using size US4 and US6 needles and lightweight yarn. The body of the sweater boasts a cute Estonian Button Stitch pattern that adds the perfect amount of interest. Pattern is for size 0-6 months and makes a wonderful baby shower gift.",
+  "full_text": "This pattern is written for three yarn weights. The super bulky version creates a pumpkin approximately 9 inches across, bulky makes a pumpkin about 8 inches across. while the worsted weight version creates a pumpkin about 4.5 inches across. The i-cord is constructed out of the same weight yarn you used for the pumpkin. Be creative, have fun and knit up a pumpkin patch worth of pumpkins!",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/yarns",
-    "https://www.ravelry.com/patterns/library/classic-crochet-teddy-bear",
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan",
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/report",
-    "https://www.ravelry.com/patterns/sources/knit-paint-sew",
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/editors",
-    "https://www.ravelry.com/patterns/library/sweet-ruffle-cardigan",
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/people",
-    "https://www.ravelry.com/patterns/library/button-stitch-baby-cardigan/comments",
-    "https://www.ravelry.com/patterns/library/hooded-baby-teddy-bear-sweater"
-  ],
-  "name": "Ravelry: Button stitch baby cardigan pattern by Knit Paint Sew"
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/editors",
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/yarns",
+    "https://www.ravelry.com/patterns/library/simple-scarf-27",
+    "https://www.ravelry.com/patterns/library/garter-rim-beanie",
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/comments",
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4",
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/report",
+    "https://www.ravelry.com/patterns/library/baby-stripes-hat-3",
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/people",
+    "https://www.ravelry.com/patterns/library/knit-pumpkin-4/posts",
+    "https://www.ravelry.com/patterns/sources/apricot-yarn--supply-2"
+  ]
 }

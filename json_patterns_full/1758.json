@@ -1,39 +1,47 @@
 {
   "pattern_id": 1758,
-  "pattern_page": "https://www.ravelry.com/patterns/library/cradle-bag-2",
-  "name": "Cradle Bag",
-  "description": "This knitted cradle, complete with a set of matching bedding, will fit a 5” baby doll or similar size toy. The sides of the cradle fold up over the doll to make a bag and drawstrings keep everything safe inside. An ideal present for a child who can’t leave home without a doll.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
   "craft": "Knitting",
-  "category": "Toys and Hobbies → Other",
+  "category": "Hat → Beanie, Toque",
   "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "Baby (Toddler, Kid, Adult Small, Adult Medium, Adult Large)",
   "languages": [
-    "English",
-    "German"
+    "English"
   ],
   "suggested_yarn": [
-    "",
-    "DK (11 wpi) ?"
+    "Purl Soho Worsted Twist",
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "icord",
-    "short-rows",
-    "worked-flat"
+    "adult",
+    "baby",
+    "bottom-up",
+    "child",
+    "in-the-round",
+    "one-piece",
+    "ribbed",
+    "seamless",
+    "teen",
+    "toddler",
+    "written-pattern"
   ],
-  "full_text": "This knitted cradle, complete with a set of matching bedding, will fit a 5” baby doll or similar size toy. The sides of the cradle fold up over the doll to make a bag and drawstrings keep everything safe inside. An ideal present for a child who can’t leave home without a doll. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "MATERIALS Purl Soho’s Daily Wool Worsted , 100% superwash wool yarn. Each skein of this worsted-weight yarn is 164 yards/ 100 grams. With Pom Pom: 1 (1, 2, 2, 2, 2) skein(s); approximately 145 (164, 200, 235, 255, 275) total yards required Without Pom Pom: 1 (1, 1, 2, 2, 2) skein(s); approximately 110 (130, 155, 170, 190, 210) total yards required You’ll also need… US 6 (4 mm), 16-inch circular knitting needles US 7 (4.5 mm), 16-inch circular needles A set of US 7 double pointed needles Stitch markers , including one unique Optional: Purl Soho’s Pom Pom Maker in size Small + Large NOTE: An earlier version of this pattern used 1–2 skeins of Purl Soho’s Worsted Twist (no longer available) and US 5 (3.75 mm) needles for the cuff of the hat. For more on this version, visit the original blog post ! We knit our samples in the following sizes and colors… BABY: Apple Blossom, Heirloom White TODDLER: Wild Onion KID: Chartreuse Green, Super Pink ADULT MEDIUM: Inchworm Green, Cinnamon Bark GAUGE 20 stitches and 28 rounds = 4 inches in stockinette stitch, on larger needles 30 stitches and 27 rounds = 4 inches in 1×1 rib, unstretched, on smaller needles SIZES Baby (Toddler, Kid, Adult Small, Adult Medium, Adult Large) To fit actual head circumference of 13–15 (14–17, 16–19, 18–20, 19–22, 21–24) inches Finished Body Circumference: 14½ (16, 17½, 19¼, 20¾, 22½) inches Finished Ribbing Circumference: 9½ (10½, 11¾, 12¾, 13¾, 15) inches, unstretched Finished Height: 9 (9½, 10¼, 10¾, 11¼, 11¾) inches, uncuffed and excluding pom pom Originally designed by Purl Soho designer, Gina Rockenwagner .",
   "techniques": [],
-  "shape": "softie",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/cradle-bag-2/yarns",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/cradle-bag-2/people",
-    "https://www.ravelry.com/patterns/library/cradle-bag-2/editors",
-    "https://www.ravelry.com/patterns/library/cradle-bag-2/report",
-    "https://www.ravelry.com/patterns/library/mini-doll-bedtime",
-    "https://www.ravelry.com/patterns/library/cradle-bag-2/threads",
-    "https://www.ravelry.com/patterns/library/mini-doll-winter-time",
-    "https://www.ravelry.com/patterns/library/cradle-bag-2/comments",
-    "https://www.ravelry.com/patterns/library/cradle-bag-2",
-    "https://www.ravelry.com/patterns/library/mini-doll-summer-time"
-  ]
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat/threads",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat/yarns",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat/people",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat/comments",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/bandana-cowl",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat/report",
+    "https://www.ravelry.com/patterns/library/garter-ear-flap-hat",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat/posts",
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat/editors",
+    "https://www.ravelry.com/patterns/sources/purl-soho",
+    "https://www.ravelry.com/patterns/sources/knitting-pearls-writers-writing-about-knitting"
+  ],
+  "name": "Ravelry: Classic Cuffed Hat pattern by Purl Soho"
 }

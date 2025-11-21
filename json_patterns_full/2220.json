@@ -1,45 +1,40 @@
 {
   "pattern_id": 2220,
-  "pattern_page": "https://www.ravelry.com/patterns/library/little-princess-knitted-crown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/gorro-trasno",
   "craft": "Knitting",
-  "category": "Costume",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "category": "Hat → Pixie",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "3-6 meses de edad",
   "languages": [
-    "English"
+    "Spanish"
   ],
   "suggested_yarn": [
-    "Dream in Color Classy",
-    "Worsted (9 wpi) ?"
+    "Sport (12 wpi) ?",
+    "Garnstudio DROPS Lima"
   ],
   "attributes": [
-    "child",
-    "elastic",
-    "eyelets",
-    "female",
+    "baby",
+    "captioned-video",
+    "icord",
     "one-piece",
-    "seamed",
-    "sideways",
-    "toddler",
-    "worked-flat",
+    "phototutorial",
+    "video-tutorial",
     "written-pattern"
   ],
-  "full_text": "When thinking up ways to bless my little Princess for her sixth birthday, I came up with this nifty little crown. I thought that since she liked it so much, perhaps you know a little girl who would love it, too.",
+  "full_text": "The Trasno hat pattern is completely in Spanish, with step-by-step instructions and tutorial videos where I explain the most difficult parts. With a ball of the Drops design Lima quality I knitted the body of the hat, I had to start another ball to be able to make the i-cord. It is a very quick hat to knit. You can find the pattern completely free on my website, if you need help, contact me",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/people",
-    "https://www.ravelry.com/patterns/library/cast-iron-pan-handle-cozy-2",
-    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/report",
-    "https://www.ravelry.com/patterns/sources/wool-and-chocolate",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/yarns",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/editors",
-    "https://www.ravelry.com/patterns/library/flower-garden-stitch-markers",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/edit",
-    "https://web.archive.org/web/20110811073119/https://woolandchocolate.wordpress.com/2010/10/01/princess-crown-free-knit-pattern/",
-    "https://www.ravelry.com/patterns/library/creeper-gonna-creep",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown",
-    "https://www.ravelry.com/patterns/library/little-princess-knitted-crown/comments"
+    "https://www.ravelry.com/patterns/library/gorro-trasno/report",
+    "https://www.ravelry.com/patterns/library/gorro-trasno",
+    "https://www.ravelry.com/patterns/library/gorro-trasno/yarns",
+    "https://www.ravelry.com/patterns/library/baby-boots-16",
+    "https://www.ravelry.com/patterns/library/gorro-trasno/people",
+    "https://www.ravelry.com/patterns/library/jacket-with-braid",
+    "https://www.ravelry.com/patterns/library/dave-octopus",
+    "https://www.ravelry.com/patterns/library/gorro-trasno/comments",
+    "https://www.ravelry.com/patterns/sources/molan-mis-calcetas",
+    "https://www.ravelry.com/patterns/library/gorro-trasno/editors"
   ],
-  "name": "Ravelry: Little Princess Knitted Crown pattern by Shelly Jackson"
+  "name": "Ravelry: Gorro Trasno pattern by Ana Alfonsin"
 }

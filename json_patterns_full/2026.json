@@ -1,48 +1,40 @@
 {
   "pattern_id": 2026,
-  "pattern_page": "https://www.ravelry.com/patterns/library/quickolino",
-  "name": "Quickolino",
-  "description": "Quickolino, the fast sock.",
-  "designer": "Tuna :-)",
+  "pattern_page": "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 8 (5.0 mm), US 8 (5.0 mm)",
-  "sizes_available": "37-45, 5-12",
+  "category": "Ball",
+  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "sizes_available": "1",
   "languages": [
-    "English",
-    "Additional languages which are not in the download: Universal"
+    "English"
   ],
   "suggested_yarn": [
-    "Aran (8 wpi) ?",
-    "Garnstudio DROPS Big Fabel"
+    "Schoeller+Stahl Fortissima Socka",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "adult",
-    "chart",
-    "one-piece",
-    "provisional",
-    "seamless",
-    "short-row-toe",
-    "teen",
-    "worked-flat"
+    "3-dimensional",
+    "in-the-round",
+    "sphere-shaped",
+    "written-pattern"
   ],
-  "full_text": "Quickolino, the fast sock. Simple garter stitch in rows, seamless without kitchener stitch and needle play. In the description of the pattern, the top and bottom part of the sock for 4 sizes are included. Techniques used: Garter stitch Cuff in right / left provisional cast on Elastic bind off with yarn over Increases and decreases Short rows with double stitch The basis for this sock is the guidance of Drops Design Nightfall 142-34. The sock was used here for a hat shoe. :-) :-)------------------------------------------------ Quickolino, the fast sock. Simply knit in garter stitch in rows, without needles and stitch stitch. The description includes the knitting charts for the top and bottom of the sock for 4 sizes. Techniques used: garter stitch, right/left cuffs, provisional cast on, elastic cast-off with yarn over, increases and decreases, shortened rows with double stitch. The basis for this sock was the instructions from Drops Design for Nightfall 142-34. The sock was used here for a slipper.",
-  "techniques": [
-    "decreases",
-    "increases",
-    "short rows"
-  ],
-  "shape": "cylinder",
+  "full_text": "Translated for the modern knitter from an 1888 issue of Weldon’s Practical Needlework .",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/quickolino/report",
-    "https://www.ravelry.com/patterns/library/quickolino/people",
-    "https://www.ravelry.com/patterns/library/quickolino/editors",
-    "https://www.ravelry.com/patterns/library/tomma",
-    "https://www.ravelry.com/patterns/library/quickolino/yarns",
-    "https://www.ravelry.com/patterns/library/ducky-anita",
-    "https://www.ravelry.com/patterns/library/quickolino/comments",
-    "https://www.ravelry.com/patterns/sources/tuna---s-ravelry-store",
-    "https://www.ravelry.com/patterns/library/quickolino",
-    "https://www.ravelry.com/patterns/library/meschugge"
-  ]
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/posts",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/comments",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/editors",
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2008",
+    "https://www.ravelry.com/patterns/library/megadahlia",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange",
+    "https://www.ravelry.com/patterns/library/victorian-duet-scarf",
+    "https://www.ravelry.com/patterns/library/big-d-mn-pineapple-1840",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/yarns",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/report",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/people",
+    "https://www.ravelry.com/patterns/library/ball-knitted-like-an-orange/threads",
+    "https://www.ravelry.com/patterns/periodicals/knitty"
+  ],
+  "name": "Ravelry: Ball Knitted Like an Orange pattern by Franklin Habit"
 }

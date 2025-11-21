@@ -1,35 +1,42 @@
 {
   "pattern_id": 1558,
-  "pattern_page": "https://www.ravelry.com/patterns/library/feathers-12",
-  "name": "Feathers",
-  "description": "This is a quick, fun pattern for some knitted feathers. You can use any leftover yarn - variegated works well - mine were knitted with thin 4 ply and DK weight yarns. Patterns for two sizes are given and the finished feathers can be used as bookmarks or decorations. They would be popular with cats too.",
-  "designer": "Frankie Brown",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bandana-cowl",
+  "name": "Bandana Cowl",
+  "description": "MATERIALS",
+  "designer": "Purl Soho",
   "craft": "Knitting",
-  "category": "Decorative → Other",
+  "category": "Neck / Torso → Cowl",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
+  "sizes_available": "One Size (see Notes)",
   "languages": [
-    "English"
+    "English",
+    "Italian"
   ],
   "suggested_yarn": [
-    ""
+    "Jade Sapphire 8-ply Mongolian Cashmere",
+    "Aran (8 wpi) ?"
   ],
   "attributes": [
-    "worked-flat"
+    "in-the-round",
+    "short-rows",
+    "unisex",
+    "written-pattern"
   ],
-  "full_text": "This is a quick, fun pattern for some knitted feathers. You can use any leftover yarn - variegated works well - mine were knitted with thin 4 ply and DK weight yarns. Patterns for two sizes are given and the finished feathers can be used as bookmarks or decorations. They would be popular with cats too. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
+  "full_text": "MATERIALS One-Color Version Main Color (MC): 1 skein of Purl Soho’s Plenty , 100% extra fine merino wool. Each skein is 139 yards/ 100 grams; approximately 139 yards required. We used the colors Mint Blue, Lilac Quartz, Red Plum and Ash Gray. Two-Color Version Main Color (MC): 1 skein of Plenty Contrast Color (CC): 1 skein of Plenty For Colorblock Version, approximately 70 yards required of each MC and CC. We used Golden Green and Gray Pearl. For Breton Stripe Version, approximately 115 yards required of MC and 35 yards of CC. We used Sapphire Blue and Pottery Pink. For Transitional Stripe Version, approximately 80 yards required of MC and 65 yards of CC. We used Mint Blue and Plumeria Pink. For Monogram Version, approximately 139 yards required of MC and a few yards of CC. We used Peony Pink and Red Pine. You’ll also need… US 10 (6.0 mm), 16-inch circular needles (Note: Always use the needles that you need to get the correct gauge. In this case, some of our sample makers found a US 10 worked better for them than what Plenty’s label recommends, which is a US 9 for 4 stitches to the inch. If you know you’re a bit of a tight knitter, US 10 needles are more likely to work for you, and if you’re on the loose side, you may prefer a US 9s!) Stitch markers GAUGE 16 stitches and 24 rows = 4 inches in stockinette stitch SIZE Finished Neck Opening: 17¼ inches circumference, comfortably stretching up to 5 inches Finished Height From Point: 13½ inches NOTE: Earlier versions of this pattern used 2 skeins of Jade Sapphire’s 8 Ply Cashmere , 100% Mongolian Cashmere or 1 skein of Swans Island Bulky, undyed 85% Organic Merino and 15% Alpaca; approximately 130 yards required for either yarn. Visit our Jade Sapphire version here , and our Swan’s Island version here ! NOTE: Now available in Italian with great thanks to a friend of The Purl Bee (aka icelandit on Ravelry).",
   "techniques": [],
-  "shape": "unknown",
+  "shape": "cube",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/feathers-12/yarns",
-    "https://www.ravelry.com/patterns/library/feathers-12",
-    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
-    "https://www.ravelry.com/patterns/library/feathers-12/people",
-    "https://www.ravelry.com/patterns/library/feathers-12/report",
-    "https://www.ravelry.com/patterns/library/feathers-12/threads",
-    "https://www.ravelry.com/patterns/library/woodland-wreath-oak",
-    "https://www.ravelry.com/patterns/library/springtime-wreath-daisies",
-    "https://www.ravelry.com/patterns/library/feathers-12/comments",
-    "https://www.ravelry.com/patterns/library/woven-stars",
-    "https://www.ravelry.com/patterns/library/feathers-12/posts",
-    "https://www.ravelry.com/patterns/library/feathers-12/editors"
+    "https://www.ravelry.com/patterns/library/classic-cuffed-hat",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/people",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/threads",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/yarns",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/editors",
+    "https://www.ravelry.com/patterns/library/bandana-cowl",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/comments",
+    "https://www.ravelry.com/patterns/library/classic-ribbed-hat-5",
+    "https://www.ravelry.com/patterns/library/garter-ear-flap-hat",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/posts",
+    "https://www.ravelry.com/patterns/library/bandana-cowl/report",
+    "https://www.ravelry.com/patterns/sources/purl-soho"
   ]
 }

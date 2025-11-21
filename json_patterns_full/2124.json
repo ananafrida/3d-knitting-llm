@@ -1,54 +1,46 @@
 {
   "pattern_id": 2124,
-  "pattern_page": "https://www.ravelry.com/patterns/library/citrus-hat",
-  "name": "Citrus Hat",
-  "description": "Called the Citrus Hat for the way the decreases create the appearance of a citrus fruit, this is a pretty basic hat pattern that works well with pretty much any yarn and can fit multiple head sizes.",
-  "designer": "Laura Treadway",
+  "pattern_page": "https://www.ravelry.com/patterns/library/streymoy",
   "craft": "Knitting",
-  "category": "Hat → Beanie, Toque",
-  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
-  "sizes_available": "baby, toddler, child/teenager, small adult, and large adult",
+  "category": "Sweater → Cardigan Coat / Jacket",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
+  "sizes_available": "S, M, L, XL, XXL",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Worsted (9 wpi) ?"
+    "Cascade Yarns ® Ecological Wool®",
+    "Bulky (7 wpi) ?"
   ],
   "attributes": [
     "adult",
-    "baby",
-    "bottom-up",
-    "child",
-    "female",
-    "fitted",
-    "in-the-round",
+    "buttoned",
+    "chart",
+    "faroese",
     "male",
-    "negative-ease",
-    "one-piece",
-    "ribbed",
+    "mandarin",
+    "raglan-sleeve",
     "seamless",
-    "teen",
-    "toddler",
-    "unisex",
-    "written-pattern"
+    "steeks",
+    "stranded"
   ],
-  "full_text": "Called the Citrus Hat for the way the decreases create the appearance of a citrus fruit, this is a pretty basic hat pattern that works well with pretty much any yarn and can fit multiple head sizes. It looks great in handspun or commercial yarn, and in solid, semi-solid, or variegated colorways. The combination of knits and purls used throughout the hat means it is very accommodating of different head sizes and a good match for kids that keep growing. While the pattern is written for worsted-weight yarn, it’s easy to adjust for different yarn weights, and the pattern includes some helpful hints for yarn modifications. The pattern includes sizes for baby, toddler, child/teenager, small adult, and large adult hats.",
-  "techniques": [
-    "decreases"
-  ],
-  "shape": "unknown",
+  "full_text": "ERRATA: The instructions for the button bands and collar should read “Using smaller needles with RS facing… “ During season 2 of the television show “The Voice,” judge Adam Levine wore a Faroese style sweater which sent the whole twitterverse and blogosphere ablaze with references to his “grandpa sweater.” I remember seeing that episode, and my attraction was immediate, I was obsessed. I replayed the episode several times in freeze frame slow motion to soak in every detail. I loved how the sweater looked very cozy and casual, while still being elegant and carrying an aire of traditional craftsmanship; however, the more I looked at the sweater, the more I saw things that I would want to change if I were to knit one (and it didn’t take me very long to realize that I WOULD be knitting one.) I decided I wanted a more traditional, seamless construction rather than the set in sleeves, and the vertical ribbing on the button bands can stretch and drape oddly -- so I would want to change those, and the small, all-over pattern, while very traditional, was not as interesting as I thought it could be. I imagine that Adam Levine’s sweater was probably hand knit, and bought at an L.A. boutique for about the price of a decent automobile. Luckily for me, I can knit, and could have one without relinquishing a huge pile of cash. I did some research and some swatching and some thinking and came up Streymoy, named after the largest of the Faroe Islands, but chic enough for wherever your travels take you.",
+  "techniques": [],
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/sources/laura-treadways-ravelry-store",
-    "https://www.ravelry.com/patterns/library/sidekick",
-    "https://www.ravelry.com/patterns/library/citrus-hat/yarns",
-    "https://www.ravelry.com/patterns/library/two-one-cowl",
-    "https://www.ravelry.com/patterns/library/citrus-hat/editors",
-    "https://www.ravelry.com/patterns/library/i-love-stockinette-baby-bib",
-    "https://www.ravelry.com/patterns/library/citrus-hat/threads",
-    "https://www.ravelry.com/patterns/library/citrus-hat/people",
-    "https://www.ravelry.com/patterns/library/citrus-hat/posts",
-    "https://www.ravelry.com/patterns/library/citrus-hat/comments",
-    "https://www.ravelry.com/patterns/library/citrus-hat",
-    "https://www.ravelry.com/patterns/library/citrus-hat/report"
-  ]
+    "https://www.ravelry.com/patterns/library/rockland-crewneck",
+    "https://www.ravelry.com/patterns/library/streymoy/report",
+    "https://www.ravelry.com/patterns/library/streymoy/posts",
+    "https://www.ravelry.com/patterns/library/streymoy/people",
+    "https://www.ravelry.com/patterns/sources/knitty-winter-2013",
+    "https://www.ravelry.com/patterns/library/streymoy/threads",
+    "https://www.ravelry.com/patterns/library/emre-pullover--cardigan",
+    "https://www.ravelry.com/patterns/library/streymoy",
+    "https://www.ravelry.com/patterns/library/halmstad",
+    "https://www.ravelry.com/patterns/library/streymoy/editors",
+    "https://www.ravelry.com/patterns/library/streymoy/yarns",
+    "https://www.ravelry.com/patterns/periodicals/knitty",
+    "https://www.ravelry.com/patterns/library/streymoy/comments"
+  ],
+  "name": "Ravelry: Streymoy pattern by Todd Gocken"
 }

@@ -1,37 +1,39 @@
 {
   "pattern_id": 1198,
-  "pattern_page": "https://www.ravelry.com/patterns/library/peace-pals",
+  "pattern_page": "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones",
+  "name": "Woodland Wreath, Fir Cones",
+  "description": "This is the seventh in a series of twelve linked patterns for a knitted wreath, to be published daily in December 2013.",
+  "designer": "Frankie Brown",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "sizes_available": "max 7\"",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "",
+    "DK (11 wpi) ?"
   ],
   "attributes": [
-    "written-pattern"
+    "short-rows"
   ],
-  "full_text": "girl or boy in same instructions Flat knit Worked in the round",
+  "full_text": "This is the seventh in a series of twelve linked patterns for a knitted wreath, to be published daily in December 2013. These fir cones add some texture to the wreath; they are a knitted strip, shaped with short rows and then rolled up and sewn to make the cone shape. A picot cast off in a lighter shade gives them that distinctive edge. You can use various shades of brown for your fir cones or, for a frosted effect, you could work the cast off row with cream yarn. There are two sizes of cones in this pattern, the big ones are about 4 cm long and the small ones 3 cm. 40g of yarn will make about a dozen fir cones. All my ravelry patterns are free to download but, if you enjoy them, please consider making a donation to the British Liver Trust where the money will go to fund research and support the families of children with a liver disease. You can do this easily by going to my fundraising page here Happy Knitting!",
   "techniques": [
-    "worked in the round"
+    "short rows"
   ],
-  "shape": "sphere",
+  "shape": "cone",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/peace-pals/comments",
-    "https://www.ravelry.com/patterns/library/birthing-kit-washcloth",
-    "https://www.ravelry.com/patterns/library/peace-pal-with-skirt",
-    "https://www.ravelry.com/patterns/library/peace-pals/yarns",
-    "https://www.ravelry.com/patterns/library/peace-pals/threads",
-    "https://www.ravelry.com/patterns/library/scarves4peace",
-    "https://www.ravelry.com/patterns/library/peace-pals/editors",
-    "https://www.ravelry.com/patterns/library/peace-pals",
-    "https://www.ravelry.com/patterns/library/peace-pals/report",
-    "https://static1.squarespace.com/static/65c3dd5e6e31143d0b729c16/t/65de2d44e9d2dc5998502f87/1709059396925/xfinal-ppal-pattern.pdf",
-    "https://www.ravelry.com/patterns/library/peace-pals/people",
-    "https://static1.squarespace.com/static/65c3dd5e6e31143d0b729c16/t/65de2d80704f8350860915e8/1709059456224/xfinal-ppal-in-the-round.pdf",
-    "https://www.ravelry.com/patterns/sources/knitting4peace"
-  ],
-  "name": "Ravelry: Peace Pals pattern by Women4Women Knitting4Peace"
+    "https://www.ravelry.com/patterns/sources/knit-a-vintage-christmas",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones",
+    "https://www.ravelry.com/patterns/sources/frankies-knitted-stuff",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-hedgehogs",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/comments",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/yarns",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/editors",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/report",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/people",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-holly",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-mistletoe",
+    "https://www.ravelry.com/patterns/library/woodland-wreath-fir-cones/threads"
+  ]
 }

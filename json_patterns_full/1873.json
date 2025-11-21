@@ -1,46 +1,38 @@
 {
   "pattern_id": 1873,
-  "pattern_page": "https://www.ravelry.com/patterns/library/limoncello-hanging-basket",
-  "name": "Limoncello Hanging Basket",
-  "description": "DESCRIPTION",
-  "designer": "Elise Ljiko",
+  "pattern_page": "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle",
+  "name": "verstärkte Bumerangferse und Sohle",
+  "description": "Achtung, dies ist eine Hilfestellung, um Socken haltbarer zu gestalten, indem eine verstärkte Bumerangferse und Sohle gestrickt wird. Es ist KEIN Sockenmuster! ;-)",
+  "designer": "Jutta Schneider",
   "craft": "Knitting",
-  "category": "Containers",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "One Size",
+  "category": "Components → Other",
+  "needle_size": "2.5 mm, US 1 (2.25 mm)",
+  "sizes_available": "unisize",
   "languages": [
-    "English"
+    "German"
   ],
   "suggested_yarn": [
-    "Lion Brand Re-Up (Cotton)",
-    "Worsted (9 wpi) ?"
+    "",
+    "Fingering (14 wpi) ?"
   ],
   "attributes": [
-    "bottom-up",
-    "one-piece",
-    "seamed",
-    "selvedge",
-    "slipped-stitches",
-    "worked-flat",
+    "short-row-heel",
     "written-pattern"
   ],
-  "full_text": "DESCRIPTION My inspiration for this pattern came from the lemons found in abundance in the southern Italian groves lining the Amalfi Coast. The Limoncello Hanging Basket looks like a little ripe lemon in a not too cutesy way. Modern and simplistic, it is perfect for holding small essentials from your go to lip balms to your most used knitting notions! SKILLS This includes an advanced beginner level knitting pattern. The basket is knit flat and seamed together at the end and the techniques involved are knit, purl, sl1p, sl1k, k2tog, and ssk. All Frosia Knits patterns are written in standard US terms. You will need 2 skeins of Lion Brand Re-Up Medium Weight Yarn (85% Cotton, 15% Polyester). Each skein is 114 yds (105 m) (sample was knit with sunflower and ecru). You will need about 61 yds (56 m) to complete one hanging basket. You can easily substitute any medium weight cotton yarn, just make sure to check your gauge. FINISHED SIZE Height: 5 inches (not including hanging loop) Width: 4 inches GAUGE 18 sts + 24 rows = 4” in stockinette Don’t forget to follow Frosia Knits on social media for more updates and to share your finished projects! Instagram: @frosiaknits Pinterest: pinterest.com/frosiaknits/ Email: frosiaknits !at gmail.com COPYRIGHT All photos and instructions in this pattern are the property of Frosia Knits. Do not publish or share this pattern as your own. You can sell the items you make from this pattern by crediting Elise Ljiko from Frosia Knits, linking to my Etsy site, and using your own photos.",
-  "techniques": [
-    "seamed"
-  ],
-  "shape": "unknown",
+  "full_text": "Attention, this is a guide to making socks more durable by knitting a reinforced boomerang heel and sole. It is NOT a sock pattern! ;-) In this tutorial I'll show you what you need to do to make your socks last longer and not wear out too quickly! Good luck with it!",
+  "techniques": [],
+  "shape": "cylinder",
   "download_links": [
-    "https://blog.clover-usa.com/2020/07/23/limoncello-hanging-basket-knit-pattern/",
-    "https://www.ravelry.com/patterns/library/venezia-palina-coaster",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/comments",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/editors",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/yarns",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/people",
-    "https://www.ravelry.com/patterns/library/torino-ear-warmer",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket/report",
-    "https://www.ravelry.com/patterns/library/limoncello-hanging-basket",
-    "https://www.ravelry.com/patterns/sources/frosia-knits",
-    "https://www.ravelry.com/patterns/library/cimelio-pumpkin",
-    "https://www.ravelry.com/patterns/sources/clover-usa-blog"
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/people",
+    "https://www.ravelry.com/patterns/sources/js-designs",
+    "https://www.ravelry.com/patterns/library/mittens-ally-mcbeal-style",
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/editors",
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/comments",
+    "https://www.ravelry.com/patterns/library/gezopfte-socken",
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle",
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/threads",
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/yarns",
+    "https://www.ravelry.com/patterns/library/verstarkte-bumerangferse-und-sohle/report",
+    "https://www.ravelry.com/patterns/library/variation-with-coffee-beans"
   ]
 }

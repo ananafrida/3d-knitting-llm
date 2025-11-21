@@ -1,33 +1,41 @@
 {
   "pattern_id": 1965,
-  "pattern_page": "https://www.ravelry.com/patterns/library/miniature-dress-and-bonnet",
+  "pattern_page": "https://www.ravelry.com/patterns/library/dust-bunny-6",
   "craft": "Knitting",
-  "category": "Applique / Embellishment",
-  "needle_size": "US 3 (3.25 mm), US 3 (3.25 mm)",
+  "category": "Sweater → Cardigan",
+  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "sizes_available": "XS [S, M, L, XL] [2XL, 3XL, 4XL, 5XL]",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "",
-    "Fingering (14 wpi) ?"
+    "Hedgehog Fibres Alpaca Boucle",
+    "Lace ?"
   ],
   "attributes": [
+    "in-the-round",
+    "one-piece",
+    "seamless",
+    "top-down",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "The pattern is for a miniature baby dress and bonnet. It is not wearable and is meant for display. Ideal for cardmaking and scrap booking embellishments. It is east to knit using increasing and decreasing. I added a little hanger and some ribbon bows.",
+  "full_text": "Simple top down stockinette cardigan with minimal shaping and relaxed fit. Rolled stockinette collar and ribbed hem. Light and Airy. Easy to wear and quick to whip up! Sizes: XS S, M, L, XL to fit bust 28-30 32-34, 36-38, 40-42, 44-46 inches Yarn: 1 1, 2, 2, 2 - skeins of Hedgehog Fibres Alpaca Boucle (66% Alpaca and 34% Silk, 100g/600m). The colours pictured is a ‘Potluck’ colour. Potluck are our one of a kind colourways, but we dye them often! Check out what’s in stock here.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/butterfly-topper",
-    "https://www.ravelry.com/patterns/library/miniature-dress-and-bonnet/comments",
-    "https://www.ravelry.com/patterns/library/jumper-for-barbie",
-    "https://www.ravelry.com/patterns/library/miniature-dress-and-bonnet/people",
-    "https://www.ravelry.com/patterns/library/easter-outfit-for-5-baby-doll",
-    "https://www.ravelry.com/patterns/library/miniature-dress-and-bonnet",
-    "https://www.ravelry.com/patterns/library/miniature-dress-and-bonnet/report",
-    "https://www.ravelry.com/patterns/library/miniature-dress-and-bonnet/yarns",
-    "https://www.ravelry.com/patterns/library/miniature-dress-and-bonnet/editors",
-    "https://www.ravelry.com/patterns/sources/taffy-lass-knits"
+    "https://www.ravelry.com/patterns/library/dust-bunny-6/comments",
+    "https://www.ravelry.com/patterns/library/dust-bunny-6/threads",
+    "https://shop.hedgehogfibres.com/collections/patterns/products/dust-bunny",
+    "https://www.ravelry.com/patterns/library/tweedy-junior",
+    "https://www.ravelry.com/patterns/library/le-pouf-sweater",
+    "https://www.ravelry.com/patterns/library/dust-bunny-6/report",
+    "https://www.ravelry.com/patterns/library/faefolk-hood",
+    "https://www.ravelry.com/patterns/library/dust-bunny-6/editors",
+    "https://www.ravelry.com/patterns/library/dust-bunny-6/yarns",
+    "https://www.ravelry.com/patterns/library/dust-bunny-6",
+    "https://www.ravelry.com/patterns/sources/hedgehog-fibres-2",
+    "https://www.ravelry.com/patterns/library/dust-bunny-6/people"
   ],
-  "name": "Ravelry: Miniature Dress and Bonnet pattern by taffylass knits"
+  "name": "Ravelry: Dust Bunny pattern by Beata Jezek"
 }

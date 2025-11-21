@@ -1,45 +1,36 @@
 {
   "pattern_id": 79,
-  "pattern_page": "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares",
-  "name": "Complete A-Z Capitals set of blanket squares",
-  "description": "The complete A-Z alphabet capitals set.",
-  "designer": "Fiona Kelly",
+  "pattern_page": "https://www.ravelry.com/patterns/library/crown-of-faith",
   "craft": "Knitting",
-  "category": "Afghan block",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
-  "sizes_available": "6x6 inches, 5x5 inches, 4x4 inches square",
+  "category": "Costume",
+  "needle_size": "US 10 (6.0 mm), US 10 (6.0 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    "Debbie Bliss Eco Aran",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "chart",
-    "duplicate-stitch",
-    "embroidery",
-    "motifs",
-    "other-colorwork",
-    "square",
-    "textured",
-    "written-pattern"
+    "seamed",
+    "sideways",
+    "unisex",
+    "worked-flat"
   ],
-  "full_text": "The complete A-Z alphabet capitals set. I have worked out the gauges to make a 6x6 inch Aran (worsted weight) square, 5x5 inch square in DK (sport weight) & 4x4 inch square in 4Ply (fingering weight). Instructions for all 3 are on the pattern.",
+  "full_text": "",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares/yarns",
-    "https://www.ravelry.com/patterns/library/multi-colour-flower-blanket-square",
-    "https://www.ravelry.com/patterns/library/songbird-blanket-square",
-    "https://www.ravelry.com/patterns/library/marlion",
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares/posts",
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares",
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares/threads",
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares/people",
-    "https://www.ravelry.com/patterns/sources/tangled-blossoms-designs",
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares/editors",
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares/report",
-    "https://www.ravelry.com/patterns/library/complete-a-z-capitals-set-of-blanket-squares/comments"
-  ]
+    "https://www.ravelry.com/patterns/sources/feebeeglee",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/threads",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/people",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/comments",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/edit",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/editors",
+    "https://web.archive.org/web/20110216081655/http://phoebe.gleeson.us/2005/07/12/knitting_updates_crown_pattern",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/yarns",
+    "https://www.ravelry.com/patterns/library/crown-of-faith/report",
+    "https://www.ravelry.com/patterns/library/crown-of-faith",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine"
+  ],
+  "name": "Ravelry: Crown of Faith pattern by feebeeglee"
 }

@@ -1,31 +1,39 @@
 {
   "pattern_id": 2055,
-  "pattern_page": "https://www.ravelry.com/patterns/library/hot-hands-glove-mitten-add-on",
+  "pattern_page": "https://www.ravelry.com/patterns/library/knit-a-crystal-ball",
   "craft": "Knitting",
-  "category": "Components → Other",
-  "needle_size": "US 0 (2.0 mm), US 0 (2.0 mm)",
+  "category": "Ball",
+  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
     "",
-    "Fingering (14 wpi) ?"
+    "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "ribbed",
+    "3-dimensional",
+    "seamed",
+    "sphere-shaped",
+    "worked-flat",
     "written-pattern"
   ],
-  "full_text": "I made this up while in Portland, Or Freezing my hands off I hope this finds warmth in all of your hands as well.",
+  "full_text": "Gauge and size is unimportant in this little halloween decoration.",
   "techniques": [],
   "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/hot-hands-glove-mitten-add-on/comments",
-    "https://www.ravelry.com/patterns/library/hot-hands-glove-mitten-add-on/report",
-    "https://www.ravelry.com/patterns/library/hot-hands-glove-mitten-add-on/editors",
-    "https://www.ravelry.com/patterns/library/hot-hands-glove-mitten-add-on/people",
-    "https://www.ravelry.com/patterns/sources/gossamer-faia",
-    "https://www.ravelry.com/patterns/library/hot-hands-glove-mitten-add-on",
-    "https://www.ravelry.com/patterns/library/hot-hands-glove-mitten-add-on/yarns"
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/yarns",
+    "https://www.ravelry.com/patterns/library/three-kin-drop-stitch-lace-baby-blanket",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/edit",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/threads",
+    "https://www.ravelry.com/patterns/sources/knitting--crochet--suite101",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/people",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/report",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/editors",
+    "https://www.ravelry.com/patterns/library/knit-a-crystal-ball/comments",
+    "https://www.ravelry.com/patterns/library/easy-elf-slipper",
+    "https://www.ravelry.com/patterns/sources/internet-archive-wayback-machine"
   ],
-  "name": "Ravelry: Hot Hands Glove/Mitten Add On. pattern by Anastasia Henry"
+  "name": "Ravelry: Knit A Crystal Ball pattern by Elizabeth Yetter"
 }

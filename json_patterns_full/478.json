@@ -1,45 +1,66 @@
 {
   "pattern_id": 478,
-  "pattern_page": "https://www.ravelry.com/patterns/library/flying-solo",
-  "name": "Flying Solo",
-  "description": "Espace Tricot is a yarn store in",
-  "designer": "Espace Tricot",
+  "pattern_page": "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days",
   "craft": "Knitting",
-  "category": "Neck / Torso → Cowl",
-  "needle_size": "US 7 (4.5 mm), US 7 (4.5 mm)",
-  "sizes_available": "one size",
+  "category": "Decorative → Hanging Ornament",
+  "needle_size": "3.0 mm, US 2 (2.75 mm)",
   "languages": [
+    "Czech",
+    "Danish",
+    "Dutch",
     "English",
-    "French"
+    "Estonian",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Icelandic",
+    "Italian",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Spanish",
+    "Swedish",
+    "...and 16 other languages show hide other languages",
+    "...and 16 other languages show",
+    "hide other languages"
   ],
   "suggested_yarn": [
-    "ArtFil Solo",
-    "yarn held together"
+    "DK (11 wpi) ?",
+    "Garnstudio DROPS Lima"
   ],
   "attributes": [
     "bottom-up",
+    "chart",
     "in-the-round",
-    "kitchener",
+    "norwegian",
     "one-piece",
-    "ribbed",
-    "stripes-colorwork",
-    "unisex"
+    "seamless",
+    "stranded",
+    "video-tutorial",
+    "written-pattern"
   ],
-  "full_text": "Espace Tricot is a yarn store in Montreal, Canada. Discover our yarns here! www.espacetricot.com FLYING SOLO is a chic and minimalist unisex ribbed cowl knit with three colours of Artfil Solo. Two strands are held together throughout the project with one strand being changed at a time to create a series of ombre stripes. The cowl is knit from the bottom up with the front and back flap knit separately and then joined to knit in the round. While we chose a neutral palette, we think this cowl would be stunning worked up with a series of saturated and/or speckled hand-dyed Solo colourways in brights and jewel tones. Artfil Solo is a lusciously soft single-ply merino and is a perfect choice for accessories and garments that will be worn next to the skin.",
-  "techniques": [],
+  "full_text": "Knitted baubles in DROPS Lima. The piece is worked in the round, bottom up, with multi-coloured Nordic pattern. Theme: Christmas. ~~~~~~~~~~~~~~~~~~~~~~~~ DROPS Design: Pattern li-172 Yarn group B SIZE : Circumference = 23 cm. Diameter = 7 cm. YARN : DROPS LIMA from Garnstudio (belongs to yarn group B) 50 g colour 0100, off white 50 g colour 0705, olive 50 g colour 0707, rust 50 g colour 2923, goldenrod 50 g colour 5610, deep taupe 50 g colour 9021, brick red 50 g colour 9022, blush 50 g colour 9023, maroon 50 g colour 9024, almond ACCESSORIES : Wadding. 1 bauble weighs approx. 12 grams, without wadding. NEEDLES : DROPS DOUBLE POINTED NEEDLES SIZE 3 MM. DROPS CROCHET HOOK SIZE 3 MM. KNITTING TENSION: 23 stitches in width and 32 rows in height with stocking stitch and Nordic pattern = 10 x 10 cm. NOTE: Needle size is only a guide. If you get too many stitches on 10 cm, change to a larger needle size. If you get too few stitches on 10 cm, change to a smaller needle size.",
+  "techniques": [
+    "worked in the round"
+  ],
   "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/bolton-pass-hat",
-    "https://www.ravelry.com/patterns/library/flying-solo/people",
-    "https://www.ravelry.com/patterns/library/flying-solo/posts",
-    "https://www.ravelry.com/patterns/library/the-classic-2",
-    "https://www.ravelry.com/patterns/library/flying-solo",
-    "https://www.ravelry.com/patterns/library/flying-solo/threads",
-    "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm",
-    "https://www.ravelry.com/patterns/library/flying-solo/yarns",
-    "https://www.ravelry.com/patterns/sources/espace-tricot-ravelry-store",
-    "https://www.ravelry.com/patterns/library/flying-solo/editors",
-    "https://www.ravelry.com/patterns/library/flying-solo/comments",
-    "https://www.ravelry.com/patterns/library/flying-solo/report"
-  ]
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/report",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/people",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/editors",
+    "https://www.garnstudio.com/pattern.php?id=11655&cid=19",
+    "https://www.ravelry.com/patterns/library/0-547-sweet-chick-shoulder-wrap",
+    "https://www.ravelry.com/patterns/periodicals/drops-christmas-calendar",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/edit",
+    "https://www.ravelry.com/patterns/sources/drops-christmas-calendar-2023",
+    "https://www.ravelry.com/patterns/library/197-3-b-old-mill-hat",
+    "https://www.ravelry.com/patterns/sources/drops-design",
+    "https://www.ravelry.com/patterns/library/192-66-pomegranate-punch",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/threads",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/comments",
+    "https://www.ravelry.com/patterns/library/0-1607-jolly-holly-days/yarns"
+  ],
+  "name": "Ravelry: 0-1607 Jolly Holly Days pattern by DROPS design"
 }

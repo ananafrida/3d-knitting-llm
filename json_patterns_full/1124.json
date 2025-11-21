@@ -1,38 +1,36 @@
 {
   "pattern_id": 1124,
-  "pattern_page": "https://www.ravelry.com/patterns/library/flower-girls",
-  "name": "Flower Girls",
-  "description": "",
-  "designer": "Esther Braithwaite",
+  "pattern_page": "https://www.ravelry.com/patterns/library/rechts-wird-nur-gestrickt",
+  "name": "Rechts wird nur gestrickt",
+  "description": "Rechts wird nur gestrickt",
+  "designer": "Daniela Mühlbauer",
   "craft": "Knitting",
-  "category": "Softies → Doll",
-  "sizes_available": "Fingering 4 3/4\"; DK/Sport 5 1/4\"; Worsted 6\"",
+  "category": "Applique / Embellishment",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
+  "sizes_available": "je nach Garnstärke",
   "languages": [
-    "English"
+    "German"
+  ],
+  "suggested_yarn": [
+    "jedes Garn ist möglich"
   ],
   "attributes": [
-    "bottom-up",
-    "chart",
-    "one-piece",
-    "written-pattern"
+    "stranded"
   ],
-  "full_text": "Construction Flower Girls are knit in one piece from the bottom-up. The doll’s body can be knit flat on straight needles and seamed, or knit in the round on dpns. After knitting, the skirt is worked from stitches picked up around the doll’s waist and embellished with hand embroidery stitches. Simple sewing techniques are used to define the arms and legs after knitting. Gauge Exact gauge is not important. I recommend choosing a needle 2 or 3 sizes smaller than recommended on the ball band to create a dense fabric that will keep the stuffing hidden.",
-  "techniques": [
-    "bottom-up",
-    "seamed"
-  ],
-  "shape": "sphere",
+  "full_text": "You only knit on the right. With this template you can knit a patch with the saying “Only knit on the right”. You can then sew the patches onto your hat, clothing, backpack or bag. The template is also suitable for embroidering the saying in stitches on knitted items or for cross-stitching textiles. You can also put it in your own project, e.g. B. sweater, and use the chart as a knitting pattern. What else you can do: Go to demos and demonstrate against the right! Get involved in our democracy, even on a small scale. Show a clear stance against fascism. Size of the patches: depending on the yarn thickness, mine is 12 x 22 cm Stitch sample: not important Yarn: any yarn is suitable, you need at least 2 colors of the same yarn thickness with good contrast Usage: my patch weighs 20 grams Needles and accessories: knitting needles that match your yarn thickness. I knitted with 4-ply sock yarn (used twice) and a 3.5 mm needle, sewing needle, scissors. Please also note my other free instructions with sayings against the right! Only right is knitted is in English: Right is only ok in knitting. To knit means in German “to knit right or right stitches” (to purl is to knit left or left stitches).",
+  "techniques": [],
+  "shape": "cylinder",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/flower-girls/threads",
-    "https://www.ravelry.com/patterns/library/cozy-izzy-dolls",
-    "https://www.ravelry.com/patterns/library/flower-girls/report",
-    "https://www.ravelry.com/patterns/library/flower-girls",
-    "https://www.ravelry.com/patterns/library/jungle-buddies-2",
-    "https://www.ravelry.com/patterns/library/flower-girls/editors",
-    "https://www.ravelry.com/patterns/library/flower-girls/comments",
-    "https://www.ravelry.com/patterns/library/flower-girls/people",
-    "https://www.ravelry.com/patterns/sources/esther-braithwaites-ravelry-store",
-    "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
-    "https://www.ravelry.com/patterns/library/flower-girls/yarns"
+    "https://www.ravelry.com/patterns/library/rechts-wird-nur-gestrickt/editors",
+    "https://www.ravelry.com/patterns/library/rechts-wird-nur-gestrickt/comments",
+    "https://www.ravelry.com/patterns/library/rechts-wird-nur-gestrickt",
+    "https://www.ravelry.com/patterns/library/rechts-wird-nur-gestrickt/people",
+    "https://www.ravelry.com/patterns/library/bohemian-spa-shawl",
+    "https://www.ravelry.com/patterns/sources/daniela-muhlbauers-ravelry-store",
+    "https://www.ravelry.com/patterns/library/rechts-wird-nur-gestrickt/report",
+    "https://www.ravelry.com/patterns/library/ramona-12",
+    "https://www.ravelry.com/patterns/library/rechts-wird-nur-gestrickt/threads",
+    "https://www.ravelry.com/patterns/library/rechts-wird-nur-gestrickt/yarns",
+    "https://www.ravelry.com/patterns/library/festival-hood"
   ]
 }

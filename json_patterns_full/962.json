@@ -1,40 +1,42 @@
 {
   "pattern_id": 962,
-  "pattern_page": "https://www.ravelry.com/patterns/library/stockinette-short-row-sphere",
+  "pattern_page": "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small",
   "craft": "Knitting",
-  "category": "Ball",
+  "category": "Toys and Hobbies → Other",
+  "needle_size": "US 2 (2.75 mm), US 2 (2.75 mm)",
   "languages": [
     "English"
   ],
   "suggested_yarn": [
-    ""
+    "Sport (12 wpi) ?",
+    "Red Heart Luster Sheen Multi"
   ],
   "attributes": [
-    "provisional",
-    "short-rows",
-    "sphere-shaped",
-    "unisex",
+    "in-the-round",
+    "tied",
+    "top-down",
     "written-pattern"
   ],
-  "full_text": "This is a pattern for knitting a mathematically accurate sphere using short rows in stockinette. Leftovers are enough, and there are no specific requirements for yarn, needles or gauge.",
-  "techniques": [
-    "short rows"
-  ],
-  "shape": "sphere",
+  "full_text": "Since hubby is a hard-core D&D geek, he has lots of dice. I decided that he needed a nifty bag to keep them in, so I made the red version . Then I decided I wanted it for my dice, and made the felted version for him. The smallest one was made for a set of 100 tiny 6-sided dice (4mm on a side) These would also work well in non-geek applications, and are great stashbusters – I didn’t use anywhere near a full skein for any of them. Gauge is not critical, but I have given mine as a reference. You can download the .pdf file here , or follow the link to my blog.",
+  "techniques": [],
+  "shape": "unknown",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/stockinette-short-row-sphere/yarns",
-    "https://www.ravelry.com/patterns/library/stockinette-short-row-sphere/people",
-    "https://www.ravelry.com/patterns/library/stockinette-short-row-sphere/posts",
-    "https://www.ravelry.com/patterns/library/herringbone-iphone-cosy",
-    "https://www.ravelry.com/patterns/library/knitted-kaleidocycles",
-    "https://www.ravelry.com/patterns/library/stockinette-short-row-sphere",
-    "https://www.ravelry.com/patterns/sources/brentusfirmus",
-    "https://www.ravelry.com/patterns/library/stockinette-short-row-sphere/threads",
-    "https://www.ravelry.com/patterns/library/stockinette-short-row-sphere/report",
-    "https://www.ravelry.com/patterns/library/stockinette-short-row-sphere/editors",
-    "https://www.ravelry.com/patterns/library/stockinette-short-row-sphere/comments",
-    "http://brentusfirmus.wordpress.com/2008/04/20/sphere-pattern/",
-    "https://www.ravelry.com/patterns/library/self-intersecting-basketweave-coaster"
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/threads",
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/report",
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/comments",
+    "https://www.ravelry.com/patterns/sources/katydid-knits",
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/editors",
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/posts",
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-felted",
+    "http://katydidknits.blogspot.com/2005/10/geek-chic-dice-bags-pattern.html",
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/yarns",
+    "http://www.ravelry.com/patterns/show/geek-chic-dice-pouch-felted",
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small/people",
+    "http://katydidknits.digital-arcana.com/documents/GeekChicDicePouch.pdf",
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-medium",
+    "https://www.ravelry.com/patterns/library/geek-chic-dice-pouch-small",
+    "http://www.ravelry.com/patterns/show/geek-chic-dice-pouch-medium",
+    "https://www.ravelry.com/patterns/library/jack-sparrows-favorite-socks"
   ],
-  "name": "Ravelry: Stockinette Short-Row Sphere pattern by Brent Annable"
+  "name": "Ravelry: Geek Chic Dice Pouch (small) pattern by Pamela Northrup"
 }

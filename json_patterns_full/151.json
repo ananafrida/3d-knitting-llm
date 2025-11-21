@@ -1,39 +1,42 @@
 {
   "pattern_id": 151,
-  "pattern_page": "https://www.ravelry.com/patterns/library/squishy-baby-blocks",
-  "name": "Squishy Baby Blocks",
-  "description": "I was looking for a pattern for simple, 2” blocks to knit. I found lots of patterns, but none was quite what I wanted, so I just sat down with needles and yarn and put this together. I hope you like it!",
-  "designer": "PJ Allen",
+  "pattern_page": "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4",
+  "name": "Bluebird of Happiness",
+  "description": "This little bird will bring you happiness when you make it, and happiness to the one you make it for. Knit in the round, it is one piece from head to tail (which means no seaming), and easily made in an hour or two.",
+  "designer": "Sara Elizabeth Kellner",
   "craft": "Knitting",
-  "category": "Blocks",
-  "needle_size": "US 6 (4.0 mm), US 6 (4.0 mm)",
+  "category": "Softies → Animal",
+  "needle_size": "US 4 (3.5 mm), US 4 (3.5 mm)",
   "languages": [
+    "Dutch",
     "English"
   ],
   "suggested_yarn": [
-    "Any Worsted Weight Yarn",
+    "",
     "Worsted (9 wpi) ?"
   ],
   "attributes": [
-    "cube-shaped",
-    "seamed",
-    "written-pattern"
+    "in-the-round",
+    "one-piece",
+    "seamless",
+    "short-rows"
   ],
-  "full_text": "I was looking for a pattern for simple, 2” blocks to knit. I found lots of patterns, but none was quite what I wanted, so I just sat down with needles and yarn and put this together. I hope you like it! As you can see, I chose to embroider uppercase letters on my blocks. If you wish to do the same, just pick a stitch you like (I used the lazy daisy chain stitch ) and go for it! You may stuff with fiberfill, if you wish. I wanted a little more structure, so I cut up 2” upholstery foam to put inside my blocks. I really like it a lot better than using fiberfill for this project. Disclaimer: For all the complaining I did about cutting the foam, it really isn’t hard. DO NOT let that stop you. My complaining is because I wanted my cubes to be 100% perfect, like me…lol! But really, it’s not hard, I promise. You can totally do it! :) Any worsted-weight yarn will do. As a matter of fact, ANY yarn can work! Just make sure that when you knit your squares, they will cover a side of your cube, plus an extra row/column for seaming. Have fun with it!",
+  "full_text": "This little bird will bring you happiness when you make it, and happiness to the one you make it for. Knit in the round, it is one piece from head to tail (which means no seaming), and easily made in an hour or two.",
   "techniques": [],
-  "shape": "cube",
+  "shape": "sphere",
   "download_links": [
-    "https://www.ravelry.com/patterns/library/mittens-with-a-flap",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/report",
-    "https://www.ravelry.com/patterns/library/grammas-dishcloth-grandmothers-2nd-favorite",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/threads",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/people",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/comments",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/editors",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/posts",
-    "https://www.ravelry.com/patterns/library/easy-peasy-christmas-trees-y-tutorial",
-    "https://www.ravelry.com/patterns/library/squishy-baby-blocks/yarns",
-    "https://www.ravelry.com/patterns/sources/prettyknittyjewelry-designs"
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/threads",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/posts",
+    "https://www.ravelry.com/patterns/library/rats",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/yarns",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/report",
+    "https://www.ravelry.com/patterns/sources/knitting-for-beginners---third-edition",
+    "https://www.ravelry.com/patterns/library/henrys-bunny",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/comments",
+    "https://www.ravelry.com/patterns/sources/rabbit-hole-knits",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/editors",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4/people",
+    "https://www.ravelry.com/patterns/library/bluebird-of-happiness-4",
+    "https://www.ravelry.com/patterns/library/tiny-window-cat"
   ]
 }
