@@ -1,5 +1,14 @@
 # Pattern JSON → Schema Population Protocol (README)
 
+## Source File
+Use the provided Excel sheet as your data source.
+[View Excel Sheet](<https://docs.google.com/spreadsheets/d/1a1Q1leHyvyKufArI4GBarh9pBaAVrPp1Rr6kg7Qn_vM/edit?usp=sharing>)
+
+## File Naming
+Name each output file using the **seed_id** from the Excel sheet.
+
+**Format:** `seed_<id>` (e.g., `seed_1`, `seed_2`)
+
 ## Goals and Picture
 
 We want a consistent procedure for turning a raw pattern JSON (from Ravelry or other sites) into a populated instance of our `schema.json`. This protocol should be followed by both humans and the LLM so that:
