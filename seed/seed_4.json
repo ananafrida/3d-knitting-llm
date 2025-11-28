@@ -1,0 +1,368 @@
+{
+    "title": "Knubbelchen",
+    "url": "https://www.ravelry.com/patterns/library/knubbelchen",
+    "source": "ravelry",
+    "language": [
+        "English",
+        "German",
+        "Dutch",
+        "Danish"
+    ],
+    "license": "Free for personal/non-commercial use only. Re-publication and commercial use prohibited.",
+    "attribution": {
+        "designer": "pezi888",
+        "publisher": "pezi888 (Ravelry)",
+        "year": "2012"
+    },
+    "classification": {
+        "shape_category": [
+            "softie",
+            "organic"
+        ],
+        "construction_method": [
+            "in_the_round",
+            "top_down",
+            "increases",
+            "decreases"
+        ],
+        "attributes": [
+            "3-dimensional",
+            "in-the-round",
+            "seamless",
+            "three-needle-bind",
+            "top-down",
+            "written-pattern",
+            "soft toy",
+            "doll"
+        ]
+    },
+    "materials": {
+        "suggested_yarns": [
+            {
+                "name": "Sock yarn",
+                "brand": null,
+                "weight_cyc": "1",
+                "fiber": null,
+                "colorway": null,
+                "yardage_per_skein": null,
+                "grams_per_skein": 35
+            }
+        ],
+        "needles": [
+            {
+                "us_size": "US 1–2",
+                "mm": 2.5,
+                "type": "dpn",
+                "length_mm": null
+            }
+        ],
+        "notions": [
+            "polyfill stuffing",
+            "tapestry needle",
+            "stitch markers (4–5)",
+            "waste yarn"
+        ]
+    },
+    "gauge": {
+        "stitches_per_10cm": null,
+        "rows_per_10cm": null,
+        "stitch_pattern": null
+    },
+    "sizes": {
+        "sizes_available": [
+            "One size"
+        ],
+        "finished_dimensions": null
+    },
+    "components": [
+        {
+            "name": "Head",
+            "role": "core",
+            "order": 1,
+            "joins": [
+                "Head is knit directly and later pulled closed at top and stuffed."
+            ],
+            "instructions": {
+                "as_text": "CO 40 sts, join in the round. Knit 22 rounds.",
+                "steps": [
+                    {
+                        "index": 1,
+                        "howto_summary": "Cast on and join in the round.",
+                        "row_or_round": "round",
+                        "count": 1,
+                        "technique_tags": [
+                            "in_the_round"
+                        ],
+                        "stitch_count_after": 40,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 2,
+                        "howto_summary": "Knit straight to form head.",
+                        "row_or_round": "round",
+                        "count": 22,
+                        "technique_tags": [
+                            "in_the_round"
+                        ],
+                        "stitch_count_after": 40,
+                        "chart_ref": null
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Body",
+            "role": "core",
+            "order": 2,
+            "joins": [
+                "Worked directly below head"
+            ],
+            "instructions": {
+                "as_text": "Increase around markers until 136 sts, then divide for arms.",
+                "steps": [
+                    {
+                        "index": 1,
+                        "howto_summary": "Place markers and begin increase rounds.",
+                        "row_or_round": "round",
+                        "count": null,
+                        "technique_tags": [
+                            "increases",
+                            "in_the_round"
+                        ],
+                        "stitch_count_after": 56,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 2,
+                        "howto_summary": "Continue increasing every other round until 136 sts.",
+                        "row_or_round": "round",
+                        "count": null,
+                        "technique_tags": [
+                            "increases",
+                            "in_the_round"
+                        ],
+                        "stitch_count_after": 136,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 3,
+                        "howto_summary": "Divide stitches for arms and torso.",
+                        "row_or_round": null,
+                        "count": null,
+                        "technique_tags": [],
+                        "stitch_count_after": 68,
+                        "chart_ref": null
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Arms (Left & Right)",
+            "role": "attachment",
+            "order": 3,
+            "joins": [
+                "Stitches held on waste yarn are picked up at the armpit and decreased"
+            ],
+            "instructions": {
+                "as_text": "Each arm is shaped using ssk and k2tog decreases to 10 sts, then bound off with three-needle bind-off.",
+                "steps": [
+                    {
+                        "index": 1,
+                        "howto_summary": "Pick up stitches and begin arm round.",
+                        "row_or_round": "round",
+                        "count": 1,
+                        "technique_tags": [
+                            "in_the_round"
+                        ],
+                        "stitch_count_after": 34,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 2,
+                        "howto_summary": "Decrease gradually to 10 stitches.",
+                        "row_or_round": "round",
+                        "count": null,
+                        "technique_tags": [
+                            "decreases"
+                        ],
+                        "stitch_count_after": 10,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 3,
+                        "howto_summary": "Bind off using 3-needle bind-off.",
+                        "row_or_round": null,
+                        "count": 1,
+                        "technique_tags": [
+                            "grafting"
+                        ],
+                        "stitch_count_after": 0,
+                        "chart_ref": null
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Legs (Left & Right)",
+            "role": "attachment",
+            "order": 4,
+            "joins": [
+                "Formed from held stitches at crotch"
+            ],
+            "instructions": {
+                "as_text": "Each leg decreases evenly to 10 sts and is finished with three-needle bind-off.",
+                "steps": [
+                    {
+                        "index": 1,
+                        "howto_summary": "Divide stitches and join to form leg.",
+                        "row_or_round": "round",
+                        "count": 1,
+                        "technique_tags": [
+                            "in_the_round"
+                        ],
+                        "stitch_count_after": 34,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 2,
+                        "howto_summary": "Decrease progressively to 10 stitches.",
+                        "row_or_round": "round",
+                        "count": null,
+                        "technique_tags": [
+                            "decreases"
+                        ],
+                        "stitch_count_after": 10,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 3,
+                        "howto_summary": "Bind off using 3-needle bind-off.",
+                        "row_or_round": null,
+                        "count": 1,
+                        "technique_tags": [
+                            "grafting"
+                        ],
+                        "stitch_count_after": 0,
+                        "chart_ref": null
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Hat",
+            "role": "detail",
+            "order": 5,
+            "joins": [
+                "Sewn onto head"
+            ],
+            "instructions": {
+                "as_text": "CO 42, decrease in set pattern until 10 sts remain, BO with 3-needle bind-off.",
+                "steps": [
+                    {
+                        "index": 1,
+                        "howto_summary": "Cast on and knit straight for 15 rounds.",
+                        "row_or_round": "round",
+                        "count": 15,
+                        "technique_tags": [
+                            "in_the_round"
+                        ],
+                        "stitch_count_after": 42,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 2,
+                        "howto_summary": "Decrease symmetrically to 10 stitches.",
+                        "row_or_round": "round",
+                        "count": null,
+                        "technique_tags": [
+                            "decreases"
+                        ],
+                        "stitch_count_after": 10,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 3,
+                        "howto_summary": "Bind off with 3-needle bind-off.",
+                        "row_or_round": null,
+                        "count": 1,
+                        "technique_tags": [
+                            "grafting"
+                        ],
+                        "stitch_count_after": 0,
+                        "chart_ref": null
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Skirt (optional - girl version)",
+            "role": "detail",
+            "order": 6,
+            "joins": [
+                "Picked up from purl ridge and knit downward"
+            ],
+            "instructions": {
+                "as_text": "Pick up 68 sts and knit patterned rounds with M1 increases and purl ridges, bind off loosely.",
+                "steps": [
+                    {
+                        "index": 1,
+                        "howto_summary": "Pick up 68 stitches from body.",
+                        "row_or_round": "round",
+                        "count": 1,
+                        "technique_tags": [
+                            "pick_up_stitches"
+                        ],
+                        "stitch_count_after": 68,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 2,
+                        "howto_summary": "Work patterned skirt with increases.",
+                        "row_or_round": "round",
+                        "count": 10,
+                        "technique_tags": [
+                            "increases",
+                            "in_the_round"
+                        ],
+                        "stitch_count_after": null,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 3,
+                        "howto_summary": "Bind off and weave in ends.",
+                        "row_or_round": null,
+                        "count": 1,
+                        "technique_tags": [],
+                        "stitch_count_after": 0,
+                        "chart_ref": null
+                    }
+                ]
+            }
+        }
+    ],
+    "text": {
+        "full_text": "„Knubbelchen“ is a small knitted doll that can snuggle, comfort, and bring joy. It is worked in one seamless piece in the round with very little sewing required. It is quick to knit and suitable as a small gift or for charity projects. Includes instructions for both a boy and girl version, with an optional skirt for the girl. Commercial use or re-publication is prohibited. Materials list and full instructions provided in multiple languages. Skirt amendment and correction provided in separate supplement PDF. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}",
+        "description": "A seamless knitted soft doll worked in the round, with optional skirt for a girl version. Ideal for small gifts or charity knitting."
+    },
+    "downloads": {
+        "links": [
+            "ENG_Knubbelchen.pdf",
+            "NL_Knubbelchen.pdf",
+            "DAN_Knubbelchen.pdf",
+            "Knubbelchen-Anleitung.pdf",
+            "Knubbe_linchen__Ergaenzungs-Anleitung_fuer_Rock.pdf"
+        ]
+    },
+    "media": {
+        "images": [],
+        "charts_available": false
+    },
+    "provenance": {
+        "extracted_from": "ENG_Knubbelchen.pdf",
+        "extraction_time": null,
+        "fields_confidence": {
+            "needle_size": 0.94,
+            "shape_category": 0.85
+        }
+    }
+}
