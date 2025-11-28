@@ -1,0 +1,256 @@
+{
+    "title": "Lappestafetten",
+    "url": "https://www.ravelry.com/patterns/library/lappestafetten",
+    "source": "ravelry",
+    "language": [
+        "English",
+        "Norwegian"
+    ],
+    "license": "null",
+    "attribution": {
+        "designer": "Gunn-Iren Gunvorsdatter Simensen",
+        "publisher": "Gunn-Iren Gunvorsdatter Simensen's Ravelry Store",
+        "year": "2024"
+    },
+    "classification": {
+        "shape_category": [
+            "flat"
+        ],
+        "construction_method": [
+            "flat_seamed",
+            "increases",
+            "decreases"
+        ],
+        "attributes": [
+            "square"
+        ] // tags like “chart”, “written-pattern”, “square”, etc.
+    },
+    "materials": {
+        "suggested_yarns": [
+            {
+                "name": "Wool Yarn",
+                "brand": "Vartofta",
+                "weight_cyc": null,
+                "fiber": null,
+                "colorway": null,
+                "yardage_per_skein": null,
+                "grams_per_skein": null
+            },
+            {
+                "name": "Cotton Yarn",
+                "brand": "Hemtex",
+                "weight_cyc": null,
+                "fiber": null,
+                "colorway": null,
+                "yardage_per_skein": null,
+                "grams_per_skein": null
+            },
+            {
+                "name": "Fortuna Sock Yarn",
+                "brand": "Yarn Store",
+                "weight_cyc": null,
+                "fiber": null,
+                "colorway": null,
+                "yardage_per_skein": null,
+                "grams_per_skein": null
+            },
+            {
+                "name": "Rauma Finull",
+                "brand": "Rauma",
+                "weight_cyc": null,
+                "fiber": null,
+                "colorway": null,
+                "yardage_per_skein": null,
+                "grams_per_skein": null
+            },
+            {
+                "name": "Rauma Petunia",
+                "brand": "Rauma",
+                "weight_cyc": null,
+                "fiber": null,
+                "colorway": null,
+                "yardage_per_skein": null,
+                "grams_per_skein": null
+            },
+            {
+                "name": "Drops Safran",
+                "brand": "Drops",
+                "weight_cyc": null,
+                "fiber": null,
+                "colorway": null,
+                "yardage_per_skein": null,
+                "grams_per_skein": null
+            },
+            {
+                "name": "Hobbii Baby Cotton",
+                "brand": "Hobbii",
+                "weight_cyc": null,
+                "fiber": null,
+                "colorway": null,
+                "yardage_per_skein": null,
+                "grams_per_skein": null
+            },
+            {
+                "name": "Worsted (9 wpi)",
+                "brand": null,
+                "weight_cyc": "4",
+                "fiber": null,
+                "colorway": null,
+                "yardage_per_skein": null,
+                "grams_per_skein": null
+            }
+        ],
+        "needles": [
+            {
+                "us_size": "US 0",
+                "mm": 2.0,
+                "type": null,
+                "length_mm": null
+            },
+            {
+                "us_size": "US 15",
+                "mm": 10.0,
+                "type": null,
+                "length_mm": null
+            },
+            {
+                "us_size": null,
+                "mm": 3.0,
+                "type": null,
+                "length_mm": null
+            },
+            {
+                "us_size": null,
+                "mm": 3.5,
+                "type": null,
+                "length_mm": null
+            }
+        ],
+        "notions": [
+            "stitch markers",
+            "tapestry needle"
+        ]
+    },
+    "gauge": {
+        "stitches_per_10cm": null,
+        "rows_per_10cm": null,
+        "stitch_pattern": null
+    },
+    "sizes": {
+        "sizes_available": [
+            "One size"
+        ],
+        "finished_dimensions": null
+    },
+    "components": [
+        {
+            "name": "Square module",
+            "role": "core",
+            "order": 1,
+            "joins": [
+                "Used as an afghan block / cloth / patch in a larger blanket or dishcloth set. Joined by sewing or edge-to-edge joining in final assembly if making a blanket."
+            ],
+            "instructions": {
+                "as_text": "Cast on 50 stitches. Work several garter ridges by knitting back and forth, slipping the last stitch with yarn in front. Follow charted/patterned rows containing yarn-overs, k2tog, ssk-style decreases, and knit/purl motif sections. Repeat the main motif (flower, V-shape, retro, check, or textured pattern depending on the month’s design). Finish with additional garter ridges. Bind off loosely and block square.",
+                "steps": [
+                    {
+                        "index": 1,
+                        "howto_summary": "Cast on stitches and establish garter-stitch edge with slipped stitch border",
+                        "row_or_round": "row",
+                        "count": 6,
+                        "technique_tags": [
+                            "garter",
+                            "selvage",
+                            "slip_stitch"
+                        ],
+                        "stitch_count_after": 50,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 2,
+                        "howto_summary": "Work central motif according to text or chart (yarn overs + decreases to create pattern)",
+                        "row_or_round": "row",
+                        "count": null,
+                        "technique_tags": [
+                            "increases",
+                            "decreases",
+                            "yo",
+                            "k2tog",
+                            "ssk",
+                            "slip_stitch",
+                            "charted_pattern",
+                            "textured"
+                        ],
+                        "stitch_count_after": null,
+                        "chart_ref": "Main diagram / chart"
+                    },
+                    {
+                        "index": 3,
+                        "howto_summary": "Repeat motif for desired number of pattern repeats (often 7–14 repeats depending on design)",
+                        "row_or_round": "row",
+                        "count": null,
+                        "technique_tags": [
+                            "repetition",
+                            "modular_repeat"
+                        ],
+                        "stitch_count_after": null,
+                        "chart_ref": "Main diagram / chart"
+                    },
+                    {
+                        "index": 4,
+                        "howto_summary": "Finish with garter-stitch border",
+                        "row_or_round": "row",
+                        "count": 6,
+                        "technique_tags": [
+                            "garter",
+                            "selvage"
+                        ],
+                        "stitch_count_after": 50,
+                        "chart_ref": null
+                    },
+                    {
+                        "index": 5,
+                        "howto_summary": "Bind off loosely and block to a square",
+                        "row_or_round": null,
+                        "count": null,
+                        "technique_tags": [
+                            "bind_off",
+                            "blocking"
+                        ],
+                        "stitch_count_after": null,
+                        "chart_ref": null
+                    }
+                ]
+            }
+        }
+    ],
+    "text": {
+        "full_text": "The Lap Relay (Lappestafetten) is a knitted square / afghan block project released monthly by different designers. Participants cast on 50 stitches and knit flat using garter-stitch borders and a central charted or written motif. Techniques include yarn overs, slip stitches, k2tog, SSK-style decreases, textured stitches, and patterned repeats. The finished squares can be joined to make a patchwork blanket or used individually as cloths. Yarn and needle size are flexible based on preference, with examples including wool and cotton yarns such as Rauma Finull, Drops Safran, Hobbii Baby Cotton, Rauma Petunia, and others. Each square is finished with a garter border and loosely bound off, then blocked to shape. Pattern is available as a free Ravelry download in Norwegian.",
+        "description": "A free monthly knitted square (afghan block) from Lappestafetten, designed to be used in patchwork blankets or as cloths."
+    },
+    "downloads": {
+        "links": [
+            "/mnt/data/Pa_kryss_og_tvers-_lappen.pdf",
+            "/mnt/data/V-lappen_-_April2025__kopi_.pdf",
+            "/mnt/data/Retrolappen-_Lappestafetten..pdf",
+            "/mnt/data/Lappestafetten_Safransax_Blondeklut.pdf",
+            "/mnt/data/20240608T095133438.att.3735821833401392 (1).pdf",
+            "/mnt/data/Mobas_lille_lapp.pdf",
+            "/mnt/data/Lappestafetten_Sjakk_den_lappen_redigerte (5).pdf",
+            "/mnt/data/Lappelappen_ny.pdf",
+            "/mnt/data/Lappestafetten (4).pdf"
+        ]
+    },
+    "media": {
+        "images": [],
+        "charts_available": true
+    },
+    "provenance": {
+        "extracted_from": "combined_lappestafetten_seed_set",
+        "extraction_time": null,
+        "fields_confidence": {
+            "needle_size": 0.94,
+            "shape_category": 0.9
+        }
+    }
+}
