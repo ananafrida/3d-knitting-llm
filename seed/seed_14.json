@@ -1,0 +1,110 @@
+{
+  "title": "Jazz Age beaded scarf",
+  "url": "https://www.ravelry.com/patterns/library/jazz-age-beaded-scarf",
+  "source": "ravelry",
+  "language": ["English"],
+  "license": null,
+  "attribution": {
+    "designer": "Pat Gordon-Smith",
+    "publisher": "Pat Gordon-Smith's Ravelry Store",
+    "year": 2025
+  },
+
+  "classification": {
+    "shape_category": ["flat"],
+    "construction_method": ["flat_seamed","decreases"],
+    "attributes": [
+      "adult",
+      "beads",
+      "doubleknit",
+      "lace",
+      "one-piece",
+      "seamless",
+      "teen",
+      "unisex",
+      "worked-flat"
+    ]
+  },
+
+  "materials": {
+    "suggested_yarns": [
+      {
+        "name": "Felted Tweed",
+        "brand": "Rowan",
+        "weight_cyc": "3",
+        "fiber": "50% Wool - Merino\n25% Camelid - Alpaca\n25% Manufactured Fibers - Rayon / Viscose",
+        "colorway": "Carbon",
+        "yardage_per_skein": "191 yards (175 meters)",
+        "grams_per_skein": "50 grams (1.76 ounces)"
+      }
+    ],
+    "needles": [
+      {
+        "us_size": "US 3",
+        "mm": 3.25,
+        "type": "dpn",
+        "length_mm": null
+      }
+    ],
+    "notions": ["0.6mm crochet hook", "Debbie Abrahams 6mm beads, shade Rainbow, 722"]
+  },
+
+  "gauge": {
+    "stitches_per_10cm": 30,
+    "rows_per_10cm": 40,
+    "stitch_pattern": "the beaded lace pattern"
+  },
+
+  "sizes": {
+    "sizes_available": ["One Size"],
+    "finished_dimensions": "180cm long x 20cm wide"
+  },
+
+  "components": [
+    {
+      "name": "body",
+      "role": "core",
+      "order": "1",
+      "joins": ["The bead is hooked on to the stitch you will knit/purl next, using the crochet hook (or other preferred tool). A tutorial is available here: https://debbieabrahams.com/blogs/beadingtechniques/hooked-in-beads"],
+      "instructions": {
+        "as_text": "Using 3.24mm needles, cast on 51 stitches\nRow 1 p1, *s3 knitwise, k1, p3sso, [yo, k1] 5 times, yo, k4tog, [p1, ktbl] twice, p1, repeat from *, s3 knitwise, k1, p3sso, [yo, k1] 5 times, yo, k4tog, p1\nRow 2 *k1, p13, [k1, pb, ptbl] twice, k1, repeat from *, p13, k1\nRow 3 *p1, k13, [p1, ktbl] twice, p1, repeat from *, k13, p1\nRow 4 *k1, p13, [k1, ptbl] twice, k1, repeat from *, p13, k1\nRow 5 rep Row 1\nRow 6 rep Row 4\nRow 7 rep Row 3\nRow 8 rep Row 4\nRow 9 p1, *s3 knitwise, pb, k1, p3sso, [yo, k1] 5 times, yo, pb, k4tog, [p1, ktbl] twice, p1, repeat from * to end\nRow 10 rep Row 4\nRow 11 rep Row 3\nRow 12 *k1, p3, pb, p6, pb, p4, [k1, ptbl] twice, k1, repeat from * to end\nRow 13 [k1, yo] twice, k3tog, *[p1, ktbl] twice, p1, s3 knitwise, k1, p3sso, [yo, k1] 5 times, yo, k4tog, rep from *, [p1, ktbl] twice, p1, s2 knitwise, k1, p2sso, [yo, k1] twice\nRow 14 p5, *[k1, pb, ptbl] twice, k1, p13, repeat from *, [k1, pb, ptbl] twice, k1, p5\nRow 15 k5, *[p1, ktbl] twice, p1, k13, repeat from *, [p1, ktbl] twice, p1, k5\nRow 16 p5, *[k1, ptbl] twice, k1, p13, repeat from *, [k1, ptbl] twice, k1, p5\nRow 17 rep Row 13\nRow 18 rep Row 16\nRow 19 rep Row 15\nRow 20 rep row 16\nRow 21 [k1, yo] twice, k3tog, *[p1, pb, ktbl] twice, p1, s3 knitwise, k1, p3sso, [yo, k1] 5 times, yo, k4tog, rep from *, [p1, pb ktbl] twice, p1, s2 knitwise, k1, p2sso, [yo, k1] twice\nRow 22 rep Row 16\nRow 23 rep Row 15\nRow 24 p1, pb, p4 *[p1, ktbl] twice, p1, k3, pb, k6, pb, k4, repeat from *, [p1, ktbl] twice, p1, p3, pb, p2",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "the beaded lace pattern",
+            "row_or_round": "row",
+            "count": 24,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 51,
+            "chart_ref": null
+          }
+        ]
+      }
+    }
+  ],
+
+  "text": {
+    "full_text": "A beaded scarf with an Art Deco look created using a lace stitch from ‘250 Japanese Knitting Stitches: The Original Pattern Bible by Hitomi Shida’. Skill level: Intermediate I used Rowan Felted Tweed because it’s lovely to work with. The beading emphasises the fan pattern, to enhance the Art Deco feel, and the beads were chosen to shimmer against the charcoal. There are 722 6mm beads (shade: Rainbow, Debbie Abrahams). The finished scarf is 180cm long (achieved over 23.5 pattern repeats) and 20cm wide (just short of 3 pattern repeats). This is an easier lace pattern than it looks, because each increase/decrease row is followed by three knit/purl rows, so lots of safe places to go back to if needed. The ribs help to locate where you are in the pattern. The only complicated aspect is knitting 3 or 4 stitches together immediately after a yarn on, because the yo tends to slip off before you can knit the next stitches together. Once in each repeat, this also requires a bead. The downloadable pattern includes some guidance on dealing with both. © Pat Gordon-Smith",
+    "description": "A beaded scarf with an Art Deco look created using a lace stitch from ‘250 Japanese Knitting Stitches: The Original Pattern Bible by Hitomi Shida’.",
+  },
+
+  "downloads": {
+    "links": [
+      "https://www.ravelry.com/download/2069892/free"
+    ]
+  },
+
+  "media": {
+    "images": [
+      "https://images4-g.ravelrycache.com/uploads/patgsmith/1102768916/scarf_on_form_small2.jfif",
+      "https://images4-f.ravelrycache.com/uploads/patgsmith/1102769133/scarf_pattern_small2.jfif"
+    ],
+    "charts_available": true
+  },
+
+  "provenance": {
+    "extracted_from": "1887.html",
+    "extraction_time": null,
+    "fields_confidence": null
+  }
+}

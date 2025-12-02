@@ -1,0 +1,128 @@
+{
+  "title": "Heel tab for short socks",
+  "url": "https://www.ravelry.com/patterns/library/fck-ice-frog-mod",
+  "source": "ravelry",
+  "language": ["English"],
+  "license": null,
+  "attribution": {
+    "designer": "Amanda Steck",
+    "publisher": "The Purl Bug",
+    "year": "2018"
+  },
+
+  "classification": {
+    "shape_category": ["cone"],
+    "construction_method": ["in_the_round", "short_rows", "pick_up_stitches", "increases", "decreases"],
+    "attributes": [
+      "hems",
+      "in-the-round",
+      "one-piece",
+      "short-rows",
+      "written-pattern"
+    ]
+  },
+
+  "materials": {
+    "suggested_yarns": [
+      {
+        "name": "fingering (14 wpi)",
+        "brand": null,
+        "weight_cyc": "1",
+        "fiber": null,
+        "colorway": null,
+        "yardage_per_skein": null,
+        "grams_per_skein": null
+      }
+    ],
+    "needles": [
+      {
+        "us_size": "US 1",
+        "mm": 2.25,
+        "type": "dpn",
+        "length_mm": null
+      },
+      {
+        "us_size": "US 1",
+        "mm": 2.25,
+        "type": "circular",
+        "length_mm": 609.6
+      },
+      {
+        "us_size": "US 1",
+        "mm": 2.25,
+        "type": "circular",
+        "length_mm": 812.8
+      }
+    ],
+    "notions": ["tapestry needle", "stitch markers (optional)", "row markers (optional)", "extra DPN"]
+  },
+
+  "gauge": {
+    "stitches_per_10cm": null,
+    "rows_per_10cm": null,
+    "stitch_pattern": null
+  },
+
+  "sizes": {
+    "sizes_available": ["S", "M", "L"],
+    "finished_dimensions": null
+  },
+
+  "components": [
+    {
+      "name": "heel tab",
+      "role": "core",
+      "order": "1",
+      "joins": ["After finishing the sock, fold over the cast-on edge to flatten the heel tab and sew the hem along the inside."],
+      "instructions": {
+        "as_text": "Cast on (56, 64, 72) stitches.  If you can, leave 18-24” (0.5 m) extra tail for sewing the hem later on.  Note - these instructions are written for magic loop, so “front needle” = the half of the sock that will be the top of the foot and “back needle” = the heel and sole side of the sock.\n\nJoin to work in the round and knit (3, 3, 4) rows plain.  Knit across the front needle.\n\nHeel tab:\nRow 1 (RS): knit (21, 23, 25) stitches, w&t - (6, 8, 10) stitches unworked\nRow 2 (WS): purl 14 stitches, w&t - (6, 8, 10) stitches unworked\nRow 3 (RS): knit 13 stitches, w&t\nRow 4 (WS): purl 12 stitches, w&t\nRow 5 (RS): knit 11 stitches, w&t\nRow 6 (WS): purl 10 stitches, w&t\n\nYo-yo row (RS): knit to end of back needle, properly resolving wraps as you come to them.  Knit across front needle and (6, 8, 10) stitches on back needle.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "cast on",
+            "row_or_round": "round",
+            "count": 4,
+            "technique_tags": [],
+            "stitch_count_after": 56,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "knit the heel tab",
+            "row_or_round": "row",
+            "count": 6,
+            "technique_tags": ["short_rows"],
+            "stitch_count_after": 6,
+            "chart_ref": null
+          }
+        ]
+      }
+    }
+  ],
+
+  "text": {
+    "full_text": "Short socks are the bane of my existence because they always fall down into my shoes. A lot of commercially-made socks prevent this with grippy silicone strips on the inside but that doesn’t help when it comes to knitting your own socks. So, I have been on a quest to figure out how to knit no-show socks that don’t fall down after a few steps and I think this is the answer! This “pattern” is only for the cuff and heel tab of the sock and is meant to be used with a flap and gusset heel. You can pair it with your favorite vanilla pattern or even with a patterned sock - just start the patterning after you pick up the gusset stitches for the heel. (Don’t have a favorite vanilla pattern? Try mine - it’s free! )",
+    "description": "This “pattern” is only for the cuff and heel tab of the sock and is meant to be used with a flap and gusset heel. You can pair it with your favorite vanilla pattern or even with a patterned sock - just start the patterning after you pick up the gusset stitches for the heel."
+  },
+
+  "downloads": {
+    "links": [
+      "https://thepurlbug.com/knitting/sock-mod-heel-tab",
+      "https://static1.squarespace.com/static/5514cc07e4b0d9aaa8b9ecc0/t/5a93eae5085229b264fd8c57/1519643373312/vanilla+sock.pdf"
+    ]
+  },
+
+  "media": {
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/5514cc07e4b0d9aaa8b9ecc0/1537531979205-FZF3ZIN9D3YYCSV5JXTY/IMG_0136.JPG?format=750w",
+      "https://images4-f.ravelrycache.com/uploads/purlbug/547793123/webp/IMG_0139_small2.webp#JPG"
+    ],
+    "charts_available": false
+  },
+
+  "provenance": {
+    "extracted_from": "1839.html",
+    "extraction_time": null,
+    "fields_confidence": null
+  }
+}

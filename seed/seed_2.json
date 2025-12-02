@@ -1,0 +1,152 @@
+{
+  "title": "FCK ICE Frog Mod",
+  "url": "https://www.ravelry.com/patterns/library/fck-ice-frog-mod",
+  "source": "ravelry",
+  "language": ["English"],
+  "license": null,
+  "attribution": {
+    "designer": "Lee Meredith",
+    "publisher": null,
+    "year": "2025"
+  },
+
+  "classification": {
+    "shape_category": ["softie","other"],
+    "construction_method": ["in_the_round","increases","decreases"],
+    "attributes": [
+      "in-the-round",
+      "modular",
+      "one-piece",
+      "seamless",
+      "worked-flat",
+      "written-pattern"
+    ]
+  },
+
+  "materials": {
+    "suggested_yarns": [
+      {
+        "name": "sport - aran range",
+        "brand": null,
+        "weight_cyc": "2-4",
+        "fiber": null,
+        "colorway": "green, white, black, optional red",
+        "yardage_per_skein": "40-50 yards total",
+        "grams_per_skein": null
+      }
+    ],
+    "needles": [
+      {
+        "us_size": null,
+        "mm": null,
+        "type": "dpn",
+        "length_mm": null
+      },
+      {
+        "us_size": null,
+        "mm": null,
+        "type": "circular",
+        "length_mm": null
+      }
+    ],
+    "notions": ["yarn needle", "stuffing"]
+  },
+
+  "gauge": {
+    "stitches_per_10cm": null,
+    "rows_per_10cm": null,
+    "stitch_pattern": null
+  },
+
+  "sizes": {
+    "sizes_available": ["Any"],
+    "finished_dimensions": null
+  },
+
+  "components": [
+    {
+      "name": "eye",
+      "role": "attachment",
+      "order": "1",
+      "joins": ["bottom edge can be sewn to other items"],
+      "instructions": {
+        "as_text": "Back Half\nWith green yarn, CO 8 sts, join to work in the round.\nRound 1: (K1, kfb) four times. 12 sts.\nRound 2: K1, (m1, k3) three times, m1, k2. 16 sts.\nRound 3: K all.\nRound 4: (M1, k2) eight times. 24 sts.\nRound 5: K all.\nTurn to begin working back and forth in rows\n(you’ll need to continue treating the needles as\nif you’re working in the round for at least a few\nmore rows, until it’s opened up more).\nWork rows below, stopping after a WS row at the\npoint when the piece measures 4–5.5\" across\nbottom, or however big you want your eyes.\nRow 6 (WS): P2tog, p to last 2 sts, p2tog. 22 sts.\nRow 7 (RS): K4, (m1, k2) eight times, k2. 30 sts.\nRow 8 (WS): P all.\nRow 9 (RS): K all.\nRow 10 (WS): P all.\nRow 11 (RS): K3, (k3, m1) seven times, k6. 37 sts.\nRow 12 (WS): P all.\nRow 13 (RS): K all.\nRow 14 (WS): P all.\nRow 15 (RS): K4, (k3, m1) nine times, k6. 46 sts.\nRow 16 (WS): P all.\nRow 17 (RS): K all.\nRow 18 (WS): P all.\nRow 19 (RS): K3, (k4, m1) nine times, k7. 55 sts.\nRow 20 (WS): P all.\nRow 21 (RS): K all.\nRow 22 (WS): P all.\nFront Half\nMake note of number of last row worked (WS row).\nTake that number (total rows worked) and divide it\nby 3. If that’s not a whole number, round up to the\nnext whole number. This number = x.\nSwitch to white yarn and begin working the rows\nbelow, starting with the number row beneath the\nlast row you worked. (So, the highest number was\nthe last green row, and now you’ll count back down\nfrom there. Eg, if you ended with row 14, begin with\nrow 13 below, skipping past rows 21–14.)\nWork like that, downwards through the rows below,\nuntil x rows have been worked in white.\nOnly if using the optional red:\nSwitch to red yarn and continue in pattern for\nx-1 more rows.\nMove to instructions below, but when switching\nfrom red to black—if this is happening after the\npiece has been rejoined in the round—slip the\nfirst stitch of the first black round if it’s meant\nto be a knit stitch; if the first stitch is k2tog,\nthen work that decrease in red, slip the next\nstitch, then switch to black.\nSwitch to black yarn and continue in pattern down\nto row 1 at the end (7 sts remain).\nRow 21 (RS): K all.\nRow 20 (WS): P all.\nRow 19 (RS): K3, (k3, k2tog) nine times, k7. 46 sts.\nRow 18 (WS): P all.\nRow 17 (RS): K all.\nRow 16 (WS): P all.\nRow 15 (RS): K4, (k2, k2tog) nine times, k6. 37 sts.\nRow 14 (WS): P all.\nRow 13 (RS): K all.\nRow 12 (WS): P all.\nRow 11 (RS): K3, (k2, k2tog) seven times, k6. 30 sts.\nRow 10 (WS): P all.\nRow 9 (RS): K all.\nRow 8 (WS): P all.\nRow 7 (RS): K3, (k2tog, k1) eight times, k3. 22 sts.\nJoin to other side to begin working in the round.\nRound 6: K1, pass last st of last row over this st, k1,\nm1, k to last st, m1, k1. 23 sts.\nRound 5: K all.\nRound 4: (K2tog, k1) seven times, k2tog. 15 sts.\nRound 3: K all.\nRound 2: (K2tog, k2) three times, k2tog, k1. 11 sts.\nRound 1: (K2tog, k1) three times, k2tog. 7 sts.\nFinishing\nBreak yarn, thread onto yarn needle, bring through\nlive sts then through hole to inside, and pull closed.\nThread CO tail onto yarn needle, weave yarn around\nthrough CO sts, bring yarn through hole to inside,\nand pull hole closed.\nWeave in all the other ends just a little if you didn't\ndo it while knitting, to secure them to the inside of\nthe piece. Yarn ends don't need to be trimmed—in\nfact, they're useful as part of the stuffing!\nTie the CO and ending tails together on the inside\nof the eye, tightly so that the back and front touch\nif you plan to use just a little stuffing, or more\nloosely if you want to stuff the eyes a lot and make\nthem more 3-dimensional.\nUse white yarn and the yarn needle to stitch a small\ncircle or star of embroidery in the upper right of\nthe edge of the black part. Note that you may prefer\nto wait and do this after the eyes are attached to an\nitem, so you can place the spots better in context.\nRepeat everything for the second eye.\nBlock the eyes by soaking, squeezing water out\nin a towel, and laying them flat to dry.\n",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "cast on and start the back half",
+            "row_or_round": "round",
+            "count": 5,
+            "technique_tags": ["increases", "decreases"],
+            "stitch_count_after": 24,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "knit the back half of plain colors",
+            "row_or_round": "row",
+            "count": 17,
+            "technique_tags": ["increases", "decreases"],
+            "stitch_count_after": 55,
+            "chart_ref": null
+          },
+          {
+            "index": 3,
+            "howto_summary": "knit the front half with a different color",
+            "row_or_round": "row",
+            "count": 15,
+            "technique_tags": ["increases", "decreases"],
+            "stitch_count_after": 22,
+            "chart_ref": null
+          },
+          {
+            "index": 4,
+            "howto_summary": "join with the other side",
+            "row_or_round": "round",
+            "count": 6,
+            "technique_tags": ["increases", "decreases"],
+            "stitch_count_after": 7,
+            "chart_ref": null
+          },
+          {
+            "index": 5,
+            "howto_summary": "weave in the yarn ends and post process",
+            "row_or_round": null,
+            "count": null,
+            "technique_tags": ["weaving in ends"],
+            "stitch_count_after": null,
+            "chart_ref": null
+          }
+        ]
+      }
+    }
+  ],
+
+  "text": {
+    "full_text": "This is an any-gauge pattern for frog eyes which can be sewn onto the top of a hat, balaclava, or headband. It’s kind of meant to pair with my old balaclava pattern Freak Out! , which has now been made free, so go grab that and you’ll have everything you need to make a frog mask! Make the Freak Out piece (also designed for any gauge) in green yarn, then use the same yarn for the eyes, along with white, black, and optional red yarns in the same weight. The way this pattern works to get any size eyes with any weight yarn (with no gauge swatch!) is to start at the center of the back side of the eye, work your way outwards until it’s the size you want, then switch to the front-eye colors and work your way inwards, mirroring the back half.",
+    "description": "This is an any-gauge pattern for frog eyes which can be sewn onto the top of a hat, balaclava, or headband."
+  },
+
+  "downloads": {
+    "links": [
+      "https://www.ravelry.com/download/2050921/free",
+      "https://payhip.com/b/lNzs2"
+    ]
+  },
+
+  "media": {
+    "images": [
+      "https://images4-f.ravelrycache.com/uploads/leedoesstuff/1095093551/2025-10-15_12.59.26_small2.jpg",
+      "https://images4-g.ravelrycache.com/uploads/leedoesstuff/1095093552/2025-10-15_13.03.20_small2.jpg",
+      "https://images4-g.ravelrycache.com/uploads/leedoesstuff/1095093563/2025-10-15_13.01.46_small2.jpg",
+      "https://images4-f.ravelrycache.com/uploads/leedoesstuff/1095093545/2025-10-15_13.00.16_small2.jpg"
+    ],
+    "charts_available": false
+  },
+
+  "provenance": {
+    "extracted_from": "1121.html",
+    "extraction_time": null,
+    "fields_confidence": null
+  }
+}

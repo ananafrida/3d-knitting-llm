@@ -1,0 +1,213 @@
+{
+  "title": "Poppy The Chicken",
+  "url": "https://www.ravelry.com/patterns/library/poppy-the-chicken",
+  "source": "ravelry",
+  "language": ["English"],
+  "license": null,
+  "attribution": {
+    "designer": "Jessica Reeves Potasz",
+    "publisher": "Mama In A Stitch",
+    "year": "2024"
+  },
+
+  "classification": {
+    "shape_category": ["softie"],
+    "construction_method": ["in_the_round","decreases"],
+    "attributes": [
+      "in-the-round",
+      "seamed",
+      "worked-flat"
+    ]
+  },
+
+  "materials": {
+    "suggested_yarns": [
+      {
+        "name": "Wool Ease Thick & Quick",
+        "brand": "Lion Brand",
+        "weight_cyc": "6",
+        "fiber": "80% Manufactured Fibers - Acrylic\n20% Wool",
+        "colorway": "oatmeal",
+        "yardage_per_skein": "106 yards (97 meters)",
+        "grams_per_skein": "170 grams (6.00 ounces)"
+      },
+      {
+        "name": "Hometown",
+        "brand": "Lion Brand",
+        "weight_cyc": "6",
+        "fiber": "100% Manufactured Fibers - Acrylic",
+        "colorway": "red, yellow",
+        "yardage_per_skein": "81 yards (74 meters)",
+        "grams_per_skein": "142 grams (5.01 ounces)"
+      }
+    ],
+    "needles": [
+      {
+        "us_size": "US 15",
+        "mm": 10.0,
+        "type": "circular",
+        "length_mm": 406.4
+      }
+    ],
+    "notions": ["small black safety eyes", "stuffing", "scissors", "tapestry needle", "measuring tape"]
+  },
+
+  "gauge": {
+    "stitches_per_10cm": 6,
+    "rows_per_10cm": 6,
+    "stitch_pattern": "stockinette"
+  },
+
+  "sizes": {
+    "sizes_available": ["One Size"],
+    "finished_dimensions": "6.5” wide x 8.5” long x 8” tall at crest"
+  },
+
+  "components": [
+    {
+      "name": "body",
+      "role": "core",
+      "order": "1",
+      "joins": ["With a length of yarn and your tapestry needle, close the opening at the top of the chicken. Sew with whip stitch seam from back to front working through one “leg” of each stitch on either side. Seam until there is approximately 2 inches left where the head will go. Don’t finish seaming until you’ve added the beak and eyes."],
+      "instructions": {
+        "as_text": "Square Base of Chicken\nCast on 10 sts\nRow 1 Knit each st across the row.\nRows 2 – 21 Repeat row 1, working knit stitches across each row.\nDo not cast off. You should have 10 stitches on your needles. Next, work the Chicken Body\nSection.\n\nChicken Body Section\nYou’ll now pick up stitches on each side of your square base. Pick up one stitch between each “ridge” of garter stitches, for a total of 10 stitches on each side. This will equal a total of 40 stitches around. (see photo)\n\nNext, knit in the round. Mark your first round if needed with a stitch marker.\n\nRound 1 Knit each st around.\nRepeat Round 1, knitting until entire piece measures approximately 9” inches from top to bottom\nwhen laid flat.\nCast off with a knit cast off.\n\nStuff Your Chicken\nHere’s the fun part!\nNext, fill your chicken evenly with stuffing ensuring that the shaping looks good. Your fat chicken shouldn’t look lumpy!\n\nSeam\nWith a length of yarn and your tapestry needle, close the opening at the top of the chicken. Sew with whip stitch seam from back to front working through one “leg” of each stitch on either side. Seam until there is approximately 2 inches left where the head will go. Don’t finish seaming until you’ve added the beak and eyes.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "square base of chicken",
+            "row_or_round": "row",
+            "count": 21,
+            "technique_tags": [],
+            "stitch_count_after": 10,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "chicken body section",
+            "row_or_round": "round",
+            "count": null,
+            "technique_tags": ["pick_up_stitches"],
+            "stitch_count_after": 40,
+            "chart_ref": null
+          },
+          {
+            "index": 3,
+            "howto_summary": "stuff the chicken and seam",
+            "row_or_round": null,
+            "count": null,
+            "technique_tags": [],
+            "stitch_count_after": null,
+            "chart_ref": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "beak",
+      "role": "attachment",
+      "order": "2",
+      "joins": [""],
+      "instructions": {
+        "as_text": "Beak\nLocate the center front of the chicken where the face will go when folded and seamed. Count 5 stitches down from the top. This is the stitch where you will create a knot for the beak. With your tapestry needle and a length of yellow yarn, work yarn from front to back of stitch. Tie a knot. Next, work each end of yellow yarn back into the fabric. (see photo)",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "beak",
+            "row_or_round": null,
+            "count": null,
+            "technique_tags": [],
+            "stitch_count_after": null,
+            "chart_ref": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "eyes",
+      "role": "detail",
+      "order": "3",
+      "joins": [""],
+      "instructions": {
+        "as_text": "Eyes\nFeel free to customize the eyes to your liking! You may choose any size, shape, or color. You may also use yarn rather than toy eyes. If your chicken is decorative, you have more flexibility with the eyes. If children will be playing with the chicken, black yarn should be used as the stitches are large and the safety eyes may come loose from the fabric. Place eyes just above, and to the side of the beak.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "eyes",
+            "row_or_round": null,
+            "count": null,
+            "technique_tags": [],
+            "stitch_count_after": null,
+            "chart_ref": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "crest",
+      "role": "attachment",
+      "order": "4",
+      "joins": ["With a length of red yarn and your tapestry needle, whip stitch the crest to the top of the chicken’s head seaming it lengthwise. Pull ends of yarn into the chicken body to finish."],
+      "instructions": {
+        "as_text": "Crest\nWith your red yarn, cast on 3 stitches.\nRow 1 Knit each st across the row.\nRow 2 Purl each st across the row.\nRows 3-4 Repeat rows, 1 and 2, in that order knitting stockinette.\nKnit cast off and weave in ends.\nWith a length of red yarn and your tapestry needle, whip stitch the crest to the top of the\nchicken’s head seaming it lengthwise. Pull ends of yarn into the chicken body to finish.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "crest",
+            "row_or_round": "row",
+            "count": 4,
+            "technique_tags": [],
+            "stitch_count_after": 3,
+            "chart_ref": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "wings (optional)",
+      "role": "attachment",
+      "order": "5",
+      "joins": ["With a measuring tape, measure 3” inches across from center front of bird and approximately 3.5” inches down from top of bird. This is where the top of the wing will be attached. Place stitch marker as needed to mark placement of wings. Seam the cast on edge vertically to the chicken. The shaped edge which had the decreases will be at the lower edge of the wing, running horizontally along the body. Whip stitch seam along the front cast on edge of the wing only."],
+      "instructions": {
+        "as_text": "\nYou may add wings here (see Wing Section), or you may add them once the chicken is\nseamed to better see the final shaping.\n\nWings (optional)\nWing 1\nCast on 6 sts\nRow 1 Knit each st across the row.\nRow 2 Knit each st across the row.\nRow 3 Purl each st across the row.\nRow 4 Knit each st across the row.\nRow 5 Purl each st across the row.\nRow 6 Knit each st across the row.\nRow 7 P2tog, p2tog, purl to end.\nRow 8 Knit across to last 2 sts, k2tog.\nRow 9 P2tog, purl last st.\nRow 10 K2tog\nCast off/tie off.\n\nWing 2\nCast on 6 sts\nRow 1 Knit each st across the row.\nRow 2 Knit each st across the row.\nRow 3 Purl each st across the row.\nRow 4 Knit each st across the row.\nRow 5 Purl each st across the row.\nRow 6 Knit each st across the row.\nRow 7 Purl across to last 4 sts, p2tog, p2tog.\nRow 8 K2tog, knit to end.\nRow 9 P, p2tog.\nRow 10 K2tog\nCast off/tie off.\n\nSeam Wings To Chicken\nWith a measuring tape, measure 3” inches across from center front of bird and approximately 3.5” inches down from top of bird. This is where the top of the wing will be attached. Place stitch marker as needed to mark placement of wings. Seam the cast on edge vertically to the chicken. The shaped edge which had the decreases will be at the lower edge of the wing, running\nhorizontally along the body. Whip stitch seam along the front cast on edge of the wing only.\nIf you’d like the wings to lay flatter against the body, you may stitch them back as well.\nCheck out the photos that shows the side of Poppy for a better\nview of the wing placement.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "wing",
+            "row_or_round": "row",
+            "count": 10,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 1,
+            "chart_ref": null
+          }
+        ]
+      }
+    }
+  ],
+
+  "text": {
+    "full_text": "Adorable Poppy the hen is ready to sit pretty in your house or be cuddled by your favorite little one! Add a touch of farm whimsy to any space and make her in any colors you like. This super easy pattern works up quickly and is simple enough for new knitters. Photos are also included to help you along. Pick your favorite yarn shade and go! If you’re careful with your yarn usage, you can get two chickens out of one skein of Lion Brand Wool Ease Thick & Quick (plus the yarn for the crest and beak). Materials: 1 skein Lion Brand Yarn Wool Ease Thick & Quick super bulky yarn in Oatmeal or preferred color for the body 170 g/skein & 106 yds/skein Pattern uses 85 g 1 skein Lion Brand Yarn Hometown USA super bulky #6 yarn in Tampa Spice (red) 1 skein Lion Brand Yarn Hometown USA super bulky #6 yarn in Madison Mustard (yellow) US Size 15 10.0mm, 16” inch circular knitting needles Small black safety eyes or black yarn for eyes (if being used by children) Fiber fill for stuffing (5-10 oz) Scissors Tapestry needle to seam and weave in ends Measuring Tape Finished Size (approximate): 6.5” wide x 8.5” long x 8” tall at crest Gauge: Not important for this pattern Pattern Notes: You will begin by knitting a flat square base for your chicken in garter stitch. Next, you’ll pick up stitches evenly around the base to knit the chicken in the round. You’ll simply knit until the specified height. The stuffing, beak, eyes and wings are then added. The chicken is closed up on the top with a simple whip stitch seam. There is no shaping in the pattern except for the wings (which are optional!). While this chicken has safety eyes, you may also use black yarn to create eyes. If Poppy will be around little ones or small children, black yarn secured tightly should be used for safety reasons. See the photos for additional assistance. Have fun! Abbreviations (US) & Skills: The chicken body section is knit in the round. You should know how to pick up stitches. (tutorials can be found online with a simple search) k – knit p – purl st – stitch sts – stitches K2tog – knit two stitches together (decrease) P2tog – purl two stitches together (decrease) Have fun!!",
+    "description": "Adorable Poppy the hen is ready to sit pretty in your house or be cuddled by your favorite little one!"
+  },
+
+  "downloads": {
+    "links": [
+      "https://www.mamainastitch.com/poppy-chicken-knitting-pattern/",
+      "https://www.etsy.com/listing/1703186688/poppy-the-chicken-knitting-pattern"
+    ]
+  },
+
+  "media": {
+    "images": [
+      "https://images4-g.ravelrycache.com/uploads/MamaInAStitch/989895007/Chicken_Knitting_Pattern_5_small2.jpg",
+      "https://images4-f.ravelrycache.com/uploads/MamaInAStitch/989895006/Chicken_Knitting_Pattern_4_small2.jpg",
+      "https://images4-f.ravelrycache.com/uploads/MamaInAStitch/989895005/Chicken_Knitting_Pattern_3_small2.jpg"
+    ],
+    "charts_available": false
+  },
+
+  "provenance": {
+    "extracted_from": "97.html",
+    "extraction_time": null,
+    "fields_confidence": null
+  }
+}

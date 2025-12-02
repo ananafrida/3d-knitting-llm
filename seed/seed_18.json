@@ -1,0 +1,115 @@
+{
+  "title": "Cheddar the Goldfish",
+  "url": "https://www.ravelry.com/patterns/library/cheddar-the-goldfish",
+  "source": "ravelry",
+  "language": ["English"],
+  "license": null,
+  "attribution": {
+    "designer": "Frances Gillespie",
+    "publisher": "Knitty",
+    "year": "2023"
+  },
+
+  "classification": {
+    "shape_category": ["softie"],
+    "construction_method": ["flat_seamed","increases","decreases"],
+    "attributes": [
+      "one-piece",
+      "seamed",
+      "worked-flat"
+    ]
+  },
+
+  "materials": {
+    "suggested_yarns": [
+      {
+        "name": "Classic Wool Worsted",
+        "brand": "Patons North America",
+        "weight_cyc": "4",
+        "fiber": "100% Wool",
+        "colorway": "Yellow or Teal Chalk or Soft Sprout or Softened Pansy, optional Black",
+        "yardage_per_skein": "194 yards (177 meters)",
+        "grams_per_skein": "100 grams (3.53 ounces)"
+      }
+    ],
+    "needles": [
+      {
+        "us_size": "US 9",
+        "mm": 5.5,
+        "type": "dpn",
+        "length_mm": null
+      }
+    ],
+    "notions": ["darning needle", "sewing needle", "matching thread", "catnip (5-10 grams)"]
+  },
+
+  "gauge": {
+    "stitches_per_10cm": 14,
+    "rows_per_10cm": 18,
+    "stitch_pattern": "stockinette"
+  },
+
+  "sizes": {
+    "sizes_available": ["One Size"],
+    "finished_dimensions": "5.75 inches / 19 cm long"
+  },
+
+  "components": [
+    {
+      "name": "body",
+      "role": "core",
+      "order": "1",
+      "joins": ["Fold him at the nose and loosely seam around using darning needle and same yarn. Leave a 2in opening at the back of the tail. Fasten off all yarn ends. You are now ready to felt your fishy. Place him in a mesh bag in your washing machine; set on extra small load and hot water, and add a tiny pinch of laundry detergent. Start the machine. Check every five minutes or so until it reaches the desired level of felting. (Be careful not to let it go through the spin cycle or he may get creases). Remove him from the bag and set him somewhere warm to dry. When he is dry, stuff him firmly with catnip, and sew him shut with matching thread. You may also need to secure any seams with needle and thread that did not completely close during felting. (See Figure 3). If you would like to add eyes and a mouth – and plan to supervise kitty while playing – you can embroider these on. I used French knots for eyes and running stitch for the mouth using CC. (See Figure 4)."],
+      "instructions": {
+        "as_text": "You will begin at the tail end and work in stockinette.\n\nUsing MC and your preferred method, CO 17 sts.\n\nRow 1 [RS]: K\nRow 2 [WS]: P\nRow 3: K1, k2tog, k to last 3 st, k2tog, k1. 2 sts decreased.\nRow 4: Purl.\nRows 5-10: Repeat Rows 3-4 three more times. 9 sts.\nRow 11: K1, RLI, k to last 2 sts, LLI, k1. 2 sts increased.\nRow 12: Purl.\nRows 13-16: Repeat Rows 11-12 two more times. 15 sts.\nRow 17: Knit.\nRow 18: P1, RLI, p to last 2 sts, LLI, p1. 17 sts.\nRows 19-24: Work 6 rows even in stockinette, starting with a RS/knit row.\n\nRow 25: K1, k2tog, k to last 3 st, k2tog, k1. 2 sts decreased.\nRow 26: P1, p2tog, p to last 3 st, p2tog, p1. 2 sts decreased.\nRows 27-30: Repeat Rows 25-26 2 more times. 5 sts.\n\nYou are now at the nose end and will continue, working in nose-to-tail direction to make Cheddar's second half.\n\nRow 31: Knit.\nRow 32: P1, RLI, p to last 2 sts, LLI, p1. 2 sts increased.\nRow 33: K1, RLI, k to last 2 sts, LLI, k1. 2 sts increased.\nRows 34-37: Repeat Rows 32-33 two more times. 17 sts.\n\nRows 38-43: Work 6 rows even in stockinette, starting with a WS/purl row.\nRow 44: P1, p2tog, p to last 3 sts, p2tog, p1. 15 sts.\nRow 45-46: Work 2 rows even in stockinette\nRow 47: K1, k2tog, k to last 3 sts, k2tog, k1. 2 sts decreased.\nRow 48: Purl.\nRows 49-52: Repeat Rows 47-48 two more times. 9 sts.\n\nRow 53: K1, RLI, k to last 2 sts, LLI, k1. 2 sts increased.\nRow 54: Purl.\nRows 55-60: Repeat Rows 53-54 3 more times. 17 sts.\n\nBind off. Cheddar will now look as in Figure 1.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "cast on and start from the tail end",
+            "row_or_round": "row",
+            "count": 30,
+            "technique_tags": ["increases", "decreases"],
+            "stitch_count_after": 5,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "knit the nose-to-tail second half",
+            "row_or_round": "row",
+            "count": 30,
+            "technique_tags": ["increases", "decreases"],
+            "stitch_count_after": 17,
+            "chart_ref": null
+          }
+        ]
+      }
+    }
+  ],
+
+  "text": {
+    "full_text": "Cheddar is a goldfish cat toy. Yes, that kind of goldfish, the ones Pepperidge Farm makes. He is without ornamentation for kitty safety, felted for durability and filled with catnip. He is a super easy knit, made in one piece and requiring only knowledge of knit and purl, increase and decrease. Please feel free to attach a stick and string to Cheddar if you would prefer one of those “fishing” type cat toys! Gauge is listed pre-felting. Other notions needed: darning needle, sewing needle, matching thread, catnip (5-10 grams)",
+    "description": "Cheddar is a goldfish cat toy."
+  },
+
+  "downloads": {
+    "links": [
+      "https://knitty.com/ISSUEw23/PATTcheddar/PATTcheddar.php"
+    ]
+  },
+
+  "media": {
+    "images": [
+      "https://knitty.com/ISSUEw23/PATTcheddar/images/cheddarTECH1.jpg",
+      "https://knitty.com/ISSUEw23/PATTcheddar/images/cheddarTECH2.jpg",
+      "https://knitty.com/ISSUEw23/PATTcheddar/images/cheddarTECH3.jpg",
+      "https://knitty.com/ISSUEw23/PATTcheddar/images/cheddarTECH4.jpg"
+    ],
+    "charts_available": false
+  },
+
+  "provenance": {
+    "extracted_from": "578.html",
+    "extraction_time": null,
+    "fields_confidence": null
+  }
+}

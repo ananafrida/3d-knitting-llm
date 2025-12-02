@@ -1,0 +1,39 @@
+You will begin at the tail end and work in stockinette.
+
+Using MC and your preferred method, CO 17 sts.
+
+Row 1 [RS]: K
+Row 2 [WS]: P
+Row 3: K1, k2tog, k to last 3 st, k2tog, k1. 2 sts decreased.
+Row 4: Purl.
+Rows 5-10: Repeat Rows 3-4 three more times. 9 sts.
+Row 11: K1, RLI, k to last 2 sts, LLI, k1. 2 sts increased.
+Row 12: Purl.
+Rows 13-16: Repeat Rows 11-12 two more times. 15 sts.
+Row 17: Knit.
+Row 18: P1, RLI, p to last 2 sts, LLI, p1. 17 sts.
+Rows 19-24: Work 6 rows even in stockinette, starting with a RS/knit row.
+
+Row 25: K1, k2tog, k to last 3 st, k2tog, k1. 2 sts decreased.
+Row 26: P1, p2tog, p to last 3 st, p2tog, p1. 2 sts decreased.
+Rows 27-30: Repeat Rows 25-26 2 more times. 5 sts.
+
+You are now at the nose end and will continue, working in nose-to-tail direction to make Cheddar's second half.
+
+Row 31: Knit.
+Row 32: P1, RLI, p to last 2 sts, LLI, p1. 2 sts increased.
+Row 33: K1, RLI, k to last 2 sts, LLI, k1. 2 sts increased.
+Rows 34-37: Repeat Rows 32-33 two more times. 17 sts.
+
+Rows 38-43: Work 6 rows even in stockinette, starting with a WS/purl row.
+Row 44: P1, p2tog, p to last 3 sts, p2tog, p1. 15 sts.
+Row 45-46: Work 2 rows even in stockinette
+Row 47: K1, k2tog, k to last 3 sts, k2tog, k1. 2 sts decreased.
+Row 48: Purl.
+Rows 49-52: Repeat Rows 47-48 two more times. 9 sts.
+
+Row 53: K1, RLI, k to last 2 sts, LLI, k1. 2 sts increased.
+Row 54: Purl.
+Rows 55-60: Repeat Rows 53-54 3 more times. 17 sts.
+
+Bind off. Cheddar will now look as in Figure 1.

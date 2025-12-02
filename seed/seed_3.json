@@ -1,0 +1,280 @@
+{
+  "title": "Round Neck Cardigan - 7283",
+  "url": "https://www.ravelry.com/patterns/library/round-neck-cardigan---7283",
+  "source": "ravelry",
+  "language": ["English"],
+  "license": null,
+  "attribution": {
+    "designer": "Yarnsmiths",
+    "publisher": "Wool Warehouse",
+    "year": 2025
+  },
+
+  "classification": {
+    "shape_category": ["flat"],
+    "construction_method": ["flat_seamed","increases","decreases"],
+    "attributes": [
+      "adult",
+      "bottom-up",
+      "buttoned",
+      "crew-neck",
+      "female",
+      "fitted",
+      "front-fastening",
+      "long-sleeve",
+      "positive-ease",
+      "raglan-sleeve",
+      "seamed",
+      "single-breasted",
+      "teen",
+      "worked-flat",
+      "written-pattern"
+    ]
+  },
+
+  "materials": {
+    "suggested_yarns": [
+      {
+        "name": "Yarnsmiths (UK) Merino Aran SW",
+        "brand": "Yarnsmiths",
+        "weight_cyc": "4",
+        "fiber": "100% Wool - Merino",
+        "colorway": "Chocolate Brown (4080)",
+        "yardage_per_skein": "82 yards (75 meters)",
+        "grams_per_skein": "50 grams (1.76 ounces)"
+      }
+    ],
+    "needles": [
+      {
+        "us_size": "US 5",
+        "mm": 3.75,
+        "type": "dpn",
+        "length_mm": null
+      },
+      {
+        "us_size": "US 7",
+        "mm": 4.5,
+        "type": "dpn",
+        "length_mm": null
+      }
+    ],
+    "notions": ["3.75mm & 4.5mm knitting needles", "8 buttons", "stitch holders"]
+  },
+
+  "gauge": {
+    "stitches_per_10cm": 18,
+    "rows_per_10cm": 24,
+    "stitch_pattern": "stockinette"
+  },
+
+  "sizes": {
+    "sizes_available": ["76 (81, 86, 91, 97, 102, 107, 112)cm / 30 (32, 34, 36, 38, 40, 42, 44)in"],
+    "finished_dimensions": "77 (84, 87, 91.5, 97, 102, 107, 112)cm / 30¼ (33, 34¼, 36, 38¼, 40, 42, 44)in"
+  },
+
+  "components": [
+    {
+      "name": "back",
+      "role": "core",
+      "order": "1",
+      "joins": [""],
+      "instructions": {
+        "as_text": "BACK\nUsing 3.75mm needles cast on 63\n(67, 71, 75, 81, 85, 89, 93) sts.\nRow 1 - K1, * P1, K1, rept from * to\nend.\nRow 2 - P1, * K1, P1, rept from * to\nend.\nRept the last 2 rows for 6.5 cm (2\n1/2 ins) finishing on a 1st row.\nNext row (inc row) - Rib 4 (6, 3,\n5, 4, 6, 8, 5), * inc in next st, rib 5 (5,\n6, 6, 7, 7, 7, 8), rept from * to last 5\n(7, 5, 7, 5, 7, 9, 7) sts, inc in next st,\nrib to end 73 (77, 81, 85, 91, 95, 99,\n103) sts.\nChange to 4.5mm needles.\nContinue in st st until work\nmeasures 34.5 (37, 38, 38, 38, 38,\n38, 38) cm 13 1/2 (14 1/2 , 15, 15, 15,\n15, 15, 15) ins from commencement\nfinishing on a P row.\nShape armholes\nCast off 3 (4, 4, 5, 5, 6, 6, 7) sts at\nbeg of next 2 rows.\n76 (81, 86, 91, 97, 102, 107) cm\n30 (32, 34, 36, 38, 40, 42) inch\nsizes only. Work 2 rows.\nNext row - K1, sl 1, K1, psso, K to\nlast 3sts, K2tog, K1.\nNext row - Purl.\nRept the last 4 rows 0 (0, 1, 2, 0, 0,\n0) times more. 65 (67, 69, 69, 79, 81,\n85) sts.\nAll sizes\nNext row - K1, sl 1, K1, psso, K to\nlast 3sts, K2tog, K1.\nNext row - Purl.\nRept the last 2 rows until 25 (25, 27,\n27, 27, 27, 29, 29) sts remain finishing\non a P row.\nSl sts onto a st holder. Break off\nyarn.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "cast on and increases",
+            "row_or_round": "row",
+            "count": 12,
+            "technique_tags": ["increases"],
+            "stitch_count_after": 73,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "shape armholes",
+            "row_or_round": "row",
+            "count": 46,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 25,
+            "chart_ref": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "left front",
+      "role": "core",
+      "order": "2",
+      "joins": [""],
+      "instructions": {
+        "as_text": "LEFT FRONT\nUsing 3.75mm needles, cast on 29\n(31, 33, 35, 39, 41, 43, 43) sts.\nWork 6.5 cm (2 1/2 ins) in rib as\ngiven for back finishing on a 1st row.\nNext row (inc row) - Rib 4 (3, 4,\n5, 5, 5, 6, 3), * inc in next st, rib 4 (5,\n5, 5, 8, 9, 9, 6), rept from * to last 5\n(4, 5, 6, 7, 6, 7, 5) sts, inc in next st,\nrib to end. 34 (36, 38, 40, 43, 45, 47,\n49) sts.\nChange to 4.5mm needles.\nContinue in st st until Front\nmeasures same as Back to armholes\nfinishing on a P row.\nShape armhole\nCast off 3 (4, 4, 5, 5, 6, 6, 7) sts at\nbeg of next row.\nWork 1 row.\n76 (81, 86, 91, 97, 102, 107) cm\n30 (32, 34, 36, 38, 40, 42) inch\nsizes only.\nWork 2 rows.\nNext row - K1, sl 1, K1, psso, K to\nend.\nNext row - Purl.\nRept the last 4 rows 0 (0, 1, 2, 0, 0,\n0) times more. 30 (31, 32, 32, 37, 38,\n40) sts.\nAll sizes\nNext row - K1, sl 1, K1, psso, K to\nend.\nNext row - Purl.\nRept the last 2 rows until 16 (17, 19,\n19, 20, 20, 21, 21) sts remain finishing\nat front edge.\nShape neck\n** Next row - Cast off 4 sts, work\nto end.\nDec 1 st at armhole edge as before\nat the same time dec 1 st at neck\nedge on every row until 6 (7, 7, 7, 8,\n8, 8, 8) sts remain.\nContinue to dec at armhole edge\nonly until 2 sts remain. K2tog.\nFasten off. **",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "cast on and increases",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": ["increases"],
+            "stitch_count_after": 34,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "shape armhole",
+            "row_or_round": "row",
+            "count": 20,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 16,
+            "chart_ref": null
+          },
+          {
+            "index": 3,
+            "howto_summary": "shape neck",
+            "row_or_round": "row",
+            "count": 11,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 2,
+            "chart_ref": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "right front",
+      "role": "core",
+      "order": "3",
+      "joins": [""],
+      "instructions": {
+        "as_text": "RIGHT FRONT\nWork as instructions given for left\nfront to armhole finishing on a K\nrow.\nShape armhole\nCast off 3 (4, 4, 5, 5, 6, 6, 7) sts at\nbeg of next row.\n76 (81, 86, 91, 97, 102, 107) cm\n30 (32, 34, 36, 38, 40, 42) inch\nsizes only.\nWork 2 rows.\nNext row - K to last 3 sts, K2tog,\nK1.\nNext row - Purl.\nRept the last 4 rows 0 (0, 1, 2, 0, 0,\n0) times more. 30 (31, 32, 32, 37, 38,\n40) sts.\nAll sizes\nNext row - K to last 3 sts, K2tog,\nK1.\nNext row - Purl.\nRept the last 2 rows until 16 (17, 19,\n19, 20, 20, 21, 21) sts remain finishing\nat front edge.\nShape neck\nWork from ** to ** of Left Front.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "cast on and increases",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": ["increases"],
+            "stitch_count_after": null,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "shape armhole",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 16,
+            "chart_ref": null
+          },
+          {
+            "index": 3,
+            "howto_summary": "shape neck",
+            "row_or_round": "row",
+            "count": 11,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 2,
+            "chart_ref": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "sleeves (both alike)",
+      "role": "core",
+      "order": "4",
+      "joins": [""],
+      "instructions": {
+        "as_text": "SLEEVES (both alike)\nUsing 3.75 mm needles, cast on 27\n(29, 29, 31, 31, 33, 33, 35) sts.\nWork 5 cm (2 ins) in rib as given for\nBack finishing on a 1st row.\nNext row (inc row) - Rib 4 (5, 5,\n4, 4, 4, 4, 5), * inc in next st, rib 5 (5,\n5, 6, 6, 7, 7, 7) rept from * to last 5\n(6, 6, 6, 6, 5, 5, 6) sts, inc in next st,\nrib to end. 31 (33, 33, 35, 35, 37, 37,\n39) sts.\nChange to 4.5mm needles.\nContinue in st st, inc 1 st at each\nend of the needle on the 5th and\nevery following 6th row until 47 (45,\n51, 49, 57, 59, 67, 69) sts are on the\nneedle.\n76 (81, 86, 91, 97, 102) cm 30\n(32, 34, 36, 38, 40) inch sizes\nonly.\nInc 1 st at each end of the needle on\nevery following 8th row until 55 (57,\n59, 61, 63, 65) sts are on the needle.\nAll sizes\nContinue without further inc until\nsleeve measures 42 (43, 44.5, 45.5,\n45.5, 45.5, 45.5, 45.5) cm 16 1/2 (17,\n17 1/2 , 18, 18, 18, 18, 18) ins from\ncommencement finishing on a P row.\nShape top\nCast off 3 (4, 4, 5, 5, 6, 6, 7) sts at\nbeg of next 2 rows.\nWork 2 rows.\n5th row - K1, sl 1, K1, psso, K to\nlast 3 sts, K2tog, K1.\n6th row - Purl.\nRept the last 4 rows 1 (2, 3, 5, 6, 7,\n7, 7) times more, then the 5th and\n6th rows only until 9 (9, 9, 9, 11, 11,\n11, 11) sts remain finishing on a P\nrow.\nSl sts onto a safety pin. Break off\nyarn.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "cast on and increases",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": ["increases"],
+            "stitch_count_after": null,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "shape armhole",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 16,
+            "chart_ref": null
+          },
+          {
+            "index": 3,
+            "howto_summary": "shape neck",
+            "row_or_round": "row",
+            "count": 11,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 2,
+            "chart_ref": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "making up",
+      "role": "detail",
+      "order": "5",
+      "joins": ["Pin sleeves into position, sew in by top sewing. Pin front bands into position, sew on by top sewing. Join side and sleeve seams by top sewing."],
+      "instructions": {
+        "as_text": "MAKING UP\nPin sleeves into position, sew in by\ntop sewing.\nLeft front band\nUsing 3.75mm needles cast on 9\nsts. Work in rib as given for Back\nuntil band is long enough when\nslightly stretched to fit up left front\nto commencement of neck shaping\nfinishing on a 2nd row.\nSl sts onto a safety pin. Break off\nyarn.\nMark positions for buttons on left\nfront band, the first one 4 rows\nfrom lower edge, allow for 1 in the\nneckband and 6 more equally spaced\nbetween.\nRight front band\nUsing 3.75mm needles cast on 9 sts.\nWork 4 rows in rib as given for\nback.\nNext row (buttonhole row) -\nRib 3, cast off 2, rib to end.\nNext row - Rib to end casting on 2\nsts over cast off sts.\nContinue in rib working buttonholes\nto correspond with positions\nmarked for buttons finishing on a\n2nd row.\nDo not break off yarn.\nNeckband\nWith right side facing, using 3.75mm\nneedles, rib 9 sts from right front\nband, pick up and K11 (13, 15, 15, 17,\n17, 17, 17) sts up right side neck, K9\n(9, 9, 9, 11, 11, 11, 11) sts from right\nsleeve top, 25 (25, 27, 27, 27, 27, 29,\n29) sts from back neck st holder, 9\n(9, 9, 9, 11, 11, 11, 11) sts from left\nsleeve top, pick up and K11 (13, 15,\n15, 17, 17, 17, 17) sts down left side\nneck and rib 9 sts from left front\nband. 83 (87, 93, 93, 101, 101, 103,\n103) sts.\nWork 7 rows in rib working a\nbuttonhole as before on the 4th and\n5th rows.\nCast off in rib.\nPin front bands into position, sew on\nby top sewing.\nJoin side and sleeve seams by top\nsewing.\nSew on buttons.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "left front band",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": [],
+            "stitch_count_after": null,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "right front band",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": [],
+            "stitch_count_after": null,
+            "chart_ref": null
+          },
+          {
+            "index": 3,
+            "howto_summary": "neckband",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": ["pick_up_stitches"],
+            "stitch_count_after": null,
+            "chart_ref": null
+          }
+        ]
+      }
+    }
+  ],
+
+  "text": {
+    "full_text": "To fit bust: 76 (81, 86, 91, 97, 102, 107, 112)cm 30 (32, 34, 36, 38, 40, 42, 44)“ Actual measurements: 77 (84, 87, 91.5, 97, 102, 107, 112)cm 30¼ (33, 34¼, 36, 38¼, 40, 42, 44)” Yarnsmiths Merino Aran Superwash 82yrds/75m (1.75oz/50g) Chocolate Brown (4080) - 11, 11, 14, 14, 14, 16, 16, 19 balls Knitting needles sizes 3.75mm and 4.5mm Tension: 18 stitches x 24 rows = 4” / 10cm in Stocking Stitch on 4.5mm needles 8 Buttons",
+    "description": "Round Neck Cardigan"
+  },
+
+  "downloads": {
+    "links": [
+      "https://www.woolwarehouse.co.uk/media/freepatterns/Yarnsmiths/Yarnsmiths%20-%207283%20-%20Round%20Neck%20Cardigan%20(downloadable%20PDF).pdf"
+    ]
+  },
+
+  "media": {
+    "images": ["https://www.woolwarehouse.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/y/s/ys_7283_dl_0.jpg"],
+    "charts_available": false
+  },
+
+  "provenance": {
+    "extracted_from": "1887.html",
+    "extraction_time": null,
+    "fields_confidence": null
+  }
+}

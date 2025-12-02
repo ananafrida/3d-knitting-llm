@@ -1,0 +1,155 @@
+{
+  "title": "Halloween flag bunting",
+  "url": "https://www.ravelry.com/patterns/library/halloween-flag-bunting",
+  "source": "ravelry",
+  "language": ["English", "Finnish"],
+  "license": null,
+  "attribution": {
+    "designer": "Amanda Steck",
+    "publisher": "The Purl Bug",
+    "year": "2018"
+  },
+
+  "classification": {
+    "shape_category": ["cone"],
+    "construction_method": ["modular", "top_down"],
+    "attributes": [
+      "one-piece",
+      "phototutorial",
+      "stripes-colorwork",
+      "top-down",
+      "triangle-shaped",
+      "worked-flat",
+      "written-pattern"
+    ]
+  },
+
+  "materials": {
+    "suggested_yarns": [
+      {
+        "name": "7 Veljestä",
+        "brand": "Novita",
+        "weight_cyc": "4",
+        "fiber": "75% Wool\n25% Manufactured Fibers - Nylon / Polyamide",
+        "colorway": null,
+        "yardage_per_skein": "219 yards (200 meters)",
+        "grams_per_skein": "100 grams (3.53 ounces)"
+      },
+      {
+        "name": "Wonder Wool DK",
+        "brand": "Novita",
+        "weight_cyc": "3",
+        "fiber": "100% Wool",
+        "colorway": null,
+        "yardage_per_skein": "246 yards (225 meters)",
+        "grams_per_skein": "100 grams (3.53 ounces)"
+      }
+    ],
+    "needles": [
+      {
+        "us_size": "US 6",
+        "mm": 4.0,
+        "type": "dpn",
+        "length_mm": null
+      }
+    ],
+    "notions": ["tapestry needle", "stitch markers (optional)", "row markers (optional)", "extra DPN"]
+  },
+
+  "gauge": [
+    {
+    "stitches_per_10cm": 22,
+    "rows_per_10cm": 44,
+    "stitch_pattern": "garter"
+    },
+    {
+      "stitches_per_10cm": 22,
+      "rows_per_10cm": 34,
+      "stitch_pattern": "stockinette"
+    }
+  ],
+
+  "sizes": {
+    "sizes_available": ["Triangle A: 13 x 13,5cm / 5 x 5,3”", "Triangle B: 13 x 8 cm / 5 x 3,14”", "Triangle C: 13 x 10,5 cm / 5 x 4”"],
+    "finished_dimensions": "Triangle A: 13 x 13,5cm / 5 x 5,3”\nTriangle B: 13 x 8 cm / 5 x 3,14”\nTriangle C: 13 x 10,5 cm / 5 x 4”"
+  },
+
+  "components": [
+    {
+      "name": "triangle",
+      "role": "core",
+      "order": "1",
+      "joins": [""],
+      "instructions": {
+        "as_text": "All triangles starts the same way:\nCast on 30 sts. Row 1: Knit all. Row 2: Slip first st purlwise without knitting it, keep the yarn in front of work. Knit until 1 st remains. Slip the last st purlwise without knitting it,keep the yarn in front of work. Row 3: K2, **Yo, K2tog, K1** repeat ** ** until the end of the row. Row 4: Slip first st purlwise without knitting it, keep the yarn in front of work. Purl until 1 st remains. Slip the last st purlwise without knitting it,keep the yarn in front of work.\nRow 5: Knit all sts.\nRow 6: Slip first st purlwise without knitting it, keep the yarn in front of work. Knit until 1 st remains. Slip the last st purlwise without knitting it,keep the yarn in front of work.\nTriangle A - Bigger garter stitch triangle : Row 7: K2, Skp, Knit until 4 sts remain. K2tog, K2.\nRow 8: Slip first and the last st purlwise without knitting it, keep the yarn in front of work. Knit all rest sts.\nRow 9: Knit all\nRow 10: Slip first and the last st purlwise without knitting it, keep the yarn in front of work. Knit all rest sts.\nRepeat Rows 7-10 until there are 6 sts remaining after Row 10: Right side: K1, Skp, K2tog, K1.\nWrong side: Slip first and the last st purlwise without knitting it, keep the yarn in front of work. Knit all rest sts. Right side: Skp, K2tog.\nWrong side: K2tog. Cut yarn and weave the ends.\nTriangle B - Smaller garter stitch triangle :\nRow 7: K2, Skp, Knit until 4 sts remain. K2tog, K2.\nRow 8: Slip first and the last st purlwise without knitting it, keep the yarn in front of work. Knit all rest sts. Repeat Rows 7 and 8 until there are 6 sts remaining after Row 8: Right side: K1, Skp, K2tog, K1.\nWrong side: Slip first and the last st purlwise without knitting it, keep the yarn in front of work. Knit all rest sts. Right side: Skp, K2tog.\nWrong side: K2tog. Cut yarn and weave the ends.\nTriangle C - Stockinette stitch triangle : Row 7: K2, Skp, Knit until 4 sts remain. K2tog, K2.\nRow 8: Slip first st purlwise without knitting it, keep the yarn in front of work. K2, purl until 3 sts remain. K2, Slip the last st purlwise without knitting it, keep the yarn in front of work. Repeat Rows 7 and 8 until there are 6 sts remaining after Row 8: Right side: K1, Skp, K2tog, K1.\nWrong side: Slip first and the last st purlwise without knitting it, keep the yarn in front of work. Knit all rest sts. Right side: Skp, K2tog.\nWrong side: K2tog. Cut yarn and weave the ends.\nColor variations:\nTriangle with horizontal lines has been knitted using Triangle A pattern. With color A knit the starting section. After that knit with color B the rows 7-8 and with color A the rows 9-10. Continue switching colors until the tip of the triangle.\nTriangle with vertical lines has been knitted using Triangle C pattern. With color A knit the starting section. Knit according to the pattern using color A for the first and last three sts of the row and altering color A and B every other st in the middle part. Remember to knit with the same color on both the right and wrong side.\nCreate as many triangles as you like and play with color. Pull string through the holes and there you have it!",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "cast on",
+            "row_or_round": "row",
+            "count": 6,
+            "technique_tags": [],
+            "stitch_count_after": 30,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "triangle A",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 6,
+            "chart_ref": null
+          },
+          {
+            "index": 3,
+            "howto_summary": "triangle B",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 6,
+            "chart_ref": null
+          },
+          {
+            "index": 3,
+            "howto_summary": "triangle C",
+            "row_or_round": "row",
+            "count": null,
+            "technique_tags": ["decreases"],
+            "stitch_count_after": 6,
+            "chart_ref": null
+          }
+        ]
+      }
+    }
+  ],
+
+  "text": {
+    "full_text": "This pattern includes instructions for three different sizes of triangles for decorative bunting.\nTriangles A and B are knitted in garter stitch and triangle C is knitted in stockinette stitch.\nAll triangles are knitted flat from top to triangle’s tip. And they all start the same way with the same stitch count and create the holes for the string.\nNote that the final size of each triangle is affected by the yarn weight.\n\nSize:\nTriangle A: 13 x 13,5cm / 5 x 5,3”\nTriangle B: 13 x 8 cm / 5 x 3,14”\nTriangle C: 13 x 10,5 cm / 5 x 4”\n\nNeedles:\n4 mm / 6 US DPN\n\nYarn:\nAny scrap yarn in DK / Worsted weight wool / mixed wool\n6-10 g per triangle\n100 g = 200-230m / 219-252 yds\n\nGauge\n22 sts, 44 rows, garter stitch = 10 x 10 cm / 4 x 4”\n22 sts, 34 rows stockinette stitch = 10 x 10 cm / 4 x 4”\n\nRequired Skills:\nCast on, purls and knits,\nyarn over, decreases: skp and 2tog, bind off.",
+    "description": "This pattern includes instructions for three different sizes of triangles for decorative bunting."
+  },
+
+  "downloads": {
+    "links": [
+      "https://www.ravelry.com/download/2051264/free",
+      "https://www.ravelry.com/download/2051263/free"
+    ]
+  },
+
+  "media": {
+    "images": [
+      "https://images4-g.ravelrycache.com/uploads/KaarnikkaDesign/1095186737/20251016_125301_small2.jpg",
+      "https://images4-f.ravelrycache.com/uploads/KaarnikkaDesign/1095186746/20251016_133334_small2.jpg",
+      "https://images4-f.ravelrycache.com/uploads/KaarnikkaDesign/1095186738/20251016_125253_small2.jpg",
+      "https://images4-f.ravelrycache.com/uploads/KaarnikkaDesign/1095186736/20251016_133109_small2.jpg",
+      "https://images4-f.ravelrycache.com/uploads/KaarnikkaDesign/1095186743/20251016_133115_small2.jpg"
+    ],
+    "charts_available": false
+  },
+
+  "provenance": {
+    "extracted_from": "https://www.ravelry.com/patterns/library/halloween-flag-bunting",
+    "extraction_time": null,
+    "fields_confidence": null
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Gevlochten Bal / Braided Ball",
+  "url": "https://www.ravelry.com/patterns/library/gevlochten-bal---braided-ball",
+  "source": "ravelry",
+  "language": ["English", "Dutch"],
+  "license": null,
+  "attribution": {
+    "designer": "Marleen Hartog",
+    "publisher": "Leentje's CreaCorner",
+    "year": "2008"
+  },
+
+  "classification": {
+    "shape_category": ["sphere"],
+    "construction_method": ["modular", "top_down"],
+    "attributes": [
+      "3-dimensional",
+      "phototutorial",
+      "seamed",
+      "sphere-shaped",
+      "worked-flat",
+      "written-pattern"
+    ]
+  },
+
+  "materials": {
+    "suggested_yarns": [
+      {
+        "name": "Saskia",
+        "brand": "Wibra",
+        "weight_cyc": "4",
+        "fiber": "100% Manufactured Fibers - Acrylic",
+        "colorway": null,
+        "yardage_per_skein": "262 yards (240 meters)",
+        "grams_per_skein": "100 grams (3.53 ounces)"
+      },
+      {
+        "name": "Royaal Acrylic",
+        "brand": "Zeeman",
+        "weight_cyc": "3",
+        "fiber": "100% Manufactured Fibers - Acrylic",
+        "colorway": null,
+        "yardage_per_skein": "264 yards (241 meters)",
+        "grams_per_skein": "100 grams (3.53 ounces)"
+      }
+    ],
+    "needles": [
+      {
+        "us_size": "US 4",
+        "mm": 3.5,
+        "type": "dpn",
+        "length_mm": null
+      }
+    ],
+    "notions": ["tapestry needle", "safety pins"]
+  },
+
+  "gauge":{
+    "stitches_per_10cm": null,
+    "rows_per_10cm": null,
+    "stitch_pattern": null
+  },
+
+  "sizes": {
+    "sizes_available": null,
+    "finished_dimensions": null
+  },
+
+  "components": [
+    {
+      "name": "ball",
+      "role": "core",
+      "order": "1",
+      "joins": ["But now we get to the tricky parts : the assembly of the ball.\nTry to imagine the ball as not really a ball, but a box, cube or dice. Two bands make the fronttop-back-bottom, two make the front-side-back-side and two make the side-top-side-bottom. If\nyou made two bands in 3 colours, divide them in pairs.\nIn the following pictures, I have tried to make the proces as visible as possible. To be on the\nsafe side, you can close the weaved band with a safety-pin first , and really close them when all\nbands are weaved in right. This closing is by the way being done by placing the bands woth\nthe wrong sides together, and make an overhand stitch. The seams are being worked away\nbelow the overlapping bands, so they won’t show. Just make sure they’re closed.\nFor clarity, I used only three colors for this\nexample. As you can see, the bands are relatively\nsmall here, because, ofcourse, paper does not\nnaturally curl. But after the curling, the length of\nthe bands is equal to the circumferance of the\nball. (or PI times the size), and the width should\nbe about 1/8 of this length. Simply a matter of trial\nand error. It would also be a good idea though, to\nfirst try and make a ball / box out of pieces of\npaper, just to get the hang of it.\n\nThe first two bands are the easy ones, and you can\nsafely already sew them togehter (don’t twist !!)\nShape and close them into two little bands, and\nput them in front of you. Make sure the don’t cross\non the backside.\nNow, take the next two bands, and weave them\ntrough the first two like you can see in the photo :\ntake band numer 3, weave it over 1, under 2, and\nant the backside over 2 and under 1. Weave band\nnumber 4 exactly alternating ; under 1, over 2, and\non the backside under 2 and over 1.\nMake sure they are not twisted or crossing\nanywhere, and sew them together when you are\ncertain they are in the correct position. You may\nhave to manouevre them a bit, as the knitted\nbands will not fold and stay in place as easily as\nthe paper, so check well !\nAnd now comes the hard part : take band numer 5\nand weave it around the bands you already fixed.\nStart at the top left, and weave it as in the picture :\nover 1, under 2 on the top, over 4 and under 3 on\nthe right side, over 2 and under 1 on the bottom\nand uver 3 and under 4 on the left side. You should\ncome out at the point where you started. Don’t\nclose it yet, because at this stage your ball will\nlook like a hopeless mess, just use a safetypin for\nthe time being, in case you need to fix things.\nNow, take band number 6 and start weaving it\nabove / next to band numer 5 in the opposite order: under 1, over 2 on the top, under 4 and over 3 at\nthe right side, under 2 and over 1 on the bottom,\nand under 3 and over 4 on the left side. Use a\nsafetypin again to see if it is in the correct\nposition. When you shape and kneed your ‘ball’\nlike a little square box, it should have 6 planes of 4x4 squares, and 8 corners where 3 squares\nmeet. The first time you did this, you will definitely have made a mistake somewhere, and\nusually in the last band. It will probably cross band 5 in one or more places. No worries, just\npull it out and try again. Once both bands 5 and 6 are definitely in the right location (and not\ntwisted !!) you can sew these ands together as well. \nNow you can mold your ball in the required shape, pull and slide the bands so that all seams\nand yarn-ends are inside (the ball) and invisible.\nThe curled and weaved bands will give the ball enough thickness and firmness, as long as it is\nnot too big (bulky yarn and needles no 5 and up will probable be too soft to stay in shape by\nitself) so you don’t need to stuff it. You can add a little bell or a rattle in the centre. If you use a\nbell and the ball is for a small child, make sure you tie it really really secure to the inside !! A\nplastic ball (like from a candymachine) filled with a bell or something that rattles will probably\nbe safer."],
+      "instructions": {
+        "full_text": "The knitting is the easiest part : take a few leftovers of about\n4-ply yarn. Six colours gives the best result, but makes it\nhard to see exactly how the ball was assembled. Three\ncolours make it easier for a first try. With all bands in the\nsame colour, you really need a bit of experience already.\nCast on 12 (minimal !) to 20 (best) stitches (the more\nstitches, the firmer the ball) on needles that are just a bit\nthinner then required for the yarn . Knit 68 rows in\nstockinette and cast off. Leave a long end of yarn for\nassembly. Knit 5 more bands.\nBecause you are working in stockinette, the edges of the\nbands will naturally curl and don’t need to be closed.",
+        "steps": [
+          {
+            "index": 1,
+            "howto_summary": "knit bands",
+            "row_or_round": "row",
+            "count": 68,
+            "technique_tags": [],
+            "stitch_count_after": 20,
+            "chart_ref": null
+          },
+          {
+            "index": 2,
+            "howto_summary": "assemble the ball",
+            "row_or_round": null,
+            "count": null,
+            "technique_tags": [],
+            "stitch_count_after": null,
+            "chart_ref": null
+          }
+        ]
+      }
+    }
+  ],
+
+  "text": {
+    "full_text": "This is a great pattern for leftovers of not too thin (or too thick) yarn. I stumbled upon this ball a few years back, but never found a pattern for it, so I decided to find out how it was made myself, from just a photo. Took me a few nights, but then I had it. I just finished the English translation of this pattern, and it is now available as a free Ravelry-download. Can be knitted in a few hours. Great project for children who just stated learning how to knit as well, although they need a bit of help assembling it. Can also be crocheted, with a little imagination. Update december 2012 : Raveller Cheryl Brunette has made a great instruction-video on how to assemble the ball on Youtube. I thought a picture said more then a thousand words, but a video definitely says more then a thousand pictures ! Find it here : http://www.youtube.com/watch?v=pZA_kgR9bGc&amp;feature=plcp",
+    "description": "A few years back in a Dutch craft-forum, a picture showed up of a knitted ball that looked very interesting and complicated, like it was knotted or braided. Ofcourse, no-one had the pattern and it was nowhere to be found, either at or outside the Internet. I ofcourse could not let it go by !So, during my vacation, I started knitting, trying,and puzzling to reproduce this ball as good as possible and…I actually succeeded on my first serious attempt ! It is basically the easiest pattern you´ve ever seen, but assembly can be a bit tricky and does require some technical insight."
+  },
+
+  "downloads": {
+    "links": [
+      "https://www.ravelry.com/download/21603/free",
+      "https://www.ravelry.com/download/42254/free"
+    ]
+  },
+
+  "media": {
+    "images": [
+      "https://images4-g.ravelrycache.com/uploads/L33ntj3/7153656/ballen_small.jpg",
+      "https://images4-f.ravelrycache.com/flickr/7/7/3/7736072822/7736072822_n.jpg",
+      "https://images4-f.ravelrycache.com/uploads/hjeronimus/60878294/IMG_4747_small2.JPG",
+      "https://images4-f.ravelrycache.com/uploads/hjeronimus/60878294/IMG_4747_small2.JPG",
+      "https://images4-g.ravelrycache.com/flickr/2/4/2/2421998024/2421998024_n.jpg"
+    ],
+    "charts_available": false
+  },
+
+  "provenance": {
+    "extracted_from": "1983.html",
+    "extraction_time": null,
+    "fields_confidence": null
+  }
+}
